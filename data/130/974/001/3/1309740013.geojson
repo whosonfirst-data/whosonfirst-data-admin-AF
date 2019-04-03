@@ -1,0 +1,74 @@
+{
+  "id": 1309740013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47149,33.10333,66.47149,33.10333",
+    "geom:latitude":33.10333,
+    "geom:longitude":66.47149,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Sarkol",
+    "gn:country_code":"AF",
+    "gn:dem":2487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126915,
+    "gn:latitude":33.10333,
+    "gn:longitude":66.47149,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sark\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fk\u014dl",
+        "Sar Kowl",
+        "Sark\u014dl",
+        "\u0633\u0631\u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126915
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08ebeb9222bfd1cdc686e96e5cf7ec5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1309740013,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1309740013,
+    "wof:lastmodified":1537580512,
+    "wof:name":"Sarkol",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47149,
+    33.10333,
+    66.47149,
+    33.10333
+],
+  "geometry": {"coordinates":[66.47149,33.10333],"type":"Point"}
+}

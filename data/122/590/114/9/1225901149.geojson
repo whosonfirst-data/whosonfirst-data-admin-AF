@@ -1,0 +1,71 @@
+{
+  "id": 1225901149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01351,36.09293,70.01351,36.09293",
+    "geom:latitude":36.09293,
+    "geom:longitude":70.01351,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205.0",
+    "gn:asciiname":"Hiwut",
+    "gn:country_code":"AF",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469334,
+    "gn:latitude":36.09293,
+    "gn:longitude":70.01351,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hiwut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0647\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6b34f5f1a59cd356bcff63ddf5a1084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1225901149,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1225901149,
+    "wof:lastmodified":1537583598,
+    "wof:name":"Hiwut",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01351,
+    36.09293,
+    70.01351,
+    36.09293
+],
+  "geometry": {"coordinates":[70.01351,36.09293],"type":"Point"}
+}

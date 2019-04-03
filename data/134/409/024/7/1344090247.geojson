@@ -1,0 +1,76 @@
+{
+  "id": 1344090247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43674,34.01041,66.43674,34.01041",
+    "geom:latitude":34.01041,
+    "geom:longitude":66.43674,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403",
+    "gn:asciiname":"Khar Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":2578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137035,
+    "gn:latitude":34.01041,
+    "gn:longitude":66.43674,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u1e5f Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kharb\u0113\u1e0f",
+        "Kharbed",
+        "Khar Bayd",
+        "Kharb\u012bd",
+        "Kha\u1e5f Bayd",
+        "\u062e\u0693 \u0628\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137035
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0a0bf4e4ba9bef17bc5dfd7d58d16389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1344090247,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1344090247,
+    "wof:lastmodified":1537581387,
+    "wof:name":"Khar Bayd",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43674,
+    34.01041,
+    66.43674,
+    34.01041
+],
+  "geometry": {"coordinates":[66.43674,34.01041],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343569747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.16624,34.83061,64.16624,34.83061",
+    "geom:latitude":34.83061,
+    "geom:longitude":64.16624,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Parkhin",
+    "gn:country_code":"AF",
+    "gn:dem":1858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131083,
+    "gn:latitude":34.83061,
+    "gn:longitude":64.16624,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Parkh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parkh\u012bn",
+        "\u067e\u0631\u062e\u06cc\u0646",
+        "Parkhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131083
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"546a03871eaebfbaa6dd3124e4e4532f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1343569747,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1343569747,
+    "wof:lastmodified":1537580894,
+    "wof:name":"Parkhin",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.16624,
+    34.83061,
+    64.16624,
+    34.83061
+],
+  "geometry": {"coordinates":[64.16624,34.83061],"type":"Point"}
+}

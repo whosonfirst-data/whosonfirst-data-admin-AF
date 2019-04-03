@@ -1,0 +1,75 @@
+{
+  "id": 1209917049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.50113,34.76126,64.50113,34.76126",
+    "geom:latitude":34.76126,
+    "geom:longitude":64.50113,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1904.0",
+    "gn:asciiname":"Darah Khushkak",
+    "gn:country_code":"AF",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144022,
+    "gn:latitude":34.76126,
+    "gn:longitude":64.50113,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah Khushkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0ea\u1e5f\u1e5fahkhuskak",
+        "Darrahkhushkak",
+        "Darah Khushkak",
+        "\u062f\u0631\u0647 \u062e\u0634\u06a9\u06a9",
+        "Darrehkhoshkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144022
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90d4e6591c78f1ed35be66b76f98fa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1209917049,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1209917049,
+    "wof:lastmodified":1537581969,
+    "wof:name":"Darah Khushkak",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.50113,
+    34.76126,
+    64.50113,
+    34.76126
+],
+  "geometry": {"coordinates":[64.50113,34.76126],"type":"Point"}
+}

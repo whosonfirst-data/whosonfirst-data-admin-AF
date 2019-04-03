@@ -1,0 +1,77 @@
+{
+  "id": 1293465515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59162,34.65923,70.59162,34.65923",
+    "geom:latitude":34.65923,
+    "geom:longitude":70.59162,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Janjah Pur",
+    "gn:country_code":"AF",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473897,
+    "gn:latitude":34.65923,
+    "gn:longitude":70.59162,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Janjah P\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u062c\u067e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dzhanzhapur",
+        "Janjap\u016b\u1e5f",
+        "Janjah P\u016br",
+        "\u062c\u0646\u062c\u0647 \u067e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76190b1d370ca9d3f6fe79efb63435ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1293465515,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293465515,
+    "wof:lastmodified":1537583769,
+    "wof:name":"Janjah Pur",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59161999999998,
+    34.65923,
+    70.59161999999998,
+    34.65923
+],
+  "geometry": {"coordinates":[70.59161999999998,34.65923],"type":"Point"}
+}

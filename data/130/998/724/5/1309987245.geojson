@@ -1,0 +1,75 @@
+{
+  "id": 1309987245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.92408,34.15152,61.92408,34.15152",
+    "geom:latitude":34.15152,
+    "geom:longitude":61.92408,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Pahrah",
+    "gn:country_code":"AF",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131302,
+    "gn:latitude":34.15152,
+    "gn:longitude":61.92408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pahrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pahra",
+        "Parah",
+        "Pahrah",
+        "\u067e\u0647\u0631\u0647",
+        "Pahreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131302
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c12e98db900e2ec28a2053f1ef90f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198931,
+            "locality_id":1309987245,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1309987245,
+    "wof:lastmodified":1537580909,
+    "wof:name":"Pahrah",
+    "wof:parent_id":421198931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.92408,
+    34.15152,
+    61.92408,
+    34.15152
+],
+  "geometry": {"coordinates":[61.92408,34.15152],"type":"Point"}
+}

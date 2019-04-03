@@ -1,0 +1,77 @@
+{
+  "id": 1193082081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74963,34.62513,70.74963,34.62513",
+    "geom:latitude":34.62513,
+    "geom:longitude":70.74963,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Shah Nur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473986,
+    "gn:latitude":34.62513,
+    "gn:longitude":70.74963,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h N\u016br K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101hn\u016br Kalay",
+        "Shakhnurkalay",
+        "Sh\u0101hn\u016br Kalay",
+        "Sh\u0101h N\u016br K\u00ealay",
+        "\u0634\u0627\u0647 \u0646\u0648\u0631 \u06a9\u0644\u06cc",
+        "S\u0101h N\u016br Kal\u0101",
+        "\u0633\u0627\u0647 \u0646\u0648\u0631 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473986
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09de0be7921745cb9579dca392828bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1193082081,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1193082081,
+    "wof:lastmodified":1537583775,
+    "wof:name":"Shah Nur Kelay",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74963000000002,
+    34.62513,
+    70.74963000000002,
+    34.62513
+],
+  "geometry": {"coordinates":[70.74963000000002,34.62513],"type":"Point"}
+}

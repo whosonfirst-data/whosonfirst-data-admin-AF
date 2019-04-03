@@ -1,0 +1,77 @@
+{
+  "id": 1276321623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.19738,33.05575,62.19738,33.05575",
+    "geom:latitude":33.05575,
+    "geom:longitude":62.19738,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Dahan-e Kaftardan",
+    "gn:country_code":"AF",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1144526,
+    "gn:latitude":33.05575,
+    "gn:longitude":62.19738,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e Kaftard\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u0654 \u0643\u0641\u062a\u0627\u0631\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dakhani-Kaftardan",
+        "Dahan-e Kaftard\u0101n",
+        "Dah\u0101n-e Kaftard\u0101n",
+        "\u062f\u0647\u0627\u0646 \u06a9\u0641\u062a\u0631\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144526
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec22ea279e90a9448a169cafdb8fe460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198905,
+            "locality_id":1276321623,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276321623,
+    "wof:lastmodified":1537582013,
+    "wof:name":"Dahan-e Kaftardan",
+    "wof:parent_id":421198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.19738,
+    33.05575,
+    62.19738,
+    33.05575
+],
+  "geometry": {"coordinates":[62.19738,33.05575],"type":"Point"}
+}

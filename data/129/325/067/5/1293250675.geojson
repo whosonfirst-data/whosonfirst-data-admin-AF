@@ -1,0 +1,73 @@
+{
+  "id": 1293250675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.04565,32.16475,66.04565,32.16475",
+    "geom:latitude":32.16475,
+    "geom:longitude":66.04565,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403.0",
+    "gn:asciiname":"Burnagh",
+    "gn:country_code":"AF",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146105,
+    "gn:latitude":32.16475,
+    "gn:longitude":66.04565,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Burn\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burnag",
+        "Burn\u0101gh",
+        "\u0628\u0631\u0646\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146105
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ba272ac4c39ee6c6836bb4c671728d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1293250675,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293250675,
+    "wof:lastmodified":1537582156,
+    "wof:name":"Burnagh",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.04565,
+    32.16475,
+    66.04565,
+    32.16475
+],
+  "geometry": {"coordinates":[66.04564999999999,32.16475],"type":"Point"}
+}

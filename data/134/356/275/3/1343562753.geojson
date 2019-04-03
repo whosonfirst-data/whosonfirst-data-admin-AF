@@ -1,0 +1,74 @@
+{
+  "id": 1343562753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38743,35.55839,68.38743,35.55839",
+    "geom:latitude":35.55839,
+    "geom:longitude":68.38743,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Jam-e Sayyid",
+    "gn:country_code":"AF",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139633,
+    "gn:latitude":35.55839,
+    "gn:longitude":68.38743,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jam-e Sayyid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamesaye\u1e0f",
+        "Jameseyyed",
+        "Jam-e Sayyid",
+        "\u062c\u0645 \u0633\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139633
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c293af19e79f9178abbf169bda03c4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1343562753,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343562753,
+    "wof:lastmodified":1537581594,
+    "wof:name":"Jam-e Sayyid",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38743000000001,
+    35.55839,
+    68.38743000000001,
+    35.55839
+],
+  "geometry": {"coordinates":[68.38743000000001,35.55839],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309850139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.72382,33.63881,69.72382,33.63881",
+    "geom:latitude":33.63881,
+    "geom:longitude":69.72382,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"706",
+    "gn:asciiname":"Sarmastay",
+    "gn:country_code":"AF",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126899,
+    "gn:latitude":33.63881,
+    "gn:longitude":69.72382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarmastay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631\u0645\u0633\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126899
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28217cd59be6f32e754fa8b207959628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562099,
+            "locality_id":1309850139,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1309850139,
+    "wof:lastmodified":1537580512,
+    "wof:name":"Sarmastay",
+    "wof:parent_id":1108562099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.72381999999999,
+    33.63881,
+    69.72381999999999,
+    33.63881
+],
+  "geometry": {"coordinates":[69.72381999999999,33.63881],"type":"Point"}
+}

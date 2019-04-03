@@ -1,0 +1,75 @@
+{
+  "id": 1293655879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69478,33.96369,68.69478,33.96369",
+    "geom:latitude":33.96369,
+    "geom:longitude":68.69478,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Kaj Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138733,
+    "gn:latitude":33.96369,
+    "gn:longitude":68.69478,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj Kalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadzhkalan",
+        "Kaj Qal\u2018ah",
+        "Kajkalan",
+        "Kaj Kalan",
+        "\u06a9\u062c \u06a9\u0644\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138733
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d6b4d22fc1d2ec7c1b0f4eaad8b5c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1293655879,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293655879,
+    "wof:lastmodified":1537581520,
+    "wof:name":"Kaj Kalan",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69478000000001,
+    33.96369,
+    68.69478000000001,
+    33.96369
+],
+  "geometry": {"coordinates":[68.69478000000001,33.96369],"type":"Point"}
+}

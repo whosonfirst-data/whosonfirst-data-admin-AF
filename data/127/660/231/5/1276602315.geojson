@@ -1,0 +1,73 @@
+{
+  "id": 1276602315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.56655,36.06735,67.56655,36.06735",
+    "geom:latitude":36.06735,
+    "geom:longitude":67.56655,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Almah Shakh",
+    "gn:country_code":"AF",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1148855,
+    "gn:latitude":36.06735,
+    "gn:longitude":67.56655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Almah Sh\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Almah Sh\u0101kh",
+        "\u0627\u0644\u0645\u0647 \u0634\u0627\u062e",
+        "Almashakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148855
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0ff1f7214cb8e331af369967b84c07fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1276602315,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276602315,
+    "wof:lastmodified":1537582370,
+    "wof:name":"Almah Shakh",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.56655,
+    36.06735,
+    67.56655,
+    36.06735
+],
+  "geometry": {"coordinates":[67.56655000000001,36.06735],"type":"Point"}
+}

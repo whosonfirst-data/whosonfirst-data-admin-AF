@@ -1,0 +1,73 @@
+{
+  "id": 1343312999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.63917,31.58945,67.63917,31.58945",
+    "geom:latitude":31.58945,
+    "geom:longitude":67.63917,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Rawizai",
+    "gn:country_code":"AF",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128468,
+    "gn:latitude":31.58945,
+    "gn:longitude":67.63917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Raw\u012bza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ravizay",
+        "Raw\u012bza\u012b",
+        "Rawizay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128468
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5c65083ea75a3d382b0fc35e83bbfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1343312999,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343312999,
+    "wof:lastmodified":1537580628,
+    "wof:name":"Rawizai",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.63917,
+    31.58945,
+    67.63917,
+    31.58945
+],
+  "geometry": {"coordinates":[67.63916999999999,31.58945],"type":"Point"}
+}

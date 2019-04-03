@@ -1,0 +1,71 @@
+{
+  "id": 1209475987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43586,32.19916,68.43586,32.19916",
+    "geom:latitude":32.19916,
+    "geom:longitude":68.43586,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Landay Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134840,
+    "gn:latitude":32.19916,
+    "gn:longitude":68.43586,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Landay K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landaykala",
+        "Laylizi",
+        "\u0644\u0646\u062f\u06cc \u06a9\u0644\u06cc",
+        "Layliz\u012b",
+        "Landay Kalay",
+        "\u0644\u06cc\u0644\u0632\u06cc",
+        "Landay K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2828f189e6a8f7b52dccade4c9e77697",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209475987
+        }
+    ],
+    "wof:id":1209475987,
+    "wof:lastmodified":1537581206,
+    "wof:name":"Landay Kelay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43585999999999,
+    32.19916,
+    68.43585999999999,
+    32.19916
+],
+  "geometry": {"coordinates":[68.43585999999999,32.19916],"type":"Point"}
+}

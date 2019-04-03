@@ -1,0 +1,75 @@
+{
+  "id": 1293639909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51931,32.92277,68.51931,32.92277",
+    "geom:latitude":32.92277,
+    "geom:longitude":68.51931,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902",
+    "gn:asciiname":"Sih Ganah",
+    "gn:country_code":"AF",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126506,
+    "gn:latitude":32.92277,
+    "gn:longitude":68.51931,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sih G\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikhgana",
+        "Sehg\u0101na",
+        "\u0633\u0647 \u06af\u0627\u0646\u0647",
+        "Sehg\u0101neh",
+        "Sih G\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126506
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5b25f0a3565042d6b35cf06ab7f989a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1293639909,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293639909,
+    "wof:lastmodified":1537580482,
+    "wof:name":"Sih Ganah",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51931,
+    32.92277,
+    68.51931,
+    32.92277
+],
+  "geometry": {"coordinates":[68.51931,32.92277],"type":"Point"}
+}

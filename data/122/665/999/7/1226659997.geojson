@@ -1,0 +1,73 @@
+{
+  "id": 1226659997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4343,37.60785,70.4343,37.60785",
+    "geom:latitude":37.60785,
+    "geom:longitude":70.4343,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Badman",
+    "gn:country_code":"AF",
+    "gn:dem":1823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467396,
+    "gn:latitude":37.60785,
+    "gn:longitude":70.4343,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101dm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101dm\u0101n",
+        "\u0628\u0627\u062f\u0645\u0627\u0646",
+        "B\u0101\u1e0fm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467396
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5bea9dd5c74b4e2344bb011138facc12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1226659997,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226659997,
+    "wof:lastmodified":1537583473,
+    "wof:name":"Badman",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4343,
+    37.60785,
+    70.4343,
+    37.60785
+],
+  "geometry": {"coordinates":[70.43429999999999,37.60785],"type":"Point"}
+}

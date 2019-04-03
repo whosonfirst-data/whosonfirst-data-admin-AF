@@ -1,0 +1,77 @@
+{
+  "id": 1209760457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23786,34.60202,70.23786,34.60202",
+    "geom:latitude":34.60202,
+    "geom:longitude":70.23786,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Shalah Tik",
+    "gn:country_code":"AF",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474592,
+    "gn:latitude":34.60202,
+    "gn:longitude":70.23786,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shalah \u1e6eik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160alatek",
+        "Shalatik",
+        "Shalatek",
+        "Shalah \u1e6eik",
+        "\u0634\u0644\u0647 \u067c\u06a9",
+        "Shalah Tik",
+        "\u0634\u0644\u0647 \u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"46231a89da210b27cb553ab6ffa87f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1209760457,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1209760457,
+    "wof:lastmodified":1537583817,
+    "wof:name":"Shalah Tik",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23786,
+    34.60202,
+    70.23786,
+    34.60202
+],
+  "geometry": {"coordinates":[70.23786,34.60202],"type":"Point"}
+}

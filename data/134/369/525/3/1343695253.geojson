@@ -1,0 +1,74 @@
+{
+  "id": 1343695253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24313,36.87656,66.24313,36.87656",
+    "geom:latitude":36.87656,
+    "geom:longitude":66.24313,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Kutanah Qar",
+    "gn:country_code":"AF",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135607,
+    "gn:latitude":36.87656,
+    "gn:longitude":66.24313,
+    "gn:modification_date":"2018-02-13",
+    "gn:name":"Kutanah Qar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotana Qar",
+        "Kotaneh Qar",
+        "Kutanah Qar",
+        "\u06a9\u062a\u0646\u0647 \u0642\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135607
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9db97898841a60c9331c8795bd65e39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561809,
+            "locality_id":1343695253,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1343695253,
+    "wof:lastmodified":1537581270,
+    "wof:name":"Kutanah Qar",
+    "wof:parent_id":1108561809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24313000000001,
+    36.87656,
+    66.24313000000001,
+    36.87656
+],
+  "geometry": {"coordinates":[66.24313000000001,36.87656],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226033859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.97713,32.31039,63.97713,32.31039",
+    "geom:latitude":32.31039,
+    "geom:longitude":63.97713,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Kishwar",
+    "gn:country_code":"AF",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137435,
+    "gn:latitude":32.31039,
+    "gn:longitude":63.97713,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kishwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ke\u0161war",
+        "Keshvar",
+        "Kishwar",
+        "\u06a9\u0634\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137435
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f1441858187feaf21c4137aa50dd9727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1226033859,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226033859,
+    "wof:lastmodified":1537581418,
+    "wof:name":"Kishwar",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.97713,
+    32.31039000000001,
+    63.97713,
+    32.31039000000001
+],
+  "geometry": {"coordinates":[63.97713,32.31039000000001],"type":"Point"}
+}

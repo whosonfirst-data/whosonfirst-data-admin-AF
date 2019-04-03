@@ -1,0 +1,78 @@
+{
+  "id": 1259630925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3255,34.21986,68.3255,34.21986",
+    "geom:latitude":34.21986,
+    "geom:longitude":68.3255,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Temurkhel",
+    "gn:country_code":"AF",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122468,
+    "gn:latitude":34.21986,
+    "gn:longitude":68.3255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0113murkh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Timurkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "T\u0113mu\u1e5fkh\u0113l",
+        "Taymur Kh\u0113l",
+        "Teym\u016brkheyl",
+        "T\u0113murkh\u0113l",
+        "\u062a\u06d0\u0645\u0631\u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122468
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8585eefbbf997c3c427e3d7d23ca67e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1259630925,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1259630925,
+    "wof:lastmodified":1537580116,
+    "wof:name":"Temurkhel",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3255,
+    34.21986,
+    68.3255,
+    34.21986
+],
+  "geometry": {"coordinates":[68.32550000000001,34.21986],"type":"Point"}
+}

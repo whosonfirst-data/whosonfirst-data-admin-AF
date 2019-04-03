@@ -1,0 +1,74 @@
+{
+  "id": 1260277037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.92263,32.13679,64.92263,32.13679",
+    "geom:latitude":32.13679,
+    "geom:longitude":64.92263,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Ferozay",
+    "gn:country_code":"AF",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473668,
+    "gn:latitude":32.13679,
+    "gn:longitude":64.92263,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ferozay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0113\u1e5f\u014dzay",
+        "F\u0113r\u014dza\u012b",
+        "\u0641\u06d0\u0631\u0648\u0632\u06cc",
+        "F\u012br\u016bzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b9925d3a7ebb78c8d31bdaa34bdf4e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1260277037,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1260277037,
+    "wof:lastmodified":1537583762,
+    "wof:name":"Ferozay",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.92263,
+    32.13679,
+    64.92263,
+    32.13679
+],
+  "geometry": {"coordinates":[64.92263,32.13679],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360179701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.26283,32.5084,62.26283,32.5084",
+    "geom:latitude":32.5084,
+    "geom:longitude":62.26283,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Showalga-ye Wasati",
+    "gn:country_code":"AF",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428206,
+    "gn:latitude":32.5084,
+    "gn:longitude":62.26283,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Show\u0101lg\u0101-ye Wasa\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shaval\u2019gakh-Vasati"
+    ],
+    "name:und_x_variant":[
+        "\u0160ow\u0101lg\u0101 Was\u0101\u0163\u012b",
+        "Sh\u0101h W\u0101lg\u0101 Was\u0101fi",
+        "Show\u0101lg\u0101-ye Wasa\u0163\u012b",
+        "\u0634\u0648\u0627\u0644\u06af\u0627 \u0648\u0633\u0637\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428206
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"691e38663c014904c303ec73e7588c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1360179701,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360179701,
+    "wof:lastmodified":1537582651,
+    "wof:name":"Showalga-ye Wasati",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.26283000000001,
+    32.5084,
+    62.26283000000001,
+    32.5084
+],
+  "geometry": {"coordinates":[62.26283000000001,32.5084],"type":"Point"}
+}

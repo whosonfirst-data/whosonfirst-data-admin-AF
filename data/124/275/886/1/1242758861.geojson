@@ -1,0 +1,74 @@
+{
+  "id": 1242758861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.73526,33.56282,62.73526,33.56282",
+    "geom:latitude":33.56282,
+    "geom:longitude":62.73526,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Khagish",
+    "gn:country_code":"AF",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137413,
+    "gn:latitude":33.56282,
+    "gn:longitude":62.73526,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101gish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101ge\u0161",
+        "Kh\u0101gesh",
+        "Kh\u0101gish",
+        "\u062e\u0627\u06af\u06cc\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137413
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"089ee62359619f0d65c6b2a3ebdc10b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1242758861,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242758861,
+    "wof:lastmodified":1537581417,
+    "wof:name":"Khagish",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.73526,
+    33.56282,
+    62.73526,
+    33.56282
+],
+  "geometry": {"coordinates":[62.73526,33.56282],"type":"Point"}
+}

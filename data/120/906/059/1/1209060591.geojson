@@ -1,0 +1,71 @@
+{
+  "id": 1209060591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.04487,34.32759,68.04487,34.32759",
+    "geom:latitude":34.32759,
+    "geom:longitude":68.04487,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Khalil Murdah",
+    "gn:country_code":"AF",
+    "gn:dem":2967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459084,
+    "gn:latitude":34.32759,
+    "gn:longitude":68.04487,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khal\u012bl Murdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khalil\u2019murda"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012blmu\u1e5f\u1e0fa",
+        "Khal\u012bl Murdah",
+        "Khal\u012blmordeh",
+        "\u062e\u0644\u06cc\u0644 \u0645\u0631\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ed054d5d2cd6db6ede7b7c71206d90a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209060591
+        }
+    ],
+    "wof:id":1209060591,
+    "wof:lastmodified":1537583289,
+    "wof:name":"Khalil Murdah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.04486999999999,
+    34.32759,
+    68.04486999999999,
+    34.32759
+],
+  "geometry": {"coordinates":[68.04486999999999,34.32759],"type":"Point"}
+}

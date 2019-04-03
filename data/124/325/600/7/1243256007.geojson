@@ -1,0 +1,75 @@
+{
+  "id": 1243256007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.27004,32.52864,62.27004,32.52864",
+    "geom:latitude":32.52864,
+    "geom:longitude":62.27004,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2111",
+    "gn:asciiname":"Dihishk",
+    "gn:country_code":"AF",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143519,
+    "gn:latitude":32.52864,
+    "gn:longitude":62.27004,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dihishk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehe\u0161k",
+        "Dekhishk",
+        "Deheshk",
+        "Dihishk",
+        "\u062f\u0647\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143519
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6d300a63c082e3196d2e88e223e43015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562369,
+            "locality_id":1243256007,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243256007,
+    "wof:lastmodified":1537581925,
+    "wof:name":"Dihishk",
+    "wof:parent_id":1108562369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.27004,
+    32.52864,
+    62.27004,
+    32.52864
+],
+  "geometry": {"coordinates":[62.27004,32.52864],"type":"Point"}
+}

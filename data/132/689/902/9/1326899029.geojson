@@ -1,0 +1,78 @@
+{
+  "id": 1326899029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.31401,31.5357,65.31401,31.5357",
+    "geom:latitude":31.5357,
+    "geom:longitude":65.31401,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Shah Swar",
+    "gn:country_code":"AF",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466447,
+    "gn:latitude":31.5357,
+    "gn:longitude":65.31401,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Sw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0633\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101hsw\u0101r",
+        "Shakhsvar",
+        "Sh\u0101h Sw\u0101r",
+        "\u0634\u0627\u0647 \u0633\u0648\u0627\u0631",
+        "Shahsav\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466447
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"913748ae77798d8adaad4a5fc1f1b5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1326899029,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326899029,
+    "wof:lastmodified":1537583427,
+    "wof:name":"Shah Swar",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.31401,
+    31.5357,
+    65.31401,
+    31.5357
+],
+  "geometry": {"coordinates":[65.31401,31.5357],"type":"Point"}
+}

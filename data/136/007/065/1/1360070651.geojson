@@ -1,0 +1,74 @@
+{
+  "id": 1360070651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.76587,32.97445,67.76587,32.97445",
+    "geom:latitude":32.97445,
+    "geom:longitude":67.76587,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Karezgay",
+    "gn:country_code":"AF",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435587,
+    "gn:latitude":32.97445,
+    "gn:longitude":67.76587,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113zgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113zgay",
+        "K\u0101r\u0113zgay",
+        "\u06a9\u0627\u0631\u06d0\u0632\u06af\u06cc",
+        "K\u0101r\u012bzgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435587
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"06cbaf540681a7c3e73d8bc9df824477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1360070651,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360070651,
+    "wof:lastmodified":1537582773,
+    "wof:name":"Karezgay",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.76586999999999,
+    32.97445,
+    67.76586999999999,
+    32.97445
+],
+  "geometry": {"coordinates":[67.76586999999999,32.97445],"type":"Point"}
+}

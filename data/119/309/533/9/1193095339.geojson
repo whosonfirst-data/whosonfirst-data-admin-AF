@@ -1,0 +1,75 @@
+{
+  "id": 1193095339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41957,31.64153,66.41957,31.64153",
+    "geom:latitude":31.64153,
+    "geom:longitude":66.41957,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Malik Khayro Karez",
+    "gn:country_code":"AF",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134150,
+    "gn:latitude":31.64153,
+    "gn:longitude":66.41957,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malik Khayr\u014d K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malik-Khayru-Karez",
+        "Malek Khay\u1e5fo K\u0101\u1e5f\u0113z",
+        "Malik Khayr\u014d K\u0101r\u0113z",
+        "\u0645\u0644\u06a9 \u062e\u06cc\u0631\u0648 \u06a9\u0627\u0631\u06d0\u0632",
+        "Malek Khayro K\u0101r\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134150
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f72dfc9e1c4b1a51d19ac1e1c86c538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1193095339,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1193095339,
+    "wof:lastmodified":1537581153,
+    "wof:name":"Malik Khayro Karez",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41957,
+    31.64153,
+    66.41957,
+    31.64153
+],
+  "geometry": {"coordinates":[66.41956999999999,31.64153],"type":"Point"}
+}

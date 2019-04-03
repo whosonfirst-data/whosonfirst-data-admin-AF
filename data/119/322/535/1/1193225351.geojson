@@ -1,0 +1,75 @@
+{
+  "id": 1193225351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74234,32.66769,66.74234,32.66769",
+    "geom:latitude":32.66769,
+    "geom:longitude":66.74234,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Tangay Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450076,
+    "gn:latitude":32.66769,
+    "gn:longitude":66.74234,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tangay K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangay-Kalay",
+        "Tanga\u012b K\u00ealay",
+        "\u062a\u0646\u06af\u06cc \u06a9\u0644\u06cc",
+        "Tangay Kalay",
+        "Tangay K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450076
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"994019588d5a1a3c3529294c97f60f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1193225351,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1193225351,
+    "wof:lastmodified":1537583037,
+    "wof:name":"Tangay Kelay",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74234,
+    32.66769,
+    66.74234,
+    32.66769
+],
+  "geometry": {"coordinates":[66.74234,32.66769],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210001943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09663,33.43536,67.09663,33.43536",
+    "geom:latitude":33.43536,
+    "geom:longitude":67.09663,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"605",
+    "gn:asciiname":"Fazil Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142193,
+    "gn:latitude":33.43536,
+    "gn:longitude":67.09663,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"F\u0101\u1e95il Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0101\u1e0f\u1e95elkh\u0113l",
+        "F\u0101\u1e95el Kheyl",
+        "F\u0101\u1e95il Kh\u0113l",
+        "\u0641\u0627\u0636\u0644 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142193
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b12f4b8c91c1767394a12b9841a0a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1210001943,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1210001943,
+    "wof:lastmodified":1537581808,
+    "wof:name":"Fazil Khel",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09663,
+    33.43536,
+    67.09663,
+    33.43536
+],
+  "geometry": {"coordinates":[67.09663,33.43536],"type":"Point"}
+}

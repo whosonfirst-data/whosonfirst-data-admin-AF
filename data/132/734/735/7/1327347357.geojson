@@ -1,0 +1,73 @@
+{
+  "id": 1327347357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15764,37.38642,70.15764,37.38642",
+    "geom:latitude":37.38642,
+    "geom:longitude":70.15764,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Dilgi",
+    "gn:country_code":"AF",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467559,
+    "gn:latitude":37.38642,
+    "gn:longitude":70.15764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dilg\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dilg\u012b",
+        "\u062f\u0644\u06af\u06cc",
+        "Delg\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467559
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f87669484fc2e4fcc0909b1d4e412143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1327347357,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327347357,
+    "wof:lastmodified":1537583487,
+    "wof:name":"Dilgi",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15764,
+    37.38642,
+    70.15764,
+    37.38642
+],
+  "geometry": {"coordinates":[70.15764,37.38642],"type":"Point"}
+}

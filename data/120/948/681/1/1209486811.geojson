@@ -1,0 +1,72 @@
+{
+  "id": 1209486811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92201,33.93949,68.92201,33.93949",
+    "geom:latitude":33.93949,
+    "geom:longitude":68.92201,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Baraki",
+    "gn:country_code":"AF",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147065,
+    "gn:latitude":33.93949,
+    "gn:longitude":68.92201,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baraki Rijan",
+        "Barak\u012b R\u0101j\u0101n",
+        "Baraki",
+        "Barqi R\u0101jan",
+        "Bar Rajan",
+        "Barak\u012b",
+        "\u0628\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147065,
+        "wk:page":"Baraki_Rajan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9776dc69dd4d2d9b3c1d1dfbf0a36ab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209486811
+        }
+    ],
+    "wof:id":1209486811,
+    "wof:lastmodified":1537582237,
+    "wof:name":"Baraki",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92201,
+    33.93949,
+    68.92201,
+    33.93949
+],
+  "geometry": {"coordinates":[68.92201,33.93949],"type":"Point"}
+}

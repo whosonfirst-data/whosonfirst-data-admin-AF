@@ -1,0 +1,75 @@
+{
+  "id": 1209066845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72388,36.79833,67.72388,36.79833",
+    "geom:latitude":36.79833,
+    "geom:longitude":67.72388,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614.0",
+    "gn:asciiname":"Baba Sadiq",
+    "gn:country_code":"AF",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147799,
+    "gn:latitude":36.79833,
+    "gn:longitude":67.72388,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u0101 \u015ead\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627 \u0635\u062f\u064a\u0642"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430-\u0421\u0430\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Baba-Sadik",
+        "Baba-Sadin",
+        "B\u0101ba Sed\u012bq",
+        "B\u0101b\u0101 \u015ead\u012bq",
+        "\u0628\u0627\u0628\u0627 \u0635\u062f\u06cc\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147799
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0815071fce73a81bb3c3bcb778d564b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209066845
+        }
+    ],
+    "wof:id":1209066845,
+    "wof:lastmodified":1537582296,
+    "wof:name":"Baba Sadiq",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72388000000001,
+    36.79833,
+    67.72388000000001,
+    36.79833
+],
+  "geometry": {"coordinates":[67.72388000000001,36.79833],"type":"Point"}
+}

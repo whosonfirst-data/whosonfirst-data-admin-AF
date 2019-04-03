@@ -1,0 +1,80 @@
+{
+  "id": 1343229247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3653,36.55496,69.3653,36.55496",
+    "geom:latitude":36.55496,
+    "geom:longitude":69.3653,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202",
+    "gn:asciiname":"Muhajirin",
+    "gn:country_code":"AF",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133115,
+    "gn:latitude":36.55496,
+    "gn:longitude":69.3653,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Muh\u0101jir\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0627\u062c\u0631\u064a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u0430\u0434\u0436\u0438\u0440\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Mokhadzhirin",
+        "Moh\u0101jer\u012bn",
+        "Muh\u0101jir\u012bn",
+        "\u0645\u0647\u0627\u062c\u0631\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133115
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a735b193e731965428acc4c9c9aee051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1343229247,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1343229247,
+    "wof:lastmodified":1537581068,
+    "wof:name":"Muhajirin",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3653,
+    36.55496,
+    69.3653,
+    36.55496
+],
+  "geometry": {"coordinates":[69.3653,36.55496],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1225792659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16429,34.08344,68.16429,34.08344",
+    "geom:latitude":34.08344,
+    "geom:longitude":68.16429,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Tirnawah",
+    "gn:country_code":"AF",
+    "gn:dem":2654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122496,
+    "gn:latitude":34.08344,
+    "gn:longitude":68.16429,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tirn\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ter N\u0101wah",
+        "Tirnava",
+        "Te\u1e5fn\u0101wa",
+        "T\u012brn\u0101wah",
+        "Tarn\u0101wah",
+        "Tirn\u0101wah",
+        "\u062a\u0631\u0646\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f4d2cec78cef147bb32580f71054e410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1225792659,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1225792659,
+    "wof:lastmodified":1537580118,
+    "wof:name":"Tirnawah",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16429000000001,
+    34.08344,
+    68.16429000000001,
+    34.08344
+],
+  "geometry": {"coordinates":[68.16429000000001,34.08344],"type":"Point"}
+}

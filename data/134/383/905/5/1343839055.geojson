@@ -1,0 +1,72 @@
+{
+  "id": 1343839055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.74649,33.56155,62.74649,33.56155",
+    "geom:latitude":33.56155,
+    "geom:longitude":62.74649,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Darah Put",
+    "gn:country_code":"AF",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439311,
+    "gn:latitude":33.56155,
+    "gn:longitude":62.74649,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah Put",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u0647 \u067e\u062a",
+        "Qaryeh-ye Darreh Pot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439311
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f4d513637c31de76a1139ba728e7dc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1343839055,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343839055,
+    "wof:lastmodified":1537582927,
+    "wof:name":"Darah Put",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.74649,
+    33.56155,
+    62.74649,
+    33.56155
+],
+  "geometry": {"coordinates":[62.74649,33.56155],"type":"Point"}
+}

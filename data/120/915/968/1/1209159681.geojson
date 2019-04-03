@@ -1,0 +1,69 @@
+{
+  "id": 1209159681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09104,34.82952,71.09104,34.82952",
+    "geom:latitude":34.82952,
+    "geom:longitude":71.09104,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Qarghan",
+    "gn:country_code":"AF",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451916,
+    "gn:latitude":34.82952,
+    "gn:longitude":71.09104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101rgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kargan",
+        "Q\u0101rgh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451916
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc6da6417f295cc5dd4504e42a4e0312",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209159681
+        }
+    ],
+    "wof:id":1209159681,
+    "wof:lastmodified":1537583079,
+    "wof:name":"Qarghan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09104,
+    34.82952,
+    71.09104,
+    34.82952
+],
+  "geometry": {"coordinates":[71.09104000000001,34.82952],"type":"Point"}
+}

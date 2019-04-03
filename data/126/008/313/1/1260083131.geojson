@@ -1,0 +1,74 @@
+{
+  "id": 1260083131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.80866,35.55423,63.80866,35.55423",
+    "geom:latitude":35.55423,
+    "geom:longitude":63.80866,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1905",
+    "gn:asciiname":"Ziarat-e Majnon Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120629,
+    "gn:latitude":35.55423,
+    "gn:longitude":63.80866,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u012b\u0101rat-e Majn\u014dn Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zy\u0101\u1e5fat-i-Majn\u014dn B\u0113\u1e0f",
+        "Z\u012b\u0101rat-e Majn\u014dn Bayd",
+        "\u0632\u06cc\u0627\u0631\u062a \u0645\u062c\u0646\u0648\u0646 \u0628\u06cc\u062f",
+        "Z\u012b\u0101rat-e Majn\u016bn B\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120629
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3fc32c0e78424b81fbad84a4af7646a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1260083131,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1260083131,
+    "wof:lastmodified":1537579957,
+    "wof:name":"Ziarat-e Majnon Bayd",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.80866,
+    35.55423,
+    63.80866,
+    35.55423
+],
+  "geometry": {"coordinates":[63.80866,35.55423],"type":"Point"}
+}

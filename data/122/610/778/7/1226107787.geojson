@@ -1,0 +1,72 @@
+{
+  "id": 1226107787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.84167,31.1,61.84167,31.1",
+    "geom:latitude":31.1,
+    "geom:longitude":61.84167,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Sher Ahmad Khan",
+    "gn:country_code":"AF",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436286,
+    "gn:latitude":31.1,
+    "gn:longitude":61.84167,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r A\u1e29mad Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113rahmadkh\u0101n",
+        "Sh\u0113r A\u1e29mad Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436286
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9abe71a6bb899c47afcfc2574e804e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1226107787,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1226107787,
+    "wof:lastmodified":1537582816,
+    "wof:name":"Sher Ahmad Khan",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.84166999999999,
+    31.1,
+    61.84166999999999,
+    31.1
+],
+  "geometry": {"coordinates":[61.84166999999999,31.1],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226321593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.11724,31.50782,64.11724,31.50782",
+    "geom:latitude":31.50782,
+    "geom:longitude":64.11724,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Panj Famili",
+    "gn:country_code":"AF",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425387,
+    "gn:latitude":31.50782,
+    "gn:longitude":64.11724,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Panj F\u0101m\u012bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062c \u0641\u0627\u0645\u064a\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Pandzhfamili",
+        "Panj Tam\u012bl\u012b",
+        "Panj F\u0101m\u012bl\u012b",
+        "\u067e\u0646\u062c \u0641\u0627\u0645\u06cc\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425387
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ff8e299523e39c497243c4a66237753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562295,
+            "locality_id":1226321593,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226321593,
+    "wof:lastmodified":1537582637,
+    "wof:name":"Panj Famili",
+    "wof:parent_id":1108562295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.11724,
+    31.50782,
+    64.11724,
+    31.50782
+],
+  "geometry": {"coordinates":[64.11724,31.50782],"type":"Point"}
+}

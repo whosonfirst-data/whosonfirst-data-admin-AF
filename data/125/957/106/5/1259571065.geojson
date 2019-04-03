@@ -1,0 +1,72 @@
+{
+  "id": 1259571065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33768,34.13009,63.33768,34.13009",
+    "geom:latitude":34.13009,
+    "geom:longitude":63.33768,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Khamsara",
+    "gn:country_code":"AF",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137181,
+    "gn:latitude":34.13009,
+    "gn:longitude":63.33768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khamsar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamsar\u0101",
+        "\u062e\u0645\u0633\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137181
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e5ed229a8cc46d7df7fd4b891913daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1259571065,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259571065,
+    "wof:lastmodified":1537581400,
+    "wof:name":"Khamsara",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33768000000001,
+    34.13009,
+    63.33768000000001,
+    34.13009
+],
+  "geometry": {"coordinates":[63.33768000000001,34.13009],"type":"Point"}
+}

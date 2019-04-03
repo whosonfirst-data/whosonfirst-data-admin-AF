@@ -1,0 +1,74 @@
+{
+  "id": 1226298709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14022,37.13729,69.14022,37.13729",
+    "geom:latitude":37.13729,
+    "geom:longitude":69.14022,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402",
+    "gn:asciiname":"Gharow",
+    "gn:country_code":"AF",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141415,
+    "gn:latitude":37.13729,
+    "gn:longitude":69.14022,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gha\u1e5faw (1)",
+        "Gharaw",
+        "Gharow",
+        "\u063a\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141415
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37a9e97f3b53905464462fb1dff7db16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1226298709,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1226298709,
+    "wof:lastmodified":1537581752,
+    "wof:name":"Gharow",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14022,
+    37.13729,
+    69.14022,
+    37.13729
+],
+  "geometry": {"coordinates":[69.14022,37.13729],"type":"Point"}
+}

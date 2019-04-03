@@ -1,0 +1,74 @@
+{
+  "id": 1193002651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3534,34.54244,66.3534,34.54244",
+    "geom:latitude":34.54244,
+    "geom:longitude":66.3534,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Mushki",
+    "gn:country_code":"AF",
+    "gn:dem":2953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456657,
+    "gn:latitude":34.54244,
+    "gn:longitude":66.3534,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mushk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u0161ki",
+        "Moshk\u012b",
+        "Mushk\u012b",
+        "\u0645\u0634\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456657
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0d79bfad9f79f1e14e6df0d5c6d45b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1193002651,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193002651,
+    "wof:lastmodified":1537583193,
+    "wof:name":"Mushki",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3534,
+    34.54244,
+    66.3534,
+    34.54244
+],
+  "geometry": {"coordinates":[66.35339999999999,34.54244],"type":"Point"}
+}

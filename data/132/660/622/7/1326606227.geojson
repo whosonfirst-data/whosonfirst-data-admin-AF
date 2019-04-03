@@ -1,0 +1,77 @@
+{
+  "id": 1326606227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89688,33.62783,68.89688,33.62783",
+    "geom:latitude":33.62783,
+    "geom:longitude":68.89688,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"507",
+    "gn:asciiname":"Merianay",
+    "gn:country_code":"AF",
+    "gn:dem":2657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133510,
+    "gn:latitude":33.62783,
+    "gn:longitude":68.89688,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u00ear\u012b\u0101nay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Mer\u2019yanay"
+    ],
+    "name:und_x_variant":[
+        "M\u00eary\u0101\u1e49\u0113",
+        "M\u0113ry\u0101\u1e49ay",
+        "M\u00ear\u012b\u0101nay",
+        "\u0645\u0631\u06cc\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133510
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e5a9017e3336856c93889abbe77a3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562151,
+            "locality_id":1326606227,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1326606227,
+    "wof:lastmodified":1537581101,
+    "wof:name":"Merianay",
+    "wof:parent_id":1108562151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89688000000001,
+    33.62783,
+    68.89688000000001,
+    33.62783
+],
+  "geometry": {"coordinates":[68.89688000000001,33.62783],"type":"Point"}
+}

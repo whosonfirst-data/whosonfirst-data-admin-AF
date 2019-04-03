@@ -1,0 +1,73 @@
+{
+  "id": 1344218187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54573,32.66516,68.54573,32.66516",
+    "geom:latitude":32.66516,
+    "geom:longitude":68.54573,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916",
+    "gn:asciiname":"Mir Khanay",
+    "gn:country_code":"AF",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133234,
+    "gn:latitude":32.66516,
+    "gn:longitude":68.54573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br Kh\u0101nay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mir-Khanay",
+        "\u0645\u06cc\u0631 \u062e\u0627\u0646\u06cc",
+        "M\u012br Kh\u0101nay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133234
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be9e905632cebbab21acf5b5e882326f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1344218187,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1344218187,
+    "wof:lastmodified":1537581079,
+    "wof:name":"Mir Khanay",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54573,
+    32.66516,
+    68.54573,
+    32.66516
+],
+  "geometry": {"coordinates":[68.54573000000001,32.66516],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276242433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38307,37.74136,70.38307,37.74136",
+    "geom:latitude":37.74136,
+    "geom:longitude":70.38307,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Lughman",
+    "gn:country_code":"AF",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467256,
+    "gn:latitude":37.74136,
+    "gn:longitude":70.38307,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lughm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lughm\u0101n",
+        "Loghm\u0101n",
+        "\u0644\u063a\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467256,
+        "wk:page":"Lughman"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d5630180427f599900bc0288adce5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562181,
+            "locality_id":1276242433,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276242433,
+    "wof:lastmodified":1537583460,
+    "wof:name":"Lughman",
+    "wof:parent_id":1108562181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38306999999998,
+    37.74136,
+    70.38306999999998,
+    37.74136
+],
+  "geometry": {"coordinates":[70.38306999999998,37.74136],"type":"Point"}
+}

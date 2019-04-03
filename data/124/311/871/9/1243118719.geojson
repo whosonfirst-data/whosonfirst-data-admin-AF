@@ -1,0 +1,72 @@
+{
+  "id": 1243118719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.76526,35.90691,66.76526,35.90691",
+    "geom:latitude":35.90691,
+    "geom:longitude":66.76526,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Sanjid",
+    "gn:country_code":"AF",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127481,
+    "gn:latitude":35.90691,
+    "gn:longitude":66.76526,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sanjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0646\u062c\u062f",
+        "Sanje\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127481
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"515fa14b0316408c8e072ebe093b231a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1243118719,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243118719,
+    "wof:lastmodified":1537580559,
+    "wof:name":"Sanjid",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.76526,
+    35.90691,
+    66.76526,
+    35.90691
+],
+  "geometry": {"coordinates":[66.76526,35.90691],"type":"Point"}
+}

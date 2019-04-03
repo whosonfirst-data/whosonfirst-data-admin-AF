@@ -1,0 +1,74 @@
+{
+  "id": 1209861519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81447,35.72292,67.81447,35.72292",
+    "geom:latitude":35.72292,
+    "geom:longitude":67.81447,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Hazarsum",
+    "gn:country_code":"AF",
+    "gn:dem":1966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140070,
+    "gn:latitude":35.72292,
+    "gn:longitude":67.81447,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rsum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hazar-Sum",
+        "Haz\u0101r Som",
+        "Haz\u0101rsum",
+        "\u0647\u0632\u0627\u0631\u0633\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140070
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e228e2a3ec7f49034614bf2e4718aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1209861519,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1209861519,
+    "wof:lastmodified":1537581628,
+    "wof:name":"Hazarsum",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81447,
+    35.72292,
+    67.81447,
+    35.72292
+],
+  "geometry": {"coordinates":[67.81447,35.72292],"type":"Point"}
+}

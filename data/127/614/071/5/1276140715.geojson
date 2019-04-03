@@ -1,0 +1,75 @@
+{
+  "id": 1276140715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.66633,34.30374,64.66633,34.30374",
+    "geom:latitude":34.30374,
+    "geom:longitude":64.66633,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Dahan-Manar",
+    "gn:country_code":"AF",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144321,
+    "gn:latitude":34.30374,
+    "gn:longitude":64.66633,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-Man\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhanmanar",
+        "\u1e0eahan-man\u0101\u1e5f",
+        "Dahan Men\u0101r",
+        "Dah\u0101n-Man\u0101r",
+        "\u062f\u0647\u0627\u0646 \u0645\u0646\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144321
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9fab38893d484a3d143c470e30084e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1276140715,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276140715,
+    "wof:lastmodified":1537581988,
+    "wof:name":"Dahan-Manar",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.66633,
+    34.30374,
+    64.66633,
+    34.30374
+],
+  "geometry": {"coordinates":[64.66633,34.30374],"type":"Point"}
+}

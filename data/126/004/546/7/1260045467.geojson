@@ -1,0 +1,68 @@
+{
+  "id": 1260045467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.96614,30.85612,61.96614,30.85612",
+    "geom:latitude":30.85612,
+    "geom:longitude":61.96614,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Yakhdan",
+    "gn:country_code":"AF",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1435990,
+    "gn:latitude":30.85612,
+    "gn:longitude":61.96614,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakhd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435990
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0088f6e77c2767c10cbd68ba85b98f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1260045467,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1260045467,
+    "wof:lastmodified":1537041184,
+    "wof:name":"Yakhdan",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.96614,
+    30.85612,
+    61.96614,
+    30.85612
+],
+  "geometry": {"coordinates":[61.96614,30.85612],"type":"Point"}
+}

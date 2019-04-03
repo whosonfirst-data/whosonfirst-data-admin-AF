@@ -1,0 +1,79 @@
+{
+  "id": 1226241589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.9071,35.32018,67.9071,35.32018",
+    "geom:latitude":35.32018,
+    "geom:longitude":67.9071,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Dasht-e Safed",
+    "gn:country_code":"AF",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143808,
+    "gn:latitude":35.32018,
+    "gn:longitude":67.9071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht-e Saf\u0113d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qala Dasht-i-Safed",
+        "Daste Saf\u0113\u1e0f",
+        "Dasht-i-Safed",
+        "Dasht-e Saf\u0113d",
+        "\u1e0easht Saf\u0113d",
+        "Dasht-e Sef\u012bd",
+        "Dasht-e Safayd",
+        "\u062f\u0634\u062a \u0633\u0641\u06d0\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143808,
+        "wk:page":"Dasht-e_Sefid"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0a72892f3bf25beb7ddbf0475a5ab5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1226241589,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226241589,
+    "wof:lastmodified":1537581951,
+    "wof:name":"Dasht-e Safed",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.9071,
+    35.32018,
+    67.9071,
+    35.32018
+],
+  "geometry": {"coordinates":[67.9071,35.32018],"type":"Point"}
+}

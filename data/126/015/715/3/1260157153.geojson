@@ -1,0 +1,72 @@
+{
+  "id": 1260157153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26989,34.13593,69.26989,34.13593",
+    "geom:latitude":34.13593,
+    "geom:longitude":69.26989,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Kupak",
+    "gn:country_code":"AF",
+    "gn:dem":2223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468879,
+    "gn:latitude":34.13593,
+    "gn:longitude":69.26989,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kupak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopak",
+        "\u06a9\u067e\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468879
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34466a3567a1d4fe7ab2de80e720b10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1260157153,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1260157153,
+    "wof:lastmodified":1537583573,
+    "wof:name":"Kupak",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26989,
+    34.13593,
+    69.26989,
+    34.13593
+],
+  "geometry": {"coordinates":[69.26989,34.13593],"type":"Point"}
+}

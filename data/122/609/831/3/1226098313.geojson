@@ -1,0 +1,73 @@
+{
+  "id": 1226098313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.40899,31.55949,65.40899,31.55949",
+    "geom:latitude":31.55949,
+    "geom:longitude":65.40899,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Digaran",
+    "gn:country_code":"AF",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466579,
+    "gn:latitude":31.55949,
+    "gn:longitude":65.40899,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Digar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Digar\u0101n",
+        "\u062f\u06af\u0631\u0627\u0646",
+        "Degar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466579
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da5767fa47fa3e1917a5d09792eba9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1226098313,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226098313,
+    "wof:lastmodified":1537583432,
+    "wof:name":"Digaran",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.40899,
+    31.55949,
+    65.40899,
+    31.55949
+],
+  "geometry": {"coordinates":[65.40899,31.55949],"type":"Point"}
+}

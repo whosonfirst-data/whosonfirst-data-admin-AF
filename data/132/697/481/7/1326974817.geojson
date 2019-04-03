@@ -1,0 +1,72 @@
+{
+  "id": 1326974817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30063,34.53202,70.30063,34.53202",
+    "geom:latitude":34.53202,
+    "geom:longitude":70.30063,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Qal'ah-ye Najaran",
+    "gn:country_code":"AF",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534796,
+    "gn:latitude":34.53202,
+    "gn:longitude":70.30063,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Naj\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018ah-ye Naj\u0101r\u0101n",
+        "\u0642\u0644\u0639\u06c0 \u0646\u062c\u0627\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534796
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5397049b1258f8628f8bfd86ab01187e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1326974817,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1326974817,
+    "wof:lastmodified":1537583944,
+    "wof:name":"Qal'ah-ye Najaran",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30063,
+    34.53202,
+    70.30063,
+    34.53202
+],
+  "geometry": {"coordinates":[70.30063,34.53202],"type":"Point"}
+}

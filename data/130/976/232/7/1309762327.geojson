@@ -1,0 +1,75 @@
+{
+  "id": 1309762327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.87921,31.77512,64.87921,31.77512",
+    "geom:latitude":31.77512,
+    "geom:longitude":64.87921,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Sang Bur",
+    "gn:country_code":"AF",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127652,
+    "gn:latitude":31.77512,
+    "gn:longitude":64.87921,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang Bur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangbar",
+        "Sang Bur",
+        "Sangbur",
+        "\u0633\u0646\u06af \u0628\u0631",
+        "Sangbor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127652
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"382d7242902eb3b7033d112a7f7e6f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1309762327,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309762327,
+    "wof:lastmodified":1537580570,
+    "wof:name":"Sang Bur",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.87921,
+    31.77512,
+    64.87921,
+    31.77512
+],
+  "geometry": {"coordinates":[64.87921,31.77512],"type":"Point"}
+}

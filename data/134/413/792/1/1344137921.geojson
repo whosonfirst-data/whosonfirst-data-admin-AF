@@ -1,0 +1,74 @@
+{
+  "id": 1344137921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.18496,34.18268,63.18496,34.18268",
+    "geom:latitude":34.18268,
+    "geom:longitude":63.18496,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012.0",
+    "gn:asciiname":"Abkhanah",
+    "gn:country_code":"AF",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1149515,
+    "gn:latitude":34.18268,
+    "gn:longitude":63.18496,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100bkh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0100bkh\u0101na",
+        "\u0100b Kh\u0101neh",
+        "\u0100bkh\u0101nah",
+        "\u0622\u0628 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149515
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21f64dfb3dd0173f546e774ce5296e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1344137921,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1344137921,
+    "wof:lastmodified":1537582424,
+    "wof:name":"Abkhanah",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.18496,
+    34.18268,
+    63.18496,
+    34.18268
+],
+  "geometry": {"coordinates":[63.18496,34.18268],"type":"Point"}
+}

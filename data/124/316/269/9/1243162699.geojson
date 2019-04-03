@@ -1,0 +1,83 @@
+{
+  "id": 1243162699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89755,33.2706,67.89755,33.2706",
+    "geom:latitude":33.2706,
+    "geom:longitude":67.89755,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Qaryah-ye Paytow",
+    "gn:country_code":"AF",
+    "gn:dem":2644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129490,
+    "gn:latitude":33.2706,
+    "gn:longitude":67.89755,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Paytow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u067e\u06cc\u062a\u0627\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u044c\u044f\u0439\u0438-\u041f\u0435\u0442\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kar\u2019yayi-Petau",
+        "Qa\u1e5fya-i-P\u0113taw",
+        "Qaryeh-e P\u0113taw",
+        "Qaryeh-ye P\u0113taw",
+        "Qaryah-ye Paytow",
+        "\u0642\u0631\u06cc\u06c0 \u067e\u06cc\u062a\u0648",
+        "\u0642\u0631\u064a\u06c0 \u067e\u06cc\u062a\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f17930f10028cd0201ed14c63b40060f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1243162699,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243162699,
+    "wof:lastmodified":1537580733,
+    "wof:name":"Qaryah-ye Paytow",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89755,
+    33.2706,
+    67.89755,
+    33.2706
+],
+  "geometry": {"coordinates":[67.89755,33.2706],"type":"Point"}
+}

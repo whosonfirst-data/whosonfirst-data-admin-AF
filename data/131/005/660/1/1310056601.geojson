@@ -1,0 +1,74 @@
+{
+  "id": 1310056601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.10869,32.46621,67.10869,32.46621",
+    "geom:latitude":32.46621,
+    "geom:longitude":67.10869,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Bighasti",
+    "gn:country_code":"AF",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146434,
+    "gn:latitude":32.46621,
+    "gn:longitude":67.10869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bigh\u0101st\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bigasti",
+        "Bigh\u0101st\u012b",
+        "\u0628\u063a\u0627\u0633\u062a\u06cc",
+        "Bigh\u0101sti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146434
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db049f12448dc8089723b1d06a0ed9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1310056601,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310056601,
+    "wof:lastmodified":1537582184,
+    "wof:name":"Bighasti",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.10869,
+    32.46621,
+    67.10869,
+    32.46621
+],
+  "geometry": {"coordinates":[67.10869,32.46621],"type":"Point"}
+}

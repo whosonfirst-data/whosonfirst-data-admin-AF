@@ -1,0 +1,74 @@
+{
+  "id": 1293573611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.99091,33.63039,63.99091,33.63039",
+    "geom:latitude":33.63039,
+    "geom:longitude":63.99091,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2704",
+    "gn:asciiname":"Shorgahak",
+    "gn:country_code":"AF",
+    "gn:dem":1969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1124750,
+    "gn:latitude":33.63039,
+    "gn:longitude":63.99091,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014drgahak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "S\u0304\u014d\u1e5fgahak",
+        "Sh\u014drgahak",
+        "\u0634\u0648\u0631\u06af\u0647\u06a9",
+        "Sh\u016brgahak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124750
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"302b222b666aa78b0d080c76d6fff477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1293573611,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293573611,
+    "wof:lastmodified":1537580325,
+    "wof:name":"Shorgahak",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.99091,
+    33.63039000000001,
+    63.99091,
+    33.63039000000001
+],
+  "geometry": {"coordinates":[63.99091,33.63039000000001],"type":"Point"}
+}

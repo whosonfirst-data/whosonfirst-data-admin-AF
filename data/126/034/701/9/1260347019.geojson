@@ -1,0 +1,75 @@
+{
+  "id": 1260347019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.67399,31.17403,66.67399,31.17403",
+    "geom:latitude":31.17403,
+    "geom:longitude":66.67399,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Karwarah",
+    "gn:country_code":"AF",
+    "gn:dem":1881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465744,
+    "gn:latitude":31.17403,
+    "gn:longitude":66.67399,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karwa\u1e5fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e5fwara",
+        "Karvara",
+        "Karwarah",
+        "Karwa\u1e5fah",
+        "\u06a9\u0631\u0648\u0693\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465744
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d870b037ba5d16e89fab5e52e4d53c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1260347019,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260347019,
+    "wof:lastmodified":1537583407,
+    "wof:name":"Karwarah",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.67399,
+    31.17403,
+    66.67399,
+    31.17403
+],
+  "geometry": {"coordinates":[66.67399,31.17403],"type":"Point"}
+}

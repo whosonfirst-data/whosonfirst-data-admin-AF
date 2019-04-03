@@ -1,0 +1,75 @@
+{
+  "id": 1310555627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79385,34.44935,67.79385,34.44935",
+    "geom:latitude":34.44935,
+    "geom:longitude":67.79385,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Ghowchak",
+    "gn:country_code":"AF",
+    "gn:dem":2817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460127,
+    "gn:latitude":34.44935,
+    "gn:longitude":67.79385,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghowchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gauchak",
+        "Ghaw\u010dak",
+        "Gh\u0101bchak",
+        "Ghowchak",
+        "\u063a\u0648\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460127
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a01a9d0fa46e0cd8b1fd5293a0914d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1310555627,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310555627,
+    "wof:lastmodified":1537583302,
+    "wof:name":"Ghowchak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79385,
+    34.44935,
+    67.79385,
+    34.44935
+],
+  "geometry": {"coordinates":[67.79385000000001,34.44935],"type":"Point"}
+}

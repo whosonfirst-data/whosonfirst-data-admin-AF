@@ -1,0 +1,74 @@
+{
+  "id": 1343291737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37215,33.23021,66.37215,33.23021",
+    "geom:latitude":33.23021,
+    "geom:longitude":66.37215,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Barquli",
+    "gn:country_code":"AF",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146853,
+    "gn:latitude":33.23021,
+    "gn:longitude":66.37215,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101rq\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101\u1e5fq\u016bli",
+        "B\u0101\u1e5fqowl\u012b",
+        "B\u0101rq\u016bl\u012b",
+        "\u0628\u0627\u0631\u0642\u0648\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146853
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b30b504c2c5c6b6c84a97a5bd12a7e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1343291737,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1343291737,
+    "wof:lastmodified":1537582218,
+    "wof:name":"Barquli",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37215,
+    33.23021,
+    66.37215,
+    33.23021
+],
+  "geometry": {"coordinates":[66.37215,33.23021],"type":"Point"}
+}

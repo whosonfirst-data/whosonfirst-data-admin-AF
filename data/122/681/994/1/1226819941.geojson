@@ -1,0 +1,78 @@
+{
+  "id": 1226819941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6406,34.87578,69.6406,34.87578",
+    "geom:latitude":34.87578,
+    "geom:longitude":69.6406,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"205",
+    "gn:asciiname":"Doran",
+    "gn:country_code":"AF",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142670,
+    "gn:latitude":34.87578,
+    "gn:longitude":69.6406,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Doran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e0e\u014dr\u0101n",
+        "D\u014dr\u0101n",
+        "D\u016br\u0101n",
+        "D\u014d\u1e5f\u0101n",
+        "\u062f\u0648\u0693\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142670
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7539799bbefc089fef34da1b964887e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562531,
+            "locality_id":1226819941,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1226819941,
+    "wof:lastmodified":1537581850,
+    "wof:name":"Doran",
+    "wof:parent_id":1108562531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6406,
+    34.87578,
+    69.6406,
+    34.87578
+],
+  "geometry": {"coordinates":[69.64060000000001,34.87578],"type":"Point"}
+}

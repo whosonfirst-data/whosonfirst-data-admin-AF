@@ -1,0 +1,71 @@
+{
+  "id": 1276279343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89022,36.32144,65.89022,36.32144",
+    "geom:latitude":36.32144,
+    "geom:longitude":65.89022,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101",
+    "gn:asciiname":"Qamishlaq",
+    "gn:country_code":"AF",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129736,
+    "gn:latitude":36.32144,
+    "gn:longitude":65.89022,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qamishlaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0645\u0634\u0644\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129736
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"121ea161f4d851010195b0b8fe5551f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1276279343,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1276279343,
+    "wof:lastmodified":1537580757,
+    "wof:name":"Qamishlaq",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89022,
+    36.32144,
+    65.89022,
+    36.32144
+],
+  "geometry": {"coordinates":[65.89022,36.32144],"type":"Point"}
+}

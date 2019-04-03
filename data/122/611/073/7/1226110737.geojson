@@ -1,0 +1,77 @@
+{
+  "id": 1226110737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36003,31.20602,66.36003,31.20602",
+    "geom:latitude":31.20602,
+    "geom:longitude":66.36003,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Wungarah",
+    "gn:country_code":"AF",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477162,
+    "gn:latitude":31.20602,
+    "gn:longitude":66.36003,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wungarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u06af\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Vungara",
+        "Wunga\u1e5fa",
+        "Wungarah",
+        "\u0648\u0627\u0646\u06af\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477162
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ba2a080e7bfac71bdfabb6bf6f5ea3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1226110737,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226110737,
+    "wof:lastmodified":1537583873,
+    "wof:name":"Wungarah",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36003000000001,
+    31.20602,
+    66.36003000000001,
+    31.20602
+],
+  "geometry": {"coordinates":[66.36003000000001,31.20602],"type":"Point"}
+}

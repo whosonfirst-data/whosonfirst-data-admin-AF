@@ -1,0 +1,72 @@
+{
+  "id": 1293775519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10087,35.6632,65.10087,35.6632",
+    "geom:latitude":35.6632,
+    "geom:longitude":65.10087,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1807",
+    "gn:asciiname":"Qazaq",
+    "gn:country_code":"AF",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129165,
+    "gn:latitude":35.6632,
+    "gn:longitude":65.10087,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaz\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaz\u0101q",
+        "\u0642\u0632\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129165
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0eb30f2c8a2a0102cd755cbacdb6fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562055,
+            "locality_id":1293775519,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293775519,
+    "wof:lastmodified":1537580690,
+    "wof:name":"Qazaq",
+    "wof:parent_id":1108562055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10087,
+    35.6632,
+    65.10087,
+    35.6632
+],
+  "geometry": {"coordinates":[65.10087,35.6632],"type":"Point"}
+}

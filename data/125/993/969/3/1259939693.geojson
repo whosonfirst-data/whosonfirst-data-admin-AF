@@ -1,0 +1,71 @@
+{
+  "id": 1259939693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68313,35.63952,67.68313,35.63952",
+    "geom:latitude":35.63952,
+    "geom:longitude":67.68313,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Qashqah",
+    "gn:country_code":"AF",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526509,
+    "gn:latitude":35.63952,
+    "gn:longitude":67.68313,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qashqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0634\u0642\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526509
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ee699a1cf079916a41353969b1ce240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1259939693,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1259939693,
+    "wof:lastmodified":1537583925,
+    "wof:name":"Qashqah",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68313,
+    35.63952000000001,
+    67.68313,
+    35.63952000000001
+],
+  "geometry": {"coordinates":[67.68313000000001,35.63952000000001],"type":"Point"}
+}

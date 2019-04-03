@@ -1,0 +1,78 @@
+{
+  "id": 1360099015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.69003,36.54503,70.69003,36.54503",
+    "geom:latitude":36.54503,
+    "geom:longitude":70.69003,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Khaniqah",
+    "gn:country_code":"AF",
+    "gn:dem":2300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137122,
+    "gn:latitude":36.54503,
+    "gn:longitude":70.69003,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101niq\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101naq\u0101 Sarqad",
+        "Kh\u0101neq\u0101h",
+        "Kh\u0101naq\u0101 Marqad",
+        "Kh\u0101naq\u0101",
+        "Kh\u0101neq\u0101",
+        "Kh\u0101niq\u0101h",
+        "\u062e\u0627\u0646\u0642\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137122,
+        "wk:page":"Khaneqa%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e42fa73f840629ae0eabdab7b763599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1360099015,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360099015,
+    "wof:lastmodified":1537581395,
+    "wof:name":"Khaniqah",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.69003000000002,
+    36.54503,
+    70.69003000000002,
+    36.54503
+],
+  "geometry": {"coordinates":[70.69003000000002,36.54503],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193266271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.46077,35.03561,61.46077,35.03561",
+    "geom:latitude":35.03561,
+    "geom:longitude":61.46077,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Rabat-e Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128303,
+    "gn:latitude":35.03561,
+    "gn:longitude":61.46077,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163-e Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eab\u0101\u1e6f-i-Su\u1e5fkh",
+        "Rob\u0101t-i-Surkh",
+        "Rib\u0101t-i-Surkh",
+        "Reb\u0101\u0163-e Sorkh",
+        "Rob\u0101\u0163-e Sorkh",
+        "Rab\u0101\u0163-e Surkh",
+        "\u0631\u0628\u0627\u0637 \u0633\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128303
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d18241520ce395531e95db6d80b37f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1193266271,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1193266271,
+    "wof:lastmodified":1537580616,
+    "wof:name":"Rabat-e Surkh",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.46077,
+    35.03561,
+    61.46077,
+    35.03561
+],
+  "geometry": {"coordinates":[61.46077,35.03561],"type":"Point"}
+}

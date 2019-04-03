@@ -1,0 +1,66 @@
+{
+  "id": 1209584219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.9948,31.5947,66.9948,31.5947",
+    "geom:latitude":31.5947,
+    "geom:longitude":66.9948,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Takhai",
+    "gn:country_code":"AF",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123239,
+    "gn:latitude":31.5947,
+    "gn:longitude":66.9948,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takh\u0101\u2019\u012b",
+        "\u062a\u062e\u0627\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123239
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cccd7af9f0450a4c0c9811f327d1f58a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209584219
+        }
+    ],
+    "wof:id":1209584219,
+    "wof:lastmodified":1537580211,
+    "wof:name":"Takhai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.9948,
+    31.5947,
+    66.9948,
+    31.5947
+],
+  "geometry": {"coordinates":[66.9948,31.5947],"type":"Point"}
+}

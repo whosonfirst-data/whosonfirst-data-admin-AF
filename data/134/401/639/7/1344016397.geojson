@@ -1,0 +1,75 @@
+{
+  "id": 1344016397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.227,31.45162,67.227,31.45162",
+    "geom:latitude":31.45162,
+    "geom:longitude":67.227,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Girdab",
+    "gn:country_code":"AF",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437116,
+    "gn:latitude":31.45162,
+    "gn:longitude":67.227,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gird\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ge\u1e5f\u1e0f\u0101w",
+        "G\u00eard\u0101b",
+        "Gerd\u0101b",
+        "Gird\u0101b",
+        "\u06af\u0631\u062f\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b84ac01bf3c4725f8b6e37a3f2fafa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1344016397,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1344016397,
+    "wof:lastmodified":1537582834,
+    "wof:name":"Girdab",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.227,
+    31.45162,
+    67.227,
+    31.45162
+],
+  "geometry": {"coordinates":[67.227,31.45162],"type":"Point"}
+}

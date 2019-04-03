@@ -1,0 +1,74 @@
+{
+  "id": 1243211215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.58366,31.84107,67.58366,31.84107",
+    "geom:latitude":31.84107,
+    "geom:longitude":67.58366,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Matah",
+    "gn:country_code":"AF",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133694,
+    "gn:latitude":31.84107,
+    "gn:longitude":67.58366,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ma\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mata",
+        "Ma\u1e6fah",
+        "Matah",
+        "\u0645\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133694
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e6c9344f659ad5a1d9e2ac63ad2b4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1243211215,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243211215,
+    "wof:lastmodified":1537581115,
+    "wof:name":"Matah",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.58366,
+    31.84107,
+    67.58366,
+    31.84107
+],
+  "geometry": {"coordinates":[67.58365999999999,31.84107],"type":"Point"}
+}

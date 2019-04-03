@@ -1,0 +1,80 @@
+{
+  "id": 1276940393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90009,34.14901,70.90009,34.14901",
+    "geom:latitude":34.14901,
+    "geom:longitude":70.90009,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"812",
+    "gn:asciiname":"Towdah Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122647,
+    "gn:latitude":34.14901,
+    "gn:longitude":70.90009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Towdah Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647\u0654 \u062a\u0648\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Taudachina",
+        "Tawda \u010cina",
+        "Tawda China",
+        "Tawa\u1e0fa Cina",
+        "Tawa\u1e0fah Ch\u012bnah",
+        "Towdah Ch\u012bnah",
+        "\u062a\u0648\u062f\u0647 \u0686\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122647
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e4e63e15fb73927730e4625caea3fcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561997,
+            "locality_id":1276940393,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276940393,
+    "wof:lastmodified":1537580175,
+    "wof:name":"Towdah Chinah",
+    "wof:parent_id":1108561997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90009,
+    34.14901,
+    70.90009,
+    34.14901
+],
+  "geometry": {"coordinates":[70.90009000000001,34.14901],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343408677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91894,32.12971,66.91894,32.12971",
+    "geom:latitude":32.12971,
+    "geom:longitude":66.91894,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501.0",
+    "gn:asciiname":"Torah",
+    "gn:country_code":"AF",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447925,
+    "gn:latitude":32.12971,
+    "gn:longitude":66.91894,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014drah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014d\u1e5fa",
+        "T\u014drah",
+        "\u062a\u0648\u0631\u0647",
+        "Towrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447925
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b0ac17c978f07e1b6a6856ee9b439f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1343408677,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343408677,
+    "wof:lastmodified":1537582979,
+    "wof:name":"Torah",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91894,
+    32.12971,
+    66.91894,
+    32.12971
+],
+  "geometry": {"coordinates":[66.91894000000001,32.12971],"type":"Point"}
+}

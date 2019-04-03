@@ -1,0 +1,75 @@
+{
+  "id": 1226603063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97143,29.79072,65.97143,29.79072",
+    "geom:latitude":29.79072,
+    "geom:longitude":65.97143,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2410",
+    "gn:asciiname":"Shamuzi",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125619,
+    "gn:latitude":29.79072,
+    "gn:longitude":65.97143,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sham\u016bz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u0634\u0645\u0648\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0160am\u016bzi",
+        "Sham\u016bz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125619
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34a59363383d77bd6c5fc6e2bf8edc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562507,
+            "locality_id":1226603063,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226603063,
+    "wof:lastmodified":1537580403,
+    "wof:name":"Shamuzi",
+    "wof:parent_id":1108562507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97143,
+    29.79072,
+    65.97143,
+    29.79072
+],
+  "geometry": {"coordinates":[65.97143,29.79072],"type":"Point"}
+}

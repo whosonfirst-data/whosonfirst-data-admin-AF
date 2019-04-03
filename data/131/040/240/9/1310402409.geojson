@@ -1,0 +1,75 @@
+{
+  "id": 1310402409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79874,32.83248,67.79874,32.83248",
+    "geom:latitude":32.83248,
+    "geom:longitude":67.79874,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Qal'ah-ye Khumari",
+    "gn:country_code":"AF",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435654,
+    "gn:latitude":32.83248,
+    "gn:longitude":67.79874,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Khum\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalayi-Khumari",
+        "Qal\u2018a-i-Khom\u0101\u1e5fi",
+        "Qal\u2018eh-ye Khom\u0101r\u012b",
+        "Qal\u2018ah-ye Khum\u0101r\u012b",
+        "\u0642\u0644\u0639\u06c0 \u062e\u0645\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3472ee8095c2db41d58aea227352193e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1310402409,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310402409,
+    "wof:lastmodified":1537582776,
+    "wof:name":"Qal'ah-ye Khumari",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79874000000001,
+    32.83248,
+    67.79874000000001,
+    32.83248
+],
+  "geometry": {"coordinates":[67.79874000000001,32.83248],"type":"Point"}
+}

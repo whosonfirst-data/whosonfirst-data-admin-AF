@@ -1,0 +1,77 @@
+{
+  "id": 1276593095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00728,34.80956,70.00728,34.80956",
+    "geom:latitude":34.80956,
+    "geom:longitude":70.00728,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Saygal",
+    "gn:country_code":"AF",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474348,
+    "gn:latitude":34.80956,
+    "gn:longitude":70.00728,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Saygal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u06af\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Saygal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u06cc\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474348
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce405c5fb6a189addd3a792acd9642ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1276593095,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276593095,
+    "wof:lastmodified":1537583797,
+    "wof:name":"Saygal",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00728000000001,
+    34.80956,
+    70.00728000000001,
+    34.80956
+],
+  "geometry": {"coordinates":[70.00728000000001,34.80956],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243367547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47677,36.87376,70.47677,36.87376",
+    "geom:latitude":36.87376,
+    "geom:longitude":70.47677,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1116.0",
+    "gn:asciiname":"Kaftar Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467789,
+    "gn:latitude":36.87376,
+    "gn:longitude":70.47677,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaftar Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafta\u1e5f Kh\u0101na (1)",
+        "Kaftar Kh\u0101neh",
+        "Kaftar Kh\u0101nah",
+        "\u06a9\u0641\u062a\u0631 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467789
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f6483c99730037c40c6fa01e9c17da9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561943,
+            "locality_id":1243367547,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243367547,
+    "wof:lastmodified":1537583511,
+    "wof:name":"Kaftar Khanah",
+    "wof:parent_id":1108561943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47677,
+    36.87376,
+    70.47677,
+    36.87376
+],
+  "geometry": {"coordinates":[70.47677,36.87376],"type":"Point"}
+}

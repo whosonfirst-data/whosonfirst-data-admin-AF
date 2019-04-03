@@ -1,0 +1,77 @@
+{
+  "id": 1243100847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.64056,37.2475,65.64056,37.2475",
+    "geom:latitude":37.2475,
+    "geom:longitude":65.64056,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1709",
+    "gn:asciiname":"Qarah Tappeh",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129669,
+    "gn:latitude":37.2475,
+    "gn:longitude":65.64056,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kolodets Kara-tepe-Kelan",
+        "Qara Tapa Kal\u0101n",
+        "Qara Tepe K\u0101lan",
+        "Kolodets Qara-tepe-Kalan",
+        "Qara Tepa",
+        "Qarah Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129669
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07f7633e8b8421d70badbe842fbd8795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562143,
+            "locality_id":1243100847,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1243100847,
+    "wof:lastmodified":1537580750,
+    "wof:name":"Qarah Tappeh",
+    "wof:parent_id":1108562143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.64056,
+    37.2475,
+    65.64056,
+    37.2475
+],
+  "geometry": {"coordinates":[65.64055999999999,37.2475],"type":"Point"}
+}

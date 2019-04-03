@@ -1,0 +1,75 @@
+{
+  "id": 1259385671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.04917,34.94862,63.04917,34.94862",
+    "geom:latitude":34.94862,
+    "geom:longitude":63.04917,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1902",
+    "gn:asciiname":"Oy Mad",
+    "gn:country_code":"AF",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131372,
+    "gn:latitude":34.94862,
+    "gn:longitude":63.04917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014cy Mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014cy Ma\u1e0f",
+        "Oymad",
+        "\u014cy Mad",
+        "\u0627\u0648\u06cc \u0645\u062f",
+        "Owy Mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131372
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49d1fa71517ba63ba5f6d0d771ceb186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561775,
+            "locality_id":1259385671,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1259385671,
+    "wof:lastmodified":1537580914,
+    "wof:name":"Oy Mad",
+    "wof:parent_id":1108561775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.04917,
+    34.94862,
+    63.04917,
+    34.94862
+],
+  "geometry": {"coordinates":[63.04917,34.94862],"type":"Point"}
+}

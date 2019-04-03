@@ -1,0 +1,74 @@
+{
+  "id": 1310065325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73817,35.52771,67.73817,35.52771",
+    "geom:latitude":35.52771,
+    "geom:longitude":67.73817,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Aw Khorak",
+    "gn:country_code":"AF",
+    "gn:dem":2930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422645,
+    "gn:latitude":35.52771,
+    "gn:longitude":67.73817,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100w Kh\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100wkh\u014d\u1e5fak",
+        "\u0100b Khowrak",
+        "\u0100w Kh\u014drak",
+        "\u0622\u0648 \u062e\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422645
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e1788c76784f87d528d3657b6871efcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1310065325,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1310065325,
+    "wof:lastmodified":1537582543,
+    "wof:name":"Aw Khorak",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73817,
+    35.52771,
+    67.73817,
+    35.52771
+],
+  "geometry": {"coordinates":[67.73817,35.52771],"type":"Point"}
+}

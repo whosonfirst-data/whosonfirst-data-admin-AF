@@ -1,0 +1,80 @@
+{
+  "id": 1327003653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31011,35.12116,69.31011,35.12116",
+    "geom:latitude":35.12116,
+    "geom:longitude":69.31011,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"202.0",
+    "gn:asciiname":"Qalandar Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423416,
+    "gn:latitude":35.12116,
+    "gn:longitude":69.31011,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qalandar Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0646\u062f\u0631 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kalandarkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qalan\u1e0fa\u1e5fkh\u0113l",
+        "Qalandar Kheyl",
+        "Qalandar Kh\u0113l",
+        "\u0642\u0644\u0646\u062f\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423416
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1663d31e5a63ce7a76d4c101768898e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562073,
+            "locality_id":1327003653,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1327003653,
+    "wof:lastmodified":1537582567,
+    "wof:name":"Qalandar Khel",
+    "wof:parent_id":1108562073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31011,
+    35.12116,
+    69.31011,
+    35.12116
+],
+  "geometry": {"coordinates":[69.31010999999999,35.12116],"type":"Point"}
+}

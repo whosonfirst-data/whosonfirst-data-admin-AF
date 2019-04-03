@@ -1,0 +1,82 @@
+{
+  "id": 1343843349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.59452,33.13463,67.59452,33.13463",
+    "geom:latitude":33.13463,
+    "geom:longitude":67.59452,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Mulla Liwar",
+    "gn:country_code":"AF",
+    "gn:dem":2545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132675,
+    "gn:latitude":33.13463,
+    "gn:longitude":67.59452,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 L\u012bwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0644\u0648\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043b\u043b\u0430\u043b\u0438\u0432\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mull\u0101 Liwar",
+        "Mullalivar",
+        "Moll\u0101 Liwar",
+        "Mull\u0101 L\u012bwar",
+        "\u0645\u0644\u0627 \u0644\u06cc\u0648\u0631",
+        "\u0645\u0644\u0627 \u0644\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132675
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8daa6379e8757084ee27b5726fff19d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343843349,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343843349,
+    "wof:lastmodified":1537581026,
+    "wof:name":"Mulla Liwar",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.59451999999999,
+    33.13463,
+    67.59451999999999,
+    33.13463
+],
+  "geometry": {"coordinates":[67.59451999999999,33.13463],"type":"Point"}
+}

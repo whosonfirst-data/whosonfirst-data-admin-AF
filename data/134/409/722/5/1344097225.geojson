@@ -1,0 +1,75 @@
+{
+  "id": 1344097225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.97151,34.83156,69.97151,34.83156",
+    "geom:latitude":34.83156,
+    "geom:longitude":69.97151,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Nichalam",
+    "gn:country_code":"AF",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472735,
+    "gn:latitude":34.83156,
+    "gn:longitude":69.97151,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nich\u0101l\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ne\u010d\u0101l\u0101m",
+        "Nichalam",
+        "Nech\u0101l\u0101m",
+        "\u0646\u0686\u0627\u0644\u0627\u0645",
+        "Nich\u0101l\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472735
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5793d54cabfa410d4a1632a795f87ff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1344097225,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1344097225,
+    "wof:lastmodified":1537583710,
+    "wof:name":"Nichalam",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.97151,
+    34.83156,
+    69.97151,
+    34.83156
+],
+  "geometry": {"coordinates":[69.97150999999999,34.83156],"type":"Point"}
+}

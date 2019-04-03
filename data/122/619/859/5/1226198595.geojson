@@ -1,0 +1,75 @@
+{
+  "id": 1226198595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.57756,31.04456,66.57756,31.04456",
+    "geom:latitude":31.04456,
+    "geom:longitude":66.57756,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Ganjisu",
+    "gn:country_code":"AF",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141944,
+    "gn:latitude":31.04456,
+    "gn:longitude":66.57756,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ganjis\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0101do Kalay",
+        "Gandzhisu",
+        "Ganjisu Kalay",
+        "Ganjis\u016b",
+        "\u06af\u0646\u062c\u0633\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141944
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dbd2fe4c8adf7178ab8ecebe5b50fda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1226198595,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226198595,
+    "wof:lastmodified":1537581787,
+    "wof:name":"Ganjisu",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.57755999999999,
+    31.04456,
+    66.57755999999999,
+    31.04456
+],
+  "geometry": {"coordinates":[66.57755999999999,31.04456],"type":"Point"}
+}

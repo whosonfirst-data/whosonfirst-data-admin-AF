@@ -1,0 +1,74 @@
+{
+  "id": 1343887905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.77141,33.01106,65.77141,33.01106",
+    "geom:latitude":33.01106,
+    "geom:longitude":65.77141,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Zor Bagh",
+    "gn:country_code":"AF",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120513,
+    "gn:latitude":33.01106,
+    "gn:longitude":65.77141,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u014d\u1e5f B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u014dr B\u0101gh",
+        "Z\u014d\u1e5f B\u0101gh",
+        "\u0632\u0648\u0693 \u0628\u0627\u063a",
+        "Z\u016br B\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120513
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"30b6695a969720079360c173a501c9ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1343887905,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1343887905,
+    "wof:lastmodified":1537579950,
+    "wof:name":"Zor Bagh",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.77141,
+    33.01106,
+    65.77141,
+    33.01106
+],
+  "geometry": {"coordinates":[65.77141,33.01106],"type":"Point"}
+}

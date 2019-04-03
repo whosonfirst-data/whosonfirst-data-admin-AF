@@ -1,0 +1,62 @@
+{
+  "id": 1209366237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09255,35.41747,70.09255,35.41747",
+    "geom:latitude":35.41747,
+    "geom:longitude":70.09255,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Machom Kandawah",
+    "gn:country_code":"AF",
+    "gn:dem":3087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108720,
+    "gn:latitude":35.41747,
+    "gn:longitude":70.09255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mach\u014dm Kandawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108720
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2af2f94e37e1141b5a1f0b2500449ac4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209366237
+        }
+    ],
+    "wof:id":1209366237,
+    "wof:lastmodified":1536289263,
+    "wof:name":"Machom Kandawah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09255,
+    35.41747,
+    70.09255,
+    35.41747
+],
+  "geometry": {"coordinates":[70.09255,35.41747],"type":"Point"}
+}

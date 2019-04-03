@@ -1,0 +1,72 @@
+{
+  "id": 1277054059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.44106,34.43305,61.44106,34.43305",
+    "geom:latitude":34.43305,
+    "geom:longitude":61.44106,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Zangi Sabah",
+    "gn:country_code":"AF",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121020,
+    "gn:latitude":34.43305,
+    "gn:longitude":61.44106,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zang\u012b \u015eab\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zang\u012b \u015eab\u0101\u1e29",
+        "\u0632\u0646\u06af\u06cc \u0635\u0628\u0627\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e09f01e953a513589a7a63a4011172f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1277054059,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1277054059,
+    "wof:lastmodified":1537580019,
+    "wof:name":"Zangi Sabah",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.44106,
+    34.43305,
+    61.44106,
+    34.43305
+],
+  "geometry": {"coordinates":[61.44106,34.43305],"type":"Point"}
+}

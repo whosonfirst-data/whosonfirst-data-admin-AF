@@ -1,0 +1,80 @@
+{
+  "id": 1260258497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9263,34.24332,70.9263,34.24332",
+    "geom:latitude":34.24332,
+    "geom:longitude":70.9263,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Kandab",
+    "gn:country_code":"AF",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469577,
+    "gn:latitude":34.24332,
+    "gn:longitude":70.9263,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kand\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kand\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Mikhrabad",
+        "Meh\u1e5f\u0101b\u0101d",
+        "\u06a9\u0646\u062f\u0627\u0628",
+        "Mihr\u0101b\u0101d",
+        "Kand\u0101b Mihr\u0101b\u0101d",
+        "\u0645\u0647\u0631 \u0622\u0628\u0627\u062f",
+        "\u06a9\u0646\u062f\u0627\u0628 \u0645\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469577
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4941a04ab09ec0b814d0377da70c8045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562285,
+            "locality_id":1260258497,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1260258497,
+    "wof:lastmodified":1537583613,
+    "wof:name":"Kandab",
+    "wof:parent_id":1108562285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9263,
+    34.24332,
+    70.9263,
+    34.24332
+],
+  "geometry": {"coordinates":[70.9263,34.24332],"type":"Point"}
+}

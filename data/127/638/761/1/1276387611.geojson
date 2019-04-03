@@ -1,0 +1,72 @@
+{
+  "id": 1276387611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55345,36.07654,67.55345,36.07654",
+    "geom:latitude":36.07654,
+    "geom:longitude":67.55345,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Baghal Shikaf",
+    "gn:country_code":"AF",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519500,
+    "gn:latitude":36.07654,
+    "gn:longitude":67.55345,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baghal Shik\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baghal Shik\u0101f",
+        "\u0628\u063a\u0644 \u0634\u06a9\u0627\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519500
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"74b46ea220eb35340e63c75a514e06b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1276387611,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276387611,
+    "wof:lastmodified":1537583923,
+    "wof:name":"Baghal Shikaf",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55345,
+    36.07654,
+    67.55345,
+    36.07654
+],
+  "geometry": {"coordinates":[67.55345,36.07654],"type":"Point"}
+}

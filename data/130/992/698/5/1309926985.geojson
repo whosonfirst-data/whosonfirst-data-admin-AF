@@ -1,0 +1,72 @@
+{
+  "id": 1309926985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.54,35.61233,64.54,35.61233",
+    "geom:latitude":35.61233,
+    "geom:longitude":64.54,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Tigan",
+    "gn:country_code":"AF",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122455,
+    "gn:latitude":35.61233,
+    "gn:longitude":64.54,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012bgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u012bgan",
+        "\u062a\u064a\u06af\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122455
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c274866905a60056ea7b66444d0690f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1309926985,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1309926985,
+    "wof:lastmodified":1537580114,
+    "wof:name":"Tigan",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.54,
+    35.61233,
+    64.54,
+    35.61233
+],
+  "geometry": {"coordinates":[64.54000000000001,35.61233],"type":"Point"}
+}

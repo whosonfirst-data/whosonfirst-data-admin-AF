@@ -1,0 +1,77 @@
+{
+  "id": 1293755117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92026,34.47073,68.92026,34.47073",
+    "geom:latitude":34.47073,
+    "geom:longitude":68.92026,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"108",
+    "gn:asciiname":"Qal'ah-ye Sadiq",
+    "gn:country_code":"AF",
+    "gn:dem":2229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129814,
+    "gn:latitude":34.47073,
+    "gn:longitude":68.92026,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye \u015ead\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a \u015ee\u1e0f\u1e0f\u012bq",
+        "Kalasiddik",
+        "Qal\u2018a-i-Se\u1e0f\u1e0f\u012bq",
+        "Qala S\u0101diq",
+        "Qal\u2018ah-ye \u015ead\u012bq",
+        "Qal\u2018eh-ye \u015eedd\u012bq",
+        "\u0642\u0644\u0639\u0647 \u0635\u062f\u06cc\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129814
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"72db2ae60d6504cc8a3b92fa1d6376a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562345,
+            "locality_id":1293755117,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1293755117,
+    "wof:lastmodified":1537580767,
+    "wof:name":"Qal'ah-ye Sadiq",
+    "wof:parent_id":1108562345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92026,
+    34.47073,
+    68.92026,
+    34.47073
+],
+  "geometry": {"coordinates":[68.92026,34.47073],"type":"Point"}
+}

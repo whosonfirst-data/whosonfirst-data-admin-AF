@@ -1,0 +1,73 @@
+{
+  "id": 1260093839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28787,37.23307,70.28787,37.23307",
+    "geom:latitude":37.23307,
+    "geom:longitude":70.28787,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1126.0",
+    "gn:asciiname":"Tughak",
+    "gn:country_code":"AF",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468125,
+    "gn:latitude":37.23307,
+    "gn:longitude":70.28787,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u016bghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162\u016bghak",
+        "\u0637\u0648\u063a\u06a9",
+        "T\u016bghak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468125
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b49a686fcedf7da1e2357635ccee34a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562583,
+            "locality_id":1260093839,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260093839,
+    "wof:lastmodified":1537583533,
+    "wof:name":"Tughak",
+    "wof:parent_id":1108562583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28787,
+    37.23307,
+    70.28787,
+    37.23307
+],
+  "geometry": {"coordinates":[70.28787,37.23307],"type":"Point"}
+}

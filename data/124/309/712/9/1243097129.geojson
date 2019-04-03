@@ -1,0 +1,79 @@
+{
+  "id": 1243097129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11734,32.54344,66.11734,32.54344",
+    "geom:latitude":32.54344,
+    "geom:longitude":66.11734,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Sar Kala-ye Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428074,
+    "gn:latitude":32.54344,
+    "gn:longitude":66.11734,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Kal\u0101-ye Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0654\u0642\u0644\u0639\u0647\u0654 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Jon\u016bbi Kal\u0101",
+        "Jan\u016bbi Kal\u0101",
+        "Sarkala-Dzhanubi",
+        "Sar Kal\u0101-ye Jun\u016bb\u012b",
+        "\u0633\u0631 \u06a9\u0644\u0627 \u062c\u0646\u0648\u0628\u06cc",
+        "Sar Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428074
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"948af6c5995709591abee5b36c5eab4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1243097129,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1243097129,
+    "wof:lastmodified":1537582648,
+    "wof:name":"Sar Kala-ye Junubi",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11734,
+    32.54344,
+    66.11734,
+    32.54344
+],
+  "geometry": {"coordinates":[66.11734,32.54344],"type":"Point"}
+}

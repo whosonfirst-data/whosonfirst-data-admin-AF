@@ -1,0 +1,73 @@
+{
+  "id": 1226007233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.96338,31.65826,62.96338,31.65826",
+    "geom:latitude":31.65826,
+    "geom:longitude":62.96338,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Garu",
+    "gn:country_code":"AF",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141764,
+    "gn:latitude":31.65826,
+    "gn:longitude":62.96338,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gar\u016b",
+        "\u06af\u0631\u0648",
+        "G\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141764
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"744dfba6cbee11a2aa7760a99e50e4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562159,
+            "locality_id":1226007233,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1226007233,
+    "wof:lastmodified":1537581773,
+    "wof:name":"Garu",
+    "wof:parent_id":1108562159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.96338000000001,
+    31.65826,
+    62.96338000000001,
+    31.65826
+],
+  "geometry": {"coordinates":[62.96338000000001,31.65826],"type":"Point"}
+}

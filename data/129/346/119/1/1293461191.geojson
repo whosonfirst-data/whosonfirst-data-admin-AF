@@ -1,0 +1,71 @@
+{
+  "id": 1293461191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25679,34.39157,69.25679,34.39157",
+    "geom:latitude":34.39157,
+    "geom:longitude":69.25679,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"114.0",
+    "gn:asciiname":"Gul Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7094601,
+    "gn:latitude":34.39157,
+    "gn:longitude":69.25679,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0644 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7094601
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e46d8d7410a067592d230d4e41bfc5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562293,
+            "locality_id":1293461191,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1293461191,
+    "wof:lastmodified":1537583909,
+    "wof:name":"Gul Darah",
+    "wof:parent_id":1108562293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25679000000001,
+    34.39157,
+    69.25679000000001,
+    34.39157
+],
+  "geometry": {"coordinates":[69.25679000000001,34.39157],"type":"Point"}
+}

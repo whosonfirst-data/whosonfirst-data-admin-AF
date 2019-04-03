@@ -1,0 +1,74 @@
+{
+  "id": 1243284937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20292,35.70746,65.20292,35.70746",
+    "geom:latitude":35.70746,
+    "geom:longitude":65.20292,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1807",
+    "gn:asciiname":"Dom Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142754,
+    "gn:latitude":35.70746,
+    "gn:longitude":65.20292,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u014dm Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u014dm Qal\u2018a",
+        "Dowm Qal\u2018eh",
+        "D\u014dm Qal\u2018ah",
+        "\u062f\u0648\u0645 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142754
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6fcecb9a1ecba7bdb1a78e7892f6145d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562055,
+            "locality_id":1243284937,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1243284937,
+    "wof:lastmodified":1537581856,
+    "wof:name":"Dom Qal'ah",
+    "wof:parent_id":1108562055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20291999999999,
+    35.70746,
+    65.20291999999999,
+    35.70746
+],
+  "geometry": {"coordinates":[65.20291999999999,35.70746],"type":"Point"}
+}

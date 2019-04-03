@@ -1,0 +1,75 @@
+{
+  "id": 1243528211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.76907,34.83143,69.76907,34.83143",
+    "geom:latitude":34.83143,
+    "geom:longitude":69.76907,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Anar Butah",
+    "gn:country_code":"AF",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148710,
+    "gn:latitude":34.83143,
+    "gn:longitude":69.76907,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"An\u0101r Butah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An\u0101\u1e5fbota",
+        "Anarbuta",
+        "An\u0101rbotah",
+        "An\u0101r Butah",
+        "\u0627\u0646\u0627\u0631 \u0628\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148710
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c64e5635a989da4e6ca64dd60becc0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562531,
+            "locality_id":1243528211,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1243528211,
+    "wof:lastmodified":1537582359,
+    "wof:name":"Anar Butah",
+    "wof:parent_id":1108562531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.76907,
+    34.83143,
+    69.76907,
+    34.83143
+],
+  "geometry": {"coordinates":[69.76907,34.83143],"type":"Point"}
+}

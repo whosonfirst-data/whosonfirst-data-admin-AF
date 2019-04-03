@@ -1,0 +1,79 @@
+{
+  "id": 1343956973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02266,34.70479,67.02266,34.70479",
+    "geom:latitude":34.70479,
+    "geom:longitude":67.02266,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Jamak",
+    "gn:country_code":"AF",
+    "gn:dem":2678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139672,
+    "gn:latitude":34.70479,
+    "gn:longitude":67.02266,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jamak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhamak",
+        "Jamak",
+        "\u062c\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139672
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ce5df051b193987aa068d47ffa82ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1343956973,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343956973,
+    "wof:lastmodified":1537581597,
+    "wof:name":"Jamak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02266,
+    34.70479,
+    67.02266,
+    34.70479
+],
+  "geometry": {"coordinates":[67.02266,34.70479],"type":"Point"}
+}

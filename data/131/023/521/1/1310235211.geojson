@@ -1,0 +1,71 @@
+{
+  "id": 1310235211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64167,33.74527,66.64167,33.74527",
+    "geom:latitude":33.74527,
+    "geom:longitude":66.64167,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Dangak",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144172,
+    "gn:latitude":33.74527,
+    "gn:longitude":66.64167,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dangak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0646\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144172
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a0ef32be881b3b247b992ee3391dc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1310235211,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310235211,
+    "wof:lastmodified":1537581979,
+    "wof:name":"Dangak",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64166999999999,
+    33.74527,
+    66.64166999999999,
+    33.74527
+],
+  "geometry": {"coordinates":[66.64166999999999,33.74527],"type":"Point"}
+}

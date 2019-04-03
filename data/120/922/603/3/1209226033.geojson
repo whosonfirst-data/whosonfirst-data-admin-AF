@@ -1,0 +1,68 @@
+{
+  "id": 1209226033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40262,35.80723,69.40262,35.80723",
+    "geom:latitude":35.80723,
+    "geom:longitude":69.40262,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1312.0",
+    "gn:asciiname":"Surkh-Paryaw",
+    "gn:country_code":"AF",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464800,
+    "gn:latitude":35.80723,
+    "gn:longitude":69.40262,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh-Pary\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u1e5fkh-pa\u1e5fy\u0101w",
+        "Sorkh Pary\u0101b",
+        "Surkh-Pary\u0101w",
+        "\u0633\u0631\u062e \u067e\u0631\u06cc\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464800
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f313867fd1ae12b3aad015084cac2b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209226033
+        }
+    ],
+    "wof:id":1209226033,
+    "wof:lastmodified":1537583384,
+    "wof:name":"Surkh-Paryaw",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40262,
+    35.80723,
+    69.40262,
+    35.80723
+],
+  "geometry": {"coordinates":[69.40262,35.80723],"type":"Point"}
+}

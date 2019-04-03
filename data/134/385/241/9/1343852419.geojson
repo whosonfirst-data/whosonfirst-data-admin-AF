@@ -1,0 +1,72 @@
+{
+  "id": 1343852419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.21448,36.95408,65.21448,36.95408",
+    "geom:latitude":36.95408,
+    "geom:longitude":65.21448,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Chakman-e Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145573,
+    "gn:latitude":36.95408,
+    "gn:longitude":65.21448,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chakman-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chakman-e P\u0101\u2019\u012bn",
+        "\u0686\u06a9\u0645\u0646 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145573
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f7ae6b523e5dbaec63358b4d92ba22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562147,
+            "locality_id":1343852419,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1343852419,
+    "wof:lastmodified":1537582115,
+    "wof:name":"Chakman-e Pa'in",
+    "wof:parent_id":1108562147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.21448000000001,
+    36.95408,
+    65.21448000000001,
+    36.95408
+],
+  "geometry": {"coordinates":[65.21448000000001,36.95408],"type":"Point"}
+}

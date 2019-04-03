@@ -1,0 +1,75 @@
+{
+  "id": 1193229421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.81508,35.02825,68.81508,35.02825",
+    "geom:latitude":35.02825,
+    "geom:longitude":68.81508,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Karezi",
+    "gn:country_code":"AF",
+    "gn:dem":2057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464691,
+    "gn:latitude":35.02825,
+    "gn:longitude":68.81508,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113zi",
+        "Karezi",
+        "K\u0101r\u012bz\u012b",
+        "K\u0101r\u0113z\u012b",
+        "\u06a9\u0627\u0631\u06d0\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffa9b59e3a8ed11aa8c7305ee4026e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1193229421,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1193229421,
+    "wof:lastmodified":1537583382,
+    "wof:name":"Karezi",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81508000000001,
+    35.02825,
+    68.81508000000001,
+    35.02825
+],
+  "geometry": {"coordinates":[68.81508000000001,35.02825],"type":"Point"}
+}

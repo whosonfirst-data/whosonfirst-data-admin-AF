@@ -1,0 +1,74 @@
+{
+  "id": 1292995109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.11762,33.831,65.11762,33.831",
+    "geom:latitude":33.831,
+    "geom:longitude":65.11762,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Qol-e Ramah",
+    "gn:country_code":"AF",
+    "gn:dem":2724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128992,
+    "gn:latitude":33.831,
+    "gn:longitude":65.11762,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl-e Ramah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u014dle \u1e5eama",
+        "Q\u014dl-e Ramah",
+        "\u0642\u0648\u0644 \u0631\u0645\u0647",
+        "Qowle \u1e5eamah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128992
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b337d0bd8f85dd3650581c549b08633d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1292995109,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1292995109,
+    "wof:lastmodified":1537580673,
+    "wof:name":"Qol-e Ramah",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.11762,
+    33.831,
+    65.11762,
+    33.831
+],
+  "geometry": {"coordinates":[65.11762,33.831],"type":"Point"}
+}

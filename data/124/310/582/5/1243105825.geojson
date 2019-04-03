@@ -1,0 +1,76 @@
+{
+  "id": 1243105825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16723,35.1857,69.16723,35.1857",
+    "geom:latitude":35.1857,
+    "geom:longitude":69.16723,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Chandal",
+    "gn:country_code":"AF",
+    "gn:dem":2448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145478,
+    "gn:latitude":35.1857,
+    "gn:longitude":69.16723,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chand\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chandal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u010cand\u0101l",
+        "Chand\u0101l",
+        "\u0686\u0646\u062f\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145478
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"435c7173ae174d014a83a2b153e0fc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1243105825,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1243105825,
+    "wof:lastmodified":1537582106,
+    "wof:name":"Chandal",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16723,
+    35.1857,
+    69.16723,
+    35.1857
+],
+  "geometry": {"coordinates":[69.16723,35.1857],"type":"Point"}
+}

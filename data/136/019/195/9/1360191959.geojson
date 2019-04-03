@@ -1,0 +1,73 @@
+{
+  "id": 1360191959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09217,36.06355,69.09217,36.06355",
+    "geom:latitude":36.06355,
+    "geom:longitude":69.09217,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Dasht-e Qazi",
+    "gn:country_code":"AF",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410104,
+    "gn:latitude":36.06355,
+    "gn:longitude":69.09217,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht-e Q\u0101\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dast Q\u0101\u1e0fzi",
+        "Dasht-e Q\u0101\u1e95\u012b",
+        "\u062f\u0634\u062a \u0642\u0627\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410104
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e0852de41ad81d13c7cff10f2245549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1360191959,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1360191959,
+    "wof:lastmodified":1537582536,
+    "wof:name":"Dasht-e Qazi",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09217,
+    36.06355,
+    69.09217,
+    36.06355
+],
+  "geometry": {"coordinates":[69.09217,36.06355],"type":"Point"}
+}

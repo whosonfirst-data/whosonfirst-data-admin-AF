@@ -1,0 +1,73 @@
+{
+  "id": 1326676461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77263,35.94718,66.77263,35.94718",
+    "geom:latitude":35.94718,
+    "geom:longitude":66.77263,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Narak",
+    "gn:country_code":"AF",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132346,
+    "gn:latitude":35.94718,
+    "gn:longitude":66.77263,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101rak",
+        "\u0646\u0627\u0631\u06a9",
+        "N\u0101\u1e5fak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132346
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"463a7fdc904265e6da9b904fd89a3560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1326676461,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326676461,
+    "wof:lastmodified":1537581002,
+    "wof:name":"Narak",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77263,
+    35.94718,
+    66.77263,
+    35.94718
+],
+  "geometry": {"coordinates":[66.77263000000001,35.94718],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343479765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.62203,34.18493,64.62203,34.18493",
+    "geom:latitude":34.18493,
+    "geom:longitude":64.62203,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Barkhul",
+    "gn:country_code":"AF",
+    "gn:dem":2629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146896,
+    "gn:latitude":34.18493,
+    "gn:longitude":64.62203,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barkh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Barkhol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5fkh\u016bl",
+        "Ba\u1e5fkh\u014dl",
+        "Barkhowl",
+        "Barkh\u016bl",
+        "\u0628\u0631\u062e\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146896
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78d86e926d7ecb97a658560acd4d8f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1343479765,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343479765,
+    "wof:lastmodified":1537582221,
+    "wof:name":"Barkhul",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.62203000000001,
+    34.18493,
+    64.62203000000001,
+    34.18493
+],
+  "geometry": {"coordinates":[64.62203000000001,34.18493],"type":"Point"}
+}

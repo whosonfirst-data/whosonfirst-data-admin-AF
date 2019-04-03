@@ -1,0 +1,72 @@
+{
+  "id": 1326734285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07779,38.40682,71.07779,38.40682",
+    "geom:latitude":38.40682,
+    "geom:longitude":71.07779,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Kughaz",
+    "gn:country_code":"AF",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467092,
+    "gn:latitude":38.40682,
+    "gn:longitude":71.07779,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bghaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bghaz",
+        "\u06a9\u0648\u063a\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3480591fb9b895b7409e5767aca0629e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1326734285,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1326734285,
+    "wof:lastmodified":1537583452,
+    "wof:name":"Kughaz",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07779000000002,
+    38.40682,
+    71.07779000000002,
+    38.40682
+],
+  "geometry": {"coordinates":[71.07779000000002,38.40682],"type":"Point"}
+}

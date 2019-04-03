@@ -1,0 +1,75 @@
+{
+  "id": 1327123893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.10149,33.51964,64.10149,33.51964",
+    "geom:latitude":33.51964,
+    "geom:longitude":64.10149,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Lukah Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134596,
+    "gn:latitude":33.51964,
+    "gn:longitude":64.10149,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lukah Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukasang",
+        "Lokasang",
+        "Lukah Sang",
+        "\u0644\u06a9\u0647 \u0633\u0646\u06af",
+        "Lokehsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134596
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f2684b8414dc92946a18d47754a5d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1327123893,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327123893,
+    "wof:lastmodified":1537581188,
+    "wof:name":"Lukah Sang",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.10149,
+    33.51964,
+    64.10149,
+    33.51964
+],
+  "geometry": {"coordinates":[64.10149,33.51964],"type":"Point"}
+}

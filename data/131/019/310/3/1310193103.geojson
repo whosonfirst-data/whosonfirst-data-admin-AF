@@ -1,0 +1,73 @@
+{
+  "id": 1310193103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.61785,34.48402,62.61785,34.48402",
+    "geom:latitude":34.48402,
+    "geom:longitude":62.61785,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"'Ali Mansur",
+    "gn:country_code":"AF",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148924,
+    "gn:latitude":34.48402,
+    "gn:longitude":62.61785,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alimansur",
+        "\u2018Al\u012b Man\u015f\u016br",
+        "\u0639\u0644\u06cc \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148924
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc10ad71a6e7dbe60294e4d60f3fa526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562131,
+            "locality_id":1310193103,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310193103,
+    "wof:lastmodified":1537582376,
+    "wof:name":"'Ali Mansur",
+    "wof:parent_id":1108562131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.61785,
+    34.48402,
+    62.61785,
+    34.48402
+],
+  "geometry": {"coordinates":[62.61785,34.48402],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327218103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.67218,34.58545,64.67218,34.58545",
+    "geom:latitude":34.58545,
+    "geom:longitude":64.67218,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Tangia",
+    "gn:country_code":"AF",
+    "gn:dem":2417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122853,
+    "gn:latitude":34.58545,
+    "gn:longitude":64.67218,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tang\u012b\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tang\u012b\u0101",
+        "\u062a\u0646\u06af\u06cc\u0627",
+        "Tangy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122853
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a7fe8ee2ed889012ac1f043340654ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1327218103,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327218103,
+    "wof:lastmodified":1537580190,
+    "wof:name":"Tangia",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.67218000000001,
+    34.58545,
+    64.67218000000001,
+    34.58545
+],
+  "geometry": {"coordinates":[64.67218000000001,34.58545],"type":"Point"}
+}

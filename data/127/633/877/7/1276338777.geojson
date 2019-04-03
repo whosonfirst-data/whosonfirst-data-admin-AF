@@ -1,0 +1,74 @@
+{
+  "id": 1276338777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80452,38.31265,70.80452,38.31265",
+    "geom:latitude":38.31265,
+    "geom:longitude":70.80452,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Dilwakh",
+    "gn:country_code":"AF",
+    "gn:dem":2736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467018,
+    "gn:latitude":38.31265,
+    "gn:longitude":70.80452,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dilw\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delw\u0101kh",
+        "Delv\u0101kh",
+        "Dilw\u0101kh",
+        "\u062f\u0644\u0648\u0627\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467018
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"951c2756638a95ef3e5e64ea8b6a70c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1276338777,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276338777,
+    "wof:lastmodified":1537583450,
+    "wof:name":"Dilwakh",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80452,
+    38.31265,
+    70.80452,
+    38.31265
+],
+  "geometry": {"coordinates":[70.80452,38.31265],"type":"Point"}
+}

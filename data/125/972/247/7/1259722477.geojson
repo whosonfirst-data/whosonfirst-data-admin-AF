@@ -1,0 +1,82 @@
+{
+  "id": 1259722477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01403,33.36821,70.01403,33.36821",
+    "geom:latitude":33.36821,
+    "geom:longitude":70.01403,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201",
+    "gn:asciiname":"Mahdi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134277,
+    "gn:latitude":33.36821,
+    "gn:longitude":70.01403,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mahd\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u062f\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Makhdikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Mahdi Kheyl",
+        "Mah\u1e0fikh\u0113l",
+        "Madi Khel",
+        "Mahd\u012b Kh\u0113l",
+        "Mehd\u012b Kheyl",
+        "\u0645\u0647\u062f\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7438d6850a51370e5a431c9be268444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1259722477,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1259722477,
+    "wof:lastmodified":1537581160,
+    "wof:name":"Mahdi Khel",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01403,
+    33.36821,
+    70.01403,
+    33.36821
+],
+  "geometry": {"coordinates":[70.01403000000001,33.36821],"type":"Point"}
+}

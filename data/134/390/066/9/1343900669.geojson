@@ -1,0 +1,80 @@
+{
+  "id": 1343900669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47125,34.88968,69.47125,34.88968",
+    "geom:latitude":34.88968,
+    "geom:longitude":69.47125,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Nas Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349735,
+    "gn:latitude":34.88968,
+    "gn:longitude":69.47125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nas Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u062f\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Nas\u1e0fa\u1e5fa",
+        "Nasdara",
+        "Nasdarrah",
+        "Nasdarreh",
+        "\u0646\u0633\u062f\u0631\u0647",
+        "Nas Darah",
+        "\u0646\u0633 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        421187943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349735
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f5a9e9d0d8a126788cf70c6d00a122d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187943,
+            "locality_id":1343900669,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343900669,
+    "wof:lastmodified":1537582471,
+    "wof:name":"Nas Darah",
+    "wof:parent_id":421187943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47125,
+    34.88968,
+    69.47125,
+    34.88968
+],
+  "geometry": {"coordinates":[69.47125,34.88968],"type":"Point"}
+}

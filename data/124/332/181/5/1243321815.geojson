@@ -1,0 +1,75 @@
+{
+  "id": 1243321815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75053,31.64142,66.75053,31.64142",
+    "geom:latitude":31.64142,
+    "geom:longitude":66.75053,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Alghamchi",
+    "gn:country_code":"AF",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149000,
+    "gn:latitude":31.64142,
+    "gn:longitude":66.75053,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alghamch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algham\u010di",
+        "Al\u2019gamchi",
+        "Alghamch\u012b",
+        "\u0627\u0644\u063a\u0645\u0686\u06cc",
+        "Alghamchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149000
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe1a939a4f36ef98984822d06464121f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1243321815,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243321815,
+    "wof:lastmodified":1537582382,
+    "wof:name":"Alghamchi",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75053,
+    31.64142,
+    66.75053,
+    31.64142
+],
+  "geometry": {"coordinates":[66.75053,31.64142],"type":"Point"}
+}

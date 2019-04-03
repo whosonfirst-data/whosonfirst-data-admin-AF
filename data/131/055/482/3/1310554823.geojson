@@ -1,0 +1,68 @@
+{
+  "id": 1310554823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01249,34.89337,70.01249,34.89337",
+    "geom:latitude":34.89337,
+    "geom:longitude":70.01249,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Khandli",
+    "gn:country_code":"AF",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109622,
+    "gn:latitude":34.89337,
+    "gn:longitude":70.01249,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khandl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109622
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83d79d0024d849d265d7c91bdf45e11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1310554823,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1310554823,
+    "wof:lastmodified":1536844864,
+    "wof:name":"Khandli",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01249,
+    34.89337,
+    70.01249,
+    34.89337
+],
+  "geometry": {"coordinates":[70.01249,34.89337],"type":"Point"}
+}

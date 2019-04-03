@@ -1,0 +1,74 @@
+{
+  "id": 1260033691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71989,34.73985,70.71989,34.73985",
+    "geom:latitude":34.73985,
+    "geom:longitude":70.71989,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Kandah",
+    "gn:country_code":"AF",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474022,
+    "gn:latitude":34.73985,
+    "gn:longitude":70.71989,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kandah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kan\u1e0fa",
+        "Kanda",
+        "Kandah",
+        "\u06a9\u0646\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474022
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1ae235f9bb70493b2d5bf4c5ae418b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1260033691,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1260033691,
+    "wof:lastmodified":1537583777,
+    "wof:name":"Kandah",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71989,
+    34.73985,
+    70.71989,
+    34.73985
+],
+  "geometry": {"coordinates":[70.71989000000001,34.73985],"type":"Point"}
+}

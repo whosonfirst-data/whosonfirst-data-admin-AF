@@ -1,0 +1,75 @@
+{
+  "id": 1344021187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37382,34.45773,70.37382,34.45773",
+    "geom:latitude":34.45773,
+    "geom:longitude":70.37382,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802.0",
+    "gn:asciiname":"Betani",
+    "gn:country_code":"AF",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473116,
+    "gn:latitude":34.45773,
+    "gn:longitude":70.37382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Betani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113tani",
+        "B\u0113\u1e6fan\u012b",
+        "\u0628\u06d0\u067c\u0646\u06cc",
+        "B\u012btan\u012b",
+        "\u0628\u06cc\u062a\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95f2677e33d13aa2119ecdcd897a52af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562523,
+            "locality_id":1344021187,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1344021187,
+    "wof:lastmodified":1537583738,
+    "wof:name":"Betani",
+    "wof:parent_id":1108562523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37382,
+    34.45773,
+    70.37382,
+    34.45773
+],
+  "geometry": {"coordinates":[70.37381999999999,34.45773],"type":"Point"}
+}

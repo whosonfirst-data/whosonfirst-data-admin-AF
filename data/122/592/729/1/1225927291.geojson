@@ -1,0 +1,76 @@
+{
+  "id": 1225927291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.48177,35.0934,69.48177,35.0934",
+    "geom:latitude":35.0934,
+    "geom:longitude":69.48177,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"203",
+    "gn:asciiname":"Malikar",
+    "gn:country_code":"AF",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134164,
+    "gn:latitude":35.0934,
+    "gn:longitude":69.48177,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malikar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "Malekar",
+        "Malikar",
+        "\u0645\u0644\u06a9\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134164
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3a223279dab2eb8326325048b439f384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562201,
+            "locality_id":1225927291,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1225927291,
+    "wof:lastmodified":1537581154,
+    "wof:name":"Malikar",
+    "wof:parent_id":1108562201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.48177,
+    35.0934,
+    69.48177,
+    35.0934
+],
+  "geometry": {"coordinates":[69.48177,35.0934],"type":"Point"}
+}

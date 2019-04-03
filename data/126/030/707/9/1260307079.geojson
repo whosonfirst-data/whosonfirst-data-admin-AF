@@ -1,0 +1,74 @@
+{
+  "id": 1260307079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.58736,36.11606,64.58736,36.11606",
+    "geom:latitude":36.11606,
+    "geom:longitude":64.58736,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Khwajah Qol",
+    "gn:country_code":"AF",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1424309,
+    "gn:latitude":36.11606,
+    "gn:longitude":64.58736,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khw\u0101ja Qul (1)",
+        "Khw\u0101jah Q\u014dl",
+        "\u062e\u0648\u0627\u062c\u0647 \u0642\u0648\u0644",
+        "Khv\u0101jeh Qowl (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424309
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"266c89f6379cccceb708ae34aa9cc5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1260307079,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1260307079,
+    "wof:lastmodified":1537582606,
+    "wof:name":"Khwajah Qol",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.58736,
+    36.11606,
+    64.58736,
+    36.11606
+],
+  "geometry": {"coordinates":[64.58736,36.11606],"type":"Point"}
+}

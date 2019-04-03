@@ -1,0 +1,74 @@
+{
+  "id": 1293679771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25973,33.34554,67.25973,33.34554",
+    "geom:latitude":33.34554,
+    "geom:longitude":67.25973,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Nayzar",
+    "gn:country_code":"AF",
+    "gn:dem":2843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131888,
+    "gn:latitude":33.34554,
+    "gn:longitude":67.25973,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nayz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nayz\u0101\u1e5f",
+        "Neyz\u0101r",
+        "Nayz\u0101r",
+        "\u0646\u06cc\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131888
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a0807ae10a12529d347a24556176552d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1293679771,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293679771,
+    "wof:lastmodified":1537580960,
+    "wof:name":"Nayzar",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25973,
+    33.34554,
+    67.25973,
+    33.34554
+],
+  "geometry": {"coordinates":[67.25973,33.34554],"type":"Point"}
+}

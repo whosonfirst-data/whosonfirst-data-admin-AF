@@ -1,0 +1,77 @@
+{
+  "id": 1260355395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49472,34.41915,70.49472,34.41915",
+    "geom:latitude":34.41915,
+    "geom:longitude":70.49472,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Qasabah",
+    "gn:country_code":"AF",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473021,
+    "gn:latitude":34.41915,
+    "gn:longitude":70.49472,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qa\u015fabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasaba",
+        "Qa\u015faba",
+        "Qa\u015fabeh",
+        "Qa\u015fabah",
+        "\u0642\u0635\u0628\u0647",
+        "Qa\u015f\u0101b\u0101",
+        "\u0642\u0635\u0627\u0628\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8a85dd46e01395cc9c6ade070fdf8ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1260355395,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1260355395,
+    "wof:lastmodified":1537583731,
+    "wof:name":"Qasabah",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49472,
+    34.41915,
+    70.49472,
+    34.41915
+],
+  "geometry": {"coordinates":[70.49472,34.41915],"type":"Point"}
+}

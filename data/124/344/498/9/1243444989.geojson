@@ -1,0 +1,76 @@
+{
+  "id": 1243444989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63732,33.51414,68.63732,33.51414",
+    "geom:latitude":33.51414,
+    "geom:longitude":68.63732,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"615",
+    "gn:asciiname":"Qal'ah-ye Tutak",
+    "gn:country_code":"AF",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129778,
+    "gn:latitude":33.51414,
+    "gn:longitude":68.63732,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye T\u016btak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-T\u016btak",
+        "Kalatutak",
+        "Qal\u2018a T\u016btak",
+        "Qal\u2018eh-ye T\u016btak",
+        "Qal\u2018ah-ye T\u016btak",
+        "\u0642\u0644\u0639\u06c0 \u062a\u0648\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129778
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"464b7fc2bc8657b3ffaed6f59e34ae16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1243444989,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243444989,
+    "wof:lastmodified":1537580761,
+    "wof:name":"Qal'ah-ye Tutak",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63731999999999,
+    33.51414,
+    68.63731999999999,
+    33.51414
+],
+  "geometry": {"coordinates":[68.63731999999999,33.51414],"type":"Point"}
+}

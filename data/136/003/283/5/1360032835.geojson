@@ -1,0 +1,75 @@
+{
+  "id": 1360032835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31534,34.45833,67.31534,34.45833",
+    "geom:latitude":34.45833,
+    "geom:longitude":67.31534,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Hujrah",
+    "gn:country_code":"AF",
+    "gn:dem":2970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139888,
+    "gn:latitude":34.45833,
+    "gn:longitude":67.31534,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ujrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khudzhra",
+        "\u1e28uj\u1e5fa",
+        "\u1e28ojreh",
+        "\u1e28ujrah",
+        "\u062d\u062c\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139888
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b0ad61a8172d9e95f16f01059190940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1360032835,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1360032835,
+    "wof:lastmodified":1537581614,
+    "wof:name":"Hujrah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31534,
+    34.45833,
+    67.31534,
+    34.45833
+],
+  "geometry": {"coordinates":[67.31534000000001,34.45833],"type":"Point"}
+}

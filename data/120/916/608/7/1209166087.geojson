@@ -1,0 +1,69 @@
+{
+  "id": 1209166087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08371,33.70012,70.08371,33.70012",
+    "geom:latitude":33.70012,
+    "geom:longitude":70.08371,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3202",
+    "gn:asciiname":"Mandetah",
+    "gn:country_code":"AF",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133999,
+    "gn:latitude":33.70012,
+    "gn:longitude":70.08371,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mand\u0113tah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandeta",
+        "Man\u1e0f\u0113ta",
+        "Mand\u0113tah",
+        "Man\u1e0f\u0113tah",
+        "\u0645\u0646\u062f\u06d0\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133999
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"18bed8c92e37d194014607dcc9c21f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209166087
+        }
+    ],
+    "wof:id":1209166087,
+    "wof:lastmodified":1537581138,
+    "wof:name":"Mandetah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08371,
+    33.70012,
+    70.08371,
+    33.70012
+],
+  "geometry": {"coordinates":[70.08371,33.70012],"type":"Point"}
+}

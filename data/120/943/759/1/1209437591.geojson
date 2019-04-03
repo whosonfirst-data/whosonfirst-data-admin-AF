@@ -1,0 +1,68 @@
+{
+  "id": 1209437591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.69005,34.2175,66.69005,34.2175",
+    "geom:latitude":34.2175,
+    "geom:longitude":66.69005,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Nauguli",
+    "gn:country_code":"AF",
+    "gn:dem":2992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132069,
+    "gn:latitude":34.2175,
+    "gn:longitude":66.69005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nauguli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawg\u016bli",
+        "Nawg\u014dl\u012b",
+        "N\u0101wg\u016bl\u012b",
+        "\u0646\u0627\u0648\u06af\u0648\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132069
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca3d8b9605869711daeded8cf9f9c871",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209437591
+        }
+    ],
+    "wof:id":1209437591,
+    "wof:lastmodified":1537580975,
+    "wof:name":"Nauguli",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.69005,
+    34.2175,
+    66.69005,
+    34.2175
+],
+  "geometry": {"coordinates":[66.69005,34.2175],"type":"Point"}
+}

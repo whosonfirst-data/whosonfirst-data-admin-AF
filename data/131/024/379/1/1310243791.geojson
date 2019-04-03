@@ -1,0 +1,77 @@
+{
+  "id": 1310243791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.85088,33.22811,69.85088,33.22811",
+    "geom:latitude":33.22811,
+    "geom:longitude":69.85088,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Mir Zaman Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434435,
+    "gn:latitude":33.22811,
+    "gn:longitude":69.85088,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br Zam\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627\u0645\u0627\u0646 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mirzaman-Kalay",
+        "M\u012br Zam\u0101n K\u00ealay",
+        "M\u012b\u1e5fz\u0101m\u0101n Kalay",
+        "\u0645\u06cc\u0631 \u0632\u0627\u0645\u0627\u0646 \u0643\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434435
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b95633aa9e599ceaf42ad7828367da92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1310243791,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1310243791,
+    "wof:lastmodified":1537582717,
+    "wof:name":"Mir Zaman Kelay",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.85088,
+    33.22811,
+    69.85088,
+    33.22811
+],
+  "geometry": {"coordinates":[69.85088,33.22811],"type":"Point"}
+}

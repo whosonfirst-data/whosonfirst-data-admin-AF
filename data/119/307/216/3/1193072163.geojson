@@ -1,0 +1,78 @@
+{
+  "id": 1193072163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37721,33.40926,69.37721,33.40926",
+    "geom:latitude":33.40926,
+    "geom:longitude":69.37721,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"703.0",
+    "gn:asciiname":"Dukanha-ye Shabak",
+    "gn:country_code":"AF",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434936,
+    "gn:latitude":33.40926,
+    "gn:longitude":69.37721,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Duk\u0101nh\u0101-ye Shabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06a9\u0627\u0646\u0647\u0627\u06cc \u0634\u0628\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Dukankhayi Shabak",
+        "Dok\u0101nh\u0101-i-\u0160abak",
+        "Dok\u0101nh\u0101-ye Shabak",
+        "Duk\u0101nh\u0101-ye Shabak",
+        "\u062f\u06a9\u0627\u0646\u0647\u0627\u06cc \u0634\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434936
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8590aa89f8c904954180a6262543940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562477,
+            "locality_id":1193072163,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193072163,
+    "wof:lastmodified":1537582748,
+    "wof:name":"Dukanha-ye Shabak",
+    "wof:parent_id":1108562477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37720999999999,
+    33.40926,
+    69.37720999999999,
+    33.40926
+],
+  "geometry": {"coordinates":[69.37720999999999,33.40926],"type":"Point"}
+}

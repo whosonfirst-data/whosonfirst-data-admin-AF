@@ -1,0 +1,68 @@
+{
+  "id": 1209056629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92375,35.99534,66.92375,35.99534",
+    "geom:latitude":35.99534,
+    "geom:longitude":66.92375,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Taygh-e Mianah",
+    "gn:country_code":"AF",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122448,
+    "gn:latitude":35.99534,
+    "gn:longitude":66.92375,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Taygh-e M\u012b\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0113ghe My\u0101na",
+        "T\u012bgh-e M\u012b\u0101neh",
+        "Taygh-e M\u012b\u0101nah",
+        "\u062a\u06cc\u063a \u0645\u06cc\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122448
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ea442a81666122e5f3e6e02f74434d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209056629
+        }
+    ],
+    "wof:id":1209056629,
+    "wof:lastmodified":1537580114,
+    "wof:name":"Taygh-e Mianah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92375,
+    35.99534,
+    66.92375,
+    35.99534
+],
+  "geometry": {"coordinates":[66.92375,35.99534],"type":"Point"}
+}

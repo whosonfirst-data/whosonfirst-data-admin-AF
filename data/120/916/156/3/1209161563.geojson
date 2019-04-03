@@ -1,0 +1,62 @@
+{
+  "id": 1209161563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1289,32.96066,69.1289,32.96066",
+    "geom:latitude":32.96066,
+    "geom:longitude":69.1289,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Dahanah",
+    "gn:country_code":"AF",
+    "gn:dem":2285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7107013,
+    "gn:latitude":32.96066,
+    "gn:longitude":69.1289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107013
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80002b4b02e7e64a8c88832d878e069d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209161563
+        }
+    ],
+    "wof:id":1209161563,
+    "wof:lastmodified":1536295879,
+    "wof:name":"Dahanah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1289,
+    32.96066,
+    69.1289,
+    32.96066
+],
+  "geometry": {"coordinates":[69.1289,32.96066],"type":"Point"}
+}

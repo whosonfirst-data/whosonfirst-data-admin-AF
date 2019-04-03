@@ -1,0 +1,82 @@
+{
+  "id": 1310100917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97792,33.55261,67.97792,33.55261",
+    "geom:latitude":33.55261,
+    "geom:longitude":67.97792,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"602.0",
+    "gn:asciiname":"Gudali Sar Chashmah",
+    "gn:country_code":"AF",
+    "gn:dem":2832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438418,
+    "gn:latitude":33.55261,
+    "gn:longitude":67.97792,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gu\u1e0fal\u012b Sar Chashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u062f\u0644\u0626 \u0633\u0631 \u0686\u0634\u0645\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0434\u0430\u043b\u0438-\u0421\u0430\u0440\u0447\u0430\u0448\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gudali-Sarchashma",
+        "Godal\u012b Sar\u010de\u0161ma",
+        "Godal\u012b Sar\u010da\u0161ma",
+        "Godal\u012b Sarcheshmeh",
+        "Gu\u1e0fal\u012b Sar Chashmah",
+        "\u06af\u0689\u0644\u06cc \u0633\u0631 \u0686\u0634\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438418
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"199df26ee42e4111620d83b1facd8de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1310100917,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310100917,
+    "wof:lastmodified":1537582885,
+    "wof:name":"Gudali Sar Chashmah",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97792,
+    33.55260999999999,
+    67.97792,
+    33.55260999999999
+],
+  "geometry": {"coordinates":[67.97792,33.55260999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260268387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6358,33.04736,67.6358,33.04736",
+    "geom:latitude":33.04736,
+    "geom:longitude":67.6358,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Bilandi",
+    "gn:country_code":"AF",
+    "gn:dem":2697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448656,
+    "gn:latitude":33.04736,
+    "gn:longitude":67.6358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Biland\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0430\u043d\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "Belan\u1e0fi",
+        "Boland\u012b",
+        "Biland\u012b",
+        "\u0628\u0644\u0646\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448656
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"24b8e89672ae49a57796dd5d2b8d3e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1260268387,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260268387,
+    "wof:lastmodified":1537582989,
+    "wof:name":"Bilandi",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6358,
+    33.04736,
+    67.6358,
+    33.04736
+],
+  "geometry": {"coordinates":[67.6358,33.04736],"type":"Point"}
+}

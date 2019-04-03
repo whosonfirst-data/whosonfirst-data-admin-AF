@@ -1,0 +1,77 @@
+{
+  "id": 1309871915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03943,34.39911,71.03943,34.39911",
+    "geom:latitude":34.39911,
+    "geom:longitude":71.03943,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"815",
+    "gn:asciiname":"Nur Khan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131616,
+    "gn:latitude":34.39911,
+    "gn:longitude":71.03943,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u016br Kh\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0646\u0648\u0631 \u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Nurkhankalay",
+        "N\u016br Kh\u0101n K\u00ealay",
+        "N\u016b\u1e5fkh\u0101n Kalay",
+        "\u0646\u0648\u0631 \u062e\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"631d5b077f96a3fac4e22508e786ae85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562227,
+            "locality_id":1309871915,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1309871915,
+    "wof:lastmodified":1537580936,
+    "wof:name":"Nur Khan Kelay",
+    "wof:parent_id":1108562227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03943000000002,
+    34.39911,
+    71.03943000000002,
+    34.39911
+],
+  "geometry": {"coordinates":[71.03943000000002,34.39911],"type":"Point"}
+}

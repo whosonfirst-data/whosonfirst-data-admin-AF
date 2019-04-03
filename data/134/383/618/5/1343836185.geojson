@@ -1,0 +1,74 @@
+{
+  "id": 1343836185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.56999,34.41143,61.56999,34.41143",
+    "geom:latitude":34.41143,
+    "geom:longitude":61.56999,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Ruch",
+    "gn:country_code":"AF",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128249,
+    "gn:latitude":34.41143,
+    "gn:longitude":61.56999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e5e\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u016bc",
+        "R\u016bch",
+        "\u1e5e\u016bch",
+        "\u0693\u0648\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128249
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"464ab4022cc1dd5de00c8501de3987d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1343836185,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343836185,
+    "wof:lastmodified":1537580612,
+    "wof:name":"Ruch",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.56999,
+    34.41143,
+    61.56999,
+    34.41143
+],
+  "geometry": {"coordinates":[61.56999,34.41143],"type":"Point"}
+}

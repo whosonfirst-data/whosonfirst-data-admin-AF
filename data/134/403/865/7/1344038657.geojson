@@ -1,0 +1,73 @@
+{
+  "id": 1344038657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.77414,33.64984,62.77414,33.64984",
+    "geom:latitude":33.64984,
+    "geom:longitude":62.77414,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Khinjaki",
+    "gn:country_code":"AF",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1136731,
+    "gn:latitude":33.64984,
+    "gn:longitude":62.77414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khinjak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khinjak\u012b",
+        "\u062e\u0646\u062c\u06a9\u06cc",
+        "Khenjak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136731
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e3e3f97c6b18b690ecda7a5b2635c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1344038657,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1344038657,
+    "wof:lastmodified":1537581365,
+    "wof:name":"Khinjaki",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.77414,
+    33.64984,
+    62.77414,
+    33.64984
+],
+  "geometry": {"coordinates":[62.77414,33.64984],"type":"Point"}
+}

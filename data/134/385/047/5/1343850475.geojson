@@ -1,0 +1,74 @@
+{
+  "id": 1343850475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.97291,33.10389,63.97291,33.10389",
+    "geom:latitude":33.10389,
+    "geom:longitude":63.97291,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Rabat-e Biland",
+    "gn:country_code":"AF",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128321,
+    "gn:latitude":33.10389,
+    "gn:longitude":63.97291,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163-e Biland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eob\u0101\u1e6fe Belan\u1e0f",
+        "Rab\u0101\u0163-e Biland",
+        "\u0631\u0628\u0627\u0637 \u0628\u0644\u0646\u062f",
+        "Rob\u0101\u0163-e Boland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128321
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"965be3a69229cf29ad2e362ed443b9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1343850475,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1343850475,
+    "wof:lastmodified":1537580619,
+    "wof:name":"Rabat-e Biland",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.97291,
+    33.10389,
+    63.97291,
+    33.10389
+],
+  "geometry": {"coordinates":[63.97291,33.10389],"type":"Point"}
+}

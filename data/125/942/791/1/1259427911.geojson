@@ -1,0 +1,68 @@
+{
+  "id": 1259427911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80843,34.73031,70.80843,34.73031",
+    "geom:latitude":34.73031,
+    "geom:longitude":70.80843,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Khundah Shal",
+    "gn:country_code":"AF",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110302,
+    "gn:latitude":34.73031,
+    "gn:longitude":70.80843,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khundah Sh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110302
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02cb0a3f2473ac70176c0f33bed3484c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1259427911,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1259427911,
+    "wof:lastmodified":1536939384,
+    "wof:name":"Khundah Shal",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80843,
+    34.73031,
+    70.80843,
+    34.73031
+],
+  "geometry": {"coordinates":[70.80843,34.73031],"type":"Point"}
+}

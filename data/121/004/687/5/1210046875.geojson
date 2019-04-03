@@ -1,0 +1,80 @@
+{
+  "id": 1210046875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7994,32.83912,66.7994,32.83912",
+    "geom:latitude":32.83912,
+    "geom:longitude":66.7994,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Qaryah-ye Sarqol",
+    "gn:country_code":"AF",
+    "gn:dem":2898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129308,
+    "gn:latitude":32.83912,
+    "gn:longitude":66.7994,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Sarq\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0633\u0631 \u0642\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Sarkul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fy-i-Sarq\u014dl",
+        "Qaryah-ye Sarq\u014dl",
+        "\u0642\u0631\u06cc\u0647 \u0633\u0631\u0642\u0648\u0644",
+        "Qaryeh-ye Sar Qowl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129308
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f5b13927380e2e8154dd2d3fd16d1b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1210046875,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1210046875,
+    "wof:lastmodified":1537580705,
+    "wof:name":"Qaryah-ye Sarqol",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7994,
+    32.83912,
+    66.7994,
+    32.83912
+],
+  "geometry": {"coordinates":[66.79940000000001,32.83912],"type":"Point"}
+}

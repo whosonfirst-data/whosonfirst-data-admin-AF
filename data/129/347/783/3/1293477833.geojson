@@ -1,0 +1,75 @@
+{
+  "id": 1293477833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.6105,34.32582,62.6105,34.32582",
+    "geom:latitude":34.32582,
+    "geom:longitude":62.6105,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Yosufabad",
+    "gn:country_code":"AF",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1121160,
+    "gn:latitude":34.32582,
+    "gn:longitude":62.6105,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Y\u014dsuf\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Yosuf \u0100b\u0101\u1e0f",
+        "Yusufabad",
+        "Y\u016bsof\u0101b\u0101d",
+        "Y\u014dsuf\u0101b\u0101d",
+        "\u06cc\u0648\u0633\u0641 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121160
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c001f132193ffa80dadec0a63b1217d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1293477833,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293477833,
+    "wof:lastmodified":1537580026,
+    "wof:name":"Yosufabad",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.6105,
+    34.32582,
+    62.6105,
+    34.32582
+],
+  "geometry": {"coordinates":[62.6105,34.32582],"type":"Point"}
+}

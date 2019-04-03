@@ -1,0 +1,86 @@
+{
+  "id": 1343706015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43453,33.36511,69.43453,33.36511",
+    "geom:latitude":33.36511,
+    "geom:longitude":69.43453,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Barah Waze",
+    "gn:country_code":"AF",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121645,
+    "gn:latitude":33.36511,
+    "gn:longitude":69.43453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barah Waz\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0647 \u0648\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Waz\u0113",
+        "Kuz Waza",
+        "V\u0101zeh",
+        "Barv Vaze",
+        "Wazay",
+        "Ba\u1e5fa Waz\u0113",
+        "W\u0101za",
+        "Wazah Jadr\u0101n",
+        "Vazay",
+        "Wazah",
+        "Barah Wazay",
+        "Barah Waz\u0113",
+        "\u0628\u0631\u0647 \u0648\u0632\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121645
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eebe78598a2d1f120ef68741d01ef016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1343706015,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1343706015,
+    "wof:lastmodified":1537580054,
+    "wof:name":"Barah Waze",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43453000000001,
+    33.36510999999999,
+    69.43453000000001,
+    33.36510999999999
+],
+  "geometry": {"coordinates":[69.43453000000001,33.36510999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209662749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03388,32.775,67.03388,32.775",
+    "geom:latitude":32.775,
+    "geom:longitude":67.03388,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"'Abdul Salam",
+    "gn:country_code":"AF",
+    "gn:dem":2547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149636,
+    "gn:latitude":32.775,
+    "gn:longitude":67.03388,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Abdul Sal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u1e0ful Sal\u0101m",
+        "\u2018Abd es Sal\u0101m",
+        "Abd ol Sal\u0101m",
+        "\u2018Abdul Sal\u0101m",
+        "\u0639\u0628\u062f\u0644 \u0633\u0644\u0627\u0645",
+        "\u2018Abd os Sal\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149636
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d234d322702ded110ea7b762b7130de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209662749
+        }
+    ],
+    "wof:id":1209662749,
+    "wof:lastmodified":1537582436,
+    "wof:name":"'Abdul Salam",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03388000000001,
+    32.775,
+    67.03388000000001,
+    32.775
+],
+  "geometry": {"coordinates":[67.03388000000001,32.775],"type":"Point"}
+}

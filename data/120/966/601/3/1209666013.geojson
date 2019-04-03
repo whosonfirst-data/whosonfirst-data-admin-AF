@@ -1,0 +1,76 @@
+{
+  "id": 1209666013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03804,32.59516,68.03804,32.59516",
+    "geom:latitude":32.59516,
+    "geom:longitude":68.03804,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903",
+    "gn:asciiname":"Dilah",
+    "gn:country_code":"AF",
+    "gn:dem":1979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143086,
+    "gn:latitude":32.59516,
+    "gn:longitude":68.03804,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0e\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e0e\u012blah"
+    ],
+    "name:fas_x_variant":[
+        "\u0689\u06cc\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ad\u012bn Kheyl",
+        "D\u012bleh",
+        "Ad\u012bn Khel",
+        "Dila",
+        "\u1e0e\u012blah",
+        "\u0689\u06cc\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"093a393832912f72eb777725d8a5b6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209666013
+        }
+    ],
+    "wof:id":1209666013,
+    "wof:lastmodified":1537581892,
+    "wof:name":"Dilah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03804000000001,
+    32.59516,
+    68.03804000000001,
+    32.59516
+],
+  "geometry": {"coordinates":[68.03804000000001,32.59516],"type":"Point"}
+}

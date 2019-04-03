@@ -1,0 +1,78 @@
+{
+  "id": 1326884253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34057,35.08456,71.34057,35.08456",
+    "geom:latitude":35.08456,
+    "geom:longitude":71.34057,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Bararo Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424115,
+    "gn:latitude":35.08456,
+    "gn:longitude":71.34057,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bara\u1e5f\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0628\u0631\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5faro Kalay",
+        "Bararukalay",
+        "\u0628\u0631\u0693\u0648 \u06a9\u0644\u06cc",
+        "Bara\u1e5f Kalay",
+        "Bara\u1e5f\u014d K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424115
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"74a5992ef84db4071d43569c7aa173cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561857,
+            "locality_id":1326884253,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326884253,
+    "wof:lastmodified":1537582600,
+    "wof:name":"Bararo Kelay",
+    "wof:parent_id":1108561857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34057,
+    35.08456,
+    71.34057,
+    35.08456
+],
+  "geometry": {"coordinates":[71.34057,35.08456],"type":"Point"}
+}

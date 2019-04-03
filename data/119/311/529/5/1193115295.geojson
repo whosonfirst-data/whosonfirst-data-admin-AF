@@ -1,0 +1,75 @@
+{
+  "id": 1193115295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.07209,34.49065,64.07209,34.49065",
+    "geom:latitude":34.49065,
+    "geom:longitude":64.07209,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Kham-e Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137203,
+    "gn:latitude":34.49065,
+    "gn:longitude":64.07209,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kham-e Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khame Su\u1e5fkh",
+        "Khami-Surkh",
+        "Kham-e Surkh",
+        "\u062e\u0645 \u0633\u0631\u062e",
+        "Kham-e Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137203
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c42cf9ed6c87171f7048c858f2de16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1193115295,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1193115295,
+    "wof:lastmodified":1537581402,
+    "wof:name":"Kham-e Surkh",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.07209,
+    34.49065,
+    64.07209,
+    34.49065
+],
+  "geometry": {"coordinates":[64.07209,34.49065],"type":"Point"}
+}

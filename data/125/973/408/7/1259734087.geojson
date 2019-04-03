@@ -1,0 +1,73 @@
+{
+  "id": 1259734087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62648,32.96119,68.62648,32.96119",
+    "geom:latitude":32.96119,
+    "geom:longitude":68.62648,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2918",
+    "gn:asciiname":"Palaw",
+    "gn:country_code":"AF",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131226,
+    "gn:latitude":32.96119,
+    "gn:longitude":68.62648,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pal\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palau",
+        "\u067e\u0644\u0627\u0648",
+        "Pal\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131226
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e0bff09b64a5991a92bef6f87353561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562585,
+            "locality_id":1259734087,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259734087,
+    "wof:lastmodified":1537580905,
+    "wof:name":"Palaw",
+    "wof:parent_id":1108562585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62648,
+    32.96119,
+    68.62648,
+    32.96119
+],
+  "geometry": {"coordinates":[68.62648,32.96119],"type":"Point"}
+}

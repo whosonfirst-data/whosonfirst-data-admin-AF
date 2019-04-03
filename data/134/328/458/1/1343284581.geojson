@@ -1,0 +1,71 @@
+{
+  "id": 1343284581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50846,34.9611,66.50846,34.9611",
+    "geom:latitude":34.9611,
+    "geom:longitude":66.50846,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Kalak",
+    "gn:country_code":"AF",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138640,
+    "gn:latitude":34.9611,
+    "gn:longitude":66.50846,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b2310be586615a00c344c38829ba97dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1343284581,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343284581,
+    "wof:lastmodified":1537581514,
+    "wof:name":"Kalak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50846,
+    34.9611,
+    66.50846,
+    34.9611
+],
+  "geometry": {"coordinates":[66.50846,34.9611],"type":"Point"}
+}

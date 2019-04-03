@@ -1,0 +1,77 @@
+{
+  "id": 1310181359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09315,33.80298,69.09315,33.80298",
+    "geom:latitude":33.80298,
+    "geom:longitude":69.09315,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Altamur",
+    "gn:country_code":"AF",
+    "gn:dem":2323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148838,
+    "gn:latitude":33.80298,
+    "gn:longitude":69.09315,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Altam\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Al\u2019tamur"
+    ],
+    "name:und_x_variant":[
+        "Alt\u012bm\u016br",
+        "Altam\u016b\u1e5f",
+        "Altam\u016br",
+        "\u0627\u0644\u062a\u0645\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"60fca24968a51548dfeeaabf102ae503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562361,
+            "locality_id":1310181359,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1310181359,
+    "wof:lastmodified":1537582369,
+    "wof:name":"Altamur",
+    "wof:parent_id":1108562361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09315,
+    33.80298,
+    69.09315,
+    33.80298
+],
+  "geometry": {"coordinates":[69.09314999999999,33.80298],"type":"Point"}
+}

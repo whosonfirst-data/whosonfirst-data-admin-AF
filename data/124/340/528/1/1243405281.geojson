@@ -1,0 +1,73 @@
+{
+  "id": 1243405281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.58779,32.14243,67.58779,32.14243",
+    "geom:latitude":32.14243,
+    "geom:longitude":67.58779,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511",
+    "gn:asciiname":"Musa Zai",
+    "gn:country_code":"AF",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132599,
+    "gn:latitude":32.14243,
+    "gn:longitude":67.58779,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u0101 Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u016bs\u0101 Za\u012b",
+        "\u0645\u0648\u0633\u0649 \u0632\u06cc",
+        "M\u016bs\u0101zay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132599
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"135f5c9aa60824d6eb82c8a581b4e233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1243405281,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243405281,
+    "wof:lastmodified":1537581019,
+    "wof:name":"Musa Zai",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.58779,
+    32.14243,
+    67.58779,
+    32.14243
+],
+  "geometry": {"coordinates":[67.58779,32.14243],"type":"Point"}
+}

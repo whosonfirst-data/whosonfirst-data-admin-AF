@@ -1,0 +1,73 @@
+{
+  "id": 1242935599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.10198,31.17464,62.10198,31.17464",
+    "geom:latitude":31.17464,
+    "geom:longitude":62.10198,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Karimdadzai",
+    "gn:country_code":"AF",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438884,
+    "gn:latitude":31.17464,
+    "gn:longitude":62.10198,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kar\u012bmd\u0101dza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u012bmd\u0101dza\u012b",
+        "\u06a9\u0631\u06cc\u0645\u062f\u0627\u062f\u0632\u06cc",
+        "Kar\u012bmd\u0101dz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438884
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e19e3de0fd01253de1ffc92c6226537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561895,
+            "locality_id":1242935599,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1242935599,
+    "wof:lastmodified":1537582900,
+    "wof:name":"Karimdadzai",
+    "wof:parent_id":1108561895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.10198000000001,
+    31.17464,
+    62.10198000000001,
+    31.17464
+],
+  "geometry": {"coordinates":[62.10198000000001,31.17464],"type":"Point"}
+}

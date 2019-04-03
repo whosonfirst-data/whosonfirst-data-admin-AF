@@ -1,0 +1,73 @@
+{
+  "id": 1276600215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7037,32.20886,67.7037,32.20886",
+    "geom:latitude":32.20886,
+    "geom:longitude":67.7037,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Bazargay",
+    "gn:country_code":"AF",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146692,
+    "gn:latitude":32.20886,
+    "gn:longitude":67.7037,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101z\u0101rgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101z\u0101rgay",
+        "\u0628\u0627\u0632\u0627\u0631\u06af\u06cc",
+        "B\u0101z\u0101\u1e5fgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146692
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"560097ac8920e9a43dec1f8d122d7a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1276600215,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276600215,
+    "wof:lastmodified":1537582206,
+    "wof:name":"Bazargay",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7037,
+    32.20885999999999,
+    67.7037,
+    32.20885999999999
+],
+  "geometry": {"coordinates":[67.7037,32.20885999999999],"type":"Point"}
+}

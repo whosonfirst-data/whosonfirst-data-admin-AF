@@ -1,0 +1,76 @@
+{
+  "id": 1225912517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89703,36.57088,68.89703,36.57088",
+    "geom:latitude":36.57088,
+    "geom:longitude":68.89703,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1405",
+    "gn:asciiname":"Laqay",
+    "gn:country_code":"AF",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134791,
+    "gn:latitude":36.57088,
+    "gn:longitude":68.89703,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Laqay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Lakay",
+        "Laqay",
+        "\u0644\u0642\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134791
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3dc2c9e1985d70cd247142fb1cb2d662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561791,
+            "locality_id":1225912517,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1225912517,
+    "wof:lastmodified":1537581202,
+    "wof:name":"Laqay",
+    "wof:parent_id":1108561791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89703,
+    36.57088,
+    68.89703,
+    36.57088
+],
+  "geometry": {"coordinates":[68.89703,36.57088],"type":"Point"}
+}

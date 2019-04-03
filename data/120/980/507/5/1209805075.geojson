@@ -1,0 +1,72 @@
+{
+  "id": 1209805075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.71183,34.15116,63.71183,34.15116",
+    "geom:latitude":34.15116,
+    "geom:longitude":63.71183,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Pahlan",
+    "gn:country_code":"AF",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131311,
+    "gn:latitude":34.15116,
+    "gn:longitude":63.71183,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pahl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pahl\u0101n",
+        "\u067e\u0647\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131311
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d4187f0ac339d63c925b61cd69979b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1209805075,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209805075,
+    "wof:lastmodified":1537580910,
+    "wof:name":"Pahlan",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.71183000000001,
+    34.15116,
+    63.71183000000001,
+    34.15116
+],
+  "geometry": {"coordinates":[63.71183000000001,34.15116],"type":"Point"}
+}

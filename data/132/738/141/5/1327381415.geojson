@@ -1,0 +1,76 @@
+{
+  "id": 1327381415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.22404,32.32748,67.22404,32.32748",
+    "geom:latitude":32.32748,
+    "geom:longitude":67.22404,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Tiliray",
+    "gn:country_code":"AF",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122537,
+    "gn:latitude":32.32748,
+    "gn:longitude":67.22404,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tiliray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u064a\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0644\u0631\u06cc",
+        "Tel\u012b\u1e5fay",
+        "Tiliray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122537
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"996854146aebc06d15ff36a7788772d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1327381415,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327381415,
+    "wof:lastmodified":1537580167,
+    "wof:name":"Tiliray",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.22404,
+    32.32748,
+    67.22404,
+    32.32748
+],
+  "geometry": {"coordinates":[67.22404,32.32748],"type":"Point"}
+}

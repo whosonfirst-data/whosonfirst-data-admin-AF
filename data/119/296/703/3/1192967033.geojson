@@ -1,0 +1,74 @@
+{
+  "id": 1192967033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.44603,36.02938,66.44603,36.02938",
+    "geom:latitude":36.02938,
+    "geom:longitude":66.44603,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3102",
+    "gn:asciiname":"Gur Bulaq",
+    "gn:country_code":"AF",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140522,
+    "gn:latitude":36.02938,
+    "gn:longitude":66.44603,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u016br B\u016bl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u016br Bul\u0101q",
+        "G\u016br Bol\u0101q",
+        "G\u016br B\u016bl\u0101q",
+        "\u06af\u0648\u0631 \u0628\u0648\u0644\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"42fe83de8d0ecf83390be5ef46386210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562429,
+            "locality_id":1192967033,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1192967033,
+    "wof:lastmodified":1537581670,
+    "wof:name":"Gur Bulaq",
+    "wof:parent_id":1108562429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.44603000000001,
+    36.02938,
+    66.44603000000001,
+    36.02938
+],
+  "geometry": {"coordinates":[66.44603000000001,36.02938],"type":"Point"}
+}

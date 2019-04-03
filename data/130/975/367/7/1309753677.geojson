@@ -1,0 +1,79 @@
+{
+  "id": 1309753677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37504,34.58493,67.37504,34.58493",
+    "geom:latitude":34.58493,
+    "geom:longitude":67.37504,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Tiryak",
+    "gn:country_code":"AF",
+    "gn:dem":3140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471696,
+    "gn:latitude":34.58493,
+    "gn:longitude":67.37504,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tiryak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tir\u2019yak"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0438\u0440\u044c\u044f\u043a"
+    ],
+    "name:und_x_variant":[
+        "Teryak",
+        "Tiryak",
+        "\u062a\u0631\u064a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471696
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ee22bf7a2fca0fa3ca7aaced8a4001fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1309753677,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1309753677,
+    "wof:lastmodified":1537583654,
+    "wof:name":"Tiryak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37504,
+    34.58493,
+    67.37504,
+    34.58493
+],
+  "geometry": {"coordinates":[67.37504,34.58493],"type":"Point"}
+}

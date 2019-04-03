@@ -1,0 +1,77 @@
+{
+  "id": 1360081635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.4183,33.91054,64.4183,33.91054",
+    "geom:latitude":33.91054,
+    "geom:longitude":64.4183,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Bayd-e Ghorian",
+    "gn:country_code":"AF",
+    "gn:dem":2549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146453,
+    "gn:latitude":33.91054,
+    "gn:longitude":64.4183,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayd-e Gh\u014dr\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bedi-Gor\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "B\u0113\u1e0fe Gh\u014d\u1e5fy\u0101n",
+        "Bayd-e Gh\u014dr\u012b\u0101n",
+        "\u0628\u06cc\u062f \u063a\u0648\u0631\u06cc\u0627\u0646",
+        "B\u012bd-e Gh\u016br\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7b4f91b7d7b59a372896c0e500fc7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1360081635,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1360081635,
+    "wof:lastmodified":1537582186,
+    "wof:name":"Bayd-e Ghorian",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.4183,
+    33.91054,
+    64.4183,
+    33.91054
+],
+  "geometry": {"coordinates":[64.4183,33.91054],"type":"Point"}
+}

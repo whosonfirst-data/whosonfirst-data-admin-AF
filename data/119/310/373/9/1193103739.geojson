@@ -1,0 +1,74 @@
+{
+  "id": 1193103739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77101,34.4826,67.77101,34.4826",
+    "geom:latitude":34.4826,
+    "geom:longitude":67.77101,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Sar-e Bay",
+    "gn:country_code":"AF",
+    "gn:dem":2961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460122,
+    "gn:latitude":34.4826,
+    "gn:longitude":67.77101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e B\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Bai",
+        "Sar-e B\u0101y",
+        "Sar-e B\u0101\u2018\u012b",
+        "\u0633\u0631 \u0628\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460122
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a508de59f32fbe6aafe2cba8e68e8c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1193103739,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1193103739,
+    "wof:lastmodified":1537583301,
+    "wof:name":"Sar-e Bay",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77101,
+    34.4826,
+    67.77101,
+    34.4826
+],
+  "geometry": {"coordinates":[67.77101,34.4826],"type":"Point"}
+}

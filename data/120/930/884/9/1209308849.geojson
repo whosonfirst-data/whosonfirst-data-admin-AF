@@ -1,0 +1,70 @@
+{
+  "id": 1209308849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55795,36.03444,64.55795,36.03444",
+    "geom:latitude":36.03444,
+    "geom:longitude":64.55795,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Qasabah Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129274,
+    "gn:latitude":36.03444,
+    "gn:longitude":64.55795,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qa\u015fabah Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasawa",
+        "Qass\u0101ba Qala",
+        "Qasaba Qala",
+        "Qa\u015fabah Qal\u2018ah",
+        "\u0642\u0635\u0628\u0647 \u0642\u0644\u0639\u0647",
+        "Qa\u015fabeh Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e71570f2d45c8aff4ad224e05fd5ebfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209308849
+        }
+    ],
+    "wof:id":1209308849,
+    "wof:lastmodified":1537580700,
+    "wof:name":"Qasabah Qal'ah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55795,
+    36.03444,
+    64.55795,
+    36.03444
+],
+  "geometry": {"coordinates":[64.55795000000001,36.03444],"type":"Point"}
+}

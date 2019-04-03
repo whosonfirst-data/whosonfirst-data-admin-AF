@@ -1,0 +1,74 @@
+{
+  "id": 1310300813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92837,33.35578,66.92837,33.35578",
+    "geom:latitude":33.35578,
+    "geom:longitude":66.92837,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Dangolah",
+    "gn:country_code":"AF",
+    "gn:dem":2384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144157,
+    "gn:latitude":33.35578,
+    "gn:longitude":66.92837,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dang\u014dlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eang\u016bla",
+        "\u1e0eang\u016blah",
+        "Dang\u014dlah",
+        "\u062f\u0646\u06af\u0648\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144157
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a6897bae389da241f9f99d9b2893519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1310300813,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310300813,
+    "wof:lastmodified":1537581978,
+    "wof:name":"Dangolah",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92837,
+    33.35578,
+    66.92837,
+    33.35578
+],
+  "geometry": {"coordinates":[66.92837,33.35578],"type":"Point"}
+}

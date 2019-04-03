@@ -1,0 +1,75 @@
+{
+  "id": 1225987233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27207,35.81411,71.27207,35.81411",
+    "geom:latitude":35.81411,
+    "geom:longitude":71.27207,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Azok",
+    "gn:country_code":"AF",
+    "gn:dem":2945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147853,
+    "gn:latitude":35.81411,
+    "gn:longitude":71.27207,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Azok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100z\u014dk",
+        "Azok",
+        "\u0100z\u016bk",
+        "\u0100zowk",
+        "\u0622\u0632\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147853
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2713035929db6e3bf36b3da41d4b8cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1225987233,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1225987233,
+    "wof:lastmodified":1537582300,
+    "wof:name":"Azok",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27207,
+    35.81411,
+    71.27207,
+    35.81411
+],
+  "geometry": {"coordinates":[71.27207,35.81411],"type":"Point"}
+}

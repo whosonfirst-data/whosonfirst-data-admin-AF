@@ -1,0 +1,76 @@
+{
+  "id": 1226382703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90878,33.8469,69.90878,33.8469",
+    "geom:latitude":33.8469,
+    "geom:longitude":69.90878,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"707",
+    "gn:asciiname":"Stiya",
+    "gn:country_code":"AF",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123758,
+    "gn:latitude":33.8469,
+    "gn:longitude":69.90878,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Stiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "St\u2019ya"
+    ],
+    "name:und_x_variant":[
+        "K\u016bz Istia",
+        "Stiy\u0101",
+        "\u0633\u062a\u06cc\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123758
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c21d9e037cdc1a800ae12313818424e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561927,
+            "locality_id":1226382703,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226382703,
+    "wof:lastmodified":1537580249,
+    "wof:name":"Stiya",
+    "wof:parent_id":1108561927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90878000000001,
+    33.8469,
+    69.90878000000001,
+    33.8469
+],
+  "geometry": {"coordinates":[69.90878000000001,33.8469],"type":"Point"}
+}

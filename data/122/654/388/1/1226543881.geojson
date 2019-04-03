@@ -1,0 +1,74 @@
+{
+  "id": 1226543881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40139,36.42065,71.40139,36.42065",
+    "geom:latitude":36.42065,
+    "geom:longitude":71.40139,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1105",
+    "gn:asciiname":"Deh Gol",
+    "gn:country_code":"AF",
+    "gn:dem":2905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143486,
+    "gn:latitude":36.42065,
+    "gn:longitude":71.40139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dekhgul\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143486
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"474212cd24a67855b992ff530251789e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562611,
+            "locality_id":1226543881,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226543881,
+    "wof:lastmodified":1537581921,
+    "wof:name":"Deh Gol",
+    "wof:parent_id":1108562611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40139,
+    36.42065,
+    71.40139,
+    36.42065
+],
+  "geometry": {"coordinates":[71.40139000000001,36.42065],"type":"Point"}
+}

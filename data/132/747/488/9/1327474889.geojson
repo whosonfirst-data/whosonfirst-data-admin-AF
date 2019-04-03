@@ -1,0 +1,76 @@
+{
+  "id": 1327474889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88113,34.74521,70.88113,34.74521",
+    "geom:latitude":34.74521,
+    "geom:longitude":70.88113,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Seray",
+    "gn:country_code":"AF",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474249,
+    "gn:latitude":34.74521,
+    "gn:longitude":70.88113,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0113ray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "S\u0113\u1e5fay",
+        "S\u0113ray",
+        "\u0633\u06d0\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474249
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87e4074eded4184facc9b8b3b05e57d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561913,
+            "locality_id":1327474889,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327474889,
+    "wof:lastmodified":1537583791,
+    "wof:name":"Seray",
+    "wof:parent_id":1108561913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88113,
+    34.74521,
+    70.88113,
+    34.74521
+],
+  "geometry": {"coordinates":[70.88113,34.74521],"type":"Point"}
+}

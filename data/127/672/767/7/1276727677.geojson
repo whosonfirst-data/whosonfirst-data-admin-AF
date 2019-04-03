@@ -1,0 +1,68 @@
+{
+  "id": 1276727677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.66667,30.16667,62.66667,30.16667",
+    "geom:latitude":30.16667,
+    "geom:longitude":62.66667,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203",
+    "gn:asciiname":"Lat",
+    "gn:country_code":"AF",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134703,
+    "gn:latitude":30.16667,
+    "gn:longitude":62.66667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134703
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2fb3ed823ad743f7797dd5b7b72f7fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1276727677,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1276727677,
+    "wof:lastmodified":1536747341,
+    "wof:name":"Lat",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.66667,
+    30.16667,
+    62.66667,
+    30.16667
+],
+  "geometry": {"coordinates":[62.66667,30.16667],"type":"Point"}
+}

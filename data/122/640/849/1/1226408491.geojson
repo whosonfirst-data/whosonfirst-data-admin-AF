@@ -1,0 +1,80 @@
+{
+  "id": 1226408491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62286,34.26004,70.62286,34.26004",
+    "geom:latitude":34.26004,
+    "geom:longitude":70.62286,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"809.0",
+    "gn:asciiname":"Kam Baru",
+    "gn:country_code":"AF",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469435,
+    "gn:latitude":34.26004,
+    "gn:longitude":70.62286,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kam B\u0101\u1e5f\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u06cc \u0643\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kambaru",
+        "Kam B\u0101ru",
+        "\u0628\u0627\u0631\u0648\u06cc \u0643\u0645",
+        "Kam B\u0101\u1e5f\u016b",
+        "\u06a9\u0645 \u0628\u0627\u0693\u0648",
+        "Kam B\u0101r\u016b",
+        "\u06a9\u0645 \u0628\u0627\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469435
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6b20157dae4e6ad8f5da807d4aba4048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562413,
+            "locality_id":1226408491,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226408491,
+    "wof:lastmodified":1537583604,
+    "wof:name":"Kam Baru",
+    "wof:parent_id":1108562413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62286,
+    34.26004,
+    70.62286,
+    34.26004
+],
+  "geometry": {"coordinates":[70.62286,34.26004],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242767181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.14098,34.53159,66.14098,34.53159",
+    "geom:latitude":34.53159,
+    "geom:longitude":66.14098,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Nay Maynah",
+    "gn:country_code":"AF",
+    "gn:dem":2814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131996,
+    "gn:latitude":34.53159,
+    "gn:longitude":66.14098,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nay Maynah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nay M\u0113na",
+        "Naymena",
+        "Nay M\u012bnah",
+        "Nay Maynah",
+        "\u0646\u06cc \u0645\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131996
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"41cf5404dabe80fef76b2b7e2466c414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1242767181,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242767181,
+    "wof:lastmodified":1537580970,
+    "wof:name":"Nay Maynah",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.14098,
+    34.53159,
+    66.14098,
+    34.53159
+],
+  "geometry": {"coordinates":[66.14098,34.53159],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343340485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55998,31.81082,64.55998,31.81082",
+    "geom:latitude":31.81082,
+    "geom:longitude":64.55998,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Deh Mazang",
+    "gn:country_code":"AF",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472859,
+    "gn:latitude":31.81082,
+    "gn:longitude":64.55998,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Mazang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhmazang",
+        "Deh Mazang",
+        "\u062f\u0647 \u0645\u0632\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472859
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"30ee37a0930c58d40ad12a426a312243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1343340485,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343340485,
+    "wof:lastmodified":1537583719,
+    "wof:name":"Deh Mazang",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55998000000001,
+    31.81082,
+    64.55998000000001,
+    31.81082
+],
+  "geometry": {"coordinates":[64.55998000000001,31.81082],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1192974293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8181,37.17175,68.8181,37.17175",
+    "geom:latitude":37.17175,
+    "geom:longitude":68.8181,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Durman",
+    "gn:country_code":"AF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465266,
+    "gn:latitude":37.17175,
+    "gn:longitude":68.8181,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016brman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u016b\u1e5fman",
+        "Dowrman",
+        "D\u016brman",
+        "\u062f\u0648\u0631\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465266
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb88e233c63782cd4c32d5c107c969a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1192974293,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1192974293,
+    "wof:lastmodified":1537583393,
+    "wof:name":"Durman",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8181,
+    37.17175,
+    68.8181,
+    37.17175
+],
+  "geometry": {"coordinates":[68.8181,37.17175],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243310865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37371,32.12794,66.37371,32.12794",
+    "geom:latitude":32.12794,
+    "geom:longitude":66.37371,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Pai Nawah",
+    "gn:country_code":"AF",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130815,
+    "gn:latitude":32.12794,
+    "gn:longitude":66.37371,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101\u012b N\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101y N\u0101wa",
+        "Paynava",
+        "P\u0101\u012b N\u0101wah",
+        "\u067e\u0627\u06cc \u0646\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130815
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fcbadd88c71e476c5ce4ea51220c3af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1243310865,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243310865,
+    "wof:lastmodified":1537580870,
+    "wof:name":"Pai Nawah",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37371,
+    32.12794,
+    66.37371,
+    32.12794
+],
+  "geometry": {"coordinates":[66.37371,32.12794],"type":"Point"}
+}

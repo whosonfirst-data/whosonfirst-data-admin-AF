@@ -1,0 +1,76 @@
+{
+  "id": 1209709293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.95326,32.18788,64.95326,32.18788",
+    "geom:latitude":32.18788,
+    "geom:longitude":64.95326,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Chinakzai",
+    "gn:country_code":"AF",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473641,
+    "gn:latitude":32.18788,
+    "gn:longitude":64.95326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chinakza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cinakz\u0101",
+        "\u010cinakz\u0101\u2019i",
+        "Chinakzai",
+        "Chinakza\u012b",
+        "\u0686\u0646\u06a9\u0632\u06cc",
+        "Chinakz\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473641
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28aeac56d889bddc2a76bc2e31178fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1209709293,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1209709293,
+    "wof:lastmodified":1537583760,
+    "wof:name":"Chinakzai",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.95326,
+    32.18788,
+    64.95326,
+    32.18788
+],
+  "geometry": {"coordinates":[64.95326,32.18788],"type":"Point"}
+}

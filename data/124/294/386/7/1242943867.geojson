@@ -1,0 +1,75 @@
+{
+  "id": 1242943867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45458,35.12299,69.45458,35.12299",
+    "geom:latitude":35.12299,
+    "geom:longitude":69.45458,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"203.0",
+    "gn:asciiname":"Showaq",
+    "gn:country_code":"AF",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423502,
+    "gn:latitude":35.12299,
+    "gn:longitude":69.45458,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Show\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160aw\u0101q",
+        "Shavak",
+        "Shaw\u0101q",
+        "Show\u0101q",
+        "\u0634\u0648\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423502
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83b21b26e3c4bad0307b887db62562a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562201,
+            "locality_id":1242943867,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1242943867,
+    "wof:lastmodified":1537582578,
+    "wof:name":"Showaq",
+    "wof:parent_id":1108562201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45458,
+    35.12299,
+    69.45458,
+    35.12299
+],
+  "geometry": {"coordinates":[69.45458000000001,35.12299],"type":"Point"}
+}

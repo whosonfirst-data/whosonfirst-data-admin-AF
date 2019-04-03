@@ -1,0 +1,73 @@
+{
+  "id": 1277060745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.593,34.10148,63.593,34.10148",
+    "geom:latitude":34.10148,
+    "geom:longitude":63.593,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Baluch",
+    "gn:country_code":"AF",
+    "gn:dem":1808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147274,
+    "gn:latitude":34.10148,
+    "gn:longitude":63.593,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bal\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u016bc",
+        "Bal\u016bch",
+        "\u0628\u0644\u0648\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"395f617d4a98cad3814592e16fcc8529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1277060745,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1277060745,
+    "wof:lastmodified":1537582252,
+    "wof:name":"Baluch",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.593,
+    34.10148,
+    63.593,
+    34.10148
+],
+  "geometry": {"coordinates":[63.593,34.10148],"type":"Point"}
+}

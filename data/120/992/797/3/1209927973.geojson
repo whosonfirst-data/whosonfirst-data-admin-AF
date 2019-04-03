@@ -1,0 +1,73 @@
+{
+  "id": 1209927973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42866,37.64901,70.42866,37.64901",
+    "geom:latitude":37.64901,
+    "geom:longitude":70.42866,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Rayman",
+    "gn:country_code":"AF",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467365,
+    "gn:latitude":37.64901,
+    "gn:longitude":70.42866,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Raym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raym\u0101n",
+        "\u0631\u06cc\u0645\u0627\u0646",
+        "\u1e5e\u0113m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467365
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"62e5d1b82f9c15e2e65f9758a8d25fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1209927973,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209927973,
+    "wof:lastmodified":1537583470,
+    "wof:name":"Rayman",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42866,
+    37.64901,
+    70.42866,
+    37.64901
+],
+  "geometry": {"coordinates":[70.42865999999999,37.64901],"type":"Point"}
+}

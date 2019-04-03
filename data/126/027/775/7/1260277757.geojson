@@ -1,0 +1,75 @@
+{
+  "id": 1260277757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.13404,35.19259,65.13404,35.19259",
+    "geom:latitude":35.19259,
+    "geom:longitude":65.13404,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2708",
+    "gn:asciiname":"Naw-e Tang",
+    "gn:country_code":"AF",
+    "gn:dem":2094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132075,
+    "gn:latitude":35.19259,
+    "gn:longitude":65.13404,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101w-e Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101w-e Tang",
+        "\u0646\u0627\u0648 \u062a\u0646\u06af",
+        "Nawe Tang",
+        "Now-e Tang",
+        "\u0646\u0648 \u062a\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132075
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"506ac48d7017adeea46d571e80d7aa0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561911,
+            "locality_id":1260277757,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1260277757,
+    "wof:lastmodified":1537580976,
+    "wof:name":"Naw-e Tang",
+    "wof:parent_id":1108561911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.13404,
+    35.19259,
+    65.13404,
+    35.19259
+],
+  "geometry": {"coordinates":[65.13404,35.19259],"type":"Point"}
+}

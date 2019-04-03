@@ -1,0 +1,77 @@
+{
+  "id": 1310652165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51805,35.10191,70.51805,35.10191",
+    "geom:latitude":35.10191,
+    "geom:longitude":70.51805,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Kotahgal",
+    "gn:country_code":"AF",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428902,
+    "gn:latitude":35.10191,
+    "gn:longitude":70.51805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dtahgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kotagal\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u014dtagal",
+        "K\u016btagal",
+        "K\u014dtahgal",
+        "\u06a9\u0648\u062a\u0647 \u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428902
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"850d2285209f8de92b96ec9f9765f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1310652165,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1310652165,
+    "wof:lastmodified":1537582666,
+    "wof:name":"Kotahgal",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51805,
+    35.10191,
+    70.51805,
+    35.10191
+],
+  "geometry": {"coordinates":[70.51805,35.10191],"type":"Point"}
+}

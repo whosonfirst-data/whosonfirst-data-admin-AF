@@ -1,0 +1,76 @@
+{
+  "id": 1260022745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.10992,33.60375,70.10992,33.60375",
+    "geom:latitude":33.60375,
+    "geom:longitude":70.10992,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3202",
+    "gn:asciiname":"Manjo Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133926,
+    "gn:latitude":33.60375,
+    "gn:longitude":70.10992,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Manj\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandzhokalay",
+        "Manjah Kalay",
+        "Manja Kalay",
+        "Manjo Kalay",
+        "Manj\u014d K\u00ealay",
+        "\u0645\u0646\u062c\u0648 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133926
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8694ac93cec63813bd8b5c03ccb31e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562093,
+            "locality_id":1260022745,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1260022745,
+    "wof:lastmodified":1537581132,
+    "wof:name":"Manjo Kelay",
+    "wof:parent_id":1108562093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.10991999999999,
+    33.60375,
+    70.10991999999999,
+    33.60375
+],
+  "geometry": {"coordinates":[70.10991999999999,33.60375],"type":"Point"}
+}

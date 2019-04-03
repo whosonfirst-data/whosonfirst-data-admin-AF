@@ -1,0 +1,74 @@
+{
+  "id": 1276795345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.21342,33.89173,67.21342,33.89173",
+    "geom:latitude":33.89173,
+    "geom:longitude":67.21342,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Karez Pay",
+    "gn:country_code":"AF",
+    "gn:dem":2429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442739,
+    "gn:latitude":33.89173,
+    "gn:longitude":67.21342,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z P\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e5f\u0113zp\u0101y",
+        "Kar\u012bzp\u0101y",
+        "K\u0101r\u0113z P\u0101y",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u067e\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442739
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c5fdef484fb216ef8d463942ef41775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1276795345,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276795345,
+    "wof:lastmodified":1537582937,
+    "wof:name":"Karez Pay",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.21342,
+    33.89173,
+    67.21342,
+    33.89173
+],
+  "geometry": {"coordinates":[67.21342,33.89173],"type":"Point"}
+}

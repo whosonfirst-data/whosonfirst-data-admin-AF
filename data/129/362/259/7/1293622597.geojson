@@ -1,0 +1,75 @@
+{
+  "id": 1293622597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.92154,34.25857,65.92154,34.25857",
+    "geom:latitude":34.25857,
+    "geom:longitude":65.92154,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3408.0",
+    "gn:asciiname":"Bum-e Duldul",
+    "gn:country_code":"AF",
+    "gn:dem":2806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146152,
+    "gn:latitude":34.25857,
+    "gn:longitude":65.92154,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bm-e Duldul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bumi-Dul\u2019dul\u2019"
+    ],
+    "name:und_x_variant":[
+        "B\u016bm-e Duldul",
+        "\u0628\u0648\u0645 \u062f\u0644\u062f\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146152
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7bff7e2311c7785b3870853d412cc6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":1293622597,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1293622597,
+    "wof:lastmodified":1537582160,
+    "wof:name":"Bum-e Duldul",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.92154000000001,
+    34.25857,
+    65.92154000000001,
+    34.25857
+],
+  "geometry": {"coordinates":[65.92154000000001,34.25857],"type":"Point"}
+}

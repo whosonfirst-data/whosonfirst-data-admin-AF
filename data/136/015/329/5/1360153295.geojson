@@ -1,0 +1,74 @@
+{
+  "id": 1360153295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.66822,31.15956,66.66822,31.15956",
+    "geom:latitude":31.15956,
+    "geom:longitude":66.66822,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Mulla Durani Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132947,
+    "gn:latitude":31.15956,
+    "gn:longitude":66.66822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Dur\u0101n\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mull\u0101 \u1e0eu\u1e5f\u1e5f\u0101ni Kalay",
+        "Mull\u0101 Dur\u0101n\u012b K\u00ealay",
+        "Moll\u0101 Dorr\u0101n\u012b Kalay",
+        "\u0645\u0644\u0627 \u062f\u0631\u0627\u0646\u06cc \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132947
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1786ad4fca5365954775988b6648bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1360153295,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360153295,
+    "wof:lastmodified":1537581051,
+    "wof:name":"Mulla Durani Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.66821999999999,
+    31.15956,
+    66.66821999999999,
+    31.15956
+],
+  "geometry": {"coordinates":[66.66821999999999,31.15956],"type":"Point"}
+}

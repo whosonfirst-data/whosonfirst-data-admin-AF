@@ -1,0 +1,75 @@
+{
+  "id": 1343769461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7379,36.2163,68.7379,36.2163",
+    "geom:latitude":36.2163,
+    "geom:longitude":68.7379,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Gadi",
+    "gn:country_code":"AF",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142092,
+    "gn:latitude":36.2163,
+    "gn:longitude":68.7379,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0438"
+    ],
+    "name:und_x_variant":[
+        "G\u0101d\u012b",
+        "\u06af\u0627\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"75e07bb8f6d798f9693d4ae7ac24f266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1343769461,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343769461,
+    "wof:lastmodified":1537581797,
+    "wof:name":"Gadi",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7379,
+    36.2163,
+    68.7379,
+    36.2163
+],
+  "geometry": {"coordinates":[68.7379,36.2163],"type":"Point"}
+}

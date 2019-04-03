@@ -1,0 +1,73 @@
+{
+  "id": 1209706303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78038,32.24676,67.78038,32.24676",
+    "geom:latitude":32.24676,
+    "geom:longitude":67.78038,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Khan Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137086,
+    "gn:latitude":32.24676,
+    "gn:longitude":67.78038,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101n Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101n Kh\u0113l",
+        "\u062e\u0627\u0646 \u062e\u06d0\u0644",
+        "Kh\u0101n Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9455361ddbc4965fbe1332ea23c93a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1209706303,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209706303,
+    "wof:lastmodified":1537581391,
+    "wof:name":"Khan Khel",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78038000000001,
+    32.24675999999999,
+    67.78038000000001,
+    32.24675999999999
+],
+  "geometry": {"coordinates":[67.78038000000001,32.24675999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209362275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57207,33.76903,68.57207,33.76903",
+    "geom:latitude":33.76903,
+    "geom:longitude":68.57207,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Sher Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125002,
+    "gn:latitude":33.76903,
+    "gn:longitude":68.57207,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sherkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113rkh\u0113l",
+        "Sh\u0113r Kh\u0113l",
+        "Sh\u012br Kheyl",
+        "\u0634\u06d0\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125002
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5631b5f5ae7061bb7bfce0e65ab330b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209362275
+        }
+    ],
+    "wof:id":1209362275,
+    "wof:lastmodified":1537580345,
+    "wof:name":"Sher Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57207,
+    33.76903,
+    68.57207,
+    33.76903
+],
+  "geometry": {"coordinates":[68.57207,33.76903],"type":"Point"}
+}

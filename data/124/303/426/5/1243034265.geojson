@@ -1,0 +1,68 @@
+{
+  "id": 1243034265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12692,34.06861,70.12692,34.06861",
+    "geom:latitude":34.06861,
+    "geom:longitude":70.12692,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Karet",
+    "gn:country_code":"AF",
+    "gn:dem":2287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108998,
+    "gn:latitude":34.06861,
+    "gn:longitude":70.12692,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kar\u0113t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108998
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"69176bc6c40314fb76363161a2122e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1243034265,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243034265,
+    "wof:lastmodified":1536902925,
+    "wof:name":"Karet",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12692,
+    34.06861,
+    70.12692,
+    34.06861
+],
+  "geometry": {"coordinates":[70.12692,34.06861],"type":"Point"}
+}

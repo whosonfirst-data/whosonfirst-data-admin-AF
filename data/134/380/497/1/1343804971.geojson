@@ -1,0 +1,78 @@
+{
+  "id": 1343804971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99446,32.15036,68.99446,32.15036",
+    "geom:latitude":32.15036,
+    "geom:longitude":68.99446,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Vraza",
+    "gn:country_code":"AF",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433727,
+    "gn:latitude":32.15036,
+    "gn:longitude":68.99446,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Vraza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u0698\u0647"
+    ],
+    "name:und_x_variant":[
+        "Wr\u0101\u017eeh",
+        "Vraza",
+        "\u0648\u0631\u0627\u0696\u0647",
+        "Wr\u0101z\u0332h\u0332eh",
+        "Wr\u0101z\u0332h\u0332\u00eah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433727
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4336822d02c4b5caf8d9af604cd6e3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1343804971,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1343804971,
+    "wof:lastmodified":1537582692,
+    "wof:name":"Vraza",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99446,
+    32.15036,
+    68.99446,
+    32.15036
+],
+  "geometry": {"coordinates":[68.99446,32.15036],"type":"Point"}
+}

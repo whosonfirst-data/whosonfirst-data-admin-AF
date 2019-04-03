@@ -1,0 +1,71 @@
+{
+  "id": 1293752173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.18855,32.36155,66.18855,32.36155",
+    "geom:latitude":32.36155,
+    "geom:longitude":66.18855,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414",
+    "gn:asciiname":"Lakhsang",
+    "gn:country_code":"AF",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134972,
+    "gn:latitude":32.36155,
+    "gn:longitude":66.18855,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lakhsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u062e\u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134972
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a2c7e650277a211c61915ec954fbcb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1293752173,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293752173,
+    "wof:lastmodified":1537581215,
+    "wof:name":"Lakhsang",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.18855,
+    32.36155,
+    66.18855,
+    32.36155
+],
+  "geometry": {"coordinates":[66.18855000000001,32.36155],"type":"Point"}
+}

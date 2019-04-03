@@ -1,0 +1,75 @@
+{
+  "id": 1276326311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.95888,32.10733,62.95888,32.10733",
+    "geom:latitude":32.10733,
+    "geom:longitude":62.95888,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2102",
+    "gn:asciiname":"Pushtah",
+    "gn:country_code":"AF",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130346,
+    "gn:latitude":32.10733,
+    "gn:longitude":62.95888,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pushtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu\u0161ta",
+        "Pushtah",
+        "\u067e\u0634\u062a\u0647",
+        "Poshteh",
+        "Pushta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130346
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f2b539f5d705d02517bcb1753e0b025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561843,
+            "locality_id":1276326311,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1276326311,
+    "wof:lastmodified":1537580831,
+    "wof:name":"Pushtah",
+    "wof:parent_id":1108561843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.95888000000001,
+    32.10733,
+    62.95888000000001,
+    32.10733
+],
+  "geometry": {"coordinates":[62.95888000000001,32.10733],"type":"Point"}
+}

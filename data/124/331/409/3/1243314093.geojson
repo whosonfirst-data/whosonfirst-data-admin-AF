@@ -1,0 +1,75 @@
+{
+  "id": 1243314093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.90384,31.96272,68.90384,31.96272",
+    "geom:latitude":31.96272,
+    "geom:longitude":68.90384,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Khusa Tsah",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136381,
+    "gn:latitude":31.96272,
+    "gn:longitude":68.90384,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u016bs\u0101 Ts\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khusachakh",
+        "Kh\u016bs\u0101 C\u0101",
+        "Kh\u016bs\u0101 Ts\u0101h",
+        "Kh\u016bs\u0101 Ts\u0101",
+        "\u062e\u0648\u0633\u0627 \u0685\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136381
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"044cb7c3c80e855f8bea5a8d891ca559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1243314093,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243314093,
+    "wof:lastmodified":1537581338,
+    "wof:name":"Khusa Tsah",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.90384,
+    31.96272,
+    68.90384,
+    31.96272
+],
+  "geometry": {"coordinates":[68.90384,31.96272],"type":"Point"}
+}

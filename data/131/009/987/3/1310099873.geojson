@@ -1,0 +1,74 @@
+{
+  "id": 1310099873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.36875,34.23171,65.36875,34.23171",
+    "geom:latitude":34.23171,
+    "geom:longitude":65.36875,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Abul",
+    "gn:country_code":"AF",
+    "gn:dem":2664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149496,
+    "gn:latitude":34.23171,
+    "gn:longitude":65.36875,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100bul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100bowl",
+        "\u0100bul",
+        "\u0622\u0628\u0644",
+        "\u0100bol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b88e4cd014e6286d01264ca1eac61ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1310099873,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310099873,
+    "wof:lastmodified":1537582422,
+    "wof:name":"Abul",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.36875,
+    34.23171,
+    65.36875,
+    34.23171
+],
+  "geometry": {"coordinates":[65.36875000000001,34.23171],"type":"Point"}
+}

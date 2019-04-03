@@ -1,0 +1,73 @@
+{
+  "id": 1326690597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70392,35.81902,66.70392,35.81902",
+    "geom:latitude":35.81902,
+    "geom:longitude":66.70392,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Zardabadam",
+    "gn:country_code":"AF",
+    "gn:dem":2106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120964,
+    "gn:latitude":35.81902,
+    "gn:longitude":66.70392,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zardab\u0101d\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zardab\u0101d\u0101m",
+        "\u0632\u0631\u062f\u0628\u0627\u062f\u0627\u0645",
+        "Za\u1e5f\u1e0fab\u0101\u1e0f\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120964
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb8d3b7a5bb571e54ef378d3af8bee82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1326690597,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326690597,
+    "wof:lastmodified":1537580016,
+    "wof:name":"Zardabadam",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70392,
+    35.81902,
+    66.70392,
+    35.81902
+],
+  "geometry": {"coordinates":[66.70392,35.81902],"type":"Point"}
+}

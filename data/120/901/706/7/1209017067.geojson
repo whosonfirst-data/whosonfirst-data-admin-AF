@@ -1,0 +1,67 @@
+{
+  "id": 1209017067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.51163,35.04166,63.51163,35.04166",
+    "geom:latitude":35.04166,
+    "geom:longitude":63.51163,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Piwar",
+    "gn:country_code":"AF",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130517,
+    "gn:latitude":35.04166,
+    "gn:longitude":63.51163,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u012bw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012bw\u0101r",
+        "\u067e\u06cc\u0648\u0627\u0631",
+        "P\u012bw\u0101\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130517
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aaf37bf7ceec6f81e5f19a38545bed91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209017067
+        }
+    ],
+    "wof:id":1209017067,
+    "wof:lastmodified":1537580845,
+    "wof:name":"Piwar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.51163,
+    35.04166,
+    63.51163,
+    35.04166
+],
+  "geometry": {"coordinates":[63.51163,35.04166],"type":"Point"}
+}

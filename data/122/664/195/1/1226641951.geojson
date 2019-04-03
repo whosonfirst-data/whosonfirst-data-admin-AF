@@ -1,0 +1,72 @@
+{
+  "id": 1226641951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46582,34.35483,66.46582,34.35483",
+    "geom:latitude":34.35483,
+    "geom:longitude":66.46582,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Sewak",
+    "gn:country_code":"AF",
+    "gn:dem":2872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142897,
+    "gn:latitude":34.35483,
+    "gn:longitude":66.46582,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0113wak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113wak",
+        "\u0633\u06d0\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"57c08a30cd5d2fa1aca992764d4c8ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1226641951,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226641951,
+    "wof:lastmodified":1537583939,
+    "wof:name":"Sewak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46582,
+    34.35483,
+    66.46582,
+    34.35483
+],
+  "geometry": {"coordinates":[66.46581999999999,34.35483],"type":"Point"}
+}

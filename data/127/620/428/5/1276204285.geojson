@@ -1,0 +1,73 @@
+{
+  "id": 1276204285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.53362,34.41425,61.53362,34.41425",
+    "geom:latitude":34.41425,
+    "geom:longitude":61.53362,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Sabol",
+    "gn:country_code":"AF",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128155,
+    "gn:latitude":34.41425,
+    "gn:longitude":61.53362,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sab\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sab\u014dl",
+        "Sab\u016bl",
+        "\u0633\u0628\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128155
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5cac7d61d10247c6007a852ce80d389f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1276204285,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276204285,
+    "wof:lastmodified":1537580605,
+    "wof:name":"Sabol",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.53361999999999,
+    34.41425,
+    61.53361999999999,
+    34.41425
+],
+  "geometry": {"coordinates":[61.53361999999999,34.41425],"type":"Point"}
+}

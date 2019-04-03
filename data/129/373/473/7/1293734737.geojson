@@ -1,0 +1,68 @@
+{
+  "id": 1293734737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14234,32.53241,69.14234,32.53241",
+    "geom:latitude":32.53241,
+    "geom:longitude":69.14234,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Bormol",
+    "gn:country_code":"AF",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146305,
+    "gn:latitude":32.53241,
+    "gn:longitude":69.14234,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bormol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cc9b6525fa51bfeae6ab789f7cca915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1293734737,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293734737,
+    "wof:lastmodified":1536928604,
+    "wof:name":"Bormol",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14234,
+    32.53241,
+    69.14234,
+    32.53241
+],
+  "geometry": {"coordinates":[69.14234,32.53241],"type":"Point"}
+}

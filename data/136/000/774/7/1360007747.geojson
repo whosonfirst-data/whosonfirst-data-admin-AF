@@ -1,0 +1,74 @@
+{
+  "id": 1360007747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.55261,32.4413,61.55261,32.4413",
+    "geom:latitude":32.4413,
+    "geom:longitude":61.55261,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2108.0",
+    "gn:asciiname":"Galah Gumbaz",
+    "gn:country_code":"AF",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437329,
+    "gn:latitude":32.4413,
+    "gn:longitude":61.55261,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Galah Gumbaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gala Gumbaz",
+        "Galah Gumbaz",
+        "\u06af\u0644\u0647 \u06af\u0645\u0628\u0632",
+        "Galeh Gombad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437329
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"12d3fc4616215d56505320bd62c19357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1360007747,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360007747,
+    "wof:lastmodified":1537582843,
+    "wof:name":"Galah Gumbaz",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.55261,
+    32.4413,
+    61.55261,
+    32.4413
+],
+  "geometry": {"coordinates":[61.55261,32.4413],"type":"Point"}
+}

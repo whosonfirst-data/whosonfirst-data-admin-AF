@@ -1,0 +1,74 @@
+{
+  "id": 1259933575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35524,34.81636,70.35524,34.81636",
+    "geom:latitude":34.81636,
+    "geom:longitude":70.35524,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Sakhrah",
+    "gn:country_code":"AF",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474395,
+    "gn:latitude":34.81636,
+    "gn:longitude":70.35524,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sakhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakhra",
+        "Sakh\u1e5fa",
+        "\u0633\u062e\u0631\u0647",
+        "Sakhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474395
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53f3ba98951cf65f05c9f32a512923cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1259933575,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259933575,
+    "wof:lastmodified":1537583800,
+    "wof:name":"Sakhrah",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35524000000001,
+    34.81636,
+    70.35524000000001,
+    34.81636
+],
+  "geometry": {"coordinates":[70.35524000000001,34.81636],"type":"Point"}
+}

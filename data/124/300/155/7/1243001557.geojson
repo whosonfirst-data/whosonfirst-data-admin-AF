@@ -1,0 +1,73 @@
+{
+  "id": 1243001557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.83203,33.69435,65.83203,33.69435",
+    "geom:latitude":33.69435,
+    "geom:longitude":65.83203,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Khagilak",
+    "gn:country_code":"AF",
+    "gn:dem":2553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137414,
+    "gn:latitude":33.69435,
+    "gn:longitude":65.83203,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101gilak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101gilak",
+        "\u062e\u0627\u06af\u0644\u06a9",
+        "Kh\u0101gelak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137414
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a550f69e2efb3af1f0541b91e6fc0821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1243001557,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1243001557,
+    "wof:lastmodified":1537581417,
+    "wof:name":"Khagilak",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.83203,
+    33.69435,
+    65.83203,
+    33.69435
+],
+  "geometry": {"coordinates":[65.83203,33.69435],"type":"Point"}
+}

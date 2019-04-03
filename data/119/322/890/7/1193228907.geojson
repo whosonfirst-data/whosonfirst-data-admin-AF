@@ -1,0 +1,79 @@
+{
+  "id": 1193228907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92093,32.05512,68.92093,32.05512",
+    "geom:latitude":32.05512,
+    "geom:longitude":68.92093,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"De Akhtar Kor",
+    "gn:country_code":"AF",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1433588,
+    "gn:latitude":32.05512,
+    "gn:longitude":68.92093,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Akhtar K\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631 \u0627\u062e\u062a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Akhtarkor",
+        "\u1e0ee Akhta\u1e5f K\u014d\u1e5f",
+        "\u1e0ee Akhta\u1e5f Kh\u014dr",
+        "\u062f \u0627\u062e\u062a\u0631 \u06a9\u0648\u0631",
+        "De Akhtar Khowr",
+        "D\u00ea Akhtar K\u014dr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433588
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90a431022d16102d920cad514f1ae4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1193228907,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1193228907,
+    "wof:lastmodified":1537582689,
+    "wof:name":"De Akhtar Kor",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92093,
+    32.05512,
+    68.92093,
+    32.05512
+],
+  "geometry": {"coordinates":[68.92093,32.05512],"type":"Point"}
+}

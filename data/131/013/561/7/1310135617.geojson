@@ -1,0 +1,74 @@
+{
+  "id": 1310135617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71659,35.44332,69.71659,35.44332",
+    "geom:latitude":35.44332,
+    "geom:longitude":69.71659,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3303",
+    "gn:asciiname":"Rakh",
+    "gn:country_code":"AF",
+    "gn:dem":2792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128582,
+    "gn:latitude":35.44332,
+    "gn:longitude":69.71659,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128582
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43c4423b4ad61c740bffbaeed4c63245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562163,
+            "locality_id":1310135617,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1310135617,
+    "wof:lastmodified":1537580637,
+    "wof:name":"Rakh",
+    "wof:parent_id":1108562163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71659,
+    35.44332,
+    69.71659,
+    35.44332
+],
+  "geometry": {"coordinates":[69.71659,35.44332],"type":"Point"}
+}

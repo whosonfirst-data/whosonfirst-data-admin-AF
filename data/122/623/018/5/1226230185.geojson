@@ -1,0 +1,74 @@
+{
+  "id": 1226230185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.055,34.90938,62.055,34.90938",
+    "geom:latitude":34.90938,
+    "geom:longitude":62.055,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Mayshmast",
+    "gn:country_code":"AF",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1464860,
+    "gn:latitude":34.90938,
+    "gn:longitude":62.055,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mayshmast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Meshmast",
+        "Mayshmast",
+        "\u0645\u06cc\u0634\u0645\u0633\u062a",
+        "M\u0113\u0161mast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464860
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98dd8bdd9c322fc1ff5c79fbc27d16ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1226230185,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226230185,
+    "wof:lastmodified":1537583385,
+    "wof:name":"Mayshmast",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.055,
+    34.90938,
+    62.055,
+    34.90938
+],
+  "geometry": {"coordinates":[62.055,34.90938],"type":"Point"}
+}

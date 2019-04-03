@@ -1,0 +1,78 @@
+{
+  "id": 1310068779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47217,34.22721,70.47217,34.22721",
+    "geom:latitude":34.22721,
+    "geom:longitude":70.47217,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"809.0",
+    "gn:asciiname":"Zango Kats Khwar",
+    "gn:country_code":"AF",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472649,
+    "gn:latitude":34.22721,
+    "gn:longitude":70.47217,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zang\u014d Kats Khwa\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06af\u0648 \u0643\u0686 \u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zangukachkhvar",
+        "Zango Kac Khwar",
+        "Zango Kats Khwa\u1e5f",
+        "Zang\u014d Kats Khwa\u1e5f",
+        "\u0632\u0646\u06af\u0648 \u06a9\u0685 \u062e\u0648\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472649
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"15d6fa0db54048d531f9ea5852da1d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562413,
+            "locality_id":1310068779,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1310068779,
+    "wof:lastmodified":1537583703,
+    "wof:name":"Zango Kats Khwar",
+    "wof:parent_id":1108562413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47216999999998,
+    34.22721,
+    70.47216999999998,
+    34.22721
+],
+  "geometry": {"coordinates":[70.47216999999998,34.22721],"type":"Point"}
+}

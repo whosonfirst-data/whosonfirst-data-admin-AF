@@ -1,0 +1,72 @@
+{
+  "id": 1242755917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.48577,34.40056,61.48577,34.40056",
+    "geom:latitude":34.40056,
+    "geom:longitude":61.48577,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Diran",
+    "gn:country_code":"AF",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143059,
+    "gn:latitude":34.40056,
+    "gn:longitude":61.48577,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u012br\u0101n",
+        "\u062f\u06cc\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143059
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"305e95ec3df96137ee43291d77fa9aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1242755917,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242755917,
+    "wof:lastmodified":1537581889,
+    "wof:name":"Diran",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.48577,
+    34.40056,
+    61.48577,
+    34.40056
+],
+  "geometry": {"coordinates":[61.48577,34.40056],"type":"Point"}
+}

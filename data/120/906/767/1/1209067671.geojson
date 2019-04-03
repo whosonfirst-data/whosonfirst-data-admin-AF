@@ -1,0 +1,69 @@
+{
+  "id": 1209067671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70807,32.20194,67.70807,32.20194",
+    "geom:latitude":32.20194,
+    "geom:longitude":67.70807,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511",
+    "gn:asciiname":"Junubi Sinzai",
+    "gn:country_code":"AF",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139467,
+    "gn:latitude":32.20194,
+    "gn:longitude":67.70807,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b S\u012bnza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhanubi",
+        "Jan\u016bb\u012b S\u012bnz\u012b",
+        "Jun\u016bb\u012b S\u012bnza\u012b",
+        "\u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0632\u06cc",
+        "Jon\u016bb\u012b S\u012bnz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139467
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7286fb325b50f12b510d8725e10582c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209067671
+        }
+    ],
+    "wof:id":1209067671,
+    "wof:lastmodified":1537581579,
+    "wof:name":"Junubi Sinzai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70806999999999,
+    32.20194,
+    67.70806999999999,
+    32.20194
+],
+  "geometry": {"coordinates":[67.70806999999999,32.20194],"type":"Point"}
+}

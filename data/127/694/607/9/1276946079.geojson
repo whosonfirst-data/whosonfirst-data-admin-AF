@@ -1,0 +1,74 @@
+{
+  "id": 1276946079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10838,32.00729,65.10838,32.00729",
+    "geom:latitude":32.00729,
+    "geom:longitude":65.10838,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2406.0",
+    "gn:asciiname":"Chah-e Gazak",
+    "gn:country_code":"AF",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145742,
+    "gn:latitude":32.00729,
+    "gn:longitude":65.10838,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101h-e Gazak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101he Gazak",
+        "Chakhi-Gazak",
+        "Ch\u0101h-e Gazak",
+        "\u0686\u0627\u0647 \u06af\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145742
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"806f147788e4efe2192897b7472bfdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562029,
+            "locality_id":1276946079,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276946079,
+    "wof:lastmodified":1537582125,
+    "wof:name":"Chah-e Gazak",
+    "wof:parent_id":1108562029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10838000000001,
+    32.00729,
+    65.10838000000001,
+    32.00729
+],
+  "geometry": {"coordinates":[65.10838000000001,32.00729],"type":"Point"}
+}

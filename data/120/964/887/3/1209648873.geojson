@@ -1,0 +1,66 @@
+{
+  "id": 1209648873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91323,33.85818,66.91323,33.85818",
+    "geom:latitude":33.85818,
+    "geom:longitude":66.91323,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407",
+    "gn:asciiname":"Gharmawak",
+    "gn:country_code":"AF",
+    "gn:dem":2299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141349,
+    "gn:latitude":33.85818,
+    "gn:longitude":66.91323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharmawak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gha\u1e5fmawak",
+        "\u063a\u0631\u0645\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141349
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a08d7abbc626946af6697f57886e5c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209648873
+        }
+    ],
+    "wof:id":1209648873,
+    "wof:lastmodified":1537581746,
+    "wof:name":"Gharmawak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91323,
+    33.85818,
+    66.91323,
+    33.85818
+],
+  "geometry": {"coordinates":[66.91323,33.85818],"type":"Point"}
+}

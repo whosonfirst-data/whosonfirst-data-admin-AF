@@ -1,0 +1,74 @@
+{
+  "id": 1192962997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21678,34.66188,70.21678,34.66188",
+    "geom:latitude":34.66188,
+    "geom:longitude":70.21678,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Gumayn",
+    "gn:country_code":"AF",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474529,
+    "gn:latitude":34.66188,
+    "gn:longitude":70.21678,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u016bmayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u016bmayn",
+        "\u06af\u0648\u0645\u06cc\u0646",
+        "Mugayn",
+        "\u0645\u06af\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474529
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d9bb99cd8d65f4896e84ae96e7768af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1192962997,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1192962997,
+    "wof:lastmodified":1537583814,
+    "wof:name":"Gumayn",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21678,
+    34.66188,
+    70.21678,
+    34.66188
+],
+  "geometry": {"coordinates":[70.21678,34.66188],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326685773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83216,36.65004,68.83216,36.65004",
+    "geom:latitude":36.65004,
+    "geom:longitude":68.83216,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Tahir Kamar",
+    "gn:country_code":"AF",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123330,
+    "gn:latitude":36.65004,
+    "gn:longitude":68.83216,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u0101hir Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0445\u0438\u0440\u043a\u0430\u043c\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Takhirkamar",
+        "\u0162\u0101her Kamar",
+        "\u0162\u0101hir Kamar",
+        "\u0637\u0627\u0647\u0631 \u06a9\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123330
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"676c5a29d99a53eb901da4ee6d25cc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561889,
+            "locality_id":1326685773,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1326685773,
+    "wof:lastmodified":1537580218,
+    "wof:name":"Tahir Kamar",
+    "wof:parent_id":1108561889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83216,
+    36.65004,
+    68.83216,
+    36.65004
+],
+  "geometry": {"coordinates":[68.83216,36.65004],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226203735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81026,31.72801,67.81026,31.72801",
+    "geom:latitude":31.72801,
+    "geom:longitude":67.81026,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Nabarhu",
+    "gn:country_code":"AF",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132555,
+    "gn:latitude":31.72801,
+    "gn:longitude":67.81026,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101barh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabarkhu",
+        "N\u0101barh\u016b",
+        "N\u0101barhu",
+        "\u0646\u0627\u0628\u0631\u0647\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132555
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23d5b1982e864fda20c29283b96329d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1226203735,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226203735,
+    "wof:lastmodified":1537581015,
+    "wof:name":"Nabarhu",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81026,
+    31.72801,
+    67.81026,
+    31.72801
+],
+  "geometry": {"coordinates":[67.81026,31.72801],"type":"Point"}
+}

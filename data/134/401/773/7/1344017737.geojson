@@ -1,0 +1,73 @@
+{
+  "id": 1344017737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29967,36.04688,67.29967,36.04688",
+    "geom:latitude":36.04688,
+    "geom:longitude":67.29967,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Aq Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466256,
+    "gn:latitude":36.04688,
+    "gn:longitude":67.29967,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aq Maz\u0101r (3)",
+        "\u0100q Maz\u0101r",
+        "\u0622\u0642 \u0645\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466256
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2a26283a9f39a1ab6d1ec345f408e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1344017737,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1344017737,
+    "wof:lastmodified":1537583418,
+    "wof:name":"Aq Mazar",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29966999999999,
+    36.04688,
+    67.29966999999999,
+    36.04688
+],
+  "geometry": {"coordinates":[67.29966999999999,36.04688],"type":"Point"}
+}

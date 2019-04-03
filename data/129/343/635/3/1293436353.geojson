@@ -1,0 +1,74 @@
+{
+  "id": 1293436353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54543,36.73573,66.54543,36.73573",
+    "geom:latitude":36.73573,
+    "geom:longitude":66.54543,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608",
+    "gn:asciiname":"Naqilin",
+    "gn:country_code":"AF",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132351,
+    "gn:latitude":36.73573,
+    "gn:longitude":66.54543,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naqil\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u012bl\u012bn",
+        "\u0646\u0642\u064a\u0644\u064a\u0646",
+        "Naqil\u012bn",
+        "\u0646\u0642\u0644\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132351
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"193a3ad5568d241bfa9f398fd5e5ae4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1293436353,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293436353,
+    "wof:lastmodified":1537581002,
+    "wof:name":"Naqilin",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54543000000001,
+    36.73573,
+    66.54543000000001,
+    36.73573
+],
+  "geometry": {"coordinates":[66.54543000000001,36.73573],"type":"Point"}
+}

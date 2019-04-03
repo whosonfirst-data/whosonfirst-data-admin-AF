@@ -1,0 +1,79 @@
+{
+  "id": 1343439121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.00572,34.35387,62.00572,34.35387",
+    "geom:latitude":34.35387,
+    "geom:longitude":62.00572,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Bazirgun",
+    "gn:country_code":"AF",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472121,
+    "gn:latitude":34.35387,
+    "gn:longitude":62.00572,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101zirg\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u0631\u06af\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u0101zerg\u016bn",
+        "Bazirgun",
+        "B\u0101zarg\u0101n",
+        "B\u0101zirg\u016bn",
+        "\u0628\u0627\u0632\u0631\u06af\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472121,
+        "wk:page":"Bazargan%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d189ef377cfe94444b88fe263a79371c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1343439121,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343439121,
+    "wof:lastmodified":1537583670,
+    "wof:name":"Bazirgun",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.00572,
+    34.35387,
+    62.00572,
+    34.35387
+],
+  "geometry": {"coordinates":[62.00572,34.35387],"type":"Point"}
+}

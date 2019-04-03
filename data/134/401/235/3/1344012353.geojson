@@ -1,0 +1,77 @@
+{
+  "id": 1344012353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62795,33.98991,68.62795,33.98991",
+    "geom:latitude":33.98991,
+    "geom:longitude":68.62795,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Musa Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132612,
+    "gn:latitude":33.98991,
+    "gn:longitude":68.62795,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Musakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "M\u016bs\u0101kh\u0113l",
+        "M\u016bs\u00e1 Kh\u0113l",
+        "M\u016bs\u00e1 Kheyl",
+        "\u0645\u0648\u0633\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132612
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"585e9fb8178a3a082b63839467e5e1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1344012353,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1344012353,
+    "wof:lastmodified":1537581021,
+    "wof:name":"Musa Khel",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62795,
+    33.98990999999999,
+    68.62795,
+    33.98990999999999
+],
+  "geometry": {"coordinates":[68.62795,33.98990999999999],"type":"Point"}
+}

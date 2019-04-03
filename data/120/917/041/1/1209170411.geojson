@@ -1,0 +1,72 @@
+{
+  "id": 1209170411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.90732,32.19343,65.90732,32.19343",
+    "geom:latitude":32.19343,
+    "geom:longitude":65.90732,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Kshetah Shalizar",
+    "gn:country_code":"AF",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135469,
+    "gn:latitude":32.19343,
+    "gn:longitude":65.90732,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ks\u0332h\u0332\u00eatah Sh\u0101liz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0644\u064a\u0632\u0627\u0631\u0654 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kshattashalizar",
+        "K\u0161\u0101tta \u0160\u0101liz\u0101r",
+        "Ks\u0332h\u0332\u00eatah Sh\u0101liz\u0101r",
+        "\u06a9\u069a\u062a\u0647 \u0634\u0627\u0644\u0632\u0627\u0631",
+        "Ksh\u0101tah Sh\u0101l\u012bz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135469
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"85d03ee01d04f5ce507987d10b292b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209170411
+        }
+    ],
+    "wof:id":1209170411,
+    "wof:lastmodified":1537581256,
+    "wof:name":"Kshetah Shalizar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.90732,
+    32.19343,
+    65.90732,
+    32.19343
+],
+  "geometry": {"coordinates":[65.90732,32.19343],"type":"Point"}
+}

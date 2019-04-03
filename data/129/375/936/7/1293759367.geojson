@@ -1,0 +1,80 @@
+{
+  "id": 1293759367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76924,34.31066,70.76924,34.31066",
+    "geom:latitude":34.31066,
+    "geom:longitude":70.76924,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"817.0",
+    "gn:asciiname":"Gundiyani",
+    "gn:country_code":"AF",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469541,
+    "gn:latitude":34.31066,
+    "gn:longitude":70.76924,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gundiy\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u062f\u064a\u0627\u0646\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Gund\u2019yani"
+    ],
+    "name:und_x_variant":[
+        "Gundy\u0101ni",
+        "\u06af\u0646\u062f\u064a\u0627\u0646\u06cc",
+        "Gundiy\u0101n\u012b",
+        "\u06af\u0646\u062f\u06cc\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469541
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"788cb3784a0c70f5db3c92106c478e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561865,
+            "locality_id":1293759367,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293759367,
+    "wof:lastmodified":1537583610,
+    "wof:name":"Gundiyani",
+    "wof:parent_id":1108561865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76924,
+    34.31066,
+    70.76924,
+    34.31066
+],
+  "geometry": {"coordinates":[70.76924,34.31066],"type":"Point"}
+}

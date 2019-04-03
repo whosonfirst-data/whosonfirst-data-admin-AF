@@ -1,0 +1,78 @@
+{
+  "id": 1277162669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.96694,33.9225,67.96694,33.9225",
+    "geom:latitude":33.9225,
+    "geom:longitude":67.96694,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Gorg Koshteh",
+    "gn:country_code":"AF",
+    "gn:dem":3046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140664,
+    "gn:latitude":33.9225,
+    "gn:longitude":67.96694,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gorg Koshteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0433\u043a\u0443\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gurgku\u0161ta",
+        "Kurgah",
+        "Gurgkushta",
+        "Gorg Koshteh",
+        "\u06af\u0631\u06af \u0643\u0634\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140664
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"359954bc773a86d0ff92876ad52459c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1277162669,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1277162669,
+    "wof:lastmodified":1537581684,
+    "wof:name":"Gorg Koshteh",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.96694000000001,
+    33.9225,
+    67.96694000000001,
+    33.9225
+],
+  "geometry": {"coordinates":[67.96694000000001,33.9225],"type":"Point"}
+}

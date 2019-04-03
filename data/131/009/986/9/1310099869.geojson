@@ -1,0 +1,72 @@
+{
+  "id": 1310099869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.00237,33.39558,65.00237,33.39558",
+    "geom:latitude":33.39558,
+    "geom:longitude":65.00237,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Iskichak",
+    "gn:country_code":"AF",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491217,
+    "gn:latitude":33.39558,
+    "gn:longitude":65.00237,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Isk\u012bchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isk\u012bchak",
+        "\u0627\u0633\u06a9\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491217
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f992eb794f4effb6fb2be824a58eeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1310099869,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310099869,
+    "wof:lastmodified":1537583919,
+    "wof:name":"Iskichak",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.00237,
+    33.39558,
+    65.00237,
+    33.39558
+],
+  "geometry": {"coordinates":[65.00237,33.39558],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343415361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01948,34.53056,68.01948,34.53056",
+    "geom:latitude":34.53056,
+    "geom:longitude":68.01948,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Daman-e Khalak",
+    "gn:country_code":"AF",
+    "gn:dem":3301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455692,
+    "gn:latitude":34.53056,
+    "gn:longitude":68.01948,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101m\u0101n-e Khalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damani-Khalak",
+        "D\u0101man-e Kh\u0101lak",
+        "D\u0101m\u0101n-e Khalak",
+        "\u062f\u0627\u0645\u0627\u0646 \u062e\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455692
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"30dbfbed392be1af648227e42a4bd651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1343415361,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343415361,
+    "wof:lastmodified":1537583156,
+    "wof:name":"Daman-e Khalak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01948,
+    34.53055999999999,
+    68.01948,
+    34.53055999999999
+],
+  "geometry": {"coordinates":[68.01948,34.53055999999999],"type":"Point"}
+}

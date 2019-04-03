@@ -1,0 +1,72 @@
+{
+  "id": 1293872597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.92539,32.265,63.92539,32.265",
+    "geom:latitude":32.265,
+    "geom:longitude":63.92539,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Gorazan",
+    "gn:country_code":"AF",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140688,
+    "gn:latitude":32.265,
+    "gn:longitude":63.92539,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gor\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gor\u0101z\u0101n",
+        "\u06af\u0631\u0627\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140688
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6672c52d124b65c303fd71321729f0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1293872597,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293872597,
+    "wof:lastmodified":1537581686,
+    "wof:name":"Gorazan",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.92539,
+    32.265,
+    63.92539,
+    32.265
+],
+  "geometry": {"coordinates":[63.92539,32.265],"type":"Point"}
+}

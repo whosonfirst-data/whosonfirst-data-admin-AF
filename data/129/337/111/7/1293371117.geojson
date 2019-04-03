@@ -1,0 +1,74 @@
+{
+  "id": 1293371117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.19127,34.96862,62.19127,34.96862",
+    "geom:latitude":34.96862,
+    "geom:longitude":62.19127,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Dughi",
+    "gn:country_code":"AF",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464862,
+    "gn:latitude":34.96862,
+    "gn:longitude":62.19127,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016bgh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dugi",
+        "D\u016bgh\u012b",
+        "\u062f\u0648\u063a\u06cc",
+        "D\u016bghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464862
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a111c76f0d727db0dd9b0895c41a4c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1293371117,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293371117,
+    "wof:lastmodified":1537583385,
+    "wof:name":"Dughi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.19127,
+    34.96862,
+    62.19127,
+    34.96862
+],
+  "geometry": {"coordinates":[62.19127,34.96862],"type":"Point"}
+}

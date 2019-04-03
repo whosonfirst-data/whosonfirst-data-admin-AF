@@ -1,0 +1,77 @@
+{
+  "id": 1225891785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35019,31.78214,66.35019,31.78214",
+    "geom:latitude":31.78214,
+    "geom:longitude":66.35019,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Loy Dirki",
+    "gn:country_code":"AF",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436871,
+    "gn:latitude":31.78214,
+    "gn:longitude":66.35019,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Dirk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dy \u1e0ee\u1e5fki",
+        "Loy-Dirki",
+        "Lowy \u1e0eerk\u012b",
+        "\u0644\u0648\u06cc \u062f\u0631\u06a9\u06cc",
+        "L\u016by Derk\u012b",
+        "L\u014dy Derk\u012b",
+        "L\u014dy Dirk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436871
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4756c4c66cd662593344c1de4b9b3086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1225891785,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1225891785,
+    "wof:lastmodified":1537582821,
+    "wof:name":"Loy Dirki",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35019,
+    31.78214,
+    66.35019,
+    31.78214
+],
+  "geometry": {"coordinates":[66.35019,31.78214],"type":"Point"}
+}

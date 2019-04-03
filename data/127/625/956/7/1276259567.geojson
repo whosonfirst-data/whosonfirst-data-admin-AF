@@ -1,0 +1,78 @@
+{
+  "id": 1276259567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31155,35.20884,69.31155,35.20884",
+    "geom:latitude":35.20884,
+    "geom:longitude":69.31155,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3305.0",
+    "gn:asciiname":"Korawah",
+    "gn:country_code":"AF",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423223,
+    "gn:latitude":35.20884,
+    "gn:longitude":69.31155,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dr\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u014d\u1e5f\u0101wa",
+        "Korava",
+        "K\u016br\u0101veh",
+        "K\u014dr\u0101wah",
+        "\u06a9\u0648\u0631\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423223
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78a1883b85408cbf568735fb3f0af608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562511,
+            "locality_id":1276259567,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1276259567,
+    "wof:lastmodified":1537582552,
+    "wof:name":"Korawah",
+    "wof:parent_id":1108562511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31155,
+    35.20884,
+    69.31155,
+    35.20884
+],
+  "geometry": {"coordinates":[69.31155,35.20884],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344127763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.80658,34.89711,69.80658,34.89711",
+    "geom:latitude":34.89711,
+    "geom:longitude":69.80658,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"206.0",
+    "gn:asciiname":"Sarikdar",
+    "gn:country_code":"AF",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472376,
+    "gn:latitude":34.89711,
+    "gn:longitude":69.80658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarikdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarekdar",
+        "Sarikdar",
+        "\u0633\u0631\u06a9\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108561787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472376
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c119d9766ac0f3ce65026a6a05b2786c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561787,
+            "locality_id":1344127763,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1344127763,
+    "wof:lastmodified":1537583685,
+    "wof:name":"Sarikdar",
+    "wof:parent_id":1108561787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.80658000000001,
+    34.89711,
+    69.80658000000001,
+    34.89711
+],
+  "geometry": {"coordinates":[69.80658000000001,34.89711],"type":"Point"}
+}

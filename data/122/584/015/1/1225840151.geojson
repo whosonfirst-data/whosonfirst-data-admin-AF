@@ -1,0 +1,74 @@
+{
+  "id": 1225840151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.35,31.83333,64.35,31.83333",
+    "geom:latitude":31.83333,
+    "geom:longitude":64.35,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Shur Av",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124780,
+    "gn:latitude":31.83333,
+    "gn:longitude":64.35,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u016br \u0100v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shor\u0101wak",
+        "Sh\u016br \u0100b",
+        "Sh\u016br\u0101bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124780
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d8055999a35058030314c7b59ea7d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1225840151,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1225840151,
+    "wof:lastmodified":1537580327,
+    "wof:name":"Shur Av",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.35,
+    31.83333,
+    64.35,
+    31.83333
+],
+  "geometry": {"coordinates":[64.34999999999999,31.83333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242584931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28248,35.52626,69.28248,35.52626",
+    "geom:latitude":35.52626,
+    "geom:longitude":69.28248,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307",
+    "gn:asciiname":"Kaj Darah",
+    "gn:country_code":"AF",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138757,
+    "gn:latitude":35.52626,
+    "gn:longitude":69.28248,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaj\u1e0fa\u1e5fa",
+        "Kajdarreh",
+        "Kaj Darah",
+        "\u06a9\u062c \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f2784a177eb9dd0ea4b5109d06776ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1242584931,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1242584931,
+    "wof:lastmodified":1537581522,
+    "wof:name":"Kaj Darah",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28248,
+    35.52626,
+    69.28248,
+    35.52626
+],
+  "geometry": {"coordinates":[69.28248000000001,35.52626],"type":"Point"}
+}

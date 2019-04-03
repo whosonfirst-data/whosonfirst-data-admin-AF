@@ -1,0 +1,73 @@
+{
+  "id": 1293410869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.69758,35.95853,64.69758,35.95853",
+    "geom:latitude":35.95853,
+    "geom:longitude":64.69758,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Umara",
+    "gn:country_code":"AF",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1121957,
+    "gn:latitude":35.95853,
+    "gn:longitude":64.69758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Umar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Umar\u0101",
+        "\u0627\u0645\u0631\u0627",
+        "Uma\u1e5f\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121957
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe0a2c11fd7e09b87e393620fe7a4c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1293410869,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293410869,
+    "wof:lastmodified":1537580075,
+    "wof:name":"Umara",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.69758,
+    35.95853,
+    64.69758,
+    35.95853
+],
+  "geometry": {"coordinates":[64.69758,35.95853],"type":"Point"}
+}

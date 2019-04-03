@@ -1,0 +1,74 @@
+{
+  "id": 1193262769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.97661,34.58064,64.97661,34.58064",
+    "geom:latitude":34.58064,
+    "geom:longitude":64.97661,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Shah Baydak-e Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":2447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126056,
+    "gn:latitude":34.58064,
+    "gn:longitude":64.97661,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Baydak-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304\u0101hb\u0113\u1e0fake P\u0101\u2019\u012bn",
+        "Sh\u0101h B\u012bdak-e P\u0101\u2019\u012bn",
+        "Sh\u0101h Baydak-e P\u0101\u2019\u012bn",
+        "\u0634\u0627\u0647 \u0628\u06cc\u062f\u06a9 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126056
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d1ace33069429abc2dfbb65d6fbfd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1193262769,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193262769,
+    "wof:lastmodified":1537580437,
+    "wof:name":"Shah Baydak-e Pa'in",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.97661,
+    34.58064,
+    64.97661,
+    34.58064
+],
+  "geometry": {"coordinates":[64.97660999999999,34.58064],"type":"Point"}
+}

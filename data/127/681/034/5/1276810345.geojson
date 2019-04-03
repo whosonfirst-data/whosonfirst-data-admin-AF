@@ -1,0 +1,75 @@
+{
+  "id": 1276810345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93125,34.89523,68.93125,34.89523",
+    "geom:latitude":34.89523,
+    "geom:longitude":68.93125,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305",
+    "gn:asciiname":"Tanorak",
+    "gn:country_code":"AF",
+    "gn:dem":2680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122838,
+    "gn:latitude":34.89523,
+    "gn:longitude":68.93125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tan\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan\u014d\u1e5fak",
+        "Tanorak",
+        "Tan\u016brak",
+        "Tan\u014drak",
+        "\u062a\u0646\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"03fd49611d6d5c6e6a673597dcf2569d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1276810345,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1276810345,
+    "wof:lastmodified":1537580189,
+    "wof:name":"Tanorak",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93125,
+    34.89523,
+    68.93125,
+    34.89523
+],
+  "geometry": {"coordinates":[68.93125000000001,34.89523],"type":"Point"}
+}

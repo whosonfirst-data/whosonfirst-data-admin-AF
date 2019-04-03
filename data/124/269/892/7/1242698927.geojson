@@ -1,0 +1,74 @@
+{
+  "id": 1242698927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79795,35.89923,64.79795,35.89923",
+    "geom:latitude":35.89923,
+    "geom:longitude":64.79795,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1801",
+    "gn:asciiname":"Sayyidan",
+    "gn:country_code":"AF",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126234,
+    "gn:latitude":35.89923,
+    "gn:longitude":64.79795,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Say\u1e0f\u0101n",
+        "Seyyed\u0101n",
+        "Sayyid\u0101n",
+        "\u0633\u06cc\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126234
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"381def68cbb7bcc74076962592d30861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562261,
+            "locality_id":1242698927,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1242698927,
+    "wof:lastmodified":1537580455,
+    "wof:name":"Sayyidan",
+    "wof:parent_id":1108562261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79795,
+    35.89923,
+    64.79795,
+    35.89923
+],
+  "geometry": {"coordinates":[64.79795,35.89923],"type":"Point"}
+}

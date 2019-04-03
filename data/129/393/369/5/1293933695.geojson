@@ -1,0 +1,81 @@
+{
+  "id": 1293933695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.84665,36.72997,66.84665,36.72997",
+    "geom:latitude":36.72997,
+    "geom:longitude":66.84665,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606",
+    "gn:asciiname":"Timur Saray",
+    "gn:country_code":"AF",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122527,
+    "gn:latitude":36.72997,
+    "gn:longitude":66.84665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Timur Sar\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0443\u0440-\u0421\u0430\u0440\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Timur-Saray",
+        "Timur-Sala",
+        "Sarkut",
+        "Temor Sara\u012b",
+        "Temor Sar\u0101y",
+        "Timur Sar\u0101y",
+        "\u062a\u0645\u0631 \u0633\u0631\u0627\u06cc",
+        "\u0633\u0631\u06a9\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122527
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9280c7da8b92760af25ac1e7171adcd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1293933695,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293933695,
+    "wof:lastmodified":1537580121,
+    "wof:name":"Timur Saray",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.84665,
+    36.72997,
+    66.84665,
+    36.72997
+],
+  "geometry": {"coordinates":[66.84665,36.72997],"type":"Point"}
+}

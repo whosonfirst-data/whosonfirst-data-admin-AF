@@ -1,0 +1,75 @@
+{
+  "id": 1293184555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04471,33.12575,65.04471,33.12575",
+    "geom:latitude":33.12575,
+    "geom:longitude":65.04471,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Khandan",
+    "gn:country_code":"AF",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137155,
+    "gn:latitude":33.12575,
+    "gn:longitude":65.04471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khand\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khand\u0101n",
+        "\u062e\u0646\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137155
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd7280287ea8d876fbfae148566ec309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1293184555,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293184555,
+    "wof:lastmodified":1537581399,
+    "wof:name":"Khandan",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04471,
+    33.12575,
+    65.04471,
+    33.12575
+],
+  "geometry": {"coordinates":[65.04470999999999,33.12575],"type":"Point"}
+}

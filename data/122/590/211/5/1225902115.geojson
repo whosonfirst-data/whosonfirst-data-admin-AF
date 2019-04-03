@@ -1,0 +1,80 @@
+{
+  "id": 1225902115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99375,36.76735,68.99375,36.76735",
+    "geom:latitude":36.76735,
+    "geom:longitude":68.99375,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Dowlat Yar",
+    "gn:country_code":"AF",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468044,
+    "gn:latitude":36.76735,
+    "gn:longitude":68.99375,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat Y\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u062a \u064a\u0627\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0443\u043b\u0430\u0442\u044c\u044f\u0440"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eawlat Y\u0101\u1e5f",
+        "Daulat\u2019yar",
+        "Dowlat Y\u0101r",
+        "\u062f\u0648\u0644\u062a \u06cc\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468044
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e879239f5f45103c047d48c2151da5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1225902115,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1225902115,
+    "wof:lastmodified":1537583526,
+    "wof:name":"Dowlat Yar",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99375,
+    36.76735,
+    68.99375,
+    36.76735
+],
+  "geometry": {"coordinates":[68.99375000000001,36.76735],"type":"Point"}
+}

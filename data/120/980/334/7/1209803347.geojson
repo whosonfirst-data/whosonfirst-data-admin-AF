@@ -1,0 +1,74 @@
+{
+  "id": 1209803347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.91214,34.94074,61.91214,34.94074",
+    "geom:latitude":34.94074,
+    "geom:longitude":61.91214,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Lush Abak-e Pashnah",
+    "gn:country_code":"AF",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1134445,
+    "gn:latitude":34.94074,
+    "gn:longitude":61.91214,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u016bsh \u0100bak-e P\u0101shnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "L\u016bs\u0304\u0101bak-i-P\u0101s\u0304na",
+        "L\u016bsh \u0100bak-e P\u0101shnah",
+        "\u0644\u0648\u0634 \u0622\u0628\u06a9 \u067e\u0627\u0634\u0646\u0647",
+        "L\u016bsh\u0101bak-e P\u0101shneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134445
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"182aead08116e7eb24fa0ef3c36cb5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1209803347,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209803347,
+    "wof:lastmodified":1537581177,
+    "wof:name":"Lush Abak-e Pashnah",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.91214,
+    34.94074000000001,
+    61.91214,
+    34.94074000000001
+],
+  "geometry": {"coordinates":[61.91214,34.94074000000001],"type":"Point"}
+}

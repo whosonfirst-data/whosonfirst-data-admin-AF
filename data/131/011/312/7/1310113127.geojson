@@ -1,0 +1,75 @@
+{
+  "id": 1310113127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58916,35.95898,68.58916,35.95898",
+    "geom:latitude":35.95898,
+    "geom:longitude":68.58916,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"Qal'ah-ye Sipahsalar",
+    "gn:country_code":"AF",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1470116,
+    "gn:latitude":35.95898,
+    "gn:longitude":68.58916,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Sipahs\u0101l\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-Sepasal\u0101\u1e5f",
+        "Qal\u2018a Sepas\u0101l\u0101\u1e5f",
+        "Qal\u2018eh-ye Sepahsal\u0101r",
+        "Qal\u2018ah-ye Sipahs\u0101l\u0101r",
+        "\u0642\u0644\u0639\u06c0 \u0633\u067e\u0647\u0633\u0627\u0644\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1470116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d2d1efff11abfdc610ca87b01a3eea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1310113127,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310113127,
+    "wof:lastmodified":1537583640,
+    "wof:name":"Qal'ah-ye Sipahsalar",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58915999999999,
+    35.95898,
+    68.58915999999999,
+    35.95898
+],
+  "geometry": {"coordinates":[68.58915999999999,35.95898],"type":"Point"}
+}

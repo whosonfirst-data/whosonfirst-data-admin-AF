@@ -1,0 +1,73 @@
+{
+  "id": 1293112319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59158,37.53515,70.59158,37.53515",
+    "geom:latitude":37.53515,
+    "geom:longitude":70.59158,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Kwilar",
+    "gn:country_code":"AF",
+    "gn:dem":2598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467526,
+    "gn:latitude":37.53515,
+    "gn:longitude":70.59158,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kw\u012blar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0648\u06cc\u0644\u0631",
+        "Kw\u012bla\u1e5f",
+        "Kw\u012blar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467526
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02b54f7c885439535a9fcfb992a0846d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1293112319,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293112319,
+    "wof:lastmodified":1537583484,
+    "wof:name":"Kwilar",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59158000000002,
+    37.53515,
+    70.59158000000002,
+    37.53515
+],
+  "geometry": {"coordinates":[70.59158000000002,37.53515],"type":"Point"}
+}

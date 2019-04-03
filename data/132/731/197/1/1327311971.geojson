@@ -1,0 +1,74 @@
+{
+  "id": 1327311971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.05948,34.43016,61.05948,34.43016",
+    "geom:latitude":34.43016,
+    "geom:longitude":61.05948,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009.0",
+    "gn:asciiname":"Chah Gaz",
+    "gn:country_code":"AF",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145702,
+    "gn:latitude":34.43016,
+    "gn:longitude":61.05948,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101h Gaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101h Gaz",
+        "Ch\u0101h Gaz",
+        "\u0686\u0627\u0647 \u06af\u0632",
+        "Ch\u0101h G\u0101v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145702
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1329f757a917e880b2ee0a89ee918a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1327311971,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1327311971,
+    "wof:lastmodified":1537582123,
+    "wof:name":"Chah Gaz",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.05948000000001,
+    34.43016,
+    61.05948000000001,
+    34.43016
+],
+  "geometry": {"coordinates":[61.05948000000001,34.43016],"type":"Point"}
+}

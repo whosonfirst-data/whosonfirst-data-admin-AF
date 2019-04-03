@@ -1,0 +1,76 @@
+{
+  "id": 1259549659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04278,34.21583,71.04278,34.21583",
+    "geom:latitude":34.21583,
+    "geom:longitude":71.04278,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"814.0",
+    "gn:asciiname":"Bakhram-Khan-Kili",
+    "gn:country_code":"AF",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452453,
+    "gn:latitude":34.21583,
+    "gn:longitude":71.04278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bakhram-Khan-Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u06c0 \u0628\u0647\u0631\u0627\u0645 \u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bahr\u0101m Kh\u0101n K\u00ealay",
+        "Bahr\u0101m Kh\u0101n Kili",
+        "\u0628\u0647\u0631\u0627\u0645 \u062e\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b1680ec8b51de189b5ac148c13243d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562285,
+            "locality_id":1259549659,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259549659,
+    "wof:lastmodified":1537583097,
+    "wof:name":"Bakhram-Khan-Kili",
+    "wof:parent_id":1108562285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04278000000002,
+    34.21583,
+    71.04278000000002,
+    34.21583
+],
+  "geometry": {"coordinates":[71.04278000000002,34.21583],"type":"Point"}
+}

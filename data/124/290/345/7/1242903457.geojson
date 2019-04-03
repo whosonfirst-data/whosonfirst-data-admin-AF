@@ -1,0 +1,77 @@
+{
+  "id": 1242903457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53798,32.65843,65.53798,32.65843",
+    "geom:latitude":32.65843,
+    "geom:longitude":65.53798,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Deraw",
+    "gn:country_code":"AF",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449953,
+    "gn:latitude":32.65843,
+    "gn:longitude":65.53798,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113r\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Derau",
+        "D\u0113r\u0101w",
+        "\u062f\u06d0\u0631\u0627\u0648",
+        "D\u0113\u1e5f\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e90fa41f2c748511e70c7dd5e4b5abc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561983,
+            "locality_id":1242903457,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242903457,
+    "wof:lastmodified":1537583035,
+    "wof:name":"Deraw",
+    "wof:parent_id":1108561983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53798,
+    32.65843,
+    65.53798,
+    32.65843
+],
+  "geometry": {"coordinates":[65.53798,32.65843],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209645017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.79976,33.71641,65.79976,33.71641",
+    "geom:latitude":33.71641,
+    "geom:longitude":65.79976,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Sanginak",
+    "gn:country_code":"AF",
+    "gn:dem":2410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127544,
+    "gn:latitude":33.71641,
+    "gn:longitude":65.79976,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang\u012bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang\u012bnak",
+        "\u0633\u0646\u06af\u06cc\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127544
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80944a971db1586a72b2d4977e3ec9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209645017
+        }
+    ],
+    "wof:id":1209645017,
+    "wof:lastmodified":1537580563,
+    "wof:name":"Sanginak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.79975999999999,
+    33.71641,
+    65.79975999999999,
+    33.71641
+],
+  "geometry": {"coordinates":[65.79975999999999,33.71641],"type":"Point"}
+}

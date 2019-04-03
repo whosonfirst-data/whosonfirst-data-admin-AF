@@ -1,0 +1,72 @@
+{
+  "id": 1225793793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78594,35.31421,65.78594,35.31421",
+    "geom:latitude":35.31421,
+    "geom:longitude":65.78594,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Tamsik",
+    "gn:country_code":"AF",
+    "gn:dem":2448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1122976,
+    "gn:latitude":35.31421,
+    "gn:longitude":65.78594,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tams\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tams\u012bk",
+        "\u062a\u0645\u0633\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122976
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"271a34cf71b5bda59e29ae47f9a80d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1225793793,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225793793,
+    "wof:lastmodified":1537580198,
+    "wof:name":"Tamsik",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78594,
+    35.31421,
+    65.78594,
+    35.31421
+],
+  "geometry": {"coordinates":[65.78594,35.31421],"type":"Point"}
+}

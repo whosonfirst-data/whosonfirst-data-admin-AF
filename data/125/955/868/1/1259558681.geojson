@@ -1,0 +1,74 @@
+{
+  "id": 1259558681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.14612,31.19233,62.14612,31.19233",
+    "geom:latitude":31.19233,
+    "geom:longitude":62.14612,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Akhundzadah",
+    "gn:country_code":"AF",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438849,
+    "gn:latitude":31.19233,
+    "gn:longitude":62.14612,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100kh\u016bndz\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100khun\u1e0fz\u0101\u1e0fah",
+        "\u0100kh\u016bndz\u0101dah",
+        "\u0622\u062e\u0648\u0646\u062f\u0632\u0627\u062f\u0647",
+        "\u0100khvondz\u0101deh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438849
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"468b4e0dc78294fadb5d43f21e393c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561895,
+            "locality_id":1259558681,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1259558681,
+    "wof:lastmodified":1537582898,
+    "wof:name":"Akhundzadah",
+    "wof:parent_id":1108561895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.14612,
+    31.19233,
+    62.14612,
+    31.19233
+],
+  "geometry": {"coordinates":[62.14612,31.19233],"type":"Point"}
+}

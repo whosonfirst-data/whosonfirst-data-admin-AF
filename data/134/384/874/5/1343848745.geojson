@@ -1,0 +1,73 @@
+{
+  "id": 1343848745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89028,32.90925,67.89028,32.90925",
+    "geom:latitude":32.90925,
+    "geom:longitude":67.89028,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Tisin",
+    "gn:country_code":"AF",
+    "gn:dem":2041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435597,
+    "gn:latitude":32.90925,
+    "gn:longitude":67.89028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e6eisin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e6eisin",
+        "\u067c\u0633\u0646",
+        "Tisen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435597
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"845a1cb160d8d0b01f032c78cfe5de92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1343848745,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343848745,
+    "wof:lastmodified":1537582773,
+    "wof:name":"Tisin",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89028,
+    32.90925,
+    67.89028,
+    32.90925
+],
+  "geometry": {"coordinates":[67.89028,32.90925],"type":"Point"}
+}

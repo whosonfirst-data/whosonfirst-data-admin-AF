@@ -1,0 +1,75 @@
+{
+  "id": 1310153375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99363,34.49844,67.99363,34.49844",
+    "geom:latitude":34.49844,
+    "geom:longitude":67.99363,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Lorah",
+    "gn:country_code":"AF",
+    "gn:dem":2980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134553,
+    "gn:latitude":34.49844,
+    "gn:longitude":67.99363,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014drah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014d\u1e5fa",
+        "Lora",
+        "L\u014drah",
+        "Lowrah",
+        "\u0644\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134553
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11fb133c650cb48a29c63bf4042b555c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1310153375,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310153375,
+    "wof:lastmodified":1537581184,
+    "wof:name":"Lorah",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99363000000001,
+    34.49844,
+    67.99363000000001,
+    34.49844
+],
+  "geometry": {"coordinates":[67.99363000000001,34.49844],"type":"Point"}
+}

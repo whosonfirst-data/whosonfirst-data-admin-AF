@@ -1,0 +1,77 @@
+{
+  "id": 1293772709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.36046,30.46288,63.36046,30.46288",
+    "geom:latitude":30.46288,
+    "geom:longitude":63.36046,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2313",
+    "gn:asciiname":"Qal'ah-ye Sirak",
+    "gn:country_code":"AF",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129796,
+    "gn:latitude":30.46288,
+    "gn:longitude":63.36046,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Sirak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibij\u0101n Kal\u0101",
+        "Qal\u2018a-i-Sirak",
+        "Qal\u2018ah-ye Sirak",
+        "\u0642\u0644\u0639\u0647 \u0633\u0631\u06a9",
+        "Qal\u2018eh-ye S\u012brak",
+        "B\u012bb\u012b J\u0101n Kal\u0101",
+        "\u0628\u06cc\u0628\u06cc \u062c\u0627\u0646 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129796
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"af5cf7e90f3b7456e59f404a7c083bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562407,
+            "locality_id":1293772709,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293772709,
+    "wof:lastmodified":1537580764,
+    "wof:name":"Qal'ah-ye Sirak",
+    "wof:parent_id":1108562407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.36046,
+    30.46288,
+    63.36046,
+    30.46288
+],
+  "geometry": {"coordinates":[63.36046,30.46288],"type":"Point"}
+}

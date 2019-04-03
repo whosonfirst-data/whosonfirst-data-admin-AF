@@ -1,0 +1,75 @@
+{
+  "id": 1276292569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04489,32.94807,69.04489,32.94807",
+    "geom:latitude":32.94807,
+    "geom:longitude":69.04489,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Qalam Kor",
+    "gn:country_code":"AF",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453272,
+    "gn:latitude":32.94807,
+    "gn:longitude":69.04489,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qalam K\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalamkor",
+        "Qalam K\u014d\u1e5f",
+        "Qalam K\u016br",
+        "Qalam K\u014dr",
+        "\u0642\u0644\u0645 \u06a9\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"728232f0fce87bc92d64a3e81cc0def9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562433,
+            "locality_id":1276292569,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276292569,
+    "wof:lastmodified":1537583107,
+    "wof:name":"Qalam Kor",
+    "wof:parent_id":1108562433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04489000000001,
+    32.94807,
+    69.04489000000001,
+    32.94807
+],
+  "geometry": {"coordinates":[69.04489000000001,32.94807],"type":"Point"}
+}

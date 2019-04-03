@@ -1,0 +1,73 @@
+{
+  "id": 1343753435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.02618,35.6536,64.02618,35.6536",
+    "geom:latitude":35.6536,
+    "geom:longitude":64.02618,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Ghuchghar",
+    "gn:country_code":"AF",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141072,
+    "gn:latitude":35.6536,
+    "gn:longitude":64.02618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghuchghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghucgha\u1e5f",
+        "Ghuchghar",
+        "\u063a\u0686\u063a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141072
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"26fd935583c2c4a4f4c825ad14b6432b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1343753435,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1343753435,
+    "wof:lastmodified":1537581717,
+    "wof:name":"Ghuchghar",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.02618000000001,
+    35.6536,
+    64.02618000000001,
+    35.6536
+],
+  "geometry": {"coordinates":[64.02618000000001,35.6536],"type":"Point"}
+}

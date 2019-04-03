@@ -1,0 +1,81 @@
+{
+  "id": 1327219243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.50159,33.02137,67.50159,33.02137",
+    "geom:latitude":33.02137,
+    "geom:longitude":67.50159,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Tapqus",
+    "gn:country_code":"AF",
+    "gn:dem":2745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448649,
+    "gn:latitude":33.02137,
+    "gn:longitude":67.50159,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tapq\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u067e\u0642\u0648\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043f\u043a\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Tapkus",
+        "\u0162\u0101pq\u016bs",
+        "Tapq\u016bs",
+        "\u062a\u067e\u0642\u0648\u0633",
+        "\u0637\u0627\u067e\u0642\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448649
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0a83a75991d97870e3c5eaaa698b13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1327219243,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327219243,
+    "wof:lastmodified":1537582988,
+    "wof:name":"Tapqus",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.50159000000001,
+    33.02137,
+    67.50159000000001,
+    33.02137
+],
+  "geometry": {"coordinates":[67.50159000000001,33.02137],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276722925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92323,33.34792,68.92323,33.34792",
+    "geom:latitude":33.34792,
+    "geom:longitude":68.92323,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915",
+    "gn:asciiname":"Lat Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134687,
+    "gn:latitude":33.34792,
+    "gn:longitude":68.92323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101\u1e6f Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Latkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "L\u0101tkh\u0113l",
+        "L\u0101t Kheyl",
+        "L\u0101\u1e6f Kh\u0113l",
+        "\u0644\u0627\u067c \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134687
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aeb00ac2d69b1a643dd5dd125b3b0c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1276722925,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276722925,
+    "wof:lastmodified":1537581194,
+    "wof:name":"Lat Khel",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92323,
+    33.34792,
+    68.92323,
+    33.34792
+],
+  "geometry": {"coordinates":[68.92323,33.34792],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326463843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.01857,37.08154,66.01857,37.08154",
+    "geom:latitude":37.08154,
+    "geom:longitude":66.01857,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Sayyidabad",
+    "gn:country_code":"AF",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126259,
+    "gn:latitude":37.08154,
+    "gn:longitude":66.01857,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Said\u0101b\u0101d",
+        "Say\u1e0f\u0101b\u0101\u1e0f",
+        "Sayed\u0101b\u0101d",
+        "Seyyed\u0101b\u0101d",
+        "Sayyid\u0101b\u0101d",
+        "\u0633\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126259
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a522487aaf32d8c1e8efbb4d85ac773c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1326463843,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1326463843,
+    "wof:lastmodified":1537580459,
+    "wof:name":"Sayyidabad",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.01857,
+    37.08154,
+    66.01857,
+    37.08154
+],
+  "geometry": {"coordinates":[66.01857,37.08154],"type":"Point"}
+}

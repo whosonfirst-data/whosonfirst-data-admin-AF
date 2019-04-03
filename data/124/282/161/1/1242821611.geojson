@@ -1,0 +1,75 @@
+{
+  "id": 1242821611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.34336,31.87007,66.34336,31.87007",
+    "geom:latitude":31.87007,
+    "geom:longitude":66.34336,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506",
+    "gn:asciiname":"Jalal Khan",
+    "gn:country_code":"AF",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139712,
+    "gn:latitude":31.87007,
+    "gn:longitude":66.34336,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jal\u0101l Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhalal\u2019khan"
+    ],
+    "name:und_x_variant":[
+        "\u062c\u0644\u0627\u0644 \u062e\u0627\u0646",
+        "Jal\u0101l Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139712
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e76f90d2d4984a0776b9e0d4deede65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1242821611,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242821611,
+    "wof:lastmodified":1537581601,
+    "wof:name":"Jalal Khan",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.34336,
+    31.87007,
+    66.34336,
+    31.87007
+],
+  "geometry": {"coordinates":[66.34336,31.87007],"type":"Point"}
+}

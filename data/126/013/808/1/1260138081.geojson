@@ -1,0 +1,78 @@
+{
+  "id": 1260138081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29842,37.07045,69.29842,37.07045",
+    "geom:latitude":37.07045,
+    "geom:longitude":69.29842,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Chichkah",
+    "gn:country_code":"AF",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145001,
+    "gn:latitude":37.07045,
+    "gn:longitude":69.29842,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bchkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arch\u012b",
+        "C\u012bcka",
+        "A\u1e5fci",
+        "Chika",
+        "Ch\u012bchka",
+        "Ch\u012bchkeh",
+        "Ch\u012bchkah",
+        "\u0686\u06cc\u0686\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145001
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c55ff2428b0a75cd15207b749e9ccb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561953,
+            "locality_id":1260138081,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1260138081,
+    "wof:lastmodified":1537582064,
+    "wof:name":"Chichkah",
+    "wof:parent_id":1108561953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29842,
+    37.07045,
+    69.29842,
+    37.07045
+],
+  "geometry": {"coordinates":[69.29841999999999,37.07045],"type":"Point"}
+}

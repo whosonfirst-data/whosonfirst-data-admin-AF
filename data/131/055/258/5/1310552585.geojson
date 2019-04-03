@@ -1,0 +1,75 @@
+{
+  "id": 1310552585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40023,34.87044,69.40023,34.87044",
+    "geom:latitude":34.87044,
+    "geom:longitude":69.40023,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"309",
+    "gn:asciiname":"Jurghati",
+    "gn:country_code":"AF",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139091,
+    "gn:latitude":34.87044,
+    "gn:longitude":69.40023,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jurgh\u0101t\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhurgati",
+        "Ju\u1e5fgh\u0101ti",
+        "Jorgh\u0101t\u012b",
+        "Jurgh\u0101t\u012b",
+        "\u062c\u0631\u063a\u0627\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139091
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a3365a87b340210d2265e8dcb9f5db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562203,
+            "locality_id":1310552585,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1310552585,
+    "wof:lastmodified":1537581549,
+    "wof:name":"Jurghati",
+    "wof:parent_id":1108562203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40023000000001,
+    34.87044,
+    69.40023000000001,
+    34.87044
+],
+  "geometry": {"coordinates":[69.40023000000001,34.87044],"type":"Point"}
+}

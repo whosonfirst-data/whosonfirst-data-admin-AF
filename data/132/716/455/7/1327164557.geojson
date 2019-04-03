@@ -1,0 +1,76 @@
+{
+  "id": 1327164557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46501,35.25532,69.46501,35.25532",
+    "geom:latitude":35.25532,
+    "geom:longitude":69.46501,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3307",
+    "gn:asciiname":"Kabizan",
+    "gn:country_code":"AF",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130277,
+    "gn:latitude":35.25532,
+    "gn:longitude":69.46501,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kabizan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0628\u062f\u0636\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101be\u1e0f\u1e95\u0101n",
+        "Q\u0101bi\u1e95\u0101n",
+        "\u0642\u0627\u0628\u0636\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b8587d39e4a32c3b0bb4e36726077bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562415,
+            "locality_id":1327164557,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1327164557,
+    "wof:lastmodified":1537580826,
+    "wof:name":"Kabizan",
+    "wof:parent_id":1108562415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46500999999999,
+    35.25532000000001,
+    69.46500999999999,
+    35.25532000000001
+],
+  "geometry": {"coordinates":[69.46500999999999,35.25532000000001],"type":"Point"}
+}

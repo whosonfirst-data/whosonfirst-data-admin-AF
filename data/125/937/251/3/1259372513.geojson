@@ -1,0 +1,72 @@
+{
+  "id": 1259372513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43467,34.4498,65.43467,34.4498",
+    "geom:latitude":34.4498,
+    "geom:longitude":65.43467,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Qiaghak",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128719,
+    "gn:latitude":34.4498,
+    "gn:longitude":65.43467,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u012b\u0101ghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u012b\u0101ghak",
+        "\u0642\u06cc\u0627\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128719
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87fcf13b0aa787d5db36bfc3570c7d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1259372513,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259372513,
+    "wof:lastmodified":1537580646,
+    "wof:name":"Qiaghak",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43467,
+    34.4498,
+    65.43467,
+    34.4498
+],
+  "geometry": {"coordinates":[65.43467,34.4498],"type":"Point"}
+}

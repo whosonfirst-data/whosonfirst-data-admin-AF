@@ -1,0 +1,72 @@
+{
+  "id": 1326881939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07686,33.60578,70.07686,33.60578",
+    "geom:latitude":33.60578,
+    "geom:longitude":70.07686,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3202.0",
+    "gn:asciiname":"Khan",
+    "gn:country_code":"AF",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345524,
+    "gn:latitude":33.60578,
+    "gn:longitude":70.07686,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101n",
+        "\u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345524
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7160088c76b9a35f9890a8f678acbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562093,
+            "locality_id":1326881939,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1326881939,
+    "wof:lastmodified":1537582440,
+    "wof:name":"Khan",
+    "wof:parent_id":1108562093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07686,
+    33.60578,
+    70.07686,
+    33.60578
+],
+  "geometry": {"coordinates":[70.07686,33.60578],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310127015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.04024,35.84558,64.04024,35.84558",
+    "geom:latitude":35.84558,
+    "geom:longitude":64.04024,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Khwajah-Sipilan",
+    "gn:country_code":"AF",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424396,
+    "gn:latitude":35.84558,
+    "gn:longitude":64.04024,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah-Sipil\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khw\u0101ja Sepil\u0101n",
+        "Khv\u0101jeh Sepeyl\u0101n",
+        "Khw\u0101jah-Sipil\u0101n",
+        "\u062e\u0648\u0627\u062c\u0647 \u0633\u067e\u0644\u0627\u0646",
+        "Khw\u0101jah Sep\u012bn\u0101n",
+        "\u062e\u0648\u0627\u062c\u0647 \u0633\u067e\u06cc\u0646\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424396
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93c5da9f5ffa5a2155ac3c29809988ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1310127015,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1310127015,
+    "wof:lastmodified":1537582610,
+    "wof:name":"Khwajah-Sipilan",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.04024,
+    35.84558,
+    64.04024,
+    35.84558
+],
+  "geometry": {"coordinates":[64.04024,35.84558],"type":"Point"}
+}

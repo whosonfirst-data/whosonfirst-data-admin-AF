@@ -1,0 +1,78 @@
+{
+  "id": 1209967817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35385,31.78265,66.35385,31.78265",
+    "geom:latitude":31.78265,
+    "geom:longitude":66.35385,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506",
+    "gn:asciiname":"Kuchnay Dirki",
+    "gn:country_code":"AF",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135421,
+    "gn:latitude":31.78265,
+    "gn:longitude":66.35385,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuchnay Dirk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuchnay-Dirki",
+        "K\u016b\u010dni Derki",
+        "\u06a9\u0648\u0686\u0646\u06cc \u062f\u0631\u06a9\u06cc",
+        "Kuchn\u012b Derk\u012b",
+        "K\u016bchnay Derk\u012b",
+        "Kuchnay Dirk\u012b",
+        "\u06a9\u0686\u0646\u06cc \u062f\u0631\u06a9\u06cc",
+        "K\u016bchnay Dirk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135421
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a40f9dda70b78fa56beffdc57757ae64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1209967817,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209967817,
+    "wof:lastmodified":1537581249,
+    "wof:name":"Kuchnay Dirki",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35385,
+    31.78265,
+    66.35385,
+    31.78265
+],
+  "geometry": {"coordinates":[66.35384999999999,31.78265],"type":"Point"}
+}

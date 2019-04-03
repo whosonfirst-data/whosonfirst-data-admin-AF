@@ -1,0 +1,76 @@
+{
+  "id": 1326873205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.78453,33.2285,69.78453,33.2285",
+    "geom:latitude":33.2285,
+    "geom:longitude":69.78453,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203",
+    "gn:asciiname":"Mazar Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133610,
+    "gn:latitude":33.2285,
+    "gn:longitude":69.78453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maz\u0101r K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0627\u0631 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mazarkalay",
+        "Maz\u0101r K\u00ealay",
+        "Maz\u0101\u1e5f Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133610
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b93f018d3fff29f6b6d10c7e6aad50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1326873205,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1326873205,
+    "wof:lastmodified":1537581109,
+    "wof:name":"Mazar Kelay",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.78453,
+    33.2285,
+    69.78453,
+    33.2285
+],
+  "geometry": {"coordinates":[69.78453,33.2285],"type":"Point"}
+}

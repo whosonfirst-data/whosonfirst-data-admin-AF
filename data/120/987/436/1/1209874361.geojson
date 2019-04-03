@@ -1,0 +1,73 @@
+{
+  "id": 1209874361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41039,32.32075,66.41039,32.32075",
+    "geom:latitude":32.32075,
+    "geom:longitude":66.41039,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414.0",
+    "gn:asciiname":"Putay",
+    "gn:country_code":"AF",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427869,
+    "gn:latitude":32.32075,
+    "gn:longitude":66.41039,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Putay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014d\u1e6fa\u012b",
+        "\u067e\u0648\u067c\u06cc",
+        "P\u016btay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427869
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77bd1bbc73d88db0cd2eea577035b640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1209874361,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209874361,
+    "wof:lastmodified":1537582644,
+    "wof:name":"Putay",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41039,
+    32.32075,
+    66.41039,
+    32.32075
+],
+  "geometry": {"coordinates":[66.41039000000001,32.32075],"type":"Point"}
+}

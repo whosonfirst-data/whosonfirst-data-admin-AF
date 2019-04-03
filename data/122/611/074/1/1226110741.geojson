@@ -1,0 +1,73 @@
+{
+  "id": 1226110741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.7181,31.59044,65.7181,31.59044",
+    "geom:latitude":31.59044,
+    "geom:longitude":65.7181,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Irazi",
+    "gn:country_code":"AF",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142499,
+    "gn:latitude":31.59044,
+    "gn:longitude":65.7181,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ir\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ir\u0101z\u012b",
+        "\u0627\u0631\u0627\u0632\u06cc",
+        "Er\u0101zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142499
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a9d6abec9badf51920d0f184dc26899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1226110741,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226110741,
+    "wof:lastmodified":1537581834,
+    "wof:name":"Irazi",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.7181,
+    31.59044,
+    65.7181,
+    31.59044
+],
+  "geometry": {"coordinates":[65.71810000000001,31.59044],"type":"Point"}
+}

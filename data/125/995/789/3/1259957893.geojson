@@ -1,0 +1,75 @@
+{
+  "id": 1259957893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.07194,34.27111,62.07194,34.27111",
+    "geom:latitude":34.27111,
+    "geom:longitude":62.07194,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Kalayi-Kuma",
+    "gn:country_code":"AF",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472151,
+    "gn:latitude":34.27111,
+    "gn:longitude":62.07194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalayi-Kuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0643\u0648\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a-i-K\u016bmah",
+        "Qal\u2018eh-ye K\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472151
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dc0a95df70ca0c1b7ff67e030dc3278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1259957893,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259957893,
+    "wof:lastmodified":1537583671,
+    "wof:name":"Kalayi-Kuma",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.07194000000001,
+    34.27111,
+    62.07194000000001,
+    34.27111
+],
+  "geometry": {"coordinates":[62.07194000000001,34.27111],"type":"Point"}
+}

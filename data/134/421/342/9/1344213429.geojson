@@ -1,0 +1,74 @@
+{
+  "id": 1344213429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09574,31.46212,67.09574,31.46212",
+    "geom:latitude":31.46212,
+    "geom:longitude":67.09574,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Ezghumay",
+    "gn:country_code":"AF",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437063,
+    "gn:latitude":31.46212,
+    "gn:longitude":67.09574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ezgh\u016bmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Izgumay",
+        "Ezgh\u016bmay",
+        "Ezghowmay",
+        "\u0627\u0632\u063a\u0648\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437063
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"046e040dca401aa2c925e5ab270dc283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1344213429,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1344213429,
+    "wof:lastmodified":1537582831,
+    "wof:name":"Ezghumay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09574,
+    31.46212,
+    67.09574,
+    31.46212
+],
+  "geometry": {"coordinates":[67.09574000000001,31.46212],"type":"Point"}
+}

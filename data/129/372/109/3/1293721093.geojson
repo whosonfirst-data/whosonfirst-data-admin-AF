@@ -1,0 +1,71 @@
+{
+  "id": 1293721093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92776,34.08081,66.92776,34.08081",
+    "geom:latitude":34.08081,
+    "geom:longitude":66.92776,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Takht",
+    "gn:country_code":"AF",
+    "gn:dem":3033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123193,
+    "gn:latitude":34.08081,
+    "gn:longitude":66.92776,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062a\u062e\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123193
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d7fa67cce109714444cbcd619870ded4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1293721093,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293721093,
+    "wof:lastmodified":1537580209,
+    "wof:name":"Takht",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92775999999999,
+    34.08081,
+    66.92775999999999,
+    34.08081
+],
+  "geometry": {"coordinates":[66.92775999999999,34.08081],"type":"Point"}
+}

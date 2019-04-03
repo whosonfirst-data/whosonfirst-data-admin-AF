@@ -1,0 +1,74 @@
+{
+  "id": 1259940567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40195,36.17177,67.40195,36.17177",
+    "geom:latitude":36.17177,
+    "geom:longitude":67.40195,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611",
+    "gn:asciiname":"Hazarah",
+    "gn:country_code":"AF",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140135,
+    "gn:latitude":36.17177,
+    "gn:longitude":67.40195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hazara",
+        "Hez\u0101reh",
+        "Haz\u0101rah",
+        "\u0647\u0632\u0627\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140135
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f9c003a79d38e713545278677b50c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1259940567,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1259940567,
+    "wof:lastmodified":1537581634,
+    "wof:name":"Hazarah",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40195,
+    36.17177,
+    67.40195,
+    36.17177
+],
+  "geometry": {"coordinates":[67.40195,36.17177],"type":"Point"}
+}

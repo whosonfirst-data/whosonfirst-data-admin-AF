@@ -1,0 +1,75 @@
+{
+  "id": 1226203441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84088,33.23219,68.84088,33.23219",
+    "geom:latitude":33.23219,
+    "geom:longitude":68.84088,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915.0",
+    "gn:asciiname":"Tatoray",
+    "gn:country_code":"AF",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435193,
+    "gn:latitude":33.23219,
+    "gn:longitude":68.84088,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tatoray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tat\u014d\u1e5fay",
+        "Tatoray",
+        "\u067c\u067c\u0648\u0631\u06cc",
+        "\u1e6ea\u1e6f\u016bray",
+        "\u1e6ea\u1e6f\u014dray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435193
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4179c234c6e829a654027d4ac93a6b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1226203441,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226203441,
+    "wof:lastmodified":1537582762,
+    "wof:name":"Tatoray",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84088,
+    33.23219,
+    68.84088,
+    33.23219
+],
+  "geometry": {"coordinates":[68.84088,33.23219],"type":"Point"}
+}

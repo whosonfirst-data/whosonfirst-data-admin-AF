@@ -1,0 +1,73 @@
+{
+  "id": 1226493095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.32139,32.67583,69.32139,32.67583",
+    "geom:latitude":32.67583,
+    "geom:longitude":69.32139,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909",
+    "gn:asciiname":"Gharbi Mangretay",
+    "gn:country_code":"AF",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141407,
+    "gn:latitude":32.67583,
+    "gn:longitude":69.32139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharb\u012b Mang\u1e5f\u0113tay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garbi-Mangretay",
+        "Gharb\u012b Mang\u1e5f\u0113tay",
+        "Gha\u1e5fbi Mangr\u0113tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141407
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be483a50b4bc2a6c640406a9a86fced9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1226493095,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226493095,
+    "wof:lastmodified":1537581751,
+    "wof:name":"Gharbi Mangretay",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.32139000000001,
+    32.67583,
+    69.32139000000001,
+    32.67583
+],
+  "geometry": {"coordinates":[69.32139000000001,32.67583],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310559807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65337,32.43452,65.65337,32.43452",
+    "geom:latitude":32.43452,
+    "geom:longitude":65.65337,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2415.0",
+    "gn:asciiname":"Sar Poshan",
+    "gn:country_code":"AF",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424745,
+    "gn:latitude":32.43452,
+    "gn:longitude":65.65337,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar P\u014dsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u067e\u0648\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sarpo\u0161\u0101n",
+        "Sarposhan",
+        "Sar P\u014dsh\u0101n",
+        "\u0633\u0631 \u067e\u0648\u0634\u0627\u0646",
+        "Sarp\u016bsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424745
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f7799776885062254e50586b4682b60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562323,
+            "locality_id":1310559807,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1310559807,
+    "wof:lastmodified":1537582615,
+    "wof:name":"Sar Poshan",
+    "wof:parent_id":1108562323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65337,
+    32.43452,
+    65.65337,
+    32.43452
+],
+  "geometry": {"coordinates":[65.65337,32.43452],"type":"Point"}
+}

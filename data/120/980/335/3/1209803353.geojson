@@ -1,0 +1,76 @@
+{
+  "id": 1209803353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.61577,34.22195,62.61577,34.22195",
+    "geom:latitude":34.22195,
+    "geom:longitude":62.61577,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Dargharaz",
+    "gn:country_code":"AF",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144067,
+    "gn:latitude":34.22195,
+    "gn:longitude":62.61577,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dargharaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dargaraz",
+        "D\u0101rghara\u1e95",
+        "Dargharaz",
+        "\u062f\u0631\u063a\u0631\u0632",
+        "Darghara\u1e95",
+        "\u062f\u0631\u063a\u0631\u0636"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144067
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"002c107b30c39af7c3bb8633f14681b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1209803353,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209803353,
+    "wof:lastmodified":1537581972,
+    "wof:name":"Dargharaz",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.61577,
+    34.22195,
+    62.61577,
+    34.22195
+],
+  "geometry": {"coordinates":[62.61577,34.22195],"type":"Point"}
+}

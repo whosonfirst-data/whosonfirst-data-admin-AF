@@ -1,0 +1,73 @@
+{
+  "id": 1327494405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30396,32.43668,68.30396,32.43668",
+    "geom:latitude":32.43668,
+    "geom:longitude":68.30396,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903",
+    "gn:asciiname":"Kunatay",
+    "gn:country_code":"AF",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135700,
+    "gn:latitude":32.43668,
+    "gn:longitude":68.30396,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kun\u0101\u1e6fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0646\u0627\u067c\u06cc",
+        "Kon\u0101tay",
+        "Kun\u0101\u1e6fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135700
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8467a8e87f2350143e2ba6ad1656843c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561985,
+            "locality_id":1327494405,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327494405,
+    "wof:lastmodified":1537581278,
+    "wof:name":"Kunatay",
+    "wof:parent_id":1108561985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30396,
+    32.43668,
+    68.30396,
+    32.43668
+],
+  "geometry": {"coordinates":[68.30396,32.43668],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360041619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04938,31.64841,65.04938,31.64841",
+    "geom:latitude":31.64841,
+    "geom:longitude":65.04938,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Izabad",
+    "gn:country_code":"AF",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142305,
+    "gn:latitude":31.64841,
+    "gn:longitude":65.04938,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Iz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0627\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Iz\u0101b\u0101d",
+        "\u0627\u0632 \u0622\u0628\u0627\u062f",
+        "Ez\u0101b\u0101\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"92319602c83438769dd88591c04a9d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1360041619,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360041619,
+    "wof:lastmodified":1537581817,
+    "wof:name":"Izabad",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04938,
+    31.64841,
+    65.04938,
+    31.64841
+],
+  "geometry": {"coordinates":[65.04938,31.64841],"type":"Point"}
+}

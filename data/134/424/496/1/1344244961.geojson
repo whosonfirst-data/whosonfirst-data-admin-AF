@@ -1,0 +1,79 @@
+{
+  "id": 1344244961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.18549,34.76054,62.18549,34.76054",
+    "geom:latitude":34.76054,
+    "geom:longitude":62.18549,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Khwajah Malal",
+    "gn:country_code":"AF",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136159,
+    "gn:latitude":34.76054,
+    "gn:longitude":62.18549,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Mal\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khodzha-Malal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Khwaja Mala",
+        "Khw\u0101ja Mal\u0101l",
+        "Khv\u0101jeh Moll\u0101",
+        "Khv\u0101jeh Mal\u0101l",
+        "Khw\u0101jah Mal\u0101l",
+        "\u062e\u0648\u0627\u062c\u0647 \u0645\u0644\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136159
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"54449928b431007e509c3e07f7c9de2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1344244961,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1344244961,
+    "wof:lastmodified":1537581319,
+    "wof:name":"Khwajah Malal",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.18549,
+    34.76054,
+    62.18549,
+    34.76054
+],
+  "geometry": {"coordinates":[62.18549,34.76054],"type":"Point"}
+}

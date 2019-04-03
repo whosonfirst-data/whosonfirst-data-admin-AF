@@ -1,0 +1,78 @@
+{
+  "id": 1344146581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.53955,34.21952,64.53955,34.21952",
+    "geom:latitude":34.21952,
+    "geom:longitude":64.53955,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Gharghanow",
+    "gn:country_code":"AF",
+    "gn:dem":2698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141384,
+    "gn:latitude":34.21952,
+    "gn:longitude":64.53955,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharghanow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garganav",
+        "Gha\u1e5fghanaw",
+        "Gha\u1e5fgha\u1e5fn\u0101b",
+        "Gharghehn\u0101w",
+        "Gharghanow",
+        "\u063a\u0631\u063a\u0646\u0648",
+        "Ghargharn\u0101b",
+        "\u063a\u0631\u063a\u0631\u0646\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141384
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a11cbceec648d1895030db54b1c99fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1344146581,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344146581,
+    "wof:lastmodified":1537581749,
+    "wof:name":"Gharghanow",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.53955,
+    34.21952,
+    64.53955,
+    34.21952
+],
+  "geometry": {"coordinates":[64.53955000000001,34.21952],"type":"Point"}
+}

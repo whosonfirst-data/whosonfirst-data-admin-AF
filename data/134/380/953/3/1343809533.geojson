@@ -1,0 +1,79 @@
+{
+  "id": 1343809533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36359,35.19123,70.36359,35.19123",
+    "geom:latitude":35.19123,
+    "geom:longitude":70.36359,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3007",
+    "gn:asciiname":"Palah Gul",
+    "gn:country_code":"AF",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131250,
+    "gn:latitude":35.19123,
+    "gn:longitude":70.36359,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Palah Gul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Palagul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Palagal",
+        "Palagul",
+        "Palah Gal",
+        "\u067e\u0644\u0647 \u06af\u0644",
+        "Palahgol",
+        "Palah Gul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131250
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7863d0668bd35abfdeee2dffe71d4748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561991,
+            "locality_id":1343809533,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1343809533,
+    "wof:lastmodified":1537580905,
+    "wof:name":"Palah Gul",
+    "wof:parent_id":1108561991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36359,
+    35.19123,
+    70.36359,
+    35.19123
+],
+  "geometry": {"coordinates":[70.36359,35.19123],"type":"Point"}
+}

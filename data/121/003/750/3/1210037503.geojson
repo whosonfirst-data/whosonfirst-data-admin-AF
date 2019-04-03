@@ -1,0 +1,73 @@
+{
+  "id": 1210037503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.84833,36.18359,64.84833,36.18359",
+    "geom:latitude":36.18359,
+    "geom:longitude":64.84833,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Gurzad",
+    "gn:country_code":"AF",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422255,
+    "gn:latitude":36.18359,
+    "gn:longitude":64.84833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gurz\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurz\u0101d",
+        "\u06af\u0631\u0632\u0627\u062f",
+        "Gorz\u0101d (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422255
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5540a444003c5abf2d829e25126b6f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562501,
+            "locality_id":1210037503,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1210037503,
+    "wof:lastmodified":1537582540,
+    "wof:name":"Gurzad",
+    "wof:parent_id":1108562501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.84833,
+    36.18359,
+    64.84833,
+    36.18359
+],
+  "geometry": {"coordinates":[64.84833,36.18359],"type":"Point"}
+}

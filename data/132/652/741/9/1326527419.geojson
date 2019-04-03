@@ -1,0 +1,79 @@
+{
+  "id": 1326527419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.13831,32.4946,62.13831,32.4946",
+    "geom:latitude":32.4946,
+    "geom:longitude":62.13831,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2111.0",
+    "gn:asciiname":"Chin Farsi",
+    "gn:country_code":"AF",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144950,
+    "gn:latitude":32.4946,
+    "gn:longitude":62.13831,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bn F\u0101rs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u064a\u0646\u0654 \u0641\u0627\u0631\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ch\u012bn F\u0101rs\u012b",
+        "Chinfarsi",
+        "\u010c\u012bn F\u0101rs\u012b",
+        "Tsh\u012bn-e F\u0101rs\u012b",
+        "\u0686\u06cc\u0646 \u0641\u0627\u0631\u0633\u06cc",
+        "\u062a\u0634\u064a\u0646\u0654 \u0641\u0627\u0631\u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144950
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bbe3627314069db5decc245855cf71b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562369,
+            "locality_id":1326527419,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1326527419,
+    "wof:lastmodified":1537582057,
+    "wof:name":"Chin Farsi",
+    "wof:parent_id":1108562369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.13831,
+    32.4946,
+    62.13831,
+    32.4946
+],
+  "geometry": {"coordinates":[62.13831,32.4946],"type":"Point"}
+}

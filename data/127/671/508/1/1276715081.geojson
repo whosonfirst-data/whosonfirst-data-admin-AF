@@ -1,0 +1,68 @@
+{
+  "id": 1276715081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79639,34.73556,70.79639,34.73556",
+    "geom:latitude":34.73556,
+    "geom:longitude":70.79639,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Kafar Tang",
+    "gn:country_code":"AF",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110304,
+    "gn:latitude":34.73556,
+    "gn:longitude":70.79639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101far Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"66b09b2e89974385b538211c8533b701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1276715081,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1276715081,
+    "wof:lastmodified":1536764782,
+    "wof:name":"Kafar Tang",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79639,
+    34.73556,
+    70.79639,
+    34.73556
+],
+  "geometry": {"coordinates":[70.79639,34.73556],"type":"Point"}
+}

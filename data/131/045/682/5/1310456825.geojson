@@ -1,0 +1,73 @@
+{
+  "id": 1310456825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9124,37.33512,69.9124,37.33512",
+    "geom:latitude":37.33512,
+    "geom:longitude":69.9124,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1209.0",
+    "gn:asciiname":"Chakaran",
+    "gn:country_code":"AF",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467717,
+    "gn:latitude":37.33512,
+    "gn:longitude":69.9124,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101kar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u0101ka\u1e5f\u0101n",
+        "Ch\u0101kar\u0101n",
+        "\u0686\u0627\u06a9\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467717
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"825df3e5d34d911900aee77b9232634f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561879,
+            "locality_id":1310456825,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1310456825,
+    "wof:lastmodified":1537583503,
+    "wof:name":"Chakaran",
+    "wof:parent_id":1108561879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9124,
+    37.33512,
+    69.9124,
+    37.33512
+],
+  "geometry": {"coordinates":[69.91240000000001,37.33512],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259534551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.58683,32.33967,66.58683,32.33967",
+    "geom:latitude":32.33967,
+    "geom:longitude":66.58683,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Karang Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138203,
+    "gn:latitude":32.33967,
+    "gn:longitude":66.58683,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ka\u1e5fang K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u0646\u06af \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Karangkalay",
+        "Ka\u1e5fang K\u00ealay",
+        "\u06a9\u0693\u0646\u06af \u06a9\u0644\u06cc",
+        "Karang Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138203
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"75113eda97de73049ac20e54cd482deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1259534551,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259534551,
+    "wof:lastmodified":1537581487,
+    "wof:name":"Karang Kelay",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.58683,
+    32.33967,
+    66.58683,
+    32.33967
+],
+  "geometry": {"coordinates":[66.58683000000001,32.33967],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243361005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.42387,32.70613,62.42387,32.70613",
+    "geom:latitude":32.70613,
+    "geom:longitude":62.42387,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Lukhak-e Khord",
+    "gn:country_code":"AF",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134475,
+    "gn:latitude":32.70613,
+    "gn:longitude":62.42387,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u016bkhak-e Kh\u014drd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukhaki-Khurd",
+        "L\u016bkhak-e Khord",
+        "L\u016bkhak-e Kh\u014drd",
+        "\u0644\u0648\u062e\u06a9 \u062e\u0648\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134475
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1323bc654dab110522ea01da99f17f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1243361005,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243361005,
+    "wof:lastmodified":1537581178,
+    "wof:name":"Lukhak-e Khord",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.42387,
+    32.70613,
+    62.42387,
+    32.70613
+],
+  "geometry": {"coordinates":[62.42387,32.70613],"type":"Point"}
+}

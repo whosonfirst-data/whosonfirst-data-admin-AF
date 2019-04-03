@@ -1,0 +1,73 @@
+{
+  "id": 1310333151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.69742,36.71162,65.69742,36.71162",
+    "geom:latitude":36.71162,
+    "geom:longitude":65.69742,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Shobai",
+    "gn:country_code":"AF",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124953,
+    "gn:latitude":36.71162,
+    "gn:longitude":65.69742,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dba\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u014dba\u012b",
+        "\u0634\u0648\u0628\u06cc",
+        "Shobai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4acb1b39f3de6199f7a5441d14776461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1310333151,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1310333151,
+    "wof:lastmodified":1537580341,
+    "wof:name":"Shobai",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.69742,
+    36.71162,
+    65.69742,
+    36.71162
+],
+  "geometry": {"coordinates":[65.69741999999999,36.71162],"type":"Point"}
+}

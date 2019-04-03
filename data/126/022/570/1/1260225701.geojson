@@ -1,0 +1,77 @@
+{
+  "id": 1260225701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45913,35.0111,71.45913,35.0111",
+    "geom:latitude":35.0111,
+    "geom:longitude":71.45913,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Kharow Patay",
+    "gn:country_code":"AF",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424133,
+    "gn:latitude":35.0111,
+    "gn:longitude":71.45913,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kharow Pa\u1e6fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0648 \u067e\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kharaupatay",
+        "\u062e\u0631\u0648 \u067e\u067c\u06cc",
+        "Kharaw Patay",
+        "Kharow Pa\u1e6fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424133
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a8a9d296eb782f4206451891aa16bbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561929,
+            "locality_id":1260225701,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1260225701,
+    "wof:lastmodified":1537582601,
+    "wof:name":"Kharow Patay",
+    "wof:parent_id":1108561929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45913,
+    35.0111,
+    71.45913,
+    35.0111
+],
+  "geometry": {"coordinates":[71.45913,35.0111],"type":"Point"}
+}

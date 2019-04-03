@@ -1,0 +1,76 @@
+{
+  "id": 1226827099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.17518,35.15197,62.17518,35.15197",
+    "geom:latitude":35.15197,
+    "geom:longitude":62.17518,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Siyah Kamar",
+    "gn:country_code":"AF",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124602,
+    "gn:latitude":35.15197,
+    "gn:longitude":62.17518,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siy\u0101h Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sy\u0101h Kama\u1e5f",
+        "Siakhkamar",
+        "S\u012b\u0101h Kamar",
+        "\u0633\u06cc\u0627\u0647 \u06a9\u0645\u0631",
+        "S\u012bahkamar",
+        "Siy\u0101h Kamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124602
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"55b6a9076bdec9195690848c31824d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1226827099,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226827099,
+    "wof:lastmodified":1537580313,
+    "wof:name":"Siyah Kamar",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.17518000000001,
+    35.15197,
+    62.17518000000001,
+    35.15197
+],
+  "geometry": {"coordinates":[62.17518000000001,35.15197],"type":"Point"}
+}

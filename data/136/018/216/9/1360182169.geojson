@@ -1,0 +1,79 @@
+{
+  "id": 1360182169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12598,33.35229,68.12598,33.35229",
+    "geom:latitude":33.35229,
+    "geom:longitude":68.12598,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Shaykhi Gudale",
+    "gn:country_code":"AF",
+    "gn:dem":2437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439057,
+    "gn:latitude":33.35229,
+    "gn:longitude":68.12598,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh\u012b Gu\u1e0fal\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u062e\u06cc \u06af\u062f\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113khi Godal\u0113",
+        "Sheykhigudale",
+        "Sh\u0113kh\u012b G\u014ddal\u012b",
+        "Sheykh\u012b Godal\u0113",
+        "Shaykh\u012b Gu\u1e0fal\u0113",
+        "\u0634\u064a\u062e\u06cc \u06af\u0689\u0644\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439057
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9761cb10d6daf5eff800c70e3919ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1360182169,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360182169,
+    "wof:lastmodified":1537582913,
+    "wof:name":"Shaykhi Gudale",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12598,
+    33.35229,
+    68.12598,
+    33.35229
+],
+  "geometry": {"coordinates":[68.12598,33.35229],"type":"Point"}
+}

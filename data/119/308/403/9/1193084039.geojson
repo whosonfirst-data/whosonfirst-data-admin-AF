@@ -1,0 +1,80 @@
+{
+  "id": 1193084039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88396,32.70367,68.88396,32.70367",
+    "geom:latitude":32.70367,
+    "geom:longitude":68.88396,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906",
+    "gn:asciiname":"Sher Goti Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126334,
+    "gn:latitude":32.70367,
+    "gn:longitude":68.88396,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r G\u014dt\u012b Ghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shayr G\u014dt\u012b Ghar"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u0631 \u06af\u0648\u062a\u06cc \u063a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Shirkotigar",
+        "\u0160erkoti Ghar",
+        "\u0634\u06cc\u0631 \u06af\u0648\u062a\u06cc \u063a\u0631",
+        "Sh\u0113r G\u014dt\u012b Ghar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f342b9d54ca54f26ccd1f1887beaf9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1193084039,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1193084039,
+    "wof:lastmodified":1537580467,
+    "wof:name":"Sher Goti Ghar",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88396,
+    32.70367,
+    68.88396,
+    32.70367
+],
+  "geometry": {"coordinates":[68.88396,32.70367],"type":"Point"}
+}

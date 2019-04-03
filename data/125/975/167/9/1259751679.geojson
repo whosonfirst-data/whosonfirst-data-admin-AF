@@ -1,0 +1,73 @@
+{
+  "id": 1259751679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91156,32.2619,65.91156,32.2619",
+    "geom:latitude":32.2619,
+    "geom:longitude":65.91156,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Yatiman",
+    "gn:country_code":"AF",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121221,
+    "gn:latitude":32.2619,
+    "gn:longitude":65.91156,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yat\u012bm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yat\u012bm\u0101n",
+        "Yatiman",
+        "\u06cc\u062a\u06cc\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121221
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"074da4aa0b69bee94a1505405d1115b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1259751679,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259751679,
+    "wof:lastmodified":1537580030,
+    "wof:name":"Yatiman",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91156,
+    32.2619,
+    65.91156,
+    32.2619
+],
+  "geometry": {"coordinates":[65.91155999999999,32.2619],"type":"Point"}
+}

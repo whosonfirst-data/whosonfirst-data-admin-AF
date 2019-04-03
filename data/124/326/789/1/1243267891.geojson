@@ -1,0 +1,73 @@
+{
+  "id": 1243267891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38283,37.66476,70.38283,37.66476",
+    "geom:latitude":37.66476,
+    "geom:longitude":70.38283,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Patir",
+    "gn:country_code":"AF",
+    "gn:dem":2457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467364,
+    "gn:latitude":37.66476,
+    "gn:longitude":70.38283,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pat\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pat\u012br",
+        "\u067e\u062a\u06cc\u0631",
+        "Pat\u012b\u1e5f (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467364
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f087a31f87f7f597d3d76d4140ecd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1243267891,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243267891,
+    "wof:lastmodified":1537583470,
+    "wof:name":"Patir",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38283,
+    37.66476,
+    70.38283,
+    37.66476
+],
+  "geometry": {"coordinates":[70.38283,37.66476],"type":"Point"}
+}

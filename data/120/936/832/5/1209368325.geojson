@@ -1,0 +1,69 @@
+{
+  "id": 1209368325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25462,34.71345,70.25462,34.71345",
+    "geom:latitude":34.71345,
+    "geom:longitude":70.25462,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Kelman",
+    "gn:country_code":"AF",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474447,
+    "gn:latitude":34.71345,
+    "gn:longitude":70.25462,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0113lman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kel\u2019man"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u06d0\u0644\u0645\u0646",
+        "K\u0113lman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474447
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0796ca86352c37adc5da39ae07c316d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209368325
+        }
+    ],
+    "wof:id":1209368325,
+    "wof:lastmodified":1537583805,
+    "wof:name":"Kelman",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25461999999999,
+    34.71345,
+    70.25461999999999,
+    34.71345
+],
+  "geometry": {"coordinates":[70.25461999999999,34.71345],"type":"Point"}
+}

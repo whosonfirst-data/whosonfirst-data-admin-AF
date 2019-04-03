@@ -1,0 +1,80 @@
+{
+  "id": 1226520353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.27618,34.57368,62.27618,34.57368",
+    "geom:latitude":34.57368,
+    "geom:longitude":62.27618,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001",
+    "gn:asciiname":"Qarah Qol",
+    "gn:country_code":"AF",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129586,
+    "gn:latitude":34.57368,
+    "gn:longitude":62.27618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u0642\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Karakol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fa Qul",
+        "Qareh Qul",
+        "Qarah Q\u014dl",
+        "\u0642\u0631\u0647 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129586
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"acc8cb34b71cdb0b8480f909f886358e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1226520353,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226520353,
+    "wof:lastmodified":1537580743,
+    "wof:name":"Qarah Qol",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.27618,
+    34.57368,
+    62.27618,
+    34.57368
+],
+  "geometry": {"coordinates":[62.27618,34.57368],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343528029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41788,34.04162,68.41788,34.04162",
+    "geom:latitude":34.04162,
+    "geom:longitude":68.41788,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Sangin",
+    "gn:country_code":"AF",
+    "gn:dem":2477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458901,
+    "gn:latitude":34.04162,
+    "gn:longitude":68.41788,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0434\u0436\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sang\u012bn",
+        "\u0633\u0646\u06af\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458901
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3e783cf0c1dc6d4f07d1d74d7b23f024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1343528029,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343528029,
+    "wof:lastmodified":1537583280,
+    "wof:name":"Sangin",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41788000000001,
+    34.04162,
+    68.41788000000001,
+    34.04162
+],
+  "geometry": {"coordinates":[68.41788000000001,34.04162],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259574773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.52744,35.94307,65.52744,35.94307",
+    "geom:latitude":35.94307,
+    "geom:longitude":65.52744,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1806",
+    "gn:asciiname":"Qurugh",
+    "gn:country_code":"AF",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128744,
+    "gn:latitude":35.94307,
+    "gn:longitude":65.52744,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qur\u016bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qur\u016bgh",
+        "\u0642\u0631\u0648\u063a",
+        "Qu\u1e5f\u016bgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128744
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7239d9f2e63dd5cf977dd04a61b573c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561873,
+            "locality_id":1259574773,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1259574773,
+    "wof:lastmodified":1537580649,
+    "wof:name":"Qurugh",
+    "wof:parent_id":1108561873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.52744,
+    35.94307,
+    65.52744,
+    35.94307
+],
+  "geometry": {"coordinates":[65.52744,35.94307],"type":"Point"}
+}

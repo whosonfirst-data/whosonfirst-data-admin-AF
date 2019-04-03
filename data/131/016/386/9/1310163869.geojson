@@ -1,0 +1,75 @@
+{
+  "id": 1310163869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1672,32.2293,66.1672,32.2293",
+    "geom:latitude":32.2293,
+    "geom:longitude":66.1672,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Haji Kako Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140408,
+    "gn:latitude":32.2293,
+    "gn:longitude":66.1672,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b K\u0101k\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331\u0101ji K\u0101ko Kalay",
+        "Khadzhi-Kakukalay",
+        "\u1e28\u0101j\u012b K\u0101k\u014d K\u00ealay",
+        "\u062d\u0627\u062c\u06cc \u06a9\u0627\u06a9\u0648 \u06a9\u0644\u06cc",
+        "\u1e28\u0101jj\u012b K\u0101ko Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140408
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31969c5463be444b393f2c8cb0263a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1310163869,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1310163869,
+    "wof:lastmodified":1537581661,
+    "wof:name":"Haji Kako Kelay",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1672,
+    32.2293,
+    66.1672,
+    32.2293
+],
+  "geometry": {"coordinates":[66.16719999999999,32.2293],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293567243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.16526,34.80824,62.16526,34.80824",
+    "geom:latitude":34.80824,
+    "geom:longitude":62.16526,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Khudro",
+    "gn:country_code":"AF",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136012,
+    "gn:latitude":34.80824,
+    "gn:longitude":62.16526,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khudr\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khu\u1e0f\u1e5fo",
+        "Khudru",
+        "Khudr\u014d",
+        "\u062e\u062f\u0631\u0648",
+        "Khvodrow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136012
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"927dcb6047c0959bccc22f3d5ca96858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1293567243,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293567243,
+    "wof:lastmodified":1537581307,
+    "wof:name":"Khudro",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.16526,
+    34.80824,
+    62.16526,
+    34.80824
+],
+  "geometry": {"coordinates":[62.16526,34.80824],"type":"Point"}
+}

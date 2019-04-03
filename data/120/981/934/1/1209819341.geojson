@@ -1,0 +1,73 @@
+{
+  "id": 1209819341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84388,38.31205,70.84388,38.31205",
+    "geom:latitude":38.31205,
+    "geom:longitude":70.84388,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Orun",
+    "gn:country_code":"AF",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148341,
+    "gn:latitude":38.31205,
+    "gn:longitude":70.84388,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Orun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100r\u016bn",
+        "\u0622\u0631\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148341,
+        "wk:page":"Arun%2C_Badakhshan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5b1bc4b7df7c8aa68d9fafdec27a34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1209819341,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209819341,
+    "wof:lastmodified":1537582335,
+    "wof:name":"Orun",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84388,
+    38.31205,
+    70.84388,
+    38.31205
+],
+  "geometry": {"coordinates":[70.84388,38.31205],"type":"Point"}
+}

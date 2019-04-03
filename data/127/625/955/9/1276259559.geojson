@@ -1,0 +1,76 @@
+{
+  "id": 1276259559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43245,32.72391,66.43245,32.72391",
+    "geom:latitude":32.72391,
+    "geom:longitude":66.43245,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Yakhi Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121340,
+    "gn:latitude":32.72391,
+    "gn:longitude":66.43245,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakh\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u064a\u062e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Yakh\u012b K\u00ealay",
+        "\u06cc\u062e\u06cc \u06a9\u0644\u06cc",
+        "Yakhi Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121340
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b4f93d508645ff7a97e7e869524e364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1276259559,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1276259559,
+    "wof:lastmodified":1537580037,
+    "wof:name":"Yakhi Kelay",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43245,
+    32.72391,
+    66.43245,
+    32.72391
+],
+  "geometry": {"coordinates":[66.43245,32.72391],"type":"Point"}
+}

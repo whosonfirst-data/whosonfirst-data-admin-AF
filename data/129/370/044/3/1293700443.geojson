@@ -1,0 +1,73 @@
+{
+  "id": 1293700443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53521,38.20454,70.53521,38.20454",
+    "geom:latitude":38.20454,
+    "geom:longitude":70.53521,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Arzishk",
+    "gn:country_code":"AF",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466141,
+    "gn:latitude":38.20454,
+    "gn:longitude":70.53521,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arz\u012bshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e5fz\u012bsk",
+        "Arz\u012bshk",
+        "\u0627\u0631\u0632\u06cc\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466141
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bfcb2e2d19af7852808f6be90fa07150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1293700443,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293700443,
+    "wof:lastmodified":1537583413,
+    "wof:name":"Arzishk",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53520999999998,
+    38.20454,
+    70.53520999999998,
+    38.20454
+],
+  "geometry": {"coordinates":[70.53520999999998,38.20454],"type":"Point"}
+}

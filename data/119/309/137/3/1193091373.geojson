@@ -1,0 +1,74 @@
+{
+  "id": 1193091373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65086,34.13179,68.65086,34.13179",
+    "geom:latitude":34.13179,
+    "geom:longitude":68.65086,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Zar Bagh",
+    "gn:country_code":"AF",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457029,
+    "gn:latitude":34.13179,
+    "gn:longitude":68.65086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zar B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zagbag",
+        "Zar B\u0101gh",
+        "Zarb\u0101gh",
+        "\u0632\u0631 \u0628\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457029
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1eb65b16c6b78a514caebfd67d6e2739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1193091373,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1193091373,
+    "wof:lastmodified":1537583207,
+    "wof:name":"Zar Bagh",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65086,
+    34.13179,
+    68.65086,
+    34.13179
+],
+  "geometry": {"coordinates":[68.65085999999999,34.13179],"type":"Point"}
+}

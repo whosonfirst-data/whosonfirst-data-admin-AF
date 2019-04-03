@@ -1,0 +1,78 @@
+{
+  "id": 1243036241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11629,36.67139,69.11629,36.67139",
+    "geom:latitude":36.67139,
+    "geom:longitude":69.11629,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Khwajah Palak",
+    "gn:country_code":"AF",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468179,
+    "gn:latitude":36.67139,
+    "gn:longitude":69.11629,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Palak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0430-\u041f\u0430\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Khw\u0101ja Palak",
+        "Khodzha-Palak",
+        "Khv\u0101jeh Palak",
+        "Khw\u0101jah Palak",
+        "\u062e\u0648\u0627\u062c\u0647 \u067e\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468179
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc18e71c3c6eb81a3d3a6dbcfe551664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1243036241,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1243036241,
+    "wof:lastmodified":1537583538,
+    "wof:name":"Khwajah Palak",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11629,
+    36.67139,
+    69.11629,
+    36.67139
+],
+  "geometry": {"coordinates":[69.11629000000001,36.67139],"type":"Point"}
+}

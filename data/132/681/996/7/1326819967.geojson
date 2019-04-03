@@ -1,0 +1,77 @@
+{
+  "id": 1326819967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.02436,34.47138,66.02436,34.47138",
+    "geom:latitude":34.47138,
+    "geom:longitude":66.02436,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Qizil",
+    "gn:country_code":"AF",
+    "gn:dem":2727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129072,
+    "gn:latitude":34.47138,
+    "gn:longitude":66.02436,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kizil",
+        "Qezel",
+        "Kyzyl",
+        "Qizil Qala",
+        "Qizil",
+        "Q\u012bz\u012bl",
+        "\u0642\u0632\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129072
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f839c68361c718659f8cecf7f504476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1326819967,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326819967,
+    "wof:lastmodified":1537580679,
+    "wof:name":"Qizil",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.02436,
+    34.47138,
+    66.02436,
+    34.47138
+],
+  "geometry": {"coordinates":[66.02436,34.47138],"type":"Point"}
+}

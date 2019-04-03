@@ -1,0 +1,74 @@
+{
+  "id": 1225830513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.18722,33.2844,67.18722,33.2844",
+    "geom:latitude":33.2844,
+    "geom:longitude":67.18722,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Altarghanah",
+    "gn:country_code":"AF",
+    "gn:dem":2986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450466,
+    "gn:latitude":33.2844,
+    "gn:longitude":67.18722,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Al\u1e6farghanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alta\u1e5fghana",
+        "Alta\u1e5fghanah",
+        "Al\u1e6farghanah",
+        "\u0627\u0644\u067c\u0631\u063a\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450466
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"576e45525d53c5b3748db0a5343aa386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1225830513,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225830513,
+    "wof:lastmodified":1537583048,
+    "wof:name":"Altarghanah",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.18722,
+    33.2844,
+    67.18722,
+    33.2844
+],
+  "geometry": {"coordinates":[67.18722,33.2844],"type":"Point"}
+}

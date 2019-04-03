@@ -1,0 +1,77 @@
+{
+  "id": 1243517975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12332,34.23706,69.12332,34.23706",
+    "geom:latitude":34.23706,
+    "geom:longitude":69.12332,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505",
+    "gn:asciiname":"Kutub Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135597,
+    "gn:latitude":34.23706,
+    "gn:longitude":69.12332,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kutub Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kutubkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kotub Kheyl",
+        "Kotub Kh\u0113l",
+        "Kutub Kh\u0113l",
+        "\u06a9\u062a\u0628 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135597
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4360760a623fc0b8e3d2e61b2d3030a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1243517975,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243517975,
+    "wof:lastmodified":1537581269,
+    "wof:name":"Kutub Khel",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12331999999999,
+    34.23706,
+    69.12331999999999,
+    34.23706
+],
+  "geometry": {"coordinates":[69.12331999999999,34.23706],"type":"Point"}
+}

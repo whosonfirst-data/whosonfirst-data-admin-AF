@@ -1,0 +1,74 @@
+{
+  "id": 1225922911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6025,32.1195,64.6025,32.1195",
+    "geom:latitude":32.1195,
+    "geom:longitude":64.6025,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306",
+    "gn:asciiname":"Urmuz",
+    "gn:country_code":"AF",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121928,
+    "gn:latitude":32.1195,
+    "gn:longitude":64.6025,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016armuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016armuz",
+        "\u0627\u0648\u0631\u0645\u0632",
+        "\u016a\u1e5fmuz",
+        "Urmuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121928
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b674e383018ac8d4623bad49525e298f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1225922911,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1225922911,
+    "wof:lastmodified":1537580165,
+    "wof:name":"Urmuz",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6025,
+    32.1195,
+    64.6025,
+    32.1195
+],
+  "geometry": {"coordinates":[64.60250000000001,32.1195],"type":"Point"}
+}

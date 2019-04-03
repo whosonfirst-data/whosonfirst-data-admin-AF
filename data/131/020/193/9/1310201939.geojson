@@ -1,0 +1,77 @@
+{
+  "id": 1310201939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.11915,33.21858,68.11915,33.21858",
+    "geom:latitude":33.21858,
+    "geom:longitude":68.11915,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Walidad",
+    "gn:country_code":"AF",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121772,
+    "gn:latitude":33.21858,
+    "gn:longitude":68.11915,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wal\u012bd\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Validad",
+        "Wali\u1e0f\u0101\u1e0f",
+        "Wal\u012bd\u0101d",
+        "Val\u012b D\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121772
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6252d43a93af35d2dec26142bd42f686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1310201939,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310201939,
+    "wof:lastmodified":1537580060,
+    "wof:name":"Walidad",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.11915,
+    33.21858,
+    68.11915,
+    33.21858
+],
+  "geometry": {"coordinates":[68.11915,33.21858],"type":"Point"}
+}

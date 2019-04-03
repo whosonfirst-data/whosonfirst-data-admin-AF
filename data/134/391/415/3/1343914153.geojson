@@ -1,0 +1,81 @@
+{
+  "id": 1343914153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24203,31.44121,66.24203,31.44121",
+    "geom:latitude":31.44121,
+    "geom:longitude":66.24203,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Qaryah-ye Narghal",
+    "gn:country_code":"AF",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129341,
+    "gn:latitude":31.44121,
+    "gn:longitude":66.24203,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Narghal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u06c0 \u0646\u0631\u063a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi Nargal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qaryeh-i- Narghal",
+        "Qa\u1e5fya-i-Na\u1e5fghal",
+        "\u0642\u0631\u06cc\u0647 \u0646\u0631\u063a\u0644",
+        "Qaryeh-ye Narghal",
+        "Qaryah-ye Narghal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129341
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b2986368579adf3522c3b694ead98ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1343914153,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343914153,
+    "wof:lastmodified":1537580710,
+    "wof:name":"Qaryah-ye Narghal",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24203,
+    31.44121,
+    66.24203,
+    31.44121
+],
+  "geometry": {"coordinates":[66.24203,31.44121],"type":"Point"}
+}

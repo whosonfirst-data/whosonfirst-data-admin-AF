@@ -1,0 +1,75 @@
+{
+  "id": 1226796751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.60482,32.17574,66.60482,32.17574",
+    "geom:latitude":32.17574,
+    "geom:longitude":66.60482,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Apiar",
+    "gn:country_code":"AF",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447880,
+    "gn:latitude":32.17574,
+    "gn:longitude":66.60482,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ap\u012bar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u067e\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ap\u012bar",
+        "\u0627\u067e\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6262ca34b526fbe8b5a5d67202bb8cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1226796751,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226796751,
+    "wof:lastmodified":1537582978,
+    "wof:name":"Apiar",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.60481999999999,
+    32.17574,
+    66.60481999999999,
+    32.17574
+],
+  "geometry": {"coordinates":[66.60481999999999,32.17574],"type":"Point"}
+}

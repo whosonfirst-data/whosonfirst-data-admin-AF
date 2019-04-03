@@ -1,0 +1,74 @@
+{
+  "id": 1193150661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38165,36.91612,70.38165,36.91612",
+    "geom:latitude":36.91612,
+    "geom:longitude":70.38165,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1116",
+    "gn:asciiname":"Khandan Shahr",
+    "gn:country_code":"AF",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137153,
+    "gn:latitude":36.91612,
+    "gn:longitude":70.38165,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khand\u0101n Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khan\u1e0f\u0101n Sah\u1e5f",
+        "Khan\u1e0f\u0101n Shahr",
+        "Khand\u0101n Shahr",
+        "\u062e\u0646\u062f\u0627\u0646 \u0634\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137153
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e2dbdf513a7b523baa9fbfc4be08632e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561943,
+            "locality_id":1193150661,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1193150661,
+    "wof:lastmodified":1537581398,
+    "wof:name":"Khandan Shahr",
+    "wof:parent_id":1108561943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38165,
+    36.91612,
+    70.38165,
+    36.91612
+],
+  "geometry": {"coordinates":[70.38164999999999,36.91612],"type":"Point"}
+}

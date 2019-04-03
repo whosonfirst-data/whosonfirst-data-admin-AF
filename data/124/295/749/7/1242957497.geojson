@@ -1,0 +1,75 @@
+{
+  "id": 1242957497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.54173,34.66539,64.54173,34.66539",
+    "geom:latitude":34.66539,
+    "geom:longitude":64.54173,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Rakhnah",
+    "gn:country_code":"AF",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128577,
+    "gn:latitude":34.66539,
+    "gn:longitude":64.54173,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rakhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eakhana",
+        "\u1e5eakhna",
+        "Rakhneh",
+        "Rakhnah",
+        "\u0631\u062e\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128577
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bf29b59ccbdde080a2455ab0fdb6d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1242957497,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242957497,
+    "wof:lastmodified":1537580636,
+    "wof:name":"Rakhnah",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.54173,
+    34.66539,
+    64.54173,
+    34.66539
+],
+  "geometry": {"coordinates":[64.54173,34.66539],"type":"Point"}
+}

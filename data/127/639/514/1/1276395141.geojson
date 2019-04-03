@@ -1,0 +1,75 @@
+{
+  "id": 1276395141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71767,31.45623,66.71767,31.45623",
+    "geom:latitude":31.45623,
+    "geom:longitude":66.71767,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Chowday",
+    "gn:country_code":"AF",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467637,
+    "gn:latitude":31.45623,
+    "gn:longitude":66.71767,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chowday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cawday",
+        "Chauday",
+        "Chowday",
+        "Chaw\u1e0fay",
+        "\u0686\u0648\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467637
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff19a1542fbdc3af5995ebc26f682bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1276395141,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276395141,
+    "wof:lastmodified":1537583494,
+    "wof:name":"Chowday",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71767,
+    31.45623,
+    66.71767,
+    31.45623
+],
+  "geometry": {"coordinates":[66.71767,31.45623],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259672649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.67022,31.70339,64.67022,31.70339",
+    "geom:latitude":31.70339,
+    "geom:longitude":64.67022,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Alukozai",
+    "gn:country_code":"AF",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472792,
+    "gn:latitude":31.70339,
+    "gn:longitude":64.67022,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aluk\u014dza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alukozi",
+        "Alok\u014dzi",
+        "Aluk\u014dza\u012b",
+        "\u0627\u0644\u06a9\u0648\u0632\u06cc",
+        "Alokowzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472792
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa7d03d08ec42636651974a87df70acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1259672649,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1259672649,
+    "wof:lastmodified":1537583715,
+    "wof:name":"Alukozai",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.67022,
+    31.70339,
+    64.67022,
+    31.70339
+],
+  "geometry": {"coordinates":[64.67022,31.70339],"type":"Point"}
+}

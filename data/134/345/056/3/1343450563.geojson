@@ -1,0 +1,73 @@
+{
+  "id": 1343450563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45895,33.92896,65.45895,33.92896",
+    "geom:latitude":33.92896,
+    "geom:longitude":65.45895,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Below",
+    "gn:country_code":"AF",
+    "gn:dem":2877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146580,
+    "gn:latitude":33.92896,
+    "gn:longitude":65.45895,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113low",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113low",
+        "\u0628\u06cc\u0644\u0648",
+        "B\u0113law"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146580
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68a0241b2af378c59b32164f9b96e8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1343450563,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343450563,
+    "wof:lastmodified":1537582197,
+    "wof:name":"Below",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45895,
+    33.92896,
+    65.45895,
+    33.92896
+],
+  "geometry": {"coordinates":[65.45895,33.92896],"type":"Point"}
+}

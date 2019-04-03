@@ -1,0 +1,75 @@
+{
+  "id": 1327005697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.94308,34.49663,70.94308,34.49663",
+    "geom:latitude":34.49663,
+    "geom:longitude":70.94308,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"816.0",
+    "gn:asciiname":"Torkani",
+    "gn:country_code":"AF",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469505,
+    "gn:latitude":34.49663,
+    "gn:longitude":70.94308,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Torkani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014d\u1e5fk\u0101\u1e49i",
+        "T\u016brk\u0101n\u012b",
+        "T\u014drk\u0101\u1e49\u012b",
+        "\u062a\u0648\u0631\u06a9\u0627\u06bc\u06cc",
+        "\u062a\u0648\u0631\u06a9\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469505
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"244f182d88b5da43f03afda5dc64bd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562045,
+            "locality_id":1327005697,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327005697,
+    "wof:lastmodified":1537583609,
+    "wof:name":"Torkani",
+    "wof:parent_id":1108562045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.94308000000002,
+    34.49663,
+    70.94308000000002,
+    34.49663
+],
+  "geometry": {"coordinates":[70.94308000000002,34.49663],"type":"Point"}
+}

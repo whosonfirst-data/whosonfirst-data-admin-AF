@@ -1,0 +1,74 @@
+{
+  "id": 1360233557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73911,35.56605,66.73911,35.56605",
+    "geom:latitude":35.56605,
+    "geom:longitude":66.73911,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104.0",
+    "gn:asciiname":"Charkhaw",
+    "gn:country_code":"AF",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145341,
+    "gn:latitude":35.56605,
+    "gn:longitude":66.73911,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Charkh\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u1e5fkhaw",
+        "Charkhaw",
+        "Charkh\u0101w",
+        "\u0686\u0631\u062e\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145341
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"05efb1bd398fea3b10a067f1254a7d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1360233557,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1360233557,
+    "wof:lastmodified":1537582094,
+    "wof:name":"Charkhaw",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73911,
+    35.56605,
+    66.73911,
+    35.56605
+],
+  "geometry": {"coordinates":[66.73911,35.56605],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327496555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08167,34.23674,70.08167,34.23674",
+    "geom:latitude":34.23674,
+    "geom:longitude":70.08167,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804",
+    "gn:asciiname":"Loyah Termay",
+    "gn:country_code":"AF",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134526,
+    "gn:latitude":34.23674,
+    "gn:longitude":70.08167,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dyah T\u00earmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u064a\u0647 \u062a\u06cc\u0631\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u014dya Te\u1e5fmay",
+        "Loya-Termay",
+        "L\u016byah T\u0113\u1e5fmay",
+        "L\u014dyah T\u00earmay",
+        "\u0644\u0648\u06cc\u0647 \u062a\u0631\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134526
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08543218e8ec96f51d7a50e65726d7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562503,
+            "locality_id":1327496555,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327496555,
+    "wof:lastmodified":1537581182,
+    "wof:name":"Loyah Termay",
+    "wof:parent_id":1108562503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08166999999999,
+    34.23674,
+    70.08166999999999,
+    34.23674
+],
+  "geometry": {"coordinates":[70.08166999999999,34.23674],"type":"Point"}
+}

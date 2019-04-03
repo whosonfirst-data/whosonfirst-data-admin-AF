@@ -1,0 +1,79 @@
+{
+  "id": 1225934563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3311,33.66726,68.3311,33.66726",
+    "geom:latitude":33.66726,
+    "geom:longitude":68.3311,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"603",
+    "gn:asciiname":"Mar Qol",
+    "gn:country_code":"AF",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133779,
+    "gn:latitude":33.66726,
+    "gn:longitude":68.3311,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101r Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631 \u0642\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Markul\u2019"
+    ],
+    "name:und_x_variant":[
+        "M\u0101\u1e5fq\u014dl",
+        "M\u0101r Q\u014dl",
+        "M\u0101rqowl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133779
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b8c3571c361131f5099cea43fe1c85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562195,
+            "locality_id":1225934563,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225934563,
+    "wof:lastmodified":1537581121,
+    "wof:name":"Mar Qol",
+    "wof:parent_id":1108562195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3311,
+    33.66726,
+    68.3311,
+    33.66726
+],
+  "geometry": {"coordinates":[68.33110000000001,33.66726],"type":"Point"}
+}

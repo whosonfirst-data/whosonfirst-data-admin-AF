@@ -1,0 +1,72 @@
+{
+  "id": 1276216441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.16814,34.56871,66.16814,34.56871",
+    "geom:latitude":34.56871,
+    "geom:longitude":66.16814,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Khagak",
+    "gn:country_code":"AF",
+    "gn:dem":2874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137415,
+    "gn:latitude":34.56871,
+    "gn:longitude":66.16814,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101gak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101gak",
+        "\u062e\u0627\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137415
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95dc1748741f8268ec4947ab3800141e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1276216441,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276216441,
+    "wof:lastmodified":1537581417,
+    "wof:name":"Khagak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.16814000000001,
+    34.56871,
+    66.16814000000001,
+    34.56871
+],
+  "geometry": {"coordinates":[66.16814000000001,34.56871],"type":"Point"}
+}

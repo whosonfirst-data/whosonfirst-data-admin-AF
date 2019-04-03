@@ -1,0 +1,74 @@
+{
+  "id": 1309856727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31524,32.87678,67.31524,32.87678",
+    "geom:latitude":32.87678,
+    "geom:longitude":67.31524,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Wech Tughay",
+    "gn:country_code":"AF",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443287,
+    "gn:latitude":32.87678,
+    "gn:longitude":67.31524,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u00each T\u016bghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vichtugay",
+        "W\u0113\u010d Tughay",
+        "W\u00each T\u016bghay",
+        "\u0648\u0686 \u062a\u0648\u063a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443287
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e264a302991a6fe2164e39518151ea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1309856727,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1309856727,
+    "wof:lastmodified":1537582949,
+    "wof:name":"Wech Tughay",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31524,
+    32.87678,
+    67.31524,
+    32.87678
+],
+  "geometry": {"coordinates":[67.31524,32.87678],"type":"Point"}
+}

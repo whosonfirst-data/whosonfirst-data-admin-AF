@@ -1,0 +1,74 @@
+{
+  "id": 1259797541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82758,36.04914,70.82758,36.04914",
+    "geom:latitude":36.04914,
+    "geom:longitude":70.82758,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1104",
+    "gn:asciiname":"Hajdah Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":2821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140066,
+    "gn:latitude":36.04914,
+    "gn:longitude":70.82758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hajdah Gh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haz\u1e0faghe\u1e5f",
+        "Hazhdagher",
+        "Hajdah Gh\u0101r",
+        "\u0647\u062c\u062f\u0647 \u063a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140066
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0273115fb96e08a44d4003e8a3bbe026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1259797541,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259797541,
+    "wof:lastmodified":1537581628,
+    "wof:name":"Hajdah Ghar",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82758000000003,
+    36.04914,
+    70.82758000000003,
+    36.04914
+],
+  "geometry": {"coordinates":[70.82758000000003,36.04914],"type":"Point"}
+}

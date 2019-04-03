@@ -1,0 +1,77 @@
+{
+  "id": 1343980649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6016,34.93328,66.6016,34.93328",
+    "geom:latitude":34.93328,
+    "geom:longitude":66.6016,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Sokhtagi",
+    "gn:country_code":"AF",
+    "gn:dem":2299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123706,
+    "gn:latitude":34.93328,
+    "gn:longitude":66.6016,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtag\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokhtagay",
+        "S\u016bkhtag\u012b",
+        "Sokhtagi",
+        "S\u014dkht\u0101gi",
+        "S\u014dkhtag\u012b",
+        "S\u016bkhteg\u012b",
+        "\u0633\u0648\u062e\u062a\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123706
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6d87b314a4c028e45e5f61054274a254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1343980649,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343980649,
+    "wof:lastmodified":1537580244,
+    "wof:name":"Sokhtagi",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6016,
+    34.93328,
+    66.6016,
+    34.93328
+],
+  "geometry": {"coordinates":[66.6016,34.93328],"type":"Point"}
+}

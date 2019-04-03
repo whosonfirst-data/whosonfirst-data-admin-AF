@@ -1,0 +1,77 @@
+{
+  "id": 1360043591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.94651,31.64702,65.94651,31.64702",
+    "geom:latitude":31.64702,
+    "geom:longitude":65.94651,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402.0",
+    "gn:asciiname":"A'zam Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147882,
+    "gn:latitude":31.64702,
+    "gn:longitude":65.94651,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u2018z\u0327am Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0627\u0639\u0638\u0645"
+    ],
+    "name:und_x_variant":[
+        "Azamkala",
+        "\u0100zam Qala",
+        "A\u2018z\u0327am Kal\u0101",
+        "\u0627\u0639\u0638\u0645 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147882
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99686f6db74d8601ec33a7403d73900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1360043591,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360043591,
+    "wof:lastmodified":1537582302,
+    "wof:name":"A'zam Kala",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.94651,
+    31.64702,
+    65.94651,
+    31.64702
+],
+  "geometry": {"coordinates":[65.94651,31.64702],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310551581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92668,36.47086,66.92668,36.47086",
+    "geom:latitude":36.47086,
+    "geom:longitude":66.92668,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Jangali",
+    "gn:country_code":"AF",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139538,
+    "gn:latitude":36.47086,
+    "gn:longitude":66.92668,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jangal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jangal\u012b",
+        "\u062c\u0646\u06af\u0644\u06cc",
+        "Jangali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139538
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0c0d2b7055782c36a788f788ecc84e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1310551581,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310551581,
+    "wof:lastmodified":1537581586,
+    "wof:name":"Jangali",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92668,
+    36.47086,
+    66.92668,
+    36.47086
+],
+  "geometry": {"coordinates":[66.92668,36.47086],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243400909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86718,36.71791,66.86718,36.71791",
+    "geom:latitude":36.71791,
+    "geom:longitude":66.86718,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606",
+    "gn:asciiname":"Deh Razi",
+    "gn:country_code":"AF",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143408,
+    "gn:latitude":36.71791,
+    "gn:longitude":66.86718,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Raz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06c0 \u0631\u0627\u0636\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0430\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "Zaulakai",
+        "Derazi",
+        "Deh-e R\u0101\u1e95\u012b",
+        "Deh Raz\u012b",
+        "\u062f\u0647 \u0631\u0632\u06cc",
+        "Zowlaka\u012b",
+        "\u0632\u0648\u0644\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143408
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c05478dc632ecbc389951014551951d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1243400909,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243400909,
+    "wof:lastmodified":1537581913,
+    "wof:name":"Deh Razi",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86718,
+    36.71791,
+    66.86718,
+    36.71791
+],
+  "geometry": {"coordinates":[66.86718,36.71791],"type":"Point"}
+}

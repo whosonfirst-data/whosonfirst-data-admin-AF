@@ -1,0 +1,72 @@
+{
+  "id": 1293539761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73599,35.80959,66.73599,35.80959",
+    "geom:latitude":35.80959,
+    "geom:longitude":66.73599,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Lagham",
+    "gn:country_code":"AF",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135046,
+    "gn:latitude":35.80959,
+    "gn:longitude":66.73599,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lagh\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagh\u0101m",
+        "\u0644\u063a\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135046
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8a8869f00f69fccd70b5403712743544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1293539761,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293539761,
+    "wof:lastmodified":1537581219,
+    "wof:name":"Lagham",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73599,
+    35.80959,
+    66.73599,
+    35.80959
+],
+  "geometry": {"coordinates":[66.73599,35.80959],"type":"Point"}
+}

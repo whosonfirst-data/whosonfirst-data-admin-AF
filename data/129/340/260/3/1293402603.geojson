@@ -1,0 +1,76 @@
+{
+  "id": 1293402603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4578,35.19335,63.4578,35.19335",
+    "geom:latitude":35.19335,
+    "geom:longitude":63.4578,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Shamira",
+    "gn:country_code":"AF",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127746,
+    "gn:latitude":35.19335,
+    "gn:longitude":63.4578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sham\u012br\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304ami\u1e5fa",
+        "Sham\u012brah",
+        "Sham\u012br\u0101",
+        "\u0634\u0645\u06cc\u0631\u0627",
+        "Sam\u012br\u0101",
+        "\u0633\u0645\u06cc\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127746
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c66d2e281b082b3e54dc3e35eca947d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562371,
+            "locality_id":1293402603,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293402603,
+    "wof:lastmodified":1537580575,
+    "wof:name":"Shamira",
+    "wof:parent_id":1108562371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4578,
+    35.19335,
+    63.4578,
+    35.19335
+],
+  "geometry": {"coordinates":[63.4578,35.19335],"type":"Point"}
+}

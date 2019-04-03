@@ -1,0 +1,77 @@
+{
+  "id": 1242830271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.89974,37.24426,68.89974,37.24426",
+    "geom:latitude":37.24426,
+    "geom:longitude":68.89974,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Halqah Kol",
+    "gn:country_code":"AF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465245,
+    "gn:latitude":37.24426,
+    "gn:longitude":68.89974,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28alqah K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khal\u2019kakol\u2019"
+    ],
+    "name:und_x_variant":[
+        "H\u0331alqa Kol",
+        "\u1e28alqeh Kowl",
+        "\u1e28alqah K\u014dl",
+        "\u062d\u0644\u0642\u0647 \u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465245
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4cbb37ddb96a7fe4f3f1de480e275543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1242830271,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1242830271,
+    "wof:lastmodified":1537583390,
+    "wof:name":"Halqah Kol",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.89974000000001,
+    37.24426,
+    68.89974000000001,
+    37.24426
+],
+  "geometry": {"coordinates":[68.89974000000001,37.24426],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209317543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46382,35.2822,63.46382,35.2822",
+    "geom:latitude":35.2822,
+    "geom:longitude":63.46382,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1906",
+    "gn:asciiname":"Zaman",
+    "gn:country_code":"AF",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121081,
+    "gn:latitude":35.2822,
+    "gn:longitude":63.46382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zam\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zam\u0101n",
+        "\u0632\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121081
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f642ea26e3a656d6a03901389488509",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209317543
+        }
+    ],
+    "wof:id":1209317543,
+    "wof:lastmodified":1537580022,
+    "wof:name":"Zaman",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46382,
+    35.2822,
+    63.46382,
+    35.2822
+],
+  "geometry": {"coordinates":[63.46382,35.2822],"type":"Point"}
+}

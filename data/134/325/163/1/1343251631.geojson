@@ -1,0 +1,74 @@
+{
+  "id": 1343251631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.92345,34.51742,64.92345,34.51742",
+    "geom:latitude":34.51742,
+    "geom:longitude":64.92345,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Raza Kushtah",
+    "gn:country_code":"AF",
+    "gn:dem":2500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471268,
+    "gn:latitude":34.51742,
+    "gn:longitude":64.92345,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ra\u1e95\u0101 Kushtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5ea\u1e0f\u1e95\u0101kusta",
+        "Re\u1e95\u0101koshteh",
+        "Ra\u1e95\u0101 Kushtah",
+        "\u0631\u0636\u0627 \u06a9\u0634\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471268
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c00dcafae25eb8b1b16888e4d5664bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1343251631,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343251631,
+    "wof:lastmodified":1537583650,
+    "wof:name":"Raza Kushtah",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.92345,
+    34.51742,
+    64.92345,
+    34.51742
+],
+  "geometry": {"coordinates":[64.92345,34.51742],"type":"Point"}
+}

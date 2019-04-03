@@ -1,0 +1,76 @@
+{
+  "id": 1327289721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78473,37.17736,68.78473,37.17736",
+    "geom:latitude":37.17736,
+    "geom:longitude":68.78473,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402",
+    "gn:asciiname":"Mara Shaykh",
+    "gn:country_code":"AF",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132788,
+    "gn:latitude":37.17736,
+    "gn:longitude":68.78473,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mar\u0101 Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e5f\u0101 S\u0113kh",
+        "Marashekh",
+        "Masasheik",
+        "Mor\u0101d Sheykh",
+        "Mar\u0101 Shaykh",
+        "\u0645\u0631\u0627 \u0634\u06cc\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132788
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"533837ec7d8aa2d923a5239ba649d9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1327289721,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1327289721,
+    "wof:lastmodified":1537581037,
+    "wof:name":"Mara Shaykh",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78473000000001,
+    37.17736,
+    68.78473000000001,
+    37.17736
+],
+  "geometry": {"coordinates":[68.78473000000001,37.17736],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310410469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92951,34.11089,66.92951,34.11089",
+    "geom:latitude":34.11089,
+    "geom:longitude":66.92951,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Shar-e Takhari",
+    "gn:country_code":"AF",
+    "gn:dem":3286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127052,
+    "gn:latitude":34.11089,
+    "gn:longitude":66.92951,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101r-e Takh\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101re Takh\u0101ri",
+        "Shari-Takhari",
+        "Sh\u0101r-e Takh\u0101r\u012b",
+        "\u0634\u0627\u0631 \u062a\u062e\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127052
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"611dfacef20cb69d425edd10f7d2560d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1310410469,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310410469,
+    "wof:lastmodified":1537580524,
+    "wof:name":"Shar-e Takhari",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92951,
+    34.11089,
+    66.92951,
+    34.11089
+],
+  "geometry": {"coordinates":[66.92950999999999,34.11089],"type":"Point"}
+}

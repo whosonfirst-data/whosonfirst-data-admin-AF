@@ -1,0 +1,73 @@
+{
+  "id": 1276365329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.5448,33.65872,66.5448,33.65872",
+    "geom:latitude":33.65872,
+    "geom:longitude":66.5448,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Ladugak",
+    "gn:country_code":"AF",
+    "gn:dem":1833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437665,
+    "gn:latitude":33.65872,
+    "gn:longitude":66.5448,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"La\u1e0f\u016bgak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u1e0f\u016bgak",
+        "\u0644\u0689\u0648\u06af\u06a9",
+        "Lad\u016bgak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437665
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0276029682271f81fe93c333d958d1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1276365329,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276365329,
+    "wof:lastmodified":1537582852,
+    "wof:name":"Ladugak",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.5448,
+    33.65872,
+    66.5448,
+    33.65872
+],
+  "geometry": {"coordinates":[66.5448,33.65872],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343546551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30104,33.06963,68.30104,33.06963",
+    "geom:latitude":33.06963,
+    "geom:longitude":68.30104,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Khwarki",
+    "gn:country_code":"AF",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135910,
+    "gn:latitude":33.06963,
+    "gn:longitude":68.30104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101rk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khvarki",
+        "Khw\u0101rki",
+        "Khw\u0101rk\u012b",
+        "\u062e\u0648\u0627\u0631\u0643\u06cc",
+        "Khwark\u012b",
+        "\u062e\u0648\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135910
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4818810c84d41486f729e371c24e853a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1343546551,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343546551,
+    "wof:lastmodified":1537581298,
+    "wof:name":"Khwarki",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30104,
+    33.06963,
+    68.30104,
+    33.06963
+],
+  "geometry": {"coordinates":[68.30104,33.06963],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226398533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.44512,31.33142,66.44512,31.33142",
+    "geom:latitude":31.33142,
+    "geom:longitude":66.44512,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Terghak",
+    "gn:country_code":"AF",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122511,
+    "gn:latitude":31.33142,
+    "gn:longitude":66.44512,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u00earghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirgak",
+        "T\u00earghak",
+        "\u062a\u0631\u063a\u06a9",
+        "T\u0113\u1e5fghak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122511
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1162e6f7711855c393ee609c106f5a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1226398533,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226398533,
+    "wof:lastmodified":1537580120,
+    "wof:name":"Terghak",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.44511999999999,
+    31.33142,
+    66.44511999999999,
+    31.33142
+],
+  "geometry": {"coordinates":[66.44511999999999,31.33142],"type":"Point"}
+}

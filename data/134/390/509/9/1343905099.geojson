@@ -1,0 +1,74 @@
+{
+  "id": 1343905099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.32667,32.78861,69.32667,32.78861",
+    "geom:latitude":32.78861,
+    "geom:longitude":69.32667,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Tor Wersekai",
+    "gn:country_code":"AF",
+    "gn:dem":1934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434071,
+    "gn:latitude":32.78861,
+    "gn:longitude":69.32667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014dr W\u00ears\u00eaka\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torvurskay",
+        "T\u014d\u1e5f Wu\u1e5fskay",
+        "T\u014dr W\u00ears\u00eaka\u012b",
+        "Towr Wurskay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c491ad15148b677c2f3d587bf0ac6f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1343905099,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1343905099,
+    "wof:lastmodified":1537582703,
+    "wof:name":"Tor Wersekai",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.32667,
+    32.78861,
+    69.32667,
+    32.78861
+],
+  "geometry": {"coordinates":[69.32666999999999,32.78861],"type":"Point"}
+}

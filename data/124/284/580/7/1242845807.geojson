@@ -1,0 +1,72 @@
+{
+  "id": 1242845807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27827,34.48463,69.27827,34.48463",
+    "geom:latitude":34.48463,
+    "geom:longitude":69.27827,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"110.0",
+    "gn:asciiname":"Qal'ah-ye Chaman",
+    "gn:country_code":"AF",
+    "gn:dem":1789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7095172,
+    "gn:latitude":34.48463,
+    "gn:longitude":69.27827,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Chaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018ah-ye Chaman",
+        "\u0642\u0644\u0639\u0647 \u0686\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        421182253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7095172
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd1b55e0f3c4be712bc0d3f20b784c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182253,
+            "locality_id":1242845807,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1242845807,
+    "wof:lastmodified":1537583910,
+    "wof:name":"Qal'ah-ye Chaman",
+    "wof:parent_id":421182253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27826999999999,
+    34.48463,
+    69.27826999999999,
+    34.48463
+],
+  "geometry": {"coordinates":[69.27826999999999,34.48463],"type":"Point"}
+}

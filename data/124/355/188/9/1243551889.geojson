@@ -1,0 +1,79 @@
+{
+  "id": 1243551889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.11565,32.46997,62.11565,32.46997",
+    "geom:latitude":32.46997,
+    "geom:longitude":62.11565,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2111",
+    "gn:asciiname":"Ganj Gin",
+    "gn:country_code":"AF",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141932,
+    "gn:latitude":32.46997,
+    "gn:longitude":62.11565,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ganj G\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ganjg\u012bn",
+        "Gaj Kan",
+        "Gajkin",
+        "Gandzhgin",
+        "Ganjk\u012bn",
+        "\u06af\u0646\u062c\u0643\u064a\u0646",
+        "Ganj G\u012bn",
+        "\u06af\u0646\u062c \u06af\u06cc\u0646",
+        "Konj G\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141932
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bfd6475b928e6c1f62fcd45f66244d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562369,
+            "locality_id":1243551889,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243551889,
+    "wof:lastmodified":1537581786,
+    "wof:name":"Ganj Gin",
+    "wof:parent_id":1108562369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.11565,
+    32.46997,
+    62.11565,
+    32.46997
+],
+  "geometry": {"coordinates":[62.11565,32.46997],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360214439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.30847,34.09224,66.30847,34.09224",
+    "geom:latitude":34.09224,
+    "geom:longitude":66.30847,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403.0",
+    "gn:asciiname":"Baloch-e Band",
+    "gn:country_code":"AF",
+    "gn:dem":2768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147279,
+    "gn:latitude":34.09224,
+    "gn:longitude":66.30847,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bal\u014dch-e Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balochi-Band",
+        "Balo\u010de Band",
+        "Bal\u014dch-e Band",
+        "Bal\u016bch-e Band",
+        "\u0628\u0644\u0648\u0686 \u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147279
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a5d3d359a19c6d8cffc3eef52eec7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1360214439,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1360214439,
+    "wof:lastmodified":1537582252,
+    "wof:name":"Baloch-e Band",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.30847,
+    34.09224,
+    66.30847,
+    34.09224
+],
+  "geometry": {"coordinates":[66.30847,34.09224],"type":"Point"}
+}

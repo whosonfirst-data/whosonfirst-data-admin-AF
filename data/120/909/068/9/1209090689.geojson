@@ -1,0 +1,74 @@
+{
+  "id": 1209090689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05048,33.3973,65.05048,33.3973",
+    "geom:latitude":33.3973,
+    "geom:longitude":65.05048,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Sinay",
+    "gn:country_code":"AF",
+    "gn:dem":2205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124347,
+    "gn:latitude":33.3973,
+    "gn:longitude":65.05048,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u012bnay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0646\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "S\u012bn\u012b",
+        "S\u012bnay",
+        "\u0633\u06cc\u0646\u06cc",
+        "Sinay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124347
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aaf8e62535f7354468574bb301ca828e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209090689
+        }
+    ],
+    "wof:id":1209090689,
+    "wof:lastmodified":1537580294,
+    "wof:name":"Sinay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05048000000001,
+    33.3973,
+    65.05048000000001,
+    33.3973
+],
+  "geometry": {"coordinates":[65.05048000000001,33.3973],"type":"Point"}
+}

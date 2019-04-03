@@ -1,0 +1,74 @@
+{
+  "id": 1242868533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45234,34.09382,65.45234,34.09382",
+    "geom:latitude":34.09382,
+    "geom:longitude":65.45234,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Lukah-ye Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":2901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134590,
+    "gn:latitude":34.09382,
+    "gn:longitude":65.45234,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lukah-ye Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokae Su\u1e5fkh",
+        "Lukah-ye Surkh",
+        "\u0644\u06a9\u06c0 \u0633\u0631\u062e",
+        "Lokeh-ye Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134590
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b1c973c50a5a0ebca7f72f0e099e29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1242868533,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242868533,
+    "wof:lastmodified":1537581187,
+    "wof:name":"Lukah-ye Surkh",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45234,
+    34.09382,
+    65.45234,
+    34.09382
+],
+  "geometry": {"coordinates":[65.45234000000001,34.09382],"type":"Point"}
+}

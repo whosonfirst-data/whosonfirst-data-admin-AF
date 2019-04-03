@@ -1,0 +1,78 @@
+{
+  "id": 1243185029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.02479,35.19365,63.02479,35.19365",
+    "geom:latitude":35.19365,
+    "geom:longitude":63.02479,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1907.0",
+    "gn:asciiname":"Ab Shorah",
+    "gn:country_code":"AF",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149464,
+    "gn:latitude":35.19365,
+    "gn:longitude":63.02479,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b Sh\u014drah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100oshera",
+        "\u0100bs\u0304\u0101\u1e5f",
+        "\u0100b Sh\u016breh",
+        "\u0100b S\u0304\u014d\u1e5fa",
+        "\u0100b Sh\u014drah",
+        "\u0622\u0628 \u0634\u0648\u0631\u0647",
+        "\u0100bsh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149464,
+        "wk:page":"Abshar"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de01cde30686dc09492690daad1e19be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562287,
+            "locality_id":1243185029,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243185029,
+    "wof:lastmodified":1537582420,
+    "wof:name":"Ab Shorah",
+    "wof:parent_id":1108562287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.02479,
+    35.19365,
+    63.02479,
+    35.19365
+],
+  "geometry": {"coordinates":[63.02479,35.19365],"type":"Point"}
+}

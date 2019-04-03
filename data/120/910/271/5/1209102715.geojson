@@ -1,0 +1,68 @@
+{
+  "id": 1209102715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84285,32.83076,67.84285,32.83076",
+    "geom:latitude":32.83076,
+    "geom:longitude":67.84285,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"'Isa Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435640,
+    "gn:latitude":32.83076,
+    "gn:longitude":67.84285,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018\u012as\u00e1 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Is\u0101kh\u0113l",
+        "\u2018Is\u00e1 Kheyl",
+        "\u2018\u012as\u00e1 Kh\u0113l",
+        "\u0639\u06cc\u0633\u0649 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f2e97c421e6605bf116ad75657b1236",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209102715
+        }
+    ],
+    "wof:id":1209102715,
+    "wof:lastmodified":1537582774,
+    "wof:name":"'Isa Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84285,
+    32.83076,
+    67.84285,
+    32.83076
+],
+  "geometry": {"coordinates":[67.84285,32.83076],"type":"Point"}
+}

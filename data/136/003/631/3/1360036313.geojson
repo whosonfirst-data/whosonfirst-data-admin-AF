@@ -1,0 +1,76 @@
+{
+  "id": 1360036313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05993,32.779,67.05993,32.779",
+    "geom:latitude":32.779,
+    "geom:longitude":67.05993,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"La'l Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":2498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134900,
+    "gn:latitude":32.779,
+    "gn:longitude":67.05993,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"La\u2018l Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Lal\u2019mukhammed"
+    ],
+    "name:und_x_variant":[
+        "La\u2018l Mu\u1e29ammad",
+        "\u0644\u0639\u0644 \u0645\u062d\u0645\u062f",
+        "La\u2018l Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134900
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fcab19b8dff9e781968bf2baed79002d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1360036313,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1360036313,
+    "wof:lastmodified":1537581210,
+    "wof:name":"La'l Muhammad",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05993000000001,
+    32.779,
+    67.05993000000001,
+    32.779
+],
+  "geometry": {"coordinates":[67.05993000000001,32.779],"type":"Point"}
+}

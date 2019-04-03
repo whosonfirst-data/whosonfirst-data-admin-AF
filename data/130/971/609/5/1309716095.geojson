@@ -1,0 +1,73 @@
+{
+  "id": 1309716095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53564,37.16924,70.53564,37.16924",
+    "geom:latitude":37.16924,
+    "geom:longitude":70.53564,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Buchi",
+    "gn:country_code":"AF",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468074,
+    "gn:latitude":37.16924,
+    "gn:longitude":70.53564,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016b\u010di",
+        "B\u016bch\u012b",
+        "\u0628\u0648\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468074
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b55e8cda7c7abd07d3bf6778141cb67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1309716095,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309716095,
+    "wof:lastmodified":1537583529,
+    "wof:name":"Buchi",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53564,
+    37.16924,
+    70.53564,
+    37.16924
+],
+  "geometry": {"coordinates":[70.53564,37.16924],"type":"Point"}
+}

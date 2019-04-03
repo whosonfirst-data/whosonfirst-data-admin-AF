@@ -1,0 +1,77 @@
+{
+  "id": 1310244995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6877,33.90261,69.6877,33.90261",
+    "geom:latitude":33.90261,
+    "geom:longitude":69.6877,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"711.0",
+    "gn:asciiname":"Bara Khermanah",
+    "gn:country_code":"AF",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425184,
+    "gn:latitude":33.90261,
+    "gn:longitude":69.6877,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101r\u0101 Kh\u00earmanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khermana-Bara",
+        "B\u0101\u1e5f\u0101 Khe\u1e5fmana",
+        "B\u0101r\u0101 Khermanah",
+        "B\u0101r\u0101 Kh\u00earmanah",
+        "\u0628\u0627\u0631\u0627 \u062e\u0631\u0645\u0646\u0647",
+        "\u0628\u0631\u0647 \u062e\u0631\u0645\u0646\u0647",
+        "Barah Kh\u00earmanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425184
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f668c8cdc0b09bc8dca9b7f30330de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561789,
+            "locality_id":1310244995,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310244995,
+    "wof:lastmodified":1537582630,
+    "wof:name":"Bara Khermanah",
+    "wof:parent_id":1108561789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6877,
+    33.90261,
+    69.6877,
+    33.90261
+],
+  "geometry": {"coordinates":[69.68770000000001,33.90261],"type":"Point"}
+}

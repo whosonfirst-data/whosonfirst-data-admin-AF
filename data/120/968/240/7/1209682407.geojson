@@ -1,0 +1,70 @@
+{
+  "id": 1209682407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72468,34.59905,68.72468,34.59905",
+    "geom:latitude":34.59905,
+    "geom:longitude":68.72468,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402",
+    "gn:asciiname":"Surkh Gelak",
+    "gn:country_code":"AF",
+    "gn:dem":2753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124093,
+    "gn:latitude":34.59905,
+    "gn:longitude":68.72468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh G\u0113lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surkhgelak",
+        "Su\u1e5fkhg\u0113lak",
+        "Sorkhg\u012blak",
+        "Surkh G\u012blak",
+        "Surkh G\u0113lak",
+        "\u0633\u0631\u062e \u06af\u06d0\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124093
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a7fe936bf0ae8bb8bc0dddf13a88a746",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209682407
+        }
+    ],
+    "wof:id":1209682407,
+    "wof:lastmodified":1537580272,
+    "wof:name":"Surkh Gelak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72468,
+    34.59905,
+    68.72468,
+    34.59905
+],
+  "geometry": {"coordinates":[68.72468000000001,34.59905],"type":"Point"}
+}

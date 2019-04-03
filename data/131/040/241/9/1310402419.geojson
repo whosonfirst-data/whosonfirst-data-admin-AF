@@ -1,0 +1,73 @@
+{
+  "id": 1310402419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.758,32.94553,67.758,32.94553",
+    "geom:latitude":32.94553,
+    "geom:longitude":67.758,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Bangol Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147122,
+    "gn:latitude":32.94553,
+    "gn:longitude":67.758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bang\u014dl Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bang\u014dl Kh\u0113l",
+        "\u0628\u0646\u06af\u0648\u0644 \u062e\u06d0\u0644",
+        "Bang\u016bl Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147122
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b1ea2df1ddb0c9f4ef863793c1f1f0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1310402419,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310402419,
+    "wof:lastmodified":1537582242,
+    "wof:name":"Bangol Khel",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.758,
+    32.94553,
+    67.758,
+    32.94553
+],
+  "geometry": {"coordinates":[67.758,32.94553],"type":"Point"}
+}

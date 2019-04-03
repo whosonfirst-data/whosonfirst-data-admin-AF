@@ -1,0 +1,74 @@
+{
+  "id": 1209849177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87178,33.06099,65.87178,33.06099",
+    "geom:latitude":33.06099,
+    "geom:longitude":65.87178,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404.0",
+    "gn:asciiname":"Arghor",
+    "gn:country_code":"AF",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148385,
+    "gn:latitude":33.06099,
+    "gn:longitude":65.87178,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Argh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e5fgh\u014d\u1e5f",
+        "Argh\u014dr",
+        "\u0627\u0631\u063a\u0648\u0631",
+        "Arghowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148385
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0e4aab78a4ecca2cd7f5888cd725fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1209849177,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1209849177,
+    "wof:lastmodified":1537582337,
+    "wof:name":"Arghor",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87178,
+    33.06099,
+    65.87178,
+    33.06099
+],
+  "geometry": {"coordinates":[65.87178,33.06099],"type":"Point"}
+}

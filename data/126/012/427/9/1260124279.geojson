@@ -1,0 +1,76 @@
+{
+  "id": 1260124279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29525,33.7239,69.29525,33.7239",
+    "geom:latitude":33.7239,
+    "geom:longitude":69.29525,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705",
+    "gn:asciiname":"Wech Ghrak",
+    "gn:country_code":"AF",
+    "gn:dem":2589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121833,
+    "gn:latitude":33.7239,
+    "gn:longitude":69.29525,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u00each Ghrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vuchgrak",
+        "Vach Gh\u1e5fak",
+        "Wa\u010d Ghrak",
+        "Wach Gh\u1e5fak",
+        "W\u00each Ghrak",
+        "\u0648\u0686 \u063a\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121833
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"10587f2d84821c7e079849abbb10853d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561783,
+            "locality_id":1260124279,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1260124279,
+    "wof:lastmodified":1537580064,
+    "wof:name":"Wech Ghrak",
+    "wof:parent_id":1108561783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29525,
+    33.7239,
+    69.29525,
+    33.7239
+],
+  "geometry": {"coordinates":[69.29525,33.7239],"type":"Point"}
+}

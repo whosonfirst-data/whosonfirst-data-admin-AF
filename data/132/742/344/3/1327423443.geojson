@@ -1,0 +1,71 @@
+{
+  "id": 1327423443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.13948,35.18722,65.13948,35.18722",
+    "geom:latitude":35.18722,
+    "geom:longitude":65.13948,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2708",
+    "gn:asciiname":"Sang-e Zard",
+    "gn:country_code":"AF",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127559,
+    "gn:latitude":35.18722,
+    "gn:longitude":65.13948,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Zard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0646\u06af \u0632\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127559
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"121fd0765d09db5798aa5e1c46d3a6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561911,
+            "locality_id":1327423443,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327423443,
+    "wof:lastmodified":1537580564,
+    "wof:name":"Sang-e Zard",
+    "wof:parent_id":1108561911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.13948,
+    35.18722,
+    65.13948,
+    35.18722
+],
+  "geometry": {"coordinates":[65.13948000000001,35.18722],"type":"Point"}
+}

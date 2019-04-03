@@ -1,0 +1,81 @@
+{
+  "id": 1226493397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.11667,32.01555,67.11667,32.01555",
+    "geom:latitude":32.01555,
+    "geom:longitude":67.11667,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Loy-Shor",
+    "gn:country_code":"AF",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124867,
+    "gn:latitude":32.01555,
+    "gn:longitude":67.11667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Loy-Shor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0654 \u0643\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u0304\u014dr",
+        "L\u014dy S\u0304\u014d\u1e5f",
+        "Lowy S\u0332h\u0332\u016br",
+        "Loy-Shor",
+        "S\u0332h\u0332\u016br",
+        "L\u014dy S\u0332h\u0332\u014dr",
+        "\u0644\u0648\u06cc \u069a\u0648\u0631",
+        "L\u016by S\u0332h\u0332\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124867
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1732fd20e2912a9eda5d78d038702665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1226493397,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226493397,
+    "wof:lastmodified":1537580333,
+    "wof:name":"Loy-Shor",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.11667,
+    32.01555,
+    67.11667,
+    32.01555
+],
+  "geometry": {"coordinates":[67.11667,32.01555],"type":"Point"}
+}

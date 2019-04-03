@@ -1,0 +1,81 @@
+{
+  "id": 1259345959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67435,34.41521,70.67435,34.41521",
+    "geom:latitude":34.41521,
+    "geom:longitude":70.67435,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"818.0",
+    "gn:asciiname":"Bar Mirza Khel",
+    "gn:country_code":"AF",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469217,
+    "gn:latitude":34.41521,
+    "gn:longitude":70.67435,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar M\u012brz\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631\u0632\u0627 \u062e\u064a\u0644\u0654 \u0628\u0627\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "Bar-Mirzakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5f Me\u1e5fz\u0101kh\u0113l",
+        "Bar M\u012brz\u0101 Kh\u0113l",
+        "Bar M\u012brz\u0101kheyl",
+        "\u0628\u0631 \u0645\u064a\u0631\u0632\u0627 \u062e\u064a\u0644",
+        "\u0628\u0631 \u0645\u064a\u0631\u0632\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469217
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a5300a04bd9aac4b97d20af7d2119bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562125,
+            "locality_id":1259345959,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259345959,
+    "wof:lastmodified":1537583592,
+    "wof:name":"Bar Mirza Khel",
+    "wof:parent_id":1108562125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67435,
+    34.41520999999999,
+    70.67435,
+    34.41520999999999
+],
+  "geometry": {"coordinates":[70.67435,34.41520999999999],"type":"Point"}
+}

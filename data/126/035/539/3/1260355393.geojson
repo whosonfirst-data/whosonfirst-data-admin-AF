@@ -1,0 +1,79 @@
+{
+  "id": 1260355393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29453,34.22621,70.29453,34.22621",
+    "geom:latitude":34.22621,
+    "geom:longitude":70.29453,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Sharki Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472834,
+    "gn:latitude":34.22621,
+    "gn:longitude":70.29453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0332h\u0332ark\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0643\u06cc \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0160arki Kal\u0101",
+        "Sharki Kala",
+        "Sharki Kal\u0101",
+        "\u0634\u0631\u0643\u06cc \u0643\u0644\u0627",
+        "S\u0332h\u0332ark\u012b Kal\u0101",
+        "\u069a\u0631\u06a9\u06cc \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472834
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9232f6940d69876d515c2dd667d85f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562343,
+            "locality_id":1260355393,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1260355393,
+    "wof:lastmodified":1537583718,
+    "wof:name":"Sharki Kala",
+    "wof:parent_id":1108562343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29453000000001,
+    34.22620999999999,
+    70.29453000000001,
+    34.22620999999999
+],
+  "geometry": {"coordinates":[70.29453000000001,34.22620999999999],"type":"Point"}
+}

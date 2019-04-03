@@ -1,0 +1,75 @@
+{
+  "id": 1226498667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54414,31.64602,66.54414,31.64602",
+    "geom:latitude":31.64602,
+    "geom:longitude":66.54414,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Sarchi",
+    "gn:country_code":"AF",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476942,
+    "gn:latitude":31.64602,
+    "gn:longitude":66.54414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarki",
+        "Sar\u010di",
+        "Sarch\u012b",
+        "\u0633\u0631\u0686\u06cc",
+        "Sarchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476942
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3a67206f5aac234c78de4e8242df6d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1226498667,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226498667,
+    "wof:lastmodified":1537583860,
+    "wof:name":"Sarchi",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54414,
+    31.64602,
+    66.54414,
+    31.64602
+],
+  "geometry": {"coordinates":[66.54414,31.64602],"type":"Point"}
+}

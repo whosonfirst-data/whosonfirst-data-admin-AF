@@ -1,0 +1,72 @@
+{
+  "id": 1343263477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51839,36.21984,69.51839,36.21984",
+    "geom:latitude":36.21984,
+    "geom:longitude":69.51839,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1314.0",
+    "gn:asciiname":"Yakhchi Khord",
+    "gn:country_code":"AF",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304706,
+    "gn:latitude":36.21984,
+    "gn:longitude":69.51839,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakhch\u012b Kh\u014drd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakhch\u012b Kh\u014drd",
+        "\u06cc\u062e\u0686\u06cc \u062e\u0648\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304706
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2232e2835f21bfcd52534f2b85962451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562059,
+            "locality_id":1343263477,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343263477,
+    "wof:lastmodified":1537583941,
+    "wof:name":"Yakhchi Khord",
+    "wof:parent_id":1108562059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51839,
+    36.21984000000001,
+    69.51839,
+    36.21984000000001
+],
+  "geometry": {"coordinates":[69.51839,36.21984000000001],"type":"Point"}
+}

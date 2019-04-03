@@ -1,0 +1,75 @@
+{
+  "id": 1225841797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47517,34.04135,67.47517,34.04135",
+    "geom:latitude":34.04135,
+    "geom:longitude":67.47517,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Bala Shighlang",
+    "gn:country_code":"AF",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147323,
+    "gn:latitude":34.04135,
+    "gn:longitude":67.47517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101l\u0101 Sh\u012bghlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balashiglang",
+        "B\u0101l\u0101s\u0304\u012bghlan",
+        "B\u0101l\u0101\u0161\u012bghlang",
+        "B\u0101l\u0101 Sh\u012bghlang",
+        "\u0628\u0627\u0644\u0627 \u0634\u06cc\u063a\u0644\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147323
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"847a1198dfbae95bf0e2c35f722bf09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1225841797,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225841797,
+    "wof:lastmodified":1537582256,
+    "wof:name":"Bala Shighlang",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47516999999999,
+    34.04135,
+    67.47516999999999,
+    34.04135
+],
+  "geometry": {"coordinates":[67.47516999999999,34.04135],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344014319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.32833,30.95917,66.32833,30.95917",
+    "geom:latitude":30.95917,
+    "geom:longitude":66.32833,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Adozi",
+    "gn:country_code":"AF",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1149382,
+    "gn:latitude":30.95917,
+    "gn:longitude":66.32833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ad\u014dz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u043e\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "A\u1e0f\u014dzi",
+        "Adozi",
+        "Adowz\u012b",
+        "Ad\u014dz\u012b",
+        "\u0627\u062f\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149382
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"255d6d225696758757c4fa9bda1878d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1344014319,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1344014319,
+    "wof:lastmodified":1537582413,
+    "wof:name":"Adozi",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.32833000000001,
+    30.95917,
+    66.32833000000001,
+    30.95917
+],
+  "geometry": {"coordinates":[66.32833000000001,30.95917],"type":"Point"}
+}

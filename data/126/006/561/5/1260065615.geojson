@@ -1,0 +1,74 @@
+{
+  "id": 1260065615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45175,33.24496,68.45175,33.24496",
+    "geom:latitude":33.24496,
+    "geom:longitude":68.45175,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Mukum",
+    "gn:country_code":"AF",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132983,
+    "gn:latitude":33.24496,
+    "gn:longitude":68.45175,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mukum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0643\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mokum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132983
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"27b7d96eeb99fee9c1f19a00aa7816f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1260065615,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260065615,
+    "wof:lastmodified":1537581055,
+    "wof:name":"Mukum",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45175,
+    33.24496,
+    68.45175,
+    33.24496
+],
+  "geometry": {"coordinates":[68.45175,33.24496],"type":"Point"}
+}

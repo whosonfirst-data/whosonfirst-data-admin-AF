@@ -1,0 +1,73 @@
+{
+  "id": 1343675731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.96425,37.48042,70.96425,37.48042",
+    "geom:latitude":37.48042,
+    "geom:longitude":70.96425,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1109",
+    "gn:asciiname":"Khitif",
+    "gn:country_code":"AF",
+    "gn:dem":2845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136684,
+    "gn:latitude":37.48042,
+    "gn:longitude":70.96425,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khitif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062e\u062a\u0641",
+        "Khetef",
+        "Khitif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136684
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e613f901cb48b88faf18f3c634810511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1343675731,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343675731,
+    "wof:lastmodified":1537581361,
+    "wof:name":"Khitif",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.96425,
+    37.48042,
+    70.96425,
+    37.48042
+],
+  "geometry": {"coordinates":[70.96425000000001,37.48042],"type":"Point"}
+}

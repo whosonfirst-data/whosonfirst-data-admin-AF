@@ -1,0 +1,78 @@
+{
+  "id": 1310564333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51666,34.45362,70.51666,34.45362",
+    "geom:latitude":34.45362,
+    "geom:longitude":70.51666,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Chamya",
+    "gn:country_code":"AF",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468834,
+    "gn:latitude":34.45362,
+    "gn:longitude":70.51666,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chamy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u064a\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "Cham\u2019ya"
+    ],
+    "name:und_x_variant":[
+        "\u010camy\u0101",
+        "Chamy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468834
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86db6d21359a2690c4e7fb2dd8f0a6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1310564333,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1310564333,
+    "wof:lastmodified":1537583570,
+    "wof:name":"Chamya",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51666,
+    34.45362,
+    70.51666,
+    34.45362
+],
+  "geometry": {"coordinates":[70.51666,34.45362],"type":"Point"}
+}

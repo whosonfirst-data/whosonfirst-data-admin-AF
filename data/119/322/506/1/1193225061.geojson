@@ -1,0 +1,75 @@
+{
+  "id": 1193225061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7907,33.30298,68.7907,33.30298",
+    "geom:latitude":33.30298,
+    "geom:longitude":68.7907,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915",
+    "gn:asciiname":"Shor Kachah",
+    "gn:country_code":"AF",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124184,
+    "gn:latitude":33.30298,
+    "gn:longitude":68.7907,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0332h\u0332\u014dr Kachah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shorkacha",
+        "\u0160orka\u010da",
+        "\u069a\u0648\u0631 \u06a9\u0686\u0647",
+        "S\u0332h\u0332\u016brkachah",
+        "S\u0332h\u0332\u014dr Kachah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124184
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76dd04367b762e9a8da44d40f8d83211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1193225061,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1193225061,
+    "wof:lastmodified":1537580279,
+    "wof:name":"Shor Kachah",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7907,
+    33.30298,
+    68.7907,
+    33.30298
+],
+  "geometry": {"coordinates":[68.7907,33.30298],"type":"Point"}
+}

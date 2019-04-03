@@ -1,0 +1,75 @@
+{
+  "id": 1326914621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.52191,33.87497,64.52191,33.87497",
+    "geom:latitude":33.87497,
+    "geom:longitude":64.52191,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"A'la Ghori",
+    "gn:country_code":"AF",
+    "gn:dem":2468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458723,
+    "gn:latitude":33.87497,
+    "gn:longitude":64.52191,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u2018l\u00e1 Gh\u014dr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u2018l\u0101 Gh\u014d\u1e5fi",
+        "Alagori",
+        "A\u2018l\u00e1 Gh\u014dr\u012b",
+        "\u0627\u0639\u0644\u0649 \u063a\u0648\u0631\u06cc",
+        "A\u2018l\u0101 Gh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458723
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"614a28bb59b75d2b32c5f1572dc45e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1326914621,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326914621,
+    "wof:lastmodified":1537583272,
+    "wof:name":"A'la Ghori",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.52190999999999,
+    33.87497,
+    64.52190999999999,
+    33.87497
+],
+  "geometry": {"coordinates":[64.52190999999999,33.87497],"type":"Point"}
+}

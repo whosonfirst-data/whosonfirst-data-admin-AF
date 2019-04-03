@@ -1,0 +1,75 @@
+{
+  "id": 1276877359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94206,34.46781,66.94206,34.46781",
+    "geom:latitude":34.46781,
+    "geom:longitude":66.94206,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Danah",
+    "gn:country_code":"AF",
+    "gn:dem":2882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457953,
+    "gn:latitude":34.46781,
+    "gn:longitude":66.94206,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dana",
+        "\u1e0e\u0101na",
+        "D\u0101neh",
+        "D\u0101nah",
+        "\u062f\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a4622c2434b43f7b3ae7ab2ae0bfa638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1276877359,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276877359,
+    "wof:lastmodified":1537583242,
+    "wof:name":"Danah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94206,
+    34.46781,
+    66.94206,
+    34.46781
+],
+  "geometry": {"coordinates":[66.94206,34.46781],"type":"Point"}
+}

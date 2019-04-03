@@ -1,0 +1,77 @@
+{
+  "id": 1193129593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.38983,33.24273,63.38983,33.24273",
+    "geom:latitude":33.24273,
+    "geom:longitude":63.38983,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Qaryah-ye Bayd-e Pirayshan",
+    "gn:country_code":"AF",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129456,
+    "gn:latitude":33.24273,
+    "gn:longitude":63.38983,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Bayd-e Piraysh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Bedi-Pireshan"
+    ],
+    "name:und_x_variant":[
+        "Qarya-i-B\u0113de Per\u0113\u0161\u0101n",
+        "Qaryah-ye Bayd-e Piraysh\u0101n",
+        "\u0642\u0631\u06cc\u06c0 \u0628\u06cc\u062f \u067e\u0631\u06cc\u0634\u0627\u0646",
+        "Qaryeh-ye B\u012bd-e Par\u012bsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129456
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"85b27fcfdfdd69f9bc7fa6fba56790bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1193129593,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1193129593,
+    "wof:lastmodified":1537580726,
+    "wof:name":"Qaryah-ye Bayd-e Pirayshan",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.38983,
+    33.24273,
+    63.38983,
+    33.24273
+],
+  "geometry": {"coordinates":[63.38983,33.24273],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276390351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56957,33.11122,69.56957,33.11122",
+    "geom:latitude":33.11122,
+    "geom:longitude":69.56957,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3204.0",
+    "gn:asciiname":"Spalkin",
+    "gn:country_code":"AF",
+    "gn:dem":2363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434338,
+    "gn:latitude":33.11122,
+    "gn:longitude":69.56957,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Spalk\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u0644\u0643\u064a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Spal\u2019khin"
+    ],
+    "name:und_x_variant":[
+        "Spalk\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434338
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"938012407b0f0c0ebcb6687dbb465076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562521,
+            "locality_id":1276390351,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1276390351,
+    "wof:lastmodified":1537582713,
+    "wof:name":"Spalkin",
+    "wof:parent_id":1108562521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56957,
+    33.11122,
+    69.56957,
+    33.11122
+],
+  "geometry": {"coordinates":[69.56957,33.11122],"type":"Point"}
+}

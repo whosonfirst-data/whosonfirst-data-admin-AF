@@ -1,0 +1,78 @@
+{
+  "id": 1343902325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.78356,33.66232,69.78356,33.66232",
+    "geom:latitude":33.66232,
+    "geom:longitude":69.78356,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"706.0",
+    "gn:asciiname":"Bilza'i",
+    "gn:country_code":"AF",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146570,
+    "gn:latitude":33.66232,
+    "gn:longitude":69.78356,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bilza\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vil\u2019zai"
+    ],
+    "name:und_x_variant":[
+        "Belzay",
+        "B\u00ealza\u012b",
+        "Belza\u2019\u012b",
+        "Bilza\u2019\u012b",
+        "\u0628\u0644\u0632\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87266fbbef3aff4f50a9f80b8b9f0356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562099,
+            "locality_id":1343902325,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1343902325,
+    "wof:lastmodified":1537582196,
+    "wof:name":"Bilza'i",
+    "wof:parent_id":1108562099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.78356,
+    33.66232,
+    69.78356,
+    33.66232
+],
+  "geometry": {"coordinates":[69.78355999999999,33.66232],"type":"Point"}
+}

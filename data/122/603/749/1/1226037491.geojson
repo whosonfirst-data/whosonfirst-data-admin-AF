@@ -1,0 +1,75 @@
+{
+  "id": 1226037491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.46297,32.28353,62.46297,32.28353",
+    "geom:latitude":32.28353,
+    "geom:longitude":62.46297,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Jangal Bagh",
+    "gn:country_code":"AF",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428337,
+    "gn:latitude":32.28353,
+    "gn:longitude":62.46297,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jangal B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhangal\u2019bag"
+    ],
+    "name:und_x_variant":[
+        "Jangal B\u0101gh",
+        "\u062c\u0646\u06af\u0644 \u0628\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428337
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8aa17d1bc5392c11d7550e4132a031a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1226037491,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226037491,
+    "wof:lastmodified":1537582655,
+    "wof:name":"Jangal Bagh",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.46297,
+    32.28353,
+    62.46297,
+    32.28353
+],
+  "geometry": {"coordinates":[62.46297,32.28353],"type":"Point"}
+}

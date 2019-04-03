@@ -1,0 +1,71 @@
+{
+  "id": 1276365335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92938,33.85019,66.92938,33.85019",
+    "geom:latitude":33.85019,
+    "geom:longitude":66.92938,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Sar-e Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437767,
+    "gn:latitude":33.85019,
+    "gn:longitude":66.92938,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437767
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f64241c926865fa29d3ebfef735f291b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1276365335,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276365335,
+    "wof:lastmodified":1537582858,
+    "wof:name":"Sar-e Sang",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92938000000001,
+    33.85019,
+    66.92938000000001,
+    33.85019
+],
+  "geometry": {"coordinates":[66.92938000000001,33.85019],"type":"Point"}
+}

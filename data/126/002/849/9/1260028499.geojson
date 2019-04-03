@@ -1,0 +1,74 @@
+{
+  "id": 1260028499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.56993,36.05425,65.56993,36.05425",
+    "geom:latitude":36.05425,
+    "geom:longitude":65.56993,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3106",
+    "gn:asciiname":"Jau Mutah",
+    "gn:country_code":"AF",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139347,
+    "gn:latitude":36.05425,
+    "gn:longitude":65.56993,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ja\u016b M\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jau Mutta",
+        "Jau Muttah",
+        "Ja\u016b M\u016btah",
+        "\u062c\u0648 \u0645\u0648\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139347
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17c6b1a59053a14b6c9fd61a7d55645c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562449,
+            "locality_id":1260028499,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1260028499,
+    "wof:lastmodified":1537581568,
+    "wof:name":"Jau Mutah",
+    "wof:parent_id":1108562449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.56993,
+    36.05425,
+    65.56993,
+    36.05425
+],
+  "geometry": {"coordinates":[65.56993,36.05425],"type":"Point"}
+}

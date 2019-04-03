@@ -1,0 +1,72 @@
+{
+  "id": 1293868243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.90658,33.93611,63.90658,33.93611",
+    "geom:latitude":33.93611,
+    "geom:longitude":63.90658,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Jarah Gak",
+    "gn:country_code":"AF",
+    "gn:dem":2450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139456,
+    "gn:latitude":33.93611,
+    "gn:longitude":63.90658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jarah Gak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0631\u0647 \u06af\u06a9",
+        "Ja\u1e5fagak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139456
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"61d4ec74677846b46dc9cea647ee75e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1293868243,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293868243,
+    "wof:lastmodified":1537581578,
+    "wof:name":"Jarah Gak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.90658000000001,
+    33.93611,
+    63.90658000000001,
+    33.93611
+],
+  "geometry": {"coordinates":[63.90658000000001,33.93611],"type":"Point"}
+}

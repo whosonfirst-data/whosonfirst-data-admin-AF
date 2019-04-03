@@ -1,0 +1,75 @@
+{
+  "id": 1327426331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.85009,32.59025,62.85009,32.59025",
+    "geom:latitude":32.59025,
+    "geom:longitude":62.85009,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Galah Maykh",
+    "gn:country_code":"AF",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142032,
+    "gn:latitude":32.59025,
+    "gn:longitude":62.85009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Galah Maykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gala M\u0113kh",
+        "Galamekh",
+        "Galeh M\u012bkh",
+        "Galah Maykh",
+        "\u06af\u0644\u0647 \u0645\u06cc\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142032
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e9026ac685e53aece422977a7af335e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1327426331,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1327426331,
+    "wof:lastmodified":1537581793,
+    "wof:name":"Galah Maykh",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.85009,
+    32.59025,
+    62.85009,
+    32.59025
+],
+  "geometry": {"coordinates":[62.85009,32.59025],"type":"Point"}
+}

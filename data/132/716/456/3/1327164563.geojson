@@ -1,0 +1,75 @@
+{
+  "id": 1327164563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56763,33.51925,66.56763,33.51925",
+    "geom:latitude":33.51925,
+    "geom:longitude":66.56763,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402",
+    "gn:asciiname":"Sang Kushtah",
+    "gn:country_code":"AF",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127529,
+    "gn:latitude":33.51925,
+    "gn:longitude":66.56763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang Kushtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangkushta",
+        "Sangku\u0161ta",
+        "Sang Koshteh",
+        "Sang Kushtah",
+        "\u0633\u0646\u06af \u06a9\u0634\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127529
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8cf596d1b3e5e5fbe4c733e3577a0a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562039,
+            "locality_id":1327164563,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327164563,
+    "wof:lastmodified":1537580563,
+    "wof:name":"Sang Kushtah",
+    "wof:parent_id":1108562039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56763000000001,
+    33.51925,
+    66.56763000000001,
+    33.51925
+],
+  "geometry": {"coordinates":[66.56763000000001,33.51925],"type":"Point"}
+}

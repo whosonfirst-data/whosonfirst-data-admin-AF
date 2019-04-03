@@ -1,0 +1,83 @@
+{
+  "id": 1310090875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84722,33.18898,67.84722,33.18898",
+    "geom:latitude":33.18898,
+    "geom:longitude":67.84722,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"613.0",
+    "gn:asciiname":"Baram",
+    "gn:country_code":"AF",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448814,
+    "gn:latitude":33.18898,
+    "gn:longitude":67.84722,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101r\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0440\u0430\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0440\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "B\u0101\u1e5f\u0101m",
+        "Bakhram",
+        "Baram",
+        "Bahr\u0101m",
+        "B\u0101r\u0101m",
+        "\u0628\u0627\u0631\u0627\u0645",
+        "\u0628\u0647\u0631\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448814
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dffe00c2fd32c8834317abc84304ff99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1310090875,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310090875,
+    "wof:lastmodified":1537582993,
+    "wof:name":"Baram",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84722,
+    33.18898,
+    67.84722,
+    33.18898
+],
+  "geometry": {"coordinates":[67.84721999999999,33.18898],"type":"Point"}
+}

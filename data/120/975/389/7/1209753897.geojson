@@ -1,0 +1,78 @@
+{
+  "id": 1209753897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44621,34.85111,68.44621,34.85111",
+    "geom:latitude":34.85111,
+    "geom:longitude":68.44621,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306",
+    "gn:asciiname":"Zer-e Kotal",
+    "gn:country_code":"AF",
+    "gn:dem":3088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120578,
+    "gn:latitude":34.85111,
+    "gn:longitude":68.44621,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0113r-e K\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zeri-Kotal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Z\u0113\u1e5fe K\u014dtal",
+        "Z\u012br\u012b Kowtal",
+        "Zayr-e K\u014dtal",
+        "Z\u0113r-e K\u014dtal",
+        "\u0632\u064a\u0631 \u06a9\u0648\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120578
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"55881e8683fffb8b5d6dce1858706a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1209753897,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1209753897,
+    "wof:lastmodified":1537579954,
+    "wof:name":"Zer-e Kotal",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44621,
+    34.85111,
+    68.44621,
+    34.85111
+],
+  "geometry": {"coordinates":[68.44620999999999,34.85111],"type":"Point"}
+}

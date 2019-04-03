@@ -1,0 +1,76 @@
+{
+  "id": 1292974539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.81402,34.86403,69.81402,34.86403",
+    "geom:latitude":34.86403,
+    "geom:longitude":69.81402,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"206",
+    "gn:asciiname":"Kundah",
+    "gn:country_code":"AF",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135307,
+    "gn:latitude":34.86403,
+    "gn:longitude":69.81402,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kun\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0646\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kun\u1e0fah",
+        "\u06a9\u0646\u0689\u0647",
+        "Kunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108561787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135307
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3bf309a11ca97b9df9d7e0fe1664ddce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561787,
+            "locality_id":1292974539,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1292974539,
+    "wof:lastmodified":1537581241,
+    "wof:name":"Kundah",
+    "wof:parent_id":1108561787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.81402,
+    34.86403,
+    69.81402,
+    34.86403
+],
+  "geometry": {"coordinates":[69.81402,34.86403],"type":"Point"}
+}

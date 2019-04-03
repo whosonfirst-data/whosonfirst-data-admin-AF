@@ -1,0 +1,80 @@
+{
+  "id": 1242958651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03581,33.03225,68.03581,33.03225",
+    "geom:latitude":33.03225,
+    "geom:longitude":68.03581,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"De Aslam Chambar",
+    "gn:country_code":"AF",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438907,
+    "gn:latitude":33.03225,
+    "gn:longitude":68.03581,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Aslam Chambar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u0686\u0646\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Aslamchambar",
+        "De Aslam \u010cambar",
+        "D\u00ea Isl\u0101m Chanbar",
+        "De Esl\u0101m Chanbar",
+        "D\u00ea Aslam Chambar",
+        "\u062f \u0627\u0633\u0644\u0645 \u0686\u0645\u0628\u0631",
+        "\u0627\u0633\u0644\u0627\u0645 \u0686\u0646\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438907
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"10e248bb2de408b552c23a2df6fa0d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1242958651,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242958651,
+    "wof:lastmodified":1537582902,
+    "wof:name":"De Aslam Chambar",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03581,
+    33.03225,
+    68.03581,
+    33.03225
+],
+  "geometry": {"coordinates":[68.03581,33.03225],"type":"Point"}
+}

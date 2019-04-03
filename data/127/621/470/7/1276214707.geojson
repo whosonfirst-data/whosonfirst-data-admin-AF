@@ -1,0 +1,75 @@
+{
+  "id": 1276214707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.29506,33.80857,63.29506,33.80857",
+    "geom:latitude":33.80857,
+    "geom:longitude":63.29506,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Kilkak",
+    "gn:country_code":"AF",
+    "gn:dem":2369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137510,
+    "gn:latitude":33.80857,
+    "gn:longitude":63.29506,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kilkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kil\u2019kak"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u06a9\u06a9",
+        "Kelkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137510
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b78d2939dacc81cdb58570fa0f63459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1276214707,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276214707,
+    "wof:lastmodified":1537581424,
+    "wof:name":"Kilkak",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.29506,
+    33.80857,
+    63.29506,
+    33.80857
+],
+  "geometry": {"coordinates":[63.29506,33.80857],"type":"Point"}
+}

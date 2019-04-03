@@ -1,0 +1,76 @@
+{
+  "id": 1225883129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.31685,35.59417,71.31685,35.59417",
+    "geom:latitude":35.59417,
+    "geom:longitude":71.31685,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Chapo",
+    "gn:country_code":"AF",
+    "gn:dem":1880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146008,
+    "gn:latitude":35.59417,
+    "gn:longitude":71.31685,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chap\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010capo",
+        "Chapu",
+        "Chap\u014d",
+        "Chapo",
+        "Chapow",
+        "\u0686\u067e\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146008
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77fe05d817fa8bfd7fabe4f00382357b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1225883129,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1225883129,
+    "wof:lastmodified":1537582150,
+    "wof:name":"Chapo",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.31685,
+    35.59417,
+    71.31685,
+    35.59417
+],
+  "geometry": {"coordinates":[71.31685,35.59417],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243064717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.11437,33.11476,68.11437,33.11476",
+    "geom:latitude":33.11476,
+    "geom:longitude":68.11437,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Junubi Na Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139475,
+    "gn:latitude":33.11476,
+    "gn:longitude":68.11437,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b N\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062e\u064a\u0644\u0654\u0654 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhanubi-Nakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Jan\u016bb\u012b N\u0101kheyl",
+        "Jan\u016bbi N\u0101kh\u0113l",
+        "N\u0101kheyl-e Jon\u016bb\u012b",
+        "Jun\u016bb\u012b N\u0101 Kh\u0113l",
+        "\u062c\u0646\u0648\u0628\u06cc \u0646\u0627 \u062e\u06d0\u0644",
+        "\u0646\u0627\u062e\u064a\u0644\u0654\u0654 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139475
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00cd7c9bebc9376870b33a3fad27f78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1243064717,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243064717,
+    "wof:lastmodified":1537581580,
+    "wof:name":"Junubi Na Khel",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.11437,
+    33.11476,
+    68.11437,
+    33.11476
+],
+  "geometry": {"coordinates":[68.11436999999999,33.11476],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293064289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31594,34.23972,70.31594,34.23972",
+    "geom:latitude":34.23972,
+    "geom:longitude":70.31594,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"806.0",
+    "gn:asciiname":"Mowrah",
+    "gn:country_code":"AF",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472895,
+    "gn:latitude":34.23972,
+    "gn:longitude":70.31594,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mowrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maura",
+        "Maw\u1e5fa",
+        "Mawrah",
+        "Mowrah",
+        "\u0645\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472895
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"935ea9ba6182183d63c084d818c3cd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562343,
+            "locality_id":1293064289,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293064289,
+    "wof:lastmodified":1537583722,
+    "wof:name":"Mowrah",
+    "wof:parent_id":1108562343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31594,
+    34.23972,
+    70.31594,
+    34.23972
+],
+  "geometry": {"coordinates":[70.31594,34.23972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260040391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86578,36.32605,66.86578,36.32605",
+    "geom:latitude":36.32605,
+    "geom:longitude":66.86578,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Turpaghly",
+    "gn:country_code":"AF",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122314,
+    "gn:latitude":36.32605,
+    "gn:longitude":66.86578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Turpaghly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torpaghly",
+        "Torpaghl\u012b",
+        "Turpaghly",
+        "\u062a\u0631\u067e\u063a\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122314
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f82665b2d170471e14a8569dbc3bed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1260040391,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1260040391,
+    "wof:lastmodified":1537580104,
+    "wof:name":"Turpaghly",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86578,
+    36.32605,
+    66.86578,
+    36.32605
+],
+  "geometry": {"coordinates":[66.86578,36.32605],"type":"Point"}
+}

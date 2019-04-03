@@ -1,0 +1,79 @@
+{
+  "id": 1276875475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.04573,34.75531,63.04573,34.75531",
+    "geom:latitude":34.75531,
+    "geom:longitude":63.04573,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1901.0",
+    "gn:asciiname":"Chakaw",
+    "gn:country_code":"AF",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145600,
+    "gn:latitude":34.75531,
+    "gn:longitude":63.04573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chak\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cak\u0101w",
+        "Chek\u0101o",
+        "Chakao",
+        "Chak\u0101w",
+        "Chak\u0101v",
+        "Chek\u0101v",
+        "\u0686\u06a9\u0627\u0648",
+        "Chak\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145600,
+        "wk:page":"Chakav"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4283a442396eaa0a7ee7bb733d2fc930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562377,
+            "locality_id":1276875475,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1276875475,
+    "wof:lastmodified":1537582117,
+    "wof:name":"Chakaw",
+    "wof:parent_id":1108562377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.04573000000001,
+    34.75530999999999,
+    63.04573000000001,
+    34.75530999999999
+],
+  "geometry": {"coordinates":[63.04573000000001,34.75530999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344012359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23555,34.44152,68.23555,34.44152",
+    "geom:latitude":34.44152,
+    "geom:longitude":68.23555,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Chahar Paskhah",
+    "gn:country_code":"AF",
+    "gn:dem":3324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459043,
+    "gn:latitude":34.44152,
+    "gn:longitude":68.23555,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Paskhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cah\u0101rpaskha",
+        "Chakharpaskha",
+        "Chah\u0101rpaskheh",
+        "Chah\u0101r Paskhah",
+        "\u0686\u0647\u0627\u0631 \u067e\u0633\u062e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459043
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a9592b89a504e9dccc6e3acaf92d253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1344012359,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1344012359,
+    "wof:lastmodified":1537583286,
+    "wof:name":"Chahar Paskhah",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23555,
+    34.44152,
+    68.23555,
+    34.44152
+],
+  "geometry": {"coordinates":[68.23555,34.44152],"type":"Point"}
+}

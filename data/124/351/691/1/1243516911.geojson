@@ -1,0 +1,78 @@
+{
+  "id": 1243516911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.77699,31.30135,61.77699,31.30135",
+    "geom:latitude":31.30135,
+    "geom:longitude":61.77699,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202",
+    "gn:asciiname":"Mayl-e Korki",
+    "gn:country_code":"AF",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133342,
+    "gn:latitude":31.30135,
+    "gn:longitude":61.77699,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mayl-e Kork\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101gh-e Sabz",
+        "Kang",
+        "Ku\u1e5fki",
+        "M\u012bl-e Ka\u1e5fk\u012b",
+        "M\u012bl-i-Ku\u1e5fki",
+        "M\u012bl-e Ka\u1e5fkey",
+        "Mayl-e Kork\u012b",
+        "M\u012bl-e Kurk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133342
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2bbdf75ba07ed6a41911b5a8699b68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1243516911,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243516911,
+    "wof:lastmodified":1537581086,
+    "wof:name":"Mayl-e Korki",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.77699000000001,
+    31.30135,
+    61.77699000000001,
+    31.30135
+],
+  "geometry": {"coordinates":[61.77699000000001,31.30135],"type":"Point"}
+}

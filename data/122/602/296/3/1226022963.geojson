@@ -1,0 +1,77 @@
+{
+  "id": 1226022963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.05439,34.75946,62.05439,34.75946",
+    "geom:latitude":34.75946,
+    "geom:longitude":62.05439,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Muliki",
+    "gn:country_code":"AF",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132974,
+    "gn:latitude":34.75946,
+    "gn:longitude":62.05439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mulik\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u064a\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Molyki",
+        "Mulik\u012b",
+        "\u0645\u0644\u06a9\u06cc",
+        "Mol\u012bk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132974
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de81fbed740a38af91f2845fa633eff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1226022963,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226022963,
+    "wof:lastmodified":1537581054,
+    "wof:name":"Muliki",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.05439000000001,
+    34.75946,
+    62.05439000000001,
+    34.75946
+],
+  "geometry": {"coordinates":[62.05439000000001,34.75946],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1327290073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.8734,32.07265,65.8734,32.07265",
+    "geom:latitude":32.07265,
+    "geom:longitude":65.8734,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Kabulian",
+    "gn:country_code":"AF",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138942,
+    "gn:latitude":32.07265,
+    "gn:longitude":65.8734,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101bul\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0628\u0644\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ab\u1e0fu\u1e5f \u1e5ea\u1e29\u012bm",
+        "Kabulian",
+        "Abdurrakhim",
+        "K\u0101buli\u0101n",
+        "K\u0101bul\u012b\u0101n",
+        "\u06a9\u0627\u0628\u0644\u06cc\u0627\u0646",
+        "K\u0101bol\u012b\u0101n",
+        "\u2018Abdur Ra\u1e29\u012bm",
+        "\u0639\u0628\u062f \u0627\u0644\u0631\u062d\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138942
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b12ea6e8c43960a781ffa6b2c3662c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1327290073,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327290073,
+    "wof:lastmodified":1537581534,
+    "wof:name":"Kabulian",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.8734,
+    32.07265,
+    65.8734,
+    32.07265
+],
+  "geometry": {"coordinates":[65.8734,32.07265],"type":"Point"}
+}

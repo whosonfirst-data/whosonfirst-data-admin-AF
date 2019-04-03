@@ -1,0 +1,72 @@
+{
+  "id": 1343295631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86358,33.05897,66.86358,33.05897",
+    "geom:latitude":33.05897,
+    "geom:longitude":66.86358,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Jangarigh",
+    "gn:country_code":"AF",
+    "gn:dem":2707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139531,
+    "gn:latitude":33.05897,
+    "gn:longitude":66.86358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jangarigh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0646\u06af\u0631\u063a",
+        "Janga\u1e5fegh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"556635cde35a24f20340be2d21e6a7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1343295631,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1343295631,
+    "wof:lastmodified":1537581585,
+    "wof:name":"Jangarigh",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86358,
+    33.05897,
+    66.86358,
+    33.05897
+],
+  "geometry": {"coordinates":[66.86358,33.05897],"type":"Point"}
+}

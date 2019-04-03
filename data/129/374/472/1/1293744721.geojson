@@ -1,0 +1,83 @@
+{
+  "id": 1293744721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80904,32.86582,68.80904,32.86582",
+    "geom:latitude":32.86582,
+    "geom:longitude":68.80904,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2907",
+    "gn:asciiname":"Dawalgay",
+    "gn:country_code":"AF",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143015,
+    "gn:latitude":32.86582,
+    "gn:longitude":68.80904,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Daw\u0101lgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Daw\u0101lgay"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0627\u0644\u06af\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Dival\u2019gay"
+    ],
+    "name:und_x_variant":[
+        "D\u012bv\u0101lgay",
+        "Dival\u2019gay",
+        "\u1e0eew\u0101lgay",
+        "\u062f\u0648\u0627\u0644\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143015
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dfb799b8eff80976e8aba4fec5a50332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562341,
+            "locality_id":1293744721,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293744721,
+    "wof:lastmodified":1537581883,
+    "wof:name":"Dawalgay",
+    "wof:parent_id":1108562341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80904,
+    32.86582,
+    68.80904,
+    32.86582
+],
+  "geometry": {"coordinates":[68.80904,32.86582],"type":"Point"}
+}

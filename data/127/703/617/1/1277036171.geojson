@@ -1,0 +1,73 @@
+{
+  "id": 1277036171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23975,32.93813,67.23975,32.93813",
+    "geom:latitude":32.93813,
+    "geom:longitude":67.23975,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Kunagh",
+    "gn:country_code":"AF",
+    "gn:dem":2373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135313,
+    "gn:latitude":32.93813,
+    "gn:longitude":67.23975,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bnagh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kunag",
+        "K\u016bnagh",
+        "\u06a9\u0648\u0646\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe57005c7c41b9c3734a9f855377d1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1277036171,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1277036171,
+    "wof:lastmodified":1537581241,
+    "wof:name":"Kunagh",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23975,
+    32.93813,
+    67.23975,
+    32.93813
+],
+  "geometry": {"coordinates":[67.23975,32.93813],"type":"Point"}
+}

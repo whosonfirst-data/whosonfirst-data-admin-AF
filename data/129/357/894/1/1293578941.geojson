@@ -1,0 +1,75 @@
+{
+  "id": 1293578941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.16614,34.26965,65.16614,34.26965",
+    "geom:latitude":34.26965,
+    "geom:longitude":65.16614,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Dehak Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":2813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144718,
+    "gn:latitude":34.26965,
+    "gn:longitude":65.16614,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dehak S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eahaks\u014dkhta",
+        "Dahaks\u016bkhteh",
+        "Dehak S\u014dkhtah",
+        "\u062f\u0647\u06a9 \u0633\u0648\u062e\u062a\u0647",
+        "Dehaks\u016bkhteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144718
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5a3b369a231cec1e00a027d2494ab190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1293578941,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293578941,
+    "wof:lastmodified":1537582036,
+    "wof:name":"Dehak Sokhtah",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.16614,
+    34.26965,
+    65.16614,
+    34.26965
+],
+  "geometry": {"coordinates":[65.16614,34.26965],"type":"Point"}
+}

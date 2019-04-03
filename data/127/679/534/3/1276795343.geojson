@@ -1,0 +1,73 @@
+{
+  "id": 1276795343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24194,32.75544,66.24194,32.75544",
+    "geom:latitude":32.75544,
+    "geom:longitude":66.24194,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Buchay",
+    "gn:country_code":"AF",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146226,
+    "gn:latitude":32.75544,
+    "gn:longitude":66.24194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bchay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016b\u010day",
+        "B\u016bchay",
+        "\u0628\u0648\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146226
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32e9a72bad8d5bcfb52dc92152c19dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1276795343,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1276795343,
+    "wof:lastmodified":1537582165,
+    "wof:name":"Buchay",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24194,
+    32.75544,
+    66.24194,
+    32.75544
+],
+  "geometry": {"coordinates":[66.24194,32.75544],"type":"Point"}
+}

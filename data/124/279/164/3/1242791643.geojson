@@ -1,0 +1,73 @@
+{
+  "id": 1242791643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57256,38.18011,70.57256,38.18011",
+    "geom:latitude":38.18011,
+    "geom:longitude":70.57256,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Firyam Bab",
+    "gn:country_code":"AF",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466156,
+    "gn:latitude":38.18011,
+    "gn:longitude":70.57256,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Firyam B\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feryam B\u0101b",
+        "Firyam B\u0101b",
+        "\u0641\u0631\u06cc\u0645 \u0628\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466156
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"af18b3535d412bf3de153412f44bee1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1242791643,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1242791643,
+    "wof:lastmodified":1537583414,
+    "wof:name":"Firyam Bab",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57256,
+    38.18011,
+    70.57256,
+    38.18011
+],
+  "geometry": {"coordinates":[70.57256,38.18011],"type":"Point"}
+}

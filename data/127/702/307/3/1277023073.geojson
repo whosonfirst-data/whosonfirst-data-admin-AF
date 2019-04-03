@@ -1,0 +1,76 @@
+{
+  "id": 1277023073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.56987,35.5541,67.56987,35.5541",
+    "geom:latitude":35.5541,
+    "geom:longitude":67.56987,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Sar-e Asya",
+    "gn:country_code":"AF",
+    "gn:dem":2512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127269,
+    "gn:latitude":35.5541,
+    "gn:longitude":67.56987,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e \u0100sy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fe \u0100sy\u0101",
+        "Sar-i-Asia",
+        "Sar-e \u0100s\u012b\u0101h",
+        "Sar-e \u0100s\u012b\u0101",
+        "Sar-e \u0100sy\u0101",
+        "\u0633\u0631 \u0622\u0633\u06cc\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127269
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7eba38066f4f786a043ae9a54ed4a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1277023073,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1277023073,
+    "wof:lastmodified":1537580545,
+    "wof:name":"Sar-e Asya",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.56987,
+    35.5541,
+    67.56987,
+    35.5541
+],
+  "geometry": {"coordinates":[67.56986999999999,35.5541],"type":"Point"}
+}

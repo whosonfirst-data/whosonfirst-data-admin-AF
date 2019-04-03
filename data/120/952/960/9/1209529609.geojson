@@ -1,0 +1,67 @@
+{
+  "id": 1209529609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81667,38.44336,70.81667,38.44336",
+    "geom:latitude":38.44336,
+    "geom:longitude":70.81667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Sar-e Deh",
+    "gn:country_code":"AF",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466818,
+    "gn:latitude":38.44336,
+    "gn:longitude":70.81667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5f-i-Deh",
+        "Sar-e Deh",
+        "\u0633\u0631 \u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466818
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07e033e8b137ffe84539ac95a6b9d9bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209529609
+        }
+    ],
+    "wof:id":1209529609,
+    "wof:lastmodified":1537583441,
+    "wof:name":"Sar-e Deh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81667,
+    38.44336,
+    70.81667,
+    38.44336
+],
+  "geometry": {"coordinates":[70.81667,38.44336],"type":"Point"}
+}

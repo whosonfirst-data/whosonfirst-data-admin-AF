@@ -1,0 +1,74 @@
+{
+  "id": 1259680541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.5648,35.82323,64.5648,35.82323",
+    "geom:latitude":35.82323,
+    "geom:longitude":64.5648,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1803",
+    "gn:asciiname":"Shay Khan",
+    "gn:country_code":"AF",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125258,
+    "gn:latitude":35.82323,
+    "gn:longitude":64.5648,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shay Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304ay Kh\u0101n",
+        "Sheykh\u0101n",
+        "Shay Kh\u0101n",
+        "\u0634\u06cc \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125258
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c30d5f4c1afb38a30d9beb1934547bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561799,
+            "locality_id":1259680541,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1259680541,
+    "wof:lastmodified":1537580371,
+    "wof:name":"Shay Khan",
+    "wof:parent_id":1108561799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.5648,
+    35.82323,
+    64.5648,
+    35.82323
+],
+  "geometry": {"coordinates":[64.56480000000001,35.82323],"type":"Point"}
+}

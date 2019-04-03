@@ -1,0 +1,78 @@
+{
+  "id": 1242961259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.48481,34.88182,62.48481,34.88182",
+    "geom:latitude":34.88182,
+    "geom:longitude":62.48481,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2016",
+    "gn:asciiname":"Deh-e Khalifah",
+    "gn:country_code":"AF",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143574,
+    "gn:latitude":34.88182,
+    "gn:longitude":62.48481,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u0647\u0654 \u062e\u0644\u064a\u0641\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khalifa",
+        "\u1e0eeh-i-Khal\u012bfa",
+        "Deh-e Khal\u012bfah",
+        "\u062f\u0647 \u062e\u0644\u06cc\u0641\u0647",
+        "Deh-e Khal\u012bfeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143574
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3157fbd530f27c88edc98f3a5292f9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562217,
+            "locality_id":1242961259,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242961259,
+    "wof:lastmodified":1537581932,
+    "wof:name":"Deh-e Khalifah",
+    "wof:parent_id":1108562217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.48481,
+    34.88182,
+    62.48481,
+    34.88182
+],
+  "geometry": {"coordinates":[62.48481,34.88182],"type":"Point"}
+}

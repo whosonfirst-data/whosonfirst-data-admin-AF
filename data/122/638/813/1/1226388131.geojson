@@ -1,0 +1,73 @@
+{
+  "id": 1226388131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2318,36.01656,67.2318,36.01656",
+    "geom:latitude":36.01656,
+    "geom:longitude":67.2318,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Nowazan",
+    "gn:country_code":"AF",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466243,
+    "gn:latitude":36.01656,
+    "gn:longitude":67.2318,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowazan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawazan (2)",
+        "Nowazan",
+        "\u0646\u0648\u0632\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466243
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"329de1bc708b3bf11af88626191926e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1226388131,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1226388131,
+    "wof:lastmodified":1537583417,
+    "wof:name":"Nowazan",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2318,
+    36.01656,
+    67.2318,
+    36.01656
+],
+  "geometry": {"coordinates":[67.23180000000001,36.01656],"type":"Point"}
+}

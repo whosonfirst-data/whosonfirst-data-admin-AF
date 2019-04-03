@@ -1,0 +1,74 @@
+{
+  "id": 1327275089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06875,34.76405,71.06875,34.76405",
+    "geom:latitude":34.76405,
+    "geom:longitude":71.06875,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Bar Narang",
+    "gn:country_code":"AF",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476277,
+    "gn:latitude":34.76405,
+    "gn:longitude":71.06875,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Narang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631 \u0646\u0631\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5f Na\u1e5fang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffadfb0d6e5899791941384e319a66df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1327275089,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327275089,
+    "wof:lastmodified":1537583844,
+    "wof:name":"Bar Narang",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06875,
+    34.76405,
+    71.06875,
+    34.76405
+],
+  "geometry": {"coordinates":[71.06874999999999,34.76405],"type":"Point"}
+}

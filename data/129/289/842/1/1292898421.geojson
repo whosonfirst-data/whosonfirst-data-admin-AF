@@ -1,0 +1,80 @@
+{
+  "id": 1292898421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.67354,32.74247,61.67354,32.74247",
+    "geom:latitude":32.74247,
+    "geom:longitude":61.67354,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2107",
+    "gn:asciiname":"Hukumati",
+    "gn:country_code":"AF",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139965,
+    "gn:latitude":32.74247,
+    "gn:longitude":61.67354,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28uk\u016bmat\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28uk\u016bmat\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u06a9\u0648\u0645\u062a\u06cc",
+        "\u1e28ok\u016bmat\u012b"
+    ],
+    "name:und_x_variant":[
+        "H\u0331ok\u016bmati",
+        "\u1e28ok\u016bmat\u012b",
+        "\u062d\u06a9\u0648\u0645\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139965
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43a81da0a08c4ee5e6a3d7462df24050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561801,
+            "locality_id":1292898421,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1292898421,
+    "wof:lastmodified":1537581620,
+    "wof:name":"Hukumati",
+    "wof:parent_id":1108561801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.67354,
+    32.74247,
+    61.67354,
+    32.74247
+],
+  "geometry": {"coordinates":[61.67354,32.74247],"type":"Point"}
+}

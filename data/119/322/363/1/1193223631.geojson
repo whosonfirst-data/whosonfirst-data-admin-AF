@@ -1,0 +1,74 @@
+{
+  "id": 1193223631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25626,36.14655,68.25626,36.14655",
+    "geom:latitude":36.14655,
+    "geom:longitude":68.25626,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Sanduqchah",
+    "gn:country_code":"AF",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127712,
+    "gn:latitude":36.14655,
+    "gn:longitude":68.25626,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eand\u016bqchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San\u1e0fuqca",
+        "Sand\u016bqch\u0101h",
+        "\u015eand\u016bqchah",
+        "\u0635\u0646\u062f\u0648\u0642\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127712
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89851dbe54c7301f611398971cd85770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1193223631,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1193223631,
+    "wof:lastmodified":1537580573,
+    "wof:name":"Sanduqchah",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25626,
+    36.14655,
+    68.25626,
+    36.14655
+],
+  "geometry": {"coordinates":[68.25626,36.14655],"type":"Point"}
+}

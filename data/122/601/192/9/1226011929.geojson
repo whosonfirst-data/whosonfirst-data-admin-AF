@@ -1,0 +1,74 @@
+{
+  "id": 1226011929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.04568,35.9503,70.04568,35.9503",
+    "geom:latitude":35.9503,
+    "geom:longitude":70.04568,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205.0",
+    "gn:asciiname":"Aspogh",
+    "gn:country_code":"AF",
+    "gn:dem":2908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148187,
+    "gn:latitude":35.9503,
+    "gn:longitude":70.04568,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Asp\u014dgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asp\u014dgh",
+        "Aspog",
+        "Asp\u016bgh",
+        "\u0627\u0633\u067e\u0648\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148187
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da08236f480f03bb634d69841769e576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1226011929,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1226011929,
+    "wof:lastmodified":1537582325,
+    "wof:name":"Aspogh",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.04568,
+    35.9503,
+    70.04568,
+    35.9503
+],
+  "geometry": {"coordinates":[70.04568,35.9503],"type":"Point"}
+}

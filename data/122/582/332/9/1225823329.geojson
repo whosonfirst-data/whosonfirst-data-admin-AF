@@ -1,0 +1,74 @@
+{
+  "id": 1225823329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.73833,34.33446,63.73833,34.33446",
+    "geom:latitude":34.33446,
+    "geom:longitude":63.73833,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Yak Pahlu",
+    "gn:country_code":"AF",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471351,
+    "gn:latitude":34.33446,
+    "gn:longitude":63.73833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yak Pahl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakpahlu",
+        "Yek Pahl\u016b",
+        "Yak Pahl\u016b",
+        "\u06cc\u06a9 \u067e\u0647\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471351
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8b8af18d78368cff1f9b7a0970f0c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1225823329,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1225823329,
+    "wof:lastmodified":1537583650,
+    "wof:name":"Yak Pahlu",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.73833000000001,
+    34.33446,
+    63.73833000000001,
+    34.33446
+],
+  "geometry": {"coordinates":[63.73833000000001,34.33446],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243504637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31757,36.37965,67.31757,36.37965",
+    "geom:latitude":36.37965,
+    "geom:longitude":67.31757,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611",
+    "gn:asciiname":"Urazayli",
+    "gn:country_code":"AF",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121939,
+    "gn:latitude":36.37965,
+    "gn:longitude":67.31757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Urazayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urazaili",
+        "Urazayl\u012b",
+        "\u0627\u0631\u0632\u06cc\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fbb2908800e9a8eb57a4f18ecba0437b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1243504637,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243504637,
+    "wof:lastmodified":1537580074,
+    "wof:name":"Urazayli",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31756999999999,
+    36.37965,
+    67.31756999999999,
+    36.37965
+],
+  "geometry": {"coordinates":[67.31756999999999,36.37965],"type":"Point"}
+}

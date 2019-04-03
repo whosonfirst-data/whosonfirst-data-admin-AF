@@ -1,0 +1,72 @@
+{
+  "id": 1226799393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04072,36.05314,67.04072,36.05314",
+    "geom:latitude":36.05314,
+    "geom:longitude":67.04072,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Khargani",
+    "gn:country_code":"AF",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136991,
+    "gn:latitude":36.05314,
+    "gn:longitude":67.04072,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khargan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khargan\u012b",
+        "\u062e\u0631\u06af\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136991
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"858319274c16e31b0112947e29296ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1226799393,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1226799393,
+    "wof:lastmodified":1537581385,
+    "wof:name":"Khargani",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04072,
+    36.05314,
+    67.04072,
+    36.05314
+],
+  "geometry": {"coordinates":[67.04071999999999,36.05314],"type":"Point"}
+}

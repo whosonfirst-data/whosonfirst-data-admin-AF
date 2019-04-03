@@ -1,0 +1,74 @@
+{
+  "id": 1310094339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04663,32.1328,65.04663,32.1328",
+    "geom:latitude":32.1328,
+    "geom:longitude":65.04663,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Zar'alay",
+    "gn:country_code":"AF",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474861,
+    "gn:latitude":32.1328,
+    "gn:longitude":65.04663,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zar\u2018alay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaralay",
+        "Zar\u2018alay",
+        "\u0632\u0631\u0639\u0644\u06cc",
+        "Za\u1e5f\u2018alay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474861
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37df97102afe04aeb2dd5a7bce124ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1310094339,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1310094339,
+    "wof:lastmodified":1537583830,
+    "wof:name":"Zar'alay",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04663000000001,
+    32.1328,
+    65.04663000000001,
+    32.1328
+],
+  "geometry": {"coordinates":[65.04663000000001,32.1328],"type":"Point"}
+}

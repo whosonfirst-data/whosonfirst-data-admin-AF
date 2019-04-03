@@ -1,0 +1,81 @@
+{
+  "id": 1225819151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60381,35.08609,69.60381,35.08609",
+    "geom:latitude":35.08609,
+    "geom:longitude":69.60381,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Naysar",
+    "gn:country_code":"AF",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429466,
+    "gn:latitude":35.08609,
+    "gn:longitude":69.60381,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naysar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064a\u0633\u0627\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Nesar",
+        "N\u0113sa\u1e5f",
+        "Neys\u0101r",
+        "Naysar",
+        "\u0646\u06cc\u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429466
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34967b2fd88ec126723186cf8f55c582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1225819151,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1225819151,
+    "wof:lastmodified":1537582672,
+    "wof:name":"Naysar",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60381,
+    35.08609000000001,
+    69.60381,
+    35.08609000000001
+],
+  "geometry": {"coordinates":[69.60381,35.08609000000001],"type":"Point"}
+}

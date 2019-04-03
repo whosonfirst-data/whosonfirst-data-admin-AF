@@ -1,0 +1,73 @@
+{
+  "id": 1326568461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35596,35.20217,70.35596,35.20217",
+    "geom:latitude":35.20217,
+    "geom:longitude":70.35596,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Alumari",
+    "gn:country_code":"AF",
+    "gn:dem":1915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148844,
+    "gn:latitude":35.20217,
+    "gn:longitude":70.35596,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alumar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u0644\u0645\u0631\u06cc",
+        "Alomari",
+        "Alumar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148844
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3df024573e1a33b414e478a5232a3608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561991,
+            "locality_id":1326568461,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1326568461,
+    "wof:lastmodified":1537582369,
+    "wof:name":"Alumari",
+    "wof:parent_id":1108561991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35596,
+    35.20217,
+    70.35596,
+    35.20217
+],
+  "geometry": {"coordinates":[70.35596,35.20217],"type":"Point"}
+}

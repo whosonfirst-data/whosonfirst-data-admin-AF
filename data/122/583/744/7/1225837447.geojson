@@ -1,0 +1,74 @@
+{
+  "id": 1225837447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.4477,32.63696,62.4477,32.63696",
+    "geom:latitude":32.63696,
+    "geom:longitude":62.4477,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2105.0",
+    "gn:asciiname":"Khwajahan",
+    "gn:country_code":"AF",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454388,
+    "gn:latitude":32.63696,
+    "gn:longitude":62.4477,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzhakhan",
+        "Khv\u0101jeh\u0101n",
+        "Khw\u0101jah\u0101n",
+        "\u062e\u0648\u0627\u062c\u0647\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454388
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d49ce21423a79613ccbed472a5d8acbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1225837447,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1225837447,
+    "wof:lastmodified":1537583119,
+    "wof:name":"Khwajahan",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.4477,
+    32.63695999999999,
+    62.4477,
+    32.63695999999999
+],
+  "geometry": {"coordinates":[62.4477,32.63695999999999],"type":"Point"}
+}

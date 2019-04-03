@@ -1,0 +1,77 @@
+{
+  "id": 1226591373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07321,32.0075,67.07321,32.0075",
+    "geom:latitude":32.0075,
+    "geom:longitude":67.07321,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Ghulam Dastagir",
+    "gn:country_code":"AF",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439271,
+    "gn:latitude":32.0075,
+    "gn:longitude":67.07321,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghul\u0101m Dastag\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0627\u0645 \u062f\u0633\u062a\u06af\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gulyamdashtagir",
+        "Ghul\u0101m Dastag\u012br",
+        "\u063a\u0644\u0627\u0645 \u062f\u0633\u062a\u06af\u06cc\u0631",
+        "Ghol\u0101m Dastag\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439271
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf9778a7c2f910c68a255695c567804d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1226591373,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226591373,
+    "wof:lastmodified":1537582926,
+    "wof:name":"Ghulam Dastagir",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07321,
+    32.0075,
+    67.07321,
+    32.0075
+],
+  "geometry": {"coordinates":[67.07321,32.0075],"type":"Point"}
+}

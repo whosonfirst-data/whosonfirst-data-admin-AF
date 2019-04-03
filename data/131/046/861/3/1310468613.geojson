@@ -1,0 +1,77 @@
+{
+  "id": 1310468613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20569,34.7162,68.20569,34.7162",
+    "geom:latitude":34.7162,
+    "geom:longitude":68.20569,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Shah Qol",
+    "gn:country_code":"AF",
+    "gn:dem":3280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125907,
+    "gn:latitude":34.7162,
+    "gn:longitude":68.20569,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shakhkul\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101hqol",
+        "Sh\u0101h Q\u014dl",
+        "Sh\u0101hqowl",
+        "\u0634\u0627\u0647 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125907
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f11b934971c76e4bbe2113721311e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1310468613,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310468613,
+    "wof:lastmodified":1537580426,
+    "wof:name":"Shah Qol",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20569,
+    34.7162,
+    68.20569,
+    34.7162
+],
+  "geometry": {"coordinates":[68.20569,34.7162],"type":"Point"}
+}

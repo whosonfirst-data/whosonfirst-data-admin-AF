@@ -1,0 +1,75 @@
+{
+  "id": 1259705755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.86873,32.27315,61.86873,32.27315",
+    "geom:latitude":32.27315,
+    "geom:longitude":61.86873,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Karez-e 'Azim",
+    "gn:country_code":"AF",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138027,
+    "gn:latitude":32.27315,
+    "gn:longitude":61.86873,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e \u2018Az\u0327\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101r\u012bz-e A\u2019zam",
+        "K\u0101r\u0113ze \u2019A\u1e95im",
+        "K\u0101r\u012bz-e \u2018Az\u0327\u012bm",
+        "K\u0101r\u0113z-e \u2018Az\u0327\u012bm",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0639\u0638\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b425c9c81e9108847c97cece117d0569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1259705755,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1259705755,
+    "wof:lastmodified":1537581471,
+    "wof:name":"Karez-e 'Azim",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.86873000000001,
+    32.27315,
+    61.86873000000001,
+    32.27315
+],
+  "geometry": {"coordinates":[61.86873000000001,32.27315],"type":"Point"}
+}

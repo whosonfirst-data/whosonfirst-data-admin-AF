@@ -1,0 +1,74 @@
+{
+  "id": 1293592121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.12237,35.06429,64.12237,35.06429",
+    "geom:latitude":35.06429,
+    "geom:longitude":64.12237,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Ismiyah",
+    "gn:country_code":"AF",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142387,
+    "gn:latitude":35.06429,
+    "gn:longitude":64.12237,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ism\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esmiya",
+        "Esm\u012byeh",
+        "Ism\u012byah",
+        "\u0627\u0633\u0645\u064a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142387
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8eff3dfb4c6be97d2e4c42e9ca14b6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1293592121,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293592121,
+    "wof:lastmodified":1537581823,
+    "wof:name":"Ismiyah",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.12236999999999,
+    35.06429,
+    64.12236999999999,
+    35.06429
+],
+  "geometry": {"coordinates":[64.12236999999999,35.06429],"type":"Point"}
+}

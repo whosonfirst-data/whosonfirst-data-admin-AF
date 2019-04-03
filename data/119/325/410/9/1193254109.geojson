@@ -1,0 +1,78 @@
+{
+  "id": 1193254109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57681,34.00036,70.57681,34.00036",
+    "geom:latitude":34.00036,
+    "geom:longitude":70.57681,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Bamat Kandow",
+    "gn:country_code":"AF",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476428,
+    "gn:latitude":34.00036,
+    "gn:longitude":70.57681,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101ma\u1e6f Kan\u1e0fow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u062a\u0644\u0654\u0654 \u0628\u0627\u0645\u062a"
+    ],
+    "name:und_x_variant":[
+        "Bamatkandav",
+        "B\u0101mat Kan\u1e0fow",
+        "B\u0101mat Kandaw",
+        "B\u0101ma\u1e6f Kan\u1e0fow",
+        "\u0628\u0627\u0645\u067c \u06a9\u0646\u0689\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476428
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d97a21f106f899ec149f2455c7acf6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1193254109,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1193254109,
+    "wof:lastmodified":1537583849,
+    "wof:name":"Bamat Kandow",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57681,
+    34.00036,
+    70.57681,
+    34.00036
+],
+  "geometry": {"coordinates":[70.57680999999999,34.00036],"type":"Point"}
+}

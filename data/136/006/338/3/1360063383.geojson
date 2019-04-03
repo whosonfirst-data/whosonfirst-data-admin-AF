@@ -1,0 +1,77 @@
+{
+  "id": 1360063383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.37397,34.94452,62.37397,34.94452",
+    "geom:latitude":34.94452,
+    "geom:longitude":62.37397,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Dahan-e Shoraw",
+    "gn:country_code":"AF",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144386,
+    "gn:latitude":34.94452,
+    "gn:longitude":62.37397,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e Sh\u014dr\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahan-e Sh\u016br\u0101b",
+        "Dahan-e Sh\u016braw",
+        "Dahan-i-\u0160oraw",
+        "Dakhani-Shorav",
+        "Dah\u0101n-e Sh\u014dr\u0101w",
+        "\u062f\u0647\u0627\u0646 \u0634\u0648\u0631\u0627\u0648",
+        "Dahan-e Sh\u016brow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144386
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cfa7cd97bf217db3c3d06fd2c8f6dc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1360063383,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1360063383,
+    "wof:lastmodified":1537581996,
+    "wof:name":"Dahan-e Shoraw",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.37396999999999,
+    34.94452,
+    62.37396999999999,
+    34.94452
+],
+  "geometry": {"coordinates":[62.37396999999999,34.94452],"type":"Point"}
+}

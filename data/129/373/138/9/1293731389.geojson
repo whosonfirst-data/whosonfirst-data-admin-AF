@@ -1,0 +1,72 @@
+{
+  "id": 1293731389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64901,32.48809,67.64901,32.48809",
+    "geom:latitude":32.48809,
+    "geom:longitude":67.64901,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511",
+    "gn:asciiname":"Nakhil",
+    "gn:country_code":"AF",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132453,
+    "gn:latitude":32.48809,
+    "gn:longitude":67.64901,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101kh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101kh\u012bl",
+        "\u0646\u0627\u062e\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d933542b769ac2211576c7622d8b435f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1293731389,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293731389,
+    "wof:lastmodified":1537581008,
+    "wof:name":"Nakhil",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64901,
+    32.48809,
+    67.64901,
+    32.48809
+],
+  "geometry": {"coordinates":[67.64901,32.48809],"type":"Point"}
+}

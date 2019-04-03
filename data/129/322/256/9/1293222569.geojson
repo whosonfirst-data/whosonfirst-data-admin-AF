@@ -1,0 +1,81 @@
+{
+  "id": 1293222569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.46765,32.28052,62.46765,32.28052",
+    "geom:latitude":32.28052,
+    "geom:longitude":62.46765,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2101",
+    "gn:asciiname":"Khurmaliq",
+    "gn:country_code":"AF",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136558,
+    "gn:latitude":32.28052,
+    "gn:longitude":62.46765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khurm\u0101liq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karezi-Kalan",
+        "Khurmalik",
+        "K\u0101\u1e5f\u0113ze Kal\u0101n",
+        "Khu\u1e5fm\u0101leq",
+        "Kh\u016brmalik",
+        "Khermalik",
+        "Khorm\u0101leq",
+        "Khurm\u0101liq",
+        "\u062e\u0631\u0645\u0627\u0644\u0642",
+        "K\u0101r\u0113z-e Kal\u0101n",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u06a9\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136558
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"40ed5b26dd63777967e9e994d105fae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1293222569,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293222569,
+    "wof:lastmodified":1537581350,
+    "wof:name":"Khurmaliq",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.46765,
+    32.28052,
+    62.46765,
+    32.28052
+],
+  "geometry": {"coordinates":[62.46765,32.28052],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1360146101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50764,32.17206,66.50764,32.17206",
+    "geom:latitude":32.17206,
+    "geom:longitude":66.50764,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Bayanzai",
+    "gn:country_code":"AF",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146745,
+    "gn:latitude":32.17206,
+    "gn:longitude":66.50764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bay\u0101nza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0627\u0646\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Bay\u0101nzay",
+        "Bay\u0101nza\u012b",
+        "\u0628\u06cc\u0627\u0646\u0632\u06cc",
+        "\u0628\u064a\u0627\u0646\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146745
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b68cc3c43d727979a5c93159a49d8a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1360146101,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1360146101,
+    "wof:lastmodified":1537582210,
+    "wof:name":"Bayanzai",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50764000000001,
+    32.17205999999999,
+    66.50764000000001,
+    32.17205999999999
+],
+  "geometry": {"coordinates":[66.50764000000001,32.17205999999999],"type":"Point"}
+}

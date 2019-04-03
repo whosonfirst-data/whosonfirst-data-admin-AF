@@ -1,0 +1,68 @@
+{
+  "id": 1209090697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.35789,33.60136,64.35789,33.60136",
+    "geom:latitude":33.60136,
+    "geom:longitude":64.35789,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Barmah",
+    "gn:country_code":"AF",
+    "gn:dem":2535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146880,
+    "gn:latitude":33.60136,
+    "gn:longitude":64.35789,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barma",
+        "Barmah",
+        "\u0628\u0631\u0645\u0647",
+        "Barm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4445fc8d41bc82db376755445f02e13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209090697
+        }
+    ],
+    "wof:id":1209090697,
+    "wof:lastmodified":1537582220,
+    "wof:name":"Barmah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.35789,
+    33.60136,
+    64.35789,
+    33.60136
+],
+  "geometry": {"coordinates":[64.35789,33.60136],"type":"Point"}
+}

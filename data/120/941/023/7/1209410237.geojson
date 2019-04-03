@@ -1,0 +1,69 @@
+{
+  "id": 1209410237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.62579,32.0845,64.62579,32.0845",
+    "geom:latitude":32.0845,
+    "geom:longitude":64.62579,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Chak Aw",
+    "gn:country_code":"AF",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145644,
+    "gn:latitude":32.0845,
+    "gn:longitude":64.62579,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chak \u0100w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cak\u0101w",
+        "Chakav",
+        "Chak \u0100w",
+        "\u0686\u06a9 \u0622\u0648",
+        "Chak\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145644
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ecaac114a8621e545df60e89e5925ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209410237
+        }
+    ],
+    "wof:id":1209410237,
+    "wof:lastmodified":1537582120,
+    "wof:name":"Chak Aw",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.62579000000001,
+    32.0845,
+    64.62579000000001,
+    32.0845
+],
+  "geometry": {"coordinates":[64.62579000000001,32.0845],"type":"Point"}
+}

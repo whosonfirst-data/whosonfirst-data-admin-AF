@@ -1,0 +1,73 @@
+{
+  "id": 1276173237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16652,35.63047,67.16652,35.63047",
+    "geom:latitude":35.63047,
+    "geom:longitude":67.16652,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Qobi",
+    "gn:country_code":"AF",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129015,
+    "gn:latitude":35.63047,
+    "gn:longitude":67.16652,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qob\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qob\u012b",
+        "\u0642\u0628\u06cc",
+        "Qobi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129015
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9d21fccbd9286c1aee56e98f0182b8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1276173237,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276173237,
+    "wof:lastmodified":1537580675,
+    "wof:name":"Qobi",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16651999999999,
+    35.63047,
+    67.16651999999999,
+    35.63047
+],
+  "geometry": {"coordinates":[67.16651999999999,35.63047],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226241591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72333,34.57861,66.72333,34.57861",
+    "geom:latitude":34.57861,
+    "geom:longitude":66.72333,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Awtu",
+    "gn:country_code":"AF",
+    "gn:dem":3345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147949,
+    "gn:latitude":34.57861,
+    "gn:longitude":66.72333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Autu",
+        "Awtu",
+        "\u0100btu",
+        "\u0100bt\u016b",
+        "Awt\u016b",
+        "\u0627\u0648\u062a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147949
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bdd844cdeff92bf4adf0f379d6667e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1226241591,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226241591,
+    "wof:lastmodified":1537582307,
+    "wof:name":"Awtu",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72333,
+    34.57861,
+    66.72333,
+    34.57861
+],
+  "geometry": {"coordinates":[66.72333,34.57861],"type":"Point"}
+}

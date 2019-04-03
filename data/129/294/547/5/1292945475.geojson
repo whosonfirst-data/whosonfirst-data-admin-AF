@@ -1,0 +1,72 @@
+{
+  "id": 1292945475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25808,34.50981,70.25808,34.50981",
+    "geom:latitude":34.50981,
+    "geom:longitude":70.25808,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Shiratabad",
+    "gn:country_code":"AF",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564009,
+    "gn:latitude":34.50981,
+    "gn:longitude":70.25808,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012brat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u012brat\u0101b\u0101d",
+        "\u0634\u06cc\u0631\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564009
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf0dc3d671671023626bfa81a483760c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1292945475,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1292945475,
+    "wof:lastmodified":1537583934,
+    "wof:name":"Shiratabad",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25808,
+    34.50980999999999,
+    70.25808,
+    34.50980999999999
+],
+  "geometry": {"coordinates":[70.25808000000001,34.50980999999999],"type":"Point"}
+}

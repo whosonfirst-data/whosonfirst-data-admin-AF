@@ -1,0 +1,66 @@
+{
+  "id": 1209682409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.05138,34.29004,68.05138,34.29004",
+    "geom:latitude":34.29004,
+    "geom:longitude":68.05138,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Ramzi",
+    "gn:country_code":"AF",
+    "gn:dem":2769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128554,
+    "gn:latitude":34.29004,
+    "gn:longitude":68.05138,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ramz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramz\u012b",
+        "\u0631\u0645\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128554
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cb00c53cd609fe873f6ca675f0c9db9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209682409
+        }
+    ],
+    "wof:id":1209682409,
+    "wof:lastmodified":1537580635,
+    "wof:name":"Ramzi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.05138000000001,
+    34.29004,
+    68.05138000000001,
+    34.29004
+],
+  "geometry": {"coordinates":[68.05138000000001,34.29004],"type":"Point"}
+}

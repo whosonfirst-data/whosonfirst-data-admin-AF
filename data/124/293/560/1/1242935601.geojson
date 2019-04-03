@@ -1,0 +1,72 @@
+{
+  "id": 1242935601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.91917,31.08083,61.91917,31.08083",
+    "geom:latitude":31.08083,
+    "geom:longitude":61.91917,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Deh-e 'Alam Bardar",
+    "gn:country_code":"AF",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436300,
+    "gn:latitude":31.08083,
+    "gn:longitude":61.91917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e \u2018Alam Bard\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh-e \u2018Alam Bard\u0101r",
+        "Deh-e \u2018Alambard\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb3ed230fef8b97080b1c15a37af1274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1242935601,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1242935601,
+    "wof:lastmodified":1537582816,
+    "wof:name":"Deh-e 'Alam Bardar",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.91917,
+    31.08083,
+    61.91917,
+    31.08083
+],
+  "geometry": {"coordinates":[61.91917,31.08083],"type":"Point"}
+}

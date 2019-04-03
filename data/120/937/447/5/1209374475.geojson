@@ -1,0 +1,66 @@
+{
+  "id": 1209374475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30304,35.89387,68.30304,35.89387",
+    "geom:latitude":35.89387,
+    "geom:longitude":68.30304,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Zowara",
+    "gn:country_code":"AF",
+    "gn:dem":2470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519953,
+    "gn:latitude":35.89387,
+    "gn:longitude":68.30304,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zow\u0101r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zow\u0101r\u0101",
+        "\u0632\u0648\u0627\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a4d832127b8c2aed2b09f20f00e1b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209374475
+        }
+    ],
+    "wof:id":1209374475,
+    "wof:lastmodified":1537583923,
+    "wof:name":"Zowara",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30304,
+    35.89387,
+    68.30304,
+    35.89387
+],
+  "geometry": {"coordinates":[68.30304,35.89387],"type":"Point"}
+}

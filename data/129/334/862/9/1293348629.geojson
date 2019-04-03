@@ -1,0 +1,78 @@
+{
+  "id": 1293348629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.27479,31.49846,65.27479,31.49846",
+    "geom:latitude":31.49846,
+    "geom:longitude":65.27479,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416",
+    "gn:asciiname":"Tari Karez",
+    "gn:country_code":"AF",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122751,
+    "gn:latitude":31.49846,
+    "gn:longitude":65.27479,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101r\u012b K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632\u0654 \u062a\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tarikarez",
+        "T\u0101\u1e5fi K\u0101\u1e5f\u0113z",
+        "T\u0101r\u012b K\u0101r\u0113z",
+        "\u062a\u0627\u0631\u06cc \u06a9\u0627\u0631\u06d0\u0632",
+        "T\u0101r\u012b K\u0101r\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122751
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3fdcec76d136c31221cd4a2b9a7ab0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1293348629,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293348629,
+    "wof:lastmodified":1537580183,
+    "wof:name":"Tari Karez",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.27479,
+    31.49846,
+    65.27479,
+    31.49846
+],
+  "geometry": {"coordinates":[65.27479,31.49846],"type":"Point"}
+}

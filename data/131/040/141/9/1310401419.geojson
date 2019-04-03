@@ -1,0 +1,74 @@
+{
+  "id": 1310401419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1052,34.53285,66.1052,34.53285",
+    "geom:latitude":34.53285,
+    "geom:longitude":66.1052,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Munar",
+    "gn:country_code":"AF",
+    "gn:dem":2900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456766,
+    "gn:latitude":34.53285,
+    "gn:longitude":66.1052,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mun\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mon\u0101\u1e5f",
+        "Men\u0101r",
+        "Mun\u0101r",
+        "\u0645\u0646\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456766
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b2ebcedfb473f535effa5156b6b0cec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1310401419,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310401419,
+    "wof:lastmodified":1537583197,
+    "wof:name":"Munar",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1052,
+    34.53285,
+    66.1052,
+    34.53285
+],
+  "geometry": {"coordinates":[66.1052,34.53285],"type":"Point"}
+}

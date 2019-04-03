@@ -1,0 +1,77 @@
+{
+  "id": 1276492263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64284,35.80825,66.64284,35.80825",
+    "geom:latitude":35.80825,
+    "geom:longitude":66.64284,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Bakhtgan-e Bala",
+    "gn:country_code":"AF",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147406,
+    "gn:latitude":35.80825,
+    "gn:longitude":66.64284,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bakhtg\u0101n-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kala Bakhtag\u0101n",
+        "Qal\u2018eh Bakhtag\u0101n",
+        "Bakhtg\u0101ne",
+        "Qala Bakhtag\u0101n",
+        "Bakhtag\u0101n",
+        "Bakhtg\u0101n-e B\u0101l\u0101",
+        "\u0628\u062e\u062a\u06af\u0627\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d50d89ba2b8bad5815d8f76771f8a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1276492263,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276492263,
+    "wof:lastmodified":1537582264,
+    "wof:name":"Bakhtgan-e Bala",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64284,
+    35.80825,
+    66.64284,
+    35.80825
+],
+  "geometry": {"coordinates":[66.64284000000001,35.80825],"type":"Point"}
+}

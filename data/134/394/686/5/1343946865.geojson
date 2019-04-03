@@ -1,0 +1,75 @@
+{
+  "id": 1343946865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.70339,32.66409,64.70339,32.66409",
+    "geom:latitude":32.66409,
+    "geom:longitude":64.70339,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304",
+    "gn:asciiname":"Haji Khan Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140347,
+    "gn:latitude":32.66409,
+    "gn:longitude":64.70339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b Kh\u0101n Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101ji Kh\u0101n Mo\u1e29amma\u1e0f",
+        "Khadzhikhan-Mukhammed",
+        "\u1e28\u0101j\u012b Kh\u0101n Mu\u1e29ammad",
+        "\u062d\u0627\u062c\u06cc \u062e\u0627\u0646 \u0645\u062d\u0645\u062f",
+        "\u1e28\u0101jj\u012b Kh\u0101n Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140347
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4b572247ecfc3db47716fdc311721f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1343946865,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343946865,
+    "wof:lastmodified":1537581654,
+    "wof:name":"Haji Khan Muhammad",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.70339,
+    32.66409,
+    64.70339,
+    32.66409
+],
+  "geometry": {"coordinates":[64.70339,32.66409],"type":"Point"}
+}

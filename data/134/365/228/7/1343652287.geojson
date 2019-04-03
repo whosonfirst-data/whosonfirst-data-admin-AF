@@ -1,0 +1,73 @@
+{
+  "id": 1343652287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42793,33.47886,67.42793,33.47886",
+    "geom:latitude":33.47886,
+    "geom:longitude":67.42793,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Razi",
+    "gn:country_code":"AF",
+    "gn:dem":3244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450358,
+    "gn:latitude":33.47886,
+    "gn:longitude":67.42793,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5e\u0101\u1e0f\u1e95i",
+        "R\u0101\u1e95\u012b",
+        "\u0631\u0627\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450358
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00c3882e1d5f2dbddc1d4dc374412189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1343652287,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343652287,
+    "wof:lastmodified":1537583043,
+    "wof:name":"Razi",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42793,
+    33.47886,
+    67.42793,
+    33.47886
+],
+  "geometry": {"coordinates":[67.42793,33.47886],"type":"Point"}
+}

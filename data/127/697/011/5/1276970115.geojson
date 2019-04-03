@@ -1,0 +1,79 @@
+{
+  "id": 1276970115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.2764,33.01774,68.2764,33.01774",
+    "geom:latitude":33.01774,
+    "geom:longitude":68.2764,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Spin Panay",
+    "gn:country_code":"AF",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123852,
+    "gn:latitude":33.01774,
+    "gn:longitude":68.2764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bn P\u0101\u1e49ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u064a\u0646 \u067e\u0627\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Spinpane",
+        "Sp\u012bn P\u0101\u1e49\u0113",
+        "Sp\u012bn P\u0101n\u0113",
+        "Sp\u012bn P\u0101\u1e49ay",
+        "\u0633\u067e\u06cc\u0646 \u067e\u0627\u06bc\u06cc",
+        "\u0633\u067e\u064a\u0646 \u067e\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123852
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7974f9ed8e7ac43edf933f8770c074d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1276970115,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276970115,
+    "wof:lastmodified":1537580255,
+    "wof:name":"Spin Panay",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.2764,
+    33.01774,
+    68.2764,
+    33.01774
+],
+  "geometry": {"coordinates":[68.2764,33.01774],"type":"Point"}
+}

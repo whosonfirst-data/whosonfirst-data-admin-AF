@@ -1,0 +1,73 @@
+{
+  "id": 1226389837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.56418,32.58871,67.56418,32.58871",
+    "geom:latitude":32.58871,
+    "geom:longitude":67.56418,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Ahmad Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435797,
+    "gn:latitude":32.58871,
+    "gn:longitude":67.56418,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u1e29mad Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhmedkala",
+        "A\u1e29mad Kal\u0101",
+        "\u0627\u062d\u0645\u062f \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435797
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"542c379b41f81f5c370e5310479f08a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1226389837,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226389837,
+    "wof:lastmodified":1537582786,
+    "wof:name":"Ahmad Kala",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.56418000000001,
+    32.58871,
+    67.56418000000001,
+    32.58871
+],
+  "geometry": {"coordinates":[67.56418000000001,32.58871],"type":"Point"}
+}

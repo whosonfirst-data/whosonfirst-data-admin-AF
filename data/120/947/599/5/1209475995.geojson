@@ -1,0 +1,77 @@
+{
+  "id": 1209475995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25557,32.39858,69.25557,32.39858",
+    "geom:latitude":32.39858,
+    "geom:longitude":69.25557,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Nazand",
+    "gn:cc2":"PK",
+    "gn:country_code":"AF",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453143,
+    "gn:latitude":32.39858,
+    "gn:longitude":69.25557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nazand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0632\u0627\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "N\u0101zand",
+        "N\u0101z\u0101nd",
+        "\u0646\u0627\u0632\u0627\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453143
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"71493ddc5a2de5f622d6cbd559009601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1209475995,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1209475995,
+    "wof:lastmodified":1543515742,
+    "wof:name":"Nazand",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25556999999999,
+    32.39858,
+    69.25556999999999,
+    32.39858
+],
+  "geometry": {"coordinates":[69.25556999999999,32.39858],"type":"Point"}
+}

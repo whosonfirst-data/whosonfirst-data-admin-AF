@@ -1,0 +1,73 @@
+{
+  "id": 1243545199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47668,32.87357,67.47668,32.87357",
+    "geom:latitude":32.87357,
+    "geom:longitude":67.47668,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Latek Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134690,
+    "gn:latitude":32.87357,
+    "gn:longitude":67.47668,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"La\u1e6f\u0113k K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u1e6f\u0113k K\u00ealay",
+        "\u0644\u067c\u06d0\u06a9 \u06a9\u0644\u06cc",
+        "Lat\u0113k Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134690
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5c84bd0dcca9fd75441be616fb2c24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1243545199,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243545199,
+    "wof:lastmodified":1537581195,
+    "wof:name":"Latek Kelay",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47668,
+    32.87357,
+    67.47668,
+    32.87357
+],
+  "geometry": {"coordinates":[67.47668,32.87357],"type":"Point"}
+}

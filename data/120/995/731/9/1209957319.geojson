@@ -1,0 +1,77 @@
+{
+  "id": 1209957319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23751,34.64119,70.23751,34.64119",
+    "geom:latitude":34.64119,
+    "geom:longitude":70.23751,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Khalah Khel",
+    "gn:country_code":"AF",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474536,
+    "gn:latitude":34.64119,
+    "gn:longitude":70.23751,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101lah Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khalakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101lakh\u0113l",
+        "Kh\u0101lakheyl",
+        "Kh\u0101lah Kh\u0113l",
+        "\u062e\u0627\u0644\u0647 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474536
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"67c627eb04e59cbda01af80966f8991e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1209957319,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1209957319,
+    "wof:lastmodified":1537583815,
+    "wof:name":"Khalah Khel",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23751,
+    34.64119,
+    70.23751,
+    34.64119
+],
+  "geometry": {"coordinates":[70.23751,34.64119],"type":"Point"}
+}

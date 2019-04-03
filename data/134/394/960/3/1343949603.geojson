@@ -1,0 +1,79 @@
+{
+  "id": 1343949603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.31843,35.67759,64.31843,35.67759",
+    "geom:latitude":35.67759,
+    "geom:longitude":64.31843,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1804.0",
+    "gn:asciiname":"Yangi Shaghasi",
+    "gn:country_code":"AF",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424365,
+    "gn:latitude":35.67759,
+    "gn:longitude":64.31843,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yang\u012b Sh\u0101gh\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Yang\u012b Sh\u0101gh\u0101s\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06cc\u0646\u06af\u06cc \u0634\u0627\u063a\u0627\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Yangi S\u0101gh\u0101si",
+        "Yangi Sh\u0101gh\u0101s\u012b",
+        "\u06cc\u0646\u06af\u06cc \u0634\u0627\u063a\u0627\u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424365
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c22c5f6e34c8cc455d68a7924f6772a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1343949603,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1343949603,
+    "wof:lastmodified":1537582608,
+    "wof:name":"Yangi Shaghasi",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.31843,
+    35.67759,
+    64.31843,
+    35.67759
+],
+  "geometry": {"coordinates":[64.31843000000001,35.67759],"type":"Point"}
+}

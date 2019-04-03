@@ -1,0 +1,74 @@
+{
+  "id": 1309966403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86498,36.15654,66.86498,36.15654",
+    "geom:latitude":36.15654,
+    "geom:longitude":66.86498,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Qushim Say",
+    "gn:country_code":"AF",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128934,
+    "gn:latitude":36.15654,
+    "gn:longitude":66.86498,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qushim S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qoshem Sai",
+        "Qoshem S\u0101y",
+        "Qushim S\u0101y",
+        "\u0642\u0634\u0645 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128934
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11d71066c84a1ec0f2fd24ca145932a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1309966403,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1309966403,
+    "wof:lastmodified":1537580668,
+    "wof:name":"Qushim Say",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86498,
+    36.15654,
+    66.86498,
+    36.15654
+],
+  "geometry": {"coordinates":[66.86498,36.15654],"type":"Point"}
+}

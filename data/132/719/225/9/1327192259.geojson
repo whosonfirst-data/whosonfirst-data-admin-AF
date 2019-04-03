@@ -1,0 +1,75 @@
+{
+  "id": 1327192259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.44928,31.5705,65.44928,31.5705",
+    "geom:latitude":31.5705,
+    "geom:longitude":65.44928,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Kalachah",
+    "gn:country_code":"AF",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466955,
+    "gn:latitude":31.5705,
+    "gn:longitude":65.44928,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalacha",
+        "Kal\u0101cha",
+        "Kal\u0101\u010da",
+        "Kal\u0101chah",
+        "\u06a9\u0644\u0627\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"92f7d616cfa4088eb0c80066895c182b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1327192259,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327192259,
+    "wof:lastmodified":1537583447,
+    "wof:name":"Kalachah",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.44928,
+    31.5705,
+    65.44928,
+    31.5705
+],
+  "geometry": {"coordinates":[65.44928,31.5705],"type":"Point"}
+}

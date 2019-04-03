@@ -1,0 +1,74 @@
+{
+  "id": 1343846033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.00053,34.28899,62.00053,34.28899",
+    "geom:latitude":34.28899,
+    "geom:longitude":62.00053,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Chakah",
+    "gn:country_code":"AF",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465548,
+    "gn:latitude":34.28899,
+    "gn:longitude":62.00053,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010caka",
+        "Chaka",
+        "Chakah",
+        "\u0686\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465548
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"098cfe3ab2e129dd4cabb6ce04995092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1343846033,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343846033,
+    "wof:lastmodified":1537583403,
+    "wof:name":"Chakah",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.00053000000001,
+    34.28899000000001,
+    62.00053000000001,
+    34.28899000000001
+],
+  "geometry": {"coordinates":[62.00053000000001,34.28899000000001],"type":"Point"}
+}

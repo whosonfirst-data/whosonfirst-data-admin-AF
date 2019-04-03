@@ -1,0 +1,73 @@
+{
+  "id": 1293638027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.58829,36.03865,65.58829,36.03865",
+    "geom:latitude":36.03865,
+    "geom:longitude":65.58829,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3106",
+    "gn:asciiname":"Aylah Taw",
+    "gn:country_code":"AF",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142575,
+    "gn:latitude":36.03865,
+    "gn:longitude":65.58829,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aylah T\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aylah T\u0101w",
+        "\u0627\u06cc\u0644\u0647 \u062a\u0627\u0648",
+        "Elataw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142575
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ace9892c8b5142c8706b9c26b4de7dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562449,
+            "locality_id":1293638027,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1293638027,
+    "wof:lastmodified":1537581841,
+    "wof:name":"Aylah Taw",
+    "wof:parent_id":1108562449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.58829,
+    36.03865,
+    65.58829,
+    36.03865
+],
+  "geometry": {"coordinates":[65.58829,36.03865],"type":"Point"}
+}

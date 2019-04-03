@@ -1,0 +1,79 @@
+{
+  "id": 1343499583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25216,34.95484,69.25216,34.95484",
+    "geom:latitude":34.95484,
+    "geom:longitude":69.25216,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Jan Qadam",
+    "gn:country_code":"AF",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349625,
+    "gn:latitude":34.95484,
+    "gn:longitude":69.25216,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101n Qadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646 \u0642\u0648\u062f\u0645"
+    ],
+    "name:und_x_variant":[
+        "Dzhankadam",
+        "J\u0101nqa\u1e0fam",
+        "J\u0101nquadam",
+        "J\u0101nqadam",
+        "J\u0101n Qadam",
+        "\u062c\u0627\u0646 \u0642\u062f\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        421187943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349625
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c6668abb68d56716dcd0603b350b5127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187943,
+            "locality_id":1343499583,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343499583,
+    "wof:lastmodified":1537582462,
+    "wof:name":"Jan Qadam",
+    "wof:parent_id":421187943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25216,
+    34.95484,
+    69.25216,
+    34.95484
+],
+  "geometry": {"coordinates":[69.25216,34.95484],"type":"Point"}
+}

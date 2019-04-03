@@ -1,0 +1,74 @@
+{
+  "id": 1277067341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69187,34.10592,67.69187,34.10592",
+    "geom:latitude":34.10592,
+    "geom:longitude":67.69187,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Qabzar",
+    "gn:country_code":"AF",
+    "gn:dem":3315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460425,
+    "gn:latitude":34.10592,
+    "gn:longitude":67.69187,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qabz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabzar",
+        "Q\u0101bz\u0101r",
+        "Qabz\u0101r",
+        "\u0642\u0628\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460425
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eaad34f64a71b707874f4d0f34c4b231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1277067341,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1277067341,
+    "wof:lastmodified":1537583321,
+    "wof:name":"Qabzar",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69187,
+    34.10592,
+    67.69187,
+    34.10592
+],
+  "geometry": {"coordinates":[67.69186999999999,34.10592],"type":"Point"}
+}

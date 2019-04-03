@@ -1,0 +1,75 @@
+{
+  "id": 1310259027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53086,34.08134,68.53086,34.08134",
+    "geom:latitude":34.08134,
+    "geom:longitude":68.53086,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406",
+    "gn:asciiname":"Monkay",
+    "gn:country_code":"AF",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132699,
+    "gn:latitude":34.08134,
+    "gn:longitude":68.53086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u014dnkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u014dnkay",
+        "Monkay",
+        "M\u014dnka\u012b",
+        "Mownkay",
+        "\u0645\u0648\u0646\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132699
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"22e2f61b9dc202d5a0edf37fe1a653ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1310259027,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310259027,
+    "wof:lastmodified":1537581028,
+    "wof:name":"Monkay",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53086,
+    34.08134,
+    68.53086,
+    34.08134
+],
+  "geometry": {"coordinates":[68.53086,34.08134],"type":"Point"}
+}

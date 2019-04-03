@@ -1,0 +1,75 @@
+{
+  "id": 1292896679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51297,33.34502,68.51297,33.34502",
+    "geom:latitude":33.34502,
+    "geom:longitude":68.51297,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Shash Kuhnah",
+    "gn:country_code":"AF",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125315,
+    "gn:latitude":33.34502,
+    "gn:longitude":68.51297,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash Kuhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160a\u0161kuhna",
+        "Shashnukhna",
+        "Shesh Kohneh",
+        "Shash Kuhnah",
+        "\u0634\u0634 \u06a9\u0647\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125315
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5d3e321fb52805e3efece469c798340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1292896679,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1292896679,
+    "wof:lastmodified":1537580378,
+    "wof:name":"Shash Kuhnah",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51297,
+    33.34502,
+    68.51297,
+    33.34502
+],
+  "geometry": {"coordinates":[68.51297,33.34502],"type":"Point"}
+}

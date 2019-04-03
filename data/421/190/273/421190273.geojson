@@ -1,0 +1,79 @@
+{
+  "id": 421190273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.209892,34.67131,70.209892,34.67131",
+    "geom:latitude":34.67131,
+    "geom:longitude":70.209892,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mehtar L\u0101m",
+    "qs:name_adm0":"Afghanistan",
+    "qs:name_adm1":"Laghman",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119353,
+    "qs:woe_adm0":23424739,
+    "qs:woe_id":1926333,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1926333,
+        "qs:id":1119353
+    },
+    "wof:country":"AF",
+    "wof:created":1459009652,
+    "wof:geomhash":"9fe92e15b9859d2b36bda413f57217cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":421190273,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":421190273,
+    "wof:lastmodified":1534379076,
+    "wof:name":"Mehtar L\u0101m",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[
+        890443555
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.209892,
+    34.67131,
+    70.209892,
+    34.67131
+],
+  "geometry": {"coordinates":[70.209892,34.67131],"type":"Point"}
+}

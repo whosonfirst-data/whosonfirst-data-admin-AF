@@ -1,0 +1,72 @@
+{
+  "id": 1193017663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33866,35.39726,68.33866,35.39726",
+    "geom:latitude":35.39726,
+    "geom:longitude":68.33866,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Angar",
+    "gn:country_code":"AF",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148653,
+    "gn:latitude":35.39726,
+    "gn:longitude":68.33866,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ang\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ang\u0101r",
+        "\u0627\u0646\u06af\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148653
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"030dcff206af7a15a78e0f7aae7b0a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1193017663,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1193017663,
+    "wof:lastmodified":1537582354,
+    "wof:name":"Angar",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33866,
+    35.39726,
+    68.33866,
+    35.39726
+],
+  "geometry": {"coordinates":[68.33866,35.39726],"type":"Point"}
+}

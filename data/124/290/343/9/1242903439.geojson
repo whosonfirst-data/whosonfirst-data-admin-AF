@@ -1,0 +1,81 @@
+{
+  "id": 1242903439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51002,35.3028,69.51002,35.3028",
+    "geom:latitude":35.3028,
+    "geom:longitude":69.51002,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3301",
+    "gn:asciiname":"Torkhah",
+    "gn:country_code":"AF",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122324,
+    "gn:latitude":35.3028,
+    "gn:longitude":69.51002,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014drkhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u062e\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "To\u1e5fkha",
+        "Turkha",
+        "Torkhah",
+        "T\u014drkhah",
+        "\u062a\u0648\u0631\u062e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122324
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c2e7ffe6e8dab7ca53185fbb78a62c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561867,
+            "locality_id":1242903439,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1242903439,
+    "wof:lastmodified":1537580105,
+    "wof:name":"Torkhah",
+    "wof:parent_id":1108561867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51002,
+    35.3028,
+    69.51002,
+    35.3028
+],
+  "geometry": {"coordinates":[69.51002,35.3028],"type":"Point"}
+}

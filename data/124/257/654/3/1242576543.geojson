@@ -1,0 +1,75 @@
+{
+  "id": 1242576543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.89151,34.67062,66.89151,34.67062",
+    "geom:latitude":34.67062,
+    "geom:longitude":66.89151,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Arg-e Zari",
+    "gn:country_code":"AF",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148403,
+    "gn:latitude":34.67062,
+    "gn:longitude":66.89151,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arg-e Z\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101ri",
+        "Argi-Zari",
+        "Arg-e Z\u0101r\u012b",
+        "\u0627\u0631\u06a9 \u0632\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148403,
+        "wk:page":"Arg-e_Zari"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"88e2e47867de1ded90825a5701d2d671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1242576543,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1242576543,
+    "wof:lastmodified":1537582338,
+    "wof:name":"Arg-e Zari",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.89151,
+    34.67062,
+    66.89151,
+    34.67062
+],
+  "geometry": {"coordinates":[66.89151,34.67062],"type":"Point"}
+}

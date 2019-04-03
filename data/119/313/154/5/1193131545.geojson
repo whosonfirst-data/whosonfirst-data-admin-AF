@@ -1,0 +1,74 @@
+{
+  "id": 1193131545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93516,35.86407,64.93516,35.86407",
+    "geom:latitude":35.86407,
+    "geom:longitude":64.93516,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Buchah",
+    "gn:country_code":"AF",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146229,
+    "gn:latitude":35.86407,
+    "gn:longitude":64.93516,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bca",
+        "B\u016bcha",
+        "B\u016bchah",
+        "\u0628\u0648\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86cde2df4280ea58c33a50f991943440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1193131545,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1193131545,
+    "wof:lastmodified":1537582165,
+    "wof:name":"Buchah",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93516,
+    35.86407,
+    64.93516,
+    35.86407
+],
+  "geometry": {"coordinates":[64.93516,35.86407],"type":"Point"}
+}

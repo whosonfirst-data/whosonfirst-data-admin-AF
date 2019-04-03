@@ -1,0 +1,74 @@
+{
+  "id": 1243277733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.50221,38.06822,70.50221,38.06822",
+    "geom:latitude":38.06822,
+    "geom:longitude":70.50221,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Shipun",
+    "gn:country_code":"AF",
+    "gn:dem":2210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466182,
+    "gn:latitude":38.06822,
+    "gn:longitude":70.50221,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ship\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ip\u016bn",
+        "Shipown",
+        "Ship\u016bn",
+        "\u0634\u067e\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466182
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f30c7664b7681a5919b1a3eb34a635bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1243277733,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243277733,
+    "wof:lastmodified":1537583415,
+    "wof:name":"Shipun",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.50220999999998,
+    38.06822,
+    70.50220999999998,
+    38.06822
+],
+  "geometry": {"coordinates":[70.50220999999998,38.06822],"type":"Point"}
+}

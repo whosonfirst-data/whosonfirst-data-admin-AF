@@ -1,0 +1,73 @@
+{
+  "id": 1310403139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.49719,31.59447,61.49719,31.59447",
+    "geom:latitude":31.59447,
+    "geom:longitude":61.49719,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2109.0",
+    "gn:asciiname":"Dahanah Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144565,
+    "gn:latitude":31.59447,
+    "gn:longitude":61.49719,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101nah Gh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dah\u0101nah Gh\u0101r",
+        "\u062f\u0627\u0647\u0646\u0647 \u063a\u0627\u0631",
+        "Dah\u0101neh Gh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144565
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"14251da340ee0fce9e75b2c3fc2553fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1310403139,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1310403139,
+    "wof:lastmodified":1537582017,
+    "wof:name":"Dahanah Ghar",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.49719,
+    31.59447,
+    61.49719,
+    31.59447
+],
+  "geometry": {"coordinates":[61.49719,31.59447],"type":"Point"}
+}

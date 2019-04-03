@@ -1,0 +1,75 @@
+{
+  "id": 1260102855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6768,34.99892,67.6768,34.99892",
+    "geom:latitude":34.99892,
+    "geom:longitude":67.6768,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2807.0",
+    "gn:asciiname":"Qatarsum",
+    "gn:country_code":"AF",
+    "gn:dem":2923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457489,
+    "gn:latitude":34.99892,
+    "gn:longitude":67.6768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qa\u0163\u0101rsum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e6f\u0101\u1e5fsum",
+        "Katarsum",
+        "Qa\u0163\u0101rsom",
+        "Qa\u0163\u0101rsum",
+        "\u0642\u0637\u0627\u0631\u0633\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457489
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"06b5b53f2f5b9cc227855faee6bf5795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562447,
+            "locality_id":1260102855,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1260102855,
+    "wof:lastmodified":1537583228,
+    "wof:name":"Qatarsum",
+    "wof:parent_id":1108562447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6768,
+    34.99892,
+    67.6768,
+    34.99892
+],
+  "geometry": {"coordinates":[67.6768,34.99892],"type":"Point"}
+}

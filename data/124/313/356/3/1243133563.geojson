@@ -1,0 +1,78 @@
+{
+  "id": 1243133563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47006,32.19851,66.47006,32.19851",
+    "geom:latitude":32.19851,
+    "geom:longitude":66.47006,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Tukhi Silam",
+    "gn:country_code":"AF",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122287,
+    "gn:latitude":32.19851,
+    "gn:longitude":66.47006,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u016bkh\u012b Silam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sehan",
+        "Tukhisilam",
+        "Sehlum",
+        "T\u016bkhi Selam",
+        "Sal\u012bm",
+        "T\u016bkh\u012b Silam",
+        "\u062a\u0648\u062e\u06cc \u0633\u0644\u0645",
+        "Towkh\u012b Selam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122287
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"73c0821bfe52b635bd0d6396ceb6d356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1243133563,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243133563,
+    "wof:lastmodified":1537580103,
+    "wof:name":"Tukhi Silam",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47006,
+    32.19851,
+    66.47006,
+    32.19851
+],
+  "geometry": {"coordinates":[66.47006,32.19851],"type":"Point"}
+}

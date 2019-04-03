@@ -1,0 +1,76 @@
+{
+  "id": 1343729293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.39858,36.71574,69.39858,36.71574",
+    "geom:latitude":36.71574,
+    "geom:longitude":69.39858,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Pingani",
+    "gn:country_code":"AF",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130761,
+    "gn:latitude":36.71574,
+    "gn:longitude":69.39858,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ping\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043d\u0433\u0430\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Peng\u0101n\u012b",
+        "Ping\u0101n\u012b",
+        "\u067e\u0646\u06af\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130761
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"04d539b7d4c284c7b92c5ea4a3b508ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1343729293,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1343729293,
+    "wof:lastmodified":1537580866,
+    "wof:name":"Pingani",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.39858000000001,
+    36.71574,
+    69.39858000000001,
+    36.71574
+],
+  "geometry": {"coordinates":[69.39858000000001,36.71574],"type":"Point"}
+}

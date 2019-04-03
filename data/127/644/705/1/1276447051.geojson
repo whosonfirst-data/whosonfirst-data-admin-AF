@@ -1,0 +1,74 @@
+{
+  "id": 1276447051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97371,35.0867,67.97371,35.0867",
+    "geom:latitude":35.0867,
+    "geom:longitude":67.97371,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2802.0",
+    "gn:asciiname":"Bildarghan",
+    "gn:country_code":"AF",
+    "gn:dem":2751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146574,
+    "gn:latitude":35.0867,
+    "gn:longitude":67.97371,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bildargh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bel\u1e0fa\u1e5fgh\u0101n",
+        "Beldergh\u0101n",
+        "Bildargh\u0101n",
+        "\u0628\u0644\u062f\u0631\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146574
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"444882149851809e405fed57b2a17f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562487,
+            "locality_id":1276447051,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276447051,
+    "wof:lastmodified":1537582196,
+    "wof:name":"Bildarghan",
+    "wof:parent_id":1108562487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97371,
+    35.0867,
+    67.97371,
+    35.0867
+],
+  "geometry": {"coordinates":[67.97371,35.0867],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209158773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.74028,33.79528,69.74028,33.79528",
+    "geom:latitude":33.79528,
+    "geom:longitude":69.74028,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"709.0",
+    "gn:asciiname":"Tani",
+    "gn:country_code":"AF",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425067,
+    "gn:latitude":33.79528,
+    "gn:longitude":69.74028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u1e49\u012b",
+        "Ta\u1e49i",
+        "\u062a\u06bc\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425067
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1f017c93dd2333b650e1effa7436091",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209158773
+        }
+    ],
+    "wof:id":1209158773,
+    "wof:lastmodified":1537582623,
+    "wof:name":"Tani",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.74028,
+    33.79528,
+    69.74028,
+    33.79528
+],
+  "geometry": {"coordinates":[69.74028,33.79528],"type":"Point"}
+}

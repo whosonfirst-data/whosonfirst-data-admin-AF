@@ -1,0 +1,72 @@
+{
+  "id": 1243133557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47658,31.77961,66.47658,31.77961",
+    "geom:latitude":31.77961,
+    "geom:longitude":66.47658,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Lali",
+    "gn:country_code":"AF",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436881,
+    "gn:latitude":31.77961,
+    "gn:longitude":66.47658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u0644\u06cc",
+        "Lal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436881
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c55070b0664398b749f4f8c49cf9003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1243133557,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243133557,
+    "wof:lastmodified":1537582822,
+    "wof:name":"Lali",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47658,
+    31.77961,
+    66.47658,
+    31.77961
+],
+  "geometry": {"coordinates":[66.47658,31.77961],"type":"Point"}
+}

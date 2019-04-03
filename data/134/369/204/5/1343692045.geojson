@@ -1,0 +1,72 @@
+{
+  "id": 1343692045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70435,33.8049,66.70435,33.8049",
+    "geom:latitude":33.8049,
+    "geom:longitude":66.70435,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409",
+    "gn:asciiname":"Kajkaman",
+    "gn:country_code":"AF",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138732,
+    "gn:latitude":33.8049,
+    "gn:longitude":66.70435,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kajkam\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajkam\u0101n",
+        "\u06a9\u062c\u06a9\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138732
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e227a9f325ad54500682ff1a90c05df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1343692045,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1343692045,
+    "wof:lastmodified":1537581520,
+    "wof:name":"Kajkaman",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70435,
+    33.8049,
+    66.70435,
+    33.8049
+],
+  "geometry": {"coordinates":[66.70435000000001,33.8049],"type":"Point"}
+}

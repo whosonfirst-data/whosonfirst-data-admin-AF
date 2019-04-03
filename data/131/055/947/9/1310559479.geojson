@@ -1,0 +1,80 @@
+{
+  "id": 1310559479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12421,36.53056,69.12421,36.53056",
+    "geom:latitude":36.53056,
+    "geom:longitude":69.12421,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"'Arab Quduk",
+    "gn:country_code":"AF",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148481,
+    "gn:latitude":36.53056,
+    "gn:longitude":69.12421,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Arab Qud\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628 \u0642\u062f\u0648\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431\u043a\u0443\u0434\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Arabkuduk",
+        "\u2018Arab Qod\u016bk",
+        "\u2018Arab Qud\u016bk",
+        "\u0639\u0631\u0628 \u0642\u062f\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148481
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3745b5bf7aefca35aaa5bcd562f564be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1310559479,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1310559479,
+    "wof:lastmodified":1537582343,
+    "wof:name":"'Arab Quduk",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12420999999999,
+    36.53056,
+    69.12420999999999,
+    36.53056
+],
+  "geometry": {"coordinates":[69.12420999999999,36.53056],"type":"Point"}
+}

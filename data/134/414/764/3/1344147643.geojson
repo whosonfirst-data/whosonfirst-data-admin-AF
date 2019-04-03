@@ -1,0 +1,71 @@
+{
+  "id": 1344147643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40369,33.41501,67.40369,33.41501",
+    "geom:latitude":33.41501,
+    "geom:longitude":67.40369,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Sabzak",
+    "gn:country_code":"AF",
+    "gn:dem":2827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450379,
+    "gn:latitude":33.41501,
+    "gn:longitude":67.40369,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sabzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0628\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450379
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51c775b6070266294e498f6641ec1c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1344147643,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1344147643,
+    "wof:lastmodified":1537583043,
+    "wof:name":"Sabzak",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40369,
+    33.41501,
+    67.40369,
+    33.41501
+],
+  "geometry": {"coordinates":[67.40369,33.41501],"type":"Point"}
+}

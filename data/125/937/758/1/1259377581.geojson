@@ -1,0 +1,74 @@
+{
+  "id": 1259377581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.87026,33.64648,63.87026,33.64648",
+    "geom:latitude":33.64648,
+    "geom:longitude":63.87026,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2704",
+    "gn:asciiname":"Ghoriha",
+    "gn:country_code":"AF",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140966,
+    "gn:latitude":33.64648,
+    "gn:longitude":63.87026,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014dr\u012bh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u014d\u1e5fih\u0101",
+        "Gh\u014dr\u012bh\u0101",
+        "\u063a\u0648\u0631\u06cc \u0647\u0627",
+        "Gh\u016br\u012bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140966
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"506fdb9764b633994b517f74c68915eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1259377581,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259377581,
+    "wof:lastmodified":1537581709,
+    "wof:name":"Ghoriha",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.87026,
+    33.64648,
+    63.87026,
+    33.64648
+],
+  "geometry": {"coordinates":[63.87026,33.64648],"type":"Point"}
+}

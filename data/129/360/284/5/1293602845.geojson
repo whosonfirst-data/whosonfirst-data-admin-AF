@@ -1,0 +1,73 @@
+{
+  "id": 1293602845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84573,36.59201,70.84573,36.59201",
+    "geom:latitude":36.59201,
+    "geom:longitude":70.84573,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Dasht-e Ashnam",
+    "gn:country_code":"AF",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143837,
+    "gn:latitude":36.59201,
+    "gn:longitude":70.84573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht-e \u0100shn\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasht \u0100\u0161n\u0101m",
+        "\u062f\u0634\u062a \u0622\u0634\u0646\u0627\u0645",
+        "Dasht-e \u0100shn\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143837
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf078385291becf4896de5f909c727a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1293602845,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293602845,
+    "wof:lastmodified":1537581954,
+    "wof:name":"Dasht-e Ashnam",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84573,
+    36.59201,
+    70.84573,
+    36.59201
+],
+  "geometry": {"coordinates":[70.84573,36.59201],"type":"Point"}
+}

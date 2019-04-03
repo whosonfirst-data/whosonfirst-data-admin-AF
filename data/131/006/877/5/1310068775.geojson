@@ -1,0 +1,80 @@
+{
+  "id": 1310068775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.52789,34.45153,70.52789,34.45153",
+    "geom:latitude":34.45153,
+    "geom:longitude":70.52789,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Chahar Masah",
+    "gn:country_code":"AF",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468836,
+    "gn:latitude":34.45153,
+    "gn:longitude":70.52789,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Masah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0627\u0631\u0645\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u010cah\u0101rmasa",
+        "Chan\u0101rmasa",
+        "Chakharmasa",
+        "Chah\u0101r Masah",
+        "Chan\u0101rmasah",
+        "Chah\u0101rmasah",
+        "\u0686\u0647\u0627\u0631 \u0645\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468836
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f3ea0bc3f5a16f7e4eb1c99607a177b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1310068775,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1310068775,
+    "wof:lastmodified":1537583570,
+    "wof:name":"Chahar Masah",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.52789,
+    34.45153,
+    70.52789,
+    34.45153
+],
+  "geometry": {"coordinates":[70.52789,34.45153],"type":"Point"}
+}

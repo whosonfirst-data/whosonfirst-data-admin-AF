@@ -1,0 +1,75 @@
+{
+  "id": 1293813629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.61464,36.80024,65.61464,36.80024",
+    "geom:latitude":36.80024,
+    "geom:longitude":65.61464,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1702",
+    "gn:asciiname":"Saltiq-e Now",
+    "gn:country_code":"AF",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127800,
+    "gn:latitude":36.80024,
+    "gn:longitude":65.61464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salt\u012bq-e Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saltiq Naw",
+        "Saltiq Now",
+        "Salt\u012bq Now",
+        "Salt\u012bq-e Now",
+        "\u0633\u0644\u062a\u06cc\u0642 \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127800
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37d0d53be54f9c048846d1eb4f426905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562185,
+            "locality_id":1293813629,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293813629,
+    "wof:lastmodified":1537580579,
+    "wof:name":"Saltiq-e Now",
+    "wof:parent_id":1108562185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.61464000000001,
+    36.80024,
+    65.61464000000001,
+    36.80024
+],
+  "geometry": {"coordinates":[65.61464000000001,36.80024],"type":"Point"}
+}

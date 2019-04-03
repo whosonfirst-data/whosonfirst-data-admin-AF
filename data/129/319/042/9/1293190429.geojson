@@ -1,0 +1,74 @@
+{
+  "id": 1293190429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.78287,34.14351,63.78287,34.14351",
+    "geom:latitude":34.14351,
+    "geom:longitude":63.78287,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Dastasak",
+    "gn:country_code":"AF",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143790,
+    "gn:latitude":34.14351,
+    "gn:longitude":63.78287,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dastasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dast\u0101sak",
+        "Dastasak",
+        "\u062f\u0633\u062a\u0633\u06a9",
+        "Dashtasak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143790
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"26bf16cb6896c6efac2af3038f128353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1293190429,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293190429,
+    "wof:lastmodified":1537581950,
+    "wof:name":"Dastasak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.78287,
+    34.14351,
+    63.78287,
+    34.14351
+],
+  "geometry": {"coordinates":[63.78287,34.14351],"type":"Point"}
+}

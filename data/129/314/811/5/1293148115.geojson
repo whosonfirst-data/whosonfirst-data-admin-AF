@@ -1,0 +1,72 @@
+{
+  "id": 1293148115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54028,31.64945,67.54028,31.64945",
+    "geom:latitude":31.64945,
+    "geom:longitude":67.54028,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Regan",
+    "gn:country_code":"AF",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128383,
+    "gn:latitude":31.64945,
+    "gn:longitude":67.54028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0113g\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0113g\u0101n",
+        "Rig\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128383
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea905fa2e677d003a0d66a77e67537ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1293148115,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293148115,
+    "wof:lastmodified":1537580623,
+    "wof:name":"Regan",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54028000000001,
+    31.64945,
+    67.54028000000001,
+    31.64945
+],
+  "geometry": {"coordinates":[67.54028000000001,31.64945],"type":"Point"}
+}

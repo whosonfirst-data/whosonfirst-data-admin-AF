@@ -1,0 +1,80 @@
+{
+  "id": 1309680643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0688,31.59621,67.0688,31.59621",
+    "geom:latitude":31.59621,
+    "geom:longitude":67.0688,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Takarai",
+    "gn:country_code":"AF",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436084,
+    "gn:latitude":31.59621,
+    "gn:longitude":67.0688,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Taka\u1e5fa\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0643\u0631\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u06a9\u0693\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Takaay",
+        "\u062a\u06a9\u0693\u06cc",
+        "Takaray",
+        "Taka\u1e5fa\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"122f60d7621273d7ca4ea5abf63e3051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1309680643,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309680643,
+    "wof:lastmodified":1537582799,
+    "wof:name":"Takarai",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0688,
+    31.59621,
+    67.0688,
+    31.59621
+],
+  "geometry": {"coordinates":[67.0688,31.59621],"type":"Point"}
+}

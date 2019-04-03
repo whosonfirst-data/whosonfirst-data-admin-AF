@@ -1,0 +1,71 @@
+{
+  "id": 1243587521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52106,33.45379,66.52106,33.45379",
+    "geom:latitude":33.45379,
+    "geom:longitude":66.52106,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402",
+    "gn:asciiname":"Taynal",
+    "gn:country_code":"AF",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122595,
+    "gn:latitude":33.45379,
+    "gn:longitude":66.52106,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Taynal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062a\u06cc\u0646\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122595
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"537ae706356cfe234938cd92344103a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562039,
+            "locality_id":1243587521,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1243587521,
+    "wof:lastmodified":1537580171,
+    "wof:name":"Taynal",
+    "wof:parent_id":1108562039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52105999999999,
+    33.45379000000001,
+    66.52105999999999,
+    33.45379000000001
+],
+  "geometry": {"coordinates":[66.52105999999999,33.45379000000001],"type":"Point"}
+}

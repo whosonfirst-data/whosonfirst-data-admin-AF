@@ -1,0 +1,78 @@
+{
+  "id": 1293394663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02726,34.7002,67.02726,34.7002",
+    "geom:latitude":34.7002,
+    "geom:longitude":67.02726,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Qal'ah-ye Parah",
+    "gn:country_code":"AF",
+    "gn:dem":2679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471818,
+    "gn:latitude":34.7002,
+    "gn:longitude":67.02726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye P\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439\u0438-\u041f\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a-i-P\u0101\u1e5fa",
+        "Kalayi-Para",
+        "Qal\u2018ah-ye P\u0101rah",
+        "Qal\u2018eh-ye P\u0101reh",
+        "\u0642\u0644\u0639\u0647 \u067e\u0627\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471818
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ea08210911cdbf7f0795ea3c115a4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1293394663,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293394663,
+    "wof:lastmodified":1537583656,
+    "wof:name":"Qal'ah-ye Parah",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02726,
+    34.7002,
+    67.02726,
+    34.7002
+],
+  "geometry": {"coordinates":[67.02726,34.7002],"type":"Point"}
+}

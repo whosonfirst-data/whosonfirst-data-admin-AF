@@ -1,0 +1,77 @@
+{
+  "id": 1209964039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62847,32.43044,66.62847,32.43044",
+    "geom:latitude":32.43044,
+    "geom:longitude":66.62847,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Pastak Khune",
+    "gn:country_code":"AF",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447728,
+    "gn:latitude":32.43044,
+    "gn:longitude":66.62847,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pastak Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u062a\u0643 \u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Pastakkhune",
+        "Pastak Kh\u016bn\u0113",
+        "\u067e\u0633\u062a\u06a9 \u062e\u0648\u0646\u06d0",
+        "Pastak Kh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447728
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b1752dba10ac99dc2015ed50e879276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1209964039,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209964039,
+    "wof:lastmodified":1537582973,
+    "wof:name":"Pastak Khune",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62847,
+    32.43044,
+    66.62847,
+    32.43044
+],
+  "geometry": {"coordinates":[66.62846999999999,32.43044],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293779227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12737,33.46671,67.12737,33.46671",
+    "geom:latitude":33.46671,
+    "geom:longitude":67.12737,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"605",
+    "gn:asciiname":"Khidir-e Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":2518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136765,
+    "gn:latitude":33.46671,
+    "gn:longitude":67.12737,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khid\u012br-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khid\u012br-e P\u0101\u2019\u012bn",
+        "\u062e\u062f\u06cc\u0631 \u067e\u0627\u0626\u06cc\u0646",
+        "Khed\u012br-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136765
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a7def6fada87c78552eb4bcfad13425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1293779227,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293779227,
+    "wof:lastmodified":1537581368,
+    "wof:name":"Khidir-e Pa'in",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12737,
+    33.46671,
+    67.12737,
+    33.46671
+],
+  "geometry": {"coordinates":[67.12737,33.46671],"type":"Point"}
+}

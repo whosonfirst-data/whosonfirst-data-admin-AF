@@ -1,0 +1,75 @@
+{
+  "id": 1343775979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66962,37.49638,70.66962,37.49638",
+    "geom:latitude":37.49638,
+    "geom:longitude":70.66962,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Buzkush",
+    "gn:country_code":"AF",
+    "gn:dem":2628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468527,
+    "gn:latitude":37.49638,
+    "gn:longitude":70.66962,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Buzkush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzku\u0161",
+        "\u0628\u0648\u0632\u06a9\u0634",
+        "Bozkosh",
+        "Buzkush",
+        "\u0628\u0632\u06a9\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468527
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d66963913df2c5062df67ce907a4e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562207,
+            "locality_id":1343775979,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343775979,
+    "wof:lastmodified":1537583560,
+    "wof:name":"Buzkush",
+    "wof:parent_id":1108562207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66962,
+    37.49638,
+    70.66962,
+    37.49638
+],
+  "geometry": {"coordinates":[70.66961999999999,37.49638],"type":"Point"}
+}

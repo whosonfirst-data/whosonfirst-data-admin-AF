@@ -1,0 +1,73 @@
+{
+  "id": 1360162797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.03239,34.32499,64.03239,34.32499",
+    "geom:latitude":34.32499,
+    "geom:longitude":64.03239,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Tajarmin",
+    "gn:country_code":"AF",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123303,
+    "gn:latitude":34.32499,
+    "gn:longitude":64.03239,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tajarm\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadzharmin",
+        "Tajarm\u012bn",
+        "\u062a\u062c\u0631\u0645\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123303
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"70038cffef98b6df4f4e552b19e65a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1360162797,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1360162797,
+    "wof:lastmodified":1537580216,
+    "wof:name":"Tajarmin",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.03239,
+    34.32499,
+    64.03239,
+    34.32499
+],
+  "geometry": {"coordinates":[64.03239000000001,34.32499],"type":"Point"}
+}

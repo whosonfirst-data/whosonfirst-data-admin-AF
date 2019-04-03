@@ -1,0 +1,73 @@
+{
+  "id": 1310066787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41634,32.65295,68.41634,32.65295",
+    "geom:latitude":32.65295,
+    "geom:longitude":68.41634,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916",
+    "gn:asciiname":"Kala Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138630,
+    "gn:latitude":32.65295,
+    "gn:longitude":68.41634,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0644\u0627 \u062e\u06d0\u0644",
+        "Kal\u0101 Kheyl",
+        "Kal\u0101 Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138630
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b06a7508d43a1713e080c734254c99f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1310066787,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1310066787,
+    "wof:lastmodified":1537581513,
+    "wof:name":"Kala Khel",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41634,
+    32.65295,
+    68.41634,
+    32.65295
+],
+  "geometry": {"coordinates":[68.41634000000001,32.65295],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226172359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89444,36.76467,65.89444,36.76467",
+    "geom:latitude":36.76467,
+    "geom:longitude":65.89444,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Iraghli Now",
+    "gn:country_code":"AF",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142509,
+    "gn:latitude":36.76467,
+    "gn:longitude":65.89444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Iraghl\u012b Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eraghli Naw",
+        "Eraghl\u012b Now",
+        "Iraghl\u012b Now",
+        "\u0627\u0631\u063a\u0644\u06cc \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142509
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e1f9ad0f309a8e092c3bc43744c3f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1226172359,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1226172359,
+    "wof:lastmodified":1537581834,
+    "wof:name":"Iraghli Now",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89444,
+    36.76467,
+    65.89444,
+    36.76467
+],
+  "geometry": {"coordinates":[65.89444,36.76467],"type":"Point"}
+}

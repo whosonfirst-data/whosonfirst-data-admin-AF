@@ -1,0 +1,78 @@
+{
+  "id": 1360229987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26461,35.1757,71.26461,35.1757",
+    "geom:latitude":35.1757,
+    "geom:longitude":71.26461,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1006.0",
+    "gn:asciiname":"Chirah Sar Khune",
+    "gn:country_code":"AF",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145956,
+    "gn:latitude":35.1757,
+    "gn:longitude":71.26461,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chirah Sar Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0647 \u0633\u0631 \u062e\u0648\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Chirasarkhune",
+        "\u010cera Sar Kh\u016bn\u0113",
+        "\u0686\u0631\u0647 \u0633\u0631 \u062e\u0648\u0646\u06d0",
+        "Tserah Sar Kh\u016bn\u0113",
+        "Chirah Sar Kh\u016bn\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145956
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7274600ff22ab0d9db0adb80e14b5c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562025,
+            "locality_id":1360229987,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1360229987,
+    "wof:lastmodified":1537582145,
+    "wof:name":"Chirah Sar Khune",
+    "wof:parent_id":1108562025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26461,
+    35.1757,
+    71.26461,
+    35.1757
+],
+  "geometry": {"coordinates":[71.26461,35.1757],"type":"Point"}
+}

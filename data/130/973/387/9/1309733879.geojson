@@ -1,0 +1,73 @@
+{
+  "id": 1309733879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.88534,33.36704,63.88534,33.36704",
+    "geom:latitude":33.36704,
+    "geom:longitude":63.88534,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Ghay Bist",
+    "gn:country_code":"AF",
+    "gn:dem":1772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141295,
+    "gn:latitude":33.36704,
+    "gn:longitude":63.88534,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101y Bist",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101y Bist",
+        "\u063a\u0627\u06cc \u0628\u0633\u062a",
+        "Gh\u0101y Best"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141295
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"65221b7136f03705c46e950d01845e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1309733879,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1309733879,
+    "wof:lastmodified":1537581741,
+    "wof:name":"Ghay Bist",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.88534,
+    33.36704,
+    63.88534,
+    33.36704
+],
+  "geometry": {"coordinates":[63.88534,33.36704],"type":"Point"}
+}

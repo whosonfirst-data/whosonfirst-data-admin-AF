@@ -1,0 +1,69 @@
+{
+  "id": 1209105101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02632,34.4138,67.02632,34.4138",
+    "geom:latitude":34.4138,
+    "geom:longitude":67.02632,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Burghusunak",
+    "gn:country_code":"AF",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146123,
+    "gn:latitude":34.4138,
+    "gn:longitude":67.02632,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Burghus\u016bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgusunak",
+        "Burgh\u014dsonak",
+        "Burghosonak",
+        "Burghus\u016bnak",
+        "\u0628\u0631\u063a\u0633\u0648\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"868dd7ef6b3de5bb5dbe7740f5459185",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209105101
+        }
+    ],
+    "wof:id":1209105101,
+    "wof:lastmodified":1537582158,
+    "wof:name":"Burghusunak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02632,
+    34.4138,
+    67.02632,
+    34.4138
+],
+  "geometry": {"coordinates":[67.02632,34.4138],"type":"Point"}
+}

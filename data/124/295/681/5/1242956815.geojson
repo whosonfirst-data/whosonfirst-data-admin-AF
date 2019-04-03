@@ -1,0 +1,74 @@
+{
+  "id": 1242956815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.86698,32.08175,64.86698,32.08175",
+    "geom:latitude":32.08175,
+    "geom:longitude":64.86698,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312",
+    "gn:asciiname":"Pay Gharakay",
+    "gn:country_code":"AF",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130866,
+    "gn:latitude":32.08175,
+    "gn:longitude":64.86698,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y Gh\u0101\u1e5fakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paygarakay",
+        "P\u0101y Gh\u0101\u1e5fakay",
+        "\u067e\u0627\u06cc \u063a\u0627\u0693\u06a9\u06cc",
+        "P\u0101y Gh\u0101rakay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130866
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c94bf8d85777ec90c8e6d0a7159d9b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1242956815,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242956815,
+    "wof:lastmodified":1537580875,
+    "wof:name":"Pay Gharakay",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.86698,
+    32.08175,
+    64.86698,
+    32.08175
+],
+  "geometry": {"coordinates":[64.86698,32.08175],"type":"Point"}
+}

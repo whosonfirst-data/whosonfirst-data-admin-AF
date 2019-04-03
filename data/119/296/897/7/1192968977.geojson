@@ -1,0 +1,78 @@
+{
+  "id": 1192968977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.24566,32.54224,69.24566,32.54224",
+    "geom:latitude":32.54224,
+    "geom:longitude":69.24566,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Tazi Khel Kot",
+    "gn:country_code":"AF",
+    "gn:dem":2171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433887,
+    "gn:latitude":32.54224,
+    "gn:longitude":69.24566,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101z\u012b Kh\u0113l K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tazikheyl\u2019kot"
+    ],
+    "name:und_x_variant":[
+        "Tazikheyl\u2019kot",
+        "T\u0101zikh\u0113l K\u014dt",
+        "T\u0101z\u012bkheyl Kow\u1e6f",
+        "T\u0101z\u012b Kh\u0113l K\u014d\u1e6f",
+        "\u062a\u0627\u0632\u06cc \u062e\u06d0\u0644 \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433887
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51938cfe30cb7f9105644e5d19a615d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1192968977,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1192968977,
+    "wof:lastmodified":1537582695,
+    "wof:name":"Tazi Khel Kot",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.24566,
+    32.54224,
+    69.24566,
+    32.54224
+],
+  "geometry": {"coordinates":[69.24566,32.54224],"type":"Point"}
+}

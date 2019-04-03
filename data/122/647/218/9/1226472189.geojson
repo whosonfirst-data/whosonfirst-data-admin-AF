@@ -1,0 +1,78 @@
+{
+  "id": 1226472189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80237,32.60962,65.80237,32.60962",
+    "geom:latitude":32.60962,
+    "geom:longitude":65.80237,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Haram Shah",
+    "gn:country_code":"AF",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449898,
+    "gn:latitude":32.60962,
+    "gn:longitude":65.80237,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ar\u0101m Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u0645 \u0634\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kharamshakh",
+        "Haram\u0161\u0101h",
+        "\u1e28ar\u0101m Sh\u0101h",
+        "\u062d\u0631\u0627\u0645 \u0634\u0627\u0647",
+        "\u1e28aramsh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449898
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93d2b5a63cf3ecfe44fe16957ca649e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1226472189,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1226472189,
+    "wof:lastmodified":1537583029,
+    "wof:name":"Haram Shah",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80237,
+    32.60962,
+    65.80237,
+    32.60962
+],
+  "geometry": {"coordinates":[65.80237,32.60962],"type":"Point"}
+}

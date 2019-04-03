@@ -1,0 +1,76 @@
+{
+  "id": 1310363385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72263,36.80261,68.72263,36.80261",
+    "geom:latitude":36.80261,
+    "geom:longitude":68.72263,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"'Arab",
+    "gn:country_code":"AF",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148496,
+    "gn:latitude":36.80261,
+    "gn:longitude":68.72263,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Arab",
+        "\u2018Arab",
+        "\u0639\u0631\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2f1f66919d66ba5a00a29051ab0c761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1310363385,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1310363385,
+    "wof:lastmodified":1537582344,
+    "wof:name":"'Arab",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72263000000001,
+    36.80261,
+    68.72263000000001,
+    36.80261
+],
+  "geometry": {"coordinates":[68.72263000000001,36.80261],"type":"Point"}
+}

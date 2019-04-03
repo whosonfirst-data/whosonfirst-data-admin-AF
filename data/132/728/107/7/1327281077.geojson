@@ -1,0 +1,77 @@
+{
+  "id": 1327281077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09978,32.76672,69.09978,32.76672",
+    "geom:latitude":32.76672,
+    "geom:longitude":69.09978,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Basnas Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433997,
+    "gn:latitude":32.76672,
+    "gn:longitude":69.09978,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Basnas Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Basnaskheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Basnas Kh\u0113l",
+        "Basnaskheyl\u2019",
+        "Basnaskheyl",
+        "\u0628\u0633\u0646\u0633 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        421171021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433997
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d24953133c4b86097b831f059bcc3cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171021,
+            "locality_id":1327281077,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327281077,
+    "wof:lastmodified":1537582700,
+    "wof:name":"Basnas Khel",
+    "wof:parent_id":421171021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09978000000001,
+    32.76672,
+    69.09978000000001,
+    32.76672
+],
+  "geometry": {"coordinates":[69.09978000000001,32.76672],"type":"Point"}
+}

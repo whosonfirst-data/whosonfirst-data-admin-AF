@@ -1,0 +1,72 @@
+{
+  "id": 1293787937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.44225,37.49587,70.44225,37.49587",
+    "geom:latitude":37.49587,
+    "geom:longitude":70.44225,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1128.0",
+    "gn:asciiname":"Darang",
+    "gn:country_code":"AF",
+    "gn:dem":2469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144126,
+    "gn:latitude":37.49587,
+    "gn:longitude":70.44225,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u0646\u06af",
+        "\u1e0ea\u1e5fang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144126
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d64886f6bae0fdfac274859a9f533251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562595,
+            "locality_id":1293787937,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293787937,
+    "wof:lastmodified":1537581975,
+    "wof:name":"Darang",
+    "wof:parent_id":1108562595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.44225,
+    37.49587,
+    70.44225,
+    37.49587
+],
+  "geometry": {"coordinates":[70.44225,37.49587],"type":"Point"}
+}

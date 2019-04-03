@@ -1,0 +1,73 @@
+{
+  "id": 1209728203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.73296,35.79186,63.73296,35.79186",
+    "geom:latitude":35.79186,
+    "geom:longitude":63.73296,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1905",
+    "gn:asciiname":"Rashid",
+    "gn:country_code":"AF",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128506,
+    "gn:latitude":35.79186,
+    "gn:longitude":63.73296,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eas\u0304\u012bd",
+        "Rash\u012bd",
+        "\u0631\u0634\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128506
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"16e833f4145243105f4dc4775a458b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1209728203,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1209728203,
+    "wof:lastmodified":1537580631,
+    "wof:name":"Rashid",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.73296,
+    35.79186,
+    63.73296,
+    35.79186
+],
+  "geometry": {"coordinates":[63.73296,35.79186],"type":"Point"}
+}

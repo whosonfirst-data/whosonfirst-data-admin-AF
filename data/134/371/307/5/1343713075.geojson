@@ -1,0 +1,75 @@
+{
+  "id": 1343713075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83218,34.76901,68.83218,34.76901",
+    "geom:latitude":34.76901,
+    "geom:longitude":68.83218,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Wand",
+    "gn:country_code":"AF",
+    "gn:dem":2930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121870,
+    "gn:latitude":34.76901,
+    "gn:longitude":68.83218,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wand P\u0101rs\u0101",
+        "Wan\u1e0f",
+        "Vand",
+        "Wand",
+        "\u0648\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121870
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a5bb1249f9cb98ff3080e1967228390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1343713075,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343713075,
+    "wof:lastmodified":1537580068,
+    "wof:name":"Wand",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83218000000001,
+    34.76900999999999,
+    68.83218000000001,
+    34.76900999999999
+],
+  "geometry": {"coordinates":[68.83218000000001,34.76900999999999],"type":"Point"}
+}

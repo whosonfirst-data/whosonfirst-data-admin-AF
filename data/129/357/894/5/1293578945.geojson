@@ -1,0 +1,73 @@
+{
+  "id": 1293578945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.68069,34.12513,63.68069,34.12513",
+    "geom:latitude":34.12513,
+    "geom:longitude":63.68069,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Gaday",
+    "gn:country_code":"AF",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142098,
+    "gn:latitude":34.12513,
+    "gn:longitude":63.68069,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gad\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gad\u0101y",
+        "\u06af\u062f\u0627\u06cc",
+        "Ga\u1e0f\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142098
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"14fe4bd9ae97092ec0edf9567a9b5009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1293578945,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293578945,
+    "wof:lastmodified":1537581798,
+    "wof:name":"Gaday",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.68069000000001,
+    34.12513,
+    63.68069000000001,
+    34.12513
+],
+  "geometry": {"coordinates":[63.68069000000001,34.12513],"type":"Point"}
+}

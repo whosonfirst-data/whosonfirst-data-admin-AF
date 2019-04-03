@@ -1,0 +1,72 @@
+{
+  "id": 1209297773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59495,34.97612,69.59495,34.97612",
+    "geom:latitude":34.97612,
+    "geom:longitude":69.59495,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Sinzai",
+    "gn:country_code":"AF",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472347,
+    "gn:latitude":34.97612,
+    "gn:longitude":69.59495,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u012bnza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0646\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012bnz\u0101\u2019\u012b",
+        "Sinzai",
+        "S\u012bn Za\u2019i",
+        "S\u012bnza\u012b",
+        "\u0633\u06cc\u0646\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472347
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5174b403cb84e017dcd474d6e19ed09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209297773
+        }
+    ],
+    "wof:id":1209297773,
+    "wof:lastmodified":1537583684,
+    "wof:name":"Sinzai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59495,
+    34.97612,
+    69.59495,
+    34.97612
+],
+  "geometry": {"coordinates":[69.59495,34.97612],"type":"Point"}
+}

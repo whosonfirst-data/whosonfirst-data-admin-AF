@@ -1,0 +1,75 @@
+{
+  "id": 1309991345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52311,32.94859,67.52311,32.94859",
+    "geom:latitude":32.94859,
+    "geom:longitude":67.52311,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Zowaran",
+    "gn:country_code":"AF",
+    "gn:dem":2421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435565,
+    "gn:latitude":32.94859,
+    "gn:longitude":67.52311,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zow\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaw\u0101\u1e5f\u0101n",
+        "Zaw\u0101r\u0101n",
+        "\u0632\u0648\u0627\u0631\u0627\u0646",
+        "Zav\u0101r\u0101n",
+        "Zow\u0101r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435565
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d896c882126e3ac9bf3566562e3ad855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1309991345,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309991345,
+    "wof:lastmodified":1537582772,
+    "wof:name":"Zowaran",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52311,
+    32.94859,
+    67.52311,
+    32.94859
+],
+  "geometry": {"coordinates":[67.52311,32.94859],"type":"Point"}
+}

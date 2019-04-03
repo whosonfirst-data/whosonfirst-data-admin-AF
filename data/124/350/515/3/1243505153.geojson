@@ -1,0 +1,78 @@
+{
+  "id": 1243505153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40339,32.86981,69.40339,32.86981",
+    "geom:latitude":32.86981,
+    "geom:longitude":69.40339,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Gul Nazar Kot",
+    "gn:country_code":"AF",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434167,
+    "gn:latitude":32.86981,
+    "gn:longitude":69.40339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul Naz\u0327ar K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gul\u2019nazarkot"
+    ],
+    "name:und_x_variant":[
+        "Gul\u2019nazarkot",
+        "Gulna\u1e95a\u1e5f K\u014dt",
+        "Golnaz\u0327ar Kowt",
+        "Gul Naz\u0327ar K\u014d\u1e6f",
+        "\u06af\u0644 \u0646\u0638\u0631 \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434167
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5995ae3e3b2514885e5a0dd33eb8e2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1243505153,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243505153,
+    "wof:lastmodified":1537582706,
+    "wof:name":"Gul Nazar Kot",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40339,
+    32.86981,
+    69.40339,
+    32.86981
+],
+  "geometry": {"coordinates":[69.40339,32.86981],"type":"Point"}
+}

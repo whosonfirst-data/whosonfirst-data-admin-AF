@@ -1,0 +1,78 @@
+{
+  "id": 1360118299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.0868,32.7016,66.0868,32.7016",
+    "geom:latitude":32.7016,
+    "geom:longitude":66.0868,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Haidar",
+    "gn:country_code":"AF",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139994,
+    "gn:latitude":32.7016,
+    "gn:longitude":66.0868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28a\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khaydar",
+        "H\u0331ay\u1e0far",
+        "\u1e28a\u012bdar",
+        "\u062d\u06cc\u062f\u0631",
+        "\u1e28eydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139994
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34eca6eeb5c1724c1d64d5bb627c31bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1360118299,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1360118299,
+    "wof:lastmodified":1537581623,
+    "wof:name":"Haidar",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.0868,
+    32.7016,
+    66.0868,
+    32.7016
+],
+  "geometry": {"coordinates":[66.0868,32.7016],"type":"Point"}
+}

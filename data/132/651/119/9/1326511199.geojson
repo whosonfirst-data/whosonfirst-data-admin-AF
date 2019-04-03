@@ -1,0 +1,71 @@
+{
+  "id": 1326511199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.83544,34.16167,62.83544,34.16167",
+    "geom:latitude":34.16167,
+    "geom:longitude":62.83544,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Kulak",
+    "gn:country_code":"AF",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135351,
+    "gn:latitude":34.16167,
+    "gn:longitude":62.83544,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135351
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b14a859b2a5f3c8896edb340532ff944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1326511199,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1326511199,
+    "wof:lastmodified":1537581244,
+    "wof:name":"Kulak",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.83544000000001,
+    34.16167,
+    62.83544000000001,
+    34.16167
+],
+  "geometry": {"coordinates":[62.83544000000001,34.16167],"type":"Point"}
+}

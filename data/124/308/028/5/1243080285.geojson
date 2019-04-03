@@ -1,0 +1,73 @@
+{
+  "id": 1243080285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59463,35.07592,64.59463,35.07592",
+    "geom:latitude":35.07592,
+    "geom:longitude":64.59463,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Shahr-e Now",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125872,
+    "gn:latitude":35.07592,
+    "gn:longitude":64.59463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr-e Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304ah\u1e5fe Naw",
+        "Shahr-e Now",
+        "\u0634\u0647\u0631 \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125872
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f6361cdc244ef493e0db9be5f711f75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1243080285,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243080285,
+    "wof:lastmodified":1537580423,
+    "wof:name":"Shahr-e Now",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59463000000001,
+    35.07592,
+    64.59463000000001,
+    35.07592
+],
+  "geometry": {"coordinates":[64.59463000000001,35.07592],"type":"Point"}
+}

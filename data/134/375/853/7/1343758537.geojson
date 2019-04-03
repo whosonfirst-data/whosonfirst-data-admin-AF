@@ -1,0 +1,73 @@
+{
+  "id": 1343758537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.16037,34.90981,65.16037,34.90981",
+    "geom:latitude":34.90981,
+    "geom:longitude":65.16037,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Chahar Chaman",
+    "gn:country_code":"AF",
+    "gn:dem":2518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145862,
+    "gn:latitude":34.90981,
+    "gn:longitude":65.16037,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Chaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cah\u0101\u1e5fcaman",
+        "Chah\u0101r Chaman",
+        "\u0686\u0647\u0627\u0631 \u0686\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145862
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f502b5b06c49a515bccfba89642b949e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1343758537,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343758537,
+    "wof:lastmodified":1537582136,
+    "wof:name":"Chahar Chaman",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.16037,
+    34.90981,
+    65.16037,
+    34.90981
+],
+  "geometry": {"coordinates":[65.16037,34.90981],"type":"Point"}
+}

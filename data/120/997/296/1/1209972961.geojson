@@ -1,0 +1,78 @@
+{
+  "id": 1209972961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35801,31.21432,67.35801,31.21432",
+    "geom:latitude":31.21432,
+    "geom:longitude":67.35801,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Kuchnay Degan",
+    "gn:country_code":"AF",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437161,
+    "gn:latitude":31.21432,
+    "gn:longitude":67.35801,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuchnay D\u0113g\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u043d\u0430\u0439-\u0414\u0438\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ku\u010dnay Dig\u0101n",
+        "Kuchnay-Digan",
+        "Kuchnay D\u012bg\u0101n",
+        "Kuchnay D\u0113g\u0101n",
+        "\u06a9\u0686\u0646\u06cc \u062f\u06d0\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437161
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b80f98229652e8b1f52806533bf304e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1209972961,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209972961,
+    "wof:lastmodified":1537582837,
+    "wof:name":"Kuchnay Degan",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35801,
+    31.21432,
+    67.35801,
+    31.21432
+],
+  "geometry": {"coordinates":[67.35800999999999,31.21432],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343514911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4514,34.84927,70.4514,34.84927",
+    "geom:latitude":34.84927,
+    "geom:longitude":70.4514,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903",
+    "gn:asciiname":"Owgowrum",
+    "gn:country_code":"AF",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131563,
+    "gn:latitude":34.84927,
+    "gn:longitude":70.4514,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Owgowrum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014cg\u014d\u1e5fum",
+        "Ogurum",
+        "Owgowrum",
+        "\u0627\u0648\u06af\u0648\u0693\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131563
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ac9716931447f74534717004e3f275a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1343514911,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1343514911,
+    "wof:lastmodified":1537580930,
+    "wof:name":"Owgowrum",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4514,
+    34.84927,
+    70.4514,
+    34.84927
+],
+  "geometry": {"coordinates":[70.45140000000001,34.84927],"type":"Point"}
+}

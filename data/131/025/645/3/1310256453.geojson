@@ -1,0 +1,80 @@
+{
+  "id": 1310256453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.85616,33.26429,69.85616,33.26429",
+    "geom:latitude":33.26429,
+    "geom:longitude":69.85616,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Qasim Qul Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434554,
+    "gn:latitude":33.26429,
+    "gn:longitude":69.85616,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101sim Qul K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0642\u0627\u0633\u0645 \u0642\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kasimkul\u2019kalay"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101sim Gul K\u00ealay",
+        "Q\u0101semqul Kalay",
+        "Q\u0101sim Qul K\u00ealay",
+        "\u0642\u0627\u0633\u0645 \u0642\u0644 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434554
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b38c70ab9772e365b4fdaaf5f605cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1310256453,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1310256453,
+    "wof:lastmodified":1537582728,
+    "wof:name":"Qasim Qul Kelay",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.85616,
+    33.26429,
+    69.85616,
+    33.26429
+],
+  "geometry": {"coordinates":[69.85616,33.26429],"type":"Point"}
+}

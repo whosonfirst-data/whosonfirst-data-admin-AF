@@ -1,0 +1,78 @@
+{
+  "id": 1293139081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06669,35.0636,69.06669,35.0636",
+    "geom:latitude":35.0636,
+    "geom:longitude":69.06669,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"304.0",
+    "gn:asciiname":"Dahan-e Kafshan",
+    "gn:country_code":"AF",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423313,
+    "gn:latitude":35.0636,
+    "gn:longitude":69.06669,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e Kafsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u06c0 \u0643\u0641\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dakhani-Kafshan",
+        "Dahane Kaf\u0161\u0101n",
+        "Dahaneh-ye Kafsh\u0101n",
+        "Dah\u0101n-e Kafsh\u0101n",
+        "\u062f\u0647\u0627\u0646 \u06a9\u0641\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"441cba7ed2e281c115b4d14872d8f189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562495,
+            "locality_id":1293139081,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1293139081,
+    "wof:lastmodified":1537582557,
+    "wof:name":"Dahan-e Kafshan",
+    "wof:parent_id":1108562495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06669000000001,
+    35.0636,
+    69.06669000000001,
+    35.0636
+],
+  "geometry": {"coordinates":[69.06669000000001,35.0636],"type":"Point"}
+}

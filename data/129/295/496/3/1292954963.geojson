@@ -1,0 +1,75 @@
+{
+  "id": 1292954963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26384,34.18802,68.26384,34.18802",
+    "geom:latitude":34.18802,
+    "geom:longitude":68.26384,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Badur",
+    "gn:country_code":"AF",
+    "gn:dem":2505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147690,
+    "gn:latitude":34.18802,
+    "gn:longitude":68.26384,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ba\u1e0fu\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bador",
+        "Badur",
+        "Badar",
+        "Ba\u1e0fu\u1e5f",
+        "\u0628\u0689\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147690
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cab333884e98fd84e446efcba10980da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1292954963,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1292954963,
+    "wof:lastmodified":1537582287,
+    "wof:name":"Badur",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26384,
+    34.18802,
+    68.26384,
+    34.18802
+],
+  "geometry": {"coordinates":[68.26384,34.18802],"type":"Point"}
+}

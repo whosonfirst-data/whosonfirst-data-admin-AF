@@ -1,0 +1,75 @@
+{
+  "id": 1293446109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.48373,31.57198,65.48373,31.57198",
+    "geom:latitude":31.57198,
+    "geom:longitude":65.48373,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2408.0",
+    "gn:asciiname":"Badwan",
+    "gn:country_code":"AF",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147662,
+    "gn:latitude":31.57198,
+    "gn:longitude":65.48373,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Badw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u1e0fw\u0101n",
+        "Badvan",
+        "Badv\u0101n",
+        "Badw\u0101n",
+        "\u0628\u062f\u0648\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421196563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147662
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4949a669588b28d76575d61de2bc5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421196563,
+            "locality_id":1293446109,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293446109,
+    "wof:lastmodified":1537582284,
+    "wof:name":"Badwan",
+    "wof:parent_id":421196563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.48373000000001,
+    31.57198,
+    65.48373000000001,
+    31.57198
+],
+  "geometry": {"coordinates":[65.48373000000001,31.57198],"type":"Point"}
+}

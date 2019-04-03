@@ -1,0 +1,81 @@
+{
+  "id": 1209789437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.70412,34.8327,69.70412,34.8327",
+    "geom:latitude":34.8327,
+    "geom:longitude":69.70412,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Haybat Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472674,
+    "gn:latitude":34.8327,
+    "gn:longitude":69.70412,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haybat Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u064a\u0628\u062a \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Khaybatkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Haybatkh\u0113l",
+        "\u1e28aybat Kh\u0113l",
+        "Heybatkheyl",
+        "Haybat Kh\u0113l",
+        "\u0647\u06cc\u0628\u062a \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472674
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49ab5ae1e14e4e6b490b45e683b875c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562531,
+            "locality_id":1209789437,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1209789437,
+    "wof:lastmodified":1537583705,
+    "wof:name":"Haybat Khel",
+    "wof:parent_id":1108562531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.70411999999999,
+    34.8327,
+    69.70411999999999,
+    34.8327
+],
+  "geometry": {"coordinates":[69.70411999999999,34.8327],"type":"Point"}
+}

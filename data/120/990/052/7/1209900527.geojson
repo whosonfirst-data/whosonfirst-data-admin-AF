@@ -1,0 +1,74 @@
+{
+  "id": 1209900527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.42654,33.77139,64.42654,33.77139",
+    "geom:latitude":33.77139,
+    "geom:longitude":64.42654,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2702.0",
+    "gn:asciiname":"Dahan-e Jowzak",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144535,
+    "gn:latitude":33.77139,
+    "gn:longitude":64.42654,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e Jowzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Dzhauzak",
+        "Dah\u0101n-e Jowzak",
+        "\u062f\u0647\u0627\u0646 \u062c\u0648\u0632\u06a9",
+        "Dahan-e Jawzak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144535
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23238002584fc0cb7798a0890c6ce4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1209900527,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209900527,
+    "wof:lastmodified":1537582014,
+    "wof:name":"Dahan-e Jowzak",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.42654,
+    33.77139,
+    64.42654,
+    33.77139
+],
+  "geometry": {"coordinates":[64.42654,33.77139],"type":"Point"}
+}

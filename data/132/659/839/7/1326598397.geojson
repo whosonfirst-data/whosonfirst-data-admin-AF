@@ -1,0 +1,80 @@
+{
+  "id": 1326598397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.08357,31.55474,67.08357,31.55474",
+    "geom:latitude":31.55474,
+    "geom:longitude":67.08357,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Zhawirkan",
+    "gn:country_code":"AF",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120773,
+    "gn:latitude":31.55474,
+    "gn:longitude":67.08357,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zhawirk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0631\u0643\u0627\u0646"
+    ],
+    "name:pus_x_preferred":[
+        "\u0698\u0648\u0631\u06a9\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zhavirkan",
+        "Zhawirk\u0101n",
+        "\u0698\u0648\u0631\u06a9\u0627\u0646",
+        "Zawe\u1e5fk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120773
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c8ea7a61ae61937f4b6b704bb8c8b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1326598397,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326598397,
+    "wof:lastmodified":1537579964,
+    "wof:name":"Zhawirkan",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08357,
+    31.55474,
+    67.08357,
+    31.55474
+],
+  "geometry": {"coordinates":[67.08356999999999,31.55474],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310492261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30705,33.13375,67.30705,33.13375",
+    "geom:latitude":33.13375,
+    "geom:longitude":67.30705,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Jashah",
+    "gn:country_code":"AF",
+    "gn:dem":2920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450658,
+    "gn:latitude":33.13375,
+    "gn:longitude":67.30705,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101\u0161a",
+        "J\u0101shah",
+        "\u062c\u0627\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450658
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"70647cc9ba29cab92a44ee137cdd37e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1310492261,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310492261,
+    "wof:lastmodified":1537583058,
+    "wof:name":"Jashah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30705,
+    33.13375,
+    67.30705,
+    33.13375
+],
+  "geometry": {"coordinates":[67.30705,33.13375],"type":"Point"}
+}

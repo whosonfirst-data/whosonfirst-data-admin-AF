@@ -1,0 +1,74 @@
+{
+  "id": 1260347033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.06089,30.13848,66.06089,30.13848",
+    "geom:latitude":30.13848,
+    "geom:longitude":66.06089,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2410.0",
+    "gn:asciiname":"Badalzai",
+    "gn:country_code":"AF",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149108,
+    "gn:latitude":30.13848,
+    "gn:longitude":66.06089,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Badalzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u0113 Kozi",
+        "Al\u00eak\u014dz\u012b",
+        "\u0100lah K\u016bz\u012b",
+        "\u0627\u0644\u06a9\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149108
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82104b6694787d66b4da45f0b7d4c992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562507,
+            "locality_id":1260347033,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260347033,
+    "wof:lastmodified":1537582390,
+    "wof:name":"Badalzai",
+    "wof:parent_id":1108562507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.06089,
+    30.13848,
+    66.06089,
+    30.13848
+],
+  "geometry": {"coordinates":[66.06089,30.13848],"type":"Point"}
+}

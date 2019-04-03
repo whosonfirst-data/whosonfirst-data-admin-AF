@@ -1,0 +1,76 @@
+{
+  "id": 1225912791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.34353,31.31376,67.34353,31.31376",
+    "geom:latitude":31.31376,
+    "geom:longitude":67.34353,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Murghakay",
+    "gn:country_code":"AF",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437168,
+    "gn:latitude":31.31376,
+    "gn:longitude":67.34353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Murghakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u1e5fghakay",
+        "Murgakay",
+        "Murghaka\u012b",
+        "Morghakay",
+        "Murghakay",
+        "\u0645\u0631\u063a\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437168
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"693710d55939cb0be23915637eec70d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1225912791,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1225912791,
+    "wof:lastmodified":1537582838,
+    "wof:name":"Murghakay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.34353,
+    31.31376,
+    67.34353,
+    31.31376
+],
+  "geometry": {"coordinates":[67.34353,31.31376],"type":"Point"}
+}

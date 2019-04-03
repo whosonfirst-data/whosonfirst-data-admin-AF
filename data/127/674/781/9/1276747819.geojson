@@ -1,0 +1,74 @@
+{
+  "id": 1276747819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.21471,34.19185,64.21471,34.19185",
+    "geom:latitude":34.19185,
+    "geom:longitude":64.21471,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Tabarghistan",
+    "gn:country_code":"AF",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123456,
+    "gn:latitude":34.19185,
+    "gn:longitude":64.21471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tabarghist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabargistan",
+        "Tabarghist\u0101n",
+        "\u062a\u0628\u0631\u063a\u0633\u062a\u0627\u0646",
+        "Tabarghest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123456
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f7c343beabc6505a7d4ba841153c701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1276747819,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276747819,
+    "wof:lastmodified":1537580226,
+    "wof:name":"Tabarghistan",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.21471,
+    34.19185,
+    64.21471,
+    34.19185
+],
+  "geometry": {"coordinates":[64.21471,34.19185],"type":"Point"}
+}

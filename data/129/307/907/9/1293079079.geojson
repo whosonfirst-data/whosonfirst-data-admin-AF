@@ -1,0 +1,77 @@
+{
+  "id": 1293079079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.30516,35.3755,61.30516,35.3755",
+    "geom:latitude":35.3755,
+    "geom:longitude":61.30516,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Nayiq",
+    "gn:country_code":"AF",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132008,
+    "gn:latitude":35.3755,
+    "gn:longitude":61.30516,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101yiq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06cc\u0642"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101yeq"
+    ],
+    "name:und_x_variant":[
+        "N\u0101yiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132008
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0019df6a31cb0afa3a99e85dc3d5a4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1293079079,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293079079,
+    "wof:lastmodified":1537580971,
+    "wof:name":"Nayiq",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.30516,
+    35.3755,
+    61.30516,
+    35.3755
+],
+  "geometry": {"coordinates":[61.30516,35.3755],"type":"Point"}
+}

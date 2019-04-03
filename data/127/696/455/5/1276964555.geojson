@@ -1,0 +1,78 @@
+{
+  "id": 1276964555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28963,33.35895,68.28963,33.35895",
+    "geom:latitude":33.35895,
+    "geom:longitude":68.28963,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"618",
+    "gn:asciiname":"Pachawal",
+    "gn:country_code":"AF",
+    "gn:dem":2187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131357,
+    "gn:latitude":33.35895,
+    "gn:longitude":68.28963,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101ch\u0101w\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0686\u0627\u0648\u0627\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Pachaval\u2019"
+    ],
+    "name:und_x_variant":[
+        "P\u0101\u010d\u0101w\u0101l",
+        "P\u0101ch\u0101w\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131357
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8ddc7849bc6ea0de5bf388bbcaed8934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1276964555,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276964555,
+    "wof:lastmodified":1537580912,
+    "wof:name":"Pachawal",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28963,
+    33.35895,
+    68.28963,
+    33.35895
+],
+  "geometry": {"coordinates":[68.28963,33.35895],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242566603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.43364,32.14907,64.43364,32.14907",
+    "geom:latitude":32.14907,
+    "geom:longitude":64.43364,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306",
+    "gn:asciiname":"Sayyidabad",
+    "gn:country_code":"AF",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1126264,
+    "gn:latitude":32.14907,
+    "gn:longitude":64.43364,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Seyidabad",
+        "S\u0101ye\u1e0f \u0100b\u0101\u1e0f",
+        "Seyyed \u0100b\u0101d",
+        "Sayyid\u0101b\u0101d",
+        "\u0633\u06cc\u062f \u0622\u0628\u0627\u062f",
+        "Seyyed\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126264
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8a99b3e5f579ff8630bd75a58d7deff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1242566603,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242566603,
+    "wof:lastmodified":1537580460,
+    "wof:name":"Sayyidabad",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.43364,
+    32.14907,
+    64.43364,
+    32.14907
+],
+  "geometry": {"coordinates":[64.43364,32.14907],"type":"Point"}
+}

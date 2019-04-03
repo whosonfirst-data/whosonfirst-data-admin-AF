@@ -1,0 +1,73 @@
+{
+  "id": 1259876357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30383,33.98687,67.30383,33.98687",
+    "geom:latitude":33.98687,
+    "geom:longitude":67.30383,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Tar Bulaq",
+    "gn:country_code":"AF",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122767,
+    "gn:latitude":33.98687,
+    "gn:longitude":67.30383,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tar B\u016bl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tar B\u016bl\u0101q",
+        "\u062a\u0631 \u0628\u0648\u0644\u0627\u0642",
+        "Ta\u1e5fbol\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122767
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b90e0bc0d5fe45689e9146e289bb875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1259876357,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259876357,
+    "wof:lastmodified":1537580184,
+    "wof:name":"Tar Bulaq",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30383,
+    33.98687,
+    67.30383,
+    33.98687
+],
+  "geometry": {"coordinates":[67.30383,33.98687],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293169339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.20969,31.69152,67.20969,31.69152",
+    "geom:latitude":31.69152,
+    "geom:longitude":67.20969,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Sakzi Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127882,
+    "gn:latitude":31.69152,
+    "gn:longitude":67.20969,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0101kz\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0643\u0632\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u0627\u06a9\u0632\u06cc \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "S\u0101kzi Kalay",
+        "S\u0101kz\u012b",
+        "S\u0101kz\u012b K\u00ealay",
+        "\u0633\u0627\u06a9\u0632\u06cc \u06a9\u0644\u06cc",
+        "\u0633\u0627\u0643\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127882
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"24af27ab63c99713cbb7478f4d1f07b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1293169339,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293169339,
+    "wof:lastmodified":1537580586,
+    "wof:name":"Sakzi Kelay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.20969000000001,
+    31.69152,
+    67.20969000000001,
+    31.69152
+],
+  "geometry": {"coordinates":[67.20969000000001,31.69152],"type":"Point"}
+}

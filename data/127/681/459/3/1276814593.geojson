@@ -1,0 +1,77 @@
+{
+  "id": 1276814593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78692,36.76501,67.78692,36.76501",
+    "geom:latitude":36.76501,
+    "geom:longitude":67.78692,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614",
+    "gn:asciiname":"Padshah-e Mardan",
+    "gn:country_code":"AF",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131326,
+    "gn:latitude":36.76501,
+    "gn:longitude":67.78692,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101dsh\u0101h-e Mard\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0434\u0448\u0430\u0445\u0438-\u041c\u0430\u0440\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Padshakhi-Mardan",
+        "P\u0101desh\u0101h Mard\u0101n",
+        "P\u0101dsh\u0101h-e Mard\u0101n",
+        "\u067e\u0627\u062f\u0634\u0627\u0647 \u0645\u0631\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131326
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5c05fd380739bab7e10cc5e7e8e8516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562177,
+            "locality_id":1276814593,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276814593,
+    "wof:lastmodified":1537580911,
+    "wof:name":"Padshah-e Mardan",
+    "wof:parent_id":1108562177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78692,
+    36.76501,
+    67.78692,
+    36.76501
+],
+  "geometry": {"coordinates":[67.78691999999999,36.76501],"type":"Point"}
+}

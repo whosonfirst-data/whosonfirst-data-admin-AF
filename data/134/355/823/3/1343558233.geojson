@@ -1,0 +1,78 @@
+{
+  "id": 1343558233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62657,33.31648,67.62657,33.31648",
+    "geom:latitude":33.31648,
+    "geom:longitude":67.62657,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Khar Gardan",
+    "gn:country_code":"AF",
+    "gn:dem":3004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136990,
+    "gn:latitude":33.31648,
+    "gn:longitude":67.62657,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khar Gardan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u06af\u0631\u062f\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0433\u0430\u0440\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0631 \u06af\u0631\u062f\u0646",
+        "Khargardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136990
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"240068c514a857252f75a155369aaaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343558233,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343558233,
+    "wof:lastmodified":1537581385,
+    "wof:name":"Khar Gardan",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62657,
+    33.31648,
+    67.62657,
+    33.31648
+],
+  "geometry": {"coordinates":[67.62657,33.31648],"type":"Point"}
+}

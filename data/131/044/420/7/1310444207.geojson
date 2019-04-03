@@ -1,0 +1,74 @@
+{
+  "id": 1310444207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3061,34.99212,69.3061,34.99212",
+    "geom:latitude":34.99212,
+    "geom:longitude":69.3061,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"308",
+    "gn:asciiname":"Sayad",
+    "gn:country_code":"AF",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126655,
+    "gn:latitude":34.99212,
+    "gn:longitude":69.3061,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eay\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eay\u0101\u1e0f",
+        "\u015eayy\u0101d",
+        "\u015eay\u0101d",
+        "\u0635\u06cc\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        421187943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126655
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"097f57c29c2daa48d790c2a8aed5e7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187943,
+            "locality_id":1310444207,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1310444207,
+    "wof:lastmodified":1537580492,
+    "wof:name":"Sayad",
+    "wof:parent_id":421187943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3061,
+    34.99212,
+    69.3061,
+    34.99212
+],
+  "geometry": {"coordinates":[69.3061,34.99212],"type":"Point"}
+}

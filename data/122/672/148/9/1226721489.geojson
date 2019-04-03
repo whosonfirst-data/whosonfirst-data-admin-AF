@@ -1,0 +1,80 @@
+{
+  "id": 1226721489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.07246,34.7012,69.07246,34.7012",
+    "geom:latitude":34.7012,
+    "geom:longitude":69.07246,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"107",
+    "gn:asciiname":"Fateh Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142214,
+    "gn:latitude":34.7012,
+    "gn:longitude":69.07246,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fate\u1e29 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u062a\u062d \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Fatenkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Fatehkh\u0113l",
+        "F\u0101te\u1e29kheyl",
+        "\u0641\u062a\u062d \u062e\u06d0\u0644",
+        "Fate\u1e29 Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142214
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6292a074b4fe588ebf43136d626e3fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562465,
+            "locality_id":1226721489,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1226721489,
+    "wof:lastmodified":1537581810,
+    "wof:name":"Fateh Khel",
+    "wof:parent_id":1108562465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.07245999999999,
+    34.7012,
+    69.07245999999999,
+    34.7012
+],
+  "geometry": {"coordinates":[69.07245999999999,34.7012],"type":"Point"}
+}

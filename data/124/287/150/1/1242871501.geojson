@@ -1,0 +1,72 @@
+{
+  "id": 1242871501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3694,32.32241,61.3694,32.32241",
+    "geom:latitude":32.32241,
+    "geom:longitude":61.3694,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2108",
+    "gn:asciiname":"Maqbulak",
+    "gn:country_code":"AF",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133888,
+    "gn:latitude":32.32241,
+    "gn:longitude":61.3694,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maqb\u016blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maqb\u016blak",
+        "\u0645\u0642\u0628\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133888
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"218fb8c1035df58a0b917f95f306d42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1242871501,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242871501,
+    "wof:lastmodified":1537581129,
+    "wof:name":"Maqbulak",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3694,
+    32.32241,
+    61.3694,
+    32.32241
+],
+  "geometry": {"coordinates":[61.3694,32.32241],"type":"Point"}
+}

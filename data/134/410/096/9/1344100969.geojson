@@ -1,0 +1,74 @@
+{
+  "id": 1344100969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90863,33.7331,69.90863,33.7331",
+    "geom:latitude":33.7331,
+    "geom:longitude":69.90863,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"707",
+    "gn:asciiname":"Sultak",
+    "gn:country_code":"AF",
+    "gn:dem":1919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123667,
+    "gn:latitude":33.7331,
+    "gn:longitude":69.90863,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sultak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sul\u2019tak"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0644\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123667
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f99bc49980ea778556918ddb4a3c9512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561927,
+            "locality_id":1344100969,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1344100969,
+    "wof:lastmodified":1537580240,
+    "wof:name":"Sultak",
+    "wof:parent_id":1108561927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90863,
+    33.7331,
+    69.90863,
+    33.7331
+],
+  "geometry": {"coordinates":[69.90863,33.7331],"type":"Point"}
+}

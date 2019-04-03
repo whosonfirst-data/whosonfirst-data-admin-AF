@@ -1,0 +1,73 @@
+{
+  "id": 1259737257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.76599,35.48234,66.76599,35.48234",
+    "geom:latitude":35.48234,
+    "geom:longitude":66.76599,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104.0",
+    "gn:asciiname":"Badz",
+    "gn:country_code":"AF",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147452,
+    "gn:latitude":35.48234,
+    "gn:longitude":66.76599,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101dz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101dz",
+        "\u0628\u0627\u0681",
+        "B\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147452
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c30ac437d2d168e6fcc7d58412b65bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1259737257,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1259737257,
+    "wof:lastmodified":1537582267,
+    "wof:name":"Badz",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.76599,
+    35.48234,
+    66.76599,
+    35.48234
+],
+  "geometry": {"coordinates":[66.76599,35.48234],"type":"Point"}
+}

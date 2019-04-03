@@ -1,0 +1,72 @@
+{
+  "id": 1242591409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37083,37.35549,74.37083,37.35549",
+    "geom:latitude":37.35549,
+    "geom:longitude":74.37083,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Qizil Qurum",
+    "gn:country_code":"AF",
+    "gn:dem":4056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1465468,
+    "gn:latitude":37.35549,
+    "gn:longitude":74.37083,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil Qurum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0642\u0632\u0644 \u0642\u0631\u0645",
+        "Qezel Qorum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465468
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d5cc32e6ab159fc3c0ff646195df6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1242591409,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1242591409,
+    "wof:lastmodified":1537583398,
+    "wof:name":"Qizil Qurum",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37083,
+    37.35549,
+    74.37083,
+    37.35549
+],
+  "geometry": {"coordinates":[74.37083,37.35549],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209465991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23024,32.91234,67.23024,32.91234",
+    "geom:latitude":32.91234,
+    "geom:longitude":67.23024,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Wujar",
+    "gn:country_code":"AF",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121557,
+    "gn:latitude":32.91234,
+    "gn:longitude":67.23024,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wujar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vudzhar",
+        "Wujar",
+        "\u0648\u062c\u0631",
+        "Wojar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121557
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d50e936a5714b8634ace9bb16fc5b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209465991
+        }
+    ],
+    "wof:id":1209465991,
+    "wof:lastmodified":1537580048,
+    "wof:name":"Wujar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23024000000001,
+    32.91234,
+    67.23024000000001,
+    32.91234
+],
+  "geometry": {"coordinates":[67.23024000000001,32.91234],"type":"Point"}
+}

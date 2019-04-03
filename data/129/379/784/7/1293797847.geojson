@@ -1,0 +1,73 @@
+{
+  "id": 1293797847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18711,36.62139,71.18711,36.62139",
+    "geom:latitude":36.62139,
+    "geom:longitude":71.18711,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1125.0",
+    "gn:asciiname":"Abdow",
+    "gn:country_code":"AF",
+    "gn:dem":2428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149638,
+    "gn:latitude":36.62139,
+    "gn:longitude":71.18711,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100bdow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0622\u0628\u062f\u0648",
+        "\u0100b\u1e0faw",
+        "\u0100bdow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149638
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39c79476551f1d769c2212d024cca2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562567,
+            "locality_id":1293797847,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293797847,
+    "wof:lastmodified":1537582436,
+    "wof:name":"Abdow",
+    "wof:parent_id":1108562567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18711,
+    36.62139000000001,
+    71.18711,
+    36.62139000000001
+],
+  "geometry": {"coordinates":[71.18711,36.62139000000001],"type":"Point"}
+}

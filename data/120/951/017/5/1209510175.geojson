@@ -1,0 +1,66 @@
+{
+  "id": 1209510175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.35342,31.66392,64.35342,31.66392",
+    "geom:latitude":31.66392,
+    "geom:longitude":64.35342,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Babaji",
+    "gn:country_code":"AF",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425342,
+    "gn:latitude":31.66392,
+    "gn:longitude":64.35342,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u0101j\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101b\u0101j\u012b",
+        "\u0628\u0627\u0628\u0627\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425342
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5be1b8528e1249f2e6f1366eedf8d29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209510175
+        }
+    ],
+    "wof:id":1209510175,
+    "wof:lastmodified":1537582636,
+    "wof:name":"Babaji",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.35342,
+    31.66392,
+    64.35342,
+    31.66392
+],
+  "geometry": {"coordinates":[64.35342,31.66392],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327444165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59189,35.0943,64.59189,35.0943",
+    "geom:latitude":35.0943,
+    "geom:longitude":64.59189,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Sar-e Langar",
+    "gn:country_code":"AF",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127149,
+    "gn:latitude":35.0943,
+    "gn:longitude":64.59189,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Langar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631 \u0644\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127149
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be0ecd1be0e2884c5a7d0c693d3b1e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1327444165,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1327444165,
+    "wof:lastmodified":1537580533,
+    "wof:name":"Sar-e Langar",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59189,
+    35.0943,
+    64.59189,
+    35.0943
+],
+  "geometry": {"coordinates":[64.59189000000001,35.0943],"type":"Point"}
+}

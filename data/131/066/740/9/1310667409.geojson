@@ -1,0 +1,81 @@
+{
+  "id": 1310667409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38508,33.78188,68.38508,33.78188",
+    "geom:latitude":33.78188,
+    "geom:longitude":68.38508,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409",
+    "gn:asciiname":"Kamal Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138451,
+    "gn:latitude":33.78188,
+    "gn:longitude":68.38508,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kam\u0101l Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0645\u0627\u0644 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kamal\u2019kheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kam\u0101lkh\u0113l",
+        "Kam\u0101l Kh\u0113l",
+        "Kam\u0101l Kheyl",
+        "\u0643\u0645\u0627\u0644 \u062e\u064a\u0644",
+        "\u0643\u0645\u0627\u0644 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138451
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"789be04dee0e8302dd03fff8462f6793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1310667409,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310667409,
+    "wof:lastmodified":1537581503,
+    "wof:name":"Kamal Khel",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38508,
+    33.78188,
+    68.38508,
+    33.78188
+],
+  "geometry": {"coordinates":[68.38508,33.78188],"type":"Point"}
+}

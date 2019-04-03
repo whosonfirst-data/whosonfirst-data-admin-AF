@@ -1,0 +1,72 @@
+{
+  "id": 1260009395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.4684,36.81538,66.4684,36.81538",
+    "geom:latitude":36.81538,
+    "geom:longitude":66.4684,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1708",
+    "gn:asciiname":"Sansis",
+    "gn:country_code":"AF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127477,
+    "gn:latitude":36.81538,
+    "gn:longitude":66.4684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sansis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0646\u0633\u0633",
+        "Sanses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127477
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3b9e6b93f477b3ed4af15544e4bb709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562011,
+            "locality_id":1260009395,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1260009395,
+    "wof:lastmodified":1537580558,
+    "wof:name":"Sansis",
+    "wof:parent_id":1108562011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.4684,
+    36.81538,
+    66.4684,
+    36.81538
+],
+  "geometry": {"coordinates":[66.4684,36.81538],"type":"Point"}
+}

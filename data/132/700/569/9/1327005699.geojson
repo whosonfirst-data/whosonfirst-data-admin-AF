@@ -1,0 +1,74 @@
+{
+  "id": 1327005699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.434,34.118,70.434,34.118",
+    "geom:latitude":34.118,
+    "geom:longitude":70.434,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"808.0",
+    "gn:asciiname":"Gagrah",
+    "gn:country_code":"AF",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472628,
+    "gn:latitude":34.118,
+    "gn:longitude":70.434,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101grah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gagra",
+        "G\u0101g\u1e5fa",
+        "G\u0101grah",
+        "\u06af\u0627\u06af\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472628
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"946cbf735f9996f3e12db0e35074750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561971,
+            "locality_id":1327005699,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327005699,
+    "wof:lastmodified":1537583701,
+    "wof:name":"Gagrah",
+    "wof:parent_id":1108561971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.434,
+    34.118,
+    70.434,
+    34.118
+],
+  "geometry": {"coordinates":[70.434,34.118],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326505265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.8548,31.0258,61.8548,31.0258",
+    "geom:latitude":31.0258,
+    "geom:longitude":61.8548,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2201",
+    "gn:asciiname":"Mulla Jamal",
+    "gn:country_code":"AF",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1132928,
+    "gn:latitude":31.0258,
+    "gn:longitude":61.8548,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Jam\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u062c\u0645\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mull\u0101 Jam\u0101l",
+        "Mull\u0101h Jam\u0101l",
+        "Moll\u0101 Jam\u0101l",
+        "\u0645\u0644\u0627 \u062c\u0645\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132928
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86c5c871ae840790ffd24c22eada7556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562603,
+            "locality_id":1326505265,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1326505265,
+    "wof:lastmodified":1537581049,
+    "wof:name":"Mulla Jamal",
+    "wof:parent_id":1108562603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.8548,
+    31.0258,
+    61.8548,
+    31.0258
+],
+  "geometry": {"coordinates":[61.8548,31.0258],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209344773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.10929,33.84563,66.10929,33.84563",
+    "geom:latitude":33.84563,
+    "geom:longitude":66.10929,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3401.0",
+    "gn:asciiname":"Kabigak",
+    "gn:country_code":"AF",
+    "gn:dem":2456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7492631,
+    "gn:latitude":33.84563,
+    "gn:longitude":66.10929,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kabigak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0628\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7492631
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ef8bccefd0105ff5a41f15fd51190bda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209344773
+        }
+    ],
+    "wof:id":1209344773,
+    "wof:lastmodified":1537583920,
+    "wof:name":"Kabigak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.10929,
+    33.84563,
+    66.10929,
+    33.84563
+],
+  "geometry": {"coordinates":[66.10929,33.84563],"type":"Point"}
+}

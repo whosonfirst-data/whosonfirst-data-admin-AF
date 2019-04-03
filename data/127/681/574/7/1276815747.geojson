@@ -1,0 +1,76 @@
+{
+  "id": 1276815747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54641,33.73779,68.54641,33.73779",
+    "geom:latitude":33.73779,
+    "geom:longitude":68.54641,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Shash Gaw",
+    "gn:country_code":"AF",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125320,
+    "gn:latitude":33.73779,
+    "gn:longitude":68.54641,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash G\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shashgao",
+        "\u0160a\u0161g\u0101w",
+        "Shashgav",
+        "Shash G\u0101w",
+        "Shesh G\u0101v",
+        "\u0634\u0634 \u06af\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125320
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"096c7baf97a8519d100f7983a2f97908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1276815747,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1276815747,
+    "wof:lastmodified":1537580378,
+    "wof:name":"Shash Gaw",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54641,
+    33.73779,
+    68.54641,
+    33.73779
+],
+  "geometry": {"coordinates":[68.54640999999999,33.73779],"type":"Point"}
+}

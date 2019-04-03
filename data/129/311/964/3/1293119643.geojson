@@ -1,0 +1,72 @@
+{
+  "id": 1293119643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97411,34.59017,65.97411,34.59017",
+    "geom:latitude":34.59017,
+    "geom:longitude":65.97411,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Dahan-e Kichah",
+    "gn:country_code":"AF",
+    "gn:dem":2555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541370,
+    "gn:latitude":34.59017,
+    "gn:longitude":65.97411,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e K\u012bchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahan-e K\u012bchah",
+        "\u062f\u0647\u0646 \u06a9\u06cc\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541370
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"67c1136a3fd482f3b2462c1cc9bab296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1293119643,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293119643,
+    "wof:lastmodified":1537583930,
+    "wof:name":"Dahan-e Kichah",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97411,
+    34.59017,
+    65.97411,
+    34.59017
+],
+  "geometry": {"coordinates":[65.97411,34.59017],"type":"Point"}
+}

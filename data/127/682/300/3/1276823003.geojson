@@ -1,0 +1,74 @@
+{
+  "id": 1276823003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66618,34.01127,68.66618,34.01127",
+    "geom:latitude":34.01127,
+    "geom:longitude":68.66618,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Kashmun",
+    "gn:country_code":"AF",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137740,
+    "gn:latitude":34.01127,
+    "gn:longitude":68.66618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0161m\u016bn",
+        "Kashmun",
+        "Kashm\u016bn",
+        "\u06a9\u0634\u0645\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137740
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32ab1ec975202b25b8c43d1bf667a526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1276823003,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1276823003,
+    "wof:lastmodified":1537581439,
+    "wof:name":"Kashmun",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66618000000001,
+    34.01127,
+    68.66618000000001,
+    34.01127
+],
+  "geometry": {"coordinates":[68.66618000000001,34.01127],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276365333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45213,36.21612,65.45213,36.21612",
+    "geom:latitude":36.21612,
+    "geom:longitude":65.45213,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1711",
+    "gn:asciiname":"Piazly Kol",
+    "gn:country_code":"AF",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130686,
+    "gn:latitude":36.21612,
+    "gn:longitude":65.45213,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u012b\u0101zly K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012b\u0101zly K\u014dl",
+        "\u067e\u06cc\u0627\u0632\u0644\u06cc \u06a9\u0648\u0644",
+        "Pi\u0101zly Kol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130686
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"edcf14e8a3ba77792cad827f8a9f84a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562401,
+            "locality_id":1276365333,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1276365333,
+    "wof:lastmodified":1537580859,
+    "wof:name":"Piazly Kol",
+    "wof:parent_id":1108562401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45213000000001,
+    36.21612,
+    65.45213000000001,
+    36.21612
+],
+  "geometry": {"coordinates":[65.45213000000001,36.21612],"type":"Point"}
+}

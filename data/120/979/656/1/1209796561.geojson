@@ -1,0 +1,75 @@
+{
+  "id": 1209796561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.13148,34.10692,63.13148,34.10692",
+    "geom:latitude":34.10692,
+    "geom:longitude":63.13148,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Ghorishan",
+    "gn:country_code":"AF",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140960,
+    "gn:latitude":34.10692,
+    "gn:longitude":63.13148,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014dr\u012bsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u014d\u1e5fis\u0101n",
+        "Gh\u014drish\u0101n",
+        "Gh\u016br\u012bsh\u0101n",
+        "Gh\u014dr\u012bsh\u0101n",
+        "\u063a\u0648\u0631\u06cc\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f776c834ff379ba29e107a359a1fdd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1209796561,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209796561,
+    "wof:lastmodified":1537581708,
+    "wof:name":"Ghorishan",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.13148,
+    34.10692,
+    63.13148,
+    34.10692
+],
+  "geometry": {"coordinates":[63.13148,34.10692],"type":"Point"}
+}

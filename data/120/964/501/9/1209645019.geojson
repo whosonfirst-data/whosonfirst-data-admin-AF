@@ -1,0 +1,67 @@
+{
+  "id": 1209645019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.8371,36.74463,65.8371,36.74463",
+    "geom:latitude":36.74463,
+    "geom:longitude":65.8371,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Nikrabad",
+    "gn:country_code":"AF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131933,
+    "gn:latitude":36.74463,
+    "gn:longitude":65.8371,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nikr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nikr\u0101b\u0101d",
+        "\u0646\u06a9\u0631 \u0622\u0628\u0627\u062f",
+        "Nekr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ed90517ae01eaa455078396cf65d3b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209645019
+        }
+    ],
+    "wof:id":1209645019,
+    "wof:lastmodified":1537580965,
+    "wof:name":"Nikrabad",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.8371,
+    36.74463,
+    65.8371,
+    36.74463
+],
+  "geometry": {"coordinates":[65.83710000000001,36.74463],"type":"Point"}
+}

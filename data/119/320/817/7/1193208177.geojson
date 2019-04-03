@@ -1,0 +1,78 @@
+{
+  "id": 1193208177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.80595,33.99467,69.80595,33.99467",
+    "geom:latitude":33.99467,
+    "geom:longitude":69.80595,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"711.0",
+    "gn:asciiname":"Bar Bilawut",
+    "gn:country_code":"AF",
+    "gn:dem":2509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147008,
+    "gn:latitude":33.99467,
+    "gn:longitude":69.80595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Bilaw\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012br\u0101no Kili",
+        "Bar-Bilavut",
+        "Bar B\u00ealaw\u016bt",
+        "Ba\u1e5f Belaw\u016bt",
+        "Bar Bilaw\u016bt",
+        "\u0628\u0631\u0628\u0644\u0648\u0648\u062a",
+        "Bar B\u012blahw\u016bt",
+        "\u0628\u0631\u0628\u06cc\u0644\u0647 \u0648\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147008
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c48c849852478e5e15e4bd245da4ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561789,
+            "locality_id":1193208177,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193208177,
+    "wof:lastmodified":1537582231,
+    "wof:name":"Bar Bilawut",
+    "wof:parent_id":1108561789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.80595,
+    33.99467,
+    69.80595,
+    33.99467
+],
+  "geometry": {"coordinates":[69.80595,33.99467],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226601649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2723,36.40767,69.2723,36.40767",
+    "geom:latitude":36.40767,
+    "geom:longitude":69.2723,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203",
+    "gn:asciiname":"Sher Bachah",
+    "gn:country_code":"AF",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125044,
+    "gn:latitude":36.40767,
+    "gn:longitude":69.2723,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r Bachah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u012br Bacheh",
+        "Sh\u0113r Bacha",
+        "Sh\u012br Bachcheh",
+        "Shayr Bachah",
+        "\u0634\u06cc\u0631 \u0628\u0686\u0647",
+        "Sh\u0113r Bachah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125044
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffbf1e9c9fd582d4c3eac02e225cfb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1226601649,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1226601649,
+    "wof:lastmodified":1537580351,
+    "wof:name":"Sher Bachah",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2723,
+    36.40767,
+    69.2723,
+    36.40767
+],
+  "geometry": {"coordinates":[69.2723,36.40767],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1327442827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58325,36.02093,68.58325,36.02093",
+    "geom:latitude":36.02093,
+    "geom:longitude":68.58325,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Kuhnah Masjid",
+    "gn:country_code":"AF",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135795,
+    "gn:latitude":36.02093,
+    "gn:longitude":68.58325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuhnah Masjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0647\u0646\u0647 \u0645\u0633\u062c\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0445\u043d\u0430\u043c\u0430\u0441\u0434\u0436\u0438\u0434"
+    ],
+    "name:und_x_variant":[
+        "Kokhnamasdzhid",
+        "Kohna Masje\u1e0f",
+        "Kohneh Masjed",
+        "Kuhnah Masjid",
+        "\u06a9\u0647\u0646\u0647 \u0645\u0633\u062c\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135795
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ce3ecd987bda72544c93ac52fd64487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1327442827,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327442827,
+    "wof:lastmodified":1537581286,
+    "wof:name":"Kuhnah Masjid",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58325,
+    36.02093,
+    68.58325,
+    36.02093
+],
+  "geometry": {"coordinates":[68.58325000000001,36.02093],"type":"Point"}
+}

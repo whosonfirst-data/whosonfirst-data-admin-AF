@@ -1,0 +1,73 @@
+{
+  "id": 1260176187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.82444,35.91098,64.82444,35.91098",
+    "geom:latitude":35.91098,
+    "geom:longitude":64.82444,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1801",
+    "gn:asciiname":"Deh 'Azizan",
+    "gn:country_code":"AF",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143641,
+    "gn:latitude":35.91098,
+    "gn:longitude":64.82444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh \u2018Az\u012bz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eeh \u2018Aziz\u0101n",
+        "Deh \u2018Az\u012bz\u0101n",
+        "\u062f\u0647 \u0639\u0632\u06cc\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143641
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eeab1cbf7e9b65ce985b8b2b24cc6dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562261,
+            "locality_id":1260176187,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1260176187,
+    "wof:lastmodified":1537581939,
+    "wof:name":"Deh 'Azizan",
+    "wof:parent_id":1108562261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.82444,
+    35.91098,
+    64.82444,
+    35.91098
+],
+  "geometry": {"coordinates":[64.82444,35.91098],"type":"Point"}
+}

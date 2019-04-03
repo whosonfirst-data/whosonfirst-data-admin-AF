@@ -1,0 +1,77 @@
+{
+  "id": 1243113131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87736,34.75014,70.87736,34.75014",
+    "geom:latitude":34.75014,
+    "geom:longitude":70.87736,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Natsapah",
+    "gn:country_code":"AF",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474248,
+    "gn:latitude":34.75014,
+    "gn:longitude":70.87736,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101ts\u0101pah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0686\u0627\u067e\u0647"
+    ],
+    "name:und_x_variant":[
+        "Nachapa",
+        "N\u0101c\u0101pa",
+        "N\u0101ts\u0101pah",
+        "\u0646\u0627\u0685\u0627\u067e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474248
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fee6f514d752cf656a671be00dfdfd32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561913,
+            "locality_id":1243113131,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1243113131,
+    "wof:lastmodified":1537583791,
+    "wof:name":"Natsapah",
+    "wof:parent_id":1108561913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87736,
+    34.75014,
+    70.87736,
+    34.75014
+],
+  "geometry": {"coordinates":[70.87736,34.75014],"type":"Point"}
+}

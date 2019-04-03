@@ -1,0 +1,76 @@
+{
+  "id": 1293380641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41923,33.29005,68.41923,33.29005",
+    "geom:latitude":33.29005,
+    "geom:longitude":68.41923,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Khairo",
+    "gn:country_code":"AF",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136786,
+    "gn:latitude":33.29005,
+    "gn:longitude":68.41923,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u012br\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064a\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Khayru",
+        "Kha\u012br\u014d",
+        "Khay\u1e5fo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136786
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7232cda7a6918e143fa083d45596f7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1293380641,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293380641,
+    "wof:lastmodified":1537581370,
+    "wof:name":"Khairo",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41923,
+    33.29005,
+    68.41923,
+    33.29005
+],
+  "geometry": {"coordinates":[68.41923,33.29005],"type":"Point"}
+}

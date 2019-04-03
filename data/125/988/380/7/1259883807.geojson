@@ -1,0 +1,74 @@
+{
+  "id": 1259883807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8832,38.1767,70.8832,38.1767",
+    "geom:latitude":38.1767,
+    "geom:longitude":70.8832,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Dirch",
+    "gn:country_code":"AF",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466639,
+    "gn:latitude":38.1767,
+    "gn:longitude":70.8832,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dirch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eerc",
+        "Derch",
+        "Dirch",
+        "\u062f\u0631\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466639
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e97ff3d8f2866e19c9d97813fa2f9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1259883807,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259883807,
+    "wof:lastmodified":1537583435,
+    "wof:name":"Dirch",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8832,
+    38.1767,
+    70.8832,
+    38.1767
+],
+  "geometry": {"coordinates":[70.8832,38.1767],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343803613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.898,36.51011,67.898,36.51011",
+    "geom:latitude":36.51011,
+    "geom:longitude":67.898,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Kol-e Ishan",
+    "gn:country_code":"AF",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135739,
+    "gn:latitude":36.51011,
+    "gn:longitude":67.898,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dl-e Ish\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kol-i-Eshan",
+        "Kol-e Eshan",
+        "K\u014dl-e Ish\u0101n",
+        "\u06a9\u0648\u0644 \u0627\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135739
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e5cd5b4cc1ec7274f980ecd509b5ca48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562063,
+            "locality_id":1343803613,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1343803613,
+    "wof:lastmodified":1537581281,
+    "wof:name":"Kol-e Ishan",
+    "wof:parent_id":1108562063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.898,
+    36.51011,
+    67.898,
+    36.51011
+],
+  "geometry": {"coordinates":[67.898,36.51011],"type":"Point"}
+}

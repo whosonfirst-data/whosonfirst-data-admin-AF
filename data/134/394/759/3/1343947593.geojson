@@ -1,0 +1,74 @@
+{
+  "id": 1343947593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.30572,33.64596,64.30572,33.64596",
+    "geom:latitude":33.64596,
+    "geom:longitude":64.30572,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Kushkaspi",
+    "gn:country_code":"AF",
+    "gn:dem":2405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135124,
+    "gn:latitude":33.64596,
+    "gn:longitude":64.30572,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kushkasp\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u0161kaspi",
+        "Kushkasp\u012b",
+        "\u06a9\u0634\u06a9\u0633\u067e\u06cc",
+        "Koshkehsp\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135124
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ab2b7f4ab0c9516b473ce6950077af1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1343947593,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343947593,
+    "wof:lastmodified":1537581227,
+    "wof:name":"Kushkaspi",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.30572,
+    33.64596,
+    64.30572,
+    33.64596
+],
+  "geometry": {"coordinates":[64.30571999999999,33.64596],"type":"Point"}
+}

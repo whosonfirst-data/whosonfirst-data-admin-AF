@@ -1,0 +1,79 @@
+{
+  "id": 1327390223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.5485,31.45843,65.5485,31.45843",
+    "geom:latitude":31.45843,
+    "geom:longitude":65.5485,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Taymur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122470,
+    "gn:latitude":31.45843,
+    "gn:longitude":65.5485,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Taymur K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u06cc\u064e\u06c0 \u062a\u0650\u064a\u0645\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Timurkalay",
+        "Timore Karez",
+        "T\u0113mu\u1e5f Kalay",
+        "Teym\u016br Kalay",
+        "Taymur K\u00ealay",
+        "\u062a\u06cc\u0645\u0631 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122470
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d7d6ca44766d3b5c7117f185c2a2449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1327390223,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327390223,
+    "wof:lastmodified":1537580116,
+    "wof:name":"Taymur Kelay",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.5485,
+    31.45843,
+    65.5485,
+    31.45843
+],
+  "geometry": {"coordinates":[65.5485,31.45843],"type":"Point"}
+}

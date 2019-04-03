@@ -1,0 +1,72 @@
+{
+  "id": 1226543883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84775,38.41628,70.84775,38.41628",
+    "geom:latitude":38.41628,
+    "geom:longitude":70.84775,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Dasak",
+    "gn:country_code":"AF",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467083,
+    "gn:latitude":38.41628,
+    "gn:longitude":70.84775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101sak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101sak",
+        "\u062f\u0627\u0633\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467083
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08d0cd7d2cb6ce18a086e6f0c0ad361f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1226543883,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226543883,
+    "wof:lastmodified":1537583452,
+    "wof:name":"Dasak",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84775,
+    38.41628,
+    70.84775,
+    38.41628
+],
+  "geometry": {"coordinates":[70.84775,38.41628],"type":"Point"}
+}

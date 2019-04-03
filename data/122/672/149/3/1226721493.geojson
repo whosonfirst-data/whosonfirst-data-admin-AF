@@ -1,0 +1,80 @@
+{
+  "id": 1226721493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09448,34.84684,69.09448,34.84684",
+    "geom:latitude":34.84684,
+    "geom:longitude":69.09448,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"106.0",
+    "gn:asciiname":"Shoraw",
+    "gn:country_code":"AF",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349710,
+    "gn:latitude":34.84684,
+    "gn:longitude":69.09448,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0160oraw",
+        "Sh\u014draw",
+        "Shorav",
+        "Sh\u014dr\u0101b",
+        "Sh\u016br\u0101b",
+        "Sh\u014dr\u0101w",
+        "\u0634\u0648\u0631\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349710
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"066397b329a8ae10158dcc162638f26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562087,
+            "locality_id":1226721493,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1226721493,
+    "wof:lastmodified":1537582468,
+    "wof:name":"Shoraw",
+    "wof:parent_id":1108562087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09448,
+    34.84684,
+    69.09448,
+    34.84684
+],
+  "geometry": {"coordinates":[69.09448,34.84684],"type":"Point"}
+}

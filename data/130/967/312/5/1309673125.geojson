@@ -1,0 +1,74 @@
+{
+  "id": 1309673125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.39481,32.29841,68.39481,32.29841",
+    "geom:latitude":32.29841,
+    "geom:longitude":68.39481,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Mehman Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133584,
+    "gn:latitude":32.29841,
+    "gn:longitude":68.39481,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mehm\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikhmankalay",
+        "\u0645\u0647\u0645\u0627\u0646 \u06a9\u0644\u06cc",
+        "Mehm\u0101n Kalay",
+        "Mehm\u0101n K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133584
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c047b7871370d6a978fad62b538ae070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1309673125,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1309673125,
+    "wof:lastmodified":1537581107,
+    "wof:name":"Mehman Kelay",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.39480999999999,
+    32.29841,
+    68.39480999999999,
+    32.29841
+],
+  "geometry": {"coordinates":[68.39480999999999,32.29841],"type":"Point"}
+}

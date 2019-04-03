@@ -1,0 +1,76 @@
+{
+  "id": 1260386431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.38118,32.08129,61.38118,32.08129",
+    "geom:latitude":32.08129,
+    "geom:longitude":61.38118,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Husayabad",
+    "gn:country_code":"AF",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139955,
+    "gn:latitude":32.08129,
+    "gn:longitude":61.38118,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28usay\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331osay\u0101b\u0101\u1e0f",
+        "\u1e28oseyn\u0101b\u0101d",
+        "\u1e28usay\u0101b\u0101d",
+        "\u062d\u0633\u06cc \u0622\u0628\u0627\u062f",
+        "\u1e28\u014dsay \u0100b\u0101d",
+        "\u062d\u0648\u0633\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c61bcfa9e66771300c88d920498797f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1260386431,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1260386431,
+    "wof:lastmodified":1537581619,
+    "wof:name":"Husayabad",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.38118000000001,
+    32.08129,
+    61.38118000000001,
+    32.08129
+],
+  "geometry": {"coordinates":[61.38118000000001,32.08129],"type":"Point"}
+}

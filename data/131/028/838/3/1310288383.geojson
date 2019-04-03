@@ -1,0 +1,75 @@
+{
+  "id": 1310288383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.58011,34.97302,69.58011,34.97302",
+    "geom:latitude":34.97302,
+    "geom:longitude":69.58011,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Zarsho",
+    "gn:country_code":"AF",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472346,
+    "gn:latitude":34.97302,
+    "gn:longitude":69.58011,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zarsh\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarshu",
+        "Zar\u0161o",
+        "Zarsho",
+        "Zarsh\u014d",
+        "\u0632\u0631\u0634\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472346
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc5b361d8529ffbd9c237d60e436a8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1310288383,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1310288383,
+    "wof:lastmodified":1537583684,
+    "wof:name":"Zarsho",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.58010999999999,
+    34.97302,
+    69.58010999999999,
+    34.97302
+],
+  "geometry": {"coordinates":[69.58010999999999,34.97302],"type":"Point"}
+}

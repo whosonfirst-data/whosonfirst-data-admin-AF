@@ -1,0 +1,73 @@
+{
+  "id": 1226574643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47433,35.36261,67.47433,35.36261",
+    "geom:latitude":35.36261,
+    "geom:longitude":67.47433,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Sar-e Shahr",
+    "gn:country_code":"AF",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127069,
+    "gn:latitude":35.36261,
+    "gn:longitude":67.47433,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fe S\u0304ah\u1e5f",
+        "Sar-e Shahr",
+        "\u0633\u0631 \u0634\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127069
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9950bfcf526f6760ddd3d5a80acf8a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1226574643,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226574643,
+    "wof:lastmodified":1537580526,
+    "wof:name":"Sar-e Shahr",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47433000000001,
+    35.36261,
+    67.47433000000001,
+    35.36261
+],
+  "geometry": {"coordinates":[67.47433000000001,35.36261],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193093317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56653,31.36781,66.56653,31.36781",
+    "geom:latitude":31.36781,
+    "geom:longitude":66.56653,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Wurtskay",
+    "gn:country_code":"AF",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466230,
+    "gn:latitude":31.36781,
+    "gn:longitude":66.56653,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wurtskay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vurchkay",
+        "Wu\u1e5fckay",
+        "Wurtskay",
+        "\u0648\u0631\u0685\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466230
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abc0101ce2c344b4df63594ed98e4548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1193093317,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1193093317,
+    "wof:lastmodified":1537583417,
+    "wof:name":"Wurtskay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56653,
+    31.36781,
+    66.56653,
+    31.36781
+],
+  "geometry": {"coordinates":[66.56653,31.36781],"type":"Point"}
+}

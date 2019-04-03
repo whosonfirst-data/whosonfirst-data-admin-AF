@@ -1,0 +1,73 @@
+{
+  "id": 1343752457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51004,34.08641,67.51004,34.08641",
+    "geom:latitude":34.08641,
+    "geom:longitude":67.51004,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Khalamad",
+    "gn:country_code":"AF",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137307,
+    "gn:latitude":34.08641,
+    "gn:longitude":67.51004,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khal\u0101mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khal\u0101mad",
+        "\u062e\u0644\u0627\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137307,
+        "wk:page":"Khalamad"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5540e5d0b96195c69fbda3a3d96d9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1343752457,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343752457,
+    "wof:lastmodified":1537581409,
+    "wof:name":"Khalamad",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51004,
+    34.08641,
+    67.51004,
+    34.08641
+],
+  "geometry": {"coordinates":[67.51004,34.08641],"type":"Point"}
+}

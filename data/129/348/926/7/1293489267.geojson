@@ -1,0 +1,75 @@
+{
+  "id": 1293489267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77,35.82747,68.77,35.82747",
+    "geom:latitude":35.82747,
+    "geom:longitude":68.77,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Taporak",
+    "gn:country_code":"AF",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122819,
+    "gn:latitude":35.82747,
+    "gn:longitude":68.77,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e6eap\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tap\u014d\u1e5fak",
+        "Taporak",
+        "Tap\u016brak",
+        "\u1e6eap\u014drak",
+        "\u067c\u067e\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122819
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abc727da3ceb0743b07955a4bb54504c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1293489267,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293489267,
+    "wof:lastmodified":1537580188,
+    "wof:name":"Taporak",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77,
+    35.82747,
+    68.77,
+    35.82747
+],
+  "geometry": {"coordinates":[68.77,35.82747],"type":"Point"}
+}

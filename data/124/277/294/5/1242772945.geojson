@@ -1,0 +1,76 @@
+{
+  "id": 1242772945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02468,32.41554,65.02468,32.41554",
+    "geom:latitude":32.41554,
+    "geom:longitude":65.02468,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Ghach Zar",
+    "gn:country_code":"AF",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141523,
+    "gn:latitude":32.41554,
+    "gn:longitude":65.02468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghach Z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gachzar",
+        "Gha\u010dz\u0101r",
+        "Gichzar",
+        "Ghachi Zar",
+        "Ghach Z\u0101r",
+        "\u063a\u0686 \u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141523
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d78333328d9ba7e3737949f1b07954c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1242772945,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242772945,
+    "wof:lastmodified":1537581758,
+    "wof:name":"Ghach Zar",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02468,
+    32.41554,
+    65.02468,
+    32.41554
+],
+  "geometry": {"coordinates":[65.02468,32.41554],"type":"Point"}
+}

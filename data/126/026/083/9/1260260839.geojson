@@ -1,0 +1,74 @@
+{
+  "id": 1260260839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.21121,33.87752,63.21121,33.87752",
+    "geom:latitude":33.87752,
+    "geom:longitude":63.21121,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Kushkak",
+    "gn:country_code":"AF",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135146,
+    "gn:latitude":33.87752,
+    "gn:longitude":63.21121,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kushkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u0161kak",
+        "Kushkak",
+        "\u06a9\u0634\u06a9\u06a9",
+        "K\u016bshkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135146
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e63e2d6e5cb8ad586cde7bc5c75b2dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1260260839,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1260260839,
+    "wof:lastmodified":1537581230,
+    "wof:name":"Kushkak",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.21121,
+    33.87752,
+    63.21121,
+    33.87752
+],
+  "geometry": {"coordinates":[63.21121,33.87752],"type":"Point"}
+}

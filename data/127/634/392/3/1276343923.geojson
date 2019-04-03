@@ -1,0 +1,75 @@
+{
+  "id": 1276343923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.05881,35.15177,63.05881,35.15177",
+    "geom:latitude":35.15177,
+    "geom:longitude":63.05881,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1907.0",
+    "gn:asciiname":"Achishkah",
+    "gn:country_code":"AF",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149425,
+    "gn:latitude":35.15177,
+    "gn:longitude":63.05881,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Achishkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aces\u0304ka",
+        "Acheshka",
+        "Achishkah",
+        "\u0627\u0686\u0634\u06a9\u0647",
+        "Acheshkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149425
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"506baf8b23beca4414f906eef8263568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562287,
+            "locality_id":1276343923,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1276343923,
+    "wof:lastmodified":1537582416,
+    "wof:name":"Achishkah",
+    "wof:parent_id":1108562287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.05881,
+    35.15177,
+    63.05881,
+    35.15177
+],
+  "geometry": {"coordinates":[63.05881,35.15177],"type":"Point"}
+}

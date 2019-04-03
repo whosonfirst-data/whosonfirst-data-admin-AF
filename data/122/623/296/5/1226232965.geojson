@@ -1,0 +1,78 @@
+{
+  "id": 1226232965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.46471,33.38081,68.46471,33.38081",
+    "geom:latitude":33.38081,
+    "geom:longitude":68.46471,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Du Shakhah",
+    "gn:country_code":"AF",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439114,
+    "gn:latitude":33.38081,
+    "gn:longitude":68.46471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b Sh\u0101khah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0634\u0627\u062e\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dushakha",
+        "Do\u0161\u0101kha",
+        "D\u014d Sh\u0101khah",
+        "Do Sh\u0101kheh",
+        "D\u016b Sh\u0101khah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439114
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9318dce4e53177a238c04bc14fcf2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1226232965,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226232965,
+    "wof:lastmodified":1537582919,
+    "wof:name":"Du Shakhah",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.46471,
+    33.38081,
+    68.46471,
+    33.38081
+],
+  "geometry": {"coordinates":[68.46471,33.38081],"type":"Point"}
+}

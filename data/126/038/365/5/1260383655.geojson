@@ -1,0 +1,82 @@
+{
+  "id": 1260383655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.46122,32.2797,62.46122,32.2797",
+    "geom:latitude":32.2797,
+    "geom:longitude":62.46122,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Tsalakzai",
+    "gn:country_code":"AF",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146022,
+    "gn:latitude":32.2797,
+    "gn:longitude":62.46122,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ts\u0101l\u0101kza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644\u0627\u0643\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "C\u0101l\u0101kz",
+        "Chalakzi",
+        "C\u0101l\u0101kz\u0304\u2019i",
+        "Ts\u0101l\u0101kz\u012b",
+        "Ts\u0101l\u0101kza\u012b",
+        "\u0685\u0627\u0644\u0627\u06a9\u0632\u06cc",
+        "Kh\u0101lak Za\u012b",
+        "\u062e\u0627\u0644\u06a9 \u0632\u06cc",
+        "\u0686\u0627\u0644\u0627\u0643\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146022
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4b6bfbaf0d8147975cb4d83791c049de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1260383655,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1260383655,
+    "wof:lastmodified":1537582150,
+    "wof:name":"Tsalakzai",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.46122,
+    32.2797,
+    62.46122,
+    32.2797
+],
+  "geometry": {"coordinates":[62.46122,32.2797],"type":"Point"}
+}

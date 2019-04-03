@@ -1,0 +1,73 @@
+{
+  "id": 1293004613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76258,36.42076,70.76258,36.42076",
+    "geom:latitude":36.42076,
+    "geom:longitude":70.76258,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Gowhar",
+    "gn:country_code":"AF",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141681,
+    "gn:latitude":36.42076,
+    "gn:longitude":70.76258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gowhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0648\u0647\u0631",
+        "Gawhar",
+        "G\u0101whar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141681
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d42c063ed00c571a1f5f41545092a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1293004613,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293004613,
+    "wof:lastmodified":1537581767,
+    "wof:name":"Gowhar",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76258,
+    36.42076,
+    70.76258,
+    36.42076
+],
+  "geometry": {"coordinates":[70.76258,36.42076],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343824507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.74287,34.45126,68.74287,34.45126",
+    "geom:latitude":34.45126,
+    "geom:longitude":68.74287,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"401",
+    "gn:asciiname":"Kotgay",
+    "gn:country_code":"AF",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135408,
+    "gn:latitude":34.45126,
+    "gn:longitude":68.74287,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6fgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014ddgay",
+        "Kodgay",
+        "K\u014d\u1e6fga\u012b",
+        "K\u016bdgay",
+        "K\u014d\u1e6fgay",
+        "\u06a9\u0648\u067c\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135408
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d8cca9ad2c7fe36a4e890a66c03db14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562259,
+            "locality_id":1343824507,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343824507,
+    "wof:lastmodified":1537581249,
+    "wof:name":"Kotgay",
+    "wof:parent_id":1108562259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.74287,
+    34.45126,
+    68.74287,
+    34.45126
+],
+  "geometry": {"coordinates":[68.74287,34.45126],"type":"Point"}
+}

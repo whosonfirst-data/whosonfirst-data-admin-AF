@@ -1,0 +1,78 @@
+{
+  "id": 1293738193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.14999,34.58196,68.14999,34.58196",
+    "geom:latitude":34.58196,
+    "geom:longitude":68.14999,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Dowlat Murad",
+    "gn:country_code":"AF",
+    "gn:dem":3158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142763,
+    "gn:latitude":34.58196,
+    "gn:longitude":68.14999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat Mur\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eawlatmo\u1e5f\u0101\u1e0f",
+        "Baymurad",
+        "Daulatmurad",
+        "B\u0101ymo\u1e5f\u0101\u1e0f",
+        "Dowlatmor\u0101d",
+        "Dowlat Mur\u0101d (B\u0101y Mur\u0101d)",
+        "Dowlat Mur\u0101d",
+        "\u062f\u0648\u0644\u062a \u0645\u0631\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142763
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d48ebedc94681305f2e4c00d7610df49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1293738193,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293738193,
+    "wof:lastmodified":1537581858,
+    "wof:name":"Dowlat Murad",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.14999,
+    34.58196,
+    68.14999,
+    34.58196
+],
+  "geometry": {"coordinates":[68.14999,34.58196],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193073439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83009,36.50973,67.83009,36.50973",
+    "geom:latitude":36.50973,
+    "geom:longitude":67.83009,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Shor Qol",
+    "gn:country_code":"AF",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124737,
+    "gn:latitude":36.50973,
+    "gn:longitude":67.83009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shor Qul",
+        "Sh\u016br Qol",
+        "Sh\u014dr Q\u014dl",
+        "\u0634\u0648\u0631 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124737
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a138a1b7a8a4a0db9edc6a033716a5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562063,
+            "locality_id":1193073439,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1193073439,
+    "wof:lastmodified":1537580324,
+    "wof:name":"Shor Qol",
+    "wof:parent_id":1108562063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83009,
+    36.50973,
+    67.83009,
+    36.50973
+],
+  "geometry": {"coordinates":[67.83009,36.50973],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209573665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.47656,31.99666,65.47656,31.99666",
+    "geom:latitude":31.99666,
+    "geom:longitude":65.47656,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2405",
+    "gn:asciiname":"Darwayshan",
+    "gn:country_code":"AF",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143900,
+    "gn:latitude":31.99666,
+    "gn:longitude":65.47656,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darwaysh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darwesh\u0101n",
+        "Darw\u0113\u0161\u0101n",
+        "Darveshan",
+        "Darv\u012bsh\u0101n",
+        "Darwaysh\u0101n",
+        "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143900
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dbf4d8ef85f622a70e48241968dcf83f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209573665
+        }
+    ],
+    "wof:id":1209573665,
+    "wof:lastmodified":1537581959,
+    "wof:name":"Darwayshan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.47655999999999,
+    31.99666,
+    65.47655999999999,
+    31.99666
+],
+  "geometry": {"coordinates":[65.47655999999999,31.99666],"type":"Point"}
+}

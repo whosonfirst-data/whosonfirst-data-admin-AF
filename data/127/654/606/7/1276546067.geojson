@@ -1,0 +1,74 @@
+{
+  "id": 1276546067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.87859,34.73985,66.87859,34.73985",
+    "geom:latitude":34.73985,
+    "geom:longitude":66.87859,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Marghistan",
+    "gn:country_code":"AF",
+    "gn:dem":2531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457775,
+    "gn:latitude":34.73985,
+    "gn:longitude":66.87859,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Marghist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Margistan",
+        "Marghist\u0101n",
+        "Marghest\u0101n",
+        "\u0645\u0631\u063a\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457775
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6636792ee9a5db9f9e9fcd69a88dfa31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1276546067,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276546067,
+    "wof:lastmodified":1537583236,
+    "wof:name":"Marghistan",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.87859,
+    34.73985,
+    66.87859,
+    34.73985
+],
+  "geometry": {"coordinates":[66.87859,34.73985],"type":"Point"}
+}

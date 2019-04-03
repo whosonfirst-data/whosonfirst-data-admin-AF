@@ -1,0 +1,72 @@
+{
+  "id": 1293259359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60408,37.40506,69.60408,37.40506",
+    "geom:latitude":37.40506,
+    "geom:longitude":69.60408,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1216.0",
+    "gn:asciiname":"Kaftar 'Ali",
+    "gn:country_code":"AF",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467621,
+    "gn:latitude":37.40506,
+    "gn:longitude":69.60408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaftar \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaftar \u2018Al\u012b",
+        "\u06a9\u0641\u062a\u0631 \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467621
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db294c6b6d22838a8c4ee26ed1cf210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562183,
+            "locality_id":1293259359,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293259359,
+    "wof:lastmodified":1537583492,
+    "wof:name":"Kaftar 'Ali",
+    "wof:parent_id":1108562183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60408000000001,
+    37.40506,
+    69.60408000000001,
+    37.40506
+],
+  "geometry": {"coordinates":[69.60408000000001,37.40506],"type":"Point"}
+}

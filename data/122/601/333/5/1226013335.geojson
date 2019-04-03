@@ -1,0 +1,76 @@
+{
+  "id": 1226013335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.23235,31.46596,65.23235,31.46596",
+    "geom:latitude":31.46596,
+    "geom:longitude":65.23235,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2408",
+    "gn:asciiname":"Kanozai",
+    "gn:country_code":"AF",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138272,
+    "gn:latitude":31.46596,
+    "gn:longitude":65.23235,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kanozai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101nowzay",
+        "Kanozai",
+        "K\u0101\u1e49\u014dza\u2019i",
+        "K\u0101\u1e49\u014dza\u012b",
+        "\u06a9\u0627\u06bc\u0648\u0632\u06cc",
+        "K\u0101nowza\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421196563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"71cff1f6d1904156b278d6a3caff8cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421196563,
+            "locality_id":1226013335,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226013335,
+    "wof:lastmodified":1537581491,
+    "wof:name":"Kanozai",
+    "wof:parent_id":421196563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.23235,
+    31.46596,
+    65.23235,
+    31.46596
+],
+  "geometry": {"coordinates":[65.23235,31.46596],"type":"Point"}
+}

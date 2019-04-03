@@ -1,0 +1,69 @@
+{
+  "id": 1209562791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12259,34.67299,68.12259,34.67299",
+    "geom:latitude":34.67299,
+    "geom:longitude":68.12259,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Kafar Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":3428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1455780,
+    "gn:latitude":34.67299,
+    "gn:longitude":68.12259,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101far Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Razvaliny Kafarkala",
+        "K\u0101far Qal\u0101",
+        "K\u0101farqal\u0101",
+        "K\u0101far Qal\u2018ah",
+        "\u06a9\u0627\u0641\u0631 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455780
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c3342cf46302c8cadc7c0e39bd46b587",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209562791
+        }
+    ],
+    "wof:id":1209562791,
+    "wof:lastmodified":1537583161,
+    "wof:name":"Kafar Qal'ah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12259,
+    34.67299000000001,
+    68.12259,
+    34.67299000000001
+],
+  "geometry": {"coordinates":[68.12259,34.67299000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293740795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38265,36.62605,69.38265,36.62605",
+    "geom:latitude":36.62605,
+    "geom:longitude":69.38265,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202",
+    "gn:asciiname":"Shingar Abi",
+    "gn:country_code":"AF",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125144,
+    "gn:latitude":36.62605,
+    "gn:longitude":69.38265,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012bngar \u0100b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0646\u06af\u0631\u0627\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043d\u0433\u0430\u0440\u0430\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shingarabi",
+        "\u0160ingar\u0101bi",
+        "Sh\u012bngar \u0100b\u012b",
+        "\u0634\u06cc\u0646\u06af\u0631 \u0622\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125144
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eaafdf9fbdc2235642ce0809c570858a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1293740795,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293740795,
+    "wof:lastmodified":1537580360,
+    "wof:name":"Shingar Abi",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38265,
+    36.62605,
+    69.38265,
+    36.62605
+],
+  "geometry": {"coordinates":[69.38265,36.62605],"type":"Point"}
+}

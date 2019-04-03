@@ -1,0 +1,75 @@
+{
+  "id": 1293202313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56612,35.89794,68.56612,35.89794",
+    "geom:latitude":35.89794,
+    "geom:longitude":68.56612,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Qarahola",
+    "gn:country_code":"AF",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129652,
+    "gn:latitude":35.89794,
+    "gn:longitude":68.56612,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah\u014dl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaola",
+        "Qa\u1e5fa\u014dl\u0101",
+        "Qaraowl\u0101",
+        "Qarah\u014dl\u0101",
+        "\u0642\u0631\u0647 \u0627\u0648\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129652
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe651e1da40aa24325a15bfcd97d3bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1293202313,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293202313,
+    "wof:lastmodified":1537580749,
+    "wof:name":"Qarahola",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56612,
+    35.89794000000001,
+    68.56612,
+    35.89794000000001
+],
+  "geometry": {"coordinates":[68.56612,35.89794000000001],"type":"Point"}
+}

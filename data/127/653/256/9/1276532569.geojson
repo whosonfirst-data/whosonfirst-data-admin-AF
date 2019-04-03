@@ -1,0 +1,73 @@
+{
+  "id": 1276532569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.88487,34.02316,63.88487,34.02316",
+    "geom:latitude":34.02316,
+    "geom:longitude":63.88487,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Uyun",
+    "gn:country_code":"AF",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131371,
+    "gn:latitude":34.02316,
+    "gn:longitude":63.88487,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Uy\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uy\u016bn",
+        "\u0627\u06cc\u0648\u0646",
+        "Oy\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131371
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a53124d421475e2e416ebca35a2e09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1276532569,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276532569,
+    "wof:lastmodified":1537580914,
+    "wof:name":"Uyun",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.88486999999999,
+    34.02316,
+    63.88486999999999,
+    34.02316
+],
+  "geometry": {"coordinates":[63.88486999999999,34.02316],"type":"Point"}
+}

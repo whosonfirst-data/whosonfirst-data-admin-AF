@@ -1,0 +1,80 @@
+{
+  "id": 1243607591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25556,34.68871,70.25556,34.68871",
+    "geom:latitude":34.68871,
+    "geom:longitude":70.25556,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Katsor",
+    "gn:country_code":"AF",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474520,
+    "gn:latitude":34.68871,
+    "gn:longitude":70.25556,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kats\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u016bbi",
+        "Kachor-Dzhanubi",
+        "Kac\u014d\u1e5f Jan\u016bbi",
+        "Kac\u014d\u1e5f",
+        "\u06a9\u0685\u0648\u0631 \u062c\u0646\u0648\u0628\u06cc",
+        "Kats\u014dr Jan\u016bb\u012b",
+        "Kats\u016br Jon\u016bb\u012b",
+        "Kats\u014dr Jun\u016bb\u012b",
+        "Kats\u014dr",
+        "\u06a9\u0685\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474520
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad205437262096e88e29f929d5c761e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1243607591,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1243607591,
+    "wof:lastmodified":1537583813,
+    "wof:name":"Katsor",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25556,
+    34.68871,
+    70.25556,
+    34.68871
+],
+  "geometry": {"coordinates":[70.25556,34.68871],"type":"Point"}
+}

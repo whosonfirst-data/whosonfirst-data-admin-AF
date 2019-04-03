@@ -1,0 +1,69 @@
+{
+  "id": 1209087409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.75497,34.33371,63.75497,34.33371",
+    "geom:latitude":34.33371,
+    "geom:longitude":63.75497,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Beshah",
+    "gn:country_code":"AF",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146394,
+    "gn:latitude":34.33371,
+    "gn:longitude":63.75497,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113s\u0304a",
+        "Besha",
+        "B\u012bsheh",
+        "B\u0113shah",
+        "\u0628\u06d0\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146394
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"105488cf06513dc7ac52dc22215f6d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209087409
+        }
+    ],
+    "wof:id":1209087409,
+    "wof:lastmodified":1537582180,
+    "wof:name":"Beshah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.75496999999999,
+    34.33371,
+    63.75496999999999,
+    34.33371
+],
+  "geometry": {"coordinates":[63.75496999999999,34.33371],"type":"Point"}
+}

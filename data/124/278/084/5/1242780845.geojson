@@ -1,0 +1,73 @@
+{
+  "id": 1242780845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.70424,35.78773,63.70424,35.78773",
+    "geom:latitude":35.78773,
+    "geom:longitude":63.70424,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1905.0",
+    "gn:asciiname":"Rangin",
+    "gn:country_code":"AF",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424253,
+    "gn:latitude":35.78773,
+    "gn:longitude":63.70424,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rang\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eangin",
+        "Rang\u012bn",
+        "\u0631\u0646\u06af\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424253
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2f2caf327b5a58833f9bbfe4f4478cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1242780845,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1242780845,
+    "wof:lastmodified":1537582604,
+    "wof:name":"Rangin",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.70424000000001,
+    35.78773,
+    63.70424000000001,
+    35.78773
+],
+  "geometry": {"coordinates":[63.70424000000001,35.78773],"type":"Point"}
+}

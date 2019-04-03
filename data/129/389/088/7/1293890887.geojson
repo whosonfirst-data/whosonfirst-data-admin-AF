@@ -1,0 +1,73 @@
+{
+  "id": 1293890887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5763,35.62196,69.5763,35.62196",
+    "geom:latitude":35.62196,
+    "geom:longitude":69.5763,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Larbach",
+    "gn:country_code":"AF",
+    "gn:dem":2312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134778,
+    "gn:latitude":35.62196,
+    "gn:longitude":69.5763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101rb\u0101ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101\u1e5fb\u0101c",
+        "L\u0101rb\u0101ch",
+        "\u0644\u0627\u0631\u0628\u0627\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134778
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00e7f5787aa6182f8442d207a4583bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562363,
+            "locality_id":1293890887,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293890887,
+    "wof:lastmodified":1537581201,
+    "wof:name":"Larbach",
+    "wof:parent_id":1108562363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5763,
+    35.62195999999999,
+    69.5763,
+    35.62195999999999
+],
+  "geometry": {"coordinates":[69.5763,35.62195999999999],"type":"Point"}
+}

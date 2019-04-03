@@ -1,0 +1,71 @@
+{
+  "id": 1292990429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.01747,33.52179,64.01747,33.52179",
+    "geom:latitude":33.52179,
+    "geom:longitude":64.01747,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lakhsar",
+    "gn:country_code":"AF",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134970,
+    "gn:latitude":33.52179,
+    "gn:longitude":64.01747,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"L\u0101khs\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101khs\u0101r",
+        "\u0644\u0627\u062e\u0633\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134970
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2f877f63a3b0939ad9476f7ba6e0fb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1292990429,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1292990429,
+    "wof:lastmodified":1537581215,
+    "wof:name":"Lakhsar",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.01746999999999,
+    33.52179,
+    64.01746999999999,
+    33.52179
+],
+  "geometry": {"coordinates":[64.01746999999999,33.52179],"type":"Point"}
+}

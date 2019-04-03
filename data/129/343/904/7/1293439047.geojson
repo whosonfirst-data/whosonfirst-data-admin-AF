@@ -1,0 +1,75 @@
+{
+  "id": 1293439047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33294,36.11199,67.33294,36.11199",
+    "geom:latitude":36.11199,
+    "geom:longitude":67.33294,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Band-e Sariq",
+    "gn:country_code":"AF",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147165,
+    "gn:latitude":36.11199,
+    "gn:longitude":67.33294,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Band-e S\u0101riq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Band-i-Sareq",
+        "Band-e S\u0101req",
+        "Band-e S\u0101riq",
+        "\u0628\u0646\u062f \u0633\u0627\u0631\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147165,
+        "wk:page":"Band-e_Sareq"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"59e7c06037d975bb3bb5d086a10405da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1293439047,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293439047,
+    "wof:lastmodified":1537582245,
+    "wof:name":"Band-e Sariq",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33294000000001,
+    36.11199000000001,
+    67.33294000000001,
+    36.11199000000001
+],
+  "geometry": {"coordinates":[67.33294000000001,36.11199000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310596927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27957,33.31077,67.27957,33.31077",
+    "geom:latitude":33.31077,
+    "geom:longitude":67.27957,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Halqah Baylo",
+    "gn:country_code":"AF",
+    "gn:dem":2909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140275,
+    "gn:latitude":33.31077,
+    "gn:longitude":67.27957,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28alqah Bayl\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28alqah Bayl\u014d",
+        "\u062d\u0644\u0642\u0647 \u0628\u06cc\u0644\u0648",
+        "\u1e28alqab\u0113lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140275
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6471119be9ba04f1ca73fcaec07a95b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1310596927,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310596927,
+    "wof:lastmodified":1537581646,
+    "wof:name":"Halqah Baylo",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27956999999999,
+    33.31077,
+    67.27956999999999,
+    33.31077
+],
+  "geometry": {"coordinates":[67.27956999999999,33.31077],"type":"Point"}
+}

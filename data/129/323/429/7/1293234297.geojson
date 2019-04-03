@@ -1,0 +1,76 @@
+{
+  "id": 1293234297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.23391,32.87897,66.23391,32.87897",
+    "geom:latitude":32.87897,
+    "geom:longitude":66.23391,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Telbah",
+    "gn:country_code":"AF",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122551,
+    "gn:latitude":32.87897,
+    "gn:longitude":66.23391,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0113lbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u0644\u0628\u0647"
+    ],
+    "name:und_x_variant":[
+        "T\u0113lba",
+        "T\u0113lbah",
+        "\u062a\u06d0\u0644\u0628\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122551
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2f5d604b8d541afe6907fa5f77d8b288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1293234297,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1293234297,
+    "wof:lastmodified":1537580168,
+    "wof:name":"Telbah",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.23391,
+    32.87897,
+    66.23391,
+    32.87897
+],
+  "geometry": {"coordinates":[66.23390999999999,32.87897],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293199631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.025,35.27917,68.025,35.27917",
+    "geom:latitude":35.27917,
+    "geom:longitude":68.025,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2803.0",
+    "gn:asciiname":"Hilehabad",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428874,
+    "gn:latitude":35.27917,
+    "gn:longitude":68.025,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u012bleh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hila\u0101b\u0101\u1e0f",
+        "\u1e28\u012bleh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428874
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ab33b5b09aadbdb59e587036fb016af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1293199631,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293199631,
+    "wof:lastmodified":1537582666,
+    "wof:name":"Hilehabad",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.025,
+    35.27917,
+    68.025,
+    35.27917
+],
+  "geometry": {"coordinates":[68.02500000000001,35.27917],"type":"Point"}
+}

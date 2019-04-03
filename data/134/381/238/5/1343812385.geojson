@@ -1,0 +1,75 @@
+{
+  "id": 1343812385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83414,34.34056,67.83414,34.34056",
+    "geom:latitude":34.34056,
+    "geom:longitude":67.83414,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Nowcharak",
+    "gn:country_code":"AF",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460195,
+    "gn:latitude":34.34056,
+    "gn:longitude":67.83414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowch\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naucharak",
+        "Naw\u010d\u0101rak",
+        "Nowch\u0101rak",
+        "Nawch\u0101rak",
+        "\u0646\u0648 \u0686\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460195
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7aa12d92f9b15adde717e2189752af00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1343812385,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343812385,
+    "wof:lastmodified":1537583306,
+    "wof:name":"Nowcharak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83414,
+    34.34056,
+    67.83414,
+    34.34056
+],
+  "geometry": {"coordinates":[67.83414,34.34056],"type":"Point"}
+}

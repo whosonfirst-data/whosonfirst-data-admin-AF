@@ -1,0 +1,75 @@
+{
+  "id": 1226139843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69166,34.12111,67.69166,34.12111",
+    "geom:latitude":34.12111,
+    "geom:longitude":67.69166,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Uchak",
+    "gn:country_code":"AF",
+    "gn:dem":3225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460430,
+    "gn:latitude":34.12111,
+    "gn:longitude":67.69166,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016achak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016a\u010dak",
+        "Uchak",
+        "Owchak",
+        "\u016achak",
+        "\u0627\u0648\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460430
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"383b6c7094ccf93551e755e319233bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226139843,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226139843,
+    "wof:lastmodified":1537583321,
+    "wof:name":"Uchak",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69166,
+    34.12110999999999,
+    67.69166,
+    34.12110999999999
+],
+  "geometry": {"coordinates":[67.69166,34.12110999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260030763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51971,31.99905,67.51971,31.99905",
+    "geom:latitude":31.99905,
+    "geom:longitude":67.51971,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Qal'ah-ye Sa'dullah",
+    "gn:country_code":"AF",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477868,
+    "gn:latitude":31.99905,
+    "gn:longitude":67.51971,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Sa\u2018dull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalayi-Sadulla",
+        "Qal\u2019a-i-Sa\u2019\u1e0full\u0101h",
+        "Qal\u2018ah-ye Sa\u2018dull\u0101h",
+        "Qal\u2018eh-ye Sa\u2018doll\u0101h",
+        "\u0642\u0644\u0639\u0647 \u0633\u0639\u062f\u0627\u0644\u0644\u0640\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477868
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a44bc94b0a666489b0f20131c5f37c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1260030763,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1260030763,
+    "wof:lastmodified":1537583884,
+    "wof:name":"Qal'ah-ye Sa'dullah",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51971,
+    31.99905,
+    67.51971,
+    31.99905
+],
+  "geometry": {"coordinates":[67.51971,31.99905],"type":"Point"}
+}

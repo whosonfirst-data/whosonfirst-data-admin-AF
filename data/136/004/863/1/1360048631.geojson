@@ -1,0 +1,74 @@
+{
+  "id": 1360048631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.54916,33.97688,70.54916,33.97688",
+    "geom:latitude":33.97688,
+    "geom:longitude":70.54916,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Tirchanga",
+    "gn:country_code":"AF",
+    "gn:dem":2685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476421,
+    "gn:latitude":33.97688,
+    "gn:longitude":70.54916,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012brchang\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u012br\u010dang\u0101",
+        "T\u012brchang\u0101",
+        "Tirchang\u0101",
+        "\u062a\u06cc\u0631\u0686\u0646\u06af\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476421
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a79dc4ec15cddc437c75ed6fedf3b77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1360048631,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1360048631,
+    "wof:lastmodified":1537583848,
+    "wof:name":"Tirchanga",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.54916,
+    33.97688,
+    70.54916,
+    33.97688
+],
+  "geometry": {"coordinates":[70.54916,33.97688],"type":"Point"}
+}

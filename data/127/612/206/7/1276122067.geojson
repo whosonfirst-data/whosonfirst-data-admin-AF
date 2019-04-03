@@ -1,0 +1,73 @@
+{
+  "id": 1276122067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48578,37.64842,70.48578,37.64842",
+    "geom:latitude":37.64842,
+    "geom:longitude":70.48578,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Kushlar",
+    "gn:country_code":"AF",
+    "gn:dem":2548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467373,
+    "gn:latitude":37.64842,
+    "gn:longitude":70.48578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bshlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bshlar",
+        "\u06a9\u0648\u0634\u0644\u0631",
+        "K\u016bsla\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467373
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8634f0bf6e46fb21d288aa8023cf4fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1276122067,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276122067,
+    "wof:lastmodified":1537583471,
+    "wof:name":"Kushlar",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48578,
+    37.64842,
+    70.48578,
+    37.64842
+],
+  "geometry": {"coordinates":[70.48578000000001,37.64842],"type":"Point"}
+}

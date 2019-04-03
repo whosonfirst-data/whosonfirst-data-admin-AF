@@ -1,0 +1,73 @@
+{
+  "id": 1259741485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46147,31.18222,66.46147,31.18222",
+    "geom:latitude":31.18222,
+    "geom:longitude":66.46147,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"'Alam Khanzi",
+    "gn:country_code":"AF",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477155,
+    "gn:latitude":31.18222,
+    "gn:longitude":66.46147,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Alam Kh\u0101nz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Alam Kh\u0101nz\u012b",
+        "\u0639\u0644\u0645 \u062e\u0627\u0646\u0632\u06cc",
+        "\u2018Alamkh\u0101nzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477155
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d6ff653fbd3734e1d598ca5aa46d4720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1259741485,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259741485,
+    "wof:lastmodified":1537583872,
+    "wof:name":"'Alam Khanzi",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46146999999999,
+    31.18222,
+    66.46146999999999,
+    31.18222
+],
+  "geometry": {"coordinates":[66.46146999999999,31.18222],"type":"Point"}
+}

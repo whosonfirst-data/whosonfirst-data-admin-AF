@@ -1,0 +1,74 @@
+{
+  "id": 1277161679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.70533,34.66328,64.70533,34.66328",
+    "geom:latitude":34.66328,
+    "geom:longitude":64.70533,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Kortkhanah",
+    "gn:country_code":"AF",
+    "gn:dem":2612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1470952,
+    "gn:latitude":34.66328,
+    "gn:longitude":64.70533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014drtkh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014d\u1e5ftkh\u0101na",
+        "K\u016brtkh\u0101neh",
+        "K\u014drtkh\u0101nah",
+        "\u06a9\u0648\u0631\u062a\u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1470952
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b810b188e5ce4e9f2c9b16ac641447b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1277161679,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1277161679,
+    "wof:lastmodified":1537583649,
+    "wof:name":"Kortkhanah",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.70533,
+    34.66328,
+    64.70533,
+    34.66328
+],
+  "geometry": {"coordinates":[64.70533,34.66328],"type":"Point"}
+}

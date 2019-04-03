@@ -1,0 +1,72 @@
+{
+  "id": 1193036813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.82158,34.60268,65.82158,34.60268",
+    "geom:latitude":34.60268,
+    "geom:longitude":65.82158,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Dahan-e Tilak",
+    "gn:country_code":"AF",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144350,
+    "gn:latitude":34.60268,
+    "gn:longitude":65.82158,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e T\u012blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahan-e T\u012blak",
+        "\u062f\u0647\u0646 \u062a\u06cc\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144350
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"374db30dbba8ade43c5af2b755afe22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1193036813,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193036813,
+    "wof:lastmodified":1537581991,
+    "wof:name":"Dahan-e Tilak",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.82158000000001,
+    34.60268,
+    65.82158000000001,
+    34.60268
+],
+  "geometry": {"coordinates":[65.82158000000001,34.60268],"type":"Point"}
+}

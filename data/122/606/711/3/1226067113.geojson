@@ -1,0 +1,72 @@
+{
+  "id": 1226067113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.56822,31.49779,61.56822,31.49779",
+    "geom:latitude":31.49779,
+    "geom:longitude":61.56822,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Kandu",
+    "gn:country_code":"AF",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138306,
+    "gn:latitude":31.49779,
+    "gn:longitude":61.56822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kand\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kand\u016b",
+        "\u06a9\u0646\u062f\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138306
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6bcb205632425da2e4be70584e2730d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1226067113,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226067113,
+    "wof:lastmodified":1537581492,
+    "wof:name":"Kandu",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.56822,
+    31.49779,
+    61.56822,
+    31.49779
+],
+  "geometry": {"coordinates":[61.56822,31.49779],"type":"Point"}
+}

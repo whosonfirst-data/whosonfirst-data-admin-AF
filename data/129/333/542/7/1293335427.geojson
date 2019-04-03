@@ -1,0 +1,76 @@
+{
+  "id": 1293335427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91489,35.01483,70.91489,35.01483",
+    "geom:latitude":35.01483,
+    "geom:longitude":70.91489,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Fawiri Khwar",
+    "gn:country_code":"AF",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429057,
+    "gn:latitude":35.01483,
+    "gn:longitude":70.91489,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"F\u0101wir\u012b Khwa\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Favirikhvar",
+        "F\u0101wer\u012b Khwa\u1e5f",
+        "F\u0101wir\u012b Khwa\u1e5f",
+        "\u0641\u0627\u0648\u0631\u06cc \u062e\u0648\u0693",
+        "F\u0101w\u012br\u012b Khwa\u1e5f",
+        "\u0641\u0627\u0648\u06cc\u0631\u06cc \u062e\u0648\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429057
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00ed2419c6ffe01aa046e26736dd868d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561933,
+            "locality_id":1293335427,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293335427,
+    "wof:lastmodified":1537582668,
+    "wof:name":"Fawiri Khwar",
+    "wof:parent_id":1108561933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91489,
+    35.01483,
+    70.91489,
+    35.01483
+],
+  "geometry": {"coordinates":[70.91489,35.01483],"type":"Point"}
+}

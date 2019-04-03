@@ -1,0 +1,71 @@
+{
+  "id": 1209799797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.40472,34.33393,65.40472,34.33393",
+    "geom:latitude":34.33393,
+    "geom:longitude":65.40472,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Ganjak",
+    "gn:country_code":"AF",
+    "gn:dem":2639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141939,
+    "gn:latitude":34.33393,
+    "gn:longitude":65.40472,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ganjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0646\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68dddbecafc212bdbc3b8685cd93d500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1209799797,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209799797,
+    "wof:lastmodified":1537581786,
+    "wof:name":"Ganjak",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.40472,
+    34.33393,
+    65.40472,
+    34.33393
+],
+  "geometry": {"coordinates":[65.40472,34.33393],"type":"Point"}
+}

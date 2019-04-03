@@ -1,0 +1,73 @@
+{
+  "id": 1243468297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67288,36.02163,70.67288,36.02163",
+    "geom:latitude":36.02163,
+    "geom:longitude":70.67288,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1104",
+    "gn:asciiname":"Warwarzu",
+    "gn:country_code":"AF",
+    "gn:dem":2541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121691,
+    "gn:latitude":36.02163,
+    "gn:longitude":70.67288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Warwarz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Warwarz\u016b",
+        "\u0648\u0631\u0648\u0631\u0632\u0648",
+        "Wa\u1e5fwa\u1e5fzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d52dcda173e0596d9b8f7a5d3515920f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1243468297,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243468297,
+    "wof:lastmodified":1537580056,
+    "wof:name":"Warwarzu",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67288,
+    36.02163,
+    70.67288,
+    36.02163
+],
+  "geometry": {"coordinates":[70.67288000000001,36.02163],"type":"Point"}
+}

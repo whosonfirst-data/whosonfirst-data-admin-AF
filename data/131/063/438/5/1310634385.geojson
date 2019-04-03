@@ -1,0 +1,74 @@
+{
+  "id": 1310634385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.29654,32.98275,66.29654,32.98275",
+    "geom:latitude":32.98275,
+    "geom:longitude":66.29654,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Nuri",
+    "gn:country_code":"AF",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131624,
+    "gn:latitude":32.98275,
+    "gn:longitude":66.29654,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u016b\u1e5fi",
+        "N\u016br\u012b",
+        "\u0646\u0648\u0631\u06cc",
+        "Nowr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131624
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae59f1e05b49d1e0459e352d71d950d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1310634385,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1310634385,
+    "wof:lastmodified":1537580936,
+    "wof:name":"Nuri",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.29654000000001,
+    32.98275,
+    66.29654000000001,
+    32.98275
+],
+  "geometry": {"coordinates":[66.29654000000001,32.98275],"type":"Point"}
+}

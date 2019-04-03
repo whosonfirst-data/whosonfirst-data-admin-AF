@@ -1,0 +1,74 @@
+{
+  "id": 1243377249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18395,38.07168,71.18395,38.07168",
+    "geom:latitude":38.07168,
+    "geom:longitude":71.18395,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Rakhunwij",
+    "gn:country_code":"AF",
+    "gn:dem":2627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466690,
+    "gn:latitude":38.07168,
+    "gn:longitude":71.18395,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rakhunw\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eakhunw\u012bj",
+        "Rakhvonw\u012bj",
+        "Rakhunw\u012bj",
+        "\u0631\u062e\u0646\u0648\u06cc\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466690
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3c66ba66192dd2e820fa71146fb1a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1243377249,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243377249,
+    "wof:lastmodified":1537583437,
+    "wof:name":"Rakhunwij",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18395,
+    38.07168,
+    71.18395,
+    38.07168
+],
+  "geometry": {"coordinates":[71.18395,38.07168],"type":"Point"}
+}

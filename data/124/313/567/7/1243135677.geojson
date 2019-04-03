@@ -1,0 +1,79 @@
+{
+  "id": 1243135677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63766,34.17064,69.63766,34.17064",
+    "geom:latitude":34.17064,
+    "geom:longitude":69.63766,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"506",
+    "gn:asciiname":"Sur Kats",
+    "gn:country_code":"AF",
+    "gn:dem":2338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123571,
+    "gn:latitude":34.17064,
+    "gn:longitude":69.63766,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br Kats",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631 \u0643\u0686"
+    ],
+    "name:und_x_variant":[
+        "Surkach",
+        "S\u016b\u1e5f Kac",
+        "S\u016br Kats",
+        "S\u016b\u1e5f Kach",
+        "\u0633\u0648\u0631 \u0643\u0686",
+        "\u0633\u0648\u0631 \u06a9\u0685"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123571
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b30266cd1104a9fe111afa3b50daf36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561829,
+            "locality_id":1243135677,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243135677,
+    "wof:lastmodified":1537580234,
+    "wof:name":"Sur Kats",
+    "wof:parent_id":1108561829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63766,
+    34.17064,
+    69.63766,
+    34.17064
+],
+  "geometry": {"coordinates":[69.63766,34.17064],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226095085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27763,33.65349,69.27763,33.65349",
+    "geom:latitude":33.65349,
+    "geom:longitude":69.27763,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Talbi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438109,
+    "gn:latitude":33.65349,
+    "gn:longitude":69.27763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Talb\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0628\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Tal\u2019bikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Talbikh\u0113l",
+        "Talb\u012b Kheyl",
+        "Talb\u012b Kh\u0113l",
+        "\u062a\u0644\u0628\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438109
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e4b48d9eb9974eab199a312d2612758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1226095085,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226095085,
+    "wof:lastmodified":1537582877,
+    "wof:name":"Talbi Khel",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27763,
+    33.65349000000001,
+    69.27763,
+    33.65349000000001
+],
+  "geometry": {"coordinates":[69.27763,33.65349000000001],"type":"Point"}
+}

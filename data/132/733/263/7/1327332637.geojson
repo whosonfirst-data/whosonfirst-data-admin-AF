@@ -1,0 +1,75 @@
+{
+  "id": 1327332637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.18852,34.3886,67.18852,34.3886",
+    "geom:latitude":34.3886,
+    "geom:longitude":67.18852,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Pistalak",
+    "gn:country_code":"AF",
+    "gn:dem":3042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130714,
+    "gn:latitude":34.3886,
+    "gn:longitude":67.18852,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pistalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pestalak",
+        "Pistalak",
+        "Pestah Lak",
+        "Pestehlak",
+        "\u067e\u0633\u062a\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130714
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce36fc460a70c7837d09acb299c2a1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1327332637,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1327332637,
+    "wof:lastmodified":1537580862,
+    "wof:name":"Pistalak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.18852,
+    34.3886,
+    67.18852,
+    34.3886
+],
+  "geometry": {"coordinates":[67.18852,34.3886],"type":"Point"}
+}

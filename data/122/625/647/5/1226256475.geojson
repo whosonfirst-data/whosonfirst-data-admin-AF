@@ -1,0 +1,74 @@
+{
+  "id": 1226256475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59444,37.28023,70.59444,37.28023",
+    "geom:latitude":37.28023,
+    "geom:longitude":70.59444,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Chawush Darah",
+    "gn:country_code":"AF",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468429,
+    "gn:latitude":37.28023,
+    "gn:longitude":70.59444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101wush Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cawu\u0161 Darrah",
+        "\u0686\u0627\u0648\u0634 \u062f\u0631\u0647",
+        "Chavosh Darreh",
+        "Ch\u0101wush Darah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468429
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"19f348c4a76f011a25d86a0584a03759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1226256475,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226256475,
+    "wof:lastmodified":1537583554,
+    "wof:name":"Chawush Darah",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59444,
+    37.28023,
+    70.59444,
+    37.28023
+],
+  "geometry": {"coordinates":[70.59444000000001,37.28023],"type":"Point"}
+}

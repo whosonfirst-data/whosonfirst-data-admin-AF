@@ -1,0 +1,78 @@
+{
+  "id": 1259634421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37339,32.34895,67.37339,32.34895",
+    "geom:latitude":32.34895,
+    "geom:longitude":67.37339,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Khano Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137076,
+    "gn:latitude":32.34895,
+    "gn:longitude":67.37339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101n\u014d Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u0648 \u062e\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101nokh\u0113l",
+        "Kh\u0101nokheyl",
+        "Kh\u0101n\u014d Kh\u0113l",
+        "\u062e\u0627\u0646\u0648 \u062e\u06d0\u0644",
+        "Kh\u0101n\u016b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137076
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a7d44dfc8df51d6b21b1b900cd7e74e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1259634421,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259634421,
+    "wof:lastmodified":1537581390,
+    "wof:name":"Khano Khel",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37339,
+    32.34895,
+    67.37339,
+    32.34895
+],
+  "geometry": {"coordinates":[67.37339,32.34895],"type":"Point"}
+}

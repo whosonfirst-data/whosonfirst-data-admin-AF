@@ -1,0 +1,78 @@
+{
+  "id": 1326520805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.4162,33.32611,68.4162,33.32611",
+    "geom:latitude":33.32611,
+    "geom:longitude":68.4162,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Habib Gudale",
+    "gn:country_code":"AF",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140452,
+    "gn:latitude":33.32611,
+    "gn:longitude":68.4162,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ab\u012bb Gu\u1e0fal\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0628\u064a\u0628 \u06af\u062f\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khabib-Gudali",
+        "\u1e28ab\u012bb Go\u1e0falay",
+        "\u1e28ab\u012bb Go\u1e0fal\u0113",
+        "\u1e28ab\u012bb Gu\u1e0fal\u0113",
+        "\u062d\u0628\u064a\u0628 \u06af\u062f\u0644\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140452
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"45871ea2867f53f9f9c1d12a75a53472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1326520805,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326520805,
+    "wof:lastmodified":1537581664,
+    "wof:name":"Habib Gudale",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.4162,
+    33.32611,
+    68.4162,
+    33.32611
+],
+  "geometry": {"coordinates":[68.4162,33.32611],"type":"Point"}
+}

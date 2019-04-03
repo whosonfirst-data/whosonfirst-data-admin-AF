@@ -1,0 +1,73 @@
+{
+  "id": 1360177021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.87768,32.86235,63.87768,32.86235",
+    "geom:latitude":32.86235,
+    "geom:longitude":63.87768,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Pasinj",
+    "gn:country_code":"AF",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131027,
+    "gn:latitude":32.86235,
+    "gn:longitude":63.87768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101sinj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101sinj",
+        "\u067e\u0627\u0633\u0646\u062c",
+        "P\u0101senj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"94daf22d7138ed76139e72a96ad8fe77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1360177021,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360177021,
+    "wof:lastmodified":1537580890,
+    "wof:name":"Pasinj",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.87768000000001,
+    32.86235,
+    63.87768000000001,
+    32.86235
+],
+  "geometry": {"coordinates":[63.87768000000001,32.86235],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276717385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65639,37.16778,68.65639,37.16778",
+    "geom:latitude":37.16778,
+    "geom:longitude":68.65639,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Barzangi",
+    "gn:country_code":"AF",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465269,
+    "gn:latitude":37.16778,
+    "gn:longitude":68.65639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barzang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465269
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1090443564221f71d9ea9529e37937cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1276717385,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1276717385,
+    "wof:lastmodified":1536761572,
+    "wof:name":"Barzangi",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65639,
+    37.16778,
+    68.65639,
+    37.16778
+],
+  "geometry": {"coordinates":[68.65639,37.16778],"type":"Point"}
+}

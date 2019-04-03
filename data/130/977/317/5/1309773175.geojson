@@ -1,0 +1,73 @@
+{
+  "id": 1309773175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82145,37.14702,69.82145,37.14702",
+    "geom:latitude":37.14702,
+    "geom:longitude":69.82145,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Gugari",
+    "gn:country_code":"AF",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467305,
+    "gn:latitude":37.14702,
+    "gn:longitude":69.82145,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u016bgar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u016bgar\u012b",
+        "\u06af\u0648\u06af\u0631\u06cc",
+        "G\u016bgar\u012b (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"300eaff36e75962374fe8f7d5744aa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1309773175,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1309773175,
+    "wof:lastmodified":1537583464,
+    "wof:name":"Gugari",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82145,
+    37.14702,
+    69.82145,
+    37.14702
+],
+  "geometry": {"coordinates":[69.82145,37.14702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343792323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.67536,33.58601,66.67536,33.58601",
+    "geom:latitude":33.58601,
+    "geom:longitude":66.67536,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409",
+    "gn:asciiname":"Jimaluq",
+    "gn:country_code":"AF",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139139,
+    "gn:latitude":33.58601,
+    "gn:longitude":66.67536,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jimaluq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0645\u0644\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139139
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87a9e479fd3606c1b2912c1b7382c4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1343792323,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1343792323,
+    "wof:lastmodified":1537581553,
+    "wof:name":"Jimaluq",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.67536,
+    33.58600999999999,
+    66.67536,
+    33.58600999999999
+],
+  "geometry": {"coordinates":[66.67536,33.58600999999999],"type":"Point"}
+}

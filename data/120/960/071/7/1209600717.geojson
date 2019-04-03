@@ -1,0 +1,76 @@
+{
+  "id": 1209600717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99851,33.01542,67.99851,33.01542",
+    "geom:latitude":33.01542,
+    "geom:longitude":67.99851,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Zor Khado",
+    "gn:country_code":"AF",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1448691,
+    "gn:latitude":33.01542,
+    "gn:longitude":67.99851,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u014d\u1e5f Khad\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0631 \u062e\u062f\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0417\u043e\u0440-\u0425\u0430\u0434\u0443"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Zor-Khadu",
+        "Z\u014dr Kha\u1e0fo",
+        "Z\u016br Khado",
+        "\u0632\u0648\u0631 \u062e\u062f\u0648",
+        "Z\u014d\u1e5f Khad\u014d",
+        "\u0632\u0648\u0693 \u062e\u062f\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"48308e3464eff89fcfa5a3d7082d87aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209600717
+        }
+    ],
+    "wof:id":1209600717,
+    "wof:lastmodified":1537582990,
+    "wof:name":"Zor Khado",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99851,
+    33.01542,
+    67.99851,
+    33.01542
+],
+  "geometry": {"coordinates":[67.99851,33.01542],"type":"Point"}
+}

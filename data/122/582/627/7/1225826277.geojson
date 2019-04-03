@@ -1,0 +1,75 @@
+{
+  "id": 1225826277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.26891,34.36414,63.26891,34.36414",
+    "geom:latitude":34.36414,
+    "geom:longitude":63.26891,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Sarapardah",
+    "gn:country_code":"AF",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127402,
+    "gn:latitude":34.36414,
+    "gn:longitude":63.26891,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar\u0101pardah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5f\u0101par\u1e0fa",
+        "Sar\u0101h Pardah",
+        "Sar\u0101 Pardeh",
+        "Sar\u0101pardah",
+        "\u0633\u0631\u0627\u067e\u0631\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127402
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"425dacd4dc3fe7ddd3771ebc33403346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1225826277,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1225826277,
+    "wof:lastmodified":1537580554,
+    "wof:name":"Sarapardah",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.26891,
+    34.36414,
+    63.26891,
+    34.36414
+],
+  "geometry": {"coordinates":[63.26891,34.36414],"type":"Point"}
+}

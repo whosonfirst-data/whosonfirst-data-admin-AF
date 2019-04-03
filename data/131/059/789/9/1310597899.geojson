@@ -1,0 +1,73 @@
+{
+  "id": 1310597899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.12729,36.15064,65.12729,36.15064",
+    "geom:latitude":36.15064,
+    "geom:longitude":65.12729,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Khudayar",
+    "gn:country_code":"AF",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475328,
+    "gn:latitude":36.15064,
+    "gn:longitude":65.12729,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khud\u0101y\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khud\u0101y\u0101r",
+        "\u062e\u062f\u0627\u06cc\u0627\u0631",
+        "Khody\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475328
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4fcecf0577c3298974d8db62f943da42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562501,
+            "locality_id":1310597899,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1310597899,
+    "wof:lastmodified":1537583833,
+    "wof:name":"Khudayar",
+    "wof:parent_id":1108562501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.12729,
+    36.15064,
+    65.12729,
+    36.15064
+],
+  "geometry": {"coordinates":[65.12729,36.15064],"type":"Point"}
+}

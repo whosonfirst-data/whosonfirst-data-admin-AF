@@ -1,0 +1,76 @@
+{
+  "id": 1293437419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73484,34.12417,68.73484,34.12417",
+    "geom:latitude":34.12417,
+    "geom:longitude":68.73484,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Kharyan",
+    "gn:country_code":"AF",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136693,
+    "gn:latitude":34.12417,
+    "gn:longitude":68.73484,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khary\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khar\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Khery\u0101n",
+        "Khary\u0101n",
+        "\u062e\u0631\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136693
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb37aa7683dde11a25271d0b2eead11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1293437419,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293437419,
+    "wof:lastmodified":1537581362,
+    "wof:name":"Kharyan",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73484,
+    34.12417,
+    68.73484,
+    34.12417
+],
+  "geometry": {"coordinates":[68.73484000000001,34.12417],"type":"Point"}
+}

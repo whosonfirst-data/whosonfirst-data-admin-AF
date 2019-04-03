@@ -1,0 +1,72 @@
+{
+  "id": 1276259557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.19514,33.70267,66.19514,33.70267",
+    "geom:latitude":33.70267,
+    "geom:longitude":66.19514,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3401.0",
+    "gn:asciiname":"Sakawak",
+    "gn:country_code":"AF",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7509432,
+    "gn:latitude":33.70267,
+    "gn:longitude":66.19514,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sak\u0101wak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sak\u0101wak",
+        "\u0633\u06a9\u0627\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7509432
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"24b70f5a531284661fb9693fa67104c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562329,
+            "locality_id":1276259557,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276259557,
+    "wof:lastmodified":1537583921,
+    "wof:name":"Sakawak",
+    "wof:parent_id":1108562329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.19514000000001,
+    33.70267,
+    66.19514000000001,
+    33.70267
+],
+  "geometry": {"coordinates":[66.19514000000001,33.70267],"type":"Point"}
+}

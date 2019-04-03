@@ -1,0 +1,76 @@
+{
+  "id": 1209766537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.87911,31.86684,66.87911,31.86684",
+    "geom:latitude":31.86684,
+    "geom:longitude":66.87911,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Balots Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147256,
+    "gn:latitude":31.86684,
+    "gn:longitude":66.87911,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bal\u014dts K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal\u016bc Kalay",
+        "Bal\u016bch K\u00ealay",
+        "\u0628\u0644\u0648\u0686 \u06a9\u0644\u06cc",
+        "Bal\u016bch Kalay",
+        "Bal\u014dts K\u00ealay",
+        "\u0628\u0644\u0648\u0685 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147256
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f399b42c7322c258db3f7f6c3610c636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1209766537,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209766537,
+    "wof:lastmodified":1537582250,
+    "wof:name":"Balots Kelay",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.87911,
+    31.86684,
+    66.87911,
+    31.86684
+],
+  "geometry": {"coordinates":[66.87911,31.86684],"type":"Point"}
+}

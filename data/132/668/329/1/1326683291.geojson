@@ -1,0 +1,74 @@
+{
+  "id": 1326683291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.34665,34.72208,70.34665,34.72208",
+    "geom:latitude":34.72208,
+    "geom:longitude":70.34665,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903",
+    "gn:asciiname":"Gundalam",
+    "gn:country_code":"AF",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140710,
+    "gn:latitude":34.72208,
+    "gn:longitude":70.34665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gun\u1e0fal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0646\u0689\u0644\u0627\u0645",
+        "Gondal\u0101m",
+        "Gun\u1e0fal\u0101m",
+        "Gundal\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140710
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e35ecb910c056d6a88981d42b0ec3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1326683291,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1326683291,
+    "wof:lastmodified":1537581687,
+    "wof:name":"Gundalam",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.34665,
+    34.72208,
+    70.34665,
+    34.72208
+],
+  "geometry": {"coordinates":[70.34665,34.72208],"type":"Point"}
+}

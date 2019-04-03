@@ -1,0 +1,75 @@
+{
+  "id": 1193194427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.33874,35.70667,71.33874,35.70667",
+    "geom:latitude":35.70667,
+    "geom:longitude":71.33874,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Shudgul",
+    "gn:country_code":"AF",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469897,
+    "gn:latitude":35.70667,
+    "gn:longitude":71.33874,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shudgul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shudgul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Su\u1e0fgul",
+        "\u0634\u062f\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a68d21ec81ae4e044ae2cd15fbb432ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1193194427,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1193194427,
+    "wof:lastmodified":1537583633,
+    "wof:name":"Shudgul",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.33874,
+    35.70667,
+    71.33874,
+    35.70667
+],
+  "geometry": {"coordinates":[71.33874,35.70667],"type":"Point"}
+}

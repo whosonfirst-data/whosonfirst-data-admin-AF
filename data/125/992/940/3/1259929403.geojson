@@ -1,0 +1,81 @@
+{
+  "id": 1259929403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40349,36.14938,68.40349,36.14938",
+    "geom:latitude":36.14938,
+    "geom:longitude":68.40349,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Rabatak",
+    "gn:country_code":"AF",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128325,
+    "gn:latitude":36.14938,
+    "gn:longitude":68.40349,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u0430\u0442\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Rib\u0101t",
+        "\u1e5eab\u0101\u1e6fak",
+        "Rabatak",
+        "Rob\u0101t",
+        "Rob\u0101\u0163ak",
+        "Rab\u0101\u0163ak",
+        "\u0631\u0628\u0627\u0637\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128325,
+        "wk:page":"Robatak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6d8a6363a1694771413a967b7ca2ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1259929403,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1259929403,
+    "wof:lastmodified":1537580619,
+    "wof:name":"Rabatak",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40349,
+    36.14938,
+    68.40349,
+    36.14938
+],
+  "geometry": {"coordinates":[68.40349000000001,36.14938],"type":"Point"}
+}

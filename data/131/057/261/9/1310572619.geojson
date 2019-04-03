@@ -1,0 +1,81 @@
+{
+  "id": 1310572619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.74767,34.51186,69.74767,34.51186",
+    "geom:latitude":34.51186,
+    "geom:longitude":69.74767,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Malorah",
+    "gn:country_code":"AF",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134092,
+    "gn:latitude":34.51186,
+    "gn:longitude":69.74767,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mal\u014d\u1e5fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0648\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Malowra",
+        "Mal\u014dra",
+        "Malora",
+        "Malowrah",
+        "Mal\u014d\u1e5fah",
+        "\u0645\u0644\u0648\u0693\u0647",
+        "Mal\u014d\u1e5fah K\u00ealay",
+        "\u0645\u0644\u0648\u0693\u0647 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f547b956e69d3d4eff380200ac36472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1310572619,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1310572619,
+    "wof:lastmodified":1537581146,
+    "wof:name":"Malorah",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.74767,
+    34.51186,
+    69.74767,
+    34.51186
+],
+  "geometry": {"coordinates":[69.74767,34.51186],"type":"Point"}
+}

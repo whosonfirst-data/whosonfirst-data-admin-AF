@@ -1,0 +1,77 @@
+{
+  "id": 1226605987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3334,32.19612,68.3334,32.19612",
+    "geom:latitude":32.19612,
+    "geom:longitude":68.3334,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Hayat Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140149,
+    "gn:latitude":32.19612,
+    "gn:longitude":68.3334,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ay\u0101t Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khayatkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "H\u0331ay\u0101t Kh\u0113l",
+        "\u062d\u06cc\u0627\u062a \u062e\u06cc\u0644",
+        "\u1e28ay\u0101t Kheyl",
+        "\u1e28ay\u0101t Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140149
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"333fb04802b57ee7a551733e4258ba23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1226605987,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226605987,
+    "wof:lastmodified":1537581635,
+    "wof:name":"Hayat Khel",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3334,
+    32.19612,
+    68.3334,
+    32.19612
+],
+  "geometry": {"coordinates":[68.3334,32.19612],"type":"Point"}
+}

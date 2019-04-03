@@ -1,0 +1,78 @@
+{
+  "id": 1276794723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.41295,33.13144,65.41295,33.13144",
+    "geom:latitude":33.13144,
+    "geom:longitude":65.41295,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Gharmah",
+    "gn:country_code":"AF",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141352,
+    "gn:latitude":33.13144,
+    "gn:longitude":65.41295,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Garma",
+        "Gha\u1e5fma",
+        "Gharmeh",
+        "Gharmah",
+        "\u063a\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141352
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa62e139702aba91ce76901fd938909c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1276794723,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276794723,
+    "wof:lastmodified":1537581746,
+    "wof:name":"Gharmah",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.41295,
+    33.13144,
+    65.41295,
+    33.13144
+],
+  "geometry": {"coordinates":[65.41295,33.13144],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209348015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53903,33.27602,65.53903,33.27602",
+    "geom:latitude":33.27602,
+    "geom:longitude":65.53903,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Durjay",
+    "gn:country_code":"AF",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142663,
+    "gn:latitude":33.27602,
+    "gn:longitude":65.53903,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Durjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u062c\u06cc",
+        "\u1e0eu\u1e5fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142663
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd635bef5a89b3775f1697d143c8e892",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209348015
+        }
+    ],
+    "wof:id":1209348015,
+    "wof:lastmodified":1537581850,
+    "wof:name":"Durjay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53903000000001,
+    33.27602,
+    65.53903000000001,
+    33.27602
+],
+  "geometry": {"coordinates":[65.53903000000001,33.27602],"type":"Point"}
+}

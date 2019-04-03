@@ -1,0 +1,79 @@
+{
+  "id": 1310063959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.32359,31.16839,66.32359,31.16839",
+    "geom:latitude":31.16839,
+    "geom:longitude":66.32359,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Khwazhah Banah",
+    "gn:country_code":"AF",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135902,
+    "gn:latitude":31.16839,
+    "gn:longitude":66.32359,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khwaz\u0332h\u0332ah Ba\u1e49ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0698\u0647 \u0628\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khwza Ba\u1e49a",
+        "Khwazha Bana",
+        "Khvazabana",
+        "Khwaz\u0332h\u0332ah Ba\u1e49ah",
+        "\u062e\u0648\u0696\u0647 \u0628\u06bc\u0647",
+        "Khwaz\u0332h\u0332ah Banah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135902
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e4fcb3865d68a06f8f6e093b6368530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1310063959,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1310063959,
+    "wof:lastmodified":1537581297,
+    "wof:name":"Khwazhah Banah",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.32359,
+    31.16839,
+    66.32359,
+    31.16839
+],
+  "geometry": {"coordinates":[66.32359,31.16839],"type":"Point"}
+}

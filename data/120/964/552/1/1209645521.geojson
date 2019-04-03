@@ -1,0 +1,67 @@
+{
+  "id": 1209645521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78984,33.42413,65.78984,33.42413",
+    "geom:latitude":33.42413,
+    "geom:longitude":65.78984,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"AF",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143863,
+    "gn:latitude":33.42413,
+    "gn:longitude":65.78984,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Da\u0161t",
+        "Dasht",
+        "\u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143863
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b008fd1b68c55b7a8071d698721ec90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209645521
+        }
+    ],
+    "wof:id":1209645521,
+    "wof:lastmodified":1537581956,
+    "wof:name":"Dasht",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78984,
+    33.42413,
+    65.78984,
+    33.42413
+],
+  "geometry": {"coordinates":[65.78984,33.42413],"type":"Point"}
+}

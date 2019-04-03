@@ -1,0 +1,77 @@
+{
+  "id": 1310254985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.17159,36.39162,67.17159,36.39162",
+    "geom:latitude":36.39162,
+    "geom:longitude":67.17159,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611",
+    "gn:asciiname":"Yakotal",
+    "gn:country_code":"AF",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121321,
+    "gn:latitude":36.39162,
+    "gn:longitude":67.17159,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yak\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yak Kowtal",
+        "Yakotal",
+        "Yakat\u0101l",
+        "Yak T\u0101l",
+        "Yek Kowtal",
+        "Yak\u014dtal",
+        "\u06cc\u06a9\u0648\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121321
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"58bdcf2b5e474926a19c8ab7b3dbe7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1310254985,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310254985,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yakotal",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.17159000000001,
+    36.39162,
+    67.17159000000001,
+    36.39162
+],
+  "geometry": {"coordinates":[67.17159000000001,36.39162],"type":"Point"}
+}

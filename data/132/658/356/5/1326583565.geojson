@@ -1,0 +1,83 @@
+{
+  "id": 1326583565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92688,34.69246,70.92688,34.69246",
+    "geom:latitude":34.69246,
+    "geom:longitude":70.92688,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Tsowkey",
+    "gn:country_code":"AF",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1144905,
+    "gn:latitude":34.69246,
+    "gn:longitude":70.92688,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tsowk\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tsowk\u00eay",
+        "Cawkay",
+        "Chowkey",
+        "\u010cawkae",
+        "Chaukai",
+        "Chauki",
+        "Chowk\u012b",
+        "Chowkay",
+        "\u0686\u0648\u0643\u06cc",
+        "\u0685\u0648\u06a9\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144905
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0338e43df72b7d7708fdc88a6e54311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561913,
+            "locality_id":1326583565,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326583565,
+    "wof:lastmodified":1537582053,
+    "wof:name":"Tsowkey",
+    "wof:parent_id":1108561913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92688000000003,
+    34.69246,
+    70.92688000000003,
+    34.69246
+],
+  "geometry": {"coordinates":[70.92688000000003,34.69246],"type":"Point"}
+}

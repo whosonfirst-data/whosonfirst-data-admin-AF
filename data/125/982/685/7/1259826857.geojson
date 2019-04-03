@@ -1,0 +1,76 @@
+{
+  "id": 1259826857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96513,32.02536,66.96513,32.02536",
+    "geom:latitude":32.02536,
+    "geom:longitude":66.96513,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Kashani",
+    "gn:country_code":"AF",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137762,
+    "gn:latitude":32.02536,
+    "gn:longitude":66.96513,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kash\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0634\u0627\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ka\u0161\u0101n\u012b",
+        "Kash\u0101n\u012b",
+        "\u06a9\u0634\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137762
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"54edb378ab94118804c7e597692766dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1259826857,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259826857,
+    "wof:lastmodified":1537581440,
+    "wof:name":"Kashani",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96513,
+    32.02536,
+    66.96513,
+    32.02536
+],
+  "geometry": {"coordinates":[66.96513,32.02536],"type":"Point"}
+}

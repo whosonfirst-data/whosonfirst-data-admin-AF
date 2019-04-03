@@ -1,0 +1,75 @@
+{
+  "id": 1310148523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31594,34.99748,70.31594,34.99748",
+    "geom:latitude":34.99748,
+    "geom:longitude":70.31594,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Pashahgar",
+    "gn:country_code":"AF",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474222,
+    "gn:latitude":34.99748,
+    "gn:longitude":70.31594,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pashahgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101shgar",
+        "Pa\u0161agar",
+        "Pashahgar",
+        "\u067e\u0634\u0647 \u06af\u0631",
+        "Pashagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474222
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe7a6f15667813dd44df5ff19d2e7de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1310148523,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1310148523,
+    "wof:lastmodified":1537583789,
+    "wof:name":"Pashahgar",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31594,
+    34.99748,
+    70.31594,
+    34.99748
+],
+  "geometry": {"coordinates":[70.31594,34.99748],"type":"Point"}
+}

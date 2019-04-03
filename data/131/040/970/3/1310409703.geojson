@@ -1,0 +1,71 @@
+{
+  "id": 1310409703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53494,36.01118,70.53494,36.01118",
+    "geom:latitude":36.01118,
+    "geom:longitude":70.53494,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Yamak",
+    "gn:country_code":"AF",
+    "gn:dem":3294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427550,
+    "gn:latitude":36.01118,
+    "gn:longitude":70.53494,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yamak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06cc\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427550
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eb9b2a607e994805ac7aa4d70b868ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1310409703,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310409703,
+    "wof:lastmodified":1537582642,
+    "wof:name":"Yamak",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53494,
+    36.01118,
+    70.53494,
+    36.01118
+],
+  "geometry": {"coordinates":[70.53494000000001,36.01118],"type":"Point"}
+}

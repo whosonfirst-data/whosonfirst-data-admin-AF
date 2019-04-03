@@ -1,0 +1,80 @@
+{
+  "id": 1226056649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79063,36.5222,70.79063,36.5222",
+    "geom:latitude":36.5222,
+    "geom:longitude":70.79063,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Ghurayd Gharame",
+    "gn:country_code":"AF",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1141098,
+    "gn:latitude":36.5222,
+    "gn:longitude":70.79063,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghurayd Gharam\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garm",
+        "Gho\u1e5fay\u1e0fgha\u1e5fam\u0113",
+        "Gharm\u012b",
+        "Gharmai",
+        "\u063a\u0631\u06cc\u062f \u063a\u0631\u0645\u06d0",
+        "Ghowrayd Gharam\u012b",
+        "Ghurayd Gharam\u0113",
+        "Ghurmay",
+        "\u063a\u0631\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141098,
+        "wk:page":"Ghowrayd_Gharami"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76d21335e6b7a73f7cf23a38a5436bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1226056649,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226056649,
+    "wof:lastmodified":1537581720,
+    "wof:name":"Ghurayd Gharame",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79063000000002,
+    36.5222,
+    70.79063000000002,
+    36.5222
+],
+  "geometry": {"coordinates":[70.79063000000002,36.5222],"type":"Point"}
+}

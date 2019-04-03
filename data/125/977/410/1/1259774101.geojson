@@ -1,0 +1,73 @@
+{
+  "id": 1259774101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44412,33.15162,67.44412,33.15162",
+    "geom:latitude":33.15162,
+    "geom:longitude":67.44412,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Nalah",
+    "gn:country_code":"AF",
+    "gn:dem":2646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450753,
+    "gn:latitude":33.15162,
+    "gn:longitude":67.44412,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101la",
+        "N\u0101lah",
+        "\u0646\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450753
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3684aedfd60f63d3b8ff82d56e0f1ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1259774101,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259774101,
+    "wof:lastmodified":1537583063,
+    "wof:name":"Nalah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44412,
+    33.15162,
+    67.44412,
+    33.15162
+],
+  "geometry": {"coordinates":[67.44412,33.15162],"type":"Point"}
+}

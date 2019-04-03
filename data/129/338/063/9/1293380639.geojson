@@ -1,0 +1,72 @@
+{
+  "id": 1293380639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44669,33.24001,67.44669,33.24001",
+    "geom:latitude":33.24001,
+    "geom:longitude":67.44669,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Sar-e Baydak",
+    "gn:country_code":"AF",
+    "gn:dem":2941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450578,
+    "gn:latitude":33.24001,
+    "gn:longitude":67.44669,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Baydak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631 \u0628\u06cc\u062f\u06a9",
+        "Sa\u1e5f-e B\u0113\u1e0fak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450578
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2abe0d45aee23f95dcf600e09f243b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1293380639,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293380639,
+    "wof:lastmodified":1537583052,
+    "wof:name":"Sar-e Baydak",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44669,
+    33.24001,
+    67.44669,
+    33.24001
+],
+  "geometry": {"coordinates":[67.44669,33.24001],"type":"Point"}
+}

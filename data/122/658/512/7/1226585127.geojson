@@ -1,0 +1,73 @@
+{
+  "id": 1226585127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97494,35.42614,65.97494,35.42614",
+    "geom:latitude":35.42614,
+    "geom:longitude":65.97494,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Tarikak",
+    "gn:country_code":"AF",
+    "gn:dem":2682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122754,
+    "gn:latitude":35.42614,
+    "gn:longitude":65.97494,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101r\u012bkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101r\u012bkak",
+        "\u062a\u0627\u0631\u06cc\u06a9\u06a9",
+        "T\u0101\u1e5fikak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122754
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"42d1fafa59b76c9c55d07821ac45cf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1226585127,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1226585127,
+    "wof:lastmodified":1537580183,
+    "wof:name":"Tarikak",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97494,
+    35.42614000000001,
+    65.97494,
+    35.42614000000001
+],
+  "geometry": {"coordinates":[65.97494,35.42614000000001],"type":"Point"}
+}

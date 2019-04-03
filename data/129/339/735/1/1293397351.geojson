@@ -1,0 +1,74 @@
+{
+  "id": 1293397351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6951,36.04185,69.6951,36.04185",
+    "geom:latitude":36.04185,
+    "geom:longitude":69.6951,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1308",
+    "gn:asciiname":"Yakharm",
+    "gn:country_code":"AF",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121404,
+    "gn:latitude":36.04185,
+    "gn:longitude":69.6951,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakharm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakha\u1e5fm",
+        "Yakaharm",
+        "Yakharm",
+        "\u06cc\u062e\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121404
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a8848fa8ef3a30663fe45111b62d8e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562171,
+            "locality_id":1293397351,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293397351,
+    "wof:lastmodified":1537580039,
+    "wof:name":"Yakharm",
+    "wof:parent_id":1108562171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6951,
+    36.04185,
+    69.6951,
+    36.04185
+],
+  "geometry": {"coordinates":[69.6951,36.04185],"type":"Point"}
+}

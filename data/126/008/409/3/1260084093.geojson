@@ -1,0 +1,74 @@
+{
+  "id": 1260084093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57416,37.19331,70.57416,37.19331",
+    "geom:latitude":37.19331,
+    "geom:longitude":70.57416,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Togh Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468239,
+    "gn:latitude":37.19331,
+    "gn:longitude":70.57416,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u014dgh Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e6e\u014dgh Darrah",
+        "\u0637\u0648\u063a \u062f\u0631\u0647",
+        "Towgh Darreh",
+        "\u0162\u014dgh Darah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468239
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2121dedc334d861c53a41caa6c4695c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1260084093,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260084093,
+    "wof:lastmodified":1537583544,
+    "wof:name":"Togh Darah",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57415999999998,
+    37.19331,
+    70.57415999999998,
+    37.19331
+],
+  "geometry": {"coordinates":[70.57415999999998,37.19331],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209027703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.42615,35.63955,64.42615,35.63955",
+    "geom:latitude":35.63955,
+    "geom:longitude":64.42615,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Tarakchi",
+    "gn:country_code":"AF",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122800,
+    "gn:latitude":35.63955,
+    "gn:longitude":64.42615,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tarakch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u1e5fakci",
+        "Tarakch\u012b",
+        "\u062a\u0631\u06a9\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122800
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c35eb766f9beebc8a8ca331d6f8104e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209027703
+        }
+    ],
+    "wof:id":1209027703,
+    "wof:lastmodified":1537580186,
+    "wof:name":"Tarakchi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.42615,
+    35.63955,
+    64.42615,
+    35.63955
+],
+  "geometry": {"coordinates":[64.42615000000001,35.63955],"type":"Point"}
+}

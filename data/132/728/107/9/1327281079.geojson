@@ -1,0 +1,78 @@
+{
+  "id": 1327281079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56414,32.32479,68.56414,32.32479",
+    "geom:latitude":32.32479,
+    "geom:longitude":68.56414,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Shawzeh Katsunah",
+    "gn:country_code":"AF",
+    "gn:dem":2463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433775,
+    "gn:latitude":32.32479,
+    "gn:longitude":68.56414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101wz\u00eah Kats\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0648\u0632\u0647 \u0643\u0686\u0648\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101wzeh Kacona",
+        "Shauza-Kachona",
+        "\u0634\u0627\u0648\u0632\u0647 \u06a9\u0685\u0648\u0646\u0647",
+        "Sh\u0101wzeh Katsownah",
+        "Sh\u0101wz\u00eah Kats\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433775
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2c41687485e433395de40a8c733c264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1327281079,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327281079,
+    "wof:lastmodified":1537582693,
+    "wof:name":"Shawzeh Katsunah",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56414000000001,
+    32.32479,
+    68.56414000000001,
+    32.32479
+],
+  "geometry": {"coordinates":[68.56414000000001,32.32479],"type":"Point"}
+}

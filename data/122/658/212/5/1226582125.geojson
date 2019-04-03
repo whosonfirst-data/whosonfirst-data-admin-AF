@@ -1,0 +1,75 @@
+{
+  "id": 1226582125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57106,34.95877,68.57106,34.95877",
+    "geom:latitude":34.95877,
+    "geom:longitude":68.57106,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306",
+    "gn:asciiname":"Khak-e Ghulam 'Ali",
+    "gn:country_code":"AF",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137371,
+    "gn:latitude":34.95877,
+    "gn:longitude":68.57106,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101k-e Ghul\u0101m \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaki-Gulyamali",
+        "Kh\u0101k-e Ghol\u0101m \u2018Al\u012b",
+        "Kh\u0101k-e Gh\u014dl\u0101m \u2018Al\u012b",
+        "Kh\u0101k-e Ghul\u0101m \u2018Al\u012b",
+        "\u062e\u0627\u06a9 \u063a\u0644\u0627\u0645 \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137371
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b2fc070d7feb06e606941413f205ecdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1226582125,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1226582125,
+    "wof:lastmodified":1537581415,
+    "wof:name":"Khak-e Ghulam 'Ali",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57106,
+    34.95877,
+    68.57106,
+    34.95877
+],
+  "geometry": {"coordinates":[68.57106,34.95877],"type":"Point"}
+}

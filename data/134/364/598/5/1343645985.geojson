@@ -1,0 +1,78 @@
+{
+  "id": 1343645985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.17159,34.39962,66.17159,34.39962",
+    "geom:latitude":34.39962,
+    "geom:longitude":66.17159,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Dahan-e Pikhil",
+    "gn:country_code":"AF",
+    "gn:dem":2863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456463,
+    "gn:latitude":34.39962,
+    "gn:longitude":66.17159,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Pikhil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dakhani-Pikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eahane Pekhel",
+        "Dahan-e Pakhayl",
+        "Dahan-e Pekheyl",
+        "Dahan-e Pikhil",
+        "\u062f\u0647\u0646 \u067e\u062e\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456463
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b54a997f704f30a2a0df4dd9dde7c0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1343645985,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343645985,
+    "wof:lastmodified":1537583185,
+    "wof:name":"Dahan-e Pikhil",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.17159000000001,
+    34.39962,
+    66.17159000000001,
+    34.39962
+],
+  "geometry": {"coordinates":[66.17159000000001,34.39962],"type":"Point"}
+}

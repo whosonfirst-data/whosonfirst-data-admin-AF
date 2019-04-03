@@ -1,0 +1,75 @@
+{
+  "id": 1276645755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.90309,33.83074,63.90309,33.83074",
+    "geom:latitude":33.83074,
+    "geom:longitude":63.90309,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Dahanah-ye Hajqul",
+    "gn:country_code":"AF",
+    "gn:dem":2512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144558,
+    "gn:latitude":33.83074,
+    "gn:longitude":63.90309,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101nah-ye \u1e28\u0101jqul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eah\u0101na-i-H\u0331ajqul",
+        "Dah\u0101neh-ye Hajqul",
+        "Dah\u0101nah-ye \u1e28\u0101jqul",
+        "\u062f\u0647\u0627\u0646\u06c0 \u062d\u0627\u062c\u0642\u0644",
+        "Dah\u0101neh-ye \u1e28ajqowl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144558
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a04f65c2a8cbccf8b6aedb4ff4e55f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1276645755,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276645755,
+    "wof:lastmodified":1537582017,
+    "wof:name":"Dahanah-ye Hajqul",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.90309,
+    33.83074000000001,
+    63.90309,
+    33.83074000000001
+],
+  "geometry": {"coordinates":[63.90309,33.83074000000001],"type":"Point"}
+}

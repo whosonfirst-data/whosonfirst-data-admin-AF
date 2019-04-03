@@ -1,0 +1,73 @@
+{
+  "id": 1327467405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.52628,36.05298,65.52628,36.05298",
+    "geom:latitude":36.05298,
+    "geom:longitude":65.52628,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Aq Talah Gan",
+    "gn:country_code":"AF",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148506,
+    "gn:latitude":36.05298,
+    "gn:longitude":65.52628,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Talah Gan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100q Talah Gan",
+        "\u0622\u0642 \u062a\u0644\u0647 \u06af\u0646",
+        "\u0100q Talagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148506
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a9dfcea431603ea6565e87d07ee7c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561951,
+            "locality_id":1327467405,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1327467405,
+    "wof:lastmodified":1537582345,
+    "wof:name":"Aq Talah Gan",
+    "wof:parent_id":1108561951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.52628,
+    36.05298,
+    65.52628,
+    36.05298
+],
+  "geometry": {"coordinates":[65.52628,36.05298],"type":"Point"}
+}

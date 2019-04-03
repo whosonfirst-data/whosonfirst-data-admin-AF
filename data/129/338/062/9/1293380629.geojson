@@ -1,0 +1,79 @@
+{
+  "id": 1293380629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37996,33.39325,68.37996,33.39325",
+    "geom:latitude":33.39325,
+    "geom:longitude":68.37996,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Khudzai",
+    "gn:country_code":"AF",
+    "gn:dem":2098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439089,
+    "gn:latitude":33.39325,
+    "gn:longitude":68.37996,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khudz\u0101\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khuzai",
+        "Khu\u1e0fz\u0101\u2018i",
+        "Kh\u014ddza\u012b",
+        "Khowdz\u0101\u2019\u012b",
+        "Khudz\u0101\u012b",
+        "\u062e\u062f\u0632\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439089
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec7e3211c6445781dd15a11799140c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1293380629,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293380629,
+    "wof:lastmodified":1537582916,
+    "wof:name":"Khudzai",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37996,
+    33.39325,
+    68.37996,
+    33.39325
+],
+  "geometry": {"coordinates":[68.37996,33.39325],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309707005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51872,34.44962,66.51872,34.44962",
+    "geom:latitude":34.44962,
+    "geom:longitude":66.51872,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Bughundak",
+    "gn:country_code":"AF",
+    "gn:dem":3122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146368,
+    "gn:latitude":34.44962,
+    "gn:longitude":66.51872,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bughundak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugundak",
+        "Boghundak",
+        "Bughundak",
+        "\u0628\u063a\u0646\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146368
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5739e1e57a7c98beb7433d3577dc5029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1309707005,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309707005,
+    "wof:lastmodified":1537582178,
+    "wof:name":"Bughundak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.51872,
+    34.44962,
+    66.51872,
+    34.44962
+],
+  "geometry": {"coordinates":[66.51872,34.44962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226768593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.30703,34.22848,65.30703,34.22848",
+    "geom:latitude":34.22848,
+    "geom:longitude":65.30703,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Qahari",
+    "gn:country_code":"AF",
+    "gn:dem":2797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130188,
+    "gn:latitude":34.22848,
+    "gn:longitude":65.30703,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qah\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qah\u0101r\u012b",
+        "\u0642\u0647\u0627\u0631\u06cc",
+        "Qah\u0101\u1e5fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130188
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c578fd742deabdc917e1bac913cb71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1226768593,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226768593,
+    "wof:lastmodified":1537580819,
+    "wof:name":"Qahari",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.30703000000001,
+    34.22848,
+    65.30703000000001,
+    34.22848
+],
+  "geometry": {"coordinates":[65.30703000000001,34.22848],"type":"Point"}
+}

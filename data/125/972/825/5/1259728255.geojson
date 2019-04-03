@@ -1,0 +1,72 @@
+{
+  "id": 1259728255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2999,34.5064,70.2999,34.5064",
+    "geom:latitude":34.5064,
+    "geom:longitude":70.2999,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Dand",
+    "gn:country_code":"AF",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564117,
+    "gn:latitude":34.5064,
+    "gn:longitude":70.2999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0ean\u1e0f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0ean\u1e0f",
+        "\u0689\u0646\u0689"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564117
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f83e5765dc6abee77c42852f8dd1d7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1259728255,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259728255,
+    "wof:lastmodified":1537583935,
+    "wof:name":"Dand",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2999,
+    34.5064,
+    70.2999,
+    34.5064
+],
+  "geometry": {"coordinates":[70.29989999999999,34.5064],"type":"Point"}
+}

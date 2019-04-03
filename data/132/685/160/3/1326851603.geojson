@@ -1,0 +1,77 @@
+{
+  "id": 1326851603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.14093,36.84032,65.14093,36.84032",
+    "geom:latitude":36.84032,
+    "geom:longitude":65.14093,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1810",
+    "gn:asciiname":"Yosuf Mirzai",
+    "gn:country_code":"AF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121153,
+    "gn:latitude":36.84032,
+    "gn:longitude":65.14093,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Y\u014dsuf M\u012brza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kala Yusufi",
+        "Y\u016bsof M\u012brz\u014d\u2019\u012b",
+        "Y\u016bsufi",
+        "Yusuf M\u012brzai",
+        "Y\u014dsuf M\u012brza\u012b",
+        "\u06cc\u0648\u0633\u0641 \u0645\u06cc\u0631\u0632\u06cc",
+        "Y\u016bsof M\u012brz\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121153
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"579d8018acbd6e0e0f828f539bee2880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562389,
+            "locality_id":1326851603,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1326851603,
+    "wof:lastmodified":1537580026,
+    "wof:name":"Yosuf Mirzai",
+    "wof:parent_id":1108562389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.14093000000001,
+    36.84032,
+    65.14093000000001,
+    36.84032
+],
+  "geometry": {"coordinates":[65.14093000000001,36.84032],"type":"Point"}
+}

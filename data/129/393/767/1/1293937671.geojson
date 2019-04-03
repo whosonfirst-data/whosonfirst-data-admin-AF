@@ -1,0 +1,76 @@
+{
+  "id": 1293937671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42557,34.1371,68.42557,34.1371",
+    "geom:latitude":34.1371,
+    "geom:longitude":68.42557,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406",
+    "gn:asciiname":"Qal'ah-ye Mahmud",
+    "gn:country_code":"AF",
+    "gn:dem":2535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129920,
+    "gn:latitude":34.1371,
+    "gn:longitude":68.42557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a Ma\u1e29m\u016b\u1e0f",
+        "Kalamakhmud",
+        "Qal\u2018a-i-Ma\u1e29m\u016b\u1e0f",
+        "Qal\u2018eh-ye Ma\u1e29m\u016bd",
+        "Qal\u2018ah-ye Ma\u1e29m\u016bd",
+        "\u0642\u0644\u0639\u0647 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129920
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f4dc058567674795a7e04ff4d3acad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1293937671,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293937671,
+    "wof:lastmodified":1537580784,
+    "wof:name":"Qal'ah-ye Mahmud",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42557,
+    34.1371,
+    68.42557,
+    34.1371
+],
+  "geometry": {"coordinates":[68.42556999999999,34.1371],"type":"Point"}
+}

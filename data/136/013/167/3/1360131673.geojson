@@ -1,0 +1,77 @@
+{
+  "id": 1360131673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31182,32.57179,69.31182,32.57179",
+    "geom:latitude":32.57179,
+    "geom:longitude":69.31182,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"De Angur Kot",
+    "gn:country_code":"AF",
+    "gn:dem":2310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433886,
+    "gn:latitude":32.57179,
+    "gn:longitude":69.31182,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Ang\u016br K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angurkot",
+        "\u1e0ee Ang\u016br K\u014dt Zy\u0101bu",
+        "\u1e0ee Ang\u016br K\u014dt",
+        "De Ang\u016br K\u016bt Zy\u0101bu",
+        "D\u00ea Ang\u016br K\u014d\u1e6f",
+        "De Ang\u016br K\u016bt",
+        "\u062f \u0627\u0646\u06af\u0648\u0631 \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433886
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"26d6728b6247be5df33a69ea5ba12d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1360131673,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1360131673,
+    "wof:lastmodified":1537582695,
+    "wof:name":"De Angur Kot",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31182,
+    32.57179,
+    69.31182,
+    32.57179
+],
+  "geometry": {"coordinates":[69.31182,32.57179],"type":"Point"}
+}

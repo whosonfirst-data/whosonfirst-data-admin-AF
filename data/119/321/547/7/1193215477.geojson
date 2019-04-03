@@ -1,0 +1,73 @@
+{
+  "id": 1193215477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65889,34.96953,68.65889,34.96953",
+    "geom:latitude":34.96953,
+    "geom:longitude":68.65889,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Dahan-e Pasak",
+    "gn:country_code":"AF",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454780,
+    "gn:latitude":34.96953,
+    "gn:longitude":68.65889,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Pasak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakani-Pasak",
+        "Dahan-e Pasak",
+        "\u062f\u0647\u0646 \u067e\u0633\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454780
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dec73957a0f5e29d2ec9edd35cd21363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1193215477,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1193215477,
+    "wof:lastmodified":1537583133,
+    "wof:name":"Dahan-e Pasak",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65889,
+    34.96953,
+    68.65889,
+    34.96953
+],
+  "geometry": {"coordinates":[68.65889,34.96953],"type":"Point"}
+}

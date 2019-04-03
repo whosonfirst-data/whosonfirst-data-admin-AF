@@ -1,0 +1,66 @@
+{
+  "id": 1209568243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88483,33.43887,68.88483,33.43887",
+    "geom:latitude":33.43887,
+    "geom:longitude":68.88483,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Nakam",
+    "gn:country_code":"AF",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132461,
+    "gn:latitude":33.43887,
+    "gn:longitude":68.88483,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101k\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101k\u0101m",
+        "\u0646\u0627\u06a9\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132461
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8084d4da0fc218792af241be1c8e6c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209568243
+        }
+    ],
+    "wof:id":1209568243,
+    "wof:lastmodified":1537581008,
+    "wof:name":"Nakam",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88483000000001,
+    33.43887,
+    68.88483000000001,
+    33.43887
+],
+  "geometry": {"coordinates":[68.88483000000001,33.43887],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344202193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21577,34.73219,70.21577,34.73219",
+    "geom:latitude":34.73219,
+    "geom:longitude":70.21577,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Tarakey",
+    "gn:country_code":"AF",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1474442,
+    "gn:latitude":34.73219,
+    "gn:longitude":70.21577,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tarak\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tarak\u00eay",
+        "\u062a\u0631\u06a9\u06cd",
+        "Tarakay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474442
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c75acfbb1813972e5b0c29830a45e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1344202193,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1344202193,
+    "wof:lastmodified":1537583804,
+    "wof:name":"Tarakey",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21576999999999,
+    34.73219,
+    70.21576999999999,
+    34.73219
+],
+  "geometry": {"coordinates":[70.21576999999999,34.73219],"type":"Point"}
+}

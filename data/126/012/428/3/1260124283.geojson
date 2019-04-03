@@ -1,0 +1,80 @@
+{
+  "id": 1260124283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10264,33.46151,69.10264,33.46151",
+    "geom:latitude":33.46151,
+    "geom:longitude":69.10264,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Zafar Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121135,
+    "gn:latitude":33.46151,
+    "gn:longitude":69.10264,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0327afar Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0638\u0641\u0631 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Zafarkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e94afa\u1e5fkh\u0113l",
+        "Z\u0327afar Kheyl",
+        "Z\u0327afar Kh\u0113l",
+        "\u0638\u0641\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121135
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37eb67e36e8218259bb982688ad24040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1260124283,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1260124283,
+    "wof:lastmodified":1537580025,
+    "wof:name":"Zafar Khel",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10264000000001,
+    33.46151,
+    69.10264000000001,
+    33.46151
+],
+  "geometry": {"coordinates":[69.10264000000001,33.46151],"type":"Point"}
+}

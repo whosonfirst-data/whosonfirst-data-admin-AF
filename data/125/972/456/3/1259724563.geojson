@@ -1,0 +1,77 @@
+{
+  "id": 1259724563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38695,35.09081,71.38695,35.09081",
+    "geom:latitude":35.09081,
+    "geom:longitude":71.38695,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Mulla Diq",
+    "gn:country_code":"AF",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424113,
+    "gn:latitude":35.09081,
+    "gn:longitude":71.38695,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 D\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u062f\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Muladik",
+        "\u0645\u0644\u0627 \u062f\u06cc\u0642",
+        "Mol\u0101d\u012bq",
+        "Mull\u0101 D\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424113
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d755a9c2d1b1656319980d561f8061a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561857,
+            "locality_id":1259724563,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1259724563,
+    "wof:lastmodified":1537582599,
+    "wof:name":"Mulla Diq",
+    "wof:parent_id":1108561857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38695,
+    35.09081,
+    71.38695,
+    35.09081
+],
+  "geometry": {"coordinates":[71.38695,35.09081],"type":"Point"}
+}

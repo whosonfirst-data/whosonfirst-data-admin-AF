@@ -1,0 +1,76 @@
+{
+  "id": 1343330247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1613,32.10982,66.1613,32.10982",
+    "geom:latitude":32.10982,
+    "geom:longitude":66.1613,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Khak-e Shirin",
+    "gn:country_code":"AF",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137348,
+    "gn:latitude":32.10982,
+    "gn:longitude":66.1613,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101k-e Sh\u012br\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaki-Shirin",
+        "Kh\u0101ke \u0160ir\u012bn",
+        "Kh\u0101k-e Shir\u012bn",
+        "\u062e\u0627\u06a9 \u0634\u0631\u06cc\u0646",
+        "Kh\u0101k-e Sh\u012br\u012bn",
+        "\u062e\u0627\u06a9 \u0634\u064a\u0631\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137348
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e3b934de82a3da6079f300d689a823a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1343330247,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343330247,
+    "wof:lastmodified":1537581413,
+    "wof:name":"Khak-e Shirin",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1613,
+    32.10982,
+    66.1613,
+    32.10982
+],
+  "geometry": {"coordinates":[66.1613,32.10982],"type":"Point"}
+}

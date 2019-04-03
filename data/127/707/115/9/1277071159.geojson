@@ -1,0 +1,74 @@
+{
+  "id": 1277071159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.8418,35.90127,64.8418,35.90127",
+    "geom:latitude":35.90127,
+    "geom:longitude":64.8418,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Shah Folad",
+    "gn:country_code":"AF",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423718,
+    "gn:latitude":35.90127,
+    "gn:longitude":64.8418,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h F\u014dl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101h F\u014dl\u0101\u1e0f",
+        "Sh\u0101h F\u016bl\u0101d",
+        "Sh\u0101h F\u014dl\u0101d",
+        "\u0634\u0627\u0647 \u0641\u0648\u0644\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423718
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8a4a268db9dd2d32d3c9e1bfbc5d758a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1277071159,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1277071159,
+    "wof:lastmodified":1537582585,
+    "wof:name":"Shah Folad",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.8418,
+    35.90127000000001,
+    64.8418,
+    35.90127000000001
+],
+  "geometry": {"coordinates":[64.84180000000001,35.90127000000001],"type":"Point"}
+}

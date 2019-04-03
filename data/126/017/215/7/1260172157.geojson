@@ -1,0 +1,75 @@
+{
+  "id": 1260172157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99004,34.06913,67.99004,34.06913",
+    "geom:latitude":34.06913,
+    "geom:longitude":67.99004,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Shahr-e Bala-ye Khowat",
+    "gn:country_code":"AF",
+    "gn:dem":2807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125885,
+    "gn:latitude":34.06913,
+    "gn:longitude":67.99004,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr-e B\u0101l\u0101-ye Khow\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ahre B\u0101l\u0101-i-Khaw\u0101t",
+        "Shakhri-Balayi-Khavat",
+        "Shahr-e B\u0101l\u0101-ye Khav\u0101t",
+        "Shahr-e B\u0101l\u0101-ye Khow\u0101t",
+        "\u0634\u0647\u0631 \u0628\u0627\u0644\u0627\u06cc \u062e\u0648\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125885
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9061aecafdd4d05db4e095b25cd5ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1260172157,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260172157,
+    "wof:lastmodified":1537580424,
+    "wof:name":"Shahr-e Bala-ye Khowat",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99004000000001,
+    34.06913,
+    67.99004000000001,
+    34.06913
+],
+  "geometry": {"coordinates":[67.99004000000001,34.06913],"type":"Point"}
+}

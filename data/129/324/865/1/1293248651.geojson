@@ -1,0 +1,81 @@
+{
+  "id": 1293248651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.71185,31.57295,65.71185,31.57295",
+    "geom:latitude":31.57295,
+    "geom:longitude":65.71185,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Sher-e Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124986,
+    "gn:latitude":31.57295,
+    "gn:longitude":65.71185,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r-e Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0631 \u0633\u0631\u062e"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113re Surkh",
+        "Sheri-Surkh",
+        "Shir-e Zur",
+        "\u1e62h\u0113re Surkh",
+        "Sh\u012br Sorkh",
+        "Shayr-e Surkh",
+        "\u0634\u064a\u0631 \u0633\u0631\u062e",
+        "Sh\u0113r-e Surkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124986
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de514ae372a27f73d0e90b0be5c0b101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1293248651,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293248651,
+    "wof:lastmodified":1537580344,
+    "wof:name":"Sher-e Surkh",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.71185,
+    31.57295,
+    65.71185,
+    31.57295
+],
+  "geometry": {"coordinates":[65.71185,31.57295],"type":"Point"}
+}

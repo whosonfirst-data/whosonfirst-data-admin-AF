@@ -1,0 +1,73 @@
+{
+  "id": 1259876341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44344,33.00916,67.44344,33.00916",
+    "geom:latitude":33.00916,
+    "geom:longitude":67.44344,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Gharib Rah",
+    "gn:country_code":"AF",
+    "gn:dem":2853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141362,
+    "gn:latitude":33.00916,
+    "gn:longitude":67.44344,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghar\u012bb R\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghar\u012bb R\u0101h",
+        "\u063a\u0631\u06cc\u0628 \u0631\u0627\u0647",
+        "Gha\u1e5fib \u1e5e\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141362
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9eaf15cc5181e968ee6ded137a4e0db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1259876341,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259876341,
+    "wof:lastmodified":1537581747,
+    "wof:name":"Gharib Rah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44344,
+    33.00915999999999,
+    67.44344,
+    33.00915999999999
+],
+  "geometry": {"coordinates":[67.44344,33.00915999999999],"type":"Point"}
+}

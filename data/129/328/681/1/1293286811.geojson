@@ -1,0 +1,72 @@
+{
+  "id": 1293286811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9161,36.36164,64.9161,36.36164",
+    "geom:latitude":36.36164,
+    "geom:longitude":64.9161,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1809",
+    "gn:asciiname":"Dilbar",
+    "gn:country_code":"AF",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143300,
+    "gn:latitude":36.36164,
+    "gn:longitude":64.9161,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dilbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0644\u0628\u0631",
+        "Delbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"984fe1412bda8de490eedb49d40d5d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561965,
+            "locality_id":1293286811,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293286811,
+    "wof:lastmodified":1537581904,
+    "wof:name":"Dilbar",
+    "wof:parent_id":1108561965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9161,
+    36.36164,
+    64.9161,
+    36.36164
+],
+  "geometry": {"coordinates":[64.9161,36.36164],"type":"Point"}
+}

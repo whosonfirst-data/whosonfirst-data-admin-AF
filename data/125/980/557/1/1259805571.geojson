@@ -1,0 +1,73 @@
+{
+  "id": 1259805571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.64464,33.35592,63.64464,33.35592",
+    "geom:latitude":33.35592,
+    "geom:longitude":63.64464,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Bayri",
+    "gn:country_code":"AF",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146720,
+    "gn:latitude":33.35592,
+    "gn:longitude":63.64464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayr\u012b",
+        "\u0628\u06cc\u0631\u06cc",
+        "Bay\u1e5f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146720
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"294e42f0dcd729e44bc69b160425e2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1259805571,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1259805571,
+    "wof:lastmodified":1537582208,
+    "wof:name":"Bayri",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.64464,
+    33.35592,
+    63.64464,
+    33.35592
+],
+  "geometry": {"coordinates":[63.64464,33.35592],"type":"Point"}
+}

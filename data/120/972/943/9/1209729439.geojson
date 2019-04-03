@@ -1,0 +1,75 @@
+{
+  "id": 1209729439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48797,36.6605,71.48797,36.6605",
+    "geom:latitude":36.6605,
+    "geom:longitude":71.48797,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1107",
+    "gn:asciiname":"Khashpak",
+    "gn:country_code":"AF",
+    "gn:dem":2867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136856,
+    "gn:latitude":36.6605,
+    "gn:longitude":71.48797,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khashp\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khushn\u0101k",
+        "Khas\u0304p\u0101k",
+        "Khashp\u0101k",
+        "\u062e\u0634\u067e\u0627\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421183887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136856,
+        "wk:page":"Khashpak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"082f05a2dd78fafa5bf863263c547d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421183887,
+            "locality_id":1209729439,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209729439,
+    "wof:lastmodified":1537581375,
+    "wof:name":"Khashpak",
+    "wof:parent_id":421183887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48796999999998,
+    36.6605,
+    71.48796999999998,
+    36.6605
+],
+  "geometry": {"coordinates":[71.48796999999998,36.6605],"type":"Point"}
+}

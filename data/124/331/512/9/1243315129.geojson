@@ -1,0 +1,76 @@
+{
+  "id": 1243315129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69423,33.55958,69.69423,33.55958",
+    "geom:latitude":33.55958,
+    "geom:longitude":69.69423,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3205",
+    "gn:asciiname":"Narai Motay",
+    "gn:country_code":"AF",
+    "gn:dem":2102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132329,
+    "gn:latitude":33.55958,
+    "gn:longitude":69.69423,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nara\u012b M\u014dtay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naraymotay",
+        "Na\u1e5fay M\u014dtay",
+        "Nara\u012b M\u016btay",
+        "N\u0101ray Mowtay",
+        "Nara\u012b M\u014dtay",
+        "\u0646\u0631\u06cc \u0645\u0648\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132329
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"75cd2794e2bc64ce18410cbe6d0d12d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562281,
+            "locality_id":1243315129,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1243315129,
+    "wof:lastmodified":1537581000,
+    "wof:name":"Narai Motay",
+    "wof:parent_id":1108562281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69423,
+    33.55958,
+    69.69423,
+    33.55958
+],
+  "geometry": {"coordinates":[69.69423,33.55958],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209671619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11174,32.23305,66.11174,32.23305",
+    "geom:latitude":32.23305,
+    "geom:longitude":66.11174,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Ilbak",
+    "gn:country_code":"AF",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142574,
+    "gn:latitude":32.23305,
+    "gn:longitude":66.11174,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ilbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Il\u2019bak"
+    ],
+    "name:und_x_variant":[
+        "Albak",
+        "Ilbeck",
+        "Ilbak",
+        "\u0627\u0644\u0628\u06a9",
+        "El Bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142574,
+        "wk:page":"Ilbak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9bd7f4dc03276e9db62bdf8d3fa61221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209671619
+        }
+    ],
+    "wof:id":1209671619,
+    "wof:lastmodified":1537581841,
+    "wof:name":"Ilbak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11174,
+    32.23305,
+    66.11174,
+    32.23305
+],
+  "geometry": {"coordinates":[66.11174,32.23305],"type":"Point"}
+}

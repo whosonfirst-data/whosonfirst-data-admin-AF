@@ -1,0 +1,78 @@
+{
+  "id": 1343805293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15559,32.1188,67.15559,32.1188",
+    "geom:latitude":32.1188,
+    "geom:longitude":67.15559,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Shelah",
+    "gn:country_code":"AF",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125402,
+    "gn:latitude":32.1188,
+    "gn:longitude":67.15559,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113leh",
+        "Shela",
+        "Shaylah",
+        "\u0634\u06d0\u0644\u0647",
+        "Sh\u0113lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125402
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b9eb5588dd83741ba560542ef0e5ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1343805293,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343805293,
+    "wof:lastmodified":1537580386,
+    "wof:name":"Shelah",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15559,
+    32.1188,
+    67.15559,
+    32.1188
+],
+  "geometry": {"coordinates":[67.15559,32.1188],"type":"Point"}
+}

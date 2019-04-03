@@ -1,0 +1,73 @@
+{
+  "id": 1292979007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.01389,34.26853,61.01389,34.26853",
+    "geom:latitude":34.26853,
+    "geom:longitude":61.01389,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Faruq Agha",
+    "gn:country_code":"AF",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142228,
+    "gn:latitude":34.26853,
+    "gn:longitude":61.01389,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"F\u0101r\u016bq \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0101r\u016bq \u0100gh\u0101",
+        "\u0641\u0627\u0631\u0648\u0642 \u0622\u063a\u0627",
+        "F\u0101r\u016bq \u0100q\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142228
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93d961fef0098a6b4f1b84a628c53901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1292979007,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1292979007,
+    "wof:lastmodified":1537581811,
+    "wof:name":"Faruq Agha",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.01389,
+    34.26853,
+    61.01389,
+    34.26853
+],
+  "geometry": {"coordinates":[61.01389,34.26853],"type":"Point"}
+}

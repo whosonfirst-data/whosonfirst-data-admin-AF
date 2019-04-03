@@ -1,0 +1,74 @@
+{
+  "id": 1326471501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7592,34.87254,70.7592,34.87254",
+    "geom:latitude":34.87254,
+    "geom:longitude":70.7592,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Awarah",
+    "gn:country_code":"AF",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148066,
+    "gn:latitude":34.87254,
+    "gn:longitude":70.7592,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aw\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avara",
+        "Aw\u0101\u1e5fa",
+        "Aw\u0101rah",
+        "\u0627\u0648\u0627\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148066
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1327912b3d6bf9a0c88abe4aa06ad87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1326471501,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326471501,
+    "wof:lastmodified":1537582314,
+    "wof:name":"Awarah",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7592,
+    34.87254,
+    70.7592,
+    34.87254
+],
+  "geometry": {"coordinates":[70.75920000000001,34.87254],"type":"Point"}
+}

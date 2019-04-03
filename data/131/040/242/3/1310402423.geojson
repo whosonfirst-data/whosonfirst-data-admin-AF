@@ -1,0 +1,72 @@
+{
+  "id": 1310402423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39439,33.42749,67.39439,33.42749",
+    "geom:latitude":33.42749,
+    "geom:longitude":67.39439,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Bum",
+    "gn:country_code":"AF",
+    "gn:dem":2849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146171,
+    "gn:latitude":33.42749,
+    "gn:longitude":67.39439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bm",
+        "\u0628\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146171
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a1ff773725359e6db9251ee16ed4a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1310402423,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310402423,
+    "wof:lastmodified":1537582161,
+    "wof:name":"Bum",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39439,
+    33.42749,
+    67.39439,
+    33.42749
+],
+  "geometry": {"coordinates":[67.39439,33.42749],"type":"Point"}
+}

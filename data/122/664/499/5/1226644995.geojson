@@ -1,0 +1,74 @@
+{
+  "id": 1226644995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68105,35.41697,67.68105,35.41697",
+    "geom:latitude":35.41697,
+    "geom:longitude":67.68105,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Surkh Shahr",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124010,
+    "gn:latitude":35.41697,
+    "gn:longitude":67.68105,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u1e5fkhs\u0101\u1e5f",
+        "Sorkhsh\u0101r",
+        "Surkh Shahr",
+        "\u0633\u0631\u062e \u0634\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124010
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09926de1a0712abcd5e007cfd19253da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1226644995,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226644995,
+    "wof:lastmodified":1537580265,
+    "wof:name":"Surkh Shahr",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68105,
+    35.41697,
+    67.68105,
+    35.41697
+],
+  "geometry": {"coordinates":[67.68105,35.41697],"type":"Point"}
+}

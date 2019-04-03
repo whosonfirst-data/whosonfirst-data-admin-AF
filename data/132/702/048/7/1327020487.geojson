@@ -1,0 +1,80 @@
+{
+  "id": 1327020487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42717,33.37376,68.42717,33.37376",
+    "geom:latitude":33.37376,
+    "geom:longitude":68.42717,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Niyazi",
+    "gn:country_code":"AF",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131586,
+    "gn:latitude":33.37376,
+    "gn:longitude":68.42717,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Niy\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064a\u0627\u0632\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "N\u2019yazi"
+    ],
+    "name:und_x_variant":[
+        "Ny\u0101zi",
+        "Ny\u0101z\u012b",
+        "N\u012b\u0101z\u012b",
+        "Niy\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131586
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b00aad5f6ed4bf3a10940dd0b3d69a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1327020487,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327020487,
+    "wof:lastmodified":1537580933,
+    "wof:name":"Niyazi",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42716999999999,
+    33.37376,
+    68.42716999999999,
+    33.37376
+],
+  "geometry": {"coordinates":[68.42716999999999,33.37376],"type":"Point"}
+}

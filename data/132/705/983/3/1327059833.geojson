@@ -1,0 +1,82 @@
+{
+  "id": 1327059833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.38895,33.33505,65.38895,33.33505",
+    "geom:latitude":33.33505,
+    "geom:longitude":65.38895,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Sidiqah",
+    "gn:country_code":"AF",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126605,
+    "gn:latitude":33.33505,
+    "gn:longitude":65.38895,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eid\u012bqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u062f\u064a\u0642\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u015eedd\u012bqah",
+        "Sidika",
+        "\u015ee\u1e0f\u012bqa",
+        "\u015eid\u012bqah",
+        "\u0635\u062f\u06cc\u0642\u0647",
+        "\u015eedd\u012bqeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126605
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23b82f7746bf4a312ef4d5ca4a7b065b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1327059833,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327059833,
+    "wof:lastmodified":1537580488,
+    "wof:name":"Sidiqah",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.38895,
+    33.33505,
+    65.38895,
+    33.33505
+],
+  "geometry": {"coordinates":[65.38894999999999,33.33505],"type":"Point"}
+}

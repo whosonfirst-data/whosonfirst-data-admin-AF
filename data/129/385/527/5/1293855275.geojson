@@ -1,0 +1,83 @@
+{
+  "id": 1293855275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.76005,34.58962,69.76005,34.58962",
+    "geom:latitude":34.58962,
+    "geom:longitude":69.76005,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Sarobi",
+    "gn:country_code":"AF",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1126884,
+    "gn:latitude":34.58962,
+    "gn:longitude":69.76005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar\u014db\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sur\u016bbay"
+    ],
+    "name:und_x_variant":[
+        "Markaz-e Sor\u016bb\u012b",
+        "S\u016br\u0101wb\u012b",
+        "Sarowb\u012b",
+        "Sor\u016bb\u012b",
+        "Sarobi",
+        "S\u016b\u1e5f\u014dbay",
+        "Sarubi",
+        "Sor\u016bbay",
+        "\u0633\u0631\u0648\u0628\u06cc",
+        "Sar\u014db\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126884
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fba078d54747178a0c80f3dd6eba1446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1293855275,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1293855275,
+    "wof:lastmodified":1537580510,
+    "wof:name":"Sarobi",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.76005,
+    34.58962,
+    69.76005,
+    34.58962
+],
+  "geometry": {"coordinates":[69.76005000000001,34.58962],"type":"Point"}
+}

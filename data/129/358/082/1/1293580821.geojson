@@ -1,0 +1,73 @@
+{
+  "id": 1293580821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.18969,35.27873,65.18969,35.27873",
+    "geom:latitude":35.27873,
+    "geom:longitude":65.18969,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Changjay",
+    "gn:country_code":"AF",
+    "gn:dem":2646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145464,
+    "gn:latitude":35.27873,
+    "gn:longitude":65.18969,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Changjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cangjay",
+        "Changjay",
+        "\u0686\u0646\u06af\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145464
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"434088687f915253e44f358b35027a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1293580821,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293580821,
+    "wof:lastmodified":1537582105,
+    "wof:name":"Changjay",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.18969,
+    35.27873,
+    65.18969,
+    35.27873
+],
+  "geometry": {"coordinates":[65.18969,35.27873],"type":"Point"}
+}

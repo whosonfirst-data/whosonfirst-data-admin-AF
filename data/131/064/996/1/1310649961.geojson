@@ -1,0 +1,72 @@
+{
+  "id": 1310649961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41043,36.04854,67.41043,36.04854",
+    "geom:latitude":36.04854,
+    "geom:longitude":67.41043,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Lab Abi",
+    "gn:country_code":"AF",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466279,
+    "gn:latitude":36.04854,
+    "gn:longitude":67.41043,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lab \u0100b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lab \u0100b\u012b",
+        "\u0644\u0628 \u0622\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466279
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51e30eea01fb7e4931591a20f980f710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1310649961,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1310649961,
+    "wof:lastmodified":1537583419,
+    "wof:name":"Lab Abi",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41043,
+    36.04854,
+    67.41043,
+    36.04854
+],
+  "geometry": {"coordinates":[67.41043000000001,36.04854],"type":"Point"}
+}

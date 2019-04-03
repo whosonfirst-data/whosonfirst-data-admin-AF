@@ -1,0 +1,74 @@
+{
+  "id": 1293030697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.71511,34.15756,65.71511,34.15756",
+    "geom:latitude":34.15756,
+    "geom:longitude":65.71511,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3408",
+    "gn:asciiname":"Shaykh Sangak",
+    "gn:country_code":"AF",
+    "gn:dem":2692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125210,
+    "gn:latitude":34.15756,
+    "gn:longitude":65.71511,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh Sangak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113khsangak",
+        "Shaykh Sangak",
+        "\u0634\u06cc\u062e \u0633\u0646\u06af\u06a9",
+        "Sheykhsangak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125210
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ebb97a247c1d7dda55792e508f262c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":1293030697,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1293030697,
+    "wof:lastmodified":1537580367,
+    "wof:name":"Shaykh Sangak",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.71511,
+    34.15756,
+    65.71511,
+    34.15756
+],
+  "geometry": {"coordinates":[65.71511,34.15756],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242920823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.20859,32.20749,67.20859,32.20749",
+    "geom:latitude":32.20749,
+    "geom:longitude":67.20859,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Karezgay",
+    "gn:country_code":"AF",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137863,
+    "gn:latitude":32.20749,
+    "gn:longitude":67.20859,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113zgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113zgay",
+        "K\u0101r\u0113zgay",
+        "\u06a9\u0627\u0631\u06cc\u0632\u06af\u06cc",
+        "K\u0101r\u012bzgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137863
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f8121842ef1797487b72a72b5307c550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1242920823,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242920823,
+    "wof:lastmodified":1537581448,
+    "wof:name":"Karezgay",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.20859,
+    32.20749,
+    67.20859,
+    32.20749
+],
+  "geometry": {"coordinates":[67.20859,32.20749],"type":"Point"}
+}

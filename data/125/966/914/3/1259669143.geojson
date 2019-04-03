@@ -1,0 +1,73 @@
+{
+  "id": 1259669143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29835,33.73359,67.29835,33.73359",
+    "geom:latitude":33.73359,
+    "geom:longitude":67.29835,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Daghan",
+    "gn:country_code":"AF",
+    "gn:dem":3307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144733,
+    "gn:latitude":33.73359,
+    "gn:longitude":67.29835,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101gh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101gh\u0101n",
+        "\u062f\u0627\u063a\u0627\u0646",
+        "\u1e0e\u0101gh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144733
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0b7bf2c8dae4a4f893438ad2fb97b446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1259669143,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259669143,
+    "wof:lastmodified":1537582037,
+    "wof:name":"Daghan",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29835,
+    33.73359,
+    67.29835,
+    33.73359
+],
+  "geometry": {"coordinates":[67.29835,33.73359],"type":"Point"}
+}

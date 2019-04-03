@@ -1,0 +1,78 @@
+{
+  "id": 1243242843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40496,34.62603,69.40496,34.62603",
+    "geom:latitude":34.62603,
+    "geom:longitude":69.40496,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"102",
+    "gn:asciiname":"Khwajah Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":2027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136238,
+    "gn:latitude":34.62603,
+    "gn:longitude":69.40496,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Gh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u0647 \u063a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khodzhagar",
+        "Kh\u014dja-gh\u0101\u1e5f",
+        "Khv\u0101jeh Ghar",
+        "Khw\u0101jah Gh\u0101r",
+        "\u062e\u0648\u0627\u062c\u0647 \u063a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108561973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136238
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"309cbe2b24c38cd02ad0657a3d4ecafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561973,
+            "locality_id":1243242843,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1243242843,
+    "wof:lastmodified":1537581326,
+    "wof:name":"Khwajah Ghar",
+    "wof:parent_id":1108561973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40496,
+    34.62603,
+    69.40496,
+    34.62603
+],
+  "geometry": {"coordinates":[69.40496,34.62603],"type":"Point"}
+}

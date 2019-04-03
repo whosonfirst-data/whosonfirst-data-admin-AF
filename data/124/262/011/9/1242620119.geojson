@@ -1,0 +1,80 @@
+{
+  "id": 1242620119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34339,35.67283,71.34339,35.67283",
+    "geom:latitude":35.67283,
+    "geom:longitude":71.34339,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Barg-e Matal",
+    "gn:country_code":"AF",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1146979,
+    "gn:latitude":35.67283,
+    "gn:longitude":71.34339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barg-e Mat\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bargi-Matal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Lutdeh",
+        "Bragamata",
+        "Ba\u1e5fge Mat\u0101l",
+        "Bragamatal",
+        "Barg-e Ma\u1e6f\u0101l",
+        "Barg-e Mat\u0101l",
+        "\u0628\u0631\u06af \u0645\u062a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146979
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21c66a44c246d631b26e84aac5ac2278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1242620119,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1242620119,
+    "wof:lastmodified":1537582228,
+    "wof:name":"Barg-e Matal",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34339,
+    35.67283,
+    71.34339,
+    35.67283
+],
+  "geometry": {"coordinates":[71.34339,35.67283],"type":"Point"}
+}

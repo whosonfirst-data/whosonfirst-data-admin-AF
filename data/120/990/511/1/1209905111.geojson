@@ -1,0 +1,75 @@
+{
+  "id": 1209905111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79162,32.68284,64.79162,32.68284",
+    "geom:latitude":32.68284,
+    "geom:longitude":64.79162,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Wala Khor",
+    "gn:country_code":"AF",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121785,
+    "gn:latitude":32.68284,
+    "gn:longitude":64.79162,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101l\u0101 Kh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valakhor",
+        "W\u0101l\u0101kh\u014d\u1e5f",
+        "W\u0101l\u0101 Kh\u014dr",
+        "\u0648\u0627\u0644\u0627 \u062e\u0648\u0631",
+        "W\u0101l\u0101khowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121785
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1041332474a2b0b6f54d1a73fdba7883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1209905111,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1209905111,
+    "wof:lastmodified":1537580061,
+    "wof:name":"Wala Khor",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79162,
+    32.68284,
+    64.79162,
+    32.68284
+],
+  "geometry": {"coordinates":[64.79161999999999,32.68284],"type":"Point"}
+}

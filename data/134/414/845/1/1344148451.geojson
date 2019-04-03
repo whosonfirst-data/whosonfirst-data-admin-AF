@@ -1,0 +1,73 @@
+{
+  "id": 1344148451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.89982,36.33333,64.89982,36.33333",
+    "geom:latitude":36.33333,
+    "geom:longitude":64.89982,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1809",
+    "gn:asciiname":"Juq Ha",
+    "gn:country_code":"AF",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139032,
+    "gn:latitude":36.33333,
+    "gn:longitude":64.89982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Juq H\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juqh\u0101",
+        "\u062c\u0642 \u0647\u0627",
+        "Juq H\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139032
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d04750a0e6e4534a56dbacd78cfc0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561965,
+            "locality_id":1344148451,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1344148451,
+    "wof:lastmodified":1537581544,
+    "wof:name":"Juq Ha",
+    "wof:parent_id":1108561965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.89981999999999,
+    36.33333,
+    64.89981999999999,
+    36.33333
+],
+  "geometry": {"coordinates":[64.89981999999999,36.33333],"type":"Point"}
+}

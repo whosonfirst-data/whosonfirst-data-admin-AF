@@ -1,0 +1,75 @@
+{
+  "id": 1293685769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73862,34.4614,66.73862,34.4614",
+    "geom:latitude":34.4614,
+    "geom:longitude":66.73862,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":3109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123696,
+    "gn:latitude":34.4614,
+    "gn:longitude":66.73862,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sokhta",
+        "S\u014dkhta",
+        "S\u016bkhteh",
+        "S\u014dkhtah",
+        "\u0633\u0648\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123696
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"20d7a44d84cf38728022720f933c5bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1293685769,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293685769,
+    "wof:lastmodified":1537580243,
+    "wof:name":"Sokhtah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73862,
+    34.4614,
+    66.73862,
+    34.4614
+],
+  "geometry": {"coordinates":[66.73862,34.4614],"type":"Point"}
+}

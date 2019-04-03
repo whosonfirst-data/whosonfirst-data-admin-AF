@@ -1,0 +1,75 @@
+{
+  "id": 1276798947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15041,34.31659,67.15041,34.31659",
+    "geom:latitude":34.31659,
+    "geom:longitude":67.15041,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Tirido",
+    "gn:country_code":"AF",
+    "gn:dem":2955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462506,
+    "gn:latitude":34.31659,
+    "gn:longitude":67.15041,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012brid\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiridu",
+        "T\u012brd\u014d",
+        "T\u012br-e Do",
+        "T\u012brid\u014d",
+        "\u062a\u0631\u062f\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462506
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e98c5b8ffb91bd66ae710bcbf85e6024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1276798947,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276798947,
+    "wof:lastmodified":1537583372,
+    "wof:name":"Tirido",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15041,
+    34.31659000000001,
+    67.15041,
+    34.31659000000001
+],
+  "geometry": {"coordinates":[67.15040999999999,34.31659000000001],"type":"Point"}
+}

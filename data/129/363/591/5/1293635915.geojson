@@ -1,0 +1,78 @@
+{
+  "id": 1293635915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71121,36.74276,67.71121,36.74276",
+    "geom:latitude":36.74276,
+    "geom:longitude":67.71121,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614",
+    "gn:asciiname":"Sarjan Kasah",
+    "gn:country_code":"AF",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126953,
+    "gn:latitude":36.74276,
+    "gn:longitude":67.71121,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarj\u0101n K\u0101sah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u0436\u0430\u043d\u043a\u0430\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sardzhankasa",
+        "Sarj\u0101n K\u0101sa",
+        "Sarj\u0101n K\u0101seh",
+        "Sarj\u0101n K\u0101sah",
+        "\u0633\u0631\u062c\u0627\u0646 \u06a9\u0627\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e61a67f4aa978726f8315b6e2ebb8ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562177,
+            "locality_id":1293635915,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293635915,
+    "wof:lastmodified":1537580516,
+    "wof:name":"Sarjan Kasah",
+    "wof:parent_id":1108562177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71121,
+    36.74276,
+    67.71121,
+    36.74276
+],
+  "geometry": {"coordinates":[67.71120999999999,36.74276],"type":"Point"}
+}

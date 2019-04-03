@@ -1,0 +1,75 @@
+{
+  "id": 1209879721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14778,34.11392,69.14778,34.11392",
+    "geom:latitude":34.11392,
+    "geom:longitude":69.14778,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Deh Menah",
+    "gn:country_code":"AF",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468892,
+    "gn:latitude":34.11392,
+    "gn:longitude":69.14778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh M\u0113nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhmina",
+        "\u1e0eehmena",
+        "Deh M\u0113nah",
+        "Dehmenah",
+        "\u062f\u0647 \u0645\u06d0\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468892
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b8281adac9fc067c1062f6fce9ce36e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1209879721,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1209879721,
+    "wof:lastmodified":1537583574,
+    "wof:name":"Deh Menah",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14778000000001,
+    34.11392,
+    69.14778000000001,
+    34.11392
+],
+  "geometry": {"coordinates":[69.14778000000001,34.11392],"type":"Point"}
+}

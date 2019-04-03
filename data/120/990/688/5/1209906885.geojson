@@ -1,0 +1,74 @@
+{
+  "id": 1209906885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54341,32.93167,67.54341,32.93167",
+    "geom:latitude":32.93167,
+    "geom:longitude":67.54341,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Gunbad",
+    "gn:country_code":"AF",
+    "gn:dem":2335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435556,
+    "gn:latitude":32.93167,
+    "gn:longitude":67.54341,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gunbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumbad",
+        "\u06af\u0645\u0628\u062f",
+        "Gunbad",
+        "\u06af\u0646\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435556
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf82f4a9793bd416376c5dd86cf0e009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1209906885,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209906885,
+    "wof:lastmodified":1537582771,
+    "wof:name":"Gunbad",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54341,
+    32.93167,
+    67.54341,
+    32.93167
+],
+  "geometry": {"coordinates":[67.54340999999999,32.93167],"type":"Point"}
+}

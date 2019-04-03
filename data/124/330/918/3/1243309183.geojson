@@ -1,0 +1,75 @@
+{
+  "id": 1243309183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51427,36.23,67.51427,36.23",
+    "geom:latitude":36.23,
+    "geom:longitude":67.51427,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Orlamish",
+    "gn:country_code":"AF",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131473,
+    "gn:latitude":36.23,
+    "gn:longitude":67.51427,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014crlam\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100rlamesh",
+        "Orlam\u012bsh",
+        "Orlamesh",
+        "\u014crlam\u012bsh",
+        "\u0627\u0648\u0631\u0644\u0645\u06cc\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131473
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"862b063fafb824284b6aa7eac7efbb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1243309183,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1243309183,
+    "wof:lastmodified":1537580923,
+    "wof:name":"Orlamish",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51427,
+    36.23,
+    67.51427,
+    36.23
+],
+  "geometry": {"coordinates":[67.51427,36.23],"type":"Point"}
+}

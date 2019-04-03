@@ -1,0 +1,78 @@
+{
+  "id": 1343346913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25469,33.45292,68.25469,33.45292",
+    "geom:latitude":33.45292,
+    "geom:longitude":68.25469,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"618",
+    "gn:asciiname":"Nekzi",
+    "gn:country_code":"AF",
+    "gn:dem":2320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131851,
+    "gn:latitude":33.45292,
+    "gn:longitude":68.25469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0113kz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064a\u0643\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "N\u0113kzi",
+        "Nekzi",
+        "N\u0113kz\u012b",
+        "N\u012bkz\u012b",
+        "\u0646\u06d0\u0643\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131851
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0ebbd9b4e96c5affc91e0062c690e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1343346913,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343346913,
+    "wof:lastmodified":1537580958,
+    "wof:name":"Nekzi",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25469,
+    33.45292,
+    68.25469,
+    33.45292
+],
+  "geometry": {"coordinates":[68.25469,33.45292],"type":"Point"}
+}

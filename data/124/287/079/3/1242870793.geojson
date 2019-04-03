@@ -1,0 +1,73 @@
+{
+  "id": 1242870793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0324,35.56932,64.0324,35.56932",
+    "geom:latitude":35.56932,
+    "geom:longitude":64.0324,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Uruktu",
+    "gn:country_code":"AF",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131465,
+    "gn:latitude":35.56932,
+    "gn:longitude":64.0324,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Urukt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urukt\u016b",
+        "\u0627\u0631\u06a9\u062a\u0648",
+        "Oruktu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131465
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3eaa63aa78b4e75a8934d4c609f3ce2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1242870793,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1242870793,
+    "wof:lastmodified":1537580922,
+    "wof:name":"Uruktu",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0324,
+    35.56932000000001,
+    64.0324,
+    35.56932000000001
+],
+  "geometry": {"coordinates":[64.0324,35.56932000000001],"type":"Point"}
+}

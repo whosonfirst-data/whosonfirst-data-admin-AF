@@ -1,0 +1,74 @@
+{
+  "id": 1226251313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.29665,35.05145,63.29665,35.05145",
+    "geom:latitude":35.05145,
+    "geom:longitude":63.29665,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1907.0",
+    "gn:asciiname":"Ablah-ye Miranzai",
+    "gn:country_code":"AF",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424177,
+    "gn:latitude":35.05145,
+    "gn:longitude":63.29665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100blah-ye M\u012br\u0101nza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abla-i- M\u012b\u1e5f\u0101nz\u0101\u2019i",
+        "Ablah-e M\u012br\u0101nz\u0101\u2019\u012b",
+        "\u0100blah-ye M\u012br\u0101nza\u012b",
+        "\u0627\u0628\u0644\u06c0 \u0645\u06cc\u0631\u0627\u0646 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424177
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f3a1033ecc3edc432c6b719cd58cb0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562287,
+            "locality_id":1226251313,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1226251313,
+    "wof:lastmodified":1537582603,
+    "wof:name":"Ablah-ye Miranzai",
+    "wof:parent_id":1108562287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.29665,
+    35.05145,
+    63.29665,
+    35.05145
+],
+  "geometry": {"coordinates":[63.29665,35.05145],"type":"Point"}
+}

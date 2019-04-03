@@ -1,0 +1,75 @@
+{
+  "id": 1310002631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30459,33.38748,68.30459,33.38748",
+    "geom:latitude":33.38748,
+    "geom:longitude":68.30459,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Sar Bulaq",
+    "gn:country_code":"AF",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439074,
+    "gn:latitude":33.38748,
+    "gn:longitude":68.30459,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar B\u016bl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarbulak",
+        "Sar Bol\u0101gh",
+        "Sa\u1e5f Bol\u0101gh",
+        "Sar B\u016bl\u0101q",
+        "\u0633\u0631 \u0628\u0648\u0644\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439074
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"574cf68888396de5f10e919127f9de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1310002631,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310002631,
+    "wof:lastmodified":1537582914,
+    "wof:name":"Sar Bulaq",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30459,
+    33.38748,
+    68.30459,
+    33.38748
+],
+  "geometry": {"coordinates":[68.30459,33.38748],"type":"Point"}
+}

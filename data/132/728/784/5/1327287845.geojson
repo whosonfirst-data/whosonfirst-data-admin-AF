@@ -1,0 +1,76 @@
+{
+  "id": 1327287845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60629,35.41902,71.60629,35.41902",
+    "geom:latitude":35.41902,
+    "geom:longitude":71.60629,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1005.0",
+    "gn:asciiname":"Dababande",
+    "gn:country_code":"AF",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452008,
+    "gn:latitude":35.41902,
+    "gn:longitude":71.60629,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dababande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u06a9\u0654 \u062f\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dab\u0101 B\u0101nd\u0113",
+        "\u1e0eab\u0101 B\u0101n\u1e0f\u0113",
+        "\u0689\u0628\u0627 \u0628\u0627\u0646\u0689\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452008
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a57f64b61d5aa2a7ccf6c74dd4c52079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562307,
+            "locality_id":1327287845,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327287845,
+    "wof:lastmodified":1537583083,
+    "wof:name":"Dababande",
+    "wof:parent_id":1108562307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60629,
+    35.41902,
+    71.60629,
+    35.41902
+],
+  "geometry": {"coordinates":[71.60629,35.41902],"type":"Point"}
+}

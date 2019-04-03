@@ -1,0 +1,80 @@
+{
+  "id": 1360124763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.18866,33.3615,69.18866,33.3615",
+    "geom:latitude":33.3615,
+    "geom:longitude":69.18866,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Zeraki Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120690,
+    "gn:latitude":33.3615,
+    "gn:longitude":69.18866,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u00earak\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u06c0 \u0632\u0631\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Zerkikala",
+        "Z\u00eark\u012b Kal\u0101",
+        "Zerk\u012b Kal\u0101",
+        "Z\u00earak\u012b Kal\u0101",
+        "\u0632\u0631\u06a9\u06cc \u06a9\u0644\u0627",
+        "Z\u012brak\u012b Kal\u0101",
+        "\u0632\u06cc\u0631\u06a9\u06cc \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120690
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff44a70ccb112bc4e02162e5b8c972c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1360124763,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1360124763,
+    "wof:lastmodified":1537579959,
+    "wof:name":"Zeraki Kala",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.18866,
+    33.3615,
+    69.18866,
+    33.3615
+],
+  "geometry": {"coordinates":[69.18866,33.3615],"type":"Point"}
+}

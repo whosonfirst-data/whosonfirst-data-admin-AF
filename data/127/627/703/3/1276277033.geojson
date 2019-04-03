@@ -1,0 +1,80 @@
+{
+  "id": 1276277033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.97,36.54,66.97,36.54",
+    "geom:latitude":36.54,
+    "geom:longitude":66.97,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609.0",
+    "gn:asciiname":"Chashma-i-Shafa",
+    "gn:country_code":"AF",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145018,
+    "gn:latitude":36.54,
+    "gn:longitude":66.97,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chashma-i-Shafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0448\u043c\u0430\u0439\u0438-\u0428\u0430\u0444\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tchichme Chafa",
+        "Chashma-i-Shafa",
+        "Chismasafa",
+        "Chashmeh-ye Shaf\u0101",
+        "Chashmayi-Shafa",
+        "Cheshmeh-ye Shaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145018,
+        "wk:page":"Cheshmeh-ye_Shafa"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"70ade329408c27bd2cc9b3699607f045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1276277033,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276277033,
+    "wof:lastmodified":1537582065,
+    "wof:name":"Chashma-i-Shafa",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.97,
+    36.54,
+    66.97,
+    36.54
+],
+  "geometry": {"coordinates":[66.97,36.54],"type":"Point"}
+}

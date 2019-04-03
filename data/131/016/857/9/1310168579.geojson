@@ -1,0 +1,74 @@
+{
+  "id": 1310168579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60881,34.61333,70.60881,34.61333",
+    "geom:latitude":34.61333,
+    "geom:longitude":70.60881,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Surich",
+    "gn:country_code":"AF",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473913,
+    "gn:latitude":34.61333,
+    "gn:longitude":70.60881,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016brich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bre\u010d",
+        "S\u016b\u1e5fech",
+        "S\u016brich",
+        "\u0633\u0648\u0631\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473913
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"198db5c1a0c61c647d88ec1ae94cbe97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1310168579,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1310168579,
+    "wof:lastmodified":1537583770,
+    "wof:name":"Surich",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60880999999998,
+    34.61333,
+    70.60880999999998,
+    34.61333
+],
+  "geometry": {"coordinates":[70.60880999999998,34.61333],"type":"Point"}
+}

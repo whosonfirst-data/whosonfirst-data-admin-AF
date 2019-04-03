@@ -1,0 +1,78 @@
+{
+  "id": 1276730939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11871,31.23073,66.11871,31.23073",
+    "geom:latitude":31.23073,
+    "geom:longitude":66.11871,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"De Khuno Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143331,
+    "gn:latitude":31.23073,
+    "gn:longitude":66.11871,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Kh\u016bn\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0646\u0648 \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khunukalay",
+        "\u062f \u062e\u0627\u0646\u0648 \u06a9\u0644\u06cc",
+        "De Kh\u016bno Kalay",
+        "D\u00ea Kh\u016bn\u014d K\u00ealay",
+        "\u062f \u062e\u0648\u0646\u0648 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143331
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1be8ee834ee082f91987c75a4a2bb04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1276730939,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276730939,
+    "wof:lastmodified":1537581907,
+    "wof:name":"De Khuno Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11871,
+    31.23073,
+    66.11871,
+    31.23073
+],
+  "geometry": {"coordinates":[66.11870999999999,31.23073],"type":"Point"}
+}

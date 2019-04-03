@@ -1,0 +1,73 @@
+{
+  "id": 1243081475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26898,38.18267,71.26898,38.18267",
+    "geom:latitude":38.18267,
+    "geom:longitude":71.26898,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Begaw",
+    "gn:country_code":"AF",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466733,
+    "gn:latitude":38.18267,
+    "gn:longitude":71.26898,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113g\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u012bg\u0101w",
+        "B\u0113g\u0101w",
+        "\u0628\u06d0\u06af\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466733
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"696d296eff4dfec73d2f35fa05b0e95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1243081475,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243081475,
+    "wof:lastmodified":1537583438,
+    "wof:name":"Begaw",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26898,
+    38.18267,
+    71.26898,
+    38.18267
+],
+  "geometry": {"coordinates":[71.26898,38.18267],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226812279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60463,34.60453,70.60463,34.60453",
+    "geom:latitude":34.60453,
+    "geom:longitude":70.60463,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"819.0",
+    "gn:asciiname":"Nasir Kala",
+    "gn:country_code":"AF",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473911,
+    "gn:latitude":34.60453,
+    "gn:longitude":70.60463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101\u015fir Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0635\u0631 \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Nasirkala",
+        "N\u0101\u015fer Kal\u0101",
+        "N\u0101\u015fir Kal\u0101",
+        "\u0646\u0627\u0635\u0631 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473911
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"718354f99eab15bb5ee450a77892e544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562223,
+            "locality_id":1226812279,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226812279,
+    "wof:lastmodified":1537583770,
+    "wof:name":"Nasir Kala",
+    "wof:parent_id":1108562223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60463,
+    34.60453,
+    70.60463,
+    34.60453
+],
+  "geometry": {"coordinates":[70.60463,34.60453],"type":"Point"}
+}

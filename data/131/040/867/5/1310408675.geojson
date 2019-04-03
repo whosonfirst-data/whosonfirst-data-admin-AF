@@ -1,0 +1,75 @@
+{
+  "id": 1310408675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.3251,34.89908,63.3251,34.89908",
+    "geom:latitude":34.89908,
+    "geom:longitude":63.3251,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Gharchahghay",
+    "gn:country_code":"AF",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141401,
+    "gn:latitude":34.89908,
+    "gn:longitude":63.3251,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharchahghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garchagay",
+        "Ghar\u010daghay",
+        "Gharchaghay",
+        "Gharchahghay",
+        "\u063a\u0631\u0686\u0647 \u063a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141401
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cea968b72eea4bfd3332892457e9735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562371,
+            "locality_id":1310408675,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310408675,
+    "wof:lastmodified":1537581750,
+    "wof:name":"Gharchahghay",
+    "wof:parent_id":1108562371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.3251,
+    34.89908,
+    63.3251,
+    34.89908
+],
+  "geometry": {"coordinates":[63.3251,34.89908],"type":"Point"}
+}

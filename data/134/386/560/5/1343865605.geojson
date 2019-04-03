@@ -1,0 +1,79 @@
+{
+  "id": 1343865605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5367,35.75675,68.5367,35.75675",
+    "geom:latitude":35.75675,
+    "geom:longitude":68.5367,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Shuluktu",
+    "gn:country_code":"AF",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124942,
+    "gn:latitude":35.75675,
+    "gn:longitude":68.5367,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shulukt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160oluktu",
+        "Shol\u016b K\u016btu",
+        "Sholukt\u0101",
+        "Shuluklu",
+        "Sholokt\u016b",
+        "Shulukt\u016b",
+        "\u0634\u0644\u06a9\u062a\u0648",
+        "Shuluktu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124942,
+        "wk:page":"Sholoktu"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6c59e17d27104cf25ae05aeddadc809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1343865605,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343865605,
+    "wof:lastmodified":1537580339,
+    "wof:name":"Shuluktu",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5367,
+    35.75675,
+    68.5367,
+    35.75675
+],
+  "geometry": {"coordinates":[68.5367,35.75675],"type":"Point"}
+}

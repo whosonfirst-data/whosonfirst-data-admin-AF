@@ -1,0 +1,75 @@
+{
+  "id": 1276440961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7391,35.19837,67.7391,35.19837",
+    "geom:latitude":35.19837,
+    "geom:longitude":67.7391,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2807",
+    "gn:asciiname":"Ghorabchi",
+    "gn:country_code":"AF",
+    "gn:dem":1981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141102,
+    "gn:latitude":35.19837,
+    "gn:longitude":67.7391,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014drabch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u014d\u1e5fabci",
+        "Gh\u016brabch\u012b",
+        "Ghowrabch\u012b",
+        "Gh\u014drabch\u012b",
+        "\u063a\u0648\u0631\u0628\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141102
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f067d5d9e603672af9ffcfeaab77cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562447,
+            "locality_id":1276440961,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276440961,
+    "wof:lastmodified":1537581721,
+    "wof:name":"Ghorabchi",
+    "wof:parent_id":1108562447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7391,
+    35.19837000000001,
+    67.7391,
+    35.19837000000001
+],
+  "geometry": {"coordinates":[67.73909999999999,35.19837000000001],"type":"Point"}
+}

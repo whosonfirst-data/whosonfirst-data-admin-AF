@@ -1,0 +1,72 @@
+{
+  "id": 1243262735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83831,34.71428,67.83831,34.71428",
+    "geom:latitude":34.71428,
+    "geom:longitude":67.83831,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2801.0",
+    "gn:asciiname":"Yatimak",
+    "gn:country_code":"AF",
+    "gn:dem":2883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457374,
+    "gn:latitude":34.71428,
+    "gn:longitude":67.83831,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yat\u012bmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yat\u012bmak",
+        "\u06cc\u062a\u06cc\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457374
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9bb52b34979f87fd1fb0a80483bb831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1243262735,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243262735,
+    "wof:lastmodified":1537583225,
+    "wof:name":"Yatimak",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83830999999999,
+    34.71428,
+    67.83830999999999,
+    34.71428
+],
+  "geometry": {"coordinates":[67.83830999999999,34.71428],"type":"Point"}
+}

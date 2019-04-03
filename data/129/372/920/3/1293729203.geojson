@@ -1,0 +1,76 @@
+{
+  "id": 1293729203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43655,34.97302,71.43655,34.97302",
+    "geom:latitude":34.97302,
+    "geom:longitude":71.43655,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Dera",
+    "gn:country_code":"AF",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452128,
+    "gn:latitude":34.97302,
+    "gn:longitude":71.43655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u0113r\u0113",
+        "\u1e0e\u0113r\u0113",
+        "\u0689\u06d0\u0631\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452128
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"958accd69faf59151d8fa9c9bc93243b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561929,
+            "locality_id":1293729203,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293729203,
+    "wof:lastmodified":1537583087,
+    "wof:name":"Dera",
+    "wof:parent_id":1108561929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43655,
+    34.97302,
+    71.43655,
+    34.97302
+],
+  "geometry": {"coordinates":[71.43655,34.97302],"type":"Point"}
+}

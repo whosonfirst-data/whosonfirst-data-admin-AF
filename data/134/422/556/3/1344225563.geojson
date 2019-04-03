@@ -1,0 +1,78 @@
+{
+  "id": 1344225563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37194,31.27008,66.37194,31.27008",
+    "geom:latitude":31.27008,
+    "geom:longitude":66.37194,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Gagre Matrukah",
+    "gn:country_code":"AF",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1451344,
+    "gn:latitude":31.27008,
+    "gn:longitude":66.37194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101gr\u0113 Matr\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mat\u1e5f\u016bka",
+        "G\u0101g\u1e5f\u0113",
+        "G\u0101gr\u0113 Matr\u016bka",
+        "Gagre",
+        "G\u0101gr\u0113",
+        "\u06af\u0627\u06af\u0631\u06d0",
+        "G\u0101gr\u0113 Matr\u016bkah",
+        "\u06af\u0627\u06af\u0631\u06d0 \u0645\u062a\u0631\u0648\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80df656488b041fbd983c1a07048e714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1344225563,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1344225563,
+    "wof:lastmodified":1537583065,
+    "wof:name":"Gagre Matrukah",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37194000000001,
+    31.27008,
+    66.37194000000001,
+    31.27008
+],
+  "geometry": {"coordinates":[66.37194000000001,31.27008],"type":"Point"}
+}

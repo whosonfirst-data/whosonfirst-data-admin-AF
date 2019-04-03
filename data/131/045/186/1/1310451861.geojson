@@ -1,0 +1,74 @@
+{
+  "id": 1310451861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64871,35.76311,66.64871,35.76311",
+    "geom:latitude":35.76311,
+    "geom:longitude":66.64871,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Mullaiyan",
+    "gn:country_code":"AF",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132857,
+    "gn:latitude":35.76311,
+    "gn:longitude":66.64871,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101iy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mol\u0101y\u0101n",
+        "Moll\u0101y\u0101n",
+        "Mull\u0101iy\u0101n",
+        "\u0645\u0644\u0627\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132857
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0a7e1729a3b05e832357f4a5d635adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1310451861,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310451861,
+    "wof:lastmodified":1537581043,
+    "wof:name":"Mullaiyan",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64871,
+    35.76311,
+    66.64871,
+    35.76311
+],
+  "geometry": {"coordinates":[66.64870999999999,35.76311],"type":"Point"}
+}

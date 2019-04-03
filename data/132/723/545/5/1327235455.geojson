@@ -1,0 +1,73 @@
+{
+  "id": 1327235455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15739,36.69603,70.15739,36.69603",
+    "geom:latitude":36.69603,
+    "geom:longitude":70.15739,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102",
+    "gn:asciiname":"Gang Shahr",
+    "gn:country_code":"AF",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141945,
+    "gn:latitude":36.69603,
+    "gn:longitude":70.15739,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gang Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gang Sah\u1e5f",
+        "Gang Shahr",
+        "\u06af\u0646\u06af \u0634\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141945
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b9d3ba8f75feae1d19811de61a68e1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562197,
+            "locality_id":1327235455,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327235455,
+    "wof:lastmodified":1537581787,
+    "wof:name":"Gang Shahr",
+    "wof:parent_id":1108562197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15739,
+    36.69603,
+    70.15739,
+    36.69603
+],
+  "geometry": {"coordinates":[70.15739000000001,36.69603],"type":"Point"}
+}

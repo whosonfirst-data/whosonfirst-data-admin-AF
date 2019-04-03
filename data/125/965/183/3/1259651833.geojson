@@ -1,0 +1,80 @@
+{
+  "id": 1259651833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16904,36.61929,69.16904,36.61929",
+    "geom:latitude":36.61929,
+    "geom:longitude":69.16904,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406",
+    "gn:asciiname":"Deh-e Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143578,
+    "gn:latitude":36.61929,
+    "gn:longitude":69.16904,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Kal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06c0 \u0643\u0644\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0445\u0438-\u041a\u0430\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dekhi-Kalan",
+        "\u1e0eeh-i-Kal\u0101n",
+        "Deh-e Kal\u0101n",
+        "\u062f\u0647 \u06a9\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143578
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ad454575bc3e39c2071c88ba9f63700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1259651833,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1259651833,
+    "wof:lastmodified":1537581932,
+    "wof:name":"Deh-e Kalan",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16904,
+    36.61929,
+    69.16904,
+    36.61929
+],
+  "geometry": {"coordinates":[69.16904,36.61929],"type":"Point"}
+}

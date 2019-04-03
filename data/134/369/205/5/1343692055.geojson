@@ -1,0 +1,74 @@
+{
+  "id": 1343692055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53225,33.05595,65.53225,33.05595",
+    "geom:latitude":33.05595,
+    "geom:longitude":65.53225,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604.0",
+    "gn:asciiname":"Bagh-Khoshak",
+    "gn:country_code":"AF",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147541,
+    "gn:latitude":33.05595,
+    "gn:longitude":65.53225,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh-Kh\u014dshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101gh-kh\u014dsak",
+        "B\u0101gh-Kh\u014dshak",
+        "\u0628\u0627\u063a \u062e\u0648\u0634\u06a9",
+        "B\u0101gh-e Khowshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147541
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b29e92cfbdc853498153d0a139c27f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562455,
+            "locality_id":1343692055,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1343692055,
+    "wof:lastmodified":1537582274,
+    "wof:name":"Bagh-Khoshak",
+    "wof:parent_id":1108562455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53225,
+    33.05595,
+    65.53225,
+    33.05595
+],
+  "geometry": {"coordinates":[65.53225,33.05595],"type":"Point"}
+}

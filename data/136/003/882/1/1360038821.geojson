@@ -1,0 +1,73 @@
+{
+  "id": 1360038821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09994,34.84614,70.09994,34.84614",
+    "geom:latitude":34.84614,
+    "geom:longitude":70.09994,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Sigin",
+    "gn:country_code":"AF",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474360,
+    "gn:latitude":34.84614,
+    "gn:longitude":70.09994,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u012bg\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sig\u012bn",
+        "S\u012bg\u012bn",
+        "\u0633\u06cc\u06af\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474360
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"430de467f26c01e228bde5cd5de22fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1360038821,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1360038821,
+    "wof:lastmodified":1537583798,
+    "wof:name":"Sigin",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09994,
+    34.84614000000001,
+    70.09994,
+    34.84614000000001
+],
+  "geometry": {"coordinates":[70.09994,34.84614000000001],"type":"Point"}
+}

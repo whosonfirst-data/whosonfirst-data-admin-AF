@@ -1,0 +1,73 @@
+{
+  "id": 1242958643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28638,33.40193,67.28638,33.40193",
+    "geom:latitude":33.40193,
+    "geom:longitude":67.28638,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Kharzar",
+    "gn:country_code":"AF",
+    "gn:dem":3099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450289,
+    "gn:latitude":33.40193,
+    "gn:longitude":67.28638,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101rz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101rz\u0101r",
+        "\u062e\u0627\u0631\u0632\u0627\u0631",
+        "Kharz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450289
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f783766d738a10d71e04e8463c960cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1242958643,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242958643,
+    "wof:lastmodified":1537583039,
+    "wof:name":"Kharzar",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28638000000001,
+    33.40193,
+    67.28638000000001,
+    33.40193
+],
+  "geometry": {"coordinates":[67.28638000000001,33.40193],"type":"Point"}
+}

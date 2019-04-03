@@ -1,0 +1,78 @@
+{
+  "id": 1243563267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.29264,35.03987,63.29264,35.03987",
+    "geom:latitude":35.03987,
+    "geom:longitude":63.29264,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1907",
+    "gn:asciiname":"Muqur",
+    "gn:country_code":"AF",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132806,
+    "gn:latitude":35.03987,
+    "gn:longitude":63.29264,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Muqur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muqu\u1e5f",
+        "Maghor",
+        "Moghor",
+        "Maghar",
+        "Moqor",
+        "Muqur",
+        "\u0645\u0642\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132806,
+        "wk:page":"Moqor"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eb4a31173497d7a9b8509be88e5b2450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562287,
+            "locality_id":1243563267,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243563267,
+    "wof:lastmodified":1537581039,
+    "wof:name":"Muqur",
+    "wof:parent_id":1108562287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.29264000000001,
+    35.03987,
+    63.29264000000001,
+    35.03987
+],
+  "geometry": {"coordinates":[63.29264000000001,35.03987],"type":"Point"}
+}

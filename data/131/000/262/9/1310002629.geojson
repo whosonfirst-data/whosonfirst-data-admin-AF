@@ -1,0 +1,77 @@
+{
+  "id": 1310002629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.24985,33.02989,68.24985,33.02989",
+    "geom:latitude":33.02989,
+    "geom:longitude":68.24985,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Milaw",
+    "gn:country_code":"AF",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133344,
+    "gn:latitude":33.02989,
+    "gn:longitude":68.24985,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bl\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0644\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Mil\u0101w",
+        "M\u012bl\u0101w",
+        "\u0645\u06cc\u0644\u0627\u0648",
+        "\u0645\u064a\u0644\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e379b4ad5957eb925bcc6aa2a7e56ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1310002629,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310002629,
+    "wof:lastmodified":1537581087,
+    "wof:name":"Milaw",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.24985,
+    33.02989,
+    68.24985,
+    33.02989
+],
+  "geometry": {"coordinates":[68.24985,33.02989],"type":"Point"}
+}

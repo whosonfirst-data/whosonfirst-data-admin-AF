@@ -1,0 +1,78 @@
+{
+  "id": 1259847703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.87864,36.54424,68.87864,36.54424",
+    "geom:latitude":36.54424,
+    "geom:longitude":68.87864,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1405.0",
+    "gn:asciiname":"Lalah Maidan",
+    "gn:country_code":"AF",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467977,
+    "gn:latitude":36.54424,
+    "gn:longitude":68.87864,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101lah Ma\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043b\u0430\u043c\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "L\u0101la May\u1e0f\u0101n",
+        "Lalamaydan",
+        "L\u0101lah Ma\u012bd\u0101n",
+        "\u0644\u0627\u0644\u0647 \u0645\u06cc\u062f\u0627\u0646",
+        "L\u0101leh Meyd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467977
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c7e6b1647327066d118b6f6c31bc9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561791,
+            "locality_id":1259847703,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1259847703,
+    "wof:lastmodified":1537583517,
+    "wof:name":"Lalah Maidan",
+    "wof:parent_id":1108561791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.87864,
+    36.54424,
+    68.87864,
+    36.54424
+],
+  "geometry": {"coordinates":[68.87864,36.54424],"type":"Point"}
+}

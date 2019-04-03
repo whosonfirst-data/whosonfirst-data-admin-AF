@@ -1,0 +1,73 @@
+{
+  "id": 1209707197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.91258,35.26379,64.91258,35.26379",
+    "geom:latitude":35.26379,
+    "geom:longitude":64.91258,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1805",
+    "gn:asciiname":"Ilian",
+    "gn:country_code":"AF",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139851,
+    "gn:latitude":35.26379,
+    "gn:longitude":64.91258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Il\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il\u012b\u0101n",
+        "\u0627\u0644\u06cc\u0627\u0646",
+        "Ily\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139851
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a93ea8b3c40ce66a0998f7f79d21091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1209707197,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1209707197,
+    "wof:lastmodified":1537581611,
+    "wof:name":"Ilian",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.91258,
+    35.26379,
+    64.91258,
+    35.26379
+],
+  "geometry": {"coordinates":[64.91258000000001,35.26379],"type":"Point"}
+}

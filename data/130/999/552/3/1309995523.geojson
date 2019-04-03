@@ -1,0 +1,72 @@
+{
+  "id": 1309995523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.82123,34.1311,63.82123,34.1311",
+    "geom:latitude":34.1311,
+    "geom:longitude":63.82123,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Zaradan",
+    "gn:country_code":"AF",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121007,
+    "gn:latitude":34.1311,
+    "gn:longitude":63.82123,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zarad\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarad\u0101n",
+        "\u0632\u0631\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121007
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4df6efb764dec7a791c1601ed9d0edfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1309995523,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309995523,
+    "wof:lastmodified":1537580019,
+    "wof:name":"Zaradan",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.82123000000001,
+    34.1311,
+    63.82123000000001,
+    34.1311
+],
+  "geometry": {"coordinates":[63.82123000000001,34.1311],"type":"Point"}
+}

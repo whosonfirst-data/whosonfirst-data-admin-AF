@@ -1,0 +1,76 @@
+{
+  "id": 1310438985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.57824,32.63466,65.57824,32.63466",
+    "geom:latitude":32.63466,
+    "geom:longitude":65.57824,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Derapit",
+    "gn:country_code":"AF",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449951,
+    "gn:latitude":32.63466,
+    "gn:longitude":65.57824,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113r\u0101pit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u067e\u062a"
+    ],
+    "name:und_x_variant":[
+        "D\u0113r\u0101pit",
+        "\u062f\u06d0\u0631\u0627\u067e\u062a",
+        "\u1e0e\u0113\u1e5f\u0101pet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449951
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c62c987ee83e2f93fb6782399cda4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561983,
+            "locality_id":1310438985,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1310438985,
+    "wof:lastmodified":1537583034,
+    "wof:name":"Derapit",
+    "wof:parent_id":1108561983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.57824000000001,
+    32.63466,
+    65.57824000000001,
+    32.63466
+],
+  "geometry": {"coordinates":[65.57824000000001,32.63466],"type":"Point"}
+}

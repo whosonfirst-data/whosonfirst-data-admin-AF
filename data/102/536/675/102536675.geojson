@@ -1,0 +1,117 @@
+{
+  "id": 102536675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.265,34.9463888889,69.265,34.9463888889",
+    "geom:latitude":34.946389,
+    "geom:longitude":69.265,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0639\u062f\u0629 \u0628\u063a\u0631\u0627\u0645"
+    ],
+    "name:ces_x_preferred":[
+        "Leteck\u00e1 z\u00e1kladna Bagram"
+    ],
+    "name:deu_x_preferred":[
+        "Bagram Air Base"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0647\u0648\u0627\u06cc\u06cc \u0628\u06af\u0631\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne de Bagram"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Bagram"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bagram"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b0\u30e9\u30e0\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uadf8\ub78c \uacf5\uad70 \uae30\uc9c0"
+    ],
+    "name:msa_x_preferred":[
+        "Pangkalan Udara Bagram"
+    ],
+    "name:nor_x_preferred":[
+        "Bagram Air Base"
+    ],
+    "name:pol_x_preferred":[
+        "Baza lotnicza Bagram"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0430\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Leteck\u00e1 z\u00e1klad\u0148a Bagram"
+    ],
+    "name:spa_x_preferred":[
+        "Base A\u00e9rea de Bagram"
+    ],
+    "name:tur_x_preferred":[
+        "Bagram Hava \u00dcss\u00fc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Bagram"
+    ],
+    "oa:elevation_ft":"4895",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":3692,
+    "woe:hierarchy":{
+        "country_id":23424739,
+        "county_id":56000588,
+        "planet_id":1,
+        "state_id":2344560
+    },
+    "wof:belongsto":[
+        85632229,
+        85667627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510301,
+        "iata:code":"OAI",
+        "icao:code":"OAIX",
+        "oa:id":"5070",
+        "wd:id":"Q800126"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"957eb9cf61ac3951bb2a1aef753c4c00",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536675,
+            "country_id":85632229,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":102536675,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Bagram Airport",
+    "wof:parent_id":85667627,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    69.265,
+    34.946388888889,
+    69.265,
+    34.946388888889
+],
+  "geometry": {"coordinates":[69.265,34.946388888889],"type":"Point"}
+}

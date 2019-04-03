@@ -1,0 +1,75 @@
+{
+  "id": 1242728975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.00411,32.09592,67.00411,32.09592",
+    "geom:latitude":32.09592,
+    "geom:longitude":67.00411,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Mandeh",
+    "gn:country_code":"AF",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134002,
+    "gn:latitude":32.09592,
+    "gn:longitude":67.00411,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101nd\u00eah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandekh",
+        "M\u0101n\u1e0f\u0113h",
+        "M\u0101nd\u00eah",
+        "\u0645\u0627\u0646\u062f\u0647",
+        "M\u0101ndah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134002
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0ec58885e579462503b4a7561293f82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1242728975,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242728975,
+    "wof:lastmodified":1537581138,
+    "wof:name":"Mandeh",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.00411,
+    32.09592,
+    67.00411,
+    32.09592
+],
+  "geometry": {"coordinates":[67.00411,32.09592],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243324547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.50096,32.67374,68.50096,32.67374",
+    "geom:latitude":32.67374,
+    "geom:longitude":68.50096,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Barlak",
+    "gn:country_code":"AF",
+    "gn:dem":2133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146887,
+    "gn:latitude":32.67374,
+    "gn:longitude":68.50096,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birlak",
+        "Burlak",
+        "\u0628\u0631\u0644\u06a9",
+        "Barlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146887
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d141ba1897e512d5ffdb45f4883233e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1243324547,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243324547,
+    "wof:lastmodified":1537582221,
+    "wof:name":"Barlak",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.50095999999999,
+    32.67374,
+    68.50095999999999,
+    32.67374
+],
+  "geometry": {"coordinates":[68.50095999999999,32.67374],"type":"Point"}
+}

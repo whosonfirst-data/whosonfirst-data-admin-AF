@@ -1,0 +1,79 @@
+{
+  "id": 1292948309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02794,31.9213,67.02794,31.9213",
+    "geom:latitude":31.9213,
+    "geom:longitude":67.02794,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Shabil-e Khord",
+    "gn:country_code":"AF",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126169,
+    "gn:latitude":31.9213,
+    "gn:longitude":67.02794,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101b\u012bl-e Kh\u014drd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0628\u064a\u0644\u0654 \u062e\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101b\u012ble Khurd",
+        "Sh\u0101b\u012bl-e Khvord",
+        "Shabili-Khurd",
+        "Sh\u0101b\u012bl-e Kh\u014drd",
+        "\u0634\u0627\u0628\u06cc\u0644 \u062e\u0648\u0631\u062f",
+        "Sh\u0101b\u012bl-e Khord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126169
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"999c812e38560227d85a5ae227f5ec52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1292948309,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1292948309,
+    "wof:lastmodified":1537580448,
+    "wof:name":"Shabil-e Khord",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02794,
+    31.9213,
+    67.02794,
+    31.9213
+],
+  "geometry": {"coordinates":[67.02794,31.9213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326684169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21359,34.09173,68.21359,34.09173",
+    "geom:latitude":34.09173,
+    "geom:longitude":68.21359,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Uzbaki",
+    "gn:country_code":"AF",
+    "gn:dem":2582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131368,
+    "gn:latitude":34.09173,
+    "gn:longitude":68.21359,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Uzbak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzbak\u012b",
+        "Ozbak\u012b",
+        "\u0627\u0632\u0628\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131368
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea1e501c1f3dd8172bd9441f3c4a64b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1326684169,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1326684169,
+    "wof:lastmodified":1537580913,
+    "wof:name":"Uzbaki",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21359,
+    34.09173,
+    68.21359,
+    34.09173
+],
+  "geometry": {"coordinates":[68.21359,34.09173],"type":"Point"}
+}

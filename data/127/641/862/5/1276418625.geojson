@@ -1,0 +1,81 @@
+{
+  "id": 1276418625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.12758,34.29212,62.12758,34.29212",
+    "geom:latitude":34.29212,
+    "geom:longitude":62.12758,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001",
+    "gn:asciiname":"Kowarzan",
+    "gn:country_code":"AF",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137624,
+    "gn:latitude":34.29212,
+    "gn:longitude":62.12758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowarz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qabarz\u0101n",
+        "Kavarzan",
+        "Kawa\u1e5fz\u0101n",
+        "Kavarz\u0101n",
+        "Kowarz\u0101n",
+        "\u06a9\u0648\u0631\u0632\u0627\u0646",
+        "\u0643\u0648\u0631\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137624,
+        "wk:page":"Kowarzan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a86a29de736de3447b6be8c6f0903e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1276418625,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276418625,
+    "wof:lastmodified":1537581430,
+    "wof:name":"Kowarzan",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.12758,
+    34.29212,
+    62.12758,
+    34.29212
+],
+  "geometry": {"coordinates":[62.12758,34.29212],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243031171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38245,34.28468,70.38245,34.28468",
+    "geom:latitude":34.28468,
+    "geom:longitude":70.38245,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"806.0",
+    "gn:asciiname":"Zargaran",
+    "gn:country_code":"AF",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472967,
+    "gn:latitude":34.28468,
+    "gn:longitude":70.38245,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zargar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zargar\u0101n",
+        "\u0632\u0631\u06af\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472967
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"008d4ccac2515c66056f686bc0f34877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561907,
+            "locality_id":1243031171,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243031171,
+    "wof:lastmodified":1537583727,
+    "wof:name":"Zargaran",
+    "wof:parent_id":1108561907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38245,
+    34.28468,
+    70.38245,
+    34.28468
+],
+  "geometry": {"coordinates":[70.38245000000001,34.28468],"type":"Point"}
+}

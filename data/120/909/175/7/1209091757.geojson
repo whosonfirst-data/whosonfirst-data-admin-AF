@@ -1,0 +1,71 @@
+{
+  "id": 1209091757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3351,33.6189,68.3351,33.6189",
+    "geom:latitude":33.6189,
+    "geom:longitude":68.3351,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"619",
+    "gn:asciiname":"Shaykhabad",
+    "gn:country_code":"AF",
+    "gn:dem":2413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125279,
+    "gn:latitude":33.6189,
+    "gn:longitude":68.3351,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u062e \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0160aykh\u0101b\u0101d",
+        "Sheykhabad",
+        "Shaykh\u0101b\u0101d",
+        "Sheykh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125279
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be8e5ead69fb5a4f1b6e958723e78c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209091757
+        }
+    ],
+    "wof:id":1209091757,
+    "wof:lastmodified":1537580374,
+    "wof:name":"Shaykhabad",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3351,
+    33.6189,
+    68.3351,
+    33.6189
+],
+  "geometry": {"coordinates":[68.3351,33.6189],"type":"Point"}
+}

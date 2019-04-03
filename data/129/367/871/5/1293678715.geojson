@@ -1,0 +1,75 @@
+{
+  "id": 1293678715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0454,33.58942,64.0454,33.58942",
+    "geom:latitude":33.58942,
+    "geom:longitude":64.0454,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Sar-e Bayshah",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127244,
+    "gn:latitude":33.58942,
+    "gn:longitude":64.0454,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Bayshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sare B\u0113\u0161a",
+        "Sari-Besha",
+        "Sar-e Bayshah",
+        "\u0633\u0631 \u0628\u06cc\u0634\u0647",
+        "Sar-e B\u012bsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127244
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb86dd40af28c7c11e2bb0a42e3bfb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1293678715,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293678715,
+    "wof:lastmodified":1537580543,
+    "wof:name":"Sar-e Bayshah",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0454,
+    33.58942,
+    64.0454,
+    33.58942
+],
+  "geometry": {"coordinates":[64.0454,33.58942],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343791747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43942,33.79606,66.43942,33.79606",
+    "geom:latitude":33.79606,
+    "geom:longitude":66.43942,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Dahan Deh",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449256,
+    "gn:latitude":33.79606,
+    "gn:longitude":66.43942,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dah\u0101n Deh",
+        "\u062f\u0647\u0627\u0646 \u062f\u0647",
+        "Dahandeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449256
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a10f196d30fbd0bf93c377faff0afbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1343791747,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1343791747,
+    "wof:lastmodified":1537583013,
+    "wof:name":"Dahan Deh",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43942,
+    33.79606,
+    66.43942,
+    33.79606
+],
+  "geometry": {"coordinates":[66.43942,33.79606],"type":"Point"}
+}

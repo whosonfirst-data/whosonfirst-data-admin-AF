@@ -1,0 +1,75 @@
+{
+  "id": 1343817623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.21316,35.53157,67.21316,35.53157",
+    "geom:latitude":35.53157,
+    "geom:longitude":67.21316,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Maschaytak",
+    "gn:country_code":"AF",
+    "gn:dem":2375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133760,
+    "gn:latitude":35.53157,
+    "gn:longitude":67.21316,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maschaytak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Michtak",
+        "Masc\u0113tak",
+        "Masch\u0113tak",
+        "Maschaytak",
+        "\u0645\u0633\u0686\u06cc\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133760
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae36cd71365dc6e1d98e43408646f536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1343817623,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1343817623,
+    "wof:lastmodified":1537581120,
+    "wof:name":"Maschaytak",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.21316,
+    35.53157,
+    67.21316,
+    35.53157
+],
+  "geometry": {"coordinates":[67.21316,35.53157],"type":"Point"}
+}

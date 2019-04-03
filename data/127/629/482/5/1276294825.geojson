@@ -1,0 +1,68 @@
+{
+  "id": 1276294825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28114,34.13604,70.28114,34.13604",
+    "geom:latitude":34.13604,
+    "geom:longitude":70.28114,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Badan Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108980,
+    "gn:latitude":34.13604,
+    "gn:longitude":70.28114,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Badan Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b863204f7a5ee0f2d2aa7c1ce222f4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562343,
+            "locality_id":1276294825,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276294825,
+    "wof:lastmodified":1536829390,
+    "wof:name":"Badan Khel",
+    "wof:parent_id":1108562343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28114000000001,
+    34.13604,
+    70.28114000000001,
+    34.13604
+],
+  "geometry": {"coordinates":[70.28114000000001,34.13604],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209607575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.83982,32.07354,62.83982,32.07354",
+    "geom:latitude":32.07354,
+    "geom:longitude":62.83982,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2102",
+    "gn:asciiname":"Khalid",
+    "gn:country_code":"AF",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137291,
+    "gn:latitude":32.07354,
+    "gn:longitude":62.83982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101lid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101lid",
+        "\u062e\u0627\u0644\u062f",
+        "Kh\u0101led"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137291
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f557dd4fc3d5d7ac4821cbda83c9245",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209607575
+        }
+    ],
+    "wof:id":1209607575,
+    "wof:lastmodified":1537581408,
+    "wof:name":"Khalid",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.83982,
+    32.07354,
+    62.83982,
+    32.07354
+],
+  "geometry": {"coordinates":[62.83982,32.07354],"type":"Point"}
+}

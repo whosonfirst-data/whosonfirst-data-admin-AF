@@ -1,0 +1,78 @@
+{
+  "id": 1343730353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94128,36.75143,68.94128,36.75143",
+    "geom:latitude":36.75143,
+    "geom:longitude":68.94128,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Quchi",
+    "gn:country_code":"AF",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468042,
+    "gn:latitude":36.75143,
+    "gn:longitude":68.94128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u016bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0447\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Qu\u010d\u010di",
+        "Kuchchi",
+        "Quchch\u012b",
+        "Q\u016bch\u012b",
+        "\u0642\u0648\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468042
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dad13f12d2da48af69a2c7be008953a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1343730353,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1343730353,
+    "wof:lastmodified":1537583526,
+    "wof:name":"Quchi",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94128,
+    36.75143,
+    68.94128,
+    36.75143
+],
+  "geometry": {"coordinates":[68.94128000000001,36.75143],"type":"Point"}
+}

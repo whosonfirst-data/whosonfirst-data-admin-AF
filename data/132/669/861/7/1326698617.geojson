@@ -1,0 +1,80 @@
+{
+  "id": 1326698617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.4,31.51667,65.4,31.51667",
+    "geom:latitude":31.51667,
+    "geom:longitude":65.4,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416",
+    "gn:asciiname":"Siajui",
+    "gn:country_code":"AF",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124670,
+    "gn:latitude":31.51667,
+    "gn:longitude":65.4,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siajui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0627\u0647 \u0686\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Syahc\u014dy",
+        "Siajui",
+        "Si\u0101hchob",
+        "S\u012b\u0101h Ch\u016by",
+        "S\u012b\u0101h Ch\u016bb",
+        "\u0633\u064a\u0627\u0647 \u0686\u0648\u0628",
+        "Siy\u0101h Ch\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124670
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95832af62950fd63506267b3b127b676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1326698617,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326698617,
+    "wof:lastmodified":1537580319,
+    "wof:name":"Siajui",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.4,
+    31.51667,
+    65.4,
+    31.51667
+],
+  "geometry": {"coordinates":[65.40000000000001,31.51667],"type":"Point"}
+}

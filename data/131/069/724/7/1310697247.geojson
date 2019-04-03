@@ -1,0 +1,74 @@
+{
+  "id": 1310697247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25593,33.04863,67.25593,33.04863",
+    "geom:latitude":33.04863,
+    "geom:longitude":67.25593,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Shaykh Choghan",
+    "gn:country_code":"AF",
+    "gn:dem":2725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450702,
+    "gn:latitude":33.04863,
+    "gn:longitude":67.25593,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh Ch\u014dgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113hkc\u014dgh\u0101n",
+        "Sheykh Chowgh\u0101n",
+        "Shaykh Ch\u014dgh\u0101n",
+        "\u0634\u06cc\u062e \u0686\u0648\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450702
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83249a96a1c6966ff04aeb19b9476b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1310697247,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310697247,
+    "wof:lastmodified":1537583060,
+    "wof:name":"Shaykh Choghan",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25593,
+    33.04863,
+    67.25593,
+    33.04863
+],
+  "geometry": {"coordinates":[67.25593000000001,33.04863],"type":"Point"}
+}

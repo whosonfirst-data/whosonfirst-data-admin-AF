@@ -1,0 +1,72 @@
+{
+  "id": 1276300615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.42432,31.74816,66.42432,31.74816",
+    "geom:latitude":31.74816,
+    "geom:longitude":66.42432,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Mayu",
+    "gn:country_code":"AF",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133650,
+    "gn:latitude":31.74816,
+    "gn:longitude":66.42432,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"May\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u06cc\u0648",
+        "May\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133650
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b002725fa6ea69012d0fbad3058cfa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1276300615,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276300615,
+    "wof:lastmodified":1537581111,
+    "wof:name":"Mayu",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.42432,
+    31.74816,
+    66.42432,
+    31.74816
+],
+  "geometry": {"coordinates":[66.42431999999999,31.74816],"type":"Point"}
+}

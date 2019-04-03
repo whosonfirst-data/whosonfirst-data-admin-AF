@@ -1,0 +1,74 @@
+{
+  "id": 1293091791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.94065,32.96872,67.94065,32.96872",
+    "geom:latitude":32.96872,
+    "geom:longitude":67.94065,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Momand Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435609,
+    "gn:latitude":32.96872,
+    "gn:longitude":67.94065,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u014dmand Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u014dman\u1e0f Kal\u0101",
+        "M\u014dmand Kal\u0101",
+        "\u0645\u0648\u0645\u0646\u062f \u06a9\u0644\u0627",
+        "Mowmand Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435609
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f649d06cfc42ea30a63c6fd5090fff87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1293091791,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293091791,
+    "wof:lastmodified":1537582773,
+    "wof:name":"Momand Kala",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.94065,
+    32.96872,
+    67.94065,
+    32.96872
+],
+  "geometry": {"coordinates":[67.94065000000001,32.96872],"type":"Point"}
+}

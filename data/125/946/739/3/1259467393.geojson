@@ -1,0 +1,73 @@
+{
+  "id": 1259467393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.67382,34.0566,63.67382,34.0566",
+    "geom:latitude":34.0566,
+    "geom:longitude":63.67382,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Takhrid",
+    "gn:country_code":"AF",
+    "gn:dem":2356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474990,
+    "gn:latitude":34.0566,
+    "gn:longitude":63.67382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takhr\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takhr\u012bd",
+        "\u062a\u062e\u0631\u06cc\u062f",
+        "Takh\u1e5f\u012b\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474990
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"29fe71b664b57f49719e6f77c4d25547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1259467393,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259467393,
+    "wof:lastmodified":1537583832,
+    "wof:name":"Takhrid",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.67381999999999,
+    34.0566,
+    63.67381999999999,
+    34.0566
+],
+  "geometry": {"coordinates":[63.67381999999999,34.0566],"type":"Point"}
+}

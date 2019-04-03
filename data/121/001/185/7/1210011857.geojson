@@ -1,0 +1,75 @@
+{
+  "id": 1210011857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06105,33.12473,68.06105,33.12473",
+    "geom:latitude":33.12473,
+    "geom:longitude":68.06105,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Surki",
+    "gn:country_code":"AF",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123538,
+    "gn:latitude":33.12473,
+    "gn:longitude":68.06105,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016brk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016brka\u012b Kh\u0113l",
+        "Su\u1e5fki",
+        "\u0633\u0631\u0643\u06cc",
+        "S\u016brk\u012b",
+        "\u0633\u0648\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123538
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"45848da2cb2592395b16be1864ebd90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1210011857,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1210011857,
+    "wof:lastmodified":1537580231,
+    "wof:name":"Surki",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06105,
+    33.12473,
+    68.06105,
+    33.12473
+],
+  "geometry": {"coordinates":[68.06104999999999,33.12473],"type":"Point"}
+}

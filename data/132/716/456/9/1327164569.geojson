@@ -1,0 +1,74 @@
+{
+  "id": 1327164569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78,32.61,65.78,32.61",
+    "geom:latitude":32.61,
+    "geom:longitude":65.78,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Abburda",
+    "gn:country_code":"AF",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149663,
+    "gn:latitude":32.61,
+    "gn:longitude":65.78,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Abburda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100b B\u016brdeh",
+        "\u0100b Bu\u1e5f\u1e0fah",
+        "\u0100bbu\u1e5f\u1e0fa",
+        "\u0100b Bordeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149663
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c4e0b55a20208ec0086b05a57632cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1327164569,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1327164569,
+    "wof:lastmodified":1537582437,
+    "wof:name":"Abburda",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78,
+    32.61,
+    65.78,
+    32.61
+],
+  "geometry": {"coordinates":[65.78,32.61],"type":"Point"}
+}

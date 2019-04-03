@@ -1,0 +1,74 @@
+{
+  "id": 1343623989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.93471,30.28385,61.93471,30.28385",
+    "geom:latitude":30.28385,
+    "geom:longitude":61.93471,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Bandar-e Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147214,
+    "gn:latitude":30.28385,
+    "gn:longitude":61.93471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bandar-e Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u1e0fa\u1e5fe Jan\u016bb\u012b",
+        "Bandar-e Jun\u016bb\u012b",
+        "\u0628\u0646\u062f\u0631 \u062c\u0646\u0648\u0628\u06cc",
+        "Bandar-e Jon\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147214
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4ea81ee4fe6f2b25748ec39c693a7830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1343623989,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1343623989,
+    "wof:lastmodified":1537582248,
+    "wof:name":"Bandar-e Junubi",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.93471,
+    30.28385,
+    61.93471,
+    30.28385
+],
+  "geometry": {"coordinates":[61.93471,30.28385],"type":"Point"}
+}

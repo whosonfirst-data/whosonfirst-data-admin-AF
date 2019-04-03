@@ -1,0 +1,74 @@
+{
+  "id": 1259924695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02881,34.73163,70.02881,34.73163",
+    "geom:latitude":34.73163,
+    "geom:longitude":70.02881,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905",
+    "gn:asciiname":"Shamakat",
+    "gn:country_code":"AF",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125704,
+    "gn:latitude":34.73163,
+    "gn:longitude":70.02881,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shamaka\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160amakat",
+        "Shamaka\u1e6f",
+        "\u0634\u0645\u06a9\u067c",
+        "Shamakat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125704
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99c24c3628f091b3929b32652cb71509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1259924695,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259924695,
+    "wof:lastmodified":1537580410,
+    "wof:name":"Shamakat",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02881,
+    34.73163,
+    70.02881,
+    34.73163
+],
+  "geometry": {"coordinates":[70.02880999999999,34.73163],"type":"Point"}
+}

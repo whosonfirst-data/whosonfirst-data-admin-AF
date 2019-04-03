@@ -1,0 +1,77 @@
+{
+  "id": 1243362725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98576,34.10297,66.98576,34.10297",
+    "geom:latitude":34.10297,
+    "geom:longitude":66.98576,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Qarghori",
+    "gn:country_code":"AF",
+    "gn:dem":2843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129537,
+    "gn:latitude":34.10297,
+    "gn:longitude":66.98576,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qargh\u014dr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kargori",
+        "Qarah Ghajur-e Takht",
+        "Qa\u1e5fgh\u014d\u1e5fi",
+        "Qarah Gh\u014dr\u012b",
+        "Qarghowr\u012b",
+        "Qargh\u014dr\u012b",
+        "\u0642\u0631\u063a\u0648\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129537
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f7d5de857ae516a14db52dcade692578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1243362725,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243362725,
+    "wof:lastmodified":1537580740,
+    "wof:name":"Qarghori",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98576,
+    34.10297,
+    66.98576,
+    34.10297
+],
+  "geometry": {"coordinates":[66.98576,34.10297],"type":"Point"}
+}

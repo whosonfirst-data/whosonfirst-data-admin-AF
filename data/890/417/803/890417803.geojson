@@ -1,0 +1,69 @@
+{
+  "id": 890417803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64573,34.17355,69.64573,34.17355",
+    "geom:latitude":34.17355,
+    "geom:longitude":69.64573,
+    "gn:country":"AF",
+    "gn:fcode":"PPLA2",
+    "gn:pop":12526,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Khukumati-Azrau"
+    ],
+    "qs:name":"\u1e28uk\u016bmat\u012b Azrah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147851,
+        "gp:id":1916513,
+        "qs:id":1029806
+    },
+    "wof:country":"AF",
+    "wof:created":1469051221,
+    "wof:geomhash":"b1a01f88201db70c690f7de1f8770fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561829,
+            "locality_id":890417803,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":890417803,
+    "wof:lastmodified":1505343441,
+    "wof:name":"\u1e28uk\u016bmat\u012b Azrah",
+    "wof:parent_id":1108561829,
+    "wof:placetype":"locality",
+    "wof:population":12526,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64573,
+    34.17355,
+    69.64573,
+    34.17355
+],
+  "geometry": {"coordinates":[69.64573,34.17355],"type":"Point"}
+}

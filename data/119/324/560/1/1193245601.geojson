@@ -1,0 +1,79 @@
+{
+  "id": 1193245601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59373,36.61595,69.59373,36.61595",
+    "geom:latitude":36.61595,
+    "geom:longitude":69.59373,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1217",
+    "gn:asciiname":"Shulish Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124880,
+    "gn:latitude":36.61595,
+    "gn:longitude":69.59373,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u016blish Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043b\u0438\u0448\u0434\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016blesh Darreh",
+        "Shulishdara",
+        "\u0160\u016ble\u0161 Darrah",
+        "Sh\u016blesh Darrah",
+        "Sh\u016blish Darah",
+        "\u0634\u0648\u0644\u0634 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"15a45dfd891c23d977d120379f4add2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562303,
+            "locality_id":1193245601,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1193245601,
+    "wof:lastmodified":1537580335,
+    "wof:name":"Shulish Darah",
+    "wof:parent_id":1108562303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59373000000001,
+    36.61595,
+    69.59373000000001,
+    36.61595
+],
+  "geometry": {"coordinates":[69.59373000000001,36.61595],"type":"Point"}
+}

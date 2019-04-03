@@ -1,0 +1,68 @@
+{
+  "id": 1209053915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62456,32.19192,67.62456,32.19192",
+    "geom:latitude":32.19192,
+    "geom:longitude":67.62456,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511",
+    "gn:asciiname":"Mashizai",
+    "gn:country_code":"AF",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133726,
+    "gn:latitude":32.19192,
+    "gn:longitude":67.62456,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mashiza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masiz\u012b",
+        "Mashiza\u012b",
+        "\u0645\u0634\u0632\u06cc",
+        "Mashiz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133726
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c66352fa0c3cfd581d561c2d9ae167f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209053915
+        }
+    ],
+    "wof:id":1209053915,
+    "wof:lastmodified":1537581117,
+    "wof:name":"Mashizai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62456,
+    32.19192,
+    67.62456,
+    32.19192
+],
+  "geometry": {"coordinates":[67.62456,32.19192],"type":"Point"}
+}

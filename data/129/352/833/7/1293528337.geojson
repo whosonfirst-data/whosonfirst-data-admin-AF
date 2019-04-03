@@ -1,0 +1,72 @@
+{
+  "id": 1293528337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01559,33.51004,70.01559,33.51004",
+    "geom:latitude":33.51004,
+    "geom:longitude":70.01559,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3210",
+    "gn:asciiname":"Nar",
+    "gn:country_code":"AF",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132349,
+    "gn:latitude":33.51004,
+    "gn:longitude":70.01559,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101r",
+        "\u0646\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108561841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132349
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5880826f064b0a661754338b84ca690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561841,
+            "locality_id":1293528337,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1293528337,
+    "wof:lastmodified":1537581002,
+    "wof:name":"Nar",
+    "wof:parent_id":1108561841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01559,
+    33.51004,
+    70.01559,
+    33.51004
+],
+  "geometry": {"coordinates":[70.01559,33.51004],"type":"Point"}
+}

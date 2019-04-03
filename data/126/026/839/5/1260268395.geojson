@@ -1,0 +1,76 @@
+{
+  "id": 1260268395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56947,33.32122,68.56947,33.32122",
+    "geom:latitude":33.32122,
+    "geom:longitude":68.56947,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Shawal",
+    "gn:country_code":"AF",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125495,
+    "gn:latitude":33.32122,
+    "gn:longitude":68.56947,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101w\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shaval\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101w\u0101l",
+        "Sh\u0101w\u0101l",
+        "\u0634\u0627\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125495
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aaf88e633487e9ff78c261a746e733ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1260268395,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260268395,
+    "wof:lastmodified":1537580394,
+    "wof:name":"Shawal",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56947,
+    33.32122,
+    68.56947,
+    33.32122
+],
+  "geometry": {"coordinates":[68.56947,33.32122],"type":"Point"}
+}

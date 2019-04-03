@@ -1,0 +1,73 @@
+{
+  "id": 1242724517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03645,36.32917,67.03645,36.32917",
+    "geom:latitude":36.32917,
+    "geom:longitude":67.03645,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Sahi Kan",
+    "gn:country_code":"AF",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127950,
+    "gn:latitude":36.32917,
+    "gn:longitude":67.03645,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0101h\u012b K\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sahi K\u0101n",
+        "S\u0101h\u012b K\u0101n",
+        "\u0633\u0627\u0647\u06cc \u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127950
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f76c5ebf36808244d20ceafdb4d8316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1242724517,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1242724517,
+    "wof:lastmodified":1537580591,
+    "wof:name":"Sahi Kan",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03645,
+    36.32917,
+    67.03645,
+    36.32917
+],
+  "geometry": {"coordinates":[67.03645,36.32917],"type":"Point"}
+}

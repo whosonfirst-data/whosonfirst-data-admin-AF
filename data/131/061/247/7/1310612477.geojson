@@ -1,0 +1,75 @@
+{
+  "id": 1310612477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28552,35.18835,68.28552,35.18835",
+    "geom:latitude":35.18835,
+    "geom:longitude":68.28552,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Dewalak",
+    "gn:country_code":"AF",
+    "gn:dem":2805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1428753,
+    "gn:latitude":35.18835,
+    "gn:longitude":68.28552,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113w\u0101lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e0e\u0113w\u0101lak",
+        "D\u012bv\u0101lak",
+        "Dayw\u0101lak",
+        "\u062f\u06cc\u0648\u0627\u0644\u06a9",
+        "D\u0113w\u0101lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428753
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23992d40564c67041201466b2c259969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1310612477,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310612477,
+    "wof:lastmodified":1537582664,
+    "wof:name":"Dewalak",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28551999999999,
+    35.18835,
+    68.28551999999999,
+    35.18835
+],
+  "geometry": {"coordinates":[68.28551999999999,35.18835],"type":"Point"}
+}

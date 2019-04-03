@@ -1,0 +1,78 @@
+{
+  "id": 1259524229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27181,34.49404,70.27181,34.49404",
+    "geom:latitude":34.49404,
+    "geom:longitude":70.27181,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Sar Band Belah",
+    "gn:country_code":"AF",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473107,
+    "gn:latitude":34.49404,
+    "gn:longitude":70.27181,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Band B\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0628\u0646\u062f \u0628\u06cc\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sa\u1e5fban\u1e0f B\u0113la",
+        "Sarbandbela",
+        "Sarband B\u0113lah",
+        "Sar Band B\u0113lah",
+        "\u0633\u0631 \u0628\u0646\u062f \u0628\u06d0\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473107
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"caaf984ade37faafb2db65e708fb677d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1259524229,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259524229,
+    "wof:lastmodified":1537583737,
+    "wof:name":"Sar Band Belah",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27181,
+    34.49404000000001,
+    70.27181,
+    34.49404000000001
+],
+  "geometry": {"coordinates":[70.27181,34.49404000000001],"type":"Point"}
+}

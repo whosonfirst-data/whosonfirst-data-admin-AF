@@ -1,0 +1,68 @@
+{
+  "id": 1209466213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.87682,34.98385,68.87682,34.98385",
+    "geom:latitude":34.98385,
+    "geom:longitude":68.87682,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305",
+    "gn:asciiname":"Pa'in Deh",
+    "gn:country_code":"AF",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131296,
+    "gn:latitude":34.98385,
+    "gn:longitude":68.87682,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101\u2019\u012bn Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paindekh",
+        "P\u0101\u2019\u012bndeh",
+        "P\u0101\u2019\u012bn Deh",
+        "\u067e\u0627\u0626\u06cc\u0646 \u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131296
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"544a1df1d4cd059d4f783d7f6ab65097",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209466213
+        }
+    ],
+    "wof:id":1209466213,
+    "wof:lastmodified":1537580909,
+    "wof:name":"Pa'in Deh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.87682,
+    34.98385,
+    68.87682,
+    34.98385
+],
+  "geometry": {"coordinates":[68.87682,34.98385],"type":"Point"}
+}

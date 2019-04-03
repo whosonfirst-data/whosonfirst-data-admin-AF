@@ -1,0 +1,74 @@
+{
+  "id": 1277104587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81208,33.96884,66.81208,33.96884",
+    "geom:latitude":33.96884,
+    "geom:longitude":66.81208,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Sang-e Shaykh",
+    "gn:country_code":"AF",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437957,
+    "gn:latitude":33.96884,
+    "gn:longitude":66.81208,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sange \u0160\u0113kh",
+        "Sang-e Shaykh",
+        "Sang-e Sheykh",
+        "\u0633\u0646\u06af \u0634\u064a\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437957
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a06e5ebcd5cc67e12ca871d4f7b0ade8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1277104587,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1277104587,
+    "wof:lastmodified":1537582870,
+    "wof:name":"Sang-e Shaykh",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81208000000001,
+    33.96884,
+    66.81208000000001,
+    33.96884
+],
+  "geometry": {"coordinates":[66.81208000000001,33.96884],"type":"Point"}
+}

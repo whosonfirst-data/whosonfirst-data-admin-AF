@@ -1,0 +1,74 @@
+{
+  "id": 1276815743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42579,34.05128,68.42579,34.05128",
+    "geom:latitude":34.05128,
+    "geom:longitude":68.42579,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Koday",
+    "gn:country_code":"AF",
+    "gn:dem":2453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458885,
+    "gn:latitude":34.05128,
+    "gn:longitude":68.42579,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e0fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dday",
+        "K\u016bday",
+        "K\u014d\u1e0fay",
+        "\u06a9\u0648\u0689\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458885
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d7a5bce14932847bd24fd5481bb69d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1276815743,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1276815743,
+    "wof:lastmodified":1537583279,
+    "wof:name":"Koday",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42579,
+    34.05128,
+    68.42579,
+    34.05128
+],
+  "geometry": {"coordinates":[68.42579000000001,34.05128],"type":"Point"}
+}

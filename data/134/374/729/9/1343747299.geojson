@@ -1,0 +1,73 @@
+{
+  "id": 1343747299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37982,33.44526,67.37982,33.44526",
+    "geom:latitude":33.44526,
+    "geom:longitude":67.37982,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Naskili",
+    "gn:country_code":"AF",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450306,
+    "gn:latitude":33.44526,
+    "gn:longitude":67.37982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naskil\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naskil\u012b",
+        "\u0646\u0633\u06a9\u0644\u06cc",
+        "Naskili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450306
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2d2ba9b27a9175353629b412f493934c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1343747299,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343747299,
+    "wof:lastmodified":1537583040,
+    "wof:name":"Naskili",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37982,
+    33.44526,
+    67.37982,
+    33.44526
+],
+  "geometry": {"coordinates":[67.37982,33.44526],"type":"Point"}
+}

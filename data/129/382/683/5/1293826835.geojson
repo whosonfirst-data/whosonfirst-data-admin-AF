@@ -1,0 +1,76 @@
+{
+  "id": 1293826835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21473,35.76694,71.21473,35.76694",
+    "geom:latitude":35.76694,
+    "geom:longitude":71.21473,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Loluk",
+    "gn:country_code":"AF",
+    "gn:dem":3023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469869,
+    "gn:latitude":35.76694,
+    "gn:longitude":71.21473,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dluk",
+        "Loluk",
+        "L\u014dl\u014dk",
+        "Lowluk",
+        "Lowlowk",
+        "\u0644\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469869
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f42dbe743f23e2952212de5040ed4e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1293826835,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1293826835,
+    "wof:lastmodified":1537583632,
+    "wof:name":"Loluk",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21473,
+    35.76694000000001,
+    71.21473,
+    35.76694000000001
+],
+  "geometry": {"coordinates":[71.21473,35.76694000000001],"type":"Point"}
+}

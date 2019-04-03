@@ -1,0 +1,73 @@
+{
+  "id": 1243053355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57339,33.41901,68.57339,33.41901",
+    "geom:latitude":33.41901,
+    "geom:longitude":68.57339,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"'Ali Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148948,
+    "gn:latitude":33.41901,
+    "gn:longitude":68.57339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alikala",
+        "\u2018Al\u012b Kal\u0101",
+        "\u0639\u0644\u06cc \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148948
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0ba2a0d5f78a11861b05940ce0618c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1243053355,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243053355,
+    "wof:lastmodified":1537582379,
+    "wof:name":"'Ali Kala",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57339,
+    33.41901,
+    68.57339,
+    33.41901
+],
+  "geometry": {"coordinates":[68.57339,33.41901],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209905813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35826,34.44778,66.35826,34.44778",
+    "geom:latitude":34.44778,
+    "geom:longitude":66.35826,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Menadeh",
+    "gn:country_code":"AF",
+    "gn:dem":3075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133549,
+    "gn:latitude":34.44778,
+    "gn:longitude":66.35826,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0113nadeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0113n\u1e0feh",
+        "M\u0113na\u1e0feh",
+        "Menadekh",
+        "M\u012b\u0101nah Deh",
+        "M\u0113nahdeh",
+        "M\u0113nadeh",
+        "\u0645\u06cc\u0646\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133549
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f8b8d81f51cdadec16d3c575a51f587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1209905813,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209905813,
+    "wof:lastmodified":1537581105,
+    "wof:name":"Menadeh",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35826,
+    34.44778,
+    66.35826,
+    34.44778
+],
+  "geometry": {"coordinates":[66.35826,34.44778],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225898461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62202,35.8746,66.62202,35.8746",
+    "geom:latitude":35.8746,
+    "geom:longitude":66.62202,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3107",
+    "gn:asciiname":"Qishlaq-e Sayyid 'Ali",
+    "gn:country_code":"AF",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129099,
+    "gn:latitude":35.8746,
+    "gn:longitude":66.62202,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qishl\u0101q-e Sayyid \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Qes\u0304l\u0101qe Say\u1e0f\u2019ali",
+        "Qeshl\u0101q-e Seyyed \u2018Al\u012b",
+        "Qishl\u0101q-e Sayyid \u2018Al\u012b",
+        "\u0642\u0634\u0644\u0627\u0642 \u0633\u06cc\u062f \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129099
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf6e5e9fffa1f0f7657295664c30604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562043,
+            "locality_id":1225898461,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225898461,
+    "wof:lastmodified":1537580683,
+    "wof:name":"Qishlaq-e Sayyid 'Ali",
+    "wof:parent_id":1108562043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62201999999999,
+    35.8746,
+    66.62201999999999,
+    35.8746
+],
+  "geometry": {"coordinates":[66.62201999999999,35.8746],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209770421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50488,36.76389,69.50488,36.76389",
+    "geom:latitude":36.76389,
+    "geom:longitude":69.50488,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Saray Sang",
+    "gn:country_code":"AF",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467481,
+    "gn:latitude":36.76389,
+    "gn:longitude":69.50488,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar\u0101y Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0439\u0441\u0430\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Saraysang",
+        "Sar\u0101y Sang",
+        "\u0633\u0631\u0627\u06cc \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467481
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"36beafa8b513c8a9428ced11780634cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1209770421,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1209770421,
+    "wof:lastmodified":1537583480,
+    "wof:name":"Saray Sang",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50488,
+    36.76389,
+    69.50488,
+    36.76389
+],
+  "geometry": {"coordinates":[69.50488,36.76389],"type":"Point"}
+}

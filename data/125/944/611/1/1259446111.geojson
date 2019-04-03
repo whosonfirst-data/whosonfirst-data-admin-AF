@@ -1,0 +1,77 @@
+{
+  "id": 1259446111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90464,34.27861,69.90464,34.27861",
+    "geom:latitude":34.27861,
+    "geom:longitude":69.90464,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"803.0",
+    "gn:asciiname":"Bar Ashpan",
+    "gn:country_code":"AF",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471980,
+    "gn:latitude":34.27861,
+    "gn:longitude":69.90464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Ashp\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u067e\u0627\u0646\u0654\u0654 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bar A\u0161p\u0101n",
+        "Bar-Ashpan",
+        "Bar Ashp\u0101n",
+        "\u0628\u0631 \u0627\u0634\u067e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ba46330ea82cd49a4b7fdf0d95ede31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562065,
+            "locality_id":1259446111,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259446111,
+    "wof:lastmodified":1537583663,
+    "wof:name":"Bar Ashpan",
+    "wof:parent_id":1108562065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90464,
+    34.27861,
+    69.90464,
+    34.27861
+],
+  "geometry": {"coordinates":[69.90464,34.27861],"type":"Point"}
+}

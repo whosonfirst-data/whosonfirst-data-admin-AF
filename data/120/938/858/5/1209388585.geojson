@@ -1,0 +1,68 @@
+{
+  "id": 1209388585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61833,35.12821,69.61833,35.12821",
+    "geom:latitude":35.12821,
+    "geom:longitude":69.61833,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204",
+    "gn:asciiname":"Lambar",
+    "gn:country_code":"AF",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134876,
+    "gn:latitude":35.12821,
+    "gn:longitude":69.61833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lambar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0645\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb207ae07fa976ec2a4bb01bd119c1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209388585
+        }
+    ],
+    "wof:id":1209388585,
+    "wof:lastmodified":1537581208,
+    "wof:name":"Lambar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61833,
+    35.12821,
+    69.61833,
+    35.12821
+],
+  "geometry": {"coordinates":[69.61833,35.12821],"type":"Point"}
+}

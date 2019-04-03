@@ -1,0 +1,74 @@
+{
+  "id": 1209147935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69,33.3,69.69,33.3",
+    "geom:latitude":33.3,
+    "geom:longitude":69.69,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3208",
+    "gn:asciiname":"Almarah",
+    "gn:country_code":"AF",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132539,
+    "gn:latitude":33.3,
+    "gn:longitude":69.69,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Almarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Almarah"
+    ],
+    "name:und_x_variant":[
+        "Alma\u1e5fa",
+        "M\u012br N\u0101der Sh\u0101h Kowt",
+        "Almareh",
+        "N\u0101der\u0161\u0101hkot",
+        "N\u0101dar Sh\u0101h Kowt",
+        "Nadirshakhkot",
+        "N\u0101der Sh\u0101h Kow\u1e6f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132539
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98b3e1533050cfeee73c112ab20815e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209147935
+        }
+    ],
+    "wof:id":1209147935,
+    "wof:lastmodified":1537581014,
+    "wof:name":"Almarah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69,
+    33.3,
+    69.69,
+    33.3
+],
+  "geometry": {"coordinates":[69.69,33.3],"type":"Point"}
+}

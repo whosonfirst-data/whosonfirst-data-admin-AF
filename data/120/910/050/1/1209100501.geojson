@@ -1,0 +1,65 @@
+{
+  "id": 1209100501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.66977,36.17888,64.66977,36.17888",
+    "geom:latitude":36.17888,
+    "geom:longitude":64.66977,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Urtipah",
+    "gn:country_code":"AF",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424303,
+    "gn:latitude":36.17888,
+    "gn:longitude":64.66977,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Urtipah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u0631\u062a\u067e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424303
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aece8460236e5f3c726e2692a4066aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209100501
+        }
+    ],
+    "wof:id":1209100501,
+    "wof:lastmodified":1537582606,
+    "wof:name":"Urtipah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.66977,
+    36.17888,
+    64.66977,
+    36.17888
+],
+  "geometry": {"coordinates":[64.66977,36.17888],"type":"Point"}
+}

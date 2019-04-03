@@ -1,0 +1,76 @@
+{
+  "id": 1327302519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02524,31.48159,67.02524,31.48159",
+    "geom:latitude":31.48159,
+    "geom:longitude":67.02524,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Tserlinah",
+    "gn:country_code":"AF",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437059,
+    "gn:latitude":31.48159,
+    "gn:longitude":67.02524,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ts\u0113rlinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u0113\u1e5flena",
+        "Tserlina",
+        "Ts\u0113rl\u00eanah",
+        "Ts\u0113\u1e5flenah",
+        "Ts\u0113rlinah",
+        "\u0685\u06d0\u0631\u0644\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437059
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d95a4ca7f7d6a4cad2b6b183612f6d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1327302519,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327302519,
+    "wof:lastmodified":1537582831,
+    "wof:name":"Tserlinah",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02524,
+    31.48159,
+    67.02524,
+    31.48159
+],
+  "geometry": {"coordinates":[67.02524,31.48159],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276390353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.11806,33.63111,70.11806,33.63111",
+    "geom:latitude":33.63111,
+    "geom:longitude":70.11806,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3202.0",
+    "gn:asciiname":"Zanre Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452314,
+    "gn:latitude":33.63111,
+    "gn:longitude":70.11806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zanre Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452314
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c9066551791a2538cfe1da0557e37d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562093,
+            "locality_id":1276390353,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1276390353,
+    "wof:lastmodified":1536702536,
+    "wof:name":"Zanre Khel",
+    "wof:parent_id":1108562093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.11806,
+    33.63111,
+    70.11806,
+    33.63111
+],
+  "geometry": {"coordinates":[70.11806,33.63111],"type":"Point"}
+}

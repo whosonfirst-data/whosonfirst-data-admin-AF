@@ -1,0 +1,80 @@
+{
+  "id": 1309750343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03786,33.51099,69.03786,33.51099",
+    "geom:latitude":33.51099,
+    "geom:longitude":69.03786,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Shamal Zai",
+    "gn:country_code":"AF",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125673,
+    "gn:latitude":33.51099,
+    "gn:longitude":69.03786,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sham\u0101l Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0644\u0632\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Shamal\u2019zi"
+    ],
+    "name:und_x_variant":[
+        "\u0160amalzi",
+        "Shamalzi",
+        "Sham\u0101l Za\u012b",
+        "\u0634\u0645\u0627\u0644 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125673
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2921fd143af1d86db46be25c3153ce33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1309750343,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1309750343,
+    "wof:lastmodified":1537580407,
+    "wof:name":"Shamal Zai",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03786,
+    33.51099,
+    69.03786,
+    33.51099
+],
+  "geometry": {"coordinates":[69.03785999999999,33.51099],"type":"Point"}
+}

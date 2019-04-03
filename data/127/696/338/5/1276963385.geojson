@@ -1,0 +1,72 @@
+{
+  "id": 1276963385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55989,34.64626,64.55989,34.64626",
+    "geom:latitude":34.64626,
+    "geom:longitude":64.55989,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bahr-e Yar",
+    "gn:country_code":"AF",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147467,
+    "gn:latitude":34.64626,
+    "gn:longitude":64.55989,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bahr-e Y\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahr-e Y\u0101r",
+        "\u0628\u0647\u0631 \u06cc\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147467
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"314e738fe9f3826d6a876cfdf57dbc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1276963385,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276963385,
+    "wof:lastmodified":1537582268,
+    "wof:name":"Bahr-e Yar",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55989,
+    34.64626,
+    64.55989,
+    34.64626
+],
+  "geometry": {"coordinates":[64.55989,34.64626],"type":"Point"}
+}

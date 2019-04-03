@@ -1,0 +1,74 @@
+{
+  "id": 1343250007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.75285,34.46352,62.75285,34.46352",
+    "geom:latitude":34.46352,
+    "geom:longitude":62.75285,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2005",
+    "gn:asciiname":"Kamar-e Zard",
+    "gn:country_code":"AF",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138411,
+    "gn:latitude":34.46352,
+    "gn:longitude":62.75285,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kamar-e Zard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kama\u1e5f-i-Za\u1e5f\u1e0f",
+        "Kamari-Zard",
+        "Kamar-e Zard",
+        "\u06a9\u0645\u0631 \u0632\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138411
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"580054c2db69860a27b5720fc1b8620b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562131,
+            "locality_id":1343250007,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343250007,
+    "wof:lastmodified":1537581500,
+    "wof:name":"Kamar-e Zard",
+    "wof:parent_id":1108562131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.75285,
+    34.46352,
+    62.75285,
+    34.46352
+],
+  "geometry": {"coordinates":[62.75285,34.46352],"type":"Point"}
+}

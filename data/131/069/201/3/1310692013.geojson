@@ -1,0 +1,81 @@
+{
+  "id": 1310692013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6894,33.19703,67.6894,33.19703",
+    "geom:latitude":33.19703,
+    "geom:longitude":67.6894,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Shahrzaydah",
+    "gn:country_code":"AF",
+    "gn:dem":2806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125851,
+    "gn:latitude":33.19703,
+    "gn:longitude":67.6894,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahrz\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0632\u0627\u0626\u064a\u062f\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0440\u0437\u0430\u0439\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0160ahrz\u0101ydah",
+        "Shahrz\u0101ydah",
+        "Shakhrzayda",
+        "Shahrz\u0101\u2019\u012bdeh",
+        "\u0634\u0647\u0631\u0632\u0627\u06cc\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125851
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1daeafafe6846784e7e0f53b1cf22bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1310692013,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310692013,
+    "wof:lastmodified":1537580421,
+    "wof:name":"Shahrzaydah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6894,
+    33.19703,
+    67.6894,
+    33.19703
+],
+  "geometry": {"coordinates":[67.68940000000001,33.19703],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209659569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49205,33.76582,69.49205,33.76582",
+    "geom:latitude":33.76582,
+    "geom:longitude":69.49205,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Khalilan",
+    "gn:country_code":"AF",
+    "gn:dem":2525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137266,
+    "gn:latitude":33.76582,
+    "gn:longitude":69.49205,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khal\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khililan",
+        "Khal\u012bl\u0101n",
+        "\u062e\u0644\u06cc\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137266
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0af49c521524a213539330c52499a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209659569
+        }
+    ],
+    "wof:id":1209659569,
+    "wof:lastmodified":1537581406,
+    "wof:name":"Khalilan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49205,
+    33.76582,
+    69.49205,
+    33.76582
+],
+  "geometry": {"coordinates":[69.49205000000001,33.76582],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327178899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.0199,34.80938,70.0199,34.80938",
+    "geom:latitude":34.80938,
+    "geom:longitude":70.0199,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Madkulam",
+    "gn:country_code":"AF",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474349,
+    "gn:latitude":34.80938,
+    "gn:longitude":70.0199,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101dk\u016blam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101dk\u016blam",
+        "\u0645\u0627\u062f\u06a9\u0648\u0644\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474349
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"672669da6fa714e8051f1b80250c1b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1327178899,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1327178899,
+    "wof:lastmodified":1537583797,
+    "wof:name":"Madkulam",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.0199,
+    34.80938,
+    70.0199,
+    34.80938
+],
+  "geometry": {"coordinates":[70.01990000000001,34.80938],"type":"Point"}
+}

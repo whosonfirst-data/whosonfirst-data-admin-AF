@@ -1,0 +1,72 @@
+{
+  "id": 1360123485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05881,33.32268,70.05881,33.32268",
+    "geom:latitude":33.32268,
+    "geom:longitude":70.05881,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Khargay",
+    "gn:country_code":"AF",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345597,
+    "gn:latitude":33.32268,
+    "gn:longitude":70.05881,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khargay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u1e5fgay",
+        "\u062e\u0631\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345597
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"608b717c0c17bbb6a5096ada76d42930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1360123485,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1360123485,
+    "wof:lastmodified":1537582443,
+    "wof:name":"Khargay",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05881,
+    33.32268,
+    70.05881,
+    33.32268
+],
+  "geometry": {"coordinates":[70.05880999999999,33.32268],"type":"Point"}
+}

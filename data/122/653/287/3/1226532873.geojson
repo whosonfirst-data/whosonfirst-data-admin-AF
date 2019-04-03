@@ -1,0 +1,81 @@
+{
+  "id": 1226532873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86797,33.30975,67.86797,33.30975",
+    "geom:latitude":33.30975,
+    "geom:longitude":67.86797,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"613.0",
+    "gn:asciiname":"Alakhshan",
+    "gn:country_code":"AF",
+    "gn:dem":2934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149098,
+    "gn:latitude":33.30975,
+    "gn:longitude":67.86797,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alakhsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u062e\u0634\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0445\u0448\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Alakh\u0161\u0101n",
+        "\u2018Alakhsh\u0101n",
+        "Alakhsh\u0101n",
+        "\u0627\u0644\u062e\u0634\u0627\u0646",
+        "\u0639\u0644\u062e\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149098
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63efb9d624f16c43d8a1fae9fd867564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1226532873,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226532873,
+    "wof:lastmodified":1537582389,
+    "wof:name":"Alakhshan",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86797,
+    33.30975,
+    67.86797,
+    33.30975
+],
+  "geometry": {"coordinates":[67.86797,33.30975],"type":"Point"}
+}

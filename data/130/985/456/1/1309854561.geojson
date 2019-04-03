@@ -1,0 +1,68 @@
+{
+  "id": 1309854561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41726,35.70802,66.41726,35.70802",
+    "geom:latitude":35.70802,
+    "geom:longitude":66.41726,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Dasht Gumab",
+    "gn:country_code":"AF",
+    "gn:dem":2822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427007,
+    "gn:latitude":35.70802,
+    "gn:longitude":66.41726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht Gum\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427007
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2dfdd6c21e73ee7792f00a7111056bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562429,
+            "locality_id":1309854561,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1309854561,
+    "wof:lastmodified":1536859618,
+    "wof:name":"Dasht Gumab",
+    "wof:parent_id":1108562429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41726,
+    35.70802,
+    66.41726,
+    35.70802
+],
+  "geometry": {"coordinates":[66.41726,35.70802],"type":"Point"}
+}

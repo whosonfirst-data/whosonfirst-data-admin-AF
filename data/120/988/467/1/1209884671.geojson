@@ -1,0 +1,76 @@
+{
+  "id": 1209884671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40917,31.39417,67.40917,31.39417",
+    "geom:latitude":31.39417,
+    "geom:longitude":67.40917,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Putey",
+    "gn:country_code":"AF",
+    "gn:dem":2106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130321,
+    "gn:latitude":31.39417,
+    "gn:longitude":67.40917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Putey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putay",
+        "Pu\u1e6f\u00eay",
+        "Putey",
+        "P\u014d\u1e6fa\u012b",
+        "\u067e\u0648\u067c\u06cc",
+        "\u067e\u067c\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130321
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2fab960ce258008d06ada7c518e03d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1209884671,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209884671,
+    "wof:lastmodified":1537580829,
+    "wof:name":"Putey",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40916999999999,
+    31.39417000000001,
+    67.40916999999999,
+    31.39417000000001
+],
+  "geometry": {"coordinates":[67.40916999999999,31.39417000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226132169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.84101,33.96853,63.84101,33.96853",
+    "geom:latitude":33.96853,
+    "geom:longitude":63.84101,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Chahar Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145818,
+    "gn:latitude":33.96853,
+    "gn:longitude":63.84101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cah\u0101\u1e5fkh\u0101na",
+        "Chah\u0101r Kh\u0101nah",
+        "\u0686\u0647\u0627\u0631 \u062e\u0627\u0646\u0647",
+        "Chah\u0101rkh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145818
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"840f7cb168cb901a7e19c91679058fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1226132169,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226132169,
+    "wof:lastmodified":1537582131,
+    "wof:name":"Chahar Khanah",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.84101,
+    33.96853,
+    63.84101,
+    33.96853
+],
+  "geometry": {"coordinates":[63.84101,33.96853],"type":"Point"}
+}

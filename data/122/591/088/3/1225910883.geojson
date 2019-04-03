@@ -1,0 +1,74 @@
+{
+  "id": 1225910883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70965,34.59419,68.70965,34.59419",
+    "geom:latitude":34.59419,
+    "geom:longitude":68.70965,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402",
+    "gn:asciiname":"Seh Qala",
+    "gn:country_code":"AF",
+    "gn:dem":2717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126474,
+    "gn:latitude":34.59419,
+    "gn:longitude":68.70965,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Seh Qal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikhkala",
+        "Seh Qal\u0101",
+        "Sehqal\u0101",
+        "\u0633\u0647 \u0642\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126474
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bde5d26bb8db17a92bf01170e66c50d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1225910883,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1225910883,
+    "wof:lastmodified":1537580480,
+    "wof:name":"Seh Qala",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70965,
+    34.59419,
+    68.70965,
+    34.59419
+],
+  "geometry": {"coordinates":[68.70965,34.59419],"type":"Point"}
+}

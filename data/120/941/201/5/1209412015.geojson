@@ -1,0 +1,70 @@
+{
+  "id": 1209412015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.59926,32.82377,67.59926,32.82377",
+    "geom:latitude":32.82377,
+    "geom:longitude":67.59926,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Wechah Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121572,
+    "gn:latitude":32.82377,
+    "gn:longitude":67.59926,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u00eachah Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Woca Kal\u0101",
+        "W\u011b\u010da Kal\u0101",
+        "Wochah Kal\u0101",
+        "Vechakala",
+        "W\u00eachah Kal\u0101",
+        "\u0648\u0686\u0647 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121572
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8ab91910982316c101e338e67e01516f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209412015
+        }
+    ],
+    "wof:id":1209412015,
+    "wof:lastmodified":1537580049,
+    "wof:name":"Wechah Kala",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.59926,
+    32.82377,
+    67.59926,
+    32.82377
+],
+  "geometry": {"coordinates":[67.59926,32.82377],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327195369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46634,31.88461,66.46634,31.88461",
+    "geom:latitude":31.88461,
+    "geom:longitude":66.46634,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506",
+    "gn:asciiname":"Sokhtah-ye Shamali",
+    "gn:country_code":"AF",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123704,
+    "gn:latitude":31.88461,
+    "gn:longitude":66.46634,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtah-ye Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160am\u0101li",
+        "S\u014dkhta Sham\u0101li",
+        "S\u016bkhteh",
+        "Sokhta-Shamali",
+        "S\u014dkhta",
+        "\u0633\u0648\u062e\u062a\u0647 \u0634\u0645\u0627\u0644\u06cc",
+        "S\u016bkhteh-ye Shom\u0101l\u012b",
+        "S\u014dkhtah-ye Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123704
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb4d63b3bca103baea3fdb5f4cd73e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1327195369,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327195369,
+    "wof:lastmodified":1537580244,
+    "wof:name":"Sokhtah-ye Shamali",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46634,
+    31.88461,
+    66.46634,
+    31.88461
+],
+  "geometry": {"coordinates":[66.46634,31.88461],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326764065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.775,32.59014,65.775,32.59014",
+    "geom:latitude":32.59014,
+    "geom:longitude":65.775,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Yak Lingah",
+    "gn:country_code":"AF",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121318,
+    "gn:latitude":32.59014,
+    "gn:longitude":65.775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yak Lingah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0643\u0644\u0646\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "Yaklinga",
+        "Yaklenga",
+        "Yak Lingah",
+        "\u06cc\u06a9 \u0644\u0646\u06af\u0647",
+        "Yaklengah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121318
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc095a9d504d5ec27f4e9b1ffcc78230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1326764065,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1326764065,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yak Lingah",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.775,
+    32.59014000000001,
+    65.775,
+    32.59014000000001
+],
+  "geometry": {"coordinates":[65.77500000000001,32.59014000000001],"type":"Point"}
+}

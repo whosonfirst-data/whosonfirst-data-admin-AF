@@ -1,0 +1,73 @@
+{
+  "id": 1309919601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.2342,38.05304,71.2342,38.05304",
+    "geom:latitude":38.05304,
+    "geom:longitude":71.2342,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Zicharw",
+    "gn:country_code":"AF",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466673,
+    "gn:latitude":38.05304,
+    "gn:longitude":71.2342,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u012bcharw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u012bca\u1e5fw",
+        "Z\u012bcharw",
+        "\u0632\u06cc\u0686\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466673
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"57a8b16896624ef48c8a0a62cc95ce95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1309919601,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309919601,
+    "wof:lastmodified":1537583436,
+    "wof:name":"Zicharw",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.2342,
+    38.05304,
+    71.2342,
+    38.05304
+],
+  "geometry": {"coordinates":[71.2342,38.05304],"type":"Point"}
+}

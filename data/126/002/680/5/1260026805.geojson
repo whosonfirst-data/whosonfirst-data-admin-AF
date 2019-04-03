@@ -1,0 +1,83 @@
+{
+  "id": 1260026805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.46568,31.77357,68.46568,31.77357",
+    "geom:latitude":31.77357,
+    "geom:longitude":68.46568,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2917",
+    "gn:asciiname":"Kotsakah",
+    "gn:country_code":"AF",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135492,
+    "gn:latitude":31.77357,
+    "gn:longitude":68.46568,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dtsakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zereh Qal\u2018eh",
+        "Kowsakkah",
+        "Zara Kila",
+        "K\u014dsakka",
+        "Zara Qila",
+        "Kochakka",
+        "K\u014dcakka",
+        "\u06a9\u0648\u0685\u06a9\u0647",
+        "Kowtsakkah",
+        "K\u014dsakah",
+        "\u06a9\u0648\u0633\u06a9\u0647",
+        "K\u014dtsakah",
+        "K\u014dtsakkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135492
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32427d6632d1698661b8f62e16cd2fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562551,
+            "locality_id":1260026805,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1260026805,
+    "wof:lastmodified":1537581259,
+    "wof:name":"Kotsakah",
+    "wof:parent_id":1108562551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.46568,
+    31.77357,
+    68.46568,
+    31.77357
+],
+  "geometry": {"coordinates":[68.46568000000001,31.77357],"type":"Point"}
+}

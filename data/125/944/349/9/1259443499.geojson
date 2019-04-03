@@ -1,0 +1,74 @@
+{
+  "id": 1259443499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0517,36.0094,67.0517,36.0094",
+    "geom:latitude":36.0094,
+    "geom:longitude":67.0517,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Chalchah",
+    "gn:country_code":"AF",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465338,
+    "gn:latitude":36.0094,
+    "gn:longitude":67.0517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chalchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalcha",
+        "Chalcheh",
+        "Chalchah",
+        "\u0686\u0644\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465338
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4fbfa99d1c7506e9762c167d3fdb9e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1259443499,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1259443499,
+    "wof:lastmodified":1537583396,
+    "wof:name":"Chalchah",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0517,
+    36.0094,
+    67.0517,
+    36.0094
+],
+  "geometry": {"coordinates":[67.0517,36.0094],"type":"Point"}
+}

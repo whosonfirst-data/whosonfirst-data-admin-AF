@@ -1,0 +1,80 @@
+{
+  "id": 1327119719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.36562,33.35868,68.36562,33.35868",
+    "geom:latitude":33.35868,
+    "geom:longitude":68.36562,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Bigi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439084,
+    "gn:latitude":33.35868,
+    "gn:longitude":68.36562,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Big\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u06af\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Bigikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Bigikh\u0113l",
+        "Big\u012b Kh\u0113l",
+        "Beyg\u012b Kheyl",
+        "\u0628\u06af\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c9ff975518fc0667f700272ab3ed6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1327119719,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327119719,
+    "wof:lastmodified":1537582915,
+    "wof:name":"Bigi Khel",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.36561999999999,
+    33.35868,
+    68.36561999999999,
+    33.35868
+],
+  "geometry": {"coordinates":[68.36561999999999,33.35868],"type":"Point"}
+}

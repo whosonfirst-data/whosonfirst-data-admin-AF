@@ -1,0 +1,71 @@
+{
+  "id": 1293300073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30408,36.1852,69.30408,36.1852",
+    "geom:latitude":36.1852,
+    "geom:longitude":69.30408,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1310",
+    "gn:asciiname":"Larak",
+    "gn:country_code":"AF",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134781,
+    "gn:latitude":36.1852,
+    "gn:longitude":69.30408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Larak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134781
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0dd0aaa91ac1f273c2c305d3a06551bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561875,
+            "locality_id":1293300073,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293300073,
+    "wof:lastmodified":1537581201,
+    "wof:name":"Larak",
+    "wof:parent_id":1108561875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30408,
+    36.1852,
+    69.30408,
+    36.1852
+],
+  "geometry": {"coordinates":[69.30408,36.1852],"type":"Point"}
+}

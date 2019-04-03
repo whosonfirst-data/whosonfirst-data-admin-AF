@@ -1,0 +1,74 @@
+{
+  "id": 1243150961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.25704,31.3099,64.25704,31.3099",
+    "geom:latitude":31.3099,
+    "geom:longitude":64.25704,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2309",
+    "gn:asciiname":"Khamand",
+    "gn:country_code":"AF",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137244,
+    "gn:latitude":31.3099,
+    "gn:longitude":64.25704,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khamand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaman\u1e0f Ab\u1e0full\u0101h Kl",
+        "Khamand \u2018Abdoll\u0101h Kalay",
+        "Khamand",
+        "\u062e\u0645\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137244
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cbc46364ed17b2170004f3d7f1cb4d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562313,
+            "locality_id":1243150961,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243150961,
+    "wof:lastmodified":1537581405,
+    "wof:name":"Khamand",
+    "wof:parent_id":1108562313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.25704,
+    31.3099,
+    64.25704,
+    31.3099
+],
+  "geometry": {"coordinates":[64.25704,31.3099],"type":"Point"}
+}

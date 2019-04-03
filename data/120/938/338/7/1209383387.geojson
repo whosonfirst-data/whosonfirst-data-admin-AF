@@ -1,0 +1,70 @@
+{
+  "id": 1209383387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.84258,31.58535,64.84258,31.58535",
+    "geom:latitude":31.58535,
+    "geom:longitude":64.84258,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Koykak",
+    "gn:country_code":"AF",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120486,
+    "gn:latitude":31.58535,
+    "gn:longitude":64.84258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dykak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaykak",
+        "K\u014dykak",
+        "Koykak",
+        "\u06a9\u0648\u06cc\u06a9\u06a9",
+        "K\u016byak",
+        "\u06a9\u06cc\u06a9\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120486
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"310079ea8a50c54725f43d6cf50b3179",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209383387
+        }
+    ],
+    "wof:id":1209383387,
+    "wof:lastmodified":1537579948,
+    "wof:name":"Koykak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.84258,
+    31.58535,
+    64.84258,
+    31.58535
+],
+  "geometry": {"coordinates":[64.84258,31.58535],"type":"Point"}
+}

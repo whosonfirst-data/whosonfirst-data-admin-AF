@@ -1,0 +1,76 @@
+{
+  "id": 1209809845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33128,34.3171,66.33128,34.3171",
+    "geom:latitude":34.3171,
+    "geom:longitude":66.33128,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Shakh Now",
+    "gn:country_code":"AF",
+    "gn:dem":2717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456199,
+    "gn:latitude":34.3171,
+    "gn:longitude":66.33128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101kh Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakhnau",
+        "\u0160akhnaw",
+        "Sh\u0101khnow",
+        "Sh\u0101kh N\u0101w",
+        "Sh\u0101kh Now",
+        "\u0634\u0627\u062e \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456199
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80a90797e65cbe202d3b7ab15917d193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1209809845,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209809845,
+    "wof:lastmodified":1537583171,
+    "wof:name":"Shakh Now",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33128,
+    34.3171,
+    66.33128,
+    34.3171
+],
+  "geometry": {"coordinates":[66.33128000000001,34.3171],"type":"Point"}
+}

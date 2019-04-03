@@ -1,0 +1,77 @@
+{
+  "id": 1226606357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.82523,32.00643,66.82523,32.00643",
+    "geom:latitude":32.00643,
+    "geom:longitude":66.82523,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Karez",
+    "gn:country_code":"AF",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1138110,
+    "gn:latitude":32.00643,
+    "gn:longitude":66.82523,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113z",
+        "K\u0101r\u0113z",
+        "\u06a9\u0627\u0631\u06d0\u0632",
+        "K\u0101r\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138110
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad5fda1b8a7468b9c8f6aa164d2f603a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1226606357,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226606357,
+    "wof:lastmodified":1537581480,
+    "wof:name":"Karez",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.82523,
+    32.00643,
+    66.82523,
+    32.00643
+],
+  "geometry": {"coordinates":[66.82523,32.00643],"type":"Point"}
+}

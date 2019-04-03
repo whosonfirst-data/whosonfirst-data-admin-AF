@@ -1,0 +1,73 @@
+{
+  "id": 1209177329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.75253,34.14171,70.75253,34.14171",
+    "geom:latitude":34.14171,
+    "geom:longitude":70.75253,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"813.0",
+    "gn:asciiname":"Wiyaleh",
+    "gn:country_code":"AF",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469735,
+    "gn:latitude":34.14171,
+    "gn:longitude":70.75253,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wiy\u0101l\u00eah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064a\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Viyala",
+        "Wey\u0101la",
+        "Wey\u0101lah",
+        "W\u00eay\u0101lah",
+        "Wiy\u0101l\u00eah",
+        "\u0648\u06cc\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469735
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b8aefc8af8589dd3d835b10cbe93e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209177329
+        }
+    ],
+    "wof:id":1209177329,
+    "wof:lastmodified":1537583628,
+    "wof:name":"Wiyaleh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.75253000000002,
+    34.14171,
+    70.75253000000002,
+    34.14171
+],
+  "geometry": {"coordinates":[70.75253000000002,34.14171],"type":"Point"}
+}

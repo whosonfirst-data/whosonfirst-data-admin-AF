@@ -1,0 +1,74 @@
+{
+  "id": 1243001009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64098,33.73768,66.64098,33.73768",
+    "geom:latitude":33.73768,
+    "geom:longitude":66.64098,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Bagh-e Shaykh",
+    "gn:country_code":"AF",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437711,
+    "gn:latitude":33.73768,
+    "gn:longitude":66.64098,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh-e Shaykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101ghe \u0160\u0113kh",
+        "B\u0101gh-e Sheykh",
+        "B\u0101gh-e Shaykh",
+        "\u0628\u0627\u063a \u0634\u06cc\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437711
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3a6eb63654b7a7503bbecdb6c07b1654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1243001009,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1243001009,
+    "wof:lastmodified":1537582855,
+    "wof:name":"Bagh-e Shaykh",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64098,
+    33.73768,
+    66.64098,
+    33.73768
+],
+  "geometry": {"coordinates":[66.64098,33.73768],"type":"Point"}
+}

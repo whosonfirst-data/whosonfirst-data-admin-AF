@@ -1,0 +1,81 @@
+{
+  "id": 1226286791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45067,33.36925,69.45067,33.36925",
+    "geom:latitude":33.36925,
+    "geom:longitude":69.45067,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Kuzah Waze",
+    "gn:country_code":"AF",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135487,
+    "gn:latitude":33.36925,
+    "gn:longitude":69.45067,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bzah Waz\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0632\u06cc \u0648\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ka\u1e5fez-i-Qal\u2018a",
+        "Kozavaza",
+        "K\u014dza Waz\u0113",
+        "Kr\u012bz-e Qal\u2018eh",
+        "K\u014dzah Waz\u0113",
+        "Kowzay Wazay",
+        "K\u016bzah Waz\u0113",
+        "\u06a9\u0648\u0632\u0647 \u0648\u0632\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135487
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b70c001e294149c8131ee98a634bdb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1226286791,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226286791,
+    "wof:lastmodified":1537581259,
+    "wof:name":"Kuzah Waze",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45067,
+    33.36925,
+    69.45067,
+    33.36925
+],
+  "geometry": {"coordinates":[69.45067,33.36925],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344179757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91917,34.32474,66.91917,34.32474",
+    "geom:latitude":34.32474,
+    "geom:longitude":66.91917,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Kodak",
+    "gn:country_code":"AF",
+    "gn:dem":2814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7057419,
+    "gn:latitude":34.32474,
+    "gn:longitude":66.91917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014ddak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7057419
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"26f1ece5ea7af40d5877df0562652a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1344179757,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1344179757,
+    "wof:lastmodified":1536703768,
+    "wof:name":"Kodak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91917,
+    34.32474000000001,
+    66.91917,
+    34.32474000000001
+],
+  "geometry": {"coordinates":[66.91916999999999,34.32474000000001],"type":"Point"}
+}

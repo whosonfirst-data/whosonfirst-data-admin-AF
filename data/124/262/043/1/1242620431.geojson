@@ -1,0 +1,77 @@
+{
+  "id": 1242620431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.92806,33.56368,69.92806,33.56368",
+    "geom:latitude":33.56368,
+    "geom:longitude":69.92806,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3209",
+    "gn:asciiname":"Lewan Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134640,
+    "gn:latitude":33.56368,
+    "gn:longitude":69.92806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0113w\u0101n Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Levankheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "L\u0113w\u0101nkh\u0113l",
+        "L\u0113w\u0101n Kh\u0113l",
+        "L\u0113w\u0101n Kheyl",
+        "\u0644\u06d0\u0648\u0627\u0646 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe922c480c22e55b050383e4d8db8d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562421,
+            "locality_id":1242620431,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1242620431,
+    "wof:lastmodified":1537581191,
+    "wof:name":"Lewan Khel",
+    "wof:parent_id":1108562421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.92806,
+    33.56368,
+    69.92806,
+    33.56368
+],
+  "geometry": {"coordinates":[69.92806,33.56368],"type":"Point"}
+}

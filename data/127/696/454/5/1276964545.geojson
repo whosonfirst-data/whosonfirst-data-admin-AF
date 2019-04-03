@@ -1,0 +1,79 @@
+{
+  "id": 1276964545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75986,33.25469,67.75986,33.25469",
+    "geom:latitude":33.25469,
+    "geom:longitude":67.75986,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Sherghah",
+    "gn:country_code":"AF",
+    "gn:dem":2821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125019,
+    "gn:latitude":33.25469,
+    "gn:longitude":67.75986,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113rghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113rgha",
+        "Sherga",
+        "Sh\u012brghah",
+        "Shayrghah",
+        "\u0634\u06cc\u0631\u063a\u0647",
+        "Sh\u0113rghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125019
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"253c0c0c4dd8d8b3375020d10ec11347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1276964545,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276964545,
+    "wof:lastmodified":1537580348,
+    "wof:name":"Sherghah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75986,
+    33.25469,
+    67.75986,
+    33.25469
+],
+  "geometry": {"coordinates":[67.75986,33.25469],"type":"Point"}
+}

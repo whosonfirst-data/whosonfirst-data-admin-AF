@@ -1,0 +1,73 @@
+{
+  "id": 1293654793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.70998,31.37927,61.70998,31.37927",
+    "geom:latitude":31.37927,
+    "geom:longitude":61.70998,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Tahanah-ye Mayshkoshi",
+    "gn:country_code":"AF",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436230,
+    "gn:latitude":31.37927,
+    "gn:longitude":61.70998,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah\u0101nah-ye Mayshkosh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tah\u0101na-i-M\u0113\u0161ku\u0161i",
+        "Tah\u0101neh-ye M\u012bshkosh\u012b",
+        "Tah\u0101nah-ye Mayshkosh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436230
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0185b9c52a6b9f49dcd066c996a47587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1293654793,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1293654793,
+    "wof:lastmodified":1537582813,
+    "wof:name":"Tahanah-ye Mayshkoshi",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.70998,
+    31.37927,
+    61.70998,
+    31.37927
+],
+  "geometry": {"coordinates":[61.70998,31.37927],"type":"Point"}
+}

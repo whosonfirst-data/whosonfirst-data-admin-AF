@@ -1,0 +1,72 @@
+{
+  "id": 1293253581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00757,32.02416,68.00757,32.02416",
+    "geom:latitude":32.02416,
+    "geom:longitude":68.00757,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Mina",
+    "gn:country_code":"AF",
+    "gn:dem":2281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1133332,
+    "gn:latitude":32.02416,
+    "gn:longitude":68.00757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0645\u06cc\u0646\u0627",
+        "M\u012bn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133332
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"61827b2af58726db16f8295a6532dbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1293253581,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293253581,
+    "wof:lastmodified":1537581086,
+    "wof:name":"Mina",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00757,
+    32.02415999999999,
+    68.00757,
+    32.02415999999999
+],
+  "geometry": {"coordinates":[68.00757,32.02415999999999],"type":"Point"}
+}

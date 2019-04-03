@@ -1,0 +1,74 @@
+{
+  "id": 1242888031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79735,38.24786,70.79735,38.24786",
+    "geom:latitude":38.24786,
+    "geom:longitude":70.79735,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Dur Khakh",
+    "gn:country_code":"AF",
+    "gn:dem":2398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466120,
+    "gn:latitude":38.24786,
+    "gn:longitude":70.79735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dur Kh\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eu\u1e5f Kh\u0101kh",
+        "Dor Kh\u0101kh",
+        "Dur Kh\u0101kh",
+        "\u062f\u0631 \u062e\u0627\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466120
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a99c8aa5b331a53e616f091ed0d7e718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1242888031,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1242888031,
+    "wof:lastmodified":1537583412,
+    "wof:name":"Dur Khakh",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79735,
+    38.24786,
+    70.79735,
+    38.24786
+],
+  "geometry": {"coordinates":[70.79734999999999,38.24786],"type":"Point"}
+}

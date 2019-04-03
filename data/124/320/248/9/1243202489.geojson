@@ -1,0 +1,78 @@
+{
+  "id": 1243202489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89695,32.69642,65.89695,32.69642",
+    "geom:latitude":32.69642,
+    "geom:longitude":65.89695,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Deh Jowz-e Hasanzai",
+    "gn:country_code":"AF",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143472,
+    "gn:latitude":32.69642,
+    "gn:longitude":65.89695,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Jowz-e \u1e28asanza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u062c\u0648\u0632\u0654 \u062d\u0633\u0646\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Dekhdzhauzi-Khasanzi",
+        "\u1e0eehjawze \u1e28asanzi",
+        "Deh Jowz-e \u1e28asanza\u012b",
+        "\u062f\u0647 \u062c\u0648\u0632 \u062d\u0633\u0646\u0632\u06cc",
+        "Dehjawz-e \u1e28asanzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143472
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"932883ef679a31c6ad0eab20f9750755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1243202489,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1243202489,
+    "wof:lastmodified":1537581920,
+    "wof:name":"Deh Jowz-e Hasanzai",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89695,
+    32.69642,
+    65.89695,
+    32.69642
+],
+  "geometry": {"coordinates":[65.89695,32.69642],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276400633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73757,32.53417,66.73757,32.53417",
+    "geom:latitude":32.53417,
+    "geom:longitude":66.73757,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Marah",
+    "gn:country_code":"AF",
+    "gn:dem":1833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133881,
+    "gn:latitude":32.53417,
+    "gn:longitude":66.73757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mara",
+        "M\u0101rah",
+        "\u0645\u0627\u0631\u0647",
+        "M\u0101\u1e5fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133881
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07009eac399ffa64acbad8b52f106d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1276400633,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276400633,
+    "wof:lastmodified":1537581129,
+    "wof:name":"Marah",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73756999999999,
+    32.53417,
+    66.73756999999999,
+    32.53417
+],
+  "geometry": {"coordinates":[66.73756999999999,32.53417],"type":"Point"}
+}

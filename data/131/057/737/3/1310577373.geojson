@@ -1,0 +1,79 @@
+{
+  "id": 1310577373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69747,34.18229,69.69747,34.18229",
+    "geom:latitude":34.18229,
+    "geom:longitude":69.69747,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"506.0",
+    "gn:asciiname":"Barah Chowatrah",
+    "gn:country_code":"AF",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147102,
+    "gn:latitude":34.18229,
+    "gn:longitude":69.69747,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barah Chowatrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u062a\u0631\u0647\u0654\u0654 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bara Chavatra",
+        "Bara \u010cawatra",
+        "Barah Chow Atrah",
+        "Ba\u1e5fah Chawat\u1e5fah",
+        "Barah Chowatrah",
+        "\u0628\u0631\u0647 \u0686\u0648\u062a\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147102
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e3a219696ea7a51e37aff53cc56701b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561829,
+            "locality_id":1310577373,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1310577373,
+    "wof:lastmodified":1537582240,
+    "wof:name":"Barah Chowatrah",
+    "wof:parent_id":1108561829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69747,
+    34.18229,
+    69.69747,
+    34.18229
+],
+  "geometry": {"coordinates":[69.69747,34.18229],"type":"Point"}
+}

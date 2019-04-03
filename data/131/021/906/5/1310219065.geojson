@@ -1,0 +1,73 @@
+{
+  "id": 1310219065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23337,37.01162,70.23337,37.01162",
+    "geom:latitude":37.01162,
+    "geom:longitude":70.23337,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1116.0",
+    "gn:asciiname":"Alani",
+    "gn:country_code":"AF",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467950,
+    "gn:latitude":37.01162,
+    "gn:longitude":70.23337,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Al\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u0101n\u012b",
+        "\u0627\u0644\u0627\u0646\u06cc",
+        "All\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467950
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1e0f286796c1af56d9b36a8c3a016f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561943,
+            "locality_id":1310219065,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310219065,
+    "wof:lastmodified":1537583515,
+    "wof:name":"Alani",
+    "wof:parent_id":1108561943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23337,
+    37.01162,
+    70.23337,
+    37.01162
+],
+  "geometry": {"coordinates":[70.23336999999999,37.01162],"type":"Point"}
+}

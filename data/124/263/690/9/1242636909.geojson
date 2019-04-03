@@ -1,0 +1,74 @@
+{
+  "id": 1242636909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15,36.51667,68.15,36.51667",
+    "geom:latitude":36.51667,
+    "geom:longitude":68.15,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Aq Gonbaz",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148544,
+    "gn:latitude":36.51667,
+    "gn:longitude":68.15,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Gonbaz\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100q Gumbaz",
+        "\u0100q Gonbaz\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148544,
+        "wk:page":"Aq_Gonbaz"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff600392449db3aa027b4645a4b2af4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562063,
+            "locality_id":1242636909,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1242636909,
+    "wof:lastmodified":1537582347,
+    "wof:name":"Aq Gonbaz",
+    "wof:parent_id":1108562063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15,
+    36.51667,
+    68.15,
+    36.51667
+],
+  "geometry": {"coordinates":[68.15000000000001,36.51667],"type":"Point"}
+}

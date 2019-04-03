@@ -1,0 +1,73 @@
+{
+  "id": 1309790193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6029,34.52427,64.6029,34.52427",
+    "geom:latitude":34.52427,
+    "geom:longitude":64.6029,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Ghar-e Bala",
+    "gn:country_code":"AF",
+    "gn:dem":2556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141397,
+    "gn:latitude":34.52427,
+    "gn:longitude":64.6029,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101r-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101r-e B\u0101l\u0101",
+        "\u063a\u0627\u0631 \u0628\u0627\u0644\u0627",
+        "Gh\u0101\u1e5f-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141397
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aaaef021132914f1ef361f3faa795b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1309790193,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309790193,
+    "wof:lastmodified":1537581750,
+    "wof:name":"Ghar-e Bala",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6029,
+    34.52427,
+    64.6029,
+    34.52427
+],
+  "geometry": {"coordinates":[64.60290000000001,34.52427],"type":"Point"}
+}

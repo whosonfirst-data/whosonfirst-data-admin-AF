@@ -1,0 +1,75 @@
+{
+  "id": 1326478049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97953,34.21133,67.97953,34.21133",
+    "geom:latitude":34.21133,
+    "geom:longitude":67.97953,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Seh Kotah",
+    "gn:country_code":"AF",
+    "gn:dem":2833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460305,
+    "gn:latitude":34.21133,
+    "gn:longitude":67.97953,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Seh K\u014d\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikhkota",
+        "Sehk\u014dta",
+        "Sehkowteh",
+        "Seh K\u014d\u1e6fah",
+        "\u0633\u0647 \u06a9\u0648\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff0254014ed560afce7933f52bc0fe84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1326478049,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1326478049,
+    "wof:lastmodified":1537583315,
+    "wof:name":"Seh Kotah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97953000000001,
+    34.21133,
+    67.97953000000001,
+    34.21133
+],
+  "geometry": {"coordinates":[67.97953000000001,34.21133],"type":"Point"}
+}

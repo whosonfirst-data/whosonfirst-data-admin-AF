@@ -1,0 +1,75 @@
+{
+  "id": 1193245111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25608,34.37696,68.25608,34.37696",
+    "geom:latitude":34.37696,
+    "geom:longitude":68.25608,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Sar-e Koh",
+    "gn:country_code":"AF",
+    "gn:dem":3476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1459172,
+    "gn:latitude":34.37696,
+    "gn:longitude":68.25608,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e K\u014dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sa\u1e5fe Koh",
+        "Razvaliny Sari-Kokh",
+        "Sar-e K\u016bh",
+        "Sar-e K\u014dh",
+        "\u0633\u0631 \u06a9\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459172
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a13b1a36dc7aa1992c561969e4f91fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1193245111,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1193245111,
+    "wof:lastmodified":1537583295,
+    "wof:name":"Sar-e Koh",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25608000000001,
+    34.37696,
+    68.25608000000001,
+    34.37696
+],
+  "geometry": {"coordinates":[68.25608000000001,34.37696],"type":"Point"}
+}

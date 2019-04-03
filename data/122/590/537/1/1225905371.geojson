@@ -1,0 +1,78 @@
+{
+  "id": 1225905371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08215,32.9544,69.08215,32.9544",
+    "geom:latitude":32.9544,
+    "geom:longitude":69.08215,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2914",
+    "gn:asciiname":"Sundur Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123644,
+    "gn:latitude":32.9544,
+    "gn:longitude":69.08215,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sundur Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sundurkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Sun\u1e0fu\u1e5fkh\u0113l",
+        "Sundurkheyl\u2019",
+        "Sundur Kheyl",
+        "Sundur Kh\u0113l",
+        "\u0633\u0646\u062f\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123644
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ac9fc30d1bdd6d5622a8ac65e56edfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562433,
+            "locality_id":1225905371,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1225905371,
+    "wof:lastmodified":1537580238,
+    "wof:name":"Sundur Khel",
+    "wof:parent_id":1108562433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08215,
+    32.9544,
+    69.08215,
+    32.9544
+],
+  "geometry": {"coordinates":[69.08215,32.9544],"type":"Point"}
+}

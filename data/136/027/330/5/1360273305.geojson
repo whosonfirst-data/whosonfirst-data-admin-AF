@@ -1,0 +1,74 @@
+{
+  "id": 1360273305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46574,34.33588,63.46574,34.33588",
+    "geom:latitude":34.33588,
+    "geom:longitude":63.46574,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Wajah",
+    "gn:country_code":"AF",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121812,
+    "gn:latitude":34.33588,
+    "gn:longitude":63.46574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101ja",
+        "Wajah",
+        "W\u0101jah",
+        "\u0648\u0627\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121812
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d8b2d78722f98320ea05737779bf8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1360273305,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1360273305,
+    "wof:lastmodified":1537580062,
+    "wof:name":"Wajah",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46574,
+    34.33588,
+    63.46574,
+    34.33588
+],
+  "geometry": {"coordinates":[63.46574,34.33588],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309861643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.68265,36.81987,68.68265,36.81987",
+    "geom:latitude":36.81987,
+    "geom:longitude":68.68265,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401",
+    "gn:asciiname":"Gor Tapah",
+    "gn:country_code":"AF",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140491,
+    "gn:latitude":36.81987,
+    "gn:longitude":68.68265,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014dr Tapah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0442\u0430\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "G\u014dr Tappeh",
+        "G\u014d\u1e5f Tapa",
+        "Gortapa",
+        "G\u016br Tappeh",
+        "G\u014dr Tapah",
+        "\u06af\u0648\u0631 \u062a\u067e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83e5244a4fdd9f7b8306336ad1f38a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1309861643,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1309861643,
+    "wof:lastmodified":1537581668,
+    "wof:name":"Gor Tapah",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.68265,
+    36.81987,
+    68.68265,
+    36.81987
+],
+  "geometry": {"coordinates":[68.68265,36.81987],"type":"Point"}
+}

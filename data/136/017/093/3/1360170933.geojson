@@ -1,0 +1,81 @@
+{
+  "id": 1360170933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00805,34.68616,69.00805,34.68616",
+    "geom:latitude":34.68616,
+    "geom:longitude":69.00805,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"107",
+    "gn:asciiname":"Shakardarah",
+    "gn:country_code":"AF",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125797,
+    "gn:latitude":34.68616,
+    "gn:longitude":69.00805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakardarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0643\u0631 \u062f\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160akardara",
+        "Shakar Darra",
+        "Shakardara",
+        "Shakar Darreh",
+        "\u0634\u0643\u0631 \u062f\u0631\u0647",
+        "Shakar Darah",
+        "Shakardarah",
+        "\u0634\u06a9\u0631\u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125797
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ab518b3d531e631c8477b4c7217aa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562465,
+            "locality_id":1360170933,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1360170933,
+    "wof:lastmodified":1537580417,
+    "wof:name":"Shakardarah",
+    "wof:parent_id":1108562465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00805,
+    34.68616,
+    69.00805,
+    34.68616
+],
+  "geometry": {"coordinates":[69.00805,34.68616],"type":"Point"}
+}

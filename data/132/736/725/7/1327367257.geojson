@@ -1,0 +1,74 @@
+{
+  "id": 1327367257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81939,33.06847,66.81939,33.06847",
+    "geom:latitude":33.06847,
+    "geom:longitude":66.81939,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Husaini",
+    "gn:country_code":"AF",
+    "gn:dem":2506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139954,
+    "gn:latitude":33.06847,
+    "gn:longitude":66.81939,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28usa\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331osayni",
+        "\u1e28oseyn\u012b",
+        "\u1e28usa\u012bn\u012b",
+        "\u062d\u0633\u06cc\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139954
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"011eec4f3135fb9d04d5fe50daba988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1327367257,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1327367257,
+    "wof:lastmodified":1537581619,
+    "wof:name":"Husaini",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81939,
+    33.06847,
+    66.81939,
+    33.06847
+],
+  "geometry": {"coordinates":[66.81939,33.06847],"type":"Point"}
+}

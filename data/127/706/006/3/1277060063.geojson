@@ -1,0 +1,77 @@
+{
+  "id": 1277060063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02831,32.35569,65.02831,32.35569",
+    "geom:latitude":32.35569,
+    "geom:longitude":65.02831,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Haji Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140344,
+    "gn:latitude":32.35569,
+    "gn:longitude":65.02831,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101ji Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khadzhikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101j\u012b Kheyl",
+        "\u1e28\u0101ji Kh\u0113l",
+        "\u062d\u0627\u062c\u062e\u0644",
+        "\u1e28\u0101jj\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"510b8c2e80065c57a08d2689cd8f2fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1277060063,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1277060063,
+    "wof:lastmodified":1537581654,
+    "wof:name":"Haji Khel",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02831,
+    32.35569,
+    65.02831,
+    32.35569
+],
+  "geometry": {"coordinates":[65.02831,32.35569],"type":"Point"}
+}

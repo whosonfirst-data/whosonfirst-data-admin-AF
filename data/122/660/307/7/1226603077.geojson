@@ -1,0 +1,75 @@
+{
+  "id": 1226603077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35765,31.47864,67.35765,31.47864",
+    "geom:latitude":31.47864,
+    "geom:longitude":67.35765,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Wech Khwarah",
+    "gn:country_code":"AF",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437194,
+    "gn:latitude":31.47864,
+    "gn:longitude":67.35765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u00each Khwa\u1e5fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vechkhvara",
+        "W\u011b\u010d Khw\u0101ra",
+        "W\u00each Khwa\u1e5fah",
+        "Wech Khw\u0101rah",
+        "\u0648\u0686 \u062e\u0648\u0693\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437194
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91325533f0096efcf4c7843549ef008f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1226603077,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226603077,
+    "wof:lastmodified":1537582839,
+    "wof:name":"Wech Khwarah",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35765,
+    31.47864,
+    67.35765,
+    31.47864
+],
+  "geometry": {"coordinates":[67.35765000000001,31.47864],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243097557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43784,35.24932,69.43784,35.24932",
+    "geom:latitude":35.24932,
+    "geom:longitude":69.43784,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3307.0",
+    "gn:asciiname":"Olok",
+    "gn:country_code":"AF",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423215,
+    "gn:latitude":35.24932,
+    "gn:longitude":69.43784,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Olok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u014cl\u014dk",
+        "Olok",
+        "\u016al\u016bk",
+        "\u0627\u0648\u0644\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423215
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b355e1bb9f9a4117db8c498ecff0d941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562415,
+            "locality_id":1243097557,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1243097557,
+    "wof:lastmodified":1537582551,
+    "wof:name":"Olok",
+    "wof:parent_id":1108562415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43784000000001,
+    35.24932000000001,
+    69.43784000000001,
+    35.24932000000001
+],
+  "geometry": {"coordinates":[69.43784000000001,35.24932000000001],"type":"Point"}
+}

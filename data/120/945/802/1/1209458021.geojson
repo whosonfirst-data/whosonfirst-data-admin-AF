@@ -1,0 +1,71 @@
+{
+  "id": 1209458021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66661,33.15508,69.66661,33.15508",
+    "geom:latitude":33.15508,
+    "geom:longitude":69.66661,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203",
+    "gn:asciiname":"Sperkay",
+    "gn:country_code":"AF",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123944,
+    "gn:latitude":33.15508,
+    "gn:longitude":69.66661,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u0113rkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0631\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sp\u0113rka\u012b",
+        "Sp\u0113\u1e5fkay",
+        "Sp\u0113rkay",
+        "\u0633\u067e\u06d0\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123944
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a701f1c933661ca79d6e89c2669afcca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209458021
+        }
+    ],
+    "wof:id":1209458021,
+    "wof:lastmodified":1537580260,
+    "wof:name":"Sperkay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66660999999999,
+    33.15508,
+    69.66660999999999,
+    33.15508
+],
+  "geometry": {"coordinates":[69.66660999999999,33.15508],"type":"Point"}
+}

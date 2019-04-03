@@ -1,0 +1,74 @@
+{
+  "id": 1259363959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.5226,34.82955,62.5226,34.82955",
+    "geom:latitude":34.82955,
+    "geom:longitude":62.5226,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2016.0",
+    "gn:asciiname":"Agha Burut",
+    "gn:country_code":"AF",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148582,
+    "gn:latitude":34.82955,
+    "gn:longitude":62.5226,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100gh\u0101 Bur\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100g\u0101 Bu\u1e5f\u016bt",
+        "\u0100gh\u0101 Bur\u016bt",
+        "\u0622\u0642\u0627 \u0628\u0631\u0648\u062a",
+        "\u0100qa Bu\u1e5f\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148582
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2257b35c57879d9f95e1f5952f62db16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562217,
+            "locality_id":1259363959,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259363959,
+    "wof:lastmodified":1537582350,
+    "wof:name":"Agha Burut",
+    "wof:parent_id":1108562217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.5226,
+    34.82955,
+    62.5226,
+    34.82955
+],
+  "geometry": {"coordinates":[62.5226,34.82955],"type":"Point"}
+}

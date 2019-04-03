@@ -1,0 +1,78 @@
+{
+  "id": 1226591547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70322,34.36835,67.70322,34.36835",
+    "geom:latitude":34.36835,
+    "geom:longitude":67.70322,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Altarghanah",
+    "gn:country_code":"AF",
+    "gn:dem":2863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460569,
+    "gn:latitude":34.36835,
+    "gn:longitude":67.70322,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Altarghanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Al\u2019targana"
+    ],
+    "name:und_x_variant":[
+        "Altar Ghangak",
+        "Alta\u1e5fghana",
+        "Altarghanah",
+        "Altarghaneh",
+        "\u0627\u0644\u062a\u0631\u063a\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460569
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82afc8102ab34128c62115cda1b142da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1226591547,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226591547,
+    "wof:lastmodified":1537583328,
+    "wof:name":"Altarghanah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70322,
+    34.36835,
+    67.70322,
+    34.36835
+],
+  "geometry": {"coordinates":[67.70322,34.36835],"type":"Point"}
+}

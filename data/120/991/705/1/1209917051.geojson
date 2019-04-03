@@ -1,0 +1,73 @@
+{
+  "id": 1209917051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.27749,35.30291,64.27749,35.30291",
+    "geom:latitude":35.30291,
+    "geom:longitude":64.27749,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1904.0",
+    "gn:asciiname":"'Arabha",
+    "gn:country_code":"AF",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1148493,
+    "gn:latitude":35.30291,
+    "gn:longitude":64.27749,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Arabh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u2018Arabh\u0101",
+        "\u0639\u0631\u0628 \u0647\u0627",
+        "\u2018A\u1e5fabh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148493
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6370f5ac7e8c0fd50a656a2b9f07ce36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1209917051,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1209917051,
+    "wof:lastmodified":1537582344,
+    "wof:name":"'Arabha",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.27749,
+    35.30291,
+    64.27749,
+    35.30291
+],
+  "geometry": {"coordinates":[64.27749,35.30291],"type":"Point"}
+}

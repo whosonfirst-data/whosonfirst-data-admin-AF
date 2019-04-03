@@ -1,0 +1,77 @@
+{
+  "id": 1276927365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45914,31.53975,67.45914,31.53975",
+    "geom:latitude":31.53975,
+    "geom:longitude":67.45914,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Ganatey",
+    "gn:country_code":"AF",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1436032,
+    "gn:latitude":31.53975,
+    "gn:longitude":67.45914,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ganat\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ganatay",
+        "Ganat\u00eay",
+        "\u06af\u0646\u062a\u06cd",
+        "Ganatey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436032
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dc84e376024e5c042e6f2af452ea5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1276927365,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276927365,
+    "wof:lastmodified":1537582792,
+    "wof:name":"Ganatey",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45914,
+    31.53975,
+    67.45914,
+    31.53975
+],
+  "geometry": {"coordinates":[67.45914,31.53975],"type":"Point"}
+}

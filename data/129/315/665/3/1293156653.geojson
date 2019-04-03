@@ -1,0 +1,74 @@
+{
+  "id": 1293156653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47217,37.04292,68.47217,37.04292",
+    "geom:latitude":37.04292,
+    "geom:longitude":68.47217,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Sakhsah Kol",
+    "gn:country_code":"AF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465239,
+    "gn:latitude":37.04292,
+    "gn:longitude":68.47217,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sakhsah K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakhsa Kol",
+        "Sakhsah Kowl",
+        "Sakhsah K\u014dl",
+        "\u0633\u062e\u0633\u0647 \u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465239
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34d5877fc5fd6d2f4f8f7439251aa7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562383,
+            "locality_id":1293156653,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1293156653,
+    "wof:lastmodified":1537583390,
+    "wof:name":"Sakhsah Kol",
+    "wof:parent_id":1108562383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47216999999999,
+    37.04292,
+    68.47216999999999,
+    37.04292
+],
+  "geometry": {"coordinates":[68.47216999999999,37.04292],"type":"Point"}
+}

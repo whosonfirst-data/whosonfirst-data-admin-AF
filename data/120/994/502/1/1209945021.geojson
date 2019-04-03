@@ -1,0 +1,74 @@
+{
+  "id": 1209945021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91678,32.73519,65.91678,32.73519",
+    "geom:latitude":32.73519,
+    "geom:longitude":65.91678,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Shah Zafar",
+    "gn:country_code":"AF",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125816,
+    "gn:latitude":32.73519,
+    "gn:longitude":65.91678,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Z\u0327afar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101h Zafar",
+        "Shakh-Zafar",
+        "Sh\u0101h Z\u0327afar",
+        "\u0634\u0627\u0647 \u0638\u0641\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125816
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32753a50855b558742240f1fa946ffa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1209945021,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1209945021,
+    "wof:lastmodified":1537580418,
+    "wof:name":"Shah Zafar",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91678,
+    32.73519,
+    65.91678,
+    32.73519
+],
+  "geometry": {"coordinates":[65.91678,32.73519],"type":"Point"}
+}

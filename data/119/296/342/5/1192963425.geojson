@@ -1,0 +1,78 @@
+{
+  "id": 1192963425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50533,35.20439,71.50533,35.20439",
+    "geom:latitude":35.20439,
+    "geom:longitude":71.50533,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1005.0",
+    "gn:asciiname":"Shakarid Khune",
+    "gn:country_code":"AF",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452361,
+    "gn:latitude":35.20439,
+    "gn:longitude":71.50533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakarid Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0643\u0631\u062f \u062e\u0648\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0160akared Kh\u016bn\u0113",
+        "Shakaredkhune",
+        "Shakared Kh\u016bn\u0113",
+        "Shakarid Kh\u016bn\u0113",
+        "\u0634\u0643\u0631\u062f \u062e\u0648\u0646\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452361
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f26b819548f63ead9fd6dcfcafb0a74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562307,
+            "locality_id":1192963425,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1192963425,
+    "wof:lastmodified":1537583095,
+    "wof:name":"Shakarid Khune",
+    "wof:parent_id":1108562307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50533,
+    35.20439000000001,
+    71.50533,
+    35.20439000000001
+],
+  "geometry": {"coordinates":[71.50533,35.20439000000001],"type":"Point"}
+}

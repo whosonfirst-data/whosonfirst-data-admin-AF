@@ -1,0 +1,73 @@
+{
+  "id": 1209796573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.58564,34.82134,62.58564,34.82134",
+    "geom:latitude":34.82134,
+    "geom:longitude":62.58564,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2016",
+    "gn:asciiname":"Kham-e Sabz",
+    "gn:country_code":"AF",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137207,
+    "gn:latitude":34.82134,
+    "gn:longitude":62.58564,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kham-e Sabz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kham-i-Sabz",
+        "Kham-e Sabz",
+        "\u062e\u0645 \u0633\u0628\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137207
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cfc4f569ba0a4bff994af70af7ed5b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562217,
+            "locality_id":1209796573,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209796573,
+    "wof:lastmodified":1537581402,
+    "wof:name":"Kham-e Sabz",
+    "wof:parent_id":1108562217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.58564000000001,
+    34.82134,
+    62.58564000000001,
+    34.82134
+],
+  "geometry": {"coordinates":[62.58564000000001,34.82134],"type":"Point"}
+}

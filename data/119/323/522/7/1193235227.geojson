@@ -1,0 +1,72 @@
+{
+  "id": 1193235227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.73383,37.372,69.73383,37.372",
+    "geom:latitude":37.372,
+    "geom:longitude":69.73383,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208",
+    "gn:asciiname":"Karim Bay",
+    "gn:country_code":"AF",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138132,
+    "gn:latitude":37.372,
+    "gn:longitude":69.73383,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kar\u012bm B\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u012bm B\u0101y",
+        "\u06a9\u0631\u06cc\u0645 \u0628\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138132
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07b7f39ad028a9ad550622791db3a2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1193235227,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1193235227,
+    "wof:lastmodified":1537581482,
+    "wof:name":"Karim Bay",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.73383000000001,
+    37.372,
+    69.73383000000001,
+    37.372
+],
+  "geometry": {"coordinates":[69.73383000000001,37.372],"type":"Point"}
+}

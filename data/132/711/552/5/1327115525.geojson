@@ -1,0 +1,74 @@
+{
+  "id": 1327115525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.90382,34.42404,63.90382,34.42404",
+    "geom:latitude":34.42404,
+    "geom:longitude":63.90382,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Shishwi",
+    "gn:country_code":"AF",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125304,
+    "gn:latitude":34.42404,
+    "gn:longitude":63.90382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shishw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160e\u0161wi",
+        "Shishw\u012b",
+        "\u0634\u0634\u0648\u06cc",
+        "Sheshwi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eef3c8dc635f9bbd73c32a3aea294281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1327115525,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1327115525,
+    "wof:lastmodified":1537580377,
+    "wof:name":"Shishwi",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.90382,
+    34.42404000000001,
+    63.90382,
+    34.42404000000001
+],
+  "geometry": {"coordinates":[63.90382,34.42404000000001],"type":"Point"}
+}

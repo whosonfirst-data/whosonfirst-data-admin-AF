@@ -1,0 +1,80 @@
+{
+  "id": 1226532875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.02646,33.02295,68.02646,33.02295",
+    "geom:latitude":33.02295,
+    "geom:longitude":68.02646,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Junubi Taraki",
+    "gn:country_code":"AF",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438900,
+    "gn:latitude":33.02295,
+    "gn:longitude":68.02646,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b Tarak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0643\u0626 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Jan\u016bbi Ta\u1e5faki",
+        "Dzhanubi-Taraki",
+        "Ta\u1e5faki Jan\u016bbi",
+        "Tarak-e Jon\u016bb\u012b",
+        "Jun\u016bb\u012b Tarak\u012b",
+        "\u062c\u0646\u0648\u0628\u06cc \u062a\u0631\u06a9\u06cc",
+        "\u062a\u0631\u0643\u0626 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438900
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bd9472d4daa94bc67195b03d5d20d51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1226532875,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226532875,
+    "wof:lastmodified":1537582901,
+    "wof:name":"Junubi Taraki",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.02646,
+    33.02295,
+    68.02646,
+    33.02295
+],
+  "geometry": {"coordinates":[68.02646,33.02295],"type":"Point"}
+}

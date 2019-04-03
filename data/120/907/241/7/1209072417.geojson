@@ -1,0 +1,62 @@
+{
+  "id": 1209072417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23903,34.13948,70.23903,34.13948",
+    "geom:latitude":34.13948,
+    "geom:longitude":70.23903,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Mirza Bagh",
+    "gn:country_code":"AF",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108937,
+    "gn:latitude":34.13948,
+    "gn:longitude":70.23903,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012brz\u0101 B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108937
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"977f8ef257fdfde8df57210975d93a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209072417
+        }
+    ],
+    "wof:id":1209072417,
+    "wof:lastmodified":1536298603,
+    "wof:name":"Mirza Bagh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23903,
+    34.13948,
+    70.23903,
+    34.13948
+],
+  "geometry": {"coordinates":[70.23903,34.13948],"type":"Point"}
+}

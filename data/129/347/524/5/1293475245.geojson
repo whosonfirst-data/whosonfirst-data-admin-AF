@@ -1,0 +1,76 @@
+{
+  "id": 1293475245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16768,33.63325,68.16768,33.63325",
+    "geom:latitude":33.63325,
+    "geom:longitude":68.16768,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"617",
+    "gn:asciiname":"Sakini",
+    "gn:country_code":"AF",
+    "gn:dem":2723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127894,
+    "gn:latitude":33.63325,
+    "gn:longitude":68.16768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sak\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0643\u064a\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sak\u012bn\u012b",
+        "\u0633\u06a9\u06cc\u0646\u06cc",
+        "Sakini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127894
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e69b720972d5b1796597d18b39365222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562405,
+            "locality_id":1293475245,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293475245,
+    "wof:lastmodified":1537580587,
+    "wof:name":"Sakini",
+    "wof:parent_id":1108562405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16768,
+    33.63325,
+    68.16768,
+    33.63325
+],
+  "geometry": {"coordinates":[68.16768,33.63325],"type":"Point"}
+}

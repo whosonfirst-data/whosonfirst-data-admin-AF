@@ -1,0 +1,82 @@
+{
+  "id": 1243072313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26697,34.8763,67.26697,34.8763",
+    "geom:latitude":34.8763,
+    "geom:longitude":67.26697,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Ab Qol",
+    "gn:country_code":"AF",
+    "gn:dem":3125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149481,
+    "gn:latitude":34.8763,
+    "gn:longitude":67.26697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0642\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Abkul\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u0431\u043a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u0100bq\u014dl",
+        "\u0100b Q\u014dl",
+        "\u0100bqowl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149481
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3adfaf704b69a06b1e84eac37820efb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1243072313,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243072313,
+    "wof:lastmodified":1537582421,
+    "wof:name":"Ab Qol",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26697,
+    34.8763,
+    67.26697,
+    34.8763
+],
+  "geometry": {"coordinates":[67.26697,34.8763],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259472737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.72405,34.47931,64.72405,34.47931",
+    "geom:latitude":34.47931,
+    "geom:longitude":64.72405,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Shorak",
+    "gn:country_code":"AF",
+    "gn:dem":2545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124802,
+    "gn:latitude":34.47931,
+    "gn:longitude":64.72405,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160orak",
+        "Shorak",
+        "Sh\u016brak",
+        "Sh\u014drak",
+        "\u0634\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124802
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0836a68e8297ef97a83126b6c047150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1259472737,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259472737,
+    "wof:lastmodified":1537580328,
+    "wof:name":"Shorak",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.72405,
+    34.47931,
+    64.72405,
+    34.47931
+],
+  "geometry": {"coordinates":[64.72405000000001,34.47931],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309766673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.83408,36.70585,66.83408,36.70585",
+    "geom:latitude":36.70585,
+    "geom:longitude":66.83408,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606.0",
+    "gn:asciiname":"Chahar Sang",
+    "gn:country_code":"AF",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145291,
+    "gn:latitude":36.70585,
+    "gn:longitude":66.83408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631 \u0633\u0646\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0441\u0430\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101r Sang",
+        "Charsang",
+        "Chah\u0101r Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145291
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63ce57437ac3ec62af8ad37344734814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1309766673,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1309766673,
+    "wof:lastmodified":1537582091,
+    "wof:name":"Chahar Sang",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.83408,
+    36.70585,
+    66.83408,
+    36.70585
+],
+  "geometry": {"coordinates":[66.83408,36.70585],"type":"Point"}
+}

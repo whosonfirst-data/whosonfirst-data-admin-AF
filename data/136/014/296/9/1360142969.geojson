@@ -1,0 +1,78 @@
+{
+  "id": 1360142969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20845,31.54787,66.20845,31.54787",
+    "geom:latitude":31.54787,
+    "geom:longitude":66.20845,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Khowganay",
+    "gn:country_code":"AF",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136440,
+    "gn:latitude":31.54787,
+    "gn:longitude":66.20845,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khowg\u0101\u1e49ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaohani",
+        "Khauganay",
+        "Khug\u012b\u0101ni",
+        "Khawg\u0101\u1e49ay",
+        "Khowg\u0101\u1e49ay",
+        "Khaw\u0101nay",
+        "\u062e\u0648\u06af\u0627\u06bc\u06cc",
+        "Kh\u016bg\u012b\u0101n\u012b S\u0304\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136440
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf5b680890fefe2fc9396bea8ccf4e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1360142969,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360142969,
+    "wof:lastmodified":1537581342,
+    "wof:name":"Khowganay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20845,
+    31.54787,
+    66.20845,
+    31.54787
+],
+  "geometry": {"coordinates":[66.20845,31.54787],"type":"Point"}
+}

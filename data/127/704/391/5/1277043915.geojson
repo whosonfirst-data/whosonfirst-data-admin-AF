@@ -1,0 +1,75 @@
+{
+  "id": 1277043915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51775,31.95428,65.51775,31.95428",
+    "geom:latitude":31.95428,
+    "geom:longitude":65.51775,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2405",
+    "gn:asciiname":"Zaylabad wa Ghulaman",
+    "gn:country_code":"AF",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120751,
+    "gn:latitude":31.95428,
+    "gn:longitude":65.51775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zayl\u0101b\u0101d wa Ghul\u0101m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaylabad-va-Gulyaman",
+        "Zayl\u0101b\u0101\u1e0f wa Ghol\u0101m\u0101n",
+        "Zayl\u0101b\u0101d wa Ghul\u0101m\u0101n",
+        "\u0632\u06cc\u0644 \u0622\u0628\u0627\u062f \u0648 \u063a\u0644\u0627\u0645\u0627\u0646",
+        "Zayl\u0101b\u0101\u1e0f va Ghol\u0101m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120751
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fecd6838db99ff3101fa2ec488496923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562141,
+            "locality_id":1277043915,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1277043915,
+    "wof:lastmodified":1537579962,
+    "wof:name":"Zaylabad wa Ghulaman",
+    "wof:parent_id":1108562141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51775,
+    31.95428,
+    65.51775,
+    31.95428
+],
+  "geometry": {"coordinates":[65.51775000000001,31.95428],"type":"Point"}
+}

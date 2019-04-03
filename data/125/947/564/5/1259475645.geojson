@@ -1,0 +1,78 @@
+{
+  "id": 1259475645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.09566,32.36326,62.09566,32.36326",
+    "geom:latitude":32.36326,
+    "geom:longitude":62.09566,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2101",
+    "gn:asciiname":"Qaryah-ye Sang Zor",
+    "gn:country_code":"AF",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129311,
+    "gn:latitude":32.36326,
+    "gn:longitude":62.09566,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Sang Z\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Sang-Zor"
+    ],
+    "name:und_x_variant":[
+        "Qaryeh-ye Sang Z\u014dr",
+        "Qa\u1e5fya-i-Sang Z\u014d\u1e5f",
+        "Qaryeh-ye Sang Z\u016br",
+        "Qaryah-ye Sang Z\u014dr",
+        "\u0642\u0631\u06cc\u0647 \u0633\u0646\u06af \u0632\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129311
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d767b6043062bc6eb76a5b83338bb95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1259475645,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1259475645,
+    "wof:lastmodified":1537580706,
+    "wof:name":"Qaryah-ye Sang Zor",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.09566,
+    32.36326,
+    62.09566,
+    32.36326
+],
+  "geometry": {"coordinates":[62.09566,32.36326],"type":"Point"}
+}

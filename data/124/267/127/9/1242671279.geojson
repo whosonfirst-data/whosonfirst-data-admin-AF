@@ -1,0 +1,73 @@
+{
+  "id": 1242671279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.2919,32.27885,64.2919,32.27885",
+    "geom:latitude":32.27885,
+    "geom:longitude":64.2919,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Lundak",
+    "gn:country_code":"AF",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134466,
+    "gn:latitude":32.27885,
+    "gn:longitude":64.2919,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lun\u1e0fak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lun\u1e0fak",
+        "\u0644\u0646\u0689\u06a9",
+        "Lundak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134466
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"becaa756825d83b63bf06693e2383ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1242671279,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242671279,
+    "wof:lastmodified":1537581178,
+    "wof:name":"Lundak",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.2919,
+    32.27885,
+    64.2919,
+    32.27885
+],
+  "geometry": {"coordinates":[64.2919,32.27885],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242770137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.74435,32.81517,63.74435,32.81517",
+    "geom:latitude":32.81517,
+    "geom:longitude":63.74435,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Wal",
+    "gn:country_code":"AF",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443960,
+    "gn:latitude":32.81517,
+    "gn:longitude":63.74435,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101l",
+        "\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a454d59425cb06729876efd3dacd4ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1242770137,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242770137,
+    "wof:lastmodified":1537582952,
+    "wof:name":"Wal",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.74435,
+    32.81517,
+    63.74435,
+    32.81517
+],
+  "geometry": {"coordinates":[63.74435,32.81517],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326775655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34611,35.02889,71.34611,35.02889",
+    "geom:latitude":35.02889,
+    "geom:longitude":71.34611,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Bar Konar",
+    "gn:country_code":"AF",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146893,
+    "gn:latitude":35.02889,
+    "gn:longitude":71.34611,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Kon\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631 \u0643\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bar Kon\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146893
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"af61e54f457f95e6dd9d0c7d4bd34472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561857,
+            "locality_id":1326775655,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326775655,
+    "wof:lastmodified":1537582221,
+    "wof:name":"Bar Konar",
+    "wof:parent_id":1108561857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34611,
+    35.02889,
+    71.34611,
+    35.02889
+],
+  "geometry": {"coordinates":[71.34611,35.02889],"type":"Point"}
+}

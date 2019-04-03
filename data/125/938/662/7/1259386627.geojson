@@ -1,0 +1,74 @@
+{
+  "id": 1259386627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41763,37.37548,71.41763,37.37548",
+    "geom:latitude":37.37548,
+    "geom:longitude":71.41763,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Arakht",
+    "gn:country_code":"AF",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148472,
+    "gn:latitude":37.37548,
+    "gn:longitude":71.41763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arakht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakht",
+        "\u0627\u0631\u062e\u062a",
+        "Arakht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148472,
+        "wk:page":"Arakht"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80812feb0ce62f88698da12981f5ed74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1259386627,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259386627,
+    "wof:lastmodified":1537582342,
+    "wof:name":"Arakht",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41763,
+    37.37548,
+    71.41763,
+    37.37548
+],
+  "geometry": {"coordinates":[71.41763,37.37548],"type":"Point"}
+}

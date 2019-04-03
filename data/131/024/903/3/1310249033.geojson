@@ -1,0 +1,81 @@
+{
+  "id": 1310249033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27425,33.77979,69.27425,33.77979",
+    "geom:latitude":33.77979,
+    "geom:longitude":69.27425,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705",
+    "gn:asciiname":"Kuz Zarin Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1135080,
+    "gn:latitude":33.77979,
+    "gn:longitude":69.27425,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bz Zar\u012bn Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0632 \u0632\u0631\u064a\u0646 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kuz-Zarinkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u016bz Za\u1e5f\u012bnkh\u0113l",
+        "K\u016bz Zarr\u012bn Kheyl",
+        "\u0643\u0648\u0632 \u0632\u0631\u064a\u0646 \u062e\u064a\u0644",
+        "K\u016bz Zar\u012bn Kh\u0113l",
+        "\u06a9\u0648\u0632 \u0632\u0631\u06cc\u0646 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135080
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd720d05eb1c7baea3cdf496ec9f4d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561783,
+            "locality_id":1310249033,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310249033,
+    "wof:lastmodified":1537581222,
+    "wof:name":"Kuz Zarin Khel",
+    "wof:parent_id":1108561783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27425,
+    33.77979000000001,
+    69.27425,
+    33.77979000000001
+],
+  "geometry": {"coordinates":[69.27424999999999,33.77979000000001],"type":"Point"}
+}

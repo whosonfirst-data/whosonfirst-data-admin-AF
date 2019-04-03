@@ -1,0 +1,75 @@
+{
+  "id": 1243351391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.02221,34.34302,62.02221,34.34302",
+    "geom:latitude":34.34302,
+    "geom:longitude":62.02221,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Shorabad",
+    "gn:country_code":"AF",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472185,
+    "gn:latitude":34.34302,
+    "gn:longitude":62.02221,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160or \u0100b\u0101d",
+        "Shorabad",
+        "Sh\u014dr\u0101b\u0101d",
+        "Sh\u016br\u0101b\u0101d",
+        "\u0634\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472185
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c00a7fe5a4b6f0dbdef725ba2957d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1243351391,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1243351391,
+    "wof:lastmodified":1537583674,
+    "wof:name":"Shorabad",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.02221,
+    34.34302,
+    62.02221,
+    34.34302
+],
+  "geometry": {"coordinates":[62.02221,34.34302],"type":"Point"}
+}

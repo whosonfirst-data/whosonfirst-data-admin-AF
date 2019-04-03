@@ -1,0 +1,74 @@
+{
+  "id": 1242591419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90269,36.85218,70.90269,36.85218",
+    "geom:latitude":36.85218,
+    "geom:longitude":70.90269,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Kyip",
+    "gn:country_code":"AF",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135073,
+    "gn:latitude":36.85218,
+    "gn:longitude":70.90269,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ky\u012bp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u06cc\u067e",
+        "Ky\u012bp",
+        "Kyip",
+        "\u06a9\u06cc\u06cc\u067e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135073
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02479f3fbd0d626f4e63e29c2b48e5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1242591419,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1242591419,
+    "wof:lastmodified":1537581221,
+    "wof:name":"Kyip",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90269,
+    36.85218,
+    70.90269,
+    36.85218
+],
+  "geometry": {"coordinates":[70.90269000000001,36.85218],"type":"Point"}
+}

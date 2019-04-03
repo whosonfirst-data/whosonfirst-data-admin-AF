@@ -1,0 +1,73 @@
+{
+  "id": 1226650081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60915,36.28901,70.60915,36.28901",
+    "geom:latitude":36.28901,
+    "geom:longitude":70.60915,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Nishi",
+    "gn:country_code":"AF",
+    "gn:dem":2901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131914,
+    "gn:latitude":36.28901,
+    "gn:longitude":70.60915,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nish\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nish\u012b",
+        "\u0646\u0634\u06cc",
+        "Neshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131914
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"85b10037816d7282cb6fcfae25f312e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1226650081,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226650081,
+    "wof:lastmodified":1537580963,
+    "wof:name":"Nishi",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60915,
+    36.28901,
+    70.60915,
+    36.28901
+],
+  "geometry": {"coordinates":[70.60915,36.28901],"type":"Point"}
+}

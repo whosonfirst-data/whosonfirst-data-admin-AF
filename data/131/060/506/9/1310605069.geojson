@@ -1,0 +1,71 @@
+{
+  "id": 1310605069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49545,36.99018,70.49545,36.99018",
+    "geom:latitude":36.99018,
+    "geom:longitude":70.49545,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115",
+    "gn:asciiname":"Deh Magas",
+    "gn:country_code":"AF",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143452,
+    "gn:latitude":36.99018,
+    "gn:longitude":70.49545,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Magas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0647 \u0645\u06af\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143452
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"331dc4c0d3888f0756ebea615310e2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1310605069,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310605069,
+    "wof:lastmodified":1537581917,
+    "wof:name":"Deh Magas",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49545,
+    36.99018,
+    70.49545,
+    36.99018
+],
+  "geometry": {"coordinates":[70.49545000000001,36.99018],"type":"Point"}
+}

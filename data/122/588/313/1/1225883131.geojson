@@ -1,0 +1,80 @@
+{
+  "id": 1225883131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.32599,35.42254,71.32599,35.42254",
+    "geom:latitude":35.42254,
+    "geom:longitude":71.32599,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"Ormol",
+    "gn:country_code":"AF",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423890,
+    "gn:latitude":35.42254,
+    "gn:longitude":71.32599,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014crm\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0645\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Ormol\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u014c\u1e5fm\u014dl",
+        "\u0627\u0648\u0631\u0645\u0648\u0644",
+        "\u016arm\u016bl",
+        "\u014crm\u014dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423890
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e5d2ae80d60711907138db42340e8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562127,
+            "locality_id":1225883131,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1225883131,
+    "wof:lastmodified":1537582588,
+    "wof:name":"Ormol",
+    "wof:parent_id":1108562127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.32599,
+    35.42254000000001,
+    71.32599,
+    35.42254000000001
+],
+  "geometry": {"coordinates":[71.32599,35.42254000000001],"type":"Point"}
+}

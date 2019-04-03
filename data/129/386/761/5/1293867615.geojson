@@ -1,0 +1,75 @@
+{
+  "id": 1293867615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05326,32.51496,65.05326,32.51496",
+    "geom:latitude":32.51496,
+    "geom:longitude":65.05326,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Dayhak",
+    "gn:country_code":"AF",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143648,
+    "gn:latitude":32.51496,
+    "gn:longitude":65.05326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dayhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Di Yak",
+        "Dekhak",
+        "Dayhak",
+        "\u062f\u06cc\u0647\u06a9",
+        "D\u0113hak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143648
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0a668bc749d6bb65fbf86ff752085e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1293867615,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293867615,
+    "wof:lastmodified":1537581940,
+    "wof:name":"Dayhak",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05326,
+    32.51495999999999,
+    65.05326,
+    32.51495999999999
+],
+  "geometry": {"coordinates":[65.05325999999999,32.51495999999999],"type":"Point"}
+}

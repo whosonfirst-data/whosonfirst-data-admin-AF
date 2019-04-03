@@ -1,0 +1,74 @@
+{
+  "id": 1343457683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70287,34.22271,66.70287,34.22271",
+    "geom:latitude":34.22271,
+    "geom:longitude":66.70287,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Shutur Murdah",
+    "gn:country_code":"AF",
+    "gn:dem":3002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458231,
+    "gn:latitude":34.22271,
+    "gn:longitude":66.70287,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shutur Murdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuturmurda",
+        "\u0160oturmurda",
+        "Shutur Murdah",
+        "\u0633\u062a\u0631 \u0645\u0631\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458231
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e2adeeb315c0770f16c2d6b7024965ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1343457683,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343457683,
+    "wof:lastmodified":1537583259,
+    "wof:name":"Shutur Murdah",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70286999999999,
+    34.22271,
+    66.70286999999999,
+    34.22271
+],
+  "geometry": {"coordinates":[66.70286999999999,34.22271],"type":"Point"}
+}

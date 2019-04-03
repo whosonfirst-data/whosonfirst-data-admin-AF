@@ -1,0 +1,75 @@
+{
+  "id": 1192984033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.69079,31.44602,62.69079,31.44602",
+    "geom:latitude":31.44602,
+    "geom:longitude":62.69079,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Loy Razay",
+    "gn:country_code":"AF",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134424,
+    "gn:latitude":31.44602,
+    "gn:longitude":62.69079,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy R\u0101\u1e95ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dy R\u0101dzay",
+        "L\u016by R\u0101dzay",
+        "L\u014dy R\u0101\u1e95ay",
+        "\u0644\u0648\u06cc \u0631\u0627\u0636\u06cc",
+        "L\u016by R\u0101\u1e95ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134424
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98cb9a68ec4b0bf45652a7f9fe76b7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562159,
+            "locality_id":1192984033,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1192984033,
+    "wof:lastmodified":1537581175,
+    "wof:name":"Loy Razay",
+    "wof:parent_id":1108562159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.69079,
+    31.44602,
+    62.69079,
+    31.44602
+],
+  "geometry": {"coordinates":[62.69079,31.44602],"type":"Point"}
+}

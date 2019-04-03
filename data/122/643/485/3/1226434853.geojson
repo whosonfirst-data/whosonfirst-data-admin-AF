@@ -1,0 +1,75 @@
+{
+  "id": 1226434853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.08165,32.63669,62.08165,32.63669",
+    "geom:latitude":32.63669,
+    "geom:longitude":62.08165,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2106",
+    "gn:asciiname":"Sarkari Karez",
+    "gn:country_code":"AF",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126933,
+    "gn:latitude":32.63669,
+    "gn:longitude":62.08165,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sark\u0101r\u012b K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fk\u0101\u1e5f\u012b K\u0101\u1e5f\u0113z",
+        "Sarkarikarez",
+        "Sark\u0101r\u012b K\u0101r\u012bz",
+        "Sark\u0101r\u012b K\u0101r\u0113z",
+        "\u0633\u0631\u06a9\u0627\u0631\u06cc \u06a9\u0627\u0631\u06d0\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d892c8d004b86b3da3e6ce6beae9f5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562137,
+            "locality_id":1226434853,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226434853,
+    "wof:lastmodified":1537580514,
+    "wof:name":"Sarkari Karez",
+    "wof:parent_id":1108562137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.08165,
+    32.63669,
+    62.08165,
+    32.63669
+],
+  "geometry": {"coordinates":[62.08165,32.63669],"type":"Point"}
+}

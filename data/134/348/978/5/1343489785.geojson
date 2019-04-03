@@ -1,0 +1,72 @@
+{
+  "id": 1343489785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.83095,36.60127,65.83095,36.60127",
+    "geom:latitude":36.60127,
+    "geom:longitude":65.83095,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Salmazan",
+    "gn:country_code":"AF",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127811,
+    "gn:latitude":36.60127,
+    "gn:longitude":65.83095,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salmazan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0644\u0645\u0632\u0646",
+        "S\u0101lmaz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127811
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f1dfe0f23e2d01dd3d912b2ab19ae2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1343489785,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1343489785,
+    "wof:lastmodified":1537580580,
+    "wof:name":"Salmazan",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.83095,
+    36.60127,
+    65.83095,
+    36.60127
+],
+  "geometry": {"coordinates":[65.83095,36.60127],"type":"Point"}
+}

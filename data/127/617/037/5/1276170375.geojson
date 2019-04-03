@@ -1,0 +1,83 @@
+{
+  "id": 1276170375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75169,36.72797,66.75169,36.72797",
+    "geom:latitude":36.72797,
+    "geom:longitude":66.75169,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1607",
+    "gn:asciiname":"Stin",
+    "gn:country_code":"AF",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123761,
+    "gn:latitude":36.72797,
+    "gn:longitude":66.75169,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Stin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u064a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sten",
+        "Stin",
+        "St\u012bn",
+        "\u0633\u062a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123761
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b110b604aaab8bcee9d6bd9645bff200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561883,
+            "locality_id":1276170375,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276170375,
+    "wof:lastmodified":1537580249,
+    "wof:name":"Stin",
+    "wof:parent_id":1108561883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75169,
+    36.72797,
+    66.75169,
+    36.72797
+],
+  "geometry": {"coordinates":[66.75169,36.72797],"type":"Point"}
+}

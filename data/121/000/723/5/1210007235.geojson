@@ -1,0 +1,82 @@
+{
+  "id": 1210007235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0014,33.35388,68.0014,33.35388",
+    "geom:latitude":33.35388,
+    "geom:longitude":68.0014,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Dulanah",
+    "gn:country_code":"AF",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142882,
+    "gn:latitude":33.35388,
+    "gn:longitude":68.0014,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dul\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0644\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0644\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eol\u0101na",
+        "Dulana",
+        "Dol\u0101neh",
+        "D\u014d L\u0101nah",
+        "Dol\u0101nah",
+        "Dul\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142882
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"caa77d8eb7e1061fe10353dffed8bf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1210007235,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1210007235,
+    "wof:lastmodified":1537581868,
+    "wof:name":"Dulanah",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0014,
+    33.35388,
+    68.0014,
+    33.35388
+],
+  "geometry": {"coordinates":[68.0014,33.35388],"type":"Point"}
+}

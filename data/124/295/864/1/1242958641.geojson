@@ -1,0 +1,74 @@
+{
+  "id": 1242958641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.82476,32.50345,67.82476,32.50345",
+    "geom:latitude":32.50345,
+    "geom:longitude":67.82476,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Ghizgay",
+    "gn:country_code":"AF",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141215,
+    "gn:latitude":32.50345,
+    "gn:longitude":67.82476,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghizgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gizgay",
+        "Ghizgay",
+        "\u063a\u0632\u06af\u06cc",
+        "Ghezgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141215
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9523bd1d63cdef63488f82d60e957eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1242958641,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242958641,
+    "wof:lastmodified":1537581735,
+    "wof:name":"Ghizgay",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.82476,
+    32.50345,
+    67.82476,
+    32.50345
+],
+  "geometry": {"coordinates":[67.82476,32.50345],"type":"Point"}
+}

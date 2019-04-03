@@ -1,0 +1,81 @@
+{
+  "id": 1242663709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.48261,34.5075,69.48261,34.5075",
+    "geom:latitude":34.5075,
+    "geom:longitude":69.48261,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"111.0",
+    "gn:asciiname":"Chinarai",
+    "gn:country_code":"AF",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145090,
+    "gn:latitude":34.5075,
+    "gn:longitude":69.48261,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chin\u0101ra\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u010cen\u0101ray",
+        "Chin\u0101ri",
+        "Chinaray",
+        "Chen\u0101r\u012b",
+        "\u0686\u0646\u0627\u0631\u06cc",
+        "Chin\u0101ra\u012b",
+        "Chin\u0101ra\u012b K\u00ealay",
+        "\u0686\u0646\u0627\u0631\u06cc \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145090
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3dc1135c97c16fec53a820cb5776c78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562135,
+            "locality_id":1242663709,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1242663709,
+    "wof:lastmodified":1537582073,
+    "wof:name":"Chinarai",
+    "wof:parent_id":1108562135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.48261,
+    34.5075,
+    69.48261,
+    34.5075
+],
+  "geometry": {"coordinates":[69.48260999999999,34.5075],"type":"Point"}
+}

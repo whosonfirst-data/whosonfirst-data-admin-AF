@@ -1,0 +1,81 @@
+{
+  "id": 1209867115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05366,32.21556,67.05366,32.21556",
+    "geom:latitude":32.21556,
+    "geom:longitude":67.05366,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Mughulzi Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133123,
+    "gn:latitude":32.21556,
+    "gn:longitude":67.05366,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mughulz\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0645\u063a\u0648\u0644\u0632\u0627\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Magul\u2019zikalay"
+    ],
+    "name:und_x_variant":[
+        "Moghulzi Kalay",
+        "Mogholz\u0101y Kalay",
+        "Mughulz\u012b K\u00ealay",
+        "\u0645\u063a\u0644\u0632\u06cc \u06a9\u0644\u06cc",
+        "Moghowlz\u0101y Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b75babb39c399fcff813523bc1ac6854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1209867115,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209867115,
+    "wof:lastmodified":1537581069,
+    "wof:name":"Mughulzi Kelay",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05366,
+    32.21556,
+    67.05366,
+    32.21556
+],
+  "geometry": {"coordinates":[67.05365999999999,32.21556],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293592125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.64555,35.13091,64.64555,35.13091",
+    "geom:latitude":35.13091,
+    "geom:longitude":64.64555,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Sarji",
+    "gn:country_code":"AF",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126945,
+    "gn:latitude":35.13091,
+    "gn:longitude":64.64555,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarj\u012b",
+        "\u0633\u0631\u062c\u06cc",
+        "Sa\u1e5fji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126945
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc663c288b6d88204c305458d6b2fe55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1293592125,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293592125,
+    "wof:lastmodified":1537580515,
+    "wof:name":"Sarji",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.64555,
+    35.13091,
+    64.64555,
+    35.13091
+],
+  "geometry": {"coordinates":[64.64555,35.13091],"type":"Point"}
+}

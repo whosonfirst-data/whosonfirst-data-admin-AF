@@ -1,0 +1,73 @@
+{
+  "id": 1226056439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1039,36.97556,70.1039,36.97556",
+    "geom:latitude":36.97556,
+    "geom:longitude":70.1039,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124",
+    "gn:asciiname":"Ghaylawuk",
+    "gn:country_code":"AF",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141246,
+    "gn:latitude":36.97556,
+    "gn:longitude":70.1039,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghayl\u0101w\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghayl\u0101w\u016bk",
+        "\u063a\u06cc\u0644\u0627\u0648\u06a9",
+        "Gh\u0113l\u0101w\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141246
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"844caa0dabc852fd1b39451848af1116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1226056439,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226056439,
+    "wof:lastmodified":1537581737,
+    "wof:name":"Ghaylawuk",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1039,
+    36.97556,
+    70.1039,
+    36.97556
+],
+  "geometry": {"coordinates":[70.1039,36.97556],"type":"Point"}
+}

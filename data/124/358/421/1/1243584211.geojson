@@ -1,0 +1,74 @@
+{
+  "id": 1243584211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08249,35.68525,70.08249,35.68525",
+    "geom:latitude":35.68525,
+    "geom:longitude":70.08249,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3304.0",
+    "gn:asciiname":"Kosur",
+    "gn:country_code":"AF",
+    "gn:dem":2851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456046,
+    "gn:latitude":35.68525,
+    "gn:longitude":70.08249,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014ds\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014ds\u016b\u1e5f",
+        "K\u016bsowr",
+        "\u06a9\u0648\u0633\u0648\u0631",
+        "K\u014ds\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456046
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b618975377aab38b57d8b83df97fc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562351,
+            "locality_id":1243584211,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1243584211,
+    "wof:lastmodified":1537583166,
+    "wof:name":"Kosur",
+    "wof:parent_id":1108562351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08249,
+    35.68525,
+    70.08249,
+    35.68525
+],
+  "geometry": {"coordinates":[70.08249000000001,35.68525],"type":"Point"}
+}

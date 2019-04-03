@@ -1,0 +1,73 @@
+{
+  "id": 1242907171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70263,33.01267,66.70263,33.01267",
+    "geom:latitude":33.01267,
+    "geom:longitude":66.70263,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"Kaji Jowz",
+    "gn:country_code":"AF",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346805,
+    "gn:latitude":33.01267,
+    "gn:longitude":66.70263,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj\u012b Jowz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaj\u012b Jowz",
+        "\u06a9\u062c\u06cc \u062c\u0648\u0632",
+        "Kaj\u012b Jawz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346805
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07e303344f0347c826c66ffa87e04f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1242907171,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242907171,
+    "wof:lastmodified":1537582448,
+    "wof:name":"Kaji Jowz",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70263,
+    33.01267,
+    66.70263,
+    33.01267
+],
+  "geometry": {"coordinates":[66.70263,33.01267],"type":"Point"}
+}

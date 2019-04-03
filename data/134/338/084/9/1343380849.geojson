@@ -1,0 +1,79 @@
+{
+  "id": 1343380849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0659,32.41562,68.0659,32.41562",
+    "geom:latitude":32.41562,
+    "geom:longitude":68.0659,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Malik Din",
+    "gn:country_code":"AF",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134158,
+    "gn:latitude":32.41562,
+    "gn:longitude":68.0659,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malik D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Malik D\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0644\u06a9 \u062f\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Malikdin Khel",
+        "Malek D\u012bn",
+        "\u0645\u0644\u06a9 \u062f\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134158
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d7252d782a156dc35aa57c16765e3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1343380849,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343380849,
+    "wof:lastmodified":1537581153,
+    "wof:name":"Malik Din",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0659,
+    32.41562,
+    68.0659,
+    32.41562
+],
+  "geometry": {"coordinates":[68.0659,32.41562],"type":"Point"}
+}

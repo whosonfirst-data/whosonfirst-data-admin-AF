@@ -1,0 +1,79 @@
+{
+  "id": 1243127991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93493,36.48152,68.93493,36.48152",
+    "geom:latitude":36.48152,
+    "geom:longitude":68.93493,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1405.0",
+    "gn:asciiname":"Birkah",
+    "gn:country_code":"AF",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146531,
+    "gn:latitude":36.48152,
+    "gn:longitude":68.93493,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Birkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Birka",
+        "Berkah",
+        "Be\u1e5fka",
+        "Berkeh",
+        "Birkah",
+        "\u0628\u0631\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b8a675cef1cf41c18f5ed2543d0a08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561791,
+            "locality_id":1243127991,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1243127991,
+    "wof:lastmodified":1537582193,
+    "wof:name":"Birkah",
+    "wof:parent_id":1108561791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93493000000001,
+    36.48152,
+    68.93493000000001,
+    36.48152
+],
+  "geometry": {"coordinates":[68.93493000000001,36.48152],"type":"Point"}
+}

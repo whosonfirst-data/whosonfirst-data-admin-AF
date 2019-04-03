@@ -1,0 +1,77 @@
+{
+  "id": 1310252147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46288,31.86774,66.46288,31.86774",
+    "geom:latitude":31.86774,
+    "geom:longitude":66.46288,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Sokhtah-ye Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453557,
+    "gn:latitude":31.86774,
+    "gn:longitude":66.46288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtah-ye Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jan\u016bbi",
+        "S\u014dkhta-ye Jan\u016bbi",
+        "Sokhta-Dzhanubi",
+        "S\u014dkhta",
+        "\u0633\u0648\u062e\u062a\u0647 \u062c\u0646\u0648\u0628\u06cc",
+        "S\u016bkhteh-ye Jon\u016bb\u012b",
+        "S\u014dkhtah-ye Jun\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453557
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bb8881b96b4c1ee146418cdf0760ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1310252147,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310252147,
+    "wof:lastmodified":1537583107,
+    "wof:name":"Sokhtah-ye Junubi",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46288,
+    31.86774,
+    66.46288,
+    31.86774
+],
+  "geometry": {"coordinates":[66.46288,31.86774],"type":"Point"}
+}

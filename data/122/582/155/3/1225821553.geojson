@@ -1,0 +1,76 @@
+{
+  "id": 1225821553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.9473,33.81414,68.9473,33.81414",
+    "geom:latitude":33.81414,
+    "geom:longitude":68.9473,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Bandokah",
+    "gn:country_code":"AF",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147145,
+    "gn:latitude":33.81414,
+    "gn:longitude":68.9473,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ban\u1e0f\u014dkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandoka",
+        "Band\u014dka",
+        "Band\u014dkah",
+        "Bandowkah",
+        "Ban\u1e0f\u014dkah",
+        "\u0628\u0646\u0689\u0648\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147145
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7c18c3a628ec119b1c4aa250fc22cec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561909,
+            "locality_id":1225821553,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1225821553,
+    "wof:lastmodified":1537582244,
+    "wof:name":"Bandokah",
+    "wof:parent_id":1108561909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.9473,
+    33.81414,
+    68.9473,
+    33.81414
+],
+  "geometry": {"coordinates":[68.9473,33.81414],"type":"Point"}
+}

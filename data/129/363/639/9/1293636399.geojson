@@ -1,0 +1,75 @@
+{
+  "id": 1293636399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.24197,32.93889,69.24197,32.93889",
+    "geom:latitude":32.93889,
+    "geom:longitude":69.24197,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Bibikot",
+    "gn:country_code":"AF",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434196,
+    "gn:latitude":32.93889,
+    "gn:longitude":69.24197,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bibikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibi K\u014dt",
+        "Bibikot",
+        "B\u012bb\u012b Kowt",
+        "B\u012bb\u012b K\u014d\u1e6f",
+        "\u0628\u06cc \u0628\u06cc \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434196
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"48b5c1ee8098b829806fa54a4af4ed4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562557,
+            "locality_id":1293636399,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293636399,
+    "wof:lastmodified":1537582708,
+    "wof:name":"Bibikot",
+    "wof:parent_id":1108562557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.24197,
+    32.93889,
+    69.24197,
+    32.93889
+],
+  "geometry": {"coordinates":[69.24196999999999,32.93889],"type":"Point"}
+}

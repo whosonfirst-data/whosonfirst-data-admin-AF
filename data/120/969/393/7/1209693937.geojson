@@ -1,0 +1,67 @@
+{
+  "id": 1209693937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.45869,35.33524,61.45869,35.33524",
+    "geom:latitude":35.33524,
+    "geom:longitude":61.45869,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Lar Ha",
+    "gn:country_code":"AF",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134758,
+    "gn:latitude":35.33524,
+    "gn:longitude":61.45869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lar H\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lar H\u0101",
+        "\u0644\u0631\u0647\u0627",
+        "Larh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134758
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a270decb4d60ff3f382b3af802a9708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209693937
+        }
+    ],
+    "wof:id":1209693937,
+    "wof:lastmodified":1537581200,
+    "wof:name":"Lar Ha",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.45869,
+    35.33524,
+    61.45869,
+    35.33524
+],
+  "geometry": {"coordinates":[61.45869,35.33524],"type":"Point"}
+}

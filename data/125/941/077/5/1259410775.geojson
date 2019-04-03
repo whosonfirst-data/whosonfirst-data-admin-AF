@@ -1,0 +1,73 @@
+{
+  "id": 1259410775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66933,36.84776,65.66933,36.84776",
+    "geom:latitude":36.84776,
+    "geom:longitude":65.66933,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1702",
+    "gn:asciiname":"Saltiq Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127802,
+    "gn:latitude":36.84776,
+    "gn:longitude":65.66933,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salt\u012bq Kal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salt\u012bq Kal\u0101n",
+        "\u0633\u0644\u062a\u06cc\u0642 \u06a9\u0644\u0627\u0646",
+        "Saltiq Kal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127802
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43c21ece3c939c5fab6e4496dc3aa25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562185,
+            "locality_id":1259410775,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1259410775,
+    "wof:lastmodified":1537580579,
+    "wof:name":"Saltiq Kalan",
+    "wof:parent_id":1108562185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66933,
+    36.84776,
+    65.66933,
+    36.84776
+],
+  "geometry": {"coordinates":[65.66933,36.84776],"type":"Point"}
+}

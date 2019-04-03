@@ -1,0 +1,73 @@
+{
+  "id": 1225799257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.26619,36.33693,66.26619,36.33693",
+    "geom:latitude":36.33693,
+    "geom:longitude":66.26619,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101",
+    "gn:asciiname":"Kamar Tumbidah",
+    "gn:country_code":"AF",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138403,
+    "gn:latitude":36.33693,
+    "gn:longitude":66.26619,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kamar Tumb\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamar Tumb\u012bdah",
+        "\u06a9\u0645\u0631 \u062a\u0645\u0628\u064a\u062f\u0647",
+        "Kamar Tombidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138403
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e5d9192b50cea91dd16b846f48791914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1225799257,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225799257,
+    "wof:lastmodified":1537581500,
+    "wof:name":"Kamar Tumbidah",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.26619000000001,
+    36.33693,
+    66.26619000000001,
+    36.33693
+],
+  "geometry": {"coordinates":[66.26619000000001,36.33693],"type":"Point"}
+}

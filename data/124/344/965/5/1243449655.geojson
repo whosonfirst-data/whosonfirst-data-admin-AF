@@ -1,0 +1,77 @@
+{
+  "id": 1243449655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.82,33.87,67.82,33.87",
+    "geom:latitude":33.87,
+    "geom:longitude":67.82,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Barigav",
+    "gn:country_code":"AF",
+    "gn:dem":3156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146959,
+    "gn:latitude":33.87,
+    "gn:longitude":67.82,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barigav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0438\u0433\u0430\u0432"
+    ],
+    "name:und_x_variant":[
+        "B\u0101rik\u0101o Deh",
+        "Ba\u1e5fig\u0101w",
+        "Barigav",
+        "Bar\u012b G\u0101v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146959
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cce938b67776bd5a3e97c96e91301397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1243449655,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243449655,
+    "wof:lastmodified":1537582227,
+    "wof:name":"Barigav",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.82,
+    33.87,
+    67.82,
+    33.87
+],
+  "geometry": {"coordinates":[67.81999999999999,33.87],"type":"Point"}
+}

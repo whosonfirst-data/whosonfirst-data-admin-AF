@@ -1,0 +1,76 @@
+{
+  "id": 1293545525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2363,31.37817,67.2363,31.37817",
+    "geom:latitude":31.37817,
+    "geom:longitude":67.2363,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Angizay",
+    "gn:country_code":"AF",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148650,
+    "gn:latitude":31.37817,
+    "gn:longitude":67.2363,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ang\u012bzay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angizi",
+        "Ang\u012bza\u012b",
+        "Ang\u012bzay",
+        "\u0627\u0646\u06af\u06cc\u0632\u06cc",
+        "Angizay",
+        "\u0627\u0646\u06af\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148650
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c846810cb2d342f0c1f422d5f877f075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1293545525,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293545525,
+    "wof:lastmodified":1537582354,
+    "wof:name":"Angizay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2363,
+    31.37817,
+    67.2363,
+    31.37817
+],
+  "geometry": {"coordinates":[67.2363,31.37817],"type":"Point"}
+}

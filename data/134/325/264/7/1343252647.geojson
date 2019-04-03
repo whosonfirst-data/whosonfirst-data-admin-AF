@@ -1,0 +1,72 @@
+{
+  "id": 1343252647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.65889,32.69715,67.65889,32.69715",
+    "geom:latitude":32.69715,
+    "geom:longitude":67.65889,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Latif",
+    "gn:country_code":"AF",
+    "gn:dem":1958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134689,
+    "gn:latitude":32.69715,
+    "gn:longitude":67.65889,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"La\u0163\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u0163\u012bf",
+        "\u0644\u0637\u06cc\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134689
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae389de0e40c015a4c18ddb2702e5f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1343252647,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343252647,
+    "wof:lastmodified":1537581194,
+    "wof:name":"Latif",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.65889,
+    32.69715,
+    67.65889,
+    32.69715
+],
+  "geometry": {"coordinates":[67.65889,32.69715],"type":"Point"}
+}

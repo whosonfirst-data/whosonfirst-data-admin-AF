@@ -1,0 +1,72 @@
+{
+  "id": 1293845285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85559,32.36367,66.85559,32.36367",
+    "geom:latitude":32.36367,
+    "geom:longitude":66.85559,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Aparan",
+    "gn:country_code":"AF",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148590,
+    "gn:latitude":32.36367,
+    "gn:longitude":66.85559,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100par\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100par\u0101n",
+        "\u0622\u067e\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148590
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"01e77f4944fb79d8d2af657ee8b96873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1293845285,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293845285,
+    "wof:lastmodified":1537582351,
+    "wof:name":"Aparan",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85559,
+    32.36367,
+    66.85559,
+    32.36367
+],
+  "geometry": {"coordinates":[66.85559000000001,32.36367],"type":"Point"}
+}

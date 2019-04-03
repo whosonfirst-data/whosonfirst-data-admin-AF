@@ -1,0 +1,74 @@
+{
+  "id": 1259441189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.8578,31.8655,64.8578,31.8655",
+    "geom:latitude":31.8655,
+    "geom:longitude":64.8578,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Padah",
+    "gn:country_code":"AF",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131336,
+    "gn:latitude":31.8655,
+    "gn:longitude":64.8578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pa\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u1e0fah",
+        "\u067e\u0689\u0647",
+        "Padeh",
+        "Pada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131336
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca0cddeada94360c104db23273752e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1259441189,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259441189,
+    "wof:lastmodified":1537580912,
+    "wof:name":"Padah",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.8578,
+    31.8655,
+    64.8578,
+    31.8655
+],
+  "geometry": {"coordinates":[64.8578,31.8655],"type":"Point"}
+}

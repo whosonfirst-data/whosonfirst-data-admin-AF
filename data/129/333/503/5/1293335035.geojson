@@ -1,0 +1,74 @@
+{
+  "id": 1293335035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43773,34.86274,70.43773,34.86274",
+    "geom:latitude":34.86274,
+    "geom:longitude":70.43773,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Kolak",
+    "gn:country_code":"AF",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474405,
+    "gn:latitude":34.86274,
+    "gn:longitude":70.43773,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dlak",
+        "Kulak",
+        "Kowlak",
+        "\u06a9\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474405
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8010c2fcab5d46d208b79820fe71ade5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1293335035,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1293335035,
+    "wof:lastmodified":1537583801,
+    "wof:name":"Kolak",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43773,
+    34.86274,
+    70.43773,
+    34.86274
+],
+  "geometry": {"coordinates":[70.43773,34.86274],"type":"Point"}
+}

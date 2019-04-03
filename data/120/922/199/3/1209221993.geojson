@@ -1,0 +1,70 @@
+{
+  "id": 1209221993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61104,36.03272,68.61104,36.03272",
+    "geom:latitude":36.03272,
+    "geom:longitude":68.61104,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Wazghari",
+    "gn:country_code":"AF",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121640,
+    "gn:latitude":36.03272,
+    "gn:longitude":68.61104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wazghar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0437\u0433\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Vazgari",
+        "Wazghar\u012b",
+        "\u0648\u0632\u063a\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca88ac7d6d5a4704a3e7ddd089cc55a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209221993
+        }
+    ],
+    "wof:id":1209221993,
+    "wof:lastmodified":1537580053,
+    "wof:name":"Wazghari",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61104,
+    36.03272,
+    68.61104,
+    36.03272
+],
+  "geometry": {"coordinates":[68.61104,36.03272],"type":"Point"}
+}

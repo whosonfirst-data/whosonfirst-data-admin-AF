@@ -1,0 +1,72 @@
+{
+  "id": 1276388543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04792,36.4371,67.04792,36.4371",
+    "geom:latitude":36.4371,
+    "geom:longitude":67.04792,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611.0",
+    "gn:asciiname":"Tandorak",
+    "gn:country_code":"AF",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7511388,
+    "gn:latitude":36.4371,
+    "gn:longitude":67.04792,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tand\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tand\u014drak",
+        "\u062a\u0646\u062f\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511388
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fd79a763fb53ff7a512dae2d58fc50ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1276388543,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276388543,
+    "wof:lastmodified":1537583922,
+    "wof:name":"Tandorak",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04791999999999,
+    36.4371,
+    67.04791999999999,
+    36.4371
+],
+  "geometry": {"coordinates":[67.04791999999999,36.4371],"type":"Point"}
+}

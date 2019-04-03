@@ -1,0 +1,77 @@
+{
+  "id": 1343816277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36887,30.96059,66.36887,30.96059",
+    "geom:latitude":30.96059,
+    "geom:longitude":66.36887,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Palzan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131200,
+    "gn:latitude":30.96059,
+    "gn:longitude":66.36887,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Palzan K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u0437\u0430\u043d\u043a\u0430\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Pal\u2019zankalay",
+        "Palzan K\u00ealay",
+        "Pulzan",
+        "\u067e\u0644\u0632\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131200
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fde18660acf5524e1a5b2c41b816badb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1343816277,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343816277,
+    "wof:lastmodified":1537580903,
+    "wof:name":"Palzan Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36887,
+    30.96059,
+    66.36887,
+    30.96059
+],
+  "geometry": {"coordinates":[66.36887,30.96059],"type":"Point"}
+}

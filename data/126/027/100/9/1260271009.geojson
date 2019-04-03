@@ -1,0 +1,74 @@
+{
+  "id": 1260271009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.95889,34.46485,63.95889,34.46485",
+    "geom:latitude":34.46485,
+    "geom:longitude":63.95889,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Sayb Dalak",
+    "gn:country_code":"AF",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126620,
+    "gn:latitude":34.46485,
+    "gn:longitude":63.95889,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayb D\u0101lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113b\u1e0f\u0101lak",
+        "Sayb D\u0101lak",
+        "\u0633\u06cc\u0628 \u062f\u0627\u0644\u06a9",
+        "S\u012bbd\u0101lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126620
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cb9d107d569e3ad6b139a45022ca647b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1260271009,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1260271009,
+    "wof:lastmodified":1537580489,
+    "wof:name":"Sayb Dalak",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.95889,
+    34.46485,
+    63.95889,
+    34.46485
+],
+  "geometry": {"coordinates":[63.95889,34.46485],"type":"Point"}
+}

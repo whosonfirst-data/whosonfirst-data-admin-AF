@@ -1,0 +1,74 @@
+{
+  "id": 1327492975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42798,36.026,67.42798,36.026",
+    "geom:latitude":36.026,
+    "geom:longitude":67.42798,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Akhtah Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149174,
+    "gn:latitude":36.026,
+    "gn:longitude":67.42798,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Akhtah Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhta Kh\u0101na",
+        "Akhteh Kh\u0101neh",
+        "Akhtah Kh\u0101nah",
+        "\u0627\u062e\u062a\u0647 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149174
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f86fe50dff0c0303a88d1888d7a960bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1327492975,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1327492975,
+    "wof:lastmodified":1537582397,
+    "wof:name":"Akhtah Khanah",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42798,
+    36.026,
+    67.42798,
+    36.026
+],
+  "geometry": {"coordinates":[67.42798000000001,36.026],"type":"Point"}
+}

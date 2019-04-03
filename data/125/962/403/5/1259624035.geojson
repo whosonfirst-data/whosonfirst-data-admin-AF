@@ -1,0 +1,74 @@
+{
+  "id": 1259624035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1304,34.73116,70.1304,34.73116",
+    "geom:latitude":34.73116,
+    "geom:longitude":70.1304,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Hasanzai",
+    "gn:country_code":"AF",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474469,
+    "gn:latitude":34.73116,
+    "gn:longitude":70.1304,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28asanza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasanzai",
+        "\u1e28asanza\u2018i",
+        "\u1e28asanza\u012b",
+        "\u062d\u0633\u0646 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474469
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9eba163f8279689797af7f51dc56abc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1259624035,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259624035,
+    "wof:lastmodified":1537583807,
+    "wof:name":"Hasanzai",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1304,
+    34.73116,
+    70.1304,
+    34.73116
+],
+  "geometry": {"coordinates":[70.13039999999999,34.73116],"type":"Point"}
+}

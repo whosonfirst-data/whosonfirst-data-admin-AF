@@ -1,0 +1,75 @@
+{
+  "id": 1343629903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.85242,31.57672,64.85242,31.57672",
+    "geom:latitude":31.57672,
+    "geom:longitude":64.85242,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407.0",
+    "gn:asciiname":"Agha Khelo Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149339,
+    "gn:latitude":31.57672,
+    "gn:longitude":64.85242,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100gh\u0101 Kh\u0113l\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agakheylu-Kalay",
+        "\u0100gh\u0101kh\u0113lo Kalay",
+        "\u0100gh\u0101 Kh\u0113l\u014d K\u00ealay",
+        "\u0622\u063a\u0627 \u062e\u06d0\u0644\u0648 \u06a9\u0644\u06cc",
+        "\u0100gh\u0101kheyl Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149339
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91c552582fa484d52519ea2b13f5bb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1343629903,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343629903,
+    "wof:lastmodified":1537582409,
+    "wof:name":"Agha Khelo Kelay",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.85242,
+    31.57672,
+    64.85242,
+    31.57672
+],
+  "geometry": {"coordinates":[64.85242,31.57672],"type":"Point"}
+}

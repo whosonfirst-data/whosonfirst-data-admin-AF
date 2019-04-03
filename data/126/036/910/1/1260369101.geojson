@@ -1,0 +1,84 @@
+{
+  "id": 1260369101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.20893,31.60684,64.20893,31.60684",
+    "geom:latitude":31.60684,
+    "geom:longitude":64.20893,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2308",
+    "gn:asciiname":"Khoshhal Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135962,
+    "gn:latitude":31.60684,
+    "gn:longitude":64.20893,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh\u1e29\u0101l K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u062e\u0648\u0634\u062d\u0627\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Khushkhal\u2019kalay"
+    ],
+    "name:und_x_variant":[
+        "Khushh\u0101 Kalay",
+        "Khvoshh\u0101 Kalay",
+        "Khu\u0161h\u0101l Kalay",
+        "Khowsh\u1e29\u0101l Kalay",
+        "Khvos\u1e29\u0101l Kalay",
+        "Kh\u014dsh\u1e29\u0101l K\u00ealay",
+        "\u062e\u0648\u0634\u062d\u0627\u0644 \u06a9\u0644\u06cc",
+        "Khush\u1e29\u0101l Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135962
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6791ceb89dbdbcb68869a76b3bbc625e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562295,
+            "locality_id":1260369101,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1260369101,
+    "wof:lastmodified":1537581303,
+    "wof:name":"Khoshhal Kelay",
+    "wof:parent_id":1108562295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.20893000000001,
+    31.60684,
+    64.20893000000001,
+    31.60684
+],
+  "geometry": {"coordinates":[64.20893000000001,31.60684],"type":"Point"}
+}

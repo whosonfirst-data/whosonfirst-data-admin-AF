@@ -1,0 +1,67 @@
+{
+  "id": 1209268609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.2554,36.20656,66.2554,36.20656",
+    "geom:latitude":36.20656,
+    "geom:longitude":66.2554,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3107",
+    "gn:asciiname":"Shiram",
+    "gn:country_code":"AF",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125345,
+    "gn:latitude":36.20656,
+    "gn:longitude":66.2554,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shiram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheram",
+        "Shiram",
+        "\u0634\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125345
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28cac8b6641636e56ff438e6353049e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209268609
+        }
+    ],
+    "wof:id":1209268609,
+    "wof:lastmodified":1537580381,
+    "wof:name":"Shiram",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.2554,
+    36.20656,
+    66.2554,
+    36.20656
+],
+  "geometry": {"coordinates":[66.25539999999999,36.20656],"type":"Point"}
+}

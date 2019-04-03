@@ -1,0 +1,72 @@
+{
+  "id": 1243013397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43373,35.10051,71.43373,35.10051",
+    "geom:latitude":35.10051,
+    "geom:longitude":71.43373,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Darin",
+    "gn:country_code":"AF",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144062,
+    "gn:latitude":35.10051,
+    "gn:longitude":71.43373,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u06cc\u0646",
+        "Dar\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144062
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"73e1e1fea039502f48bcfb5f1296e1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561857,
+            "locality_id":1243013397,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1243013397,
+    "wof:lastmodified":1537581972,
+    "wof:name":"Darin",
+    "wof:parent_id":1108561857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43373000000003,
+    35.10051,
+    71.43373000000003,
+    35.10051
+],
+  "geometry": {"coordinates":[71.43373000000003,35.10051],"type":"Point"}
+}

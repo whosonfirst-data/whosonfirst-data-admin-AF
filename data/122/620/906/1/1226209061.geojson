@@ -1,0 +1,77 @@
+{
+  "id": 1226209061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27307,34.47091,67.27307,34.47091",
+    "geom:latitude":34.47091,
+    "geom:longitude":67.27307,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Shinyah",
+    "gn:country_code":"AF",
+    "gn:dem":3200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125083,
+    "gn:latitude":34.47091,
+    "gn:longitude":67.27307,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012bnyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shin\u2019ya"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u012bnya",
+        "Sh\u012bnyah",
+        "Shaynah",
+        "\u0634\u064a\u0646\u064a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125083
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ca7c5362defb7b3989eb72177a5364b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1226209061,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226209061,
+    "wof:lastmodified":1537580356,
+    "wof:name":"Shinyah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27306999999999,
+    34.47091,
+    67.27306999999999,
+    34.47091
+],
+  "geometry": {"coordinates":[67.27306999999999,34.47091],"type":"Point"}
+}

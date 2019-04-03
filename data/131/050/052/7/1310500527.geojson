@@ -1,0 +1,75 @@
+{
+  "id": 1310500527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27459,34.28637,67.27459,34.28637",
+    "geom:latitude":34.28637,
+    "geom:longitude":67.27459,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Sag Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":2603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1461993,
+    "gn:latitude":34.28637,
+    "gn:longitude":67.27459,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sag S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagsokhta",
+        "Sags\u014dkhta",
+        "Sags\u016bkhteh",
+        "Sag S\u014dkhtah",
+        "\u0633\u06af \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1461993
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dc2332df85031c4ea0705f8f84253dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1310500527,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310500527,
+    "wof:lastmodified":1537583342,
+    "wof:name":"Sag Sokhtah",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27459,
+    34.28637,
+    67.27459,
+    34.28637
+],
+  "geometry": {"coordinates":[67.27459,34.28637],"type":"Point"}
+}

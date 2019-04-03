@@ -1,0 +1,116 @@
+{
+  "id": 85902995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5749029.650339,
+    "geom:bbox":"69.172275,34.534526,69.172275,34.534526",
+    "geom:latitude":34.534526,
+    "geom:longitude":69.172275,
+    "gn:latitude":34.53638,
+    "gn:longitude":69.1678,
+    "iso:country":"AF",
+    "lbl:latitude":34.534526,
+    "lbl:longitude":69.172275,
+    "mps:latitude":34.532581,
+    "mps:longitude":69.16164,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_colloquial":[
+        "Sahre Naw"
+    ],
+    "name:eng_x_preferred":[
+        "Shahr-e Now"
+    ],
+    "name:und_x_preferred":[
+        "S\u0305ahre Naw"
+    ],
+    "name:unk_x_variant":[
+        "\u0160ahre Naw",
+        "Shahr-e Now"
+    ],
+    "qs:gn_adm0_cc":"AF",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1138958,
+    "qs:gn_nam_loc":"Kabul, Kabul, Kabul, AF",
+    "qs:gn_namadm1":"13",
+    "qs:gn_name":"Shahr-e Now",
+    "qs:local_max":682,
+    "qs:local_sum":1784,
+    "qs:localhoods":8,
+    "qs:name":"Shahr-e Now",
+    "qs:name_adm0":"Afghanistan",
+    "qs:name_adm1":"Kabul",
+    "qs:name_adm2":"Kabul City",
+    "qs:name_local":"Kabul",
+    "qs:photo_max":31,
+    "qs:photo_sum":319,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424739,
+    "qs:woe_adm1":2344559,
+    "qs:woe_adm2":56000584,
+    "qs:woe_lau":0,
+    "qs:woe_local":1922738,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        421171977,
+        85667603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125870,
+        "gp:id":1931790,
+        "qs:id":493084,
+        "qs_pg:id":493084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63c2a40bc2fcc10577a39d807fb72c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171977,
+            "locality_id":-1,
+            "neighbourhood_id":85902995,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":85902995,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935980,
+    "wof:name":"Shahr-e Now",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.172275,
+    34.534526,
+    69.172275,
+    34.534526
+],
+  "geometry": {"coordinates":[69.172275,34.534526],"type":"Point"}
+}

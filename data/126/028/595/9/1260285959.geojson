@@ -1,0 +1,73 @@
+{
+  "id": 1260285959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28978,35.53348,68.28978,35.53348",
+    "geom:latitude":35.53348,
+    "geom:longitude":68.28978,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Turmush",
+    "gn:country_code":"AF",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122065,
+    "gn:latitude":35.53348,
+    "gn:longitude":68.28978,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Turmush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u1e5fmus",
+        "Turmush",
+        "\u062a\u0631\u0645\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122065
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dfe03a811d23f0ecdb27f7489740ddab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1260285959,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1260285959,
+    "wof:lastmodified":1537580084,
+    "wof:name":"Turmush",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28978000000001,
+    35.53348,
+    68.28978000000001,
+    35.53348
+],
+  "geometry": {"coordinates":[68.28978000000001,35.53348],"type":"Point"}
+}

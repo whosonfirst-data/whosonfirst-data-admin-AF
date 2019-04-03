@@ -1,0 +1,78 @@
+{
+  "id": 1209971047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37005,33.78813,68.37005,33.78813",
+    "geom:latitude":33.78813,
+    "geom:longitude":68.37005,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409.0",
+    "gn:asciiname":"Kamkai Chopan",
+    "gn:country_code":"AF",
+    "gn:dem":2443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447417,
+    "gn:latitude":33.78813,
+    "gn:longitude":68.37005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kamka\u012b Ch\u014dp\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0645\u0643\u06cc \u0686\u0648\u067e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kamkay \u010cop\u0101n",
+        "Kamkay-Chopan",
+        "Kamka\u012b Ch\u014dp\u0101n",
+        "Kamkay Ch\u016bp\u0101n",
+        "\u0643\u0645\u0643\u06cc \u0686\u0648\u067e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447417
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e15f004a689d72863ea38073be61f892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1209971047,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209971047,
+    "wof:lastmodified":1537582972,
+    "wof:name":"Kamkai Chopan",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37005,
+    33.78813,
+    68.37005,
+    33.78813
+],
+  "geometry": {"coordinates":[68.37005000000001,33.78813],"type":"Point"}
+}

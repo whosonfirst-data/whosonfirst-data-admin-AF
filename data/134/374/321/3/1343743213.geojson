@@ -1,0 +1,80 @@
+{
+  "id": 1343743213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.17639,34.36972,63.17639,34.36972",
+    "geom:latitude":34.36972,
+    "geom:longitude":63.17639,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Qaryeh-ye Owbeh",
+    "gn:country_code":"AF",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1131406,
+    "gn:latitude":34.36972,
+    "gn:longitude":63.17639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryeh-ye Owbeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owb\u012b",
+        "Chah\u0101r Ma\u1e29all-e Obeh",
+        "Obeh",
+        "Cah\u0101\u1e5fmahale \u014cb\u0113",
+        "Owbey",
+        "Qaryeh-ye Owbeh",
+        "\u014cb\u0113",
+        "\u014cb\u00eah",
+        "\u0627\u0648\u0628\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131406,
+        "wk:page":"Obe%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a94a5293023e8b9ccfe46d1eac95c020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1343743213,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343743213,
+    "wof:lastmodified":1537580917,
+    "wof:name":"Qaryeh-ye Owbeh",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.17639000000001,
+    34.36972,
+    63.17639000000001,
+    34.36972
+],
+  "geometry": {"coordinates":[63.17639000000001,34.36972],"type":"Point"}
+}

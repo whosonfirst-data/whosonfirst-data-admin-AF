@@ -1,0 +1,80 @@
+{
+  "id": 1276951831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36869,35.07253,69.36869,35.07253",
+    "geom:latitude":35.07253,
+    "geom:longitude":69.36869,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"207.0",
+    "gn:asciiname":"Deh-e Bulbul",
+    "gn:country_code":"AF",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423493,
+    "gn:latitude":35.07253,
+    "gn:longitude":69.36869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Bulbul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0628\u0648\u0628\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Dekhi-Bul\u2019bul\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eehe B\u016blbul",
+        "Deh-e B\u016bb\u016bl",
+        "Deh-e Bulbul",
+        "\u062f\u0647 \u0628\u0644\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423493
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b8c40d1431bdb24baa876c77b32efb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562075,
+            "locality_id":1276951831,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1276951831,
+    "wof:lastmodified":1537582578,
+    "wof:name":"Deh-e Bulbul",
+    "wof:parent_id":1108562075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36869,
+    35.07253,
+    69.36869,
+    35.07253
+],
+  "geometry": {"coordinates":[69.36869,35.07253],"type":"Point"}
+}

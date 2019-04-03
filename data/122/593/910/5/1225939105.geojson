@@ -1,0 +1,78 @@
+{
+  "id": 1225939105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.67844,32.7935,62.67844,32.7935",
+    "geom:latitude":32.7935,
+    "geom:longitude":62.67844,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Dowlatabad",
+    "gn:country_code":"AF",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142778,
+    "gn:latitude":32.7935,
+    "gn:longitude":62.67844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daolatabad",
+        "Doalatabad",
+        "\u1e0eawlat\u0101b\u0101\u1e0f",
+        "Daulat\u0101b\u0101d",
+        "Daulatabad",
+        "Dowlat\u0101b\u0101d",
+        "\u062f\u0648\u0644\u062a \u0622\u0628\u0627\u062f",
+        "Dowlat \u0100b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142778
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c3af313b06246e6edccec1cd593fab8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1225939105,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1225939105,
+    "wof:lastmodified":1537581860,
+    "wof:name":"Dowlatabad",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.67844,
+    32.7935,
+    62.67844,
+    32.7935
+],
+  "geometry": {"coordinates":[62.67844,32.7935],"type":"Point"}
+}

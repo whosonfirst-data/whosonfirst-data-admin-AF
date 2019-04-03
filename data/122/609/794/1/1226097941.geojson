@@ -1,0 +1,81 @@
+{
+  "id": 1226097941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.882,36.44201,68.882,36.44201",
+    "geom:latitude":36.44201,
+    "geom:longitude":68.882,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1405",
+    "gn:asciiname":"Qizil Say",
+    "gn:country_code":"AF",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129039,
+    "gn:latitude":36.44201,
+    "gn:longitude":68.882,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0644\u06c0 \u0642\u0632\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Qezul Say",
+        "Kyzylsay",
+        "Qezel S\u0101y",
+        "Qizil S\u0101y",
+        "\u0642\u0632\u0644 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129039
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5250753305c0c1bc4e21d7459449b82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561791,
+            "locality_id":1226097941,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1226097941,
+    "wof:lastmodified":1537580677,
+    "wof:name":"Qizil Say",
+    "wof:parent_id":1108561791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.882,
+    36.44201,
+    68.882,
+    36.44201
+],
+  "geometry": {"coordinates":[68.88200000000001,36.44201],"type":"Point"}
+}

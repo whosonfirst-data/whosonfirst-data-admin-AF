@@ -1,0 +1,73 @@
+{
+  "id": 1293868239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.66754,33.64524,63.66754,33.64524",
+    "geom:latitude":33.64524,
+    "geom:longitude":63.66754,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2704",
+    "gn:asciiname":"Tazri",
+    "gn:country_code":"AF",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122576,
+    "gn:latitude":33.64524,
+    "gn:longitude":63.66754,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tazr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazr\u012b",
+        "\u062a\u0632\u0631\u06cc",
+        "Taz\u1e5fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122576
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9efd927bf0303fd495f394d420513092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1293868239,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293868239,
+    "wof:lastmodified":1537580170,
+    "wof:name":"Tazri",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.66754,
+    33.64524,
+    63.66754,
+    33.64524
+],
+  "geometry": {"coordinates":[63.66754,33.64524],"type":"Point"}
+}

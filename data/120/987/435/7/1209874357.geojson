@@ -1,0 +1,79 @@
+{
+  "id": 1209874357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.75724,31.83699,65.75724,31.83699",
+    "geom:latitude":31.83699,
+    "geom:longitude":65.75724,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403.0",
+    "gn:asciiname":"Karez Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407334,
+    "gn:latitude":31.83699,
+    "gn:longitude":65.75724,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0643\u0627\u0631\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Karezkala",
+        "K\u0101\u1e5f\u0113z Qal\u2018a",
+        "K\u0101r\u012bz Qal\u2018a",
+        "K\u0101r\u0113z Qal\u2018ah",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0642\u0644\u0639\u0647",
+        "K\u0101r\u012bz Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7410fdf41205fdd2d9561d8fcc45ae1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1209874357,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209874357,
+    "wof:lastmodified":1537582519,
+    "wof:name":"Karez Qal'ah",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.75724,
+    31.83699,
+    65.75724,
+    31.83699
+],
+  "geometry": {"coordinates":[65.75724,31.83699],"type":"Point"}
+}

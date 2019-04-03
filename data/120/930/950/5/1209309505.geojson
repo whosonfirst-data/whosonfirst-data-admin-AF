@@ -1,0 +1,70 @@
+{
+  "id": 1209309505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.90874,32.14296,64.90874,32.14296",
+    "geom:latitude":32.14296,
+    "geom:longitude":64.90874,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"De Ingar Dzangal",
+    "gn:country_code":"AF",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473669,
+    "gn:latitude":32.14296,
+    "gn:longitude":64.90874,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Ingar Dzangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ingardzhangel\u2019"
+    ],
+    "name:und_x_variant":[
+        "D\u00ea Ingar Dzangal",
+        "\u062f \u0627\u0646\u06af\u0631 \u0681\u0646\u06af\u0644",
+        "De Engar Jangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473669
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"833de80713d8d1fc0620f43360e309c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209309505
+        }
+    ],
+    "wof:id":1209309505,
+    "wof:lastmodified":1537583762,
+    "wof:name":"De Ingar Dzangal",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.90874000000001,
+    32.14296,
+    64.90874000000001,
+    32.14296
+],
+  "geometry": {"coordinates":[64.90874000000001,32.14296],"type":"Point"}
+}

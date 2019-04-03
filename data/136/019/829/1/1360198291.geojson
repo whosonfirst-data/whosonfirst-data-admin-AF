@@ -1,0 +1,76 @@
+{
+  "id": 1360198291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14064,37.01832,70.14064,37.01832",
+    "geom:latitude":37.01832,
+    "geom:longitude":70.14064,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115",
+    "gn:asciiname":"Inow",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131496,
+    "gn:latitude":37.01832,
+    "gn:longitude":70.14064,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u012anow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Un\u0101b",
+        "\u0112naw",
+        "On\u0101b",
+        "\u012anow",
+        "\u0627\u06cc\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131496,
+        "wk:page":"Onab"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"461b5fa3e7f4b9b8b79bdda6b49165f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1360198291,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360198291,
+    "wof:lastmodified":1537580925,
+    "wof:name":"Inow",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14064,
+    37.01832,
+    70.14064,
+    37.01832
+],
+  "geometry": {"coordinates":[70.14064,37.01832],"type":"Point"}
+}

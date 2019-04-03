@@ -1,0 +1,74 @@
+{
+  "id": 1259476903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93864,32.14553,64.93864,32.14553",
+    "geom:latitude":32.14553,
+    "geom:longitude":64.93864,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Baluzai",
+    "gn:country_code":"AF",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473665,
+    "gn:latitude":32.14553,
+    "gn:longitude":64.93864,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bal\u016bza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baluzay",
+        "Bal\u016bza\u012b",
+        "\u0628\u0644\u0648\u0632\u06cc",
+        "Bal\u016bzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473665
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b54e8b93c804f963c510bacc203f8fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1259476903,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1259476903,
+    "wof:lastmodified":1537583761,
+    "wof:name":"Baluzai",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93864,
+    32.14553,
+    64.93864,
+    32.14553
+],
+  "geometry": {"coordinates":[64.93864000000001,32.14553],"type":"Point"}
+}

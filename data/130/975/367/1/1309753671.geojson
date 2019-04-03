@@ -1,0 +1,81 @@
+{
+  "id": 1309753671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31358,34.51946,67.31358,34.51946",
+    "geom:latitude":34.51946,
+    "geom:longitude":67.31358,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Nowlays",
+    "gn:country_code":"AF",
+    "gn:dem":3017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132061,
+    "gn:latitude":34.51946,
+    "gn:longitude":67.31358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowlays",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u0644\u06cc\u0633"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u043b\u0435\u0441"
+    ],
+    "name:und_x_variant":[
+        "Naules",
+        "Nowlays",
+        "Nawl\u0113s",
+        "\u0646\u0627\u0648\u0644\u06cc\u0633",
+        "\u0646\u0648\u0644\u064a\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132061
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d161b19cf796a0ccbde727ca0a8ba2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1309753671,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1309753671,
+    "wof:lastmodified":1537580974,
+    "wof:name":"Nowlays",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31358,
+    34.51946,
+    67.31358,
+    34.51946
+],
+  "geometry": {"coordinates":[67.31358,34.51946],"type":"Point"}
+}

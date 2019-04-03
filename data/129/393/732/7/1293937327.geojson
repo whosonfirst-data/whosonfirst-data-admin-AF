@@ -1,0 +1,76 @@
+{
+  "id": 1293937327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21404,35.08599,71.21404,35.08599",
+    "geom:latitude":35.08599,
+    "geom:longitude":71.21404,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Chonish",
+    "gn:country_code":"AF",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144923,
+    "gn:latitude":35.08599,
+    "gn:longitude":71.21404,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u014dnish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u010cone\u0161",
+        "Ch\u016bnesh",
+        "Ch\u014dnish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144923
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d297f268c8feb8f05ce9bb71be36b3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1293937327,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293937327,
+    "wof:lastmodified":1537582055,
+    "wof:name":"Chonish",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21404,
+    35.08599,
+    71.21404,
+    35.08599
+],
+  "geometry": {"coordinates":[71.21404,35.08599],"type":"Point"}
+}

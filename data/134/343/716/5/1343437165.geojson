@@ -1,0 +1,74 @@
+{
+  "id": 1343437165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85757,33.67757,68.85757,33.67757",
+    "geom:latitude":33.67757,
+    "geom:longitude":68.85757,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"507.0",
+    "gn:asciiname":"Apa Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438531,
+    "gn:latitude":33.67757,
+    "gn:longitude":68.85757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ap\u0101 Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apakhan",
+        "Ap\u0101 Kh\u0101n",
+        "Apakh\u0101n",
+        "\u0627\u067e\u0627 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3e8e2937c5c29fc7c880252ff8985577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562151,
+            "locality_id":1343437165,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1343437165,
+    "wof:lastmodified":1537582887,
+    "wof:name":"Apa Khan",
+    "wof:parent_id":1108562151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85757,
+    33.67757,
+    68.85757,
+    33.67757
+],
+  "geometry": {"coordinates":[68.85757,33.67757],"type":"Point"}
+}

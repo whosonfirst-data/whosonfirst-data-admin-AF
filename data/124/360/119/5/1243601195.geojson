@@ -1,0 +1,73 @@
+{
+  "id": 1243601195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.255,32.25439,68.255,32.25439",
+    "geom:latitude":32.25439,
+    "geom:longitude":68.255,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Kharga Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136992,
+    "gn:latitude":32.25439,
+    "gn:longitude":68.255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101rg\u0101 K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062e\u0627\u0631\u06af\u0627 \u06a9\u0644\u06cc",
+        "Kh\u0101\u1e5fg\u0101 Kalay",
+        "Kh\u0101rg\u0101 K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136992
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1fdc37b1bd41362c081f89203a61fdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1243601195,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243601195,
+    "wof:lastmodified":1537581385,
+    "wof:name":"Kharga Kelay",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.255,
+    32.25439,
+    68.255,
+    32.25439
+],
+  "geometry": {"coordinates":[68.255,32.25439],"type":"Point"}
+}

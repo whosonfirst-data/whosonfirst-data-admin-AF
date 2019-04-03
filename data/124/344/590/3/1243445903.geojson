@@ -1,0 +1,73 @@
+{
+  "id": 1243445903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.87736,35.25434,64.87736,35.25434",
+    "geom:latitude":35.25434,
+    "geom:longitude":64.87736,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1805",
+    "gn:asciiname":"Khuranj-e Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136382,
+    "gn:latitude":35.25434,
+    "gn:longitude":64.87736,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khuranj-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuranj-e P\u0101\u2019\u012bn",
+        "\u062e\u0631\u0646\u062c \u067e\u0627\u0626\u06cc\u0646",
+        "Khurranj-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136382
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0ec3c82b4f9e81906b3bd9921c297011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1243445903,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1243445903,
+    "wof:lastmodified":1537581338,
+    "wof:name":"Khuranj-e Pa'in",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.87736,
+    35.25434,
+    64.87736,
+    35.25434
+],
+  "geometry": {"coordinates":[64.87736,35.25434],"type":"Point"}
+}

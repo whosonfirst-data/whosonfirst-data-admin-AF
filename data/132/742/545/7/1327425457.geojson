@@ -1,0 +1,74 @@
+{
+  "id": 1327425457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10071,35.90653,65.10071,35.90653",
+    "geom:latitude":35.90653,
+    "geom:longitude":65.10071,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Zarshoy",
+    "gn:country_code":"AF",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120805,
+    "gn:latitude":35.90653,
+    "gn:longitude":65.10071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zarsh\u014dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Za\u1e5fs\u0304oy",
+        "Zarsh\u016by",
+        "Zarsh\u014dy",
+        "\u0632\u0631\u0634\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120805
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3ec0e1c8fabdc190e11a6010e1875ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1327425457,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1327425457,
+    "wof:lastmodified":1537579965,
+    "wof:name":"Zarshoy",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10070999999999,
+    35.90653,
+    65.10070999999999,
+    35.90653
+],
+  "geometry": {"coordinates":[65.10070999999999,35.90653],"type":"Point"}
+}

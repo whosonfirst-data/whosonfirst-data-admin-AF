@@ -1,0 +1,75 @@
+{
+  "id": 1226796941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30577,34.29033,68.30577,34.29033",
+    "geom:latitude":34.29033,
+    "geom:longitude":68.30577,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Naqchin",
+    "gn:country_code":"AF",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132358,
+    "gn:latitude":34.29033,
+    "gn:longitude":68.30577,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naqch\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u010d\u012bn",
+        "Nakchin",
+        "Naqchayn",
+        "Naqch\u012bn",
+        "\u0646\u0642\u0686\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132358
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"911535c7cc24c06e2777c982e97e42bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1226796941,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226796941,
+    "wof:lastmodified":1537581002,
+    "wof:name":"Naqchin",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30577,
+    34.29033,
+    68.30577,
+    34.29033
+],
+  "geometry": {"coordinates":[68.30577,34.29033],"type":"Point"}
+}

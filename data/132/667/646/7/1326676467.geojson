@@ -1,0 +1,74 @@
+{
+  "id": 1326676467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.68295,36.20908,66.68295,36.20908",
+    "geom:latitude":36.20908,
+    "geom:longitude":66.68295,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609.0",
+    "gn:asciiname":"Kochak Qizil",
+    "gn:country_code":"AF",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465220,
+    "gn:latitude":36.20908,
+    "gn:longitude":66.68295,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dchak Qizil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kochek Qizil (2)",
+        "K\u016bchek Qezel (2)",
+        "K\u014dchak Qizil",
+        "\u06a9\u0648\u0686\u06a9 \u0642\u0632\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465220
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a0f80918cbb7e71f55cf78d290b0d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1326676467,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326676467,
+    "wof:lastmodified":1537583389,
+    "wof:name":"Kochak Qizil",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.68295,
+    36.20908,
+    66.68295,
+    36.20908
+],
+  "geometry": {"coordinates":[66.68295000000001,36.20908],"type":"Point"}
+}

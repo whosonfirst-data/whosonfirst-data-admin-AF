@@ -1,0 +1,75 @@
+{
+  "id": 1327494715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36809,31.84588,66.36809,31.84588",
+    "geom:latitude":31.84588,
+    "geom:longitude":66.36809,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Khurshayd",
+    "gn:country_code":"AF",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436982,
+    "gn:latitude":31.84588,
+    "gn:longitude":66.36809,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khurshayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khur\u0161ayd",
+        "Khursaid",
+        "\u062e\u0631\u0634\u06cc\u062f",
+        "Khorsh\u012bd",
+        "Khurshayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436982
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"22088c57db30b16853cd01590af3ba85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1327494715,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327494715,
+    "wof:lastmodified":1537582826,
+    "wof:name":"Khurshayd",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36809000000001,
+    31.84588,
+    66.36809000000001,
+    31.84588
+],
+  "geometry": {"coordinates":[66.36809000000001,31.84588],"type":"Point"}
+}

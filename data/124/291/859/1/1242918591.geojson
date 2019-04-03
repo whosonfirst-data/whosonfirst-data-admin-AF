@@ -1,0 +1,74 @@
+{
+  "id": 1242918591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72637,35.00601,70.72637,35.00601",
+    "geom:latitude":35.00601,
+    "geom:longitude":70.72637,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009",
+    "gn:asciiname":"Tarahnik",
+    "gn:country_code":"AF",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122784,
+    "gn:latitude":35.00601,
+    "gn:longitude":70.72637,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tarahn\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taranik",
+        "Taran\u012bk",
+        "Tarahn\u012bk",
+        "\u062a\u0631\u0647 \u0646\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6a2d30b3b36f5c8fa73fb3f74ea70d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1242918591,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1242918591,
+    "wof:lastmodified":1537580185,
+    "wof:name":"Tarahnik",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72636999999997,
+    35.00601,
+    70.72636999999997,
+    35.00601
+],
+  "geometry": {"coordinates":[70.72636999999997,35.00601],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327455937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46685,33.13461,63.46685,33.13461",
+    "geom:latitude":33.13461,
+    "geom:longitude":63.46685,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Kham Khorki",
+    "gn:country_code":"AF",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1137183,
+    "gn:latitude":33.13461,
+    "gn:longitude":63.46685,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kham Kh\u014drk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kham Khowrk\u012b",
+        "Khamkhorki",
+        "Kham Kh\u014d\u1e5fki",
+        "Kham Kh\u014dri",
+        "Kham Kh\u014drk\u012b",
+        "\u062e\u0645 \u062e\u0648\u0631\u06a9\u06cc",
+        "Kham-e Khowrk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137183
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"286af6d33aef6dd1c1b07aa9e7f4b843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1327455937,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1327455937,
+    "wof:lastmodified":1537581401,
+    "wof:name":"Kham Khorki",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46685,
+    33.13461,
+    63.46685,
+    33.13461
+],
+  "geometry": {"coordinates":[63.46685,33.13461],"type":"Point"}
+}

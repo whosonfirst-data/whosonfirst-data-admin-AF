@@ -1,0 +1,77 @@
+{
+  "id": 1326815681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55121,32.99261,67.55121,32.99261",
+    "geom:latitude":32.99261,
+    "geom:longitude":67.55121,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Spin Chashmah",
+    "gn:country_code":"AF",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435545,
+    "gn:latitude":32.99261,
+    "gn:longitude":67.55121,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bn Chashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spichishma",
+        "Spi \u010ce\u0161ma",
+        "Sp\u012b Chashmah",
+        "\u0633\u067e\u06cc \u0686\u0634\u0645\u0647",
+        "Spi Cheshmeh",
+        "Sp\u012bn Chashmah",
+        "\u0633\u067e\u06cc\u0646 \u0686\u0634\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435545
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d704d61a60ce8ed974abb848193ad3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1326815681,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326815681,
+    "wof:lastmodified":1537582770,
+    "wof:name":"Spin Chashmah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55121,
+    32.99261,
+    67.55121,
+    32.99261
+],
+  "geometry": {"coordinates":[67.55121,32.99261],"type":"Point"}
+}

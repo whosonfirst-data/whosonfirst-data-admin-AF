@@ -1,0 +1,68 @@
+{
+  "id": 1259749275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70798,34.30439,70.70798,34.30439",
+    "geom:latitude":34.30439,
+    "geom:longitude":70.70798,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"817.0",
+    "gn:asciiname":"Asel Barikaw",
+    "gn:country_code":"AF",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109711,
+    "gn:latitude":34.30439,
+    "gn:longitude":70.70798,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u015fel B\u0101r\u012bk\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109711
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"542cdd4f9967d7228a92103330ade8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561865,
+            "locality_id":1259749275,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259749275,
+    "wof:lastmodified":1536972119,
+    "wof:name":"Asel Barikaw",
+    "wof:parent_id":1108561865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70798,
+    34.30439000000001,
+    70.70798,
+    34.30439000000001
+],
+  "geometry": {"coordinates":[70.70798000000001,34.30439000000001],"type":"Point"}
+}

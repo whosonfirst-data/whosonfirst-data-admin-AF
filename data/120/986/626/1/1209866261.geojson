@@ -1,0 +1,73 @@
+{
+  "id": 1209866261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.57323,36.72872,66.57323,36.72872",
+    "geom:latitude":36.72872,
+    "geom:longitude":66.57323,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608",
+    "gn:asciiname":"Taraki",
+    "gn:country_code":"AF",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122791,
+    "gn:latitude":36.72872,
+    "gn:longitude":66.57323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tarak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarak\u012b",
+        "\u062a\u0631\u06a9\u06cc",
+        "Taraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122791
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53d2baaad206539236c4780b0142f408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1209866261,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1209866261,
+    "wof:lastmodified":1537580186,
+    "wof:name":"Taraki",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.57323000000001,
+    36.72872,
+    66.57323000000001,
+    36.72872
+],
+  "geometry": {"coordinates":[66.57323000000001,36.72872],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243019049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33523,32.30895,68.33523,32.30895",
+    "geom:latitude":32.30895,
+    "geom:longitude":68.33523,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"De Wulge Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143119,
+    "gn:latitude":32.30895,
+    "gn:longitude":68.33523,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Wulg\u0113 K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Vul\u2019gaykalay"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eewulg\u0113 Kalay",
+        "\u062f \u0648\u0644\u06af\u06cc \u06a9\u0644\u06cc",
+        "Dewulgey Kalay",
+        "D\u00ea Wulg\u0113 K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143119
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9438563691274db1e8af2f97c84c444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1243019049,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243019049,
+    "wof:lastmodified":1537581894,
+    "wof:name":"De Wulge Kelay",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33523000000001,
+    32.30895,
+    68.33523000000001,
+    32.30895
+],
+  "geometry": {"coordinates":[68.33523000000001,32.30895],"type":"Point"}
+}

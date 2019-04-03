@@ -1,0 +1,79 @@
+{
+  "id": 1226020663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66169,34.05075,70.66169,34.05075",
+    "geom:latitude":34.05075,
+    "geom:longitude":70.66169,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Dag Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469685,
+    "gn:latitude":34.05075,
+    "gn:longitude":70.66169,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0e\u0101g K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u062f\u0627\u06af"
+    ],
+    "name:und_x_variant":[
+        "Dagkalay",
+        "D\u0101g",
+        "D\u0101g Kalay",
+        "D\u0101g K\u00ealay",
+        "\u1e0e\u0101g K\u00ealay",
+        "\u0689\u0627\u06af \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469685
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90d229be81ed1c9aef2818e11f3d77c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1226020663,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226020663,
+    "wof:lastmodified":1537583623,
+    "wof:name":"Dag Kelay",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66169000000002,
+    34.05075,
+    70.66169000000002,
+    34.05075
+],
+  "geometry": {"coordinates":[70.66169000000002,34.05075],"type":"Point"}
+}

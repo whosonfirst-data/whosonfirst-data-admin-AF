@@ -1,0 +1,75 @@
+{
+  "id": 1225846655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08373,36.055,69.08373,36.055",
+    "geom:latitude":36.055,
+    "geom:longitude":69.08373,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Hafiz Bachah",
+    "gn:country_code":"AF",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140434,
+    "gn:latitude":36.055,
+    "gn:longitude":69.08373,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101fiz\u0327 Bachah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hafezbacha",
+        "H\u0101fe\u1e95baca",
+        "\u1e28\u0101fez\u0327bachcheh",
+        "\u1e28\u0101fiz\u0327 Bachah",
+        "\u062d\u0627\u0641\u0638 \u0628\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140434
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"94561b872e7e6eff10fc1d72ee4fcd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1225846655,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1225846655,
+    "wof:lastmodified":1537581662,
+    "wof:name":"Hafiz Bachah",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08373,
+    36.055,
+    69.08373,
+    36.055
+],
+  "geometry": {"coordinates":[69.08373,36.055],"type":"Point"}
+}

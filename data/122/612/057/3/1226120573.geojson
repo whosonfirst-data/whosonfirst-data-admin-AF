@@ -1,0 +1,74 @@
+{
+  "id": 1226120573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.1787,34.21955,62.1787,34.21955",
+    "geom:latitude":34.21955,
+    "geom:longitude":62.1787,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Sanow Gird",
+    "gn:country_code":"AF",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127725,
+    "gn:latitude":34.21955,
+    "gn:longitude":62.1787,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sanow Gird",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanaugird",
+        "Sanow Gird",
+        "\u0633\u0646\u0648 \u06af\u0631\u062f",
+        "Sanaw Gerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127725
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"574dd1896b556b2a92b1db169e85391a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1226120573,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226120573,
+    "wof:lastmodified":1537580574,
+    "wof:name":"Sanow Gird",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.1787,
+    34.21955,
+    62.1787,
+    34.21955
+],
+  "geometry": {"coordinates":[62.1787,34.21955],"type":"Point"}
+}

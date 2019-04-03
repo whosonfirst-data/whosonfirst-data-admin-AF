@@ -1,0 +1,67 @@
+{
+  "id": 1209204187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.9735,33.99413,63.9735,33.99413",
+    "geom:latitude":33.99413,
+    "geom:longitude":63.9735,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Nalu",
+    "gn:country_code":"AF",
+    "gn:dem":2430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132403,
+    "gn:latitude":33.99413,
+    "gn:longitude":63.9735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101l\u016b",
+        "\u0646\u0627\u0644\u0648",
+        "N\u0101lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132403
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7323ff957341718858bfd47039baa0cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209204187
+        }
+    ],
+    "wof:id":1209204187,
+    "wof:lastmodified":1537581005,
+    "wof:name":"Nalu",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.9735,
+    33.99413,
+    63.9735,
+    33.99413
+],
+  "geometry": {"coordinates":[63.9735,33.99413],"type":"Point"}
+}

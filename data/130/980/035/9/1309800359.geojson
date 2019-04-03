@@ -1,0 +1,76 @@
+{
+  "id": 1309800359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.78883,35.92955,64.78883,35.92955",
+    "geom:latitude":35.92955,
+    "geom:longitude":64.78883,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1801.0",
+    "gn:asciiname":"Charmgar Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423721,
+    "gn:latitude":35.92955,
+    "gn:longitude":64.78883,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Charmgar Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u1e5fmga\u1e5f Kh\u0101na",
+        "Charmgar Kh\u0101neh",
+        "Charmgar Kh\u0101nah",
+        "\u0686\u0631\u0645\u06af\u0631 \u062e\u0627\u0646\u0647",
+        "Koh\u012b Kh\u0101nah",
+        "\u06a9\u0648\u0647\u06cc \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423721
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"48cebe918b9c143d42364dd18f178227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562261,
+            "locality_id":1309800359,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1309800359,
+    "wof:lastmodified":1537582586,
+    "wof:name":"Charmgar Khanah",
+    "wof:parent_id":1108562261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.78883,
+    35.92955,
+    64.78883,
+    35.92955
+],
+  "geometry": {"coordinates":[64.78883,35.92955],"type":"Point"}
+}

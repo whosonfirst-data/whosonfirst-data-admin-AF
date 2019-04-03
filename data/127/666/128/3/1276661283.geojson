@@ -1,0 +1,74 @@
+{
+  "id": 1276661283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.19536,37.0712,70.19536,37.0712",
+    "geom:latitude":37.0712,
+    "geom:longitude":70.19536,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Toghbay",
+    "gn:country_code":"AF",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466739,
+    "gn:latitude":37.0712,
+    "gn:longitude":70.19536,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u014dghb\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u014dghb\u0101y",
+        "Towghb\u0101y",
+        "\u0162\u014dghb\u0101y",
+        "\u0637\u0648\u063a\u0628\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466739
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d41a3af998031b649b42d9be4dafac31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1276661283,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276661283,
+    "wof:lastmodified":1537583438,
+    "wof:name":"Toghbay",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.19536,
+    37.0712,
+    70.19536,
+    37.0712
+],
+  "geometry": {"coordinates":[70.19535999999999,37.0712],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259444029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57103,32.08346,68.57103,32.08346",
+    "geom:latitude":32.08346,
+    "geom:longitude":68.57103,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Khatak Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136846,
+    "gn:latitude":32.08346,
+    "gn:longitude":68.57103,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u1e6fak Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u06c0 \u062e\u062a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Khatak \u010cina",
+        "Khatakchina",
+        "Khatak Ch\u012bneh",
+        "\u062e\u067c\u06a9 \u0686\u06cc\u0646\u0647",
+        "Khatak Ch\u012bnah",
+        "Kha\u1e6fak Ch\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136846
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11cb2bdf3a09d3ef09d0e44b74c4a422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1259444029,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259444029,
+    "wof:lastmodified":1537581374,
+    "wof:name":"Khatak Chinah",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57103000000001,
+    32.08346,
+    68.57103000000001,
+    32.08346
+],
+  "geometry": {"coordinates":[68.57103000000001,32.08346],"type":"Point"}
+}

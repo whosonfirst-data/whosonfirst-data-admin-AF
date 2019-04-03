@@ -1,0 +1,74 @@
+{
+  "id": 1360099011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7575,36.53407,70.7575,36.53407",
+    "geom:latitude":36.53407,
+    "geom:longitude":70.7575,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1127",
+    "gn:asciiname":"Khe Asp",
+    "gn:country_code":"AF",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136772,
+    "gn:latitude":36.53407,
+    "gn:longitude":70.7575,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0113 Asp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062e\u06d0\u0633\u067e",
+        "Kh\u0113asp",
+        "Kh\u0113 Asp",
+        "\u062e\u06d0 \u0627\u0633\u067e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136772
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e741e99516d99f44a9d37bea8ffa28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562591,
+            "locality_id":1360099011,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360099011,
+    "wof:lastmodified":1537581369,
+    "wof:name":"Khe Asp",
+    "wof:parent_id":1108562591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7575,
+    36.53407,
+    70.7575,
+    36.53407
+],
+  "geometry": {"coordinates":[70.75749999999999,36.53407],"type":"Point"}
+}

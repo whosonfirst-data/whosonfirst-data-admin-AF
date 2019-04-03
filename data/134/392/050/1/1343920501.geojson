@@ -1,0 +1,72 @@
+{
+  "id": 1343920501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.83394,30.55032,61.83394,30.55032",
+    "geom:latitude":30.55032,
+    "geom:longitude":61.83394,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203",
+    "gn:asciiname":"Nailaj",
+    "gn:country_code":"AF",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132531,
+    "gn:latitude":30.55032,
+    "gn:longitude":61.83394,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101\u012bl\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101\u2018el\u0101j",
+        "N\u0101\u012bl\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02c3e558c2cab7e9b5108ca6c713de42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1343920501,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1343920501,
+    "wof:lastmodified":1537581013,
+    "wof:name":"Nailaj",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.83394000000001,
+    30.55032000000001,
+    61.83394000000001,
+    30.55032000000001
+],
+  "geometry": {"coordinates":[61.83394000000001,30.55032000000001],"type":"Point"}
+}

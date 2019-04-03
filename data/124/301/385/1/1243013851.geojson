@@ -1,0 +1,72 @@
+{
+  "id": 1243013851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70154,35.57322,67.70154,35.57322",
+    "geom:latitude":35.57322,
+    "geom:longitude":67.70154,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Baba 'Alim",
+    "gn:country_code":"AF",
+    "gn:dem":2659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147840,
+    "gn:latitude":35.57322,
+    "gn:longitude":67.70154,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u0101 \u2018Al\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101b\u0101 \u2018Al\u012bm",
+        "\u0628\u0627\u0628\u0627 \u0639\u0644\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"352bb10461ccde7417238e12729792cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1243013851,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1243013851,
+    "wof:lastmodified":1537582300,
+    "wof:name":"Baba 'Alim",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70154000000001,
+    35.57322,
+    67.70154000000001,
+    35.57322
+],
+  "geometry": {"coordinates":[67.70154000000001,35.57322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193228891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34028,32.70306,69.34028,32.70306",
+    "geom:latitude":32.70306,
+    "geom:longitude":69.34028,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Ranikay Tazay",
+    "gn:country_code":"AF",
+    "gn:dem":2214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433970,
+    "gn:latitude":32.70306,
+    "gn:longitude":69.34028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e5ea\u1e49\u012bkay Tazay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ranikaytezay",
+        "\u1e5ea\u1e49\u012bkay Tazay",
+        "Ran\u012bkay Tezay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433970
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e328898a5723a7ae142c623059ee18da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1193228891,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1193228891,
+    "wof:lastmodified":1537582699,
+    "wof:name":"Ranikay Tazay",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34028,
+    32.70306,
+    69.34028,
+    32.70306
+],
+  "geometry": {"coordinates":[69.34028000000001,32.70306],"type":"Point"}
+}

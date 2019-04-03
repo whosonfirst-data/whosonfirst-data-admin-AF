@@ -1,0 +1,66 @@
+{
+  "id": 1209374477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99993,35.55588,67.99993,35.55588",
+    "geom:latitude":35.55588,
+    "geom:longitude":67.99993,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Qarghanah",
+    "gn:country_code":"AF",
+    "gn:dem":2753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129543,
+    "gn:latitude":35.55588,
+    "gn:longitude":67.99993,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarghanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0631\u063a\u0646\u0647",
+        "Qarghaneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129543
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49aa1a2c8546fa0cb7ac6f99d3721b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209374477
+        }
+    ],
+    "wof:id":1209374477,
+    "wof:lastmodified":1537580740,
+    "wof:name":"Qarghanah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99993,
+    35.55588,
+    67.99993,
+    35.55588
+],
+  "geometry": {"coordinates":[67.99993000000001,35.55588],"type":"Point"}
+}

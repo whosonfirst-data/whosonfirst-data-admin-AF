@@ -1,0 +1,73 @@
+{
+  "id": 1276984365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44822,37.34052,71.44822,37.34052",
+    "geom:latitude":37.34052,
+    "geom:longitude":71.44822,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1109",
+    "gn:asciiname":"Wishtain",
+    "gn:country_code":"AF",
+    "gn:dem":2740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121578,
+    "gn:latitude":37.34052,
+    "gn:longitude":71.44822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u012bshta\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u012bs\u0304tayn",
+        "\u0648\u06cc\u0634\u062a\u06cc\u0646",
+        "W\u012bshta\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121578
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6cffd6ce1eb8484f4f4df75f10ec9f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1276984365,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276984365,
+    "wof:lastmodified":1537580050,
+    "wof:name":"Wishtain",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44821999999998,
+    37.34052,
+    71.44821999999998,
+    37.34052
+],
+  "geometry": {"coordinates":[71.44821999999998,37.34052],"type":"Point"}
+}

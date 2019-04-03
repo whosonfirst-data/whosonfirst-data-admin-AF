@@ -1,0 +1,72 @@
+{
+  "id": 1242836843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.9827,30.85344,61.9827,30.85344",
+    "geom:latitude":30.85344,
+    "geom:longitude":61.9827,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Chihil Ghatu",
+    "gn:country_code":"AF",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1435989,
+    "gn:latitude":30.85344,
+    "gn:longitude":61.9827,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chihil Ghat\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u010cehelghatu",
+        "Chihil Ghat\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435989
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34d537463df78d3d120aeaaed96dba4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1242836843,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1242836843,
+    "wof:lastmodified":1537582791,
+    "wof:name":"Chihil Ghatu",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.9827,
+    30.85344000000001,
+    61.9827,
+    30.85344000000001
+],
+  "geometry": {"coordinates":[61.9827,30.85344000000001],"type":"Point"}
+}

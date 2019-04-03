@@ -1,0 +1,74 @@
+{
+  "id": 1260307081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55198,35.80071,64.55198,35.80071",
+    "geom:latitude":35.80071,
+    "geom:longitude":64.55198,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1803",
+    "gn:asciiname":"Qarah Tanah",
+    "gn:country_code":"AF",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129650,
+    "gn:latitude":35.80071,
+    "gn:longitude":64.55198,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Tanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e5fa Tana",
+        "Qareh Tanah",
+        "Qarah Tanah",
+        "\u0642\u0631\u0647 \u062a\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129650
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8bec4a6a724c6aa36786a115782c1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561799,
+            "locality_id":1260307081,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1260307081,
+    "wof:lastmodified":1537580748,
+    "wof:name":"Qarah Tanah",
+    "wof:parent_id":1108561799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55198,
+    35.80070999999999,
+    64.55198,
+    35.80070999999999
+],
+  "geometry": {"coordinates":[64.55198,35.80070999999999],"type":"Point"}
+}

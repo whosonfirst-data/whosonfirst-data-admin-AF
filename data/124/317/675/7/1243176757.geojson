@@ -1,0 +1,78 @@
+{
+  "id": 1243176757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04757,34.41404,67.04757,34.41404",
+    "geom:latitude":34.41404,
+    "geom:longitude":67.04757,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Qal'ah-ye Wakil",
+    "gn:country_code":"AF",
+    "gn:dem":2772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462399,
+    "gn:latitude":34.41404,
+    "gn:longitude":67.04757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Wak\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kalavakil\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a Wak\u012bl",
+        "Qal\u2018a-i-Wak\u012bl",
+        "Qal\u2018ah-ye Wak\u012bl",
+        "Qal\u2018eh-ye-Vak\u012bl",
+        "\u0642\u0644\u0639\u0647 \u0648\u06a9\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462399
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a593eadcf6a712a61160b5ee039d764e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1243176757,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243176757,
+    "wof:lastmodified":1537583366,
+    "wof:name":"Qal'ah-ye Wakil",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04757,
+    34.41404,
+    67.04757,
+    34.41404
+],
+  "geometry": {"coordinates":[67.04756999999999,34.41404],"type":"Point"}
+}

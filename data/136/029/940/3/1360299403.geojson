@@ -1,0 +1,75 @@
+{
+  "id": 1360299403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38029,37.00737,73.38029,37.00737",
+    "geom:latitude":37.00737,
+    "geom:longitude":73.38029,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106",
+    "gn:asciiname":"Ptukh",
+    "gn:country_code":"AF",
+    "gn:dem":3255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130936,
+    "gn:latitude":37.00737,
+    "gn:longitude":73.38029,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pt\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pt\u016bkh",
+        "Pat\u016bkh",
+        "Pot\u014dkh",
+        "\u067e\u062a\u0648\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130936,
+        "wk:page":"Patukh"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f4e822de9bdf4f113757ac7bde88e2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1360299403,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360299403,
+    "wof:lastmodified":1537580882,
+    "wof:name":"Ptukh",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38029,
+    37.00737,
+    73.38029,
+    37.00737
+],
+  "geometry": {"coordinates":[73.38029,37.00737],"type":"Point"}
+}

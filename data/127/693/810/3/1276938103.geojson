@@ -1,0 +1,78 @@
+{
+  "id": 1276938103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.22914,33.06303,69.22914,33.06303",
+    "geom:latitude":33.06303,
+    "geom:longitude":69.22914,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Balay Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147313,
+    "gn:latitude":33.06303,
+    "gn:longitude":69.22914,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Balay K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0628\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Balaykalay",
+        "Balay K\u00ealay",
+        "Balay Kalay",
+        "\u0628\u0644\u06cc \u06a9\u0644\u06cc",
+        "\u0642\u0631\u064a\u06c0 \u0628\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e2a25dbcc7ae05b92b52a5f6ffaf05ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562557,
+            "locality_id":1276938103,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276938103,
+    "wof:lastmodified":1537582255,
+    "wof:name":"Balay Kelay",
+    "wof:parent_id":1108562557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.22914,
+    33.06303,
+    69.22914,
+    33.06303
+],
+  "geometry": {"coordinates":[69.22914,33.06303],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243504639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.80961,35.86162,66.80961,35.86162",
+    "geom:latitude":35.86162,
+    "geom:longitude":66.80961,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Mukhtar",
+    "gn:country_code":"AF",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132989,
+    "gn:latitude":35.86162,
+    "gn:longitude":66.80961,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mukht\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukht\u0101r",
+        "Mokht\u0101r",
+        "\u0645\u062e\u062a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132989
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17fd713ff93a6a12dc009bfeeee78471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1243504639,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243504639,
+    "wof:lastmodified":1537581055,
+    "wof:name":"Mukhtar",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.80960999999999,
+    35.86162,
+    66.80960999999999,
+    35.86162
+],
+  "geometry": {"coordinates":[66.80960999999999,35.86162],"type":"Point"}
+}

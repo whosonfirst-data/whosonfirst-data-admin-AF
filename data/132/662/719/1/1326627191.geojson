@@ -1,0 +1,75 @@
+{
+  "id": 1326627191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.31522,33.26444,68.31522,33.26444",
+    "geom:latitude":33.26444,
+    "geom:longitude":68.31522,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Kuz Litap",
+    "gn:country_code":"AF",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135089,
+    "gn:latitude":33.26444,
+    "gn:longitude":68.31522,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bz Litap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0632 \u0644\u062a\u067e"
+    ],
+    "name:und_x_variant":[
+        "Kuz-Litap",
+        "K\u016bz Litap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135089
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93ed948cd5749be44711376ee4ab94c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1326627191,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326627191,
+    "wof:lastmodified":1537581223,
+    "wof:name":"Kuz Litap",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.31522,
+    33.26444,
+    68.31522,
+    33.26444
+],
+  "geometry": {"coordinates":[68.31522,33.26444],"type":"Point"}
+}

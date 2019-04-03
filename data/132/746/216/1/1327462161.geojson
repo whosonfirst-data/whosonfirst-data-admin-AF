@@ -1,0 +1,75 @@
+{
+  "id": 1327462161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.94472,34.28549,65.94472,34.28549",
+    "geom:latitude":34.28549,
+    "geom:longitude":65.94472,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3408",
+    "gn:asciiname":"Shahristan",
+    "gn:country_code":"AF",
+    "gn:dem":2790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125861,
+    "gn:latitude":34.28549,
+    "gn:longitude":65.94472,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sha\u1e29rist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ahrest\u0101n",
+        "Shakhristan",
+        "Sha\u1e29rist\u0101n",
+        "\u0634\u062d\u0631\u0633\u062a\u0627\u0646",
+        "Shahrest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125861
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d85355d3ca064c6abb9cb2e5ca72a17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":1327462161,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327462161,
+    "wof:lastmodified":1537580422,
+    "wof:name":"Shahristan",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.94471999999999,
+    34.28549,
+    65.94471999999999,
+    34.28549
+],
+  "geometry": {"coordinates":[65.94471999999999,34.28549],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225925069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.84051,34.31531,62.84051,34.31531",
+    "geom:latitude":34.31531,
+    "geom:longitude":62.84051,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Sowr",
+    "gn:country_code":"AF",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126727,
+    "gn:latitude":34.31531,
+    "gn:longitude":62.84051,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0304owr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304aw\u1e5f",
+        "Saur",
+        "\u015eabr",
+        "S\u0304owr",
+        "\u062b\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126727
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c32fde83dacac20b8da1a24ccb64dfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1225925069,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1225925069,
+    "wof:lastmodified":1537580498,
+    "wof:name":"Sowr",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.84051,
+    34.31531,
+    62.84051,
+    34.31531
+],
+  "geometry": {"coordinates":[62.84051,34.31531],"type":"Point"}
+}

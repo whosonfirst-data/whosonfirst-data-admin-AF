@@ -1,0 +1,74 @@
+{
+  "id": 1243119253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14575,32.6908,69.14575,32.6908",
+    "geom:latitude":32.6908,
+    "geom:longitude":69.14575,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Istoway",
+    "gn:country_code":"AF",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433941,
+    "gn:latitude":32.6908,
+    "gn:longitude":69.14575,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Istoway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Istavay",
+        "Estaway",
+        "Istoway",
+        "\u0627\u0633\u062a\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433941
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1710933b071ab888ad1024fcb5521d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1243119253,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243119253,
+    "wof:lastmodified":1537582697,
+    "wof:name":"Istoway",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14575,
+    32.6908,
+    69.14575,
+    32.6908
+],
+  "geometry": {"coordinates":[69.14575000000001,32.6908],"type":"Point"}
+}

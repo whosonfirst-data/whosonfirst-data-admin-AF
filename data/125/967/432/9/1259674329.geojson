@@ -1,0 +1,77 @@
+{
+  "id": 1259674329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0317,32.09331,68.0317,32.09331",
+    "geom:latitude":32.09331,
+    "geom:longitude":68.0317,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Nakhil Shamali",
+    "gn:country_code":"AF",
+    "gn:dem":2402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132450,
+    "gn:latitude":32.09331,
+    "gn:longitude":68.0317,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101kh\u012bl Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Nakhil\u2019-Shamali"
+    ],
+    "name:und_x_variant":[
+        "N\u0101kh\u012bl S\u0304am\u0101li",
+        "\u0646\u0627\u062e\u06cc\u0644 \u0634\u0645\u0627\u0644\u06cc",
+        "N\u0101kh\u012bl Shom\u0101l\u012b",
+        "N\u0101kh\u012bl Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132450
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa688f7aec6f9e894da9d16d3b536bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1259674329,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259674329,
+    "wof:lastmodified":1537581008,
+    "wof:name":"Nakhil Shamali",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0317,
+    32.09331,
+    68.0317,
+    32.09331
+],
+  "geometry": {"coordinates":[68.0317,32.09331],"type":"Point"}
+}

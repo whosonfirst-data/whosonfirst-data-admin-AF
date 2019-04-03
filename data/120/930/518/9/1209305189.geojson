@@ -1,0 +1,70 @@
+{
+  "id": 1209305189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.5,33.42,67.5,33.42",
+    "geom:latitude":33.42,
+    "geom:longitude":67.5,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Bedkul'",
+    "gn:country_code":"AF",
+    "gn:dem":3462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146440,
+    "gn:latitude":33.42,
+    "gn:longitude":67.5,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bedkul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0434\u043a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bedkul\u2019",
+        "B\u0113\u1e0fq\u014dl",
+        "B\u012bdqowl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146440
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dee4bfbd946f04f4009660f678c7ba64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209305189
+        }
+    ],
+    "wof:id":1209305189,
+    "wof:lastmodified":1537582185,
+    "wof:name":"Bedkul'",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.5,
+    33.42,
+    67.5,
+    33.42
+],
+  "geometry": {"coordinates":[67.5,33.42],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193267813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.8981,34.25318,64.8981,34.25318",
+    "geom:latitude":34.25318,
+    "geom:longitude":64.8981,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Madhan",
+    "gn:country_code":"AF",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459906,
+    "gn:latitude":34.25318,
+    "gn:longitude":64.8981,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mad\u1e29an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mad\u1e29an",
+        "\u0645\u062f\u062d\u0646",
+        "\u0645\u062f\u062e\u0646",
+        "Madkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459906
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e66093b00e772b9b4d7ec9310aee8b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1193267813,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193267813,
+    "wof:lastmodified":1537583299,
+    "wof:name":"Madhan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.8981,
+    34.25318,
+    64.8981,
+    34.25318
+],
+  "geometry": {"coordinates":[64.8981,34.25318],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260296403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40152,35.26926,68.40152,35.26926",
+    "geom:latitude":35.26926,
+    "geom:longitude":68.40152,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Shakh-Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":3462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1125750,
+    "gn:latitude":35.26926,
+    "gn:longitude":68.40152,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101kh-Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "S\u0101kh-maz\u0101\u1e5f",
+        "Shakh Maz\u0101r",
+        "Sh\u0101kh-Maz\u0101r",
+        "\u0634\u0627\u062e \u0645\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125750
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3412f38a12600196f050973c422353a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1260296403,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1260296403,
+    "wof:lastmodified":1537580414,
+    "wof:name":"Shakh-Mazar",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40151999999999,
+    35.26926,
+    68.40151999999999,
+    35.26926
+],
+  "geometry": {"coordinates":[68.40151999999999,35.26926],"type":"Point"}
+}

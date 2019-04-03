@@ -1,0 +1,74 @@
+{
+  "id": 1259613133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78266,33.99989,65.78266,33.99989",
+    "geom:latitude":33.99989,
+    "geom:longitude":65.78266,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405",
+    "gn:asciiname":"Qurb 'Ali",
+    "gn:country_code":"AF",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128968,
+    "gn:latitude":33.99989,
+    "gn:longitude":65.78266,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qurb \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qu\u1e5fb\u2019ali",
+        "Qurb \u2018Al\u012b",
+        "\u0642\u0631\u0628 \u0639\u0644\u06cc",
+        "Qorb \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128968
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a1937b95f51d65de77d3b137f3ac6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1259613133,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1259613133,
+    "wof:lastmodified":1537580672,
+    "wof:name":"Qurb 'Ali",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78265999999999,
+    33.99989,
+    65.78265999999999,
+    33.99989
+],
+  "geometry": {"coordinates":[65.78265999999999,33.99989],"type":"Point"}
+}

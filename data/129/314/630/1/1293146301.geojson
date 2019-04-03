@@ -1,0 +1,71 @@
+{
+  "id": 1293146301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0071,35.49429,68.0071,35.49429",
+    "geom:latitude":35.49429,
+    "geom:longitude":68.0071,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Qaratqul",
+    "gn:country_code":"AF",
+    "gn:dem":2637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129649,
+    "gn:latitude":35.49429,
+    "gn:longitude":68.0071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaratqul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0631\u062a\u0642\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129649
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"400da61be36cbda726c4e7ba01a68a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1293146301,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293146301,
+    "wof:lastmodified":1537580748,
+    "wof:name":"Qaratqul",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0071,
+    35.49429,
+    68.0071,
+    35.49429
+],
+  "geometry": {"coordinates":[68.00709999999999,35.49429],"type":"Point"}
+}

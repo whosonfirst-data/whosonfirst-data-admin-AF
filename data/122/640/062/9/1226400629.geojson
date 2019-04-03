@@ -1,0 +1,73 @@
+{
+  "id": 1226400629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54775,32.42846,66.54775,32.42846",
+    "geom:latitude":32.42846,
+    "geom:longitude":66.54775,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414",
+    "gn:asciiname":"Sangnigar",
+    "gn:country_code":"AF",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127516,
+    "gn:latitude":32.42846,
+    "gn:longitude":66.54775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sangnig\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangnig\u0101r",
+        "\u0633\u0646\u06af\u0646\u06af\u0627\u0631",
+        "Sangneg\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127516
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4cda48c9c223362132fb139b34948d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1226400629,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226400629,
+    "wof:lastmodified":1537580562,
+    "wof:name":"Sangnigar",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54775,
+    32.42846,
+    66.54775,
+    32.42846
+],
+  "geometry": {"coordinates":[66.54774999999999,32.42846],"type":"Point"}
+}

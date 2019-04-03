@@ -1,0 +1,74 @@
+{
+  "id": 1293932757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.14083,35.46326,67.14083,35.46326",
+    "geom:latitude":35.46326,
+    "geom:longitude":67.14083,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Du Aw",
+    "gn:country_code":"AF",
+    "gn:dem":2569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142965,
+    "gn:latitude":35.46326,
+    "gn:longitude":67.14083,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b \u0100w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eo\u0101w",
+        "Do\u0101b",
+        "D\u016b \u0100w",
+        "\u062f\u0648 \u0622\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142965
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83634d2f369437f02ab66a340f20c992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1293932757,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293932757,
+    "wof:lastmodified":1537581875,
+    "wof:name":"Du Aw",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.14083000000001,
+    35.46326,
+    67.14083000000001,
+    35.46326
+],
+  "geometry": {"coordinates":[67.14083000000001,35.46326],"type":"Point"}
+}

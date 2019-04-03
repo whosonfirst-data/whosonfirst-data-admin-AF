@@ -1,0 +1,74 @@
+{
+  "id": 1226439337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33838,33.09006,67.33838,33.09006",
+    "geom:latitude":33.09006,
+    "geom:longitude":67.33838,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Sir Qol",
+    "gn:country_code":"AF",
+    "gn:dem":2717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124988,
+    "gn:latitude":33.09006,
+    "gn:longitude":67.33838,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u012br Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012b\u1e5fq\u014dl",
+        "Sh\u012br Qowl",
+        "S\u012br Q\u014dl",
+        "\u0633\u06cc\u0631 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124988
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ade02b42f9e5f53effe562ecf1eaf738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1226439337,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226439337,
+    "wof:lastmodified":1537580344,
+    "wof:name":"Sir Qol",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33838,
+    33.09006,
+    67.33838,
+    33.09006
+],
+  "geometry": {"coordinates":[67.33838,33.09006],"type":"Point"}
+}

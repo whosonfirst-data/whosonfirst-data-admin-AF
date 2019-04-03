@@ -1,0 +1,78 @@
+{
+  "id": 1310283163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.00912,34.24437,62.00912,34.24437",
+    "geom:latitude":34.24437,
+    "geom:longitude":62.00912,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Karezi-Sufi",
+    "gn:country_code":"AF",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137887,
+    "gn:latitude":34.24437,
+    "gn:longitude":62.00912,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karezi-Sufi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632\u0654 \u0635\u0648\u0641\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113z-i-\u015e\u016bfi",
+        "Karezi-Sufi",
+        "K\u0101r\u0113z-e \u015e\u016bf\u012b",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0635\u0648\u0641\u06cc",
+        "K\u0101r\u012bz-e \u015e\u016bf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137887
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db43838446375fa9cdf4f843f1f5f5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1310283163,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310283163,
+    "wof:lastmodified":1537581451,
+    "wof:name":"Karezi-Sufi",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.00912,
+    34.24437,
+    62.00912,
+    34.24437
+],
+  "geometry": {"coordinates":[62.00912,34.24437],"type":"Point"}
+}

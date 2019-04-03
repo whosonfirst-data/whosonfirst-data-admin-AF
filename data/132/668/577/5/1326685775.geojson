@@ -1,0 +1,71 @@
+{
+  "id": 1326685775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.74028,37.18056,68.74028,37.18056",
+    "geom:latitude":37.18056,
+    "geom:longitude":68.74028,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Kalacha",
+    "gn:country_code":"AF",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479658,
+    "gn:latitude":37.18056,
+    "gn:longitude":68.74028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u0101cheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479658
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5881d9dcef6c7a4a61ca0c2d5798114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1326685775,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1326685775,
+    "wof:lastmodified":1537583888,
+    "wof:name":"Kalacha",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.74028,
+    37.18056,
+    68.74028,
+    37.18056
+],
+  "geometry": {"coordinates":[68.74028,37.18056],"type":"Point"}
+}

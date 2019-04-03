@@ -1,0 +1,80 @@
+{
+  "id": 1327372685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99504,33.45822,69.99504,33.45822",
+    "geom:latitude":33.45822,
+    "geom:longitude":69.99504,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3209",
+    "gn:asciiname":"Yakubi",
+    "gn:country_code":"AF",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121265,
+    "gn:latitude":33.45822,
+    "gn:longitude":69.99504,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0639\u0642\u0648\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Yak\u016bbi",
+        "Yakubi",
+        "Ya\u2018q\u016bb\u012b",
+        "\u064a\u0639\u0642\u0648\u0628\u06cc",
+        "Ya\u2018q\u016bb",
+        "\u06cc\u0639\u0642\u0648\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121265,
+        "wk:page":"Yakubi"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c60ceca50607afa78f9639a319a03015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562421,
+            "locality_id":1327372685,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1327372685,
+    "wof:lastmodified":1537580032,
+    "wof:name":"Yakubi",
+    "wof:parent_id":1108562421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99504,
+    33.45822,
+    69.99504,
+    33.45822
+],
+  "geometry": {"coordinates":[69.99504,33.45822],"type":"Point"}
+}

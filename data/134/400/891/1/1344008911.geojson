@@ -1,0 +1,75 @@
+{
+  "id": 1344008911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.42543,32.87712,69.42543,32.87712",
+    "geom:latitude":32.87712,
+    "geom:longitude":69.42543,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909",
+    "gn:asciiname":"Zafar Kot",
+    "gn:country_code":"AF",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121134,
+    "gn:latitude":32.87712,
+    "gn:longitude":69.42543,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0327afar K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zafarkot",
+        "\u1e94afa\u1e5f K\u014dt",
+        "Z\u0327afar Kowt",
+        "Z\u0327afar K\u014d\u1e6f",
+        "\u0638\u0641\u0631 \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121134
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cbf67fca6db932fb6a60c6947ad52a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1344008911,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1344008911,
+    "wof:lastmodified":1537580025,
+    "wof:name":"Zafar Kot",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.42543,
+    32.87712,
+    69.42543,
+    32.87712
+],
+  "geometry": {"coordinates":[69.42543000000001,32.87712],"type":"Point"}
+}

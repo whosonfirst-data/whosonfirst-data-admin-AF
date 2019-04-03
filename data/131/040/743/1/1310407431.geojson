@@ -1,0 +1,74 @@
+{
+  "id": 1310407431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.2456,35.11566,68.2456,35.11566",
+    "geom:latitude":35.11566,
+    "geom:longitude":68.2456,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"'Ali Dost",
+    "gn:country_code":"AF",
+    "gn:dem":3054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428729,
+    "gn:latitude":35.11566,
+    "gn:longitude":68.2456,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b D\u014dst",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ali\u1e0f\u014dst",
+        "\u2018Al\u012b D\u016bst",
+        "\u2018Al\u012b D\u014dst",
+        "\u0639\u0644\u06cc \u062f\u0648\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428729
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ebf78c8cc8f7135f735dd0cc985a5d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1310407431,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310407431,
+    "wof:lastmodified":1537582664,
+    "wof:name":"'Ali Dost",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.2456,
+    35.11566,
+    68.2456,
+    35.11566
+],
+  "geometry": {"coordinates":[68.2456,35.11566],"type":"Point"}
+}

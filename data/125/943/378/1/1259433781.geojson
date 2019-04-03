@@ -1,0 +1,79 @@
+{
+  "id": 1259433781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53844,32.2516,66.53844,32.2516",
+    "geom:latitude":32.2516,
+    "geom:longitude":66.53844,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Jar Kanah",
+    "gn:country_code":"AF",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139387,
+    "gn:latitude":32.2516,
+    "gn:longitude":66.53844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar Kanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0643\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dzharkana",
+        "Ja\u1e5fkana",
+        "Jar Kanah",
+        "\u062c\u0631 \u06a9\u0646\u0647",
+        "Jarkaneh",
+        "\u062c\u0631\u0643\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139387
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a190c87ee4a1808bff2afaa77c56727f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1259433781,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259433781,
+    "wof:lastmodified":1537581572,
+    "wof:name":"Jar Kanah",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53844000000001,
+    32.2516,
+    66.53844000000001,
+    32.2516
+],
+  "geometry": {"coordinates":[66.53844000000001,32.2516],"type":"Point"}
+}

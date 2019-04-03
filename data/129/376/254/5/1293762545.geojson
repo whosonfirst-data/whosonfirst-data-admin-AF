@@ -1,0 +1,74 @@
+{
+  "id": 1293762545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.94868,32.1798,64.94868,32.1798",
+    "geom:latitude":32.1798,
+    "geom:longitude":64.94868,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Garizai",
+    "gn:country_code":"AF",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473647,
+    "gn:latitude":32.1798,
+    "gn:longitude":64.94868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101riza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charez",
+        "G\u0101riza\u012b",
+        "\u06af\u0627\u0631\u0632\u06cc",
+        "G\u0101\u1e5fezi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473647
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83461e3f18b730d46af0609065e22e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1293762545,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293762545,
+    "wof:lastmodified":1537583760,
+    "wof:name":"Garizai",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.94868000000001,
+    32.1798,
+    64.94868000000001,
+    32.1798
+],
+  "geometry": {"coordinates":[64.94868000000001,32.1798],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209872335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63517,31.21787,66.63517,31.21787",
+    "geom:latitude":31.21787,
+    "geom:longitude":66.63517,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Warghar",
+    "gn:country_code":"AF",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121596,
+    "gn:latitude":31.21787,
+    "gn:longitude":66.63517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wargha\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virgar",
+        "Wargha\u1e5f",
+        "W\u0113rghar",
+        "\u0648\u0631\u063a\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121596
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ee66d00dee8032565860b69ca450f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1209872335,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209872335,
+    "wof:lastmodified":1537580050,
+    "wof:name":"Warghar",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63517,
+    31.21787,
+    66.63517,
+    31.21787
+],
+  "geometry": {"coordinates":[66.63517,31.21787],"type":"Point"}
+}

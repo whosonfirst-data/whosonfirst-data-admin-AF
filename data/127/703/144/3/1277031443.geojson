@@ -1,0 +1,77 @@
+{
+  "id": 1277031443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23824,36.71308,69.23824,36.71308",
+    "geom:latitude":36.71308,
+    "geom:longitude":69.23824,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202",
+    "gn:asciiname":"Shah 'Ali",
+    "gn:country_code":"AF",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126081,
+    "gn:latitude":36.71308,
+    "gn:longitude":69.23824,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445-\u0410\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101h \u2018Ali",
+        "Shakh-Ali",
+        "Sh\u0101h \u2018Al\u012b",
+        "\u0634\u0627\u0647 \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126081
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1329b67668ec8c0bce33586b0a41d98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1277031443,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1277031443,
+    "wof:lastmodified":1537580440,
+    "wof:name":"Shah 'Ali",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23824,
+    36.71308,
+    69.23824,
+    36.71308
+],
+  "geometry": {"coordinates":[69.23824,36.71308],"type":"Point"}
+}

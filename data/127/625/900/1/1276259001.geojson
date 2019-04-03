@@ -1,0 +1,74 @@
+{
+  "id": 1276259001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40815,33.99541,66.40815,33.99541",
+    "geom:latitude":33.99541,
+    "geom:longitude":66.40815,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403.0",
+    "gn:asciiname":"Nawah",
+    "gn:country_code":"AF",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449015,
+    "gn:latitude":33.99541,
+    "gn:longitude":66.40815,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101wa",
+        "N\u0101wah",
+        "\u0646\u0627\u0648\u0647",
+        "N\u0101veh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449015
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c585e885d2701873443e90d489aab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1276259001,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276259001,
+    "wof:lastmodified":1537582999,
+    "wof:name":"Nawah",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40815,
+    33.99541,
+    66.40815,
+    33.99541
+],
+  "geometry": {"coordinates":[66.40815000000001,33.99541],"type":"Point"}
+}

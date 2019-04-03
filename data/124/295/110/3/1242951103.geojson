@@ -1,0 +1,75 @@
+{
+  "id": 1242951103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.90081,34.22784,62.90081,34.22784",
+    "geom:latitude":34.22784,
+    "geom:longitude":62.90081,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460626,
+    "gn:latitude":34.22784,
+    "gn:longitude":62.90081,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kala",
+        "Qal\u2018a",
+        "Qal\u2018eh",
+        "Qal\u2018ah",
+        "\u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460626
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90a5fd9b37ba2e332118bdcd6992e75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1242951103,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242951103,
+    "wof:lastmodified":1537583332,
+    "wof:name":"Qal'ah",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.90081,
+    34.22784,
+    62.90081,
+    34.22784
+],
+  "geometry": {"coordinates":[62.90081,34.22784],"type":"Point"}
+}

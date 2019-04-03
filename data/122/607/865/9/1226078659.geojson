@@ -1,0 +1,77 @@
+{
+  "id": 1226078659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97313,37.03825,65.97313,37.03825",
+    "geom:latitude":37.03825,
+    "geom:longitude":65.97313,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Quli",
+    "gn:country_code":"AF",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135581,
+    "gn:latitude":37.03825,
+    "gn:longitude":65.97313,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qul\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qulli",
+        "Q\u014dli",
+        "Koinli",
+        "Qowl\u012b",
+        "Qul\u012b",
+        "\u0642\u0644\u06cc",
+        "Kow\u012bnl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135581
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09914ac72de833d9d3a38715ca4ceda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1226078659,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1226078659,
+    "wof:lastmodified":1537581268,
+    "wof:name":"Quli",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97313,
+    37.03825,
+    65.97313,
+    37.03825
+],
+  "geometry": {"coordinates":[65.97313,37.03825],"type":"Point"}
+}

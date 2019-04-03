@@ -1,0 +1,73 @@
+{
+  "id": 1259616921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27587,32.96335,66.27587,32.96335",
+    "geom:latitude":32.96335,
+    "geom:longitude":66.27587,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Awrang",
+    "gn:country_code":"AF",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147970,
+    "gn:latitude":32.96335,
+    "gn:longitude":66.27587,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aurang",
+        "Awrang",
+        "\u0627\u0648\u0631\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147970
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f99493aec0f7646e7fb027eaeaa2229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1259616921,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1259616921,
+    "wof:lastmodified":1537582308,
+    "wof:name":"Awrang",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27587,
+    32.96335,
+    66.27587,
+    32.96335
+],
+  "geometry": {"coordinates":[66.27587,32.96335],"type":"Point"}
+}

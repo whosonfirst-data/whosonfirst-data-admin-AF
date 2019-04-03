@@ -1,0 +1,75 @@
+{
+  "id": 1243267885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2,36.85,70.2,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":70.2,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102",
+    "gn:asciiname":"Teshkan",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122485,
+    "gn:latitude":36.85,
+    "gn:longitude":70.2,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Teshk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101z\u0101\u1e5f-i-T\u0113s\u0304k\u0101n",
+        "Tes\u0304k\u0101n",
+        "Tesh G\u0101n",
+        "Teshk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122485
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cae623f0ce2170f81f792da58c28c648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562197,
+            "locality_id":1243267885,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243267885,
+    "wof:lastmodified":1537580117,
+    "wof:name":"Teshkan",
+    "wof:parent_id":1108562197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2,
+    36.85,
+    70.2,
+    36.85
+],
+  "geometry": {"coordinates":[70.2,36.85],"type":"Point"}
+}

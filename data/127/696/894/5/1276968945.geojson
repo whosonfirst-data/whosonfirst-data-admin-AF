@@ -1,0 +1,76 @@
+{
+  "id": 1276968945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40482,34.33705,66.40482,34.33705",
+    "geom:latitude":34.33705,
+    "geom:longitude":66.40482,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Dahan-e War-e Burguch",
+    "gn:country_code":"AF",
+    "gn:dem":2804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456143,
+    "gn:latitude":34.33705,
+    "gn:longitude":66.40482,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e W\u0101r-e Burg\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahane W\u0101re Burgu\u010d",
+        "Dakhani-Vari-Burguch",
+        "Dahan-e W\u0101r-e Burguch",
+        "Dahan-e W\u0101r-e Barg\u016bch",
+        "Dahan-e W\u0101r-e Burg\u016bch",
+        "\u062f\u0647\u0646 \u0648\u0627\u0631 \u0628\u0631\u06af\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456143
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec50ab70ebf5dc435edb21788d132f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1276968945,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276968945,
+    "wof:lastmodified":1537583168,
+    "wof:name":"Dahan-e War-e Burguch",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40482,
+    34.33705,
+    66.40482,
+    34.33705
+],
+  "geometry": {"coordinates":[66.40482,34.33705],"type":"Point"}
+}

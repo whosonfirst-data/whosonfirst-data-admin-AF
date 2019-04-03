@@ -1,0 +1,74 @@
+{
+  "id": 1343926379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.2954,31.48044,65.2954,31.48044",
+    "geom:latitude":31.48044,
+    "geom:longitude":65.2954,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416",
+    "gn:asciiname":"Kakaran",
+    "gn:country_code":"AF",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138683,
+    "gn:latitude":31.48044,
+    "gn:longitude":65.2954,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kakaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101kor\u0101n",
+        "K\u0101ka\u1e5f\u0101n",
+        "\u06a9\u0627\u06a9\u0693\u0627\u0646",
+        "K\u0101kar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138683
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db0c8658117d1480d80fe02e02865340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1343926379,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343926379,
+    "wof:lastmodified":1537581517,
+    "wof:name":"Kakaran",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.2954,
+    31.48044,
+    65.2954,
+    31.48044
+],
+  "geometry": {"coordinates":[65.2954,31.48044],"type":"Point"}
+}

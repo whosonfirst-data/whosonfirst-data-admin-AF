@@ -1,0 +1,74 @@
+{
+  "id": 1276192477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60165,36.69094,69.60165,36.69094",
+    "geom:latitude":36.69094,
+    "geom:longitude":69.60165,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Khosti",
+    "gn:country_code":"AF",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136466,
+    "gn:latitude":36.69094,
+    "gn:longitude":69.60165,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dst\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u014dsti",
+        "Khowsti",
+        "Kh\u014dst\u012b",
+        "\u062e\u0648\u0633\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136466
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"18311d0b03d644515539a1dcadabf39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1276192477,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1276192477,
+    "wof:lastmodified":1537581344,
+    "wof:name":"Khosti",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60165,
+    36.69094000000001,
+    69.60165,
+    36.69094000000001
+],
+  "geometry": {"coordinates":[69.60165000000001,36.69094000000001],"type":"Point"}
+}

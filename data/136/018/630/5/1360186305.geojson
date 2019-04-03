@@ -1,0 +1,73 @@
+{
+  "id": 1360186305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03503,35.95181,69.03503,35.95181",
+    "geom:latitude":35.95181,
+    "geom:longitude":69.03503,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Alamtu",
+    "gn:country_code":"AF",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149064,
+    "gn:latitude":35.95181,
+    "gn:longitude":69.03503,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alamt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alamt\u016b",
+        "\u0627\u0644\u0645\u062a\u0648",
+        "Alamtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149064
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6433e6382bd5f28a8415f84c1b4ee221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1360186305,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1360186305,
+    "wof:lastmodified":1537582387,
+    "wof:name":"Alamtu",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03503,
+    35.95180999999999,
+    69.03503,
+    35.95180999999999
+],
+  "geometry": {"coordinates":[69.03503000000001,35.95180999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226751585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60939,38.31327,70.60939,38.31327",
+    "geom:latitude":38.31327,
+    "geom:longitude":70.60939,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121",
+    "gn:asciiname":"Zangirya",
+    "gn:country_code":"AF",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121025,
+    "gn:latitude":38.31327,
+    "gn:longitude":70.60939,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zangiry\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangr\u012b\u0101",
+        "Zangriya",
+        "\u0632\u0646\u06af\u0631\u06cc\u0627",
+        "Zangery\u0101",
+        "Zangir\u012b\u0101",
+        "Zangiry\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121025,
+        "wk:page":"Zangerya"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c899063d13b3d7598c734db20fb2aa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1226751585,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226751585,
+    "wof:lastmodified":1537580019,
+    "wof:name":"Zangirya",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60939,
+    38.31327,
+    70.60939,
+    38.31327
+],
+  "geometry": {"coordinates":[70.60939,38.31327],"type":"Point"}
+}

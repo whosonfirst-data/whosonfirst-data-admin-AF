@@ -1,0 +1,76 @@
+{
+  "id": 1260277033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05743,32.35599,65.05743,32.35599",
+    "geom:latitude":32.35599,
+    "geom:longitude":65.05743,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Newi Karez",
+    "gn:country_code":"AF",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132201,
+    "gn:latitude":32.35599,
+    "gn:longitude":65.05743,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u00eaw\u012b K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navay-Karez",
+        "Naway K\u0101\u1e5f\u0113z",
+        "Nowat",
+        "N\u00eaw\u012b K\u0101r\u0113z",
+        "\u0646\u0648\u06cc \u06a9\u0627\u0631\u06d0\u0632",
+        "Navay K\u0101r\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132201
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0911d95578c3a6e30dc29a9f9236fdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1260277033,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1260277033,
+    "wof:lastmodified":1537580990,
+    "wof:name":"Newi Karez",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05743000000001,
+    32.35599000000001,
+    65.05743000000001,
+    32.35599000000001
+],
+  "geometry": {"coordinates":[65.05743000000001,32.35599000000001],"type":"Point"}
+}

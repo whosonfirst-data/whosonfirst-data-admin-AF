@@ -1,0 +1,77 @@
+{
+  "id": 1344243139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93225,34.56272,68.93225,34.56272",
+    "geom:latitude":34.56272,
+    "geom:longitude":68.93225,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"108.0",
+    "gn:asciiname":"Pasha'i",
+    "gn:country_code":"AF",
+    "gn:dem":2291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454605,
+    "gn:latitude":34.56272,
+    "gn:longitude":68.93225,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pasha\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pashai",
+        "Pa\u0161a\u2019i",
+        "Pasha\u2019i",
+        "Pasha\u2019ey",
+        "Pashahy\u012b",
+        "Pasha\u2019\u012b",
+        "\u067e\u0634\u0639\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454605
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09de16fb2f0725abf0d4d1c3ef7f9665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562345,
+            "locality_id":1344243139,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1344243139,
+    "wof:lastmodified":1537583126,
+    "wof:name":"Pasha'i",
+    "wof:parent_id":1108562345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93225,
+    34.56272,
+    68.93225,
+    34.56272
+],
+  "geometry": {"coordinates":[68.93225,34.56272],"type":"Point"}
+}

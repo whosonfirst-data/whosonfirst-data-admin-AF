@@ -1,0 +1,78 @@
+{
+  "id": 1260232387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21397,35.22156,69.21397,35.22156",
+    "geom:latitude":35.22156,
+    "geom:longitude":69.21397,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Bagh-e Maidan",
+    "gn:country_code":"AF",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1423264,
+    "gn:latitude":35.22156,
+    "gn:longitude":69.21397,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh-e Ma\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u063a \u0645\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ghe May\u1e0f\u0101n",
+        "Bagi-Maydan",
+        "Bagh-e Meyd\u0101n",
+        "B\u0101gh-e Ma\u012bd\u0101n",
+        "\u0628\u0627\u063a \u0645\u06cc\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423264
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f326d88a77266ce755904d0dd713cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1260232387,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1260232387,
+    "wof:lastmodified":1537582554,
+    "wof:name":"Bagh-e Maidan",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21396999999999,
+    35.22156,
+    69.21396999999999,
+    35.22156
+],
+  "geometry": {"coordinates":[69.21396999999999,35.22156],"type":"Point"}
+}

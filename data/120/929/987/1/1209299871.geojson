@@ -1,0 +1,73 @@
+{
+  "id": 1209299871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73001,33.70967,67.73001,33.70967",
+    "geom:latitude":33.70967,
+    "geom:longitude":67.73001,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Faqir",
+    "gn:country_code":"AF",
+    "gn:dem":3143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142287,
+    "gn:latitude":33.70967,
+    "gn:longitude":67.73001,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Faq\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0642\u064a\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043a\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Fakir",
+        "Faq\u012br",
+        "\u0641\u0642\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142287
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f6ca59a9c7121acc37ac72a550e6aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209299871
+        }
+    ],
+    "wof:id":1209299871,
+    "wof:lastmodified":1537581815,
+    "wof:name":"Faqir",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73001,
+    33.70967,
+    67.73001,
+    33.70967
+],
+  "geometry": {"coordinates":[67.73000999999999,33.70967],"type":"Point"}
+}

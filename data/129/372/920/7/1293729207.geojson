@@ -1,0 +1,73 @@
+{
+  "id": 1293729207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90869,34.72743,70.90869,34.72743",
+    "geom:latitude":34.72743,
+    "geom:longitude":70.90869,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Barbar",
+    "gn:country_code":"AF",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474269,
+    "gn:latitude":34.72743,
+    "gn:longitude":70.90869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u1e5fba\u1e5f",
+        "Barbar",
+        "\u0628\u0631\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474269
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"761fef86488737715cd3fe7450864793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561913,
+            "locality_id":1293729207,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293729207,
+    "wof:lastmodified":1537583792,
+    "wof:name":"Barbar",
+    "wof:parent_id":1108561913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90869,
+    34.72743,
+    70.90869,
+    34.72743
+],
+  "geometry": {"coordinates":[70.90869000000001,34.72743],"type":"Point"}
+}

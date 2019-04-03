@@ -1,0 +1,76 @@
+{
+  "id": 1326777941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41009,31.63417,67.41009,31.63417",
+    "geom:latitude":31.63417,
+    "geom:longitude":67.41009,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Akhundzadah Shelah",
+    "gn:country_code":"AF",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436129,
+    "gn:latitude":31.63417,
+    "gn:longitude":67.41009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100kh\u016bndz\u0101dah Sh\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100khun\u1e0fz\u0101\u1e0fah S\u0113la",
+        "Akhundzada-Shela",
+        "\u0100kh\u016bndz\u0101dah Shaylah",
+        "\u0622\u062e\u0648\u0646\u0632\u0627\u062f\u0647 \u0634\u06d0\u0644\u0647",
+        "\u0100khvondz\u0101deh Sh\u0113lah",
+        "\u0100kh\u016bndz\u0101dah Sh\u0113lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436129
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e38f99b9c518390507f8d2470566c737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1326777941,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1326777941,
+    "wof:lastmodified":1537582804,
+    "wof:name":"Akhundzadah Shelah",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41009,
+    31.63417,
+    67.41009,
+    31.63417
+],
+  "geometry": {"coordinates":[67.41009,31.63417],"type":"Point"}
+}

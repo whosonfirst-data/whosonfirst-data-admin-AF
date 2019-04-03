@@ -1,0 +1,80 @@
+{
+  "id": 1293489265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70625,36.15182,68.70625,36.15182",
+    "geom:latitude":36.15182,
+    "geom:longitude":68.70625,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1311.0",
+    "gn:asciiname":"Beg Zad",
+    "gn:country_code":"AF",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409337,
+    "gn:latitude":36.15182,
+    "gn:longitude":68.70625,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113g Z\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u06af \u0632\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0433\u0437\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Begzad",
+        "B\u0113g Z\u0101d",
+        "Beyg Z\u0101d",
+        "\u0628\u06d0\u06af \u0632\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409337
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a511c6253ad89637088d90a9e87c41fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1293489265,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293489265,
+    "wof:lastmodified":1537582530,
+    "wof:name":"Beg Zad",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70625,
+    36.15182,
+    68.70625,
+    36.15182
+],
+  "geometry": {"coordinates":[68.70625,36.15182],"type":"Point"}
+}

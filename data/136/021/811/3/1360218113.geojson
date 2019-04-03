@@ -1,0 +1,74 @@
+{
+  "id": 1360218113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62533,33.73095,66.62533,33.73095",
+    "geom:latitude":33.73095,
+    "geom:longitude":66.62533,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Shah Baydak",
+    "gn:country_code":"AF",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437698,
+    "gn:latitude":33.73095,
+    "gn:longitude":66.62533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Baydak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101hb\u0113dak",
+        "Sh\u0101h B\u012bdak",
+        "Sh\u0101h Baydak",
+        "\u0634\u0627\u0647 \u0628\u06cc\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437698
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c59dd49ea12a60044722d62e62256683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1360218113,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1360218113,
+    "wof:lastmodified":1537582854,
+    "wof:name":"Shah Baydak",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62533,
+    33.73095,
+    66.62533,
+    33.73095
+],
+  "geometry": {"coordinates":[66.62533000000001,33.73095],"type":"Point"}
+}

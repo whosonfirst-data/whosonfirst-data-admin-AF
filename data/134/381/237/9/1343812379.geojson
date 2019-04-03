@@ -1,0 +1,76 @@
+{
+  "id": 1343812379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6744,34.34323,68.6744,34.34323",
+    "geom:latitude":34.34323,
+    "geom:longitude":68.6744,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"408",
+    "gn:asciiname":"Shamshayr",
+    "gn:country_code":"AF",
+    "gn:dem":2421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125642,
+    "gn:latitude":34.34323,
+    "gn:longitude":68.6744,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shamshayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160am\u0161\u0113r",
+        "Shamsh\u0113r",
+        "Shamsher",
+        "Shamshayr",
+        "Shamsh\u012br",
+        "\u0634\u0645\u0634\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125642
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f0a8372a78e392873510434ae916d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562331,
+            "locality_id":1343812379,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343812379,
+    "wof:lastmodified":1537580405,
+    "wof:name":"Shamshayr",
+    "wof:parent_id":1108562331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6744,
+    34.34323,
+    68.6744,
+    34.34323
+],
+  "geometry": {"coordinates":[68.67440000000001,34.34323],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343775763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66634,37.92452,70.66634,37.92452",
+    "geom:latitude":37.92452,
+    "geom:longitude":70.66634,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Parkhich",
+    "gn:country_code":"AF",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467282,
+    "gn:latitude":37.92452,
+    "gn:longitude":70.66634,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Parkh\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u1e5fkh\u012bc",
+        "\u067e\u0631\u062e\u06cc\u0686",
+        "Pa\u1e5fkh\u012bch",
+        "Parkh\u012bch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467282
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1dc989af78a7b8348794afce4d82b722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1343775763,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343775763,
+    "wof:lastmodified":1537583462,
+    "wof:name":"Parkhich",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66634,
+    37.92452,
+    70.66634,
+    37.92452
+],
+  "geometry": {"coordinates":[70.66634000000001,37.92452],"type":"Point"}
+}

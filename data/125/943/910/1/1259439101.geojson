@@ -1,0 +1,75 @@
+{
+  "id": 1259439101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.63931,31.50307,65.63931,31.50307",
+    "geom:latitude":31.50307,
+    "geom:longitude":65.63931,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Khadan",
+    "gn:country_code":"AF",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407173,
+    "gn:latitude":31.50307,
+    "gn:longitude":65.63931,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khad\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u062f\u064e\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khad\u0101n",
+        "\u062e\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407173
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b91e3881e47e2a9676935c249955074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1259439101,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259439101,
+    "wof:lastmodified":1537582505,
+    "wof:name":"Khadan",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.63931,
+    31.50307,
+    65.63931,
+    31.50307
+],
+  "geometry": {"coordinates":[65.63930999999999,31.50307],"type":"Point"}
+}

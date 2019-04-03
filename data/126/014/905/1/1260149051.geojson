@@ -1,0 +1,78 @@
+{
+  "id": 1260149051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43371,31.55229,65.43371,31.55229",
+    "geom:latitude":31.55229,
+    "geom:longitude":65.43371,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Haji Bismullah",
+    "gn:country_code":"AF",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466868,
+    "gn:latitude":31.55229,
+    "gn:longitude":65.43371,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b Bismull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0628\u0633\u0645\u0644\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khadzhibismilla",
+        "\u1e28\u0101ji Besmell\u0101h",
+        "\u1e28\u0101j\u012b Bismull\u0101h",
+        "\u062d\u0627\u062c\u06cc \u0628\u0633\u0645 \u0627\u0644\u0644\u0640\u0647",
+        "\u1e28\u0101jj\u012b Besmell\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466868
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"84e6fdac9740cfa8a0ed208a8e6da793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1260149051,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260149051,
+    "wof:lastmodified":1537583444,
+    "wof:name":"Haji Bismullah",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43370999999999,
+    31.55229000000001,
+    65.43370999999999,
+    31.55229000000001
+],
+  "geometry": {"coordinates":[65.43370999999999,31.55229000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293797665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0265,37.03401,71.0265,37.03401",
+    "geom:latitude":37.03401,
+    "geom:longitude":71.0265,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Yarim",
+    "gn:country_code":"AF",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468635,
+    "gn:latitude":37.03401,
+    "gn:longitude":71.0265,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yar\u012bm",
+        "\u06cc\u0631\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468635
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b482d57a347378e09f23f14d855ff8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562453,
+            "locality_id":1293797665,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293797665,
+    "wof:lastmodified":1537583566,
+    "wof:name":"Yarim",
+    "wof:parent_id":1108562453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0265,
+    37.03401,
+    71.0265,
+    37.03401
+],
+  "geometry": {"coordinates":[71.0265,37.03401],"type":"Point"}
+}

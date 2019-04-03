@@ -1,0 +1,73 @@
+{
+  "id": 1310299813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10837,35.10194,65.10837,35.10194",
+    "geom:latitude":35.10194,
+    "geom:longitude":65.10837,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2708",
+    "gn:asciiname":"Kurpi",
+    "gn:country_code":"AF",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135196,
+    "gn:latitude":35.10194,
+    "gn:longitude":65.10837,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kurp\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurp\u012b",
+        "\u06a9\u0631\u067e\u06cc",
+        "Ku\u1e5fpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135196
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"efbcab95b914a0f7789f6c3193a0c972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561911,
+            "locality_id":1310299813,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310299813,
+    "wof:lastmodified":1537581234,
+    "wof:name":"Kurpi",
+    "wof:parent_id":1108561911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10837,
+    35.10194,
+    65.10837,
+    35.10194
+],
+  "geometry": {"coordinates":[65.10836999999999,35.10194],"type":"Point"}
+}

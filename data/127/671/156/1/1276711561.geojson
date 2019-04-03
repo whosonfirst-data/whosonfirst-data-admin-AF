@@ -1,0 +1,76 @@
+{
+  "id": 1276711561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78422,33.1615,68.78422,33.1615",
+    "geom:latitude":33.1615,
+    "geom:longitude":68.78422,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Gulawal",
+    "gn:country_code":"AF",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435140,
+    "gn:latitude":33.1615,
+    "gn:longitude":68.78422,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul\u0101w\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Cholaval\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0644\u0627\u0648\u0627\u0644",
+        "Gol\u0101w\u0101l",
+        "Gul\u0101w\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435140
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3130744c641c685edc9a21045c78a60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1276711561,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276711561,
+    "wof:lastmodified":1537582756,
+    "wof:name":"Gulawal",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78421999999999,
+    33.1615,
+    68.78421999999999,
+    33.1615
+],
+  "geometry": {"coordinates":[68.78421999999999,33.1615],"type":"Point"}
+}

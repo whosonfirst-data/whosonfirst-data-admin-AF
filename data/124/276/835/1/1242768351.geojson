@@ -1,0 +1,74 @@
+{
+  "id": 1242768351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21276,32.82459,68.21276,32.82459",
+    "geom:latitude":32.82459,
+    "geom:longitude":68.21276,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Terwak",
+    "gn:country_code":"AF",
+    "gn:dem":2098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480612,
+    "gn:latitude":32.82459,
+    "gn:longitude":68.21276,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u00earwak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tervak",
+        "\u062a\u0631\u0648\u06a9",
+        "Terwak",
+        "T\u00earwak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480612
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8e9b1fbb1f58777e889fce56878b7a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1242768351,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242768351,
+    "wof:lastmodified":1537583890,
+    "wof:name":"Terwak",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21276,
+    32.82459,
+    68.21276,
+    32.82459
+],
+  "geometry": {"coordinates":[68.21276,32.82459],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226326847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.72728,33.73995,64.72728,33.73995",
+    "geom:latitude":33.73995,
+    "geom:longitude":64.72728,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Olamqul",
+    "gn:country_code":"AF",
+    "gn:dem":2602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131554,
+    "gn:latitude":33.73995,
+    "gn:longitude":64.72728,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Olamq\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ulamkul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Olamq\u016bl",
+        "\u0627\u0644\u0645\u0642\u0648\u0644",
+        "Olamqol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131554
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d7d1dd2351aab6bd4e3b0250d30fd51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1226326847,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226326847,
+    "wof:lastmodified":1537580930,
+    "wof:name":"Olamqul",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.72728000000001,
+    33.73995,
+    64.72728000000001,
+    33.73995
+],
+  "geometry": {"coordinates":[64.72728000000001,33.73995],"type":"Point"}
+}

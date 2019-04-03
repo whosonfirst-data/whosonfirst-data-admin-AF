@@ -1,0 +1,74 @@
+{
+  "id": 1259551949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.82416,31.72369,66.82416,31.72369",
+    "geom:latitude":31.72369,
+    "geom:longitude":66.82416,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Gari Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141820,
+    "gn:latitude":31.72369,
+    "gn:longitude":66.82416,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101r\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garikalay",
+        "G\u0101r\u012b K\u00ealay",
+        "\u06af\u0627\u0631\u06cc \u06a9\u0644\u06cc",
+        "G\u0101\u1e5fi Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141820
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d897665092c967c2bafa48c4c8debdb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1259551949,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259551949,
+    "wof:lastmodified":1537581777,
+    "wof:name":"Gari Kelay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.82415999999999,
+    31.72369,
+    66.82415999999999,
+    31.72369
+],
+  "geometry": {"coordinates":[66.82415999999999,31.72369],"type":"Point"}
+}

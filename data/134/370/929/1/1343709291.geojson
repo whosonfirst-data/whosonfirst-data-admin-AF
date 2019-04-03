@@ -1,0 +1,77 @@
+{
+  "id": 1343709291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44353,34.10471,68.44353,34.10471",
+    "geom:latitude":34.10471,
+    "geom:longitude":68.44353,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406",
+    "gn:asciiname":"Gulab Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140845,
+    "gn:latitude":34.10471,
+    "gn:longitude":68.44353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul\u0101b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gulabkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Gol\u0101bkh\u0113l",
+        "Gol\u0101bkheyl",
+        "Gul\u0101b Kh\u0113l",
+        "\u06af\u0644\u0627\u0628 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140845
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e92b7148fcdedd0c55223e480a15e652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1343709291,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343709291,
+    "wof:lastmodified":1537581699,
+    "wof:name":"Gulab Khel",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44353000000001,
+    34.10471,
+    68.44353000000001,
+    34.10471
+],
+  "geometry": {"coordinates":[68.44353000000001,34.10471],"type":"Point"}
+}

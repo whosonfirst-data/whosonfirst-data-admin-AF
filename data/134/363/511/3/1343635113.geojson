@@ -1,0 +1,78 @@
+{
+  "id": 1343635113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4132,35.10188,69.4132,35.10188",
+    "geom:latitude":35.10188,
+    "geom:longitude":69.4132,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"203.0",
+    "gn:asciiname":"Qal'ah-ye Mashrab",
+    "gn:country_code":"AF",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423496,
+    "gn:latitude":35.10188,
+    "gn:longitude":69.4132,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Mashrab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0645\u0634\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kalayi-Mashrab",
+        "Qal\u2018a Ma\u0161rab",
+        "Qal\u2018eh-ye Mashrab",
+        "Qal\u2018ah-ye Mashrab",
+        "\u0642\u0644\u0639\u06c0 \u0645\u0634\u0631\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5bc92d14ad78c31d6e5f890ac8d6a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562201,
+            "locality_id":1343635113,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1343635113,
+    "wof:lastmodified":1537582578,
+    "wof:name":"Qal'ah-ye Mashrab",
+    "wof:parent_id":1108562201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4132,
+    35.10188,
+    69.4132,
+    35.10188
+],
+  "geometry": {"coordinates":[69.4132,35.10188],"type":"Point"}
+}

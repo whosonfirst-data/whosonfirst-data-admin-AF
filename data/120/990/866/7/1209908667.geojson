@@ -1,0 +1,73 @@
+{
+  "id": 1209908667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.38431,32.11554,61.38431,32.11554",
+    "geom:latitude":32.11554,
+    "geom:longitude":61.38431,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2110.0",
+    "gn:asciiname":"Ghulamabad",
+    "gn:country_code":"AF",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1438813,
+    "gn:latitude":32.11554,
+    "gn:longitude":61.38431,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghul\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ghul\u0101m\u0101b\u0101d",
+        "\u063a\u0644\u0627\u0645 \u0622\u0628\u0627\u062f",
+        "Ghol\u0101m\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438813
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"27f9046f90839500919efac0df651803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1209908667,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1209908667,
+    "wof:lastmodified":1537582897,
+    "wof:name":"Ghulamabad",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.38431,
+    32.11554,
+    61.38431,
+    32.11554
+],
+  "geometry": {"coordinates":[61.38431,32.11554],"type":"Point"}
+}

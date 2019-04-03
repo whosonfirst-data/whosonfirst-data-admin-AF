@@ -1,0 +1,72 @@
+{
+  "id": 1209514353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78222,34.54088,66.78222,34.54088",
+    "geom:latitude":34.54088,
+    "geom:longitude":66.78222,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Gandah Kotal",
+    "gn:country_code":"AF",
+    "gn:dem":2932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141967,
+    "gn:latitude":34.54088,
+    "gn:longitude":66.78222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gandah K\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gandakotal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Gandakowtal",
+        "Gan\u1e0fak\u014dtal",
+        "Gandah K\u014dtal",
+        "Gandehkowtal",
+        "\u06af\u0646\u062f\u0647 \u06a9\u0648\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141967
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"644b9a60d8f7095bff55b64c1e60f4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209514353
+        }
+    ],
+    "wof:id":1209514353,
+    "wof:lastmodified":1537581789,
+    "wof:name":"Gandah Kotal",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78222,
+    34.54088,
+    66.78222,
+    34.54088
+],
+  "geometry": {"coordinates":[66.78222,34.54088],"type":"Point"}
+}

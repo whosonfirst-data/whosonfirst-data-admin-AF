@@ -1,0 +1,72 @@
+{
+  "id": 1209892339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95003,33.81985,68.95003,33.81985",
+    "geom:latitude":33.81985,
+    "geom:longitude":68.95003,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"502.0",
+    "gn:asciiname":"Ahingaran",
+    "gn:country_code":"AF",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7050994,
+    "gn:latitude":33.81985,
+    "gn:longitude":68.95003,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100hingar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100hingar\u0101n",
+        "\u0622\u062d\u0646\u06af\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7050994
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e752875b67414f326da0b5c6f66f80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561909,
+            "locality_id":1209892339,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1209892339,
+    "wof:lastmodified":1537583908,
+    "wof:name":"Ahingaran",
+    "wof:parent_id":1108561909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95003,
+    33.81985,
+    68.95003,
+    33.81985
+],
+  "geometry": {"coordinates":[68.95003,33.81985],"type":"Point"}
+}

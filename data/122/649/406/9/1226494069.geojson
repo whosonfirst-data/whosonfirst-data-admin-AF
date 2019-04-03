@@ -1,0 +1,75 @@
+{
+  "id": 1226494069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.97334,33.52583,69.97334,33.52583",
+    "geom:latitude":33.52583,
+    "geom:longitude":69.97334,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3209.0",
+    "gn:asciiname":"Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144960,
+    "gn:latitude":33.52583,
+    "gn:longitude":69.97334,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "China",
+        "\u010cina",
+        "Ch\u012bneh",
+        "Ch\u012bnah",
+        "\u0686\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d830a4a9ecfac6bad88ece03f64668dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562421,
+            "locality_id":1226494069,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1226494069,
+    "wof:lastmodified":1537582058,
+    "wof:name":"Chinah",
+    "wof:parent_id":1108562421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.97334000000001,
+    33.52583,
+    69.97334000000001,
+    33.52583
+],
+  "geometry": {"coordinates":[69.97334000000001,33.52583],"type":"Point"}
+}

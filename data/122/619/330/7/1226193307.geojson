@@ -1,0 +1,78 @@
+{
+  "id": 1226193307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13822,31.97858,67.13822,31.97858",
+    "geom:latitude":31.97858,
+    "geom:longitude":67.13822,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Pungi Shamali",
+    "gn:country_code":"AF",
+    "gn:dem":2270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130370,
+    "gn:latitude":31.97858,
+    "gn:longitude":67.13822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u016bng\u012b Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0646\u06af\u0626 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "P\u016bng\u012b \u0160am\u0101li",
+        "P\u016bng\u012b Sham\u0101l\u012b",
+        "P\u016bng\u012b-ye Sham\u0101l\u012b",
+        "\u067e\u0648\u0646\u06af\u06cc \u0634\u0645\u0627\u0644\u06cc",
+        "P\u016bng\u012b-ye Shom\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130370
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5eef09009608d6e47b4849910ccca578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1226193307,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226193307,
+    "wof:lastmodified":1537580833,
+    "wof:name":"Pungi Shamali",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13821999999999,
+    31.97858,
+    67.13821999999999,
+    31.97858
+],
+  "geometry": {"coordinates":[67.13821999999999,31.97858],"type":"Point"}
+}

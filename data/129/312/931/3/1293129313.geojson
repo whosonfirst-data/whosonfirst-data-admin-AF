@@ -1,0 +1,72 @@
+{
+  "id": 1293129313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85806,33.37917,66.85806,33.37917",
+    "geom:latitude":33.37917,
+    "geom:longitude":66.85806,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402.0",
+    "gn:asciiname":"Seyyedkenad",
+    "gn:country_code":"AF",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442588,
+    "gn:latitude":33.37917,
+    "gn:longitude":66.85806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Seyyedk\u0113n\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saydk\u0113n\u0101\u1e0f",
+        "Seyyedk\u0113n\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442588
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a3e9122b087dd7764a27f4994c66420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1293129313,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293129313,
+    "wof:lastmodified":1537582931,
+    "wof:name":"Seyyedkenad",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85806,
+    33.37917,
+    66.85806,
+    33.37917
+],
+  "geometry": {"coordinates":[66.85805999999999,33.37917],"type":"Point"}
+}

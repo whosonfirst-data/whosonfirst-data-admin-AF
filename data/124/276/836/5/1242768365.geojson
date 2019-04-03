@@ -1,0 +1,72 @@
+{
+  "id": 1242768365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.5179,33.27744,68.5179,33.27744",
+    "geom:latitude":33.27744,
+    "geom:longitude":68.5179,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Pana",
+    "gn:country_code":"AF",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131180,
+    "gn:latitude":33.27744,
+    "gn:longitude":68.5179,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pan\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan\u0101",
+        "\u067e\u0646\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131180
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f721e6866aa31a03e4c87c080b95e0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1242768365,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242768365,
+    "wof:lastmodified":1537580901,
+    "wof:name":"Pana",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.5179,
+    33.27744000000001,
+    68.5179,
+    33.27744000000001
+],
+  "geometry": {"coordinates":[68.5179,33.27744000000001],"type":"Point"}
+}

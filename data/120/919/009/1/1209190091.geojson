@@ -1,0 +1,71 @@
+{
+  "id": 1209190091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05118,34.21113,70.05118,34.21113",
+    "geom:latitude":34.21113,
+    "geom:longitude":70.05118,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804",
+    "gn:asciiname":"Malik Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134151,
+    "gn:latitude":34.21113,
+    "gn:longitude":70.05118,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malik Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0643 \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Malikkala",
+        "Malek Kal\u0101",
+        "Malik Kal\u0101",
+        "\u0645\u0644\u06a9 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134151
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"665119106083190c635b7228aeedf9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209190091
+        }
+    ],
+    "wof:id":1209190091,
+    "wof:lastmodified":1537581153,
+    "wof:name":"Malik Kala",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05118,
+    34.21113,
+    70.05118,
+    34.21113
+],
+  "geometry": {"coordinates":[70.05118,34.21113],"type":"Point"}
+}

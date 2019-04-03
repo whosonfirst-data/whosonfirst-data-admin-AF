@@ -1,0 +1,74 @@
+{
+  "id": 1225878107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.85302,34.26045,65.85302,34.26045",
+    "geom:latitude":34.26045,
+    "geom:longitude":65.85302,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3408.0",
+    "gn:asciiname":"Dahan-Badak",
+    "gn:country_code":"AF",
+    "gn:dem":2595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144716,
+    "gn:latitude":34.26045,
+    "gn:longitude":65.85302,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-Badak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhanbadak",
+        "Dahan-Badak",
+        "\u062f\u0647\u0646 \u0628\u062f\u06a9",
+        "Dahan B\u0101dak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144716
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1ad332713f45bb50ed0236d040157181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":1225878107,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1225878107,
+    "wof:lastmodified":1537582036,
+    "wof:name":"Dahan-Badak",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.85302,
+    34.26045,
+    65.85302,
+    34.26045
+],
+  "geometry": {"coordinates":[65.85302,34.26045],"type":"Point"}
+}

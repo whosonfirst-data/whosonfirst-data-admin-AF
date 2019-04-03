@@ -1,0 +1,78 @@
+{
+  "id": 1260335129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08167,32.12361,69.08167,32.12361",
+    "geom:latitude":32.12361,
+    "geom:longitude":69.08167,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Mukhtar Menah",
+    "gn:country_code":"AF",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349500,
+    "gn:latitude":32.12361,
+    "gn:longitude":69.08167,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mukht\u0101r M\u0113nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062e\u062a\u0627\u0631 \u0645\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Mukhtamena",
+        "Mukht\u0101\u1e5f M\u0113na",
+        "\u0645\u062e\u062a\u0627\u0631 \u0645\u06d0\u0646\u0647",
+        "Mokht\u0101r M\u0113\u1e49ah",
+        "Mukht\u0101r M\u0113nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349500
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f690289172b77d09e5babb1e5b76c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1260335129,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1260335129,
+    "wof:lastmodified":1537582454,
+    "wof:name":"Mukhtar Menah",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08166999999999,
+    32.12361,
+    69.08166999999999,
+    32.12361
+],
+  "geometry": {"coordinates":[69.08166999999999,32.12361],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259544881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15294,31.9232,67.15294,31.9232",
+    "geom:latitude":31.9232,
+    "geom:longitude":67.15294,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Umin Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121952,
+    "gn:latitude":31.9232,
+    "gn:longitude":67.15294,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016am\u012bn Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0645\u064a\u0646 \u062e\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u016am\u012bn Kh\u0113l",
+        "\u0627\u0648\u0645\u06cc\u0646 \u062e\u06d0\u0644",
+        "\u016am\u012bn Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121952
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d92ce3852a5efc3d7af8ddd3a23c1cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1259544881,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259544881,
+    "wof:lastmodified":1537580075,
+    "wof:name":"Umin Khel",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15294,
+    31.9232,
+    67.15294,
+    31.9232
+],
+  "geometry": {"coordinates":[67.15294,31.9232],"type":"Point"}
+}

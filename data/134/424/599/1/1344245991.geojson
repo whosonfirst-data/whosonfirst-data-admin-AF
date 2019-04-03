@@ -1,0 +1,73 @@
+{
+  "id": 1344245991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93485,32.99835,64.93485,32.99835",
+    "geom:latitude":32.99835,
+    "geom:longitude":64.93485,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Pay Sang",
+    "gn:country_code":"AF",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130801,
+    "gn:latitude":32.99835,
+    "gn:longitude":64.93485,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101y Sang",
+        "\u067e\u0627\u06cc \u0633\u0646\u06af",
+        "Paysang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130801
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ee45d64380da4f50f0236a3273fed35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1344245991,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1344245991,
+    "wof:lastmodified":1537580869,
+    "wof:name":"Pay Sang",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93485,
+    32.99835,
+    64.93485,
+    32.99835
+],
+  "geometry": {"coordinates":[64.93485,32.99835],"type":"Point"}
+}

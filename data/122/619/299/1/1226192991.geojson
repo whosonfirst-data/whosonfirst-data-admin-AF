@@ -1,0 +1,77 @@
+{
+  "id": 1226192991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8661,32.08637,68.8661,32.08637",
+    "geom:latitude":32.08637,
+    "geom:longitude":68.8661,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Sur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123570,
+    "gn:latitude":32.08637,
+    "gn:longitude":68.8661,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0633\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Surkalay",
+        "\u0633\u0648\u0631 \u06a9\u0644\u06cc",
+        "S\u016b\u1e5f Kalay",
+        "S\u016br K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"71e490e150fc4d5b6ad822cabeb4ac16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1226192991,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226192991,
+    "wof:lastmodified":1537580234,
+    "wof:name":"Sur Kelay",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8661,
+    32.08637,
+    68.8661,
+    32.08637
+],
+  "geometry": {"coordinates":[68.8661,32.08637],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209160127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37128,35.86418,67.37128,35.86418",
+    "geom:latitude":35.86418,
+    "geom:longitude":67.37128,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Binimang",
+    "gn:country_code":"AF",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146412,
+    "gn:latitude":35.86418,
+    "gn:longitude":67.37128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Binimang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0646\u0645\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146412
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"528710b1bd0b0396f815d11e846f1f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209160127
+        }
+    ],
+    "wof:id":1209160127,
+    "wof:lastmodified":1537582182,
+    "wof:name":"Binimang",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37128,
+    35.86418,
+    67.37128,
+    35.86418
+],
+  "geometry": {"coordinates":[67.37128,35.86418],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309874241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62537,31.07347,66.62537,31.07347",
+    "geom:latitude":31.07347,
+    "geom:longitude":66.62537,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Kiril",
+    "gn:country_code":"AF",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465570,
+    "gn:latitude":31.07347,
+    "gn:longitude":66.62537,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kiril",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kiril\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u00ear\u00eal",
+        "Kerel",
+        "Kiril",
+        "\u06a9\u0631\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca25b3221f1575f974ff445f743ed22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1309874241,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309874241,
+    "wof:lastmodified":1537583405,
+    "wof:name":"Kiril",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62536999999999,
+    31.07347,
+    66.62536999999999,
+    31.07347
+],
+  "geometry": {"coordinates":[66.62536999999999,31.07347],"type":"Point"}
+}

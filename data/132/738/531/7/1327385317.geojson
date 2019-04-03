@@ -1,0 +1,74 @@
+{
+  "id": 1327385317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.7298,35.05851,68.7298,35.05851",
+    "geom:latitude":35.05851,
+    "geom:longitude":68.7298,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Karatah",
+    "gn:country_code":"AF",
+    "gn:dem":2482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464878,
+    "gn:latitude":35.05851,
+    "gn:longitude":68.7298,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karatah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karata",
+        "Ka\u1e5fata",
+        "Karatah",
+        "\u06a9\u0631\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464878
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4ead24aa3d4049721b6c992659552495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1327385317,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1327385317,
+    "wof:lastmodified":1537583386,
+    "wof:name":"Karatah",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.7298,
+    35.05851,
+    68.7298,
+    35.05851
+],
+  "geometry": {"coordinates":[68.7298,35.05851],"type":"Point"}
+}

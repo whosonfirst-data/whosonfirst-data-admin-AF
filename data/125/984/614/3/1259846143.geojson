@@ -1,0 +1,72 @@
+{
+  "id": 1259846143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57063,34.48596,68.57063,34.48596",
+    "geom:latitude":34.48596,
+    "geom:longitude":68.57063,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Zar Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457088,
+    "gn:latitude":34.48596,
+    "gn:longitude":68.57063,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zar Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarsang",
+        "\u0632\u0631 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457088
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c1d9dcbf4d885730ef3b8884ab5a5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1259846143,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1259846143,
+    "wof:lastmodified":1537583212,
+    "wof:name":"Zar Sang",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57063000000001,
+    34.48596,
+    68.57063000000001,
+    34.48596
+],
+  "geometry": {"coordinates":[68.57063000000001,34.48596],"type":"Point"}
+}

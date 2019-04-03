@@ -1,0 +1,74 @@
+{
+  "id": 1293193113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.29019,33.13013,64.29019,33.13013",
+    "geom:latitude":33.13013,
+    "geom:longitude":64.29019,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Sang-e Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127602,
+    "gn:latitude":33.13013,
+    "gn:longitude":64.29019,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang Maz\u0101r",
+        "Sangi-Mazar",
+        "Sang-e Maz\u0101r",
+        "\u0633\u0646\u06af \u0645\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127602
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"744d6fb7f315b3ae5bc302ec9ba34369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1293193113,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293193113,
+    "wof:lastmodified":1537580566,
+    "wof:name":"Sang-e Mazar",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.29019,
+    33.13013,
+    64.29019,
+    33.13013
+],
+  "geometry": {"coordinates":[64.29019,33.13013],"type":"Point"}
+}

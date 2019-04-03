@@ -1,0 +1,78 @@
+{
+  "id": 1226584821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.31869,34.97592,71.31869,34.97592",
+    "geom:latitude":34.97592,
+    "geom:longitude":71.31869,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Loyah Belah",
+    "gn:country_code":"AF",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452114,
+    "gn:latitude":34.97592,
+    "gn:longitude":71.31869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dyah B\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0644\u0647\u0654 \u0643\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "L\u014dya B\u0113la",
+        "Loya-Bela",
+        "L\u014dyah B\u0113lah",
+        "L\u016byah B\u012blah",
+        "\u0644\u0648\u06cc\u0647 \u0628\u06d0\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452114
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dce864c315d880a7e7fccaa7ee62f7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1226584821,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1226584821,
+    "wof:lastmodified":1537583086,
+    "wof:name":"Loyah Belah",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.31869,
+    34.97592,
+    71.31869,
+    34.97592
+],
+  "geometry": {"coordinates":[71.31869,34.97592],"type":"Point"}
+}

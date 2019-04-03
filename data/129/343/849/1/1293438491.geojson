@@ -1,0 +1,72 @@
+{
+  "id": 1293438491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.21892,36.0578,66.21892,36.0578",
+    "geom:latitude":36.0578,
+    "geom:longitude":66.21892,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3105",
+    "gn:asciiname":"Siltar",
+    "gn:country_code":"AF",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126422,
+    "gn:latitude":36.0578,
+    "gn:longitude":66.21892,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0644\u062a\u0631",
+        "Seltar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126422
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7192e2b3168eb382bf069cd676386756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562515,
+            "locality_id":1293438491,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1293438491,
+    "wof:lastmodified":1537580476,
+    "wof:name":"Siltar",
+    "wof:parent_id":1108562515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.21892,
+    36.0578,
+    66.21892,
+    36.0578
+],
+  "geometry": {"coordinates":[66.21892,36.0578],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226699297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47344,36.04609,67.47344,36.04609",
+    "geom:latitude":36.04609,
+    "geom:longitude":67.47344,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Akhtji",
+    "gn:country_code":"AF",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149169,
+    "gn:latitude":36.04609,
+    "gn:longitude":67.47344,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Akhtj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhtj\u012b",
+        "\u0627\u062e\u062a\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149169
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2101f404572a9d5b294d75c7053ec40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1226699297,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1226699297,
+    "wof:lastmodified":1537582396,
+    "wof:name":"Akhtji",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47344,
+    36.04609,
+    67.47344,
+    36.04609
+],
+  "geometry": {"coordinates":[67.47344,36.04609],"type":"Point"}
+}

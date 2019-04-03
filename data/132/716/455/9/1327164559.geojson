@@ -1,0 +1,75 @@
+{
+  "id": 1327164559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.17083,34.00571,66.17083,34.00571",
+    "geom:latitude":34.00571,
+    "geom:longitude":66.17083,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403.0",
+    "gn:asciiname":"Buz Murdah",
+    "gn:country_code":"AF",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146238,
+    "gn:latitude":34.00571,
+    "gn:longitude":66.17083,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Buz Murdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzmu\u1e5f\u1e0fa",
+        "Buzmurda",
+        "Buz Murdah",
+        "Bozmordeh",
+        "\u0628\u0632 \u0645\u0631\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146238
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0156df68cf6cfb774074ef4a3c324c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1327164559,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327164559,
+    "wof:lastmodified":1537582166,
+    "wof:name":"Buz Murdah",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.17083000000001,
+    34.00571,
+    66.17083000000001,
+    34.00571
+],
+  "geometry": {"coordinates":[66.17083000000001,34.00571],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259734399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48303,32.57529,67.48303,32.57529",
+    "geom:latitude":32.57529,
+    "geom:longitude":67.48303,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Haji Taj Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140295,
+    "gn:latitude":32.57529,
+    "gn:longitude":67.48303,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b T\u0101j Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhitadzh-Mukhammed",
+        "H\u0331\u0101ji T\u0101j Mo\u1e96\u1e0f",
+        "H\u0331\u0101ji T\u0101j Mo\u1e96amma\u1e0f",
+        "\u1e28\u0101j\u012b T\u0101j Mu\u1e29ammad",
+        "\u062d\u0627\u062c\u06cc \u062a\u0627\u062c \u0645\u062d\u0645\u062f",
+        "\u1e28\u0101jj\u012b T\u0101j Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140295
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff4712bd410b2b6150a7a0a2b2b62010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1259734399,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259734399,
+    "wof:lastmodified":1537581648,
+    "wof:name":"Haji Taj Muhammad",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48303,
+    32.57529,
+    67.48303,
+    32.57529
+],
+  "geometry": {"coordinates":[67.48303,32.57529],"type":"Point"}
+}

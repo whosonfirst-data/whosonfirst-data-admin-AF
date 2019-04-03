@@ -1,0 +1,74 @@
+{
+  "id": 1276976935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03904,34.00601,68.03904,34.00601",
+    "geom:latitude":34.00601,
+    "geom:longitude":68.03904,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Dahan-e Yakhshi",
+    "gn:country_code":"AF",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144336,
+    "gn:latitude":34.00601,
+    "gn:longitude":68.03904,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Yakhsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Yakshi",
+        "Dahane Yakh\u0161i",
+        "Dahan-e Yakhsh\u012b",
+        "\u062f\u0647\u0646 \u06cc\u062e\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144336
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2802534eac3df2bac1b3ff3ba399dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1276976935,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276976935,
+    "wof:lastmodified":1537581990,
+    "wof:name":"Dahan-e Yakhshi",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03904,
+    34.00601,
+    68.03904,
+    34.00601
+],
+  "geometry": {"coordinates":[68.03904,34.00601],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226527715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.04523,34.07741,68.04523,34.07741",
+    "geom:latitude":34.07741,
+    "geom:longitude":68.04523,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Karez-e Gholak",
+    "gn:country_code":"AF",
+    "gn:dem":2774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458965,
+    "gn:latitude":34.07741,
+    "gn:longitude":68.04523,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Gh\u014dlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113ze Gh\u014dlak",
+        "K\u0101\u1e5f\u0113z Gh\u014dlak",
+        "Karezgulak",
+        "K\u0101r\u0113z-e Gh\u014dlak",
+        "K\u0101r\u012bz-e Gh\u016blak",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u063a\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458965
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c42a44275af65950f14b85c8705e080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226527715,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226527715,
+    "wof:lastmodified":1537583282,
+    "wof:name":"Karez-e Gholak",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.04523,
+    34.07741,
+    68.04523,
+    34.07741
+],
+  "geometry": {"coordinates":[68.04523,34.07741],"type":"Point"}
+}

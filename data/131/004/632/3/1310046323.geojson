@@ -1,0 +1,72 @@
+{
+  "id": 1310046323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.268,34.50716,70.268,34.50716",
+    "geom:latitude":34.50716,
+    "geom:longitude":70.268,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Surdag",
+    "gn:country_code":"AF",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564109,
+    "gn:latitude":34.50716,
+    "gn:longitude":70.268,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br\u1e0f\u0101g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016br\u1e0f\u0101g",
+        "\u0633\u0648\u0631\u0689\u0627\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564109
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"888bb2dd50bd33541a7384966fc3fe95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1310046323,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1310046323,
+    "wof:lastmodified":1537583935,
+    "wof:name":"Surdag",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.268,
+    34.50716,
+    70.268,
+    34.50716
+],
+  "geometry": {"coordinates":[70.268,34.50716],"type":"Point"}
+}

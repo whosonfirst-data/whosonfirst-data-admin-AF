@@ -1,0 +1,74 @@
+{
+  "id": 1209862435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12805,36.24015,67.12805,36.24015",
+    "geom:latitude":36.24015,
+    "geom:longitude":67.12805,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609.0",
+    "gn:asciiname":"Dahganah",
+    "gn:country_code":"AF",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144310,
+    "gn:latitude":36.24015,
+    "gn:longitude":67.12805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahg\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahgana",
+        "Dahganah",
+        "Dahg\u0101nah",
+        "\u062f\u0647 \u06af\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144310
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b50ff2873695d51764f3d83ff0f4e8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1209862435,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1209862435,
+    "wof:lastmodified":1537581987,
+    "wof:name":"Dahganah",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12805,
+    36.24015,
+    67.12805,
+    36.24015
+],
+  "geometry": {"coordinates":[67.12805,36.24015],"type":"Point"}
+}

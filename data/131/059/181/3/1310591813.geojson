@@ -1,0 +1,74 @@
+{
+  "id": 1310591813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35919,33.70062,68.35919,33.70062",
+    "geom:latitude":33.70062,
+    "geom:longitude":68.35919,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"603",
+    "gn:asciiname":"Shahabuk",
+    "gn:country_code":"AF",
+    "gn:dem":2492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1126086,
+    "gn:latitude":33.70062,
+    "gn:longitude":68.35919,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shah\u0101buk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sakhabuk",
+        "\u0160ah\u0101buk",
+        "Shah\u0101buk",
+        "\u0634\u0647\u0627\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b922198cc3e11b26ee4075e1dc33949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562195,
+            "locality_id":1310591813,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310591813,
+    "wof:lastmodified":1537580440,
+    "wof:name":"Shahabuk",
+    "wof:parent_id":1108562195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35919,
+    33.70062,
+    68.35919,
+    33.70062
+],
+  "geometry": {"coordinates":[68.35919,33.70062],"type":"Point"}
+}

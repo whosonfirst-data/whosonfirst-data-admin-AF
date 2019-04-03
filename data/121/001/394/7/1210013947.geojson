@@ -1,0 +1,74 @@
+{
+  "id": 1210013947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.8759,32.62561,62.8759,32.62561",
+    "geom:latitude":32.62561,
+    "geom:longitude":62.8759,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Now Bahar",
+    "gn:country_code":"AF",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1131757,
+    "gn:latitude":32.62561,
+    "gn:longitude":62.8759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now Bah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Razvaliny Nau-Bakhar",
+        "Naw Bah\u0101\u1e5f",
+        "Now Bah\u0101r",
+        "\u0646\u0648 \u0628\u0647\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd64cd62b28ea4a397ccadae590b93ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1210013947,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1210013947,
+    "wof:lastmodified":1537580950,
+    "wof:name":"Now Bahar",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.8759,
+    32.62560999999999,
+    62.8759,
+    32.62560999999999
+],
+  "geometry": {"coordinates":[62.8759,32.62560999999999],"type":"Point"}
+}

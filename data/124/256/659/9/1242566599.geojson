@@ -1,0 +1,75 @@
+{
+  "id": 1242566599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.23244,33.2771,65.23244,33.2771",
+    "geom:latitude":33.2771,
+    "geom:longitude":65.23244,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Butkhar",
+    "gn:country_code":"AF",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146079,
+    "gn:latitude":33.2771,
+    "gn:longitude":65.23244,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Butkh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0445\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Butkh\u0101r",
+        "\u0628\u062a\u062e\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146079
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a7d494776a02309b2fc05c1922289cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1242566599,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242566599,
+    "wof:lastmodified":1537582154,
+    "wof:name":"Butkhar",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.23244,
+    33.2771,
+    65.23244,
+    33.2771
+],
+  "geometry": {"coordinates":[65.23244,33.2771],"type":"Point"}
+}

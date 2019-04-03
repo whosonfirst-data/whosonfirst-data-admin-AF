@@ -1,0 +1,78 @@
+{
+  "id": 1226735193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.76624,33.40433,67.76624,33.40433",
+    "geom:latitude":33.40433,
+    "geom:longitude":67.76624,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Baraki",
+    "gn:country_code":"AF",
+    "gn:dem":3138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147071,
+    "gn:latitude":33.40433,
+    "gn:longitude":67.76624,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0643\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Barak\u012b",
+        "\u0628\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"19538d4504d0f08944c2512118a972e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226735193,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226735193,
+    "wof:lastmodified":1537582238,
+    "wof:name":"Baraki",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.76624,
+    33.40433,
+    67.76624,
+    33.40433
+],
+  "geometry": {"coordinates":[67.76624,33.40433],"type":"Point"}
+}

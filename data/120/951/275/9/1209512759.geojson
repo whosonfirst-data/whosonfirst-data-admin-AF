@@ -1,0 +1,70 @@
+{
+  "id": 1209512759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.8431,33.01749,63.8431,33.01749",
+    "geom:latitude":33.01749,
+    "geom:longitude":63.8431,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Koh Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1440046,
+    "gn:latitude":33.01749,
+    "gn:longitude":63.8431,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dh Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sah\u1e5feb\u0101nu",
+        "K\u014dh Darah",
+        "\u06a9\u0648\u0647 \u062f\u0631\u0647",
+        "Kodarah",
+        "Shahr-e B\u0101n\u016b",
+        "\u0634\u0647\u0631 \u0628\u0627\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1440046
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31dc08732fcae59bf5553d011341cc1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209512759
+        }
+    ],
+    "wof:id":1209512759,
+    "wof:lastmodified":1537582928,
+    "wof:name":"Koh Darah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.8431,
+    33.01749,
+    63.8431,
+    33.01749
+],
+  "geometry": {"coordinates":[63.8431,33.01749],"type":"Point"}
+}

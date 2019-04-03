@@ -1,0 +1,74 @@
+{
+  "id": 1293796693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.92796,34.7411,62.92796,34.7411",
+    "geom:latitude":34.7411,
+    "geom:longitude":62.92796,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Chilunak",
+    "gn:country_code":"AF",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145136,
+    "gn:latitude":34.7411,
+    "gn:longitude":62.92796,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chil\u016bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chel\u016bnak",
+        "Chil\u016bnak",
+        "\u0686\u0644\u0648\u0646\u06a9",
+        "Cel\u016bnak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145136
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17cbce2a2ff09b4fd99dc446df717898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561775,
+            "locality_id":1293796693,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293796693,
+    "wof:lastmodified":1537582078,
+    "wof:name":"Chilunak",
+    "wof:parent_id":1108561775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.92796,
+    34.7411,
+    62.92796,
+    34.7411
+],
+  "geometry": {"coordinates":[62.92796,34.7411],"type":"Point"}
+}

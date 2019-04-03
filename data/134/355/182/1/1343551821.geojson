@@ -1,0 +1,82 @@
+{
+  "id": 1343551821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75703,33.17123,67.75703,33.17123",
+    "geom:latitude":33.17123,
+    "geom:longitude":67.75703,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Qal'ah-ye Razi",
+    "gn:country_code":"AF",
+    "gn:dem":2571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129835,
+    "gn:latitude":33.17123,
+    "gn:longitude":67.75703,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye R\u0101\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0631\u0627\u0636\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439\u0438-\u0420\u0430\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a-i-\u1e5e\u0101\u1e0f\u1e95i",
+        "Kalayi-Razi",
+        "Qal\u2018eh-ye R\u0101\u1e95\u012b",
+        "Qal\u2018ah-ye R\u0101\u1e95\u012b",
+        "\u0642\u0644\u0639\u06c0 \u0631\u0627\u0636\u06cc",
+        "\u0642\u0644\u0639\u0647\u0654 \u0631\u0627\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129835
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d03d06dd2a7c66c02b0a6defc95f786b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1343551821,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343551821,
+    "wof:lastmodified":1537580770,
+    "wof:name":"Qal'ah-ye Razi",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75703,
+    33.17123,
+    67.75703,
+    33.17123
+],
+  "geometry": {"coordinates":[67.75703,33.17123],"type":"Point"}
+}

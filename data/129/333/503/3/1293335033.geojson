@@ -1,0 +1,76 @@
+{
+  "id": 1293335033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14658,34.69338,70.14658,34.69338",
+    "geom:latitude":34.69338,
+    "geom:longitude":70.14658,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Badin Khel",
+    "gn:country_code":"AF",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474490,
+    "gn:latitude":34.69338,
+    "gn:longitude":70.14658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101d\u012bn Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Badinkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "B\u0101d\u012bn Kh\u0113l",
+        "B\u0101d\u012bnkheyl",
+        "\u0628\u0627\u062f\u06cc\u0646 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"55703a6eac6f0f7a6b8241b053b85b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1293335033,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1293335033,
+    "wof:lastmodified":1537583809,
+    "wof:name":"Badin Khel",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14658,
+    34.69338,
+    70.14658,
+    34.69338
+],
+  "geometry": {"coordinates":[70.14658,34.69338],"type":"Point"}
+}

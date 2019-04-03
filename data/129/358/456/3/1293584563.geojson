@@ -1,0 +1,75 @@
+{
+  "id": 1293584563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.17091,33.29265,67.17091,33.29265",
+    "geom:latitude":33.29265,
+    "geom:longitude":67.17091,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Bazar-e Malistan",
+    "gn:country_code":"AF",
+    "gn:dem":2904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134134,
+    "gn:latitude":33.29265,
+    "gn:longitude":67.17091,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101z\u0101r-e M\u0101list\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101z\u0101\u1e5f-e M\u0101lest\u0101n",
+        "M\u0101lest\u0101n",
+        "B\u0101z\u0101r-e M\u0101list\u0101n",
+        "\u0628\u0627\u0632\u0627\u0631 \u0645\u0627\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134134,
+        "wk:page":"Malestan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f31381ae43c28a13943c6d558c0696b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1293584563,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293584563,
+    "wof:lastmodified":1537581151,
+    "wof:name":"Bazar-e Malistan",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.17090999999999,
+    33.29265,
+    67.17090999999999,
+    33.29265
+],
+  "geometry": {"coordinates":[67.17090999999999,33.29265],"type":"Point"}
+}

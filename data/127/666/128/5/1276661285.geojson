@@ -1,0 +1,73 @@
+{
+  "id": 1276661285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32595,37.66378,70.32595,37.66378",
+    "geom:latitude":37.66378,
+    "geom:longitude":70.32595,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Bashan",
+    "gn:country_code":"AF",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467346,
+    "gn:latitude":37.66378,
+    "gn:longitude":70.32595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bash\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u0161\u0101n",
+        "Bash\u0101n",
+        "\u0628\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467346
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a51e3995dc52d5532adb8b46a5f90e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1276661285,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276661285,
+    "wof:lastmodified":1537583468,
+    "wof:name":"Bashan",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32595,
+    37.66378,
+    70.32595,
+    37.66378
+],
+  "geometry": {"coordinates":[70.32595000000001,37.66378],"type":"Point"}
+}

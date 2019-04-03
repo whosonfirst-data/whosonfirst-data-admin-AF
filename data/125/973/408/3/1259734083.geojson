@@ -1,0 +1,73 @@
+{
+  "id": 1259734083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37868,32.92843,69.37868,32.92843",
+    "geom:latitude":32.92843,
+    "geom:longitude":69.37868,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"Walawas",
+    "gn:country_code":"AF",
+    "gn:dem":1944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434242,
+    "gn:latitude":32.92843,
+    "gn:longitude":69.37868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Walawas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valavas",
+        "Walawas",
+        "\u0648\u0644\u0648\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434242
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa9ea51114f4d0e0934f275a909c4690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562021,
+            "locality_id":1259734083,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259734083,
+    "wof:lastmodified":1537582709,
+    "wof:name":"Walawas",
+    "wof:parent_id":1108562021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37868,
+    32.92843,
+    69.37868,
+    32.92843
+],
+  "geometry": {"coordinates":[69.37868,32.92843],"type":"Point"}
+}

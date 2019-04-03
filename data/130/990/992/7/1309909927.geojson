@@ -1,0 +1,74 @@
+{
+  "id": 1309909927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.19413,37.14957,70.19413,37.14957",
+    "geom:latitude":37.14957,
+    "geom:longitude":70.19413,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115",
+    "gn:asciiname":"Quchi",
+    "gn:country_code":"AF",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128798,
+    "gn:latitude":37.14957,
+    "gn:longitude":70.19413,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Quch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quc\u012b",
+        "Q\u016bch\u012b",
+        "Quch\u012b",
+        "\u0642\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128798
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c420540961e65e2f483c54bd032e0e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1309909927,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309909927,
+    "wof:lastmodified":1537580653,
+    "wof:name":"Quchi",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.19413,
+    37.14957,
+    70.19413,
+    37.14957
+],
+  "geometry": {"coordinates":[70.19413,37.14957],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209653671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62732,34.8957,68.62732,34.8957",
+    "geom:latitude":34.8957,
+    "geom:longitude":68.62732,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307.0",
+    "gn:asciiname":"Kharbayd",
+    "gn:country_code":"AF",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454863,
+    "gn:latitude":34.8957,
+    "gn:longitude":68.62732,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kharbayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kharbed",
+        "Kha\u1e5fb\u0113\u1e0f",
+        "Kharb\u012bd",
+        "Kharbayd",
+        "\u062e\u0631\u0628\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454863
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28f018f92e613beb4b47f2495d5f38f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209653671
+        }
+    ],
+    "wof:id":1209653671,
+    "wof:lastmodified":1537583136,
+    "wof:name":"Kharbayd",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62732,
+    34.8957,
+    68.62732,
+    34.8957
+],
+  "geometry": {"coordinates":[68.62732,34.8957],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343833787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6231,34.71456,70.6231,34.71456",
+    "geom:latitude":34.71456,
+    "geom:longitude":70.6231,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820",
+    "gn:asciiname":"Sotan",
+    "gn:country_code":"AF",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123964,
+    "gn:latitude":34.71456,
+    "gn:longitude":70.6231,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satanlam",
+        "S\u014dtan",
+        "Sotan",
+        "Sowtan",
+        "\u0633\u0648\u062a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123964
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d5045a91f53cbac87c9dbc598877b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1343833787,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343833787,
+    "wof:lastmodified":1537580261,
+    "wof:name":"Sotan",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6231,
+    34.71456,
+    70.6231,
+    34.71456
+],
+  "geometry": {"coordinates":[70.62309999999999,34.71456],"type":"Point"}
+}

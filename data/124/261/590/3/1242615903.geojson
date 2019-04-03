@@ -1,0 +1,72 @@
+{
+  "id": 1242615903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26323,34.94448,68.26323,34.94448",
+    "geom:latitude":34.94448,
+    "geom:longitude":68.26323,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306",
+    "gn:asciiname":"Sangandab",
+    "gn:country_code":"AF",
+    "gn:dem":2896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127689,
+    "gn:latitude":34.94448,
+    "gn:longitude":68.26323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sangand\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangand\u0101b",
+        "\u0633\u0646\u06af\u0646\u062f\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127689
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eed235da891a73e44ed8d9abe49bf371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1242615903,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1242615903,
+    "wof:lastmodified":1537580571,
+    "wof:name":"Sangandab",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26323000000001,
+    34.94448,
+    68.26323000000001,
+    34.94448
+],
+  "geometry": {"coordinates":[68.26323000000001,34.94448],"type":"Point"}
+}

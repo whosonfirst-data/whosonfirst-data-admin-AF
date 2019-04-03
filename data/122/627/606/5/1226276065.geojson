@@ -1,0 +1,73 @@
+{
+  "id": 1226276065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27284,33.7505,66.27284,33.7505",
+    "geom:latitude":33.7505,
+    "geom:longitude":66.27284,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Minaqol",
+    "gn:country_code":"AF",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449316,
+    "gn:latitude":33.7505,
+    "gn:longitude":66.27284,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Minaq\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minaq\u014dl",
+        "M\u012bnah Qowl",
+        "\u0645\u0646\u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449316
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d3f40b4c4b9c811f5ffd9e34e5d74b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1226276065,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1226276065,
+    "wof:lastmodified":1537583017,
+    "wof:name":"Minaqol",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27284,
+    33.7505,
+    66.27284,
+    33.7505
+],
+  "geometry": {"coordinates":[66.27284,33.7505],"type":"Point"}
+}

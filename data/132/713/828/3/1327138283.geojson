@@ -1,0 +1,80 @@
+{
+  "id": 1327138283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41469,35.89487,70.41469,35.89487",
+    "geom:latitude":35.89487,
+    "geom:longitude":70.41469,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1104.0",
+    "gn:asciiname":"Anjuman",
+    "gn:country_code":"AF",
+    "gn:dem":3060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148603,
+    "gn:latitude":35.89487,
+    "gn:longitude":70.41469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Anjuman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "Anjoman"
+    ],
+    "name:und_x_variant":[
+        "Andzhuman",
+        "Anjum\u0101n",
+        "\u0627\u064e\u0646\u062c\u064f\u0645\u064e\u0646",
+        "Anjoman",
+        "Anjuman",
+        "\u0627\u0646\u062c\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148603,
+        "wk:page":"Anjuman%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7cd8fb003255fd30f334d7bc2a9dd6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1327138283,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327138283,
+    "wof:lastmodified":1537582352,
+    "wof:name":"Anjuman",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41469000000002,
+    35.89487000000001,
+    70.41469000000002,
+    35.89487000000001
+],
+  "geometry": {"coordinates":[70.41469000000002,35.89487000000001],"type":"Point"}
+}

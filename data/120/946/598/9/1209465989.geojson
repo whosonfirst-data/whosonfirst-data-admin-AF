@@ -1,0 +1,67 @@
+{
+  "id": 1209465989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.10127,32.46925,67.10127,32.46925",
+    "geom:latitude":32.46925,
+    "geom:longitude":67.10127,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Rana",
+    "gn:country_code":"AF",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128553,
+    "gn:latitude":32.46925,
+    "gn:longitude":67.10127,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101n\u0101",
+        "\u0631\u0627\u0646\u0627",
+        "\u1e5e\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128553
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a886e2b4915ffb89866eb83cddaaa05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209465989
+        }
+    ],
+    "wof:id":1209465989,
+    "wof:lastmodified":1537580635,
+    "wof:name":"Rana",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.10127,
+    32.46925,
+    67.10127,
+    32.46925
+],
+  "geometry": {"coordinates":[67.10127,32.46925],"type":"Point"}
+}

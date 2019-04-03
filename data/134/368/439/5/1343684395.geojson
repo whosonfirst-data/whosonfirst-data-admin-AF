@@ -1,0 +1,77 @@
+{
+  "id": 1343684395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84563,34.78025,67.84563,34.78025",
+    "geom:latitude":34.78025,
+    "geom:longitude":67.84563,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Khawal",
+    "gn:country_code":"AF",
+    "gn:dem":2607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136825,
+    "gn:latitude":34.78025,
+    "gn:longitude":67.84563,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khaw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khaval\u2019"
+    ],
+    "name:und_x_variant":[
+        "Khav\u0101l",
+        "Khaw\u0101l",
+        "\u062e\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136825,
+        "wk:page":"Khaval"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fdd25ae9592bc56af2960b3e1ea39a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1343684395,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343684395,
+    "wof:lastmodified":1537581372,
+    "wof:name":"Khawal",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84563,
+    34.78025,
+    67.84563,
+    34.78025
+],
+  "geometry": {"coordinates":[67.84563,34.78025],"type":"Point"}
+}

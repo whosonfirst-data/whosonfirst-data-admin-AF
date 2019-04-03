@@ -1,0 +1,81 @@
+{
+  "id": 1343814347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.79009,32.21306,65.79009,32.21306",
+    "geom:latitude":32.21306,
+    "geom:longitude":65.79009,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Loy Lwargay",
+    "gn:country_code":"AF",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134504,
+    "gn:latitude":32.21306,
+    "gn:longitude":65.79009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Lwa\u1e5fgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u06af\u0626 \u06a9\u0644\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Loy-L\u2019vargay"
+    ],
+    "name:und_x_variant":[
+        "L\u014dy Lwargay",
+        "L\u014dy Lwargey",
+        "L\u014dy Lwa\u1e5fgay",
+        "\u0644\u0648\u06cc \u0644\u0648\u0693\u06af\u06cc",
+        "L\u016by Lwargey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134504
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"823f12060b03ca1a91de3cfed9871935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1343814347,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343814347,
+    "wof:lastmodified":1537581180,
+    "wof:name":"Loy Lwargay",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.79009,
+    32.21306,
+    65.79009,
+    32.21306
+],
+  "geometry": {"coordinates":[65.79009000000001,32.21306],"type":"Point"}
+}

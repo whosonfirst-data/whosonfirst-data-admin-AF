@@ -1,0 +1,75 @@
+{
+  "id": 1343266427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32255,34.38631,67.32255,34.38631",
+    "geom:latitude":34.38631,
+    "geom:longitude":67.32255,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Pirah",
+    "gn:country_code":"AF",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130662,
+    "gn:latitude":34.38631,
+    "gn:longitude":67.32255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pira",
+        "Pi\u1e5fa",
+        "P\u012brah",
+        "P\u012breh",
+        "\u067e\u064a\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130662
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d593938651df05a8ed0a9f8a262e939f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1343266427,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343266427,
+    "wof:lastmodified":1537580858,
+    "wof:name":"Pirah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32255,
+    34.38630999999999,
+    67.32255,
+    34.38630999999999
+],
+  "geometry": {"coordinates":[67.32255000000001,34.38630999999999],"type":"Point"}
+}

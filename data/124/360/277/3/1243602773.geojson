@@ -1,0 +1,74 @@
+{
+  "id": 1243602773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.85487,36.16657,65.85487,36.16657",
+    "geom:latitude":36.16657,
+    "geom:longitude":65.85487,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3106",
+    "gn:asciiname":"Kotarmah",
+    "gn:country_code":"AF",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135605,
+    "gn:latitude":36.16657,
+    "gn:longitude":65.85487,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dtarmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotarma",
+        "Kotarmah",
+        "K\u014dtarmah",
+        "\u06a9\u0648\u062a\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135605
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c52ac21198f419e38a5ec495008655ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562449,
+            "locality_id":1243602773,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1243602773,
+    "wof:lastmodified":1537581270,
+    "wof:name":"Kotarmah",
+    "wof:parent_id":1108562449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.85486999999999,
+    36.16657,
+    65.85486999999999,
+    36.16657
+],
+  "geometry": {"coordinates":[65.85486999999999,36.16657],"type":"Point"}
+}

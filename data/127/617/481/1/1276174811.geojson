@@ -1,0 +1,75 @@
+{
+  "id": 1276174811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20697,32.23091,68.20697,32.23091",
+    "geom:latitude":32.23091,
+    "geom:longitude":68.20697,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Shahin Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481010,
+    "gn:latitude":32.23091,
+    "gn:longitude":68.20697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shah\u012bn K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ah\u012bn Kalay",
+        "Shakhinkalay",
+        "\u0634\u0647\u06cc\u0646 \u06a9\u0644\u06cc",
+        "Shah\u012bn Kalay",
+        "Shah\u012bn K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481010
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e39b7f2dc580b572617fceb9e519f4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1276174811,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276174811,
+    "wof:lastmodified":1537583892,
+    "wof:name":"Shahin Kelay",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20697,
+    32.23090999999999,
+    68.20697,
+    32.23090999999999
+],
+  "geometry": {"coordinates":[68.20697,32.23090999999999],"type":"Point"}
+}

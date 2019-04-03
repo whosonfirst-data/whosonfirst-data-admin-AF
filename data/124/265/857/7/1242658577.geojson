@@ -1,0 +1,75 @@
+{
+  "id": 1242658577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.87048,33.57386,62.87048,33.57386",
+    "geom:latitude":33.57386,
+    "geom:longitude":62.87048,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Rajing",
+    "gn:country_code":"AF",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128588,
+    "gn:latitude":33.57386,
+    "gn:longitude":62.87048,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rajing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rijai",
+        "Raj\u012b",
+        "Rajing",
+        "\u0631\u062c\u0646\u06af",
+        "Rajeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128588
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fd07d023fb10f9168b0a328aabdcad00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1242658577,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242658577,
+    "wof:lastmodified":1537580637,
+    "wof:name":"Rajing",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.87048000000001,
+    33.57386,
+    62.87048000000001,
+    33.57386
+],
+  "geometry": {"coordinates":[62.87048000000001,33.57386],"type":"Point"}
+}

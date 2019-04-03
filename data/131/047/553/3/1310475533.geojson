@@ -1,0 +1,81 @@
+{
+  "id": 1310475533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6967,34.88416,69.6967,34.88416",
+    "geom:latitude":34.88416,
+    "geom:longitude":69.6967,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"205.0",
+    "gn:asciiname":"Sharo Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472417,
+    "gn:latitude":34.88416,
+    "gn:longitude":69.6967,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101r\u014d Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0648 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Sharokheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101rokh\u0113l",
+        "Sh\u0101rokh\u0113l",
+        "Sh\u0101rokheyl",
+        "Sh\u0101r\u014d Kh\u0113l",
+        "\u0634\u0627\u0631\u0648 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108561787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472417
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e250c8536578d6a52a2961516d93253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561787,
+            "locality_id":1310475533,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1310475533,
+    "wof:lastmodified":1537583690,
+    "wof:name":"Sharo Khel",
+    "wof:parent_id":1108561787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6967,
+    34.88415999999999,
+    69.6967,
+    34.88415999999999
+],
+  "geometry": {"coordinates":[69.69670000000001,34.88415999999999],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327309595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.03532,34.21785,70.03532,34.21785",
+    "geom:latitude":34.21785,
+    "geom:longitude":70.03532,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804",
+    "gn:asciiname":"Morgah",
+    "gn:country_code":"AF",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132776,
+    "gn:latitude":34.21785,
+    "gn:longitude":70.03532,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u014drgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morga",
+        "M\u014d\u1e5fga",
+        "Mow\u1e5fgah",
+        "M\u014drgah",
+        "\u0645\u0648\u0631\u06af\u0647",
+        "M\u0101rgah",
+        "\u0645\u0627\u0631\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132776
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e4f41ce566ef8aaed122ed8b16919f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562503,
+            "locality_id":1327309595,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327309595,
+    "wof:lastmodified":1537581036,
+    "wof:name":"Morgah",
+    "wof:parent_id":1108562503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.03532,
+    34.21785,
+    70.03532,
+    34.21785
+],
+  "geometry": {"coordinates":[70.03532,34.21785],"type":"Point"}
+}

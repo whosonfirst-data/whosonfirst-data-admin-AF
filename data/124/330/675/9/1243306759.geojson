@@ -1,0 +1,77 @@
+{
+  "id": 1243306759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.79753,33.21029,69.79753,33.21029",
+    "geom:latitude":33.21029,
+    "geom:longitude":69.79753,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Shamali Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434445,
+    "gn:latitude":33.21029,
+    "gn:longitude":69.79753,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sham\u0101l\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0627\u0644\u06cc \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0160am\u0101li Kal\u0101",
+        "Shamali-Kala",
+        "Sham\u0101l\u012b Kal\u0101",
+        "Shom\u0101l\u012b Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434445
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00957112f19e1438819bdec9e87fca97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1243306759,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1243306759,
+    "wof:lastmodified":1537582718,
+    "wof:name":"Shamali Kala",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.79753000000001,
+    33.21029,
+    69.79753000000001,
+    33.21029
+],
+  "geometry": {"coordinates":[69.79753000000001,33.21029],"type":"Point"}
+}

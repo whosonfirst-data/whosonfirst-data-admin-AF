@@ -1,0 +1,74 @@
+{
+  "id": 1243324543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37462,32.95296,69.37462,32.95296",
+    "geom:latitude":32.95296,
+    "geom:longitude":69.37462,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2910.0",
+    "gn:asciiname":"Ragheh",
+    "gn:country_code":"AF",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434271,
+    "gn:latitude":32.95296,
+    "gn:longitude":69.37462,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101gh\u00eah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raga",
+        "R\u0101gheh",
+        "R\u0101gh\u00eah",
+        "\u0631\u0627\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434271
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3725731d1f2e43dbd432d0ae8cccf7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562021,
+            "locality_id":1243324543,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243324543,
+    "wof:lastmodified":1537582710,
+    "wof:name":"Ragheh",
+    "wof:parent_id":1108562021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37462,
+    32.95296,
+    69.37462,
+    32.95296
+],
+  "geometry": {"coordinates":[69.37461999999999,32.95296],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209015929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79849,35.82954,68.79849,35.82954",
+    "geom:latitude":35.82954,
+    "geom:longitude":68.79849,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Nasiri",
+    "gn:country_code":"AF",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132259,
+    "gn:latitude":35.82954,
+    "gn:longitude":68.79849,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nasiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101\u015fer\u012b",
+        "N\u0101\u015fir\u012b",
+        "\u0646\u0627\u0635\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132259
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e6d230e7da8840a84ddfd481996f6b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209015929
+        }
+    ],
+    "wof:id":1209015929,
+    "wof:lastmodified":1537580997,
+    "wof:name":"Nasiri",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79849,
+    35.82954,
+    68.79849,
+    35.82954
+],
+  "geometry": {"coordinates":[68.79849,35.82954],"type":"Point"}
+}

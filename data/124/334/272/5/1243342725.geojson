@@ -1,0 +1,81 @@
+{
+  "id": 1243342725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55523,34.35603,69.55523,34.35603",
+    "geom:latitude":34.35603,
+    "geom:longitude":69.55523,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Tizin-e Khas",
+    "gn:country_code":"AF",
+    "gn:dem":2348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122460,
+    "gn:latitude":34.35603,
+    "gn:longitude":69.55523,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012bz\u012bn-e Kh\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0632\u064a\u0646\u0654\u0654 \u062e\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "T\u012bz\u012bn",
+        "Tezin",
+        "Tizini-Khash",
+        "Tiz\u012bne Kh\u0101\u015f",
+        "Tez\u012bn-e Kh\u0101\u015f",
+        "Tiz\u012bn-e Kh\u0101\u015f",
+        "T\u012bz\u012bn-e Kh\u0101\u015f",
+        "\u062a\u06cc\u0632\u06cc\u0646 \u062e\u0627\u0635"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122460
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"350461153cef7d7b69ffbfa3272a34ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1243342725,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1243342725,
+    "wof:lastmodified":1537580115,
+    "wof:name":"Tizin-e Khas",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55523000000001,
+    34.35603,
+    69.55523000000001,
+    34.35603
+],
+  "geometry": {"coordinates":[69.55523000000001,34.35603],"type":"Point"}
+}

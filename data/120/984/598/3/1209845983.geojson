@@ -1,0 +1,74 @@
+{
+  "id": 1209845983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11699,33.84895,66.11699,33.84895",
+    "geom:latitude":33.84895,
+    "geom:longitude":66.11699,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3401.0",
+    "gn:asciiname":"Aghil Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449218,
+    "gn:latitude":33.84895,
+    "gn:longitude":66.11699,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100ghil Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100ghel Sang",
+        "\u0622\u063a\u06cc\u0644 \u0633\u0646\u06af",
+        "\u0100gh\u0113l Sang",
+        "\u0100ghil Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449218
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b08af9dfee913e6891f99889a12cf68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562329,
+            "locality_id":1209845983,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1209845983,
+    "wof:lastmodified":1537583012,
+    "wof:name":"Aghil Sang",
+    "wof:parent_id":1108562329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11699,
+    33.84895,
+    66.11699,
+    33.84895
+],
+  "geometry": {"coordinates":[66.11699,33.84895],"type":"Point"}
+}

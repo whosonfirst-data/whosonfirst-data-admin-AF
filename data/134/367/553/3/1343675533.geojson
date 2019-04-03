@@ -1,0 +1,73 @@
+{
+  "id": 1343675533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70481,37.3886,70.70481,37.3886",
+    "geom:latitude":37.3886,
+    "geom:longitude":70.70481,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Marghayl",
+    "gn:country_code":"AF",
+    "gn:dem":2644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468484,
+    "gn:latitude":37.3886,
+    "gn:longitude":70.70481,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Marghayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0631\u063a\u06cc\u0644",
+        "Ma\u1e5fgh\u0113l",
+        "Marghayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468484
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dea67c65a163e2ab18a0ae05b239e9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562207,
+            "locality_id":1343675533,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343675533,
+    "wof:lastmodified":1537583557,
+    "wof:name":"Marghayl",
+    "wof:parent_id":1108562207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70481,
+    37.3886,
+    70.70481,
+    37.3886
+],
+  "geometry": {"coordinates":[70.70480999999999,37.3886],"type":"Point"}
+}

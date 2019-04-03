@@ -1,0 +1,73 @@
+{
+  "id": 1343303299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89308,36.27732,65.89308,36.27732",
+    "geom:latitude":36.27732,
+    "geom:longitude":65.89308,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101.0",
+    "gn:asciiname":"Bihsud",
+    "gn:country_code":"AF",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146615,
+    "gn:latitude":36.27732,
+    "gn:longitude":65.89308,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bihs\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bihs\u016bd",
+        "\u0628\u0647\u0633\u0648\u062f",
+        "Behs\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146615
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"81da94018fb98712df39c820c8a8b237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1343303299,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1343303299,
+    "wof:lastmodified":1537582201,
+    "wof:name":"Bihsud",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89308,
+    36.27732,
+    65.89308,
+    36.27732
+],
+  "geometry": {"coordinates":[65.89308,36.27732],"type":"Point"}
+}

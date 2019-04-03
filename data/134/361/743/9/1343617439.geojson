@@ -1,0 +1,80 @@
+{
+  "id": 1343617439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78369,36.7087,68.78369,36.7087",
+    "geom:latitude":36.7087,
+    "geom:longitude":68.78369,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Ghundey Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141004,
+    "gn:latitude":36.7087,
+    "gn:longitude":68.78369,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghun\u1e0f\u00eay K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u062a\u067e\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043d\u0434\u0430\u043a\u0430\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Gundakalay",
+        "Ghundey Kalay",
+        "Ghun\u1e0f\u00eay K\u00ealay",
+        "\u063a\u0646\u0689\u06cd \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141004
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b29cb52e6224c6293a767fca6af85934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561889,
+            "locality_id":1343617439,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1343617439,
+    "wof:lastmodified":1537581712,
+    "wof:name":"Ghundey Kelay",
+    "wof:parent_id":1108561889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78369,
+    36.7087,
+    68.78369,
+    36.7087
+],
+  "geometry": {"coordinates":[68.78369000000001,36.7087],"type":"Point"}
+}

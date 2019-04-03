@@ -1,0 +1,76 @@
+{
+  "id": 1276836425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.60753,34.44259,68.60753,34.44259",
+    "geom:latitude":34.44259,
+    "geom:longitude":68.60753,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Dewgan",
+    "gn:country_code":"AF",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457100,
+    "gn:latitude":34.44259,
+    "gn:longitude":68.60753,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113wg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Devgan",
+        "\u1e0e\u0113wg\u0101n",
+        "Daywg\u0101n",
+        "D\u012bvg\u0101n",
+        "D\u0113wg\u0101n",
+        "\u062f\u06d0\u0648\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457100
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"744990f34bd35b49f16c4e4f801e9d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1276836425,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1276836425,
+    "wof:lastmodified":1537583212,
+    "wof:name":"Dewgan",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.60753000000001,
+    34.44259,
+    68.60753000000001,
+    34.44259
+],
+  "geometry": {"coordinates":[68.60753000000001,34.44259],"type":"Point"}
+}

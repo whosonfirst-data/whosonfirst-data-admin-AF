@@ -1,0 +1,75 @@
+{
+  "id": 1276822177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31197,34.75118,70.31197,34.75118",
+    "geom:latitude":34.75118,
+    "geom:longitude":70.31197,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Qalatak",
+    "gn:country_code":"AF",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474429,
+    "gn:latitude":34.75118,
+    "gn:longitude":70.31197,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qala\u1e6fak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalatak",
+        "\u0642\u0644\u067c\u06a9",
+        "Qala\u1e6fak",
+        "Qalatak",
+        "Qalahtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474429
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f87caea5a920eae2f9860d34631e127f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1276822177,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276822177,
+    "wof:lastmodified":1537583803,
+    "wof:name":"Qalatak",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31197,
+    34.75118,
+    70.31197,
+    34.75118
+],
+  "geometry": {"coordinates":[70.31197,34.75118],"type":"Point"}
+}

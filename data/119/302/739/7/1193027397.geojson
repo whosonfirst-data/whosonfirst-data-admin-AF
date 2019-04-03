@@ -1,0 +1,74 @@
+{
+  "id": 1193027397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34325,35.50511,68.34325,35.50511",
+    "geom:latitude":35.50511,
+    "geom:longitude":68.34325,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Lobiah",
+    "gn:country_code":"AF",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134611,
+    "gn:latitude":35.50511,
+    "gn:longitude":68.34325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014db\u012bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dbya",
+        "L\u016bbyah",
+        "L\u014db\u012bah",
+        "\u0644\u0648\u0628\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134611
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2542426fa4100d1d0cefebd70259712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1193027397,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1193027397,
+    "wof:lastmodified":1537581189,
+    "wof:name":"Lobiah",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34325,
+    35.50510999999999,
+    68.34325,
+    35.50510999999999
+],
+  "geometry": {"coordinates":[68.34325,35.50510999999999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260074535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55998,34.25906,64.55998,34.25906",
+    "geom:latitude":34.25906,
+    "geom:longitude":64.55998,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Pay Kotal",
+    "gn:country_code":"AF",
+    "gn:dem":2591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130838,
+    "gn:latitude":34.25906,
+    "gn:longitude":64.55998,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y K\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Paykotal\u2019"
+    ],
+    "name:und_x_variant":[
+        "P\u0101y K\u014dtal",
+        "P\u0101ykowtal",
+        "\u067e\u0627\u06cc \u06a9\u0648\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7cfeac9bfbce5f363b405026b4a31eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1260074535,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1260074535,
+    "wof:lastmodified":1537580872,
+    "wof:name":"Pay Kotal",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55998000000001,
+    34.25906,
+    64.55998000000001,
+    34.25906
+],
+  "geometry": {"coordinates":[64.55998000000001,34.25906],"type":"Point"}
+}

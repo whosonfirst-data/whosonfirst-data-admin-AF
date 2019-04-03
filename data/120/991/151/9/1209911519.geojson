@@ -1,0 +1,74 @@
+{
+  "id": 1209911519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.11792,33.45254,63.11792,33.45254",
+    "geom:latitude":33.45254,
+    "geom:longitude":63.11792,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Awalin",
+    "gn:country_code":"AF",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1148072,
+    "gn:latitude":33.45254,
+    "gn:longitude":63.11792,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awal\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Avalin",
+        "Awal\u012bn",
+        "\u0627\u0648\u0644\u06cc\u0646",
+        "Avval\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148072
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0aef2d1b7b614e9da05124ce3007c401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1209911519,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1209911519,
+    "wof:lastmodified":1537582314,
+    "wof:name":"Awalin",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.11792,
+    33.45254,
+    63.11792,
+    33.45254
+],
+  "geometry": {"coordinates":[63.11792,33.45254],"type":"Point"}
+}

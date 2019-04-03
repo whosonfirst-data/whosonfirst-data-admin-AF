@@ -1,0 +1,73 @@
+{
+  "id": 1326922831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.94642,32.33782,61.94642,32.33782",
+    "geom:latitude":32.33782,
+    "geom:longitude":61.94642,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Karez-e Jalal",
+    "gn:country_code":"AF",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437298,
+    "gn:latitude":32.33782,
+    "gn:longitude":61.94642,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Jal\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101r\u0113z-e Jal\u0101l",
+        "K\u0101r\u012bz-e Jal\u0101l",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u062c\u0644\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437298
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c462cc442f37adae53b5fe28f469198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1326922831,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1326922831,
+    "wof:lastmodified":1537582842,
+    "wof:name":"Karez-e Jalal",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.94642,
+    32.33782,
+    61.94642,
+    32.33782
+],
+  "geometry": {"coordinates":[61.94642,32.33782],"type":"Point"}
+}

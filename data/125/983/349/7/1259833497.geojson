@@ -1,0 +1,75 @@
+{
+  "id": 1259833497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9538,34.78968,70.9538,34.78968",
+    "geom:latitude":34.78968,
+    "geom:longitude":70.9538,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Isarah",
+    "gn:country_code":"AF",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474227,
+    "gn:latitude":34.78968,
+    "gn:longitude":70.9538,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Is\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isara",
+        "Is\u0101\u1e5fa",
+        "Is\u0101\u1e5fah",
+        "Is\u0101rah",
+        "\u0627\u0633\u0627\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474227
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0cb204ded68920777c28846d58e7eeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1259833497,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1259833497,
+    "wof:lastmodified":1537583790,
+    "wof:name":"Isarah",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9538,
+    34.78968,
+    70.9538,
+    34.78968
+],
+  "geometry": {"coordinates":[70.9538,34.78968],"type":"Point"}
+}

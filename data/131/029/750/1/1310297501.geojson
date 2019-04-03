@@ -1,0 +1,73 @@
+{
+  "id": 1310297501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.35294,32.32853,61.35294,32.32853",
+    "geom:latitude":32.32853,
+    "geom:longitude":61.35294,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2108",
+    "gn:asciiname":"Dashak",
+    "gn:country_code":"AF",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143867,
+    "gn:latitude":32.32853,
+    "gn:longitude":61.35294,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101shak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101\u0161ak",
+        "D\u0101shak",
+        "\u062f\u0627\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143867
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53ce0a4e3798155e21a8563c273431a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1310297501,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1310297501,
+    "wof:lastmodified":1537581956,
+    "wof:name":"Dashak",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.35294,
+    32.32853,
+    61.35294,
+    32.32853
+],
+  "geometry": {"coordinates":[61.35294,32.32853],"type":"Point"}
+}

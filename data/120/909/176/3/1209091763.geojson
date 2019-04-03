@@ -1,0 +1,68 @@
+{
+  "id": 1209091763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52655,32.92959,67.52655,32.92959",
+    "geom:latitude":32.92959,
+    "geom:longitude":67.52655,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Aghel-e Kaka",
+    "gn:country_code":"AF",
+    "gn:dem":2395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435557,
+    "gn:latitude":32.92959,
+    "gn:longitude":67.52655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100gh\u0113l-e K\u0101k\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ageli-Kaka",
+        "\u0100gh\u0113l-e K\u0101k\u0101",
+        "\u0622\u063a\u06d0\u0644 \u06a9\u0627\u06a9\u0627",
+        "\u0100ghel-e K\u0101k\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435557
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"29ae000a64a6602b73d4c49cc08682cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209091763
+        }
+    ],
+    "wof:id":1209091763,
+    "wof:lastmodified":1537582771,
+    "wof:name":"Aghel-e Kaka",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52655,
+    32.92959,
+    67.52655,
+    32.92959
+],
+  "geometry": {"coordinates":[67.52655,32.92959],"type":"Point"}
+}

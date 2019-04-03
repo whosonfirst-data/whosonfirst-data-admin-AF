@@ -1,0 +1,80 @@
+{
+  "id": 1276719937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16277,31.39989,67.16277,31.39989",
+    "geom:latitude":31.39989,
+    "geom:longitude":67.16277,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Bahlolzai",
+    "gn:country_code":"AF",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147477,
+    "gn:latitude":31.39989,
+    "gn:longitude":67.16277,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bahl\u014dlza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bakhlol\u2019zay"
+    ],
+    "name:und_x_variant":[
+        "Chikhilgazi",
+        "\u010cehelgazi",
+        "Bahl\u014dlzay",
+        "Bahl\u016blza\u012b",
+        "Bohl\u016blzay",
+        "Bahl\u014dlza\u012b",
+        "\u0628\u0647\u0644\u0648\u0644\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147477
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f224c9a16a2675f5511d760f5e645c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1276719937,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276719937,
+    "wof:lastmodified":1537582270,
+    "wof:name":"Bahlolzai",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16277,
+    31.39989000000001,
+    67.16277,
+    31.39989000000001
+],
+  "geometry": {"coordinates":[67.16276999999999,31.39989000000001],"type":"Point"}
+}

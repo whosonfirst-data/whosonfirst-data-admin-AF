@@ -1,0 +1,77 @@
+{
+  "id": 1193182327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.95283,34.7722,70.95283,34.7722",
+    "geom:latitude":34.7722,
+    "geom:longitude":70.95283,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Musa Bandah",
+    "gn:country_code":"AF",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474236,
+    "gn:latitude":34.7722,
+    "gn:longitude":70.95283,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 B\u0101n\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0649 \u0628\u0627\u0646\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Musabanda",
+        "M\u016bs\u00e1 B\u0101n\u1e0feh",
+        "M\u016bs\u00e1 B\u0101n\u1e0fah",
+        "\u0645\u0648\u0633\u0649 \u0628\u0627\u0646\u0689\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474236
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec930f116122ad7cca0d31845a539eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1193182327,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1193182327,
+    "wof:lastmodified":1537583790,
+    "wof:name":"Musa Bandah",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.95283,
+    34.7722,
+    70.95283,
+    34.7722
+],
+  "geometry": {"coordinates":[70.95283000000001,34.7722],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209871031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5273,36.34281,69.5273,36.34281",
+    "geom:latitude":36.34281,
+    "geom:longitude":69.5273,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203",
+    "gn:asciiname":"Darah-ye Shuh",
+    "gn:country_code":"AF",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143955,
+    "gn:latitude":36.34281,
+    "gn:longitude":69.5273,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah-ye Sh\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darrah-i-S\u016bh",
+        "Darreh-ye Sh\u016bh",
+        "Darah-ye Sh\u016bh",
+        "\u062f\u0631\u06c0 \u0634\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"681b61da623c39adb350d6e37de94349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1209871031,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1209871031,
+    "wof:lastmodified":1537581962,
+    "wof:name":"Darah-ye Shuh",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5273,
+    36.34281,
+    69.5273,
+    36.34281
+],
+  "geometry": {"coordinates":[69.5273,36.34281],"type":"Point"}
+}

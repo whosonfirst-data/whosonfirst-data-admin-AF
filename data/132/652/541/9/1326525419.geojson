@@ -1,0 +1,76 @@
+{
+  "id": 1326525419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6982,32.23224,64.6982,32.23224",
+    "geom:latitude":32.23224,
+    "geom:longitude":64.6982,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304",
+    "gn:asciiname":"Sher Ghazay",
+    "gn:country_code":"AF",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125015,
+    "gn:latitude":32.23224,
+    "gn:longitude":64.6982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r Ghaz\u0304ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u012br Ghazay",
+        "Shirgazay",
+        "Shayr Ghaz\u0304ay",
+        "\u0634\u06cc\u0631 \u063a\u0630\u06cc",
+        "Sh\u012br Ghaz\u0304ay",
+        "Sh\u0113r Ghaz\u0304ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125015
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9915b088a6c4b0a6b3603aba758caee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1326525419,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1326525419,
+    "wof:lastmodified":1537580347,
+    "wof:name":"Sher Ghazay",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6982,
+    32.23224,
+    64.6982,
+    32.23224
+],
+  "geometry": {"coordinates":[64.6982,32.23224],"type":"Point"}
+}

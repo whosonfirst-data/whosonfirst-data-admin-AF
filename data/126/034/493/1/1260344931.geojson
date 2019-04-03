@@ -1,0 +1,80 @@
+{
+  "id": 1260344931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.00267,31.69839,67.00267,31.69839",
+    "geom:latitude":31.69839,
+    "geom:longitude":67.00267,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Kazhakai",
+    "gn:country_code":"AF",
+    "gn:dem":2259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436094,
+    "gn:latitude":31.69839,
+    "gn:longitude":67.00267,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaz\u0332h\u0332aka\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0698\u0643\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0696\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kazakay",
+        "Kaz\u0332h\u0332akay",
+        "\u06a9\u0696\u06a9\u06cc",
+        "Kaz\u0332h\u0332aka\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436094
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4cfcec219c56e0be7e72db428e170639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1260344931,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260344931,
+    "wof:lastmodified":1537582800,
+    "wof:name":"Kazhakai",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.00267,
+    31.69839,
+    67.00267,
+    31.69839
+],
+  "geometry": {"coordinates":[67.00266999999999,31.69839],"type":"Point"}
+}

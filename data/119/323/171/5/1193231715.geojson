@@ -1,0 +1,75 @@
+{
+  "id": 1193231715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14087,35.00594,70.14087,35.00594",
+    "geom:latitude":35.00594,
+    "geom:longitude":70.14087,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"904",
+    "gn:asciiname":"Zvane",
+    "gn:country_code":"AF",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120656,
+    "gn:latitude":35.00594,
+    "gn:longitude":70.14087,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zvane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u017dw\u0101n\u0113",
+        "Zvane",
+        "Zhw\u0101n\u0113",
+        "Zhw\u0101\u1e49\u0113",
+        "\u0698\u0648\u0627\u06bc\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120656
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"20a19d824870961239c05ff98dc382af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561957,
+            "locality_id":1193231715,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1193231715,
+    "wof:lastmodified":1537579957,
+    "wof:name":"Zvane",
+    "wof:parent_id":1108561957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14086999999999,
+    35.00594,
+    70.14086999999999,
+    35.00594
+],
+  "geometry": {"coordinates":[70.14086999999999,35.00594],"type":"Point"}
+}

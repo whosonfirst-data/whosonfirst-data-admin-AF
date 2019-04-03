@@ -1,0 +1,73 @@
+{
+  "id": 1259965121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83588,32.81613,67.83588,32.81613",
+    "geom:latitude":32.81613,
+    "geom:longitude":67.83588,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"608",
+    "gn:asciiname":"Salim Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127821,
+    "gn:latitude":32.81613,
+    "gn:longitude":67.83588,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sal\u012bm Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sal\u012bm Kh\u0113l",
+        "Sal\u012bm Kheyl",
+        "\u0633\u0644\u06cc\u0645 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127821
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f324c9452f1fcaf49047b2586368907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1259965121,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259965121,
+    "wof:lastmodified":1537580581,
+    "wof:name":"Salim Khel",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83588,
+    32.81613,
+    67.83588,
+    32.81613
+],
+  "geometry": {"coordinates":[67.83588,32.81613],"type":"Point"}
+}

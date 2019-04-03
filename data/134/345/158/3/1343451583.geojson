@@ -1,0 +1,72 @@
+{
+  "id": 1343451583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40077,33.69146,67.40077,33.69146",
+    "geom:latitude":33.69146,
+    "geom:longitude":67.40077,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Dadi",
+    "gn:country_code":"AF",
+    "gn:dem":2842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144763,
+    "gn:latitude":33.69146,
+    "gn:longitude":67.40077,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101d\u012b",
+        "\u062f\u0627\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144763
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e7a6d4c9671c94472d532a1f3210c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1343451583,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343451583,
+    "wof:lastmodified":1537582039,
+    "wof:name":"Dadi",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40077,
+    33.69146,
+    67.40077,
+    33.69146
+],
+  "geometry": {"coordinates":[67.40076999999999,33.69146],"type":"Point"}
+}

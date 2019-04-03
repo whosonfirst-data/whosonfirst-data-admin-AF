@@ -1,0 +1,72 @@
+{
+  "id": 1193082505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06994,36.49587,68.06994,36.49587",
+    "geom:latitude":36.49587,
+    "geom:longitude":68.06994,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1502.0",
+    "gn:asciiname":"Alashah",
+    "gn:country_code":"AF",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304691,
+    "gn:latitude":36.49587,
+    "gn:longitude":68.06994,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Al\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u0101shah",
+        "\u0627\u0644\u0627\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f24da8987efc17e15ecd301e410103b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562063,
+            "locality_id":1193082505,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1193082505,
+    "wof:lastmodified":1537583941,
+    "wof:name":"Alashah",
+    "wof:parent_id":1108562063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06994,
+    36.49587,
+    68.06994,
+    36.49587
+],
+  "geometry": {"coordinates":[68.06994,36.49587],"type":"Point"}
+}

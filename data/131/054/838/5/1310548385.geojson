@@ -1,0 +1,82 @@
+{
+  "id": 1310548385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09098,32.57499,68.09098,32.57499",
+    "geom:latitude":32.57499,
+    "geom:longitude":68.09098,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903.0",
+    "gn:asciiname":"Shang Parah",
+    "gn:country_code":"AF",
+    "gn:dem":1979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437369,
+    "gn:latitude":32.57499,
+    "gn:longitude":68.09098,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shang P\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shang P\u0101rah"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0646\u06af \u067e\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sangp\u0101\u1e5fa",
+        "\u010capal",
+        "Shangpara",
+        "\u0634\u0646\u06af \u067e\u0627\u0631\u0647",
+        "Chapal",
+        "\u0686\u067e\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437369
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffeb46325122491c3cc2bb317cb6d8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561985,
+            "locality_id":1310548385,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1310548385,
+    "wof:lastmodified":1537582843,
+    "wof:name":"Shang Parah",
+    "wof:parent_id":1108561985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09098,
+    32.57499,
+    68.09098,
+    32.57499
+],
+  "geometry": {"coordinates":[68.09098,32.57499],"type":"Point"}
+}

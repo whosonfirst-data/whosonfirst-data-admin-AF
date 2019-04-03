@@ -1,0 +1,77 @@
+{
+  "id": 1292948303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09104,32.01886,67.09104,32.01886",
+    "geom:latitude":32.01886,
+    "geom:longitude":67.09104,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Lotah",
+    "gn:country_code":"AF",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134564,
+    "gn:latitude":32.01886,
+    "gn:longitude":67.09104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014d\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "L\u014dta",
+        "L\u014d\u1e6fah",
+        "\u0644\u0648\u067c\u0647",
+        "L\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134564
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91e1e78f83cb4b9cd5854e15dd1e4688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1292948303,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1292948303,
+    "wof:lastmodified":1537581185,
+    "wof:name":"Lotah",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09104,
+    32.01886,
+    67.09104,
+    32.01886
+],
+  "geometry": {"coordinates":[67.09104000000001,32.01886],"type":"Point"}
+}

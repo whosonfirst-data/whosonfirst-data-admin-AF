@@ -1,0 +1,76 @@
+{
+  "id": 1242573667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.04465,33.57599,64.04465,33.57599",
+    "geom:latitude":33.57599,
+    "geom:longitude":64.04465,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Warajah",
+    "gn:country_code":"AF",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121868,
+    "gn:latitude":33.57599,
+    "gn:longitude":64.04465,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Warajah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tagao Waraja",
+        "Varadzha",
+        "Wa\u1e5faja",
+        "Warajah",
+        "\u0648\u0631\u062c\u0647",
+        "Varajeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121868
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2775cdad2993496230ba79d425ba560b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1242573667,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242573667,
+    "wof:lastmodified":1537580067,
+    "wof:name":"Warajah",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.04465,
+    33.57599,
+    64.04465,
+    33.57599
+],
+  "geometry": {"coordinates":[64.04465,33.57599],"type":"Point"}
+}

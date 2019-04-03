@@ -1,0 +1,78 @@
+{
+  "id": 1259654529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59685,34.99974,69.59685,34.99974",
+    "geom:latitude":34.99974,
+    "geom:longitude":69.59685,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Qal'ah-ye Ghani",
+    "gn:country_code":"AF",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472334,
+    "gn:latitude":34.99974,
+    "gn:longitude":69.59685,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Ghan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u063a\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kalagani",
+        "Qal\u2018a Ghani",
+        "Qal\u2018eh-ye Ghan\u012b",
+        "Qal\u2018ah-ye Ghan\u012b",
+        "\u0642\u0644\u0639\u06c0 \u063a\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7c5509a378df78aba3097fb10aed9261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1259654529,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1259654529,
+    "wof:lastmodified":1537583683,
+    "wof:name":"Qal'ah-ye Ghani",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59685,
+    34.99974,
+    69.59685,
+    34.99974
+],
+  "geometry": {"coordinates":[69.59685,34.99974],"type":"Point"}
+}

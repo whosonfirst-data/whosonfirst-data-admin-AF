@@ -1,0 +1,74 @@
+{
+  "id": 1277073487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62506,34.04994,66.62506,34.04994",
+    "geom:latitude":34.04994,
+    "geom:longitude":66.62506,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Regak",
+    "gn:country_code":"AF",
+    "gn:dem":2679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458313,
+    "gn:latitude":34.04994,
+    "gn:longitude":66.62506,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0113gak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5e\u0113gak",
+        "Regak",
+        "R\u0113gak",
+        "\u0631\u06d0\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fec840fe0f9b1e1e9c497623e57d3552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1277073487,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1277073487,
+    "wof:lastmodified":1537583267,
+    "wof:name":"Regak",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62505999999999,
+    34.04994,
+    66.62505999999999,
+    34.04994
+],
+  "geometry": {"coordinates":[66.62505999999999,34.04994],"type":"Point"}
+}

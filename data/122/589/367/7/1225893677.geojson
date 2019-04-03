@@ -1,0 +1,73 @@
+{
+  "id": 1225893677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62559,36.03989,67.62559,36.03989",
+    "geom:latitude":36.03989,
+    "geom:longitude":67.62559,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Yalman",
+    "gn:country_code":"AF",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121300,
+    "gn:latitude":36.03989,
+    "gn:longitude":67.62559,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yalman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06cc\u0644\u0645\u0646",
+        "Yalman",
+        "Yalman (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"545c9e34b307dc3bae9efb4187f684b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1225893677,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1225893677,
+    "wof:lastmodified":1537580034,
+    "wof:name":"Yalman",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62559,
+    36.03989,
+    67.62559,
+    36.03989
+],
+  "geometry": {"coordinates":[67.62559,36.03989],"type":"Point"}
+}

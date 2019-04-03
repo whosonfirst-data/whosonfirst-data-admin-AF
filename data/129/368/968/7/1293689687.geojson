@@ -1,0 +1,73 @@
+{
+  "id": 1293689687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.21018,35.18008,64.21018,35.18008",
+    "geom:latitude":35.18008,
+    "geom:longitude":64.21018,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Kazak-e Khord",
+    "gn:country_code":"AF",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137556,
+    "gn:latitude":35.18008,
+    "gn:longitude":64.21018,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101zak-e Kh\u014drd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101zak-e Kh\u014drd",
+        "\u06a9\u0627\u0632\u06a9 \u062e\u0648\u0631\u062f",
+        "K\u0101zake Khu\u1e5f\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137556
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1186c1c3da1b3ea7f4a5a66c7137ea04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1293689687,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293689687,
+    "wof:lastmodified":1537581427,
+    "wof:name":"Kazak-e Khord",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.21018000000001,
+    35.18008,
+    64.21018000000001,
+    35.18008
+],
+  "geometry": {"coordinates":[64.21018000000001,35.18008],"type":"Point"}
+}

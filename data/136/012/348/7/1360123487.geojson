@@ -1,0 +1,71 @@
+{
+  "id": 1360123487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06722,33.35111,70.06722,33.35111",
+    "geom:latitude":33.35111,
+    "geom:longitude":70.06722,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Muhammad Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452708,
+    "gn:latitude":33.35111,
+    "gn:longitude":70.06722,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Muhammad Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u062e\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452708
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09aa91cbce364db88c3524820e6cab8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1360123487,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1360123487,
+    "wof:lastmodified":1537583099,
+    "wof:name":"Muhammad Khel",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06721999999999,
+    33.35111,
+    70.06721999999999,
+    33.35111
+],
+  "geometry": {"coordinates":[70.06721999999999,33.35111],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277078905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77334,34.75857,67.77334,34.75857",
+    "geom:latitude":34.75857,
+    "geom:longitude":67.77334,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Katway",
+    "gn:country_code":"AF",
+    "gn:dem":2778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137628,
+    "gn:latitude":34.75857,
+    "gn:longitude":67.77334,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ka\u0163way",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katvay",
+        "Ka\u0163way",
+        "\u06a9\u0637\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137628,
+        "wk:page":"Katway"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"19f16873e0314ca76ef5aeef65f3cdfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1277078905,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1277078905,
+    "wof:lastmodified":1537581430,
+    "wof:name":"Katway",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77334,
+    34.75857,
+    67.77334,
+    34.75857
+],
+  "geometry": {"coordinates":[67.77334,34.75857],"type":"Point"}
+}

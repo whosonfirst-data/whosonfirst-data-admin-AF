@@ -1,0 +1,78 @@
+{
+  "id": 1243355971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.04049,32.39891,62.04049,32.39891",
+    "geom:latitude":32.39891,
+    "geom:longitude":62.04049,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2101.0",
+    "gn:asciiname":"Khatiwan",
+    "gn:country_code":"AF",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428279,
+    "gn:latitude":32.39891,
+    "gn:longitude":62.04049,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u0163\u012bw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0637\u064a\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khativan",
+        "Khat\u012bw\u0101n",
+        "Kha\u0163\u012bb\u0101n",
+        "Kha\u0163\u012bw\u0101n",
+        "\u062e\u0637\u06cc\u0648\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428279
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d2b98913518e38d0ae7ccc0b5c62d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1243355971,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243355971,
+    "wof:lastmodified":1537582654,
+    "wof:name":"Khatiwan",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.04049000000001,
+    32.39891,
+    62.04049000000001,
+    32.39891
+],
+  "geometry": {"coordinates":[62.04049000000001,32.39891],"type":"Point"}
+}

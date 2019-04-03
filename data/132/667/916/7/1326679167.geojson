@@ -1,0 +1,74 @@
+{
+  "id": 1326679167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.63865,35.84089,67.63865,35.84089",
+    "geom:latitude":35.84089,
+    "geom:longitude":67.63865,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Pudinahgak",
+    "gn:country_code":"AF",
+    "gn:dem":2665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130513,
+    "gn:latitude":35.84089,
+    "gn:longitude":67.63865,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pud\u012bnahgak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pod\u012bnagak",
+        "Pod\u012bnegak",
+        "Pud\u012bnahgak",
+        "\u067e\u062f\u06cc\u0646\u0647 \u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130513
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"851d72edfc722c506cf92f44f193b3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1326679167,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1326679167,
+    "wof:lastmodified":1537580844,
+    "wof:name":"Pudinahgak",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.63865,
+    35.84089,
+    67.63865,
+    35.84089
+],
+  "geometry": {"coordinates":[67.63865,35.84089],"type":"Point"}
+}

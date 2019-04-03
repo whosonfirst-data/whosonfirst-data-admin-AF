@@ -1,0 +1,71 @@
+{
+  "id": 1226098975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82476,36.99716,69.82476,36.99716",
+    "geom:latitude":36.99716,
+    "geom:longitude":69.82476,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208",
+    "gn:asciiname":"Langar",
+    "gn:country_code":"AF",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134806,
+    "gn:latitude":36.99716,
+    "gn:longitude":69.82476,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Langar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134806
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd94c4c039b37b1ca711ff82aedbf7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1226098975,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1226098975,
+    "wof:lastmodified":1537581203,
+    "wof:name":"Langar",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82476,
+    36.99716,
+    69.82476,
+    36.99716
+],
+  "geometry": {"coordinates":[69.82476,36.99716],"type":"Point"}
+}

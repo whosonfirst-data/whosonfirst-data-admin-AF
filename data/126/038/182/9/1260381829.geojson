@@ -1,0 +1,80 @@
+{
+  "id": 1260381829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.94909,33.12907,67.94909,33.12907",
+    "geom:latitude":33.12907,
+    "geom:longitude":67.94909,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Ghat Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141320,
+    "gn:latitude":33.12907,
+    "gn:longitude":67.94909,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gha\u1e6f Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u062a \u0643\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0442\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gatkala",
+        "Ghat Kal\u0101",
+        "Gha\u1e6f Kal\u0101",
+        "\u063a\u067c \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141320
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb2901ee8c743c8b98a4edeb7ff53072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1260381829,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260381829,
+    "wof:lastmodified":1537581743,
+    "wof:name":"Ghat Kala",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.94909,
+    33.12907,
+    67.94909,
+    33.12907
+],
+  "geometry": {"coordinates":[67.94909,33.12907],"type":"Point"}
+}

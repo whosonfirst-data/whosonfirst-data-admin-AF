@@ -1,0 +1,74 @@
+{
+  "id": 1310479663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.93602,35.261,61.93602,35.261",
+    "geom:latitude":35.261,
+    "geom:longitude":61.93602,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Hakimabad",
+    "gn:country_code":"AF",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394206,
+    "gn:latitude":35.261,
+    "gn:longitude":61.93602,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101kim\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0101kem \u0100b\u0101d",
+        "\u1e28\u0101kem \u0100b\u0101d",
+        "\u1e28\u0101kim\u0101b\u0101d",
+        "\u062d\u0627\u06a9\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394206
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d8d18ec17cee1ecf77149400d2ea9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1310479663,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310479663,
+    "wof:lastmodified":1537582496,
+    "wof:name":"Hakimabad",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.93601999999999,
+    35.261,
+    61.93601999999999,
+    35.261
+],
+  "geometry": {"coordinates":[61.93601999999999,35.261],"type":"Point"}
+}

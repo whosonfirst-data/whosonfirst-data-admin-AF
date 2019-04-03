@@ -1,0 +1,75 @@
+{
+  "id": 1310264401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09731,35.72857,67.09731,35.72857",
+    "geom:latitude":35.72857,
+    "geom:longitude":67.09731,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Bowshi",
+    "gn:country_code":"AF",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146765,
+    "gn:latitude":35.72857,
+    "gn:longitude":67.09731,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bowsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baws\u0304i",
+        "Bawshi",
+        "Bowsh\u012b",
+        "\u0628\u0648\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146765,
+        "wk:page":"Bawshi%2C_Balkh"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f6fb3ba0dff65907f4e821ff0be3207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1310264401,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1310264401,
+    "wof:lastmodified":1537582211,
+    "wof:name":"Bowshi",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09731,
+    35.72857,
+    67.09731,
+    35.72857
+],
+  "geometry": {"coordinates":[67.09730999999999,35.72857],"type":"Point"}
+}

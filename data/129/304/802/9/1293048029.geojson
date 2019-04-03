@@ -1,0 +1,72 @@
+{
+  "id": 1293048029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17543,33.01242,69.17543,33.01242",
+    "geom:latitude":33.01242,
+    "geom:longitude":69.17543,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2911.0",
+    "gn:asciiname":"Shenkay",
+    "gn:country_code":"AF",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305011,
+    "gn:latitude":33.01242,
+    "gn:longitude":69.17543,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u00eankay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00eankay",
+        "\u0634\u0646\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305011
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fae3fd6ee52c987ca5dc1a4457126f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562557,
+            "locality_id":1293048029,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293048029,
+    "wof:lastmodified":1537583941,
+    "wof:name":"Shenkay",
+    "wof:parent_id":1108562557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17543,
+    33.01242,
+    69.17543,
+    33.01242
+],
+  "geometry": {"coordinates":[69.17543000000001,33.01242],"type":"Point"}
+}

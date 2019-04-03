@@ -1,0 +1,75 @@
+{
+  "id": 1243131841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86758,35.77647,67.86758,35.77647",
+    "geom:latitude":35.77647,
+    "geom:longitude":67.86758,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Ru'i",
+    "gn:country_code":"AF",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128212,
+    "gn:latitude":35.77647,
+    "gn:longitude":67.86758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u016b\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28abash",
+        "Habas\u0304",
+        "R\u016b\u2019\u012b",
+        "\u0631\u0648\u0626\u06cc",
+        "\u062d\u0628\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128212
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a745ea526583e2dd219007067a413ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1243131841,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1243131841,
+    "wof:lastmodified":1537580610,
+    "wof:name":"Ru'i",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86758,
+    35.77647,
+    67.86758,
+    35.77647
+],
+  "geometry": {"coordinates":[67.86758,35.77647],"type":"Point"}
+}

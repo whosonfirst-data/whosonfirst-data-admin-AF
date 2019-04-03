@@ -1,0 +1,74 @@
+{
+  "id": 1344046895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.57313,33.58737,64.57313,33.58737",
+    "geom:latitude":33.58737,
+    "geom:longitude":64.57313,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Sarpanak",
+    "gn:country_code":"AF",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126876,
+    "gn:latitude":33.58737,
+    "gn:longitude":64.57313,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarpanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fpanak",
+        "Sarpanak",
+        "\u0633\u0631\u067e\u0646\u06a9",
+        "Sarpan\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aa8ad351ebff7aa4bdd1cf4595a8e286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1344046895,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344046895,
+    "wof:lastmodified":1537580509,
+    "wof:name":"Sarpanak",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.57313,
+    33.58737,
+    64.57313,
+    33.58737
+],
+  "geometry": {"coordinates":[64.57313000000001,33.58737],"type":"Point"}
+}

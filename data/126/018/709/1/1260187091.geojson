@@ -1,0 +1,73 @@
+{
+  "id": 1260187091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13936,34.46299,67.13936,34.46299",
+    "geom:latitude":34.46299,
+    "geom:longitude":67.13936,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Dahan-e Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":3005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462330,
+    "gn:latitude":34.46299,
+    "gn:longitude":67.13936,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Gh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Gar",
+        "Dahan-e Gh\u0101r",
+        "\u062f\u0647\u0646 \u063a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462330
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2bf5dff98848edd64e5877890fc46816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1260187091,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1260187091,
+    "wof:lastmodified":1537583362,
+    "wof:name":"Dahan-e Ghar",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13936,
+    34.46299,
+    67.13936,
+    34.46299
+],
+  "geometry": {"coordinates":[67.13936,34.46299],"type":"Point"}
+}

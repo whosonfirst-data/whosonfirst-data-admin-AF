@@ -1,0 +1,75 @@
+{
+  "id": 1193259417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.76093,34.23907,62.76093,34.23907",
+    "geom:latitude":34.23907,
+    "geom:longitude":62.76093,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Chahar Burjak",
+    "gn:country_code":"AF",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460619,
+    "gn:latitude":34.23907,
+    "gn:longitude":62.76093,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Burjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charburdzhak",
+        "\u010c\u0101r Burjak",
+        "Chah\u0101r Borjak",
+        "Chah\u0101r Burjak",
+        "\u0686\u0647\u0627\u0631 \u0628\u0631\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460619
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5a5fbaca2849e1428cb3cf98a068f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1193259417,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1193259417,
+    "wof:lastmodified":1537583331,
+    "wof:name":"Chahar Burjak",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.76093,
+    34.23907,
+    62.76093,
+    34.23907
+],
+  "geometry": {"coordinates":[62.76093,34.23907],"type":"Point"}
+}

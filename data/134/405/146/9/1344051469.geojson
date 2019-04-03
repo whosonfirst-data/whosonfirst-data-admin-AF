@@ -1,0 +1,77 @@
+{
+  "id": 1344051469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20054,34.38166,66.20054,34.38166",
+    "geom:latitude":34.38166,
+    "geom:longitude":66.20054,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Malmorak",
+    "gn:country_code":"AF",
+    "gn:dem":3137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134094,
+    "gn:latitude":34.38166,
+    "gn:longitude":66.20054,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101lm\u014drak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Mal\u2019morak"
+    ],
+    "name:und_x_variant":[
+        "M\u0101lm\u014d\u1e5fak",
+        "M\u0101lmowrak",
+        "M\u0101lm\u014drak",
+        "\u0645\u0627\u0644 \u0645\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134094
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"70c64c0c09280fdf2a4d6e2ce60b26d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1344051469,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344051469,
+    "wof:lastmodified":1537581147,
+    "wof:name":"Malmorak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20054,
+    34.38166,
+    66.20054,
+    34.38166
+],
+  "geometry": {"coordinates":[66.20054,34.38166],"type":"Point"}
+}

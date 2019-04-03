@@ -1,0 +1,78 @@
+{
+  "id": 1293647537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05188,31.51112,65.05188,31.51112",
+    "geom:latitude":31.51112,
+    "geom:longitude":65.05188,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Sar Biland Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127349,
+    "gn:latitude":31.51112,
+    "gn:longitude":65.05188,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Biland K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u0647\u0654 \u0633\u0631 \u0628\u0644\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sa\u1e5fbelan\u1e0f Kalay",
+        "Sarbilandkalay",
+        "Sar Biland K\u00ealay",
+        "\u0633\u0631 \u0628\u0644\u0646\u062f \u06a9\u0644\u06cc",
+        "Sar Boland Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127349
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0267882dc91e572c95527d55bb886ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1293647537,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293647537,
+    "wof:lastmodified":1537580550,
+    "wof:name":"Sar Biland Kelay",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05188000000001,
+    31.51112,
+    65.05188000000001,
+    31.51112
+],
+  "geometry": {"coordinates":[65.05188000000001,31.51112],"type":"Point"}
+}

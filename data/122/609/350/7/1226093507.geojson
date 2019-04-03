@@ -1,0 +1,74 @@
+{
+  "id": 1226093507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25775,35.79881,71.25775,35.79881",
+    "geom:latitude":35.79881,
+    "geom:longitude":71.25775,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Pazhgam",
+    "gn:country_code":"AF",
+    "gn:dem":2977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469865,
+    "gn:latitude":35.79881,
+    "gn:longitude":71.25775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pazhg\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paz\u0304g\u0101m",
+        "Pazgam",
+        "Pazhg\u0101m",
+        "\u067e\u0698\u06af\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469865
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f4e9197a8904119e276274a3e68af0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1226093507,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1226093507,
+    "wof:lastmodified":1537583632,
+    "wof:name":"Pazhgam",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25775,
+    35.79881,
+    71.25775,
+    35.79881
+],
+  "geometry": {"coordinates":[71.25775,35.79881],"type":"Point"}
+}

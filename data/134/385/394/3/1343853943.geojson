@@ -1,0 +1,75 @@
+{
+  "id": 1343853943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.84564,33.60412,64.84564,33.60412",
+    "geom:latitude":33.60412,
+    "geom:longitude":64.84564,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Rah-e Now",
+    "gn:country_code":"AF",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128600,
+    "gn:latitude":33.60412,
+    "gn:longitude":64.84564,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101h-e Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eahnaw",
+        "Rakhnau",
+        "R\u0101h-e Now",
+        "\u0631\u0627\u0647 \u0646\u0648",
+        "R\u0101h Now"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128600
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"454c54b16eb4d20de8841b3b68e80db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1343853943,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343853943,
+    "wof:lastmodified":1537580638,
+    "wof:name":"Rah-e Now",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.84564,
+    33.60412,
+    64.84564,
+    33.60412
+],
+  "geometry": {"coordinates":[64.84564,33.60412],"type":"Point"}
+}

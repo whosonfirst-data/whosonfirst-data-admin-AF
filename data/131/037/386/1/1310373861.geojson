@@ -1,0 +1,76 @@
+{
+  "id": 1310373861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65928,31.62727,65.65928,31.62727",
+    "geom:latitude":31.62727,
+    "geom:longitude":65.65928,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Lwar Karghanak",
+    "gn:country_code":"AF",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453779,
+    "gn:latitude":31.62727,
+    "gn:longitude":65.65928,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5f Karghanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u063a\u0646\u06a9\u0654 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Varkarganak",
+        "Lwa\u1e5f Karghanak",
+        "\u0644\u0648\u0693 \u06a9\u0631\u063a\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453779
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53a3586af87b6273dbea58361304d223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1310373861,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1310373861,
+    "wof:lastmodified":1537583109,
+    "wof:name":"Lwar Karghanak",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65928000000001,
+    31.62727000000001,
+    65.65928000000001,
+    31.62727000000001
+],
+  "geometry": {"coordinates":[65.65928000000001,31.62727000000001],"type":"Point"}
+}

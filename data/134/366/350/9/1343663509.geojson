@@ -1,0 +1,76 @@
+{
+  "id": 1343663509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79041,35.7841,68.79041,35.7841",
+    "geom:latitude":35.7841,
+    "geom:longitude":68.79041,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Hazarah Khan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140104,
+    "gn:latitude":35.7841,
+    "gn:longitude":68.79041,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rah Kh\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khazarakhan-Kalay",
+        "Haz\u0101\u1e5fakh\u0101n Kalay",
+        "Haz\u0101reh Kh\u0101n Kalay",
+        "Hez\u0101reh Kh\u0101n Kalay",
+        "Haz\u0101rah Kh\u0101n K\u00ealay",
+        "\u0647\u0632\u0627\u0631\u0647 \u062e\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140104
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"571f077dbcdf445e51fc31732bddc2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1343663509,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343663509,
+    "wof:lastmodified":1537581631,
+    "wof:name":"Hazarah Khan Kelay",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79041,
+    35.7841,
+    68.79041,
+    35.7841
+],
+  "geometry": {"coordinates":[68.79040999999999,35.7841],"type":"Point"}
+}

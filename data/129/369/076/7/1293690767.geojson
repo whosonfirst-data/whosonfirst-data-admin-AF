@@ -1,0 +1,74 @@
+{
+  "id": 1293690767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66006,37.47292,70.66006,37.47292",
+    "geom:latitude":37.47292,
+    "geom:longitude":70.66006,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Chishur",
+    "gn:country_code":"AF",
+    "gn:dem":2601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468535,
+    "gn:latitude":37.47292,
+    "gn:longitude":70.66006,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chish\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cesu\u1e5f",
+        "\u0686\u0634\u0648\u0631",
+        "Chesh\u016br",
+        "Chish\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468535
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b9ce4f392eb7b97d821a31513af53b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562207,
+            "locality_id":1293690767,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293690767,
+    "wof:lastmodified":1537583561,
+    "wof:name":"Chishur",
+    "wof:parent_id":1108562207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66006,
+    37.47292,
+    70.66006,
+    37.47292
+],
+  "geometry": {"coordinates":[70.66006,37.47292],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260172155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44684,33.43492,68.44684,33.43492",
+    "geom:latitude":33.43492,
+    "geom:longitude":68.44684,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"601",
+    "gn:asciiname":"Mungor",
+    "gn:country_code":"AF",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132654,
+    "gn:latitude":33.43492,
+    "gn:longitude":68.44684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mung\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mung\u014d\u1e5f",
+        "Mungor",
+        "Mung\u014dr",
+        "Mung\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e3424babe3d7353703d40d60cf6796d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1260172155,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260172155,
+    "wof:lastmodified":1537581024,
+    "wof:name":"Mungor",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44684000000001,
+    33.43492,
+    68.44684000000001,
+    33.43492
+],
+  "geometry": {"coordinates":[68.44684000000001,33.43492],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1292939395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.49823,33.88238,66.49823,33.88238",
+    "geom:latitude":33.88238,
+    "geom:longitude":66.49823,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Karamzarak",
+    "gn:country_code":"AF",
+    "gn:dem":2958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449036,
+    "gn:latitude":33.88238,
+    "gn:longitude":66.49823,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karamz\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karamz\u0101rak",
+        "\u06a9\u0631\u0645\u0632\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449036
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e9f96a7758685851be1574b29bfddb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1292939395,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1292939395,
+    "wof:lastmodified":1537583000,
+    "wof:name":"Karamzarak",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.49823,
+    33.88238,
+    66.49823,
+    33.88238
+],
+  "geometry": {"coordinates":[66.49823000000001,33.88238],"type":"Point"}
+}

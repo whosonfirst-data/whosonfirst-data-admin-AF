@@ -1,0 +1,71 @@
+{
+  "id": 1209700127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.29527,33.75653,65.29527,33.75653",
+    "geom:latitude":33.75653,
+    "geom:longitude":65.29527,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Kaj",
+    "gn:country_code":"AF",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138788,
+    "gn:latitude":33.75653,
+    "gn:longitude":65.29527,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138788
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ef9f8b7d7f1a68d4b0d03178d28bc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1209700127,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209700127,
+    "wof:lastmodified":1537581524,
+    "wof:name":"Kaj",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.29527,
+    33.75653,
+    65.29527,
+    33.75653
+],
+  "geometry": {"coordinates":[65.29527,33.75653],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343809037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02801,31.86995,67.02801,31.86995",
+    "geom:latitude":31.86995,
+    "geom:longitude":67.02801,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Puti",
+    "gn:country_code":"AF",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436183,
+    "gn:latitude":31.86995,
+    "gn:longitude":67.02801,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u016b\u1e6f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "P\u016bti",
+        "P\u014d\u1e6fa\u012b",
+        "\u067e\u0648\u067c\u06cc",
+        "Powt\u012b",
+        "P\u016b\u1e6f\u012b",
+        "P\u016b\u1e6fa\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436183
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd2e245122f87ba61604b2cad82773bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1343809037,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343809037,
+    "wof:lastmodified":1537582809,
+    "wof:name":"Puti",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02801,
+    31.86995,
+    67.02801,
+    31.86995
+],
+  "geometry": {"coordinates":[67.02800999999999,31.86995],"type":"Point"}
+}

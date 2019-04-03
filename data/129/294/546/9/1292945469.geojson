@@ -1,0 +1,73 @@
+{
+  "id": 1292945469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36925,34.76711,70.36925,34.76711",
+    "geom:latitude":34.76711,
+    "geom:longitude":70.36925,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903",
+    "gn:asciiname":"Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138547,
+    "gn:latitude":34.76711,
+    "gn:longitude":70.36925,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0644\u06cc",
+        "Kalay",
+        "K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138547
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"006a50896bff45d8402eccc6f8a2d3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1292945469,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1292945469,
+    "wof:lastmodified":1537581508,
+    "wof:name":"Kelay",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36925,
+    34.76711,
+    70.36925,
+    34.76711
+],
+  "geometry": {"coordinates":[70.36924999999999,34.76711],"type":"Point"}
+}

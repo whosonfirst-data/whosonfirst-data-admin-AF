@@ -1,0 +1,75 @@
+{
+  "id": 1343656815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.27869,33.33198,63.27869,33.33198",
+    "geom:latitude":33.33198,
+    "geom:longitude":63.27869,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Shorawjah",
+    "gn:country_code":"AF",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124804,
+    "gn:latitude":33.33198,
+    "gn:longitude":63.27869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101wjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160or\u0101wja",
+        "Shoraudzha",
+        "Sh\u014dr\u0101wjah",
+        "\u0634\u0648\u0631\u0627\u0648\u062c\u0647",
+        "Sh\u016br\u0101bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124804
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8080e3c633e6dfbd96c1aea513c476e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1343656815,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1343656815,
+    "wof:lastmodified":1537580329,
+    "wof:name":"Shorawjah",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.27869000000001,
+    33.33198,
+    63.27869000000001,
+    33.33198
+],
+  "geometry": {"coordinates":[63.27869000000001,33.33198],"type":"Point"}
+}

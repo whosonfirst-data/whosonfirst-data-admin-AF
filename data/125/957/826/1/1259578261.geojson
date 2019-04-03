@@ -1,0 +1,72 @@
+{
+  "id": 1259578261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.70238,32.98449,63.70238,32.98449",
+    "geom:latitude":32.98449,
+    "geom:longitude":63.70238,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Deh-e Sabil",
+    "gn:country_code":"AF",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143531,
+    "gn:latitude":32.98449,
+    "gn:longitude":63.70238,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Sab\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh-e Sab\u012bl",
+        "\u062f\u0647 \u0633\u0628\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"74cf63b826255450c592b93aa3685a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562047,
+            "locality_id":1259578261,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1259578261,
+    "wof:lastmodified":1537581927,
+    "wof:name":"Deh-e Sabil",
+    "wof:parent_id":1108562047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.70238000000001,
+    32.98449,
+    63.70238000000001,
+    32.98449
+],
+  "geometry": {"coordinates":[63.70238000000001,32.98449],"type":"Point"}
+}

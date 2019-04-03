@@ -1,0 +1,77 @@
+{
+  "id": 1277046365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55315,35.09316,69.55315,35.09316",
+    "geom:latitude":35.09316,
+    "geom:longitude":69.55315,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204",
+    "gn:asciiname":"Hamayun",
+    "gn:country_code":"AF",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140264,
+    "gn:latitude":35.09316,
+    "gn:longitude":69.55315,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ham\u0101y\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u0430\u044e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Khamayun",
+        "Hom\u0101y\u016bn",
+        "Ham\u0101y\u016bn",
+        "\u0647\u0645\u0627\u06cc\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140264
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"60207d8300e1fe2ea64158eefe14ddaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1277046365,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1277046365,
+    "wof:lastmodified":1537581645,
+    "wof:name":"Hamayun",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55315,
+    35.09316,
+    69.55315,
+    35.09316
+],
+  "geometry": {"coordinates":[69.55315,35.09316],"type":"Point"}
+}

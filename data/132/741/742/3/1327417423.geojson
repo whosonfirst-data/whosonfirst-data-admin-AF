@@ -1,0 +1,73 @@
+{
+  "id": 1327417423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.72674,32.72666,64.72674,32.72666",
+    "geom:latitude":32.72666,
+    "geom:longitude":64.72674,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Gami Zard",
+    "gn:country_code":"AF",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451292,
+    "gn:latitude":32.72666,
+    "gn:longitude":64.72674,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gam\u012b Zard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gamizard",
+        "Gam\u012b Zard",
+        "\u06af\u0645\u06cc \u0632\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451292
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fecd7db47bf3964b8050527fa059e6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1327417423,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1327417423,
+    "wof:lastmodified":1537583064,
+    "wof:name":"Gami Zard",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.72674,
+    32.72666,
+    64.72674,
+    32.72666
+],
+  "geometry": {"coordinates":[64.72674000000001,32.72666],"type":"Point"}
+}

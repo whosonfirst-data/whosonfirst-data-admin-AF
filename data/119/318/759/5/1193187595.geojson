@@ -1,0 +1,79 @@
+{
+  "id": 1193187595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.77128,34.9275,70.77128,34.9275",
+    "geom:latitude":34.9275,
+    "geom:longitude":70.77128,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Draykhet",
+    "gn:country_code":"AF",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474082,
+    "gn:latitude":34.9275,
+    "gn:longitude":70.77128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Draykh\u00ea\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u062e\u062a"
+    ],
+    "name:rus_x_preferred":[
+        "Drekheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e0e\u1e5f\u0113khet",
+        "Draykh\u00ea\u1e6f",
+        "\u062f\u0631\u06cc\u062e\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474082
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c019323885a771164c051b045c85119d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1193187595,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1193187595,
+    "wof:lastmodified":1537583780,
+    "wof:name":"Draykhet",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.77128,
+    34.9275,
+    70.77128,
+    34.9275
+],
+  "geometry": {"coordinates":[70.77128,34.9275],"type":"Point"}
+}

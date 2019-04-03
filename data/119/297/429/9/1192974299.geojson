@@ -1,0 +1,77 @@
+{
+  "id": 1192974299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62452,36.90382,68.62452,36.90382",
+    "geom:latitude":36.90382,
+    "geom:longitude":68.62452,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1403",
+    "gn:asciiname":"Yanghariq",
+    "gn:country_code":"AF",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121277,
+    "gn:latitude":36.90382,
+    "gn:longitude":68.62452,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yangh\u0101riq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0433\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yangaryk",
+        "Yangh\u0101req",
+        "Yangh\u0101riq",
+        "\u06cc\u0646\u063a\u0627\u0631\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11d79966953c4ee103fab91a2ea4bbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562383,
+            "locality_id":1192974299,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1192974299,
+    "wof:lastmodified":1537580033,
+    "wof:name":"Yanghariq",
+    "wof:parent_id":1108562383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62451999999999,
+    36.90382,
+    68.62451999999999,
+    36.90382
+],
+  "geometry": {"coordinates":[68.62451999999999,36.90382],"type":"Point"}
+}

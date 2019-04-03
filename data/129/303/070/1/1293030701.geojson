@@ -1,0 +1,72 @@
+{
+  "id": 1293030701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80984,36.52983,65.80984,36.52983",
+    "geom:latitude":36.52983,
+    "geom:longitude":65.80984,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Kodi",
+    "gn:country_code":"AF",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7571244,
+    "gn:latitude":36.52983,
+    "gn:longitude":65.80984,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dd\u012b",
+        "\u06a9\u0648\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7571244
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3756c7fe32dc8e56f3e5d957b70e49e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1293030701,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293030701,
+    "wof:lastmodified":1537583936,
+    "wof:name":"Kodi",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80984000000001,
+    36.52983,
+    65.80984000000001,
+    36.52983
+],
+  "geometry": {"coordinates":[65.80984000000001,36.52983],"type":"Point"}
+}

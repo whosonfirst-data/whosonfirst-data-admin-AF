@@ -1,0 +1,74 @@
+{
+  "id": 1276671849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35278,37.75261,70.35278,37.75261",
+    "geom:latitude":37.75261,
+    "geom:longitude":70.35278,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1111",
+    "gn:asciiname":"Shing Darah",
+    "gn:country_code":"AF",
+    "gn:dem":2257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125143,
+    "gn:latitude":37.75261,
+    "gn:longitude":70.35278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shing Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304ing \u1e0ea\u1e5f\u1e5fah",
+        "Sh\u012bng Darreh",
+        "Shing Darah",
+        "\u0634\u0646\u06af \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125143
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7af0ee9160be519049b976d8650aa4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562181,
+            "locality_id":1276671849,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276671849,
+    "wof:lastmodified":1537580360,
+    "wof:name":"Shing Darah",
+    "wof:parent_id":1108562181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35278000000001,
+    37.75261,
+    70.35278000000001,
+    37.75261
+],
+  "geometry": {"coordinates":[70.35278000000001,37.75261],"type":"Point"}
+}

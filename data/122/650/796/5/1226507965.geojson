@@ -1,0 +1,72 @@
+{
+  "id": 1226507965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.02483,31.15938,62.02483,31.15938",
+    "geom:latitude":31.15938,
+    "geom:longitude":62.02483,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2204.0",
+    "gn:asciiname":"Rahim Khan",
+    "gn:country_code":"AF",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438875,
+    "gn:latitude":31.15938,
+    "gn:longitude":62.02483,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ra\u1e29\u012bm Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u1e29\u012bm Kh\u0101n",
+        "\u0631\u062d\u06cc\u0645 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438875
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec8950f49638705011cb975d5ceb0253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561895,
+            "locality_id":1226507965,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1226507965,
+    "wof:lastmodified":1537582900,
+    "wof:name":"Rahim Khan",
+    "wof:parent_id":1108561895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.02483,
+    31.15938,
+    62.02483,
+    31.15938
+],
+  "geometry": {"coordinates":[62.02483,31.15938],"type":"Point"}
+}

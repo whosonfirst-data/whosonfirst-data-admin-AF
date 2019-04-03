@@ -1,0 +1,78 @@
+{
+  "id": 1327190413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89408,31.42584,65.89408,31.42584",
+    "geom:latitude":31.42584,
+    "geom:longitude":65.89408,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402.0",
+    "gn:asciiname":"Zor Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1466852,
+    "gn:latitude":31.42584,
+    "gn:longitude":65.89408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u014d\u1e5f K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u06cc\u064e\u06c0 \u0632\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Z\u014dr Kalay",
+        "Zor-Kalay",
+        "Z\u014d\u1e5f K\u00ealay",
+        "\u0632\u0648\u0693 \u06a9\u0644\u06cc",
+        "Z\u016br Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466852
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b450483ed7f6cc01c1913b7a98bce5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1327190413,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327190413,
+    "wof:lastmodified":1537583442,
+    "wof:name":"Zor Kelay",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89408,
+    31.42584,
+    65.89408,
+    31.42584
+],
+  "geometry": {"coordinates":[65.89408,31.42584],"type":"Point"}
+}

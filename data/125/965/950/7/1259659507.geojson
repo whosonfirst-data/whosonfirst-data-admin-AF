@@ -1,0 +1,76 @@
+{
+  "id": 1259659507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.01975,34.28079,70.01975,34.28079",
+    "geom:latitude":34.28079,
+    "geom:longitude":70.01975,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804.0",
+    "gn:asciiname":"Zangzai",
+    "gn:country_code":"AF",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473366,
+    "gn:latitude":34.28079,
+    "gn:longitude":70.01975,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zangza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06af\u0632\u0626\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Zangza\u2019i",
+        "Zangza\u012b",
+        "\u0632\u0646\u06af\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473366
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"183b357a1ee5c84efe598ca0b00e1bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562503,
+            "locality_id":1259659507,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259659507,
+    "wof:lastmodified":1537583753,
+    "wof:name":"Zangzai",
+    "wof:parent_id":1108562503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.01975,
+    34.28079,
+    70.01975,
+    34.28079
+],
+  "geometry": {"coordinates":[70.01975,34.28079],"type":"Point"}
+}

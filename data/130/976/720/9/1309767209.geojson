@@ -1,0 +1,75 @@
+{
+  "id": 1309767209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.60504,33.14838,68.60504,33.14838",
+    "geom:latitude":33.14838,
+    "geom:longitude":68.60504,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Burak Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146329,
+    "gn:latitude":33.14838,
+    "gn:longitude":68.60504,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Burak K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burakkalay",
+        "\u0628\u0631\u06a9 \u06a9\u0644\u06cc",
+        "Bo\u1e5fak Kalay",
+        "Burak K\u00ealay",
+        "Borak K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146329
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"826ca742913eadcd27952b1a86875f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1309767209,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1309767209,
+    "wof:lastmodified":1537582173,
+    "wof:name":"Burak Kelay",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.60504,
+    33.14838,
+    68.60504,
+    33.14838
+],
+  "geometry": {"coordinates":[68.60504,33.14838],"type":"Point"}
+}

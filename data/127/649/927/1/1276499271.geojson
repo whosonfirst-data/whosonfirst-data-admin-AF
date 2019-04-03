@@ -1,0 +1,79 @@
+{
+  "id": 1276499271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49935,33.46553,69.49935,33.46553",
+    "geom:latitude":33.46553,
+    "geom:longitude":69.49935,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Tsaperai",
+    "gn:country_code":"AF",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122229,
+    "gn:latitude":33.46553,
+    "gn:longitude":69.49935,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tsap\u00eara\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u067e\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Capa\u1e5fay",
+        "Chaparay",
+        "\u0686\u067e\u0631\u06cc",
+        "Tsaperay",
+        "Tsap\u00eara\u012b",
+        "\u0685\u067e\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"14a9196c38f828310f7ff1ea3fe536c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1276499271,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1276499271,
+    "wof:lastmodified":1537580097,
+    "wof:name":"Tsaperai",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49935,
+    33.46553,
+    69.49935,
+    33.46553
+],
+  "geometry": {"coordinates":[69.49935000000001,33.46553],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276279337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.86667,35.81667,65.86667,35.81667",
+    "geom:latitude":35.81667,
+    "geom:longitude":65.86667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Kohistanat",
+    "gn:country_code":"AF",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135380,
+    "gn:latitude":35.81667,
+    "gn:longitude":65.86667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dhist\u0101n\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohest\u0101n\u0101t",
+        "K\u016bhest\u0101n\u0101t",
+        "K\u014dhist\u0101n\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135380
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"179ef8f15b1fd25721f557f712024bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1276279337,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1276279337,
+    "wof:lastmodified":1537581246,
+    "wof:name":"Kohistanat",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.86667,
+    35.81667,
+    65.86667,
+    35.81667
+],
+  "geometry": {"coordinates":[65.86667,35.81667],"type":"Point"}
+}

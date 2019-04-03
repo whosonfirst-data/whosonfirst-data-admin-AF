@@ -1,0 +1,76 @@
+{
+  "id": 1226718569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45262,31.43279,65.45262,31.43279",
+    "geom:latitude":31.43279,
+    "geom:longitude":65.45262,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2408",
+    "gn:asciiname":"Mulla Ashraf",
+    "gn:country_code":"AF",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132960,
+    "gn:latitude":31.43279,
+    "gn:longitude":65.45262,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Ashraf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashraf",
+        "Mull\u0101 A\u0161raf",
+        "Mulla-Ashrat",
+        "Mull\u0101 Ashraf",
+        "\u0645\u0644\u0627 \u0627\u0634\u0631\u0641",
+        "Moll\u0101 Ashraf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421196563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a0c1a16319b28f3ee028d89f1be5339c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421196563,
+            "locality_id":1226718569,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226718569,
+    "wof:lastmodified":1537581052,
+    "wof:name":"Mulla Ashraf",
+    "wof:parent_id":421196563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45262,
+    31.43279,
+    65.45262,
+    31.43279
+],
+  "geometry": {"coordinates":[65.45262,31.43279],"type":"Point"}
+}

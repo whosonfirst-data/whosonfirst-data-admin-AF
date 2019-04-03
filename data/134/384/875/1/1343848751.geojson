@@ -1,0 +1,75 @@
+{
+  "id": 1343848751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.49872,32.94409,67.49872,32.94409",
+    "geom:latitude":32.94409,
+    "geom:longitude":67.49872,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Kuhnah Deh",
+    "gn:country_code":"AF",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135820,
+    "gn:latitude":32.94409,
+    "gn:longitude":67.49872,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuhnah Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuhna \u1e0eeh",
+        "Kukhna-Dekh",
+        "Kuhnah Deh",
+        "\u06a9\u0647\u0646\u0647 \u062f\u0647",
+        "Kohneh Deh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135820
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80bff21721bd8e1adf095f354c51d313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343848751,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343848751,
+    "wof:lastmodified":1537581290,
+    "wof:name":"Kuhnah Deh",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.49871999999999,
+    32.94409,
+    67.49871999999999,
+    32.94409
+],
+  "geometry": {"coordinates":[67.49871999999999,32.94409],"type":"Point"}
+}

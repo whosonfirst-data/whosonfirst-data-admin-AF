@@ -1,0 +1,79 @@
+{
+  "id": 1226527719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27059,32.96096,68.27059,32.96096",
+    "geom:latitude":32.96096,
+    "geom:longitude":68.27059,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"612.0",
+    "gn:asciiname":"Bar Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146909,
+    "gn:latitude":32.96096,
+    "gn:longitude":68.27059,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bar Kal\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u06a9\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sheykha-Bar",
+        "Bar Kal\u0101",
+        "\u0628\u0631\u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146909
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb8b87b29185cb2925229abdee1fbfba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1226527719,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226527719,
+    "wof:lastmodified":1537582223,
+    "wof:name":"Bar Kala",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27059,
+    32.96096,
+    68.27059,
+    32.96096
+],
+  "geometry": {"coordinates":[68.27059,32.96096],"type":"Point"}
+}

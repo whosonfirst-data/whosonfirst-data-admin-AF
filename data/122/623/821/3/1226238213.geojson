@@ -1,0 +1,74 @@
+{
+  "id": 1226238213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.84099,33.75265,64.84099,33.75265",
+    "geom:latitude":33.75265,
+    "geom:longitude":64.84099,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Sar Takht-e Sow",
+    "gn:country_code":"AF",
+    "gn:dem":2752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1126808,
+    "gn:latitude":33.75265,
+    "gn:longitude":64.84099,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Takht-e Sow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sartakhti-Sau",
+        "Sar Takht-e Sow",
+        "\u0633\u0631 \u062a\u062e\u062a \u0633\u0648",
+        "Sartakht-e Saw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126808
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da74fcb256505931384dc8300f54e9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1226238213,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226238213,
+    "wof:lastmodified":1537580504,
+    "wof:name":"Sar Takht-e Sow",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.84099,
+    33.75265,
+    64.84099,
+    33.75265
+],
+  "geometry": {"coordinates":[64.84099000000001,33.75265],"type":"Point"}
+}

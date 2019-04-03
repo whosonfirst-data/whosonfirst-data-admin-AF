@@ -1,0 +1,73 @@
+{
+  "id": 1259942467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.89721,31.15654,61.89721,31.15654",
+    "geom:latitude":31.15654,
+    "geom:longitude":61.89721,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Kacholi",
+    "gn:country_code":"AF",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436323,
+    "gn:latitude":31.15654,
+    "gn:longitude":61.89721,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kach\u014dl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u010doli",
+        "Kach\u016bl\u012b",
+        "Kach\u014dl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436323
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d930be67186d06684fd701592fea134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1259942467,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1259942467,
+    "wof:lastmodified":1537582818,
+    "wof:name":"Kacholi",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.89721,
+    31.15654,
+    61.89721,
+    31.15654
+],
+  "geometry": {"coordinates":[61.89721,31.15654],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209368701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37423,35.06629,71.37423,35.06629",
+    "geom:latitude":35.06629,
+    "geom:longitude":71.37423,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003",
+    "gn:asciiname":"Shangar",
+    "gn:country_code":"AF",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125592,
+    "gn:latitude":35.06629,
+    "gn:longitude":71.37423,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160angar",
+        "\u0634\u0646\u06af\u0631",
+        "Shangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9e1624a7055e9f75a3a4377ab543007",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209368701
+        }
+    ],
+    "wof:id":1209368701,
+    "wof:lastmodified":1537580402,
+    "wof:name":"Shangar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37423000000003,
+    35.06629,
+    71.37423000000003,
+    35.06629
+],
+  "geometry": {"coordinates":[71.37423000000003,35.06629],"type":"Point"}
+}

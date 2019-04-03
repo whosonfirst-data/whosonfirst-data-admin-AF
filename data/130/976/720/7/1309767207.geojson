@@ -1,0 +1,75 @@
+{
+  "id": 1309767207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.87203,33.27704,68.87203,33.27704",
+    "geom:latitude":33.27704,
+    "geom:longitude":68.87203,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915.0",
+    "gn:asciiname":"Koti Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435219,
+    "gn:latitude":33.27704,
+    "gn:longitude":68.87203,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6f\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dtikh\u0113l",
+        "Kotikheyl\u2019",
+        "\u06a9\u0648\u067c\u06cc \u062e\u06d0\u0644",
+        "Kowt\u012b Kheyl",
+        "K\u014d\u1e6f\u012b Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435219
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce1f3c5bdea2ae7378c7ad827d8263a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1309767207,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1309767207,
+    "wof:lastmodified":1537582764,
+    "wof:name":"Koti Khel",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.87203000000001,
+    33.27704,
+    68.87203000000001,
+    33.27704
+],
+  "geometry": {"coordinates":[68.87203000000001,33.27704],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226139841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.74477,33.79018,67.74477,33.79018",
+    "geom:latitude":33.79018,
+    "geom:longitude":67.74477,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"'Amro",
+    "gn:country_code":"AF",
+    "gn:dem":3159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148741,
+    "gn:latitude":33.79018,
+    "gn:longitude":67.74477,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Amr\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0440\u0443"
+    ],
+    "name:und_x_variant":[
+        "Amru",
+        "\u2018Amro",
+        "\u2018Amr\u014d",
+        "\u0639\u0645\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148741
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32dc5e55a9374ca7894131478950724c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226139841,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226139841,
+    "wof:lastmodified":1537582361,
+    "wof:name":"'Amro",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.74476999999999,
+    33.79018,
+    67.74476999999999,
+    33.79018
+],
+  "geometry": {"coordinates":[67.74476999999999,33.79018],"type":"Point"}
+}

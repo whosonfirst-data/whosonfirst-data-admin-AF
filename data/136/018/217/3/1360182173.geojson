@@ -1,0 +1,75 @@
+{
+  "id": 1360182173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.46139,33.9675,67.46139,33.9675",
+    "geom:latitude":33.9675,
+    "geom:longitude":67.46139,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Garm Ab",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":2804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141808,
+    "gn:latitude":33.9675,
+    "gn:longitude":67.46139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Garm \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304\u0101he Garm\u0101b",
+        "Sh\u0101h-e Garm \u0100b",
+        "Garm \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141808,
+        "wk:page":"Garm_Ab"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90e9e2de117de27aa007212d6b59a23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1360182173,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360182173,
+    "wof:lastmodified":1537581776,
+    "wof:name":"Garm Ab",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.46139000000001,
+    33.9675,
+    67.46139000000001,
+    33.9675
+],
+  "geometry": {"coordinates":[67.46139000000001,33.9675],"type":"Point"}
+}

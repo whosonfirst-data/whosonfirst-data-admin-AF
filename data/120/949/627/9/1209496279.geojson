@@ -1,0 +1,67 @@
+{
+  "id": 1209496279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.82833,33.57906,62.82833,33.57906",
+    "geom:latitude":33.57906,
+    "geom:longitude":62.82833,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Zuhrak",
+    "gn:country_code":"AF",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120532,
+    "gn:latitude":33.57906,
+    "gn:longitude":62.82833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zuhrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0630\u0647\u0631\u06a9",
+        "Zuhrak",
+        "Zohrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120532
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"efb8bf7369053c278a2f7cda8a3dddc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209496279
+        }
+    ],
+    "wof:id":1209496279,
+    "wof:lastmodified":1537579951,
+    "wof:name":"Zuhrak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.82833,
+    33.57906,
+    62.82833,
+    33.57906
+],
+  "geometry": {"coordinates":[62.82833,33.57906],"type":"Point"}
+}

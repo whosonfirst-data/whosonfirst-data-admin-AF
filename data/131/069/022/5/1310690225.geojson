@@ -1,0 +1,73 @@
+{
+  "id": 1310690225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.00281,32.3161,65.00281,32.3161",
+    "geom:latitude":32.3161,
+    "geom:longitude":65.00281,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Daruzai",
+    "gn:country_code":"AF",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143932,
+    "gn:latitude":32.3161,
+    "gn:longitude":65.00281,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101r\u016bza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r\u016bza\u012b",
+        "\u062f\u0627\u0631\u0648\u0632\u06cc",
+        "D\u0101r\u016bz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143932
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dba5f8811bded869a023513f07bcbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1310690225,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1310690225,
+    "wof:lastmodified":1537581961,
+    "wof:name":"Daruzai",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.00281,
+    32.3161,
+    65.00281,
+    32.3161
+],
+  "geometry": {"coordinates":[65.00281,32.3161],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277051529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60886,34.14382,70.60886,34.14382",
+    "geom:latitude":34.14382,
+    "geom:longitude":70.60886,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"822.0",
+    "gn:asciiname":"Sa'adatmand",
+    "gn:country_code":"AF",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469640,
+    "gn:latitude":34.14382,
+    "gn:longitude":70.60886,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sa\u2018\u0101datmand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saadatmand",
+        "Sa\u2018\u0101datmand",
+        "\u0633\u0639\u0627\u062f\u062a\u0645\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        421182991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2119d05b0b3974d364e2e154ee89954f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182991,
+            "locality_id":1277051529,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1277051529,
+    "wof:lastmodified":1537583619,
+    "wof:name":"Sa'adatmand",
+    "wof:parent_id":421182991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60885999999998,
+    34.14382,
+    70.60885999999998,
+    34.14382
+],
+  "geometry": {"coordinates":[70.60885999999998,34.14382],"type":"Point"}
+}

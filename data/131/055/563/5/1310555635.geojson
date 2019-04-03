@@ -1,0 +1,77 @@
+{
+  "id": 1310555635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.65439,34.26766,67.65439,34.26766",
+    "geom:latitude":34.26766,
+    "geom:longitude":67.65439,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Qal'ah-ye Giro",
+    "gn:country_code":"AF",
+    "gn:dem":3107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129983,
+    "gn:latitude":34.26766,
+    "gn:longitude":67.65439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye G\u012br\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalagir",
+        "Qal\u2018eh-ye G\u012br\u016b",
+        "Qal\u2018a-i-G\u0113\u1e5fu",
+        "Qal\u2018a G\u0113\u1e5fu",
+        "Qal\u2018ah-ye G\u012br\u014d",
+        "Qal\u2018eh-ye G\u012brow",
+        "\u0642\u0644\u0639\u06c0 \u06af\u06cc\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129983
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b9b9f955b7beb867a6d61770a587f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1310555635,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310555635,
+    "wof:lastmodified":1537580792,
+    "wof:name":"Qal'ah-ye Giro",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.65439,
+    34.26766,
+    67.65439,
+    34.26766
+],
+  "geometry": {"coordinates":[67.65439000000001,34.26766],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309798353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.51507,31.57116,61.51507,31.57116",
+    "geom:latitude":31.57116,
+    "geom:longitude":61.51507,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Khayrabad",
+    "gn:country_code":"AF",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136677,
+    "gn:latitude":31.57116,
+    "gn:longitude":61.51507,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khayr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khair\u0101b\u0101d",
+        "Khay\u1e5f\u0101b\u0101\u1e0f",
+        "Khayr\u0101b\u0101d",
+        "\u062e\u06cc\u0631\u0622\u0628\u0627\u062f",
+        "Kheyr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136677
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"94d2f03da87e7d947b78769676ad32a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1309798353,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1309798353,
+    "wof:lastmodified":1537581361,
+    "wof:name":"Khayrabad",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.51507,
+    31.57116,
+    61.51507,
+    31.57116
+],
+  "geometry": {"coordinates":[61.51507,31.57116],"type":"Point"}
+}

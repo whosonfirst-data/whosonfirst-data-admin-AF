@@ -1,0 +1,74 @@
+{
+  "id": 1360214461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.25056,37.34889,66.25056,37.34889",
+    "geom:latitude":37.34889,
+    "geom:longitude":66.25056,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1705",
+    "gn:asciiname":"Kilift",
+    "gn:country_code":"AF",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137520,
+    "gn:latitude":37.34889,
+    "gn:longitude":66.25056,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kilift",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilif",
+        "Kelift",
+        "Kelif",
+        "Kilift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137520
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"586f886ff6725166993f046964830b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562395,
+            "locality_id":1360214461,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1360214461,
+    "wof:lastmodified":1537581424,
+    "wof:name":"Kilift",
+    "wof:parent_id":1108562395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.25056,
+    37.34889,
+    66.25056,
+    37.34889
+],
+  "geometry": {"coordinates":[66.25055999999999,37.34889],"type":"Point"}
+}

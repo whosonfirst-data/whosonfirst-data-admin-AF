@@ -1,0 +1,77 @@
+{
+  "id": 1259641727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15463,31.56805,67.15463,31.56805",
+    "geom:latitude":31.56805,
+    "geom:longitude":67.15463,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Bazoray",
+    "gn:country_code":"AF",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436071,
+    "gn:latitude":31.56805,
+    "gn:longitude":67.15463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101z\u014d\u1e5fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "B\u0101z\u014dray",
+        "B\u0101z\u014d\u1e5fay",
+        "\u0628\u0627\u0632\u0648\u0693\u06cc",
+        "B\u0101zow\u1e5fay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95fa1bc4c9025b4d4de76507bf96c57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1259641727,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259641727,
+    "wof:lastmodified":1537582797,
+    "wof:name":"Bazoray",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15463000000001,
+    31.56805,
+    67.15463000000001,
+    31.56805
+],
+  "geometry": {"coordinates":[67.15463000000001,31.56805],"type":"Point"}
+}

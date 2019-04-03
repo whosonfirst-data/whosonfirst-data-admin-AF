@@ -1,0 +1,74 @@
+{
+  "id": 1327387543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23847,34.51741,70.23847,34.51741",
+    "geom:latitude":34.51741,
+    "geom:longitude":70.23847,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Bolan",
+    "gn:country_code":"AF",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474636,
+    "gn:latitude":34.51741,
+    "gn:longitude":70.23847,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u014dl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u014dl\u0101n",
+        "Bolan",
+        "B\u016bl\u0101n",
+        "\u0628\u0648\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474636
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7e0149795fd8c861feea799ea4f7f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1327387543,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1327387543,
+    "wof:lastmodified":1537583820,
+    "wof:name":"Bolan",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23846999999999,
+    34.51741,
+    70.23846999999999,
+    34.51741
+],
+  "geometry": {"coordinates":[70.23846999999999,34.51741],"type":"Point"}
+}

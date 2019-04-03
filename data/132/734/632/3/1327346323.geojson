@@ -1,0 +1,74 @@
+{
+  "id": 1327346323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.38272,35.45174,63.38272,35.45174",
+    "geom:latitude":35.45174,
+    "geom:longitude":63.38272,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Buzbai",
+    "gn:country_code":"AF",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146241,
+    "gn:latitude":35.45174,
+    "gn:longitude":63.38272,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Buzbai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzb\u0101\u2019\u012b",
+        "\u0628\u0632\u0628\u0627\u0626\u06cc",
+        "Bozb\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146241,
+        "wk:page":"Bozba%27i"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"30ec4256f0fd66f6c6e80b9d591db6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1327346323,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1327346323,
+    "wof:lastmodified":1537582166,
+    "wof:name":"Buzbai",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.38271999999999,
+    35.45174,
+    63.38271999999999,
+    35.45174
+],
+  "geometry": {"coordinates":[63.38271999999999,35.45174],"type":"Point"}
+}

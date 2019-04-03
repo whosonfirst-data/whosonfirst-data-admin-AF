@@ -1,0 +1,76 @@
+{
+  "id": 1327230581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.90059,34.09896,66.90059,34.09896",
+    "geom:latitude":34.09896,
+    "geom:longitude":66.90059,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Darah-ye Kharah Sang",
+    "gn:country_code":"AF",
+    "gn:dem":3374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1458166,
+    "gn:latitude":34.09896,
+    "gn:longitude":66.90059,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah-ye Kharah Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e0ea\u1e5f\u1e5fahe Kha\u1e5fasang",
+        "\u1e0ea\u1e5f\u1e5fah Kha\u1e5fasang",
+        "Razvaliny Darrakharasang",
+        "Darah-ye Kharah Sang",
+        "Darreh-ye Kharehsang",
+        "\u062f\u0631\u0647 \u062e\u0631\u0647 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458166
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"942ea0238af9ed16aab65c18d345fd92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1327230581,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1327230581,
+    "wof:lastmodified":1537583255,
+    "wof:name":"Darah-ye Kharah Sang",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.90059000000001,
+    34.09896,
+    66.90059000000001,
+    34.09896
+],
+  "geometry": {"coordinates":[66.90059000000001,34.09896],"type":"Point"}
+}

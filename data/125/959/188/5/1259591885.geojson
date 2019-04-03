@@ -1,0 +1,72 @@
+{
+  "id": 1259591885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.85115,35.74169,63.85115,35.74169",
+    "geom:latitude":35.74169,
+    "geom:longitude":63.85115,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1905.0",
+    "gn:asciiname":"Du Abi",
+    "gn:country_code":"AF",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7492020,
+    "gn:latitude":35.74169,
+    "gn:longitude":63.85115,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b \u0100b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "D\u016b \u0100b\u012b",
+        "\u062f\u0648 \u0622\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7492020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1182abe65cf880fe38c652f20386953c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1259591885,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1259591885,
+    "wof:lastmodified":1537583920,
+    "wof:name":"Du Abi",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.85115,
+    35.74169000000001,
+    63.85115,
+    35.74169000000001
+],
+  "geometry": {"coordinates":[63.85115,35.74169000000001],"type":"Point"}
+}

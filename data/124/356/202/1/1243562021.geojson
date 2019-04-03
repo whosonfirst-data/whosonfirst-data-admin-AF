@@ -1,0 +1,71 @@
+{
+  "id": 1243562021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27602,35.64648,69.27602,35.64648",
+    "geom:latitude":35.64648,
+    "geom:longitude":69.27602,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307",
+    "gn:asciiname":"Layn",
+    "gn:country_code":"AF",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134670,
+    "gn:latitude":35.64648,
+    "gn:longitude":69.27602,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Layn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134670
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"953deb3906d1faaef1e6c2f4d7f481f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561975,
+            "locality_id":1243562021,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1243562021,
+    "wof:lastmodified":1537581193,
+    "wof:name":"Layn",
+    "wof:parent_id":1108561975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27601999999999,
+    35.64648,
+    69.27601999999999,
+    35.64648
+],
+  "geometry": {"coordinates":[69.27601999999999,35.64648],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343691577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.82323,32.67104,65.82323,32.67104",
+    "geom:latitude":32.67104,
+    "geom:longitude":65.82323,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Shah Wali",
+    "gn:country_code":"AF",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125829,
+    "gn:latitude":32.67104,
+    "gn:longitude":65.82323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Wal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101hwalay",
+        "\u0160\u0101hwali",
+        "Shakhvalay",
+        "Sh\u0101h Wal\u012b",
+        "\u0634\u0627\u0647 \u0648\u0644\u06cc",
+        "Sh\u0101h Val\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125829
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"824bc7deb8c6348066775eb6b72c62d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1343691577,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1343691577,
+    "wof:lastmodified":1537580419,
+    "wof:name":"Shah Wali",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.82323000000001,
+    32.67104,
+    65.82323000000001,
+    32.67104
+],
+  "geometry": {"coordinates":[65.82323000000001,32.67104],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343230363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06595,36.59436,69.06595,36.59436",
+    "geom:latitude":36.59436,
+    "geom:longitude":69.06595,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Chahar Say",
+    "gn:country_code":"AF",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145784,
+    "gn:latitude":36.59436,
+    "gn:longitude":69.06595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0445\u0430\u0440\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u010cah\u0101r S\u0101y",
+        "Chakharsay",
+        "Chah\u0101r S\u0101y",
+        "\u0686\u0647\u0627\u0631 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec0ea9e9dfc97d8e92c9294da2f92f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1343230363,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1343230363,
+    "wof:lastmodified":1537582128,
+    "wof:name":"Chahar Say",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06595,
+    36.59436,
+    69.06595,
+    36.59436
+],
+  "geometry": {"coordinates":[69.06595,36.59436],"type":"Point"}
+}

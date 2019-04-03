@@ -1,0 +1,74 @@
+{
+  "id": 1309825703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28817,33.09978,68.28817,33.09978",
+    "geom:latitude":33.09978,
+    "geom:longitude":68.28817,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Gosfand",
+    "gn:country_code":"AF",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140483,
+    "gn:latitude":33.09978,
+    "gn:longitude":68.28817,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014dsfand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u014dsfan\u1e0f",
+        "G\u014dsfand",
+        "G\u016bsfand",
+        "\u06af\u0648\u0633\u0641\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140483
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"080d5c670f4569e4cb168ed1547ee24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1309825703,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309825703,
+    "wof:lastmodified":1537581667,
+    "wof:name":"Gosfand",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28817,
+    33.09978,
+    68.28817,
+    33.09978
+],
+  "geometry": {"coordinates":[68.28816999999999,33.09978],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1326706089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1642,34.33884,71.1642,34.33884",
+    "geom:latitude":34.33884,
+    "geom:longitude":71.1642,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"815",
+    "gn:asciiname":"Palotsay",
+    "gn:country_code":"AF",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131211,
+    "gn:latitude":34.33884,
+    "gn:longitude":71.1642,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pal\u014dtsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Palocay",
+        "Palosay",
+        "Palosa\u012b",
+        "Palowchay",
+        "\u067e\u0644\u0648\u0686\u06cc",
+        "Pal\u014dtsay",
+        "\u067e\u0644\u0648\u0685\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131211
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e923b01af6e65f13540bc84d1e96e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562227,
+            "locality_id":1326706089,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1326706089,
+    "wof:lastmodified":1537580904,
+    "wof:name":"Palotsay",
+    "wof:parent_id":1108562227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1642,
+    34.33884,
+    71.1642,
+    34.33884
+],
+  "geometry": {"coordinates":[71.16419999999999,34.33884],"type":"Point"}
+}

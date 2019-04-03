@@ -1,0 +1,76 @@
+{
+  "id": 1276476465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.17027,34.39424,67.17027,34.39424",
+    "geom:latitude":34.39424,
+    "geom:longitude":67.17027,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Qorighak",
+    "gn:country_code":"AF",
+    "gn:dem":3101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1462416,
+    "gn:latitude":34.39424,
+    "gn:longitude":67.17027,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014drighak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Razvaliny Korigak",
+        "Q\u014d\u1e5feghak",
+        "Q\u016breghak",
+        "Q\u014dreghak",
+        "Q\u014drighak",
+        "\u0642\u0648\u0631\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462416
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffa6bf8ea56effa1ec85b91599d10c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1276476465,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276476465,
+    "wof:lastmodified":1537583368,
+    "wof:name":"Qorighak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.17027,
+    34.39424,
+    67.17027,
+    34.39424
+],
+  "geometry": {"coordinates":[67.17027,34.39424],"type":"Point"}
+}

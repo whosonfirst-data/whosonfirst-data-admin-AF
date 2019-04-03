@@ -1,0 +1,68 @@
+{
+  "id": 1293443267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02575,34.89069,70.02575,34.89069",
+    "geom:latitude":34.89069,
+    "geom:longitude":70.02575,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Manjelam",
+    "gn:country_code":"AF",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109621,
+    "gn:latitude":34.89069,
+    "gn:longitude":70.02575,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Manjel\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109621
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ea2cdbaf3b4e0af790b57efe72a552f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1293443267,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1293443267,
+    "wof:lastmodified":1536849839,
+    "wof:name":"Manjelam",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02575,
+    34.89069,
+    70.02575,
+    34.89069
+],
+  "geometry": {"coordinates":[70.02575,34.89069],"type":"Point"}
+}

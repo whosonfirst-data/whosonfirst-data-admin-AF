@@ -1,0 +1,77 @@
+{
+  "id": 1225806197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54509,32.86677,68.54509,32.86677",
+    "geom:latitude":32.86677,
+    "geom:longitude":68.54509,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902",
+    "gn:asciiname":"Kaftari",
+    "gn:country_code":"AF",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137633,
+    "gn:latitude":32.86677,
+    "gn:longitude":68.54509,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaftar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katta\u1e5fi",
+        "Kab\u016bta\u1e5fi",
+        "Kaftari",
+        "\u06a9\u0641\u062a\u0631\u06cc",
+        "Kab\u016btar\u012b",
+        "\u06a9\u0628\u0648\u062a\u0631\u06cc",
+        "Kaftar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137633
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"719830d6808ea598117e8e9823b55268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1225806197,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1225806197,
+    "wof:lastmodified":1537581431,
+    "wof:name":"Kaftari",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54509,
+    32.86677,
+    68.54509,
+    32.86677
+],
+  "geometry": {"coordinates":[68.54509,32.86677],"type":"Point"}
+}

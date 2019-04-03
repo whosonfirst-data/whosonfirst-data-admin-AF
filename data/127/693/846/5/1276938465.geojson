@@ -1,0 +1,80 @@
+{
+  "id": 1276938465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.54946,32.249,66.54946,32.249",
+    "geom:latitude":32.249,
+    "geom:longitude":66.54946,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505.0",
+    "gn:asciiname":"Lwar Karwaray",
+    "gn:country_code":"AF",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447855,
+    "gn:latitude":32.249,
+    "gn:longitude":66.54946,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5f Karwa\u1e5fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631 \u06a9\u0631\u0648\u0631\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "L\u2019varkarvaray"
+    ],
+    "name:und_x_variant":[
+        "Lwa\u1e5f Karwa\u1e5fay",
+        "\u0644\u0648\u0693 \u06a9\u0631\u0648\u0693\u06cc",
+        "Lwa\u1e5f Karwaray",
+        "\u0644\u0648\u0631 \u06a9\u0631\u0648\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447855
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"642dc59601ec998c3a96f7437df1cb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1276938465,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276938465,
+    "wof:lastmodified":1537582977,
+    "wof:name":"Lwar Karwaray",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.54946,
+    32.249,
+    66.54946,
+    32.249
+],
+  "geometry": {"coordinates":[66.54946,32.249],"type":"Point"}
+}

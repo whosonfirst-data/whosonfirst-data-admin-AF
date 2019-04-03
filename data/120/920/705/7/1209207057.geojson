@@ -1,0 +1,66 @@
+{
+  "id": 1209207057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.52585,32.79102,63.52585,32.79102",
+    "geom:latitude":32.79102,
+    "geom:longitude":63.52585,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Karbasi",
+    "gn:country_code":"AF",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138180,
+    "gn:latitude":32.79102,
+    "gn:longitude":63.52585,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karb\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karb\u0101s\u012b",
+        "\u06a9\u0631\u0628\u0627\u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138180
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"334f44c3bcea817e36e7f1016d30d4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209207057
+        }
+    ],
+    "wof:id":1209207057,
+    "wof:lastmodified":1537581485,
+    "wof:name":"Karbasi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.52585,
+    32.79102,
+    63.52585,
+    32.79102
+],
+  "geometry": {"coordinates":[63.52585,32.79102],"type":"Point"}
+}

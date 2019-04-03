@@ -1,0 +1,77 @@
+{
+  "id": 1193200085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45217,33.75463,69.45217,33.75463",
+    "geom:latitude":33.75463,
+    "geom:longitude":69.45217,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Karezgay",
+    "gn:country_code":"AF",
+    "gn:dem":2576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137862,
+    "gn:latitude":33.75463,
+    "gn:longitude":69.45217,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113zgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113zgay",
+        "K\u0101r\u012bzgay",
+        "K\u0101r\u0113zgay",
+        "\u06a9\u0627\u0631\u06d0\u0632\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137862
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b96440f57dec6c7a83d60d9b4000a593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562443,
+            "locality_id":1193200085,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193200085,
+    "wof:lastmodified":1537581448,
+    "wof:name":"Karezgay",
+    "wof:parent_id":1108562443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45217,
+    33.75463,
+    69.45217,
+    33.75463
+],
+  "geometry": {"coordinates":[69.45217,33.75463],"type":"Point"}
+}

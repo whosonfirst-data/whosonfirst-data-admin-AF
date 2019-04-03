@@ -1,0 +1,68 @@
+{
+  "id": 1209468327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39035,34.68713,70.39035,34.68713",
+    "geom:latitude":34.68713,
+    "geom:longitude":70.39035,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903",
+    "gn:asciiname":"Kahu",
+    "gn:country_code":"AF",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138794,
+    "gn:latitude":34.68713,
+    "gn:longitude":70.39035,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kah\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakhu",
+        "\u06a9\u0647\u0648",
+        "Kahu",
+        "Kah\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138794
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4885529e6d2ae06bfff0c6e3e1f142b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209468327
+        }
+    ],
+    "wof:id":1209468327,
+    "wof:lastmodified":1537581524,
+    "wof:name":"Kahu",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39035,
+    34.68713,
+    70.39035,
+    34.68713
+],
+  "geometry": {"coordinates":[70.39035,34.68713],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209270693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9952,31.54127,64.9952,31.54127",
+    "geom:latitude":31.54127,
+    "geom:longitude":64.9952,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407.0",
+    "gn:asciiname":"Baburan",
+    "gn:country_code":"AF",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147778,
+    "gn:latitude":31.54127,
+    "gn:longitude":64.9952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101bur\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u0101bo\u1e5f\u0101n",
+        "\u0628\u0627\u0628\u0693\u0627\u0646",
+        "B\u0101bor\u0101n",
+        "B\u0101bur\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147778
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"64bbe151353e3ae565da3d85a595a711",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209270693
+        }
+    ],
+    "wof:id":1209270693,
+    "wof:lastmodified":1537582294,
+    "wof:name":"Baburan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9952,
+    31.54127,
+    64.9952,
+    31.54127
+],
+  "geometry": {"coordinates":[64.9952,31.54127],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209162067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.92702,34.51417,67.92702,34.51417",
+    "geom:latitude":34.51417,
+    "geom:longitude":67.92702,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Iskah",
+    "gn:country_code":"AF",
+    "gn:dem":3136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142437,
+    "gn:latitude":34.51417,
+    "gn:longitude":67.92702,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Iskah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eska",
+        "Iska",
+        "Iskah",
+        "Eskah",
+        "\u0627\u0633\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142437
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dffae9ed59c5d93411044eb3dca8e1e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209162067
+        }
+    ],
+    "wof:id":1209162067,
+    "wof:lastmodified":1537581828,
+    "wof:name":"Iskah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.92702,
+    34.51417,
+    67.92702,
+    34.51417
+],
+  "geometry": {"coordinates":[67.92702,34.51417],"type":"Point"}
+}

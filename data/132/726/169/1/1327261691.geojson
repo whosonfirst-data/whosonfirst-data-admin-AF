@@ -1,0 +1,73 @@
+{
+  "id": 1327261691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.99719,33.16784,65.99719,33.16784",
+    "geom:latitude":33.16784,
+    "geom:longitude":65.99719,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402",
+    "gn:asciiname":"Durmi",
+    "gn:country_code":"AF",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142654,
+    "gn:latitude":33.16784,
+    "gn:longitude":65.99719,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016brm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u016brm\u012b",
+        "\u062f\u0648\u0631\u0645\u06cc",
+        "\u1e0e\u016b\u1e5fmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c977402461a88bbae9b2502cbf0dd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562039,
+            "locality_id":1327261691,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327261691,
+    "wof:lastmodified":1537581849,
+    "wof:name":"Durmi",
+    "wof:parent_id":1108562039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.99719,
+    33.16784000000001,
+    65.99719,
+    33.16784000000001
+],
+  "geometry": {"coordinates":[65.99719,33.16784000000001],"type":"Point"}
+}

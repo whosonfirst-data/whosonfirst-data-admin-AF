@@ -1,0 +1,74 @@
+{
+  "id": 1242934519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05298,32.58111,67.05298,32.58111",
+    "geom:latitude":32.58111,
+    "geom:longitude":67.05298,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Sperah",
+    "gn:country_code":"AF",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443140,
+    "gn:latitude":32.58111,
+    "gn:longitude":67.05298,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u0113rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sp\u0113\u1e5fa",
+        "Sp\u0113rah",
+        "\u0633\u067e\u06d0\u0631\u0647",
+        "Sp\u012breh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443140
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff278ce9e361f22b5869818e375d0910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1242934519,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242934519,
+    "wof:lastmodified":1537582946,
+    "wof:name":"Sperah",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05298,
+    32.58111,
+    67.05298,
+    32.58111
+],
+  "geometry": {"coordinates":[67.05298000000001,32.58111],"type":"Point"}
+}

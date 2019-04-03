@@ -1,0 +1,79 @@
+{
+  "id": 1343924071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31482,34.29477,70.31482,34.29477",
+    "geom:latitude":34.29477,
+    "geom:longitude":70.31482,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"806",
+    "gn:asciiname":"Patiray",
+    "gn:country_code":"AF",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130943,
+    "gn:latitude":34.29477,
+    "gn:longitude":70.31482,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pat\u012bray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u064a\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Pach\u012br",
+        "Patiray",
+        "Pathirai",
+        "Pat\u012bray",
+        "\u067e\u062a\u064a\u0631\u06cc",
+        "\u067e\u062a\u06cc\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130943
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fcd142265a61aa5a8bef9acdabbdfcd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561907,
+            "locality_id":1343924071,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343924071,
+    "wof:lastmodified":1537580883,
+    "wof:name":"Patiray",
+    "wof:parent_id":1108561907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31482,
+    34.29477,
+    70.31482,
+    34.29477
+],
+  "geometry": {"coordinates":[70.31482,34.29477],"type":"Point"}
+}

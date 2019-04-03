@@ -1,0 +1,78 @@
+{
+  "id": 1344119991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91442,34.26821,70.91442,34.26821",
+    "geom:latitude":34.26821,
+    "geom:longitude":70.91442,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Sematse",
+    "gn:country_code":"AF",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469565,
+    "gn:latitude":34.26821,
+    "gn:longitude":70.91442,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u00eamats\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u011bmac\u0113",
+        "Semache",
+        "Sematse",
+        "S\u00eamats\u0113",
+        "\u0633\u0645\u0685\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469565
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"22f9e309212e4505e4949cfd9395677d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562227,
+            "locality_id":1344119991,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1344119991,
+    "wof:lastmodified":1537583612,
+    "wof:name":"Sematse",
+    "wof:parent_id":1108562227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91441999999998,
+    34.26821,
+    70.91441999999998,
+    34.26821
+],
+  "geometry": {"coordinates":[70.91441999999998,34.26821],"type":"Point"}
+}

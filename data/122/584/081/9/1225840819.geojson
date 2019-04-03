@@ -1,0 +1,74 @@
+{
+  "id": 1225840819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.62573,34.19465,63.62573,34.19465",
+    "geom:latitude":34.19465,
+    "geom:longitude":63.62573,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Awsurkh",
+    "gn:country_code":"AF",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148077,
+    "gn:latitude":34.19465,
+    "gn:longitude":63.62573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100wsurkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100vsorkh",
+        "\u0100bsorkh",
+        "\u0100wsurkh",
+        "\u0622\u0648\u0633\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148077
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3d4c5ff4e18252fb6867bf12877a399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1225840819,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1225840819,
+    "wof:lastmodified":1537582315,
+    "wof:name":"Awsurkh",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.62573,
+    34.19465,
+    63.62573,
+    34.19465
+],
+  "geometry": {"coordinates":[63.62573,34.19465],"type":"Point"}
+}

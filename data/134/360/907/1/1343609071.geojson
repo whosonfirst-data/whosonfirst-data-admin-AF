@@ -1,0 +1,74 @@
+{
+  "id": 1343609071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81063,34.43961,67.81063,34.43961",
+    "geom:latitude":34.43961,
+    "geom:longitude":67.81063,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Maghak",
+    "gn:country_code":"AF",
+    "gn:dem":2769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134301,
+    "gn:latitude":34.43961,
+    "gn:longitude":67.81063,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u012bnah",
+        "Magak",
+        "Maghak",
+        "\u0645\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134301
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"280ca73648b1180541754301309de0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1343609071,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343609071,
+    "wof:lastmodified":1537581163,
+    "wof:name":"Maghak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81063,
+    34.43960999999999,
+    67.81063,
+    34.43960999999999
+],
+  "geometry": {"coordinates":[67.81063,34.43960999999999],"type":"Point"}
+}

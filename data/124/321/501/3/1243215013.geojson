@@ -1,0 +1,73 @@
+{
+  "id": 1243215013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.12522,35.07927,69.12522,35.07927",
+    "geom:latitude":35.07927,
+    "geom:longitude":69.12522,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"304.0",
+    "gn:asciiname":"Bagh-e Afghan",
+    "gn:country_code":"AF",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147590,
+    "gn:latitude":35.07927,
+    "gn:longitude":69.12522,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh-e Afgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagi-Afgan",
+        "B\u0101gh-e Afgh\u0101n",
+        "\u0628\u0627\u063a \u0627\u0641\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147590
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"79aaf4dcde9d5115d1a704f378df4978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562495,
+            "locality_id":1243215013,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1243215013,
+    "wof:lastmodified":1537582278,
+    "wof:name":"Bagh-e Afghan",
+    "wof:parent_id":1108562495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.12522,
+    35.07927,
+    69.12522,
+    35.07927
+],
+  "geometry": {"coordinates":[69.12522,35.07927],"type":"Point"}
+}

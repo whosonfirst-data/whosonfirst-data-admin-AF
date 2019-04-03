@@ -1,0 +1,73 @@
+{
+  "id": 1259649809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.45129,34.23948,70.45129,34.23948",
+    "geom:latitude":34.23948,
+    "geom:longitude":70.45129,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"808",
+    "gn:asciiname":"Dzholagan",
+    "gn:country_code":"AF",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139117,
+    "gn:latitude":34.23948,
+    "gn:longitude":70.45129,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dzholagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u014dl\u0101g\u0101n",
+        "Jowl\u0101g\u0101n",
+        "\u062c\u0648\u0644\u0627\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139117
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6863abd8d96ed2a0dc6ce4d4099ba83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561971,
+            "locality_id":1259649809,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259649809,
+    "wof:lastmodified":1537581552,
+    "wof:name":"Dzholagan",
+    "wof:parent_id":1108561971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.45129,
+    34.23948,
+    70.45129,
+    34.23948
+],
+  "geometry": {"coordinates":[70.45129,34.23948],"type":"Point"}
+}

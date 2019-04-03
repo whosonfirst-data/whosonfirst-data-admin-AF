@@ -1,0 +1,72 @@
+{
+  "id": 1293834787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96013,32.10726,66.96013,32.10726",
+    "geom:latitude":32.10726,
+    "geom:longitude":66.96013,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Khala",
+    "gn:country_code":"AF",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137314,
+    "gn:latitude":32.10726,
+    "gn:longitude":66.96013,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101l\u0101",
+        "\u062e\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137314
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c9a56ac641514a166d5a5517afde584e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1293834787,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293834787,
+    "wof:lastmodified":1537581410,
+    "wof:name":"Khala",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96013,
+    32.10726,
+    66.96013,
+    32.10726
+],
+  "geometry": {"coordinates":[66.96013000000001,32.10726],"type":"Point"}
+}

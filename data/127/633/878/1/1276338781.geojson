@@ -1,0 +1,74 @@
+{
+  "id": 1276338781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43595,35.90764,70.43595,35.90764",
+    "geom:latitude":35.90764,
+    "geom:longitude":70.43595,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1104",
+    "gn:asciiname":"Wishti",
+    "gn:country_code":"AF",
+    "gn:dem":3037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121577,
+    "gn:latitude":35.90764,
+    "gn:longitude":70.43595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u012bsht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vishti",
+        "W\u012b\u0161ti",
+        "W\u012bsht\u012b",
+        "\u0648\u06cc\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121577
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7e8388d7c5fc1bef684753994776322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1276338781,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276338781,
+    "wof:lastmodified":1537580050,
+    "wof:name":"Wishti",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43595,
+    35.90764,
+    70.43595,
+    35.90764
+],
+  "geometry": {"coordinates":[70.43595000000001,35.90764],"type":"Point"}
+}

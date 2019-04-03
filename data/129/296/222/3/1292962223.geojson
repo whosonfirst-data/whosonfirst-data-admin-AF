@@ -1,0 +1,77 @@
+{
+  "id": 1292962223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.38366,32.58519,66.38366,32.58519",
+    "geom:latitude":32.58519,
+    "geom:longitude":66.38366,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Dahan-e Khundian",
+    "gn:country_code":"AF",
+    "gn:dem":2996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1144504,
+    "gn:latitude":32.58519,
+    "gn:longitude":66.38366,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Khund\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u0654 \u062e\u0646\u062f\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dakhani-Khundian",
+        "Dahan-e Khund\u012b\u0101n",
+        "\u062f\u0647\u0646 \u062e\u0646\u062f\u06cc\u0627\u0646",
+        "Dahan-e Khundy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144504
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"47872eb1691dfa55a6ce400485f2ae10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1292962223,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1292962223,
+    "wof:lastmodified":1537582010,
+    "wof:name":"Dahan-e Khundian",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.38365999999999,
+    32.58519,
+    66.38365999999999,
+    32.58519
+],
+  "geometry": {"coordinates":[66.38365999999999,32.58519],"type":"Point"}
+}

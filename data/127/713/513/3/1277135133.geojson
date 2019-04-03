@@ -1,0 +1,75 @@
+{
+  "id": 1277135133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.34029,31.19483,66.34029,31.19483",
+    "geom:latitude":31.19483,
+    "geom:longitude":66.34029,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Landay",
+    "gn:country_code":"AF",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477165,
+    "gn:latitude":31.19483,
+    "gn:longitude":66.34029,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lan\u1e0fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Lan\u1e0fay",
+        "\u0644\u0646\u0689\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477165
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8477325154339bbd6ee5a9e297798ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1277135133,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1277135133,
+    "wof:lastmodified":1537583873,
+    "wof:name":"Landay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.34029,
+    31.19483,
+    66.34029,
+    31.19483
+],
+  "geometry": {"coordinates":[66.34029,31.19483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226053987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95,35.60278,68.95,35.60278",
+    "geom:latitude":35.60278,
+    "geom:longitude":68.95,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1306",
+    "gn:asciiname":"Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133636,
+    "gn:latitude":35.60278,
+    "gn:longitude":68.95,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133636
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b54b230feee2e4bac7d9cf0358fcbdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562165,
+            "locality_id":1226053987,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226053987,
+    "wof:lastmodified":1537581110,
+    "wof:name":"Mazar",
+    "wof:parent_id":1108562165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95,
+    35.60278,
+    68.95,
+    35.60278
+],
+  "geometry": {"coordinates":[68.95,35.60278],"type":"Point"}
+}

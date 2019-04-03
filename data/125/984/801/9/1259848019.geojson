@@ -1,0 +1,81 @@
+{
+  "id": 1259848019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0625,31.79673,65.0625,31.79673",
+    "geom:latitude":31.79673,
+    "geom:longitude":65.0625,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407.0",
+    "gn:asciiname":"Karez-e Garmabak",
+    "gn:country_code":"AF",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467032,
+    "gn:latitude":31.79673,
+    "gn:longitude":65.0625,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Garm\u0101bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632 \u06af\u0631\u0645\u0627\u0628\u0643"
+    ],
+    "name:und_x_variant":[
+        "Garm\u0101bak",
+        "Karezio-Garmabak",
+        "K\u0101\u1e5f\u0113ze Ga\u1e5fm\u0101bak",
+        "K\u0101r\u0113z-e Garm \u0100bak",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u06af\u0631\u0645 \u0622\u0628\u06a9",
+        "K\u0101r\u012bz Garm\u0101bak",
+        "K\u0101r\u0113z-e Garm\u0101bak",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u06af\u0631\u0645\u0622\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467032
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a78bbd4c607d4733d376a283bb0285ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1259848019,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259848019,
+    "wof:lastmodified":1537583450,
+    "wof:name":"Karez-e Garmabak",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0625,
+    31.79673,
+    65.0625,
+    31.79673
+],
+  "geometry": {"coordinates":[65.0625,31.79673],"type":"Point"}
+}

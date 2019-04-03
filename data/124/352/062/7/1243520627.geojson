@@ -1,0 +1,76 @@
+{
+  "id": 1243520627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.80238,34.29798,69.80238,34.29798",
+    "geom:latitude":34.29798,
+    "geom:longitude":69.80238,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"803.0",
+    "gn:asciiname":"Jabay",
+    "gn:country_code":"AF",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472015,
+    "gn:latitude":34.29798,
+    "gn:longitude":69.80238,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhabay",
+        "Jaba\u012b",
+        "Jabay",
+        "\u062c\u0628\u06cc",
+        "\u1e28abay",
+        "\u062d\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472015
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e9c3decd3b26e5a44ff229f49e139ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562065,
+            "locality_id":1243520627,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243520627,
+    "wof:lastmodified":1537583666,
+    "wof:name":"Jabay",
+    "wof:parent_id":1108562065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.80238,
+    34.29798,
+    69.80238,
+    34.29798
+],
+  "geometry": {"coordinates":[69.80238,34.29798],"type":"Point"}
+}

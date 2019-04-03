@@ -1,0 +1,68 @@
+{
+  "id": 1209522791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03463,35.59703,69.03463,35.59703",
+    "geom:latitude":35.59703,
+    "geom:longitude":69.03463,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1306",
+    "gn:asciiname":"Surkh Dzangal",
+    "gn:country_code":"AF",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124080,
+    "gn:latitude":35.59703,
+    "gn:longitude":69.03463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh Dzangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su\u1e5fkhjangal",
+        "Sorkh Jangal",
+        "Surkh Dzangal",
+        "\u0633\u0631\u062e \u0681\u0646\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124080
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"184195b4d755e03f14a1408e63baf070",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209522791
+        }
+    ],
+    "wof:id":1209522791,
+    "wof:lastmodified":1537580271,
+    "wof:name":"Surkh Dzangal",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03463,
+    35.59703,
+    69.03463,
+    35.59703
+],
+  "geometry": {"coordinates":[69.03463000000001,35.59703],"type":"Point"}
+}

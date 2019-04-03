@@ -1,0 +1,80 @@
+{
+  "id": 1242837493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08195,34.3732,70.08195,34.3732",
+    "geom:latitude":34.3732,
+    "geom:longitude":70.08195,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Kacharah",
+    "gn:country_code":"AF",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473286,
+    "gn:latitude":34.3732,
+    "gn:longitude":70.08195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kacha\u1e5fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0686\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ka\u010dara",
+        "Kacharah",
+        "\u0643\u0686\u0631\u0647",
+        "Kacha\u1e5fah",
+        "\u06a9\u0686\u0693\u0647",
+        "\u06a9\u0686\u0631\u0647",
+        "Kachara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473286
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bbb49af69f7495a81fa2b9e4bb7da1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1242837493,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1242837493,
+    "wof:lastmodified":1537583748,
+    "wof:name":"Kacharah",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08195,
+    34.3732,
+    70.08195,
+    34.3732
+],
+  "geometry": {"coordinates":[70.08195000000001,34.3732],"type":"Point"}
+}

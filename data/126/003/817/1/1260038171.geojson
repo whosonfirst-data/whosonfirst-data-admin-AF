@@ -1,0 +1,78 @@
+{
+  "id": 1260038171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20081,31.36987,66.20081,31.36987",
+    "geom:latitude":31.36987,
+    "geom:longitude":66.20081,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"De Haji Akhtar",
+    "gn:country_code":"AF",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143652,
+    "gn:latitude":31.36987,
+    "gn:longitude":66.20081,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea \u1e28\u0101j\u012b Akhtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0627\u062e\u062a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khadzhi-Aktar",
+        "\u1e0ee H\u0101ji Akht\u0101r",
+        "\u062f \u062d\u0627\u062c\u06cc \u0627\u062e\u062a\u0631",
+        "De \u1e28\u0101jj\u012b Akhtar",
+        "D\u00ea \u1e28\u0101j\u012b Akhtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143652
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"27f453f3eb42b6bc07178f296af8618f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1260038171,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260038171,
+    "wof:lastmodified":1537581941,
+    "wof:name":"De Haji Akhtar",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20081,
+    31.36987,
+    66.20081,
+    31.36987
+],
+  "geometry": {"coordinates":[66.20081,31.36987],"type":"Point"}
+}

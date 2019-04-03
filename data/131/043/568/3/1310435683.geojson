@@ -1,0 +1,72 @@
+{
+  "id": 1310435683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.19093,33.76567,67.19093,33.76567",
+    "geom:latitude":33.76567,
+    "geom:longitude":67.19093,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407",
+    "gn:asciiname":"Gulak",
+    "gn:country_code":"AF",
+    "gn:dem":3373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140841,
+    "gn:latitude":33.76567,
+    "gn:longitude":67.19093,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0644\u06a9",
+        "Golak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140841
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bc5ebbae515cd2cabfe6c3036820def3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1310435683,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310435683,
+    "wof:lastmodified":1537581698,
+    "wof:name":"Gulak",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.19093000000001,
+    33.76567,
+    67.19093000000001,
+    33.76567
+],
+  "geometry": {"coordinates":[67.19093000000001,33.76567],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243354187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01182,34.06333,68.01182,34.06333",
+    "geom:latitude":34.06333,
+    "geom:longitude":68.01182,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Janqarigh",
+    "gn:country_code":"AF",
+    "gn:dem":2779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458967,
+    "gn:latitude":34.06333,
+    "gn:longitude":68.01182,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Janqar\u012bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhankarig",
+        "Janqa\u1e5f\u012bgh",
+        "Janqehr\u012bgh",
+        "Jangraygh",
+        "Janqar\u012bgh",
+        "\u062c\u0646\u0642\u0631\u06cc\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458967
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ece7cc94e125d31a08a78ed22d4660f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1243354187,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243354187,
+    "wof:lastmodified":1537583282,
+    "wof:name":"Janqarigh",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01182,
+    34.06333,
+    68.01182,
+    34.06333
+],
+  "geometry": {"coordinates":[68.01182,34.06333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225885953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.86301,35.63839,65.86301,35.63839",
+    "geom:latitude":35.63839,
+    "geom:longitude":65.86301,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Kalah Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138632,
+    "gn:latitude":35.63839,
+    "gn:longitude":65.86301,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalah Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalakh\u0101na",
+        "Kal\u0101kh\u0101neh",
+        "Kalah Kh\u0101nah",
+        "\u06a9\u0644\u0647 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138632
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e36b5232c158778691c57fc59157791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1225885953,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225885953,
+    "wof:lastmodified":1537581514,
+    "wof:name":"Kalah Khanah",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.86301,
+    35.63839,
+    65.86301,
+    35.63839
+],
+  "geometry": {"coordinates":[65.86301,35.63839],"type":"Point"}
+}

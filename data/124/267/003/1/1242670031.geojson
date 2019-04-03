@@ -1,0 +1,73 @@
+{
+  "id": 1242670031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.66618,33.26031,63.66618,33.26031",
+    "geom:latitude":33.26031,
+    "geom:longitude":63.66618,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Tangi Qayyum",
+    "gn:country_code":"AF",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122870,
+    "gn:latitude":33.26031,
+    "gn:longitude":63.66618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tang\u012b Qayy\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tang\u012b Qayy\u016bm",
+        "\u062a\u0646\u06af\u06cc \u0642\u06cc\u0648\u0645",
+        "Tang\u012b Qay\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122870
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32b838cd26a42a3cc4324b227b5c7183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1242670031,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242670031,
+    "wof:lastmodified":1537580192,
+    "wof:name":"Tangi Qayyum",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.66618,
+    33.26031,
+    63.66618,
+    33.26031
+],
+  "geometry": {"coordinates":[63.66618,33.26031],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226339587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.4334,32.28209,61.4334,32.28209",
+    "geom:latitude":32.28209,
+    "geom:longitude":61.4334,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2108.0",
+    "gn:asciiname":"Karez-e Muhammad Gundah",
+    "gn:country_code":"AF",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438782,
+    "gn:latitude":32.28209,
+    "gn:longitude":61.4334,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Mu\u1e29ammad Gundah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101r\u0113ze Mo\u1e96amma\u1e0f-gun\u1e0fa",
+        "K\u0101r\u012bz-e Mo\u1e29ammad Gondeh",
+        "K\u0101r\u0113z-e Mu\u1e29ammad Gundah",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0645\u062d\u0645\u062f \u06af\u0646\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438782
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f45f2a87b8fd6980131b1690e01f355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1226339587,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226339587,
+    "wof:lastmodified":1537582897,
+    "wof:name":"Karez-e Muhammad Gundah",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.4334,
+    32.28209,
+    61.4334,
+    32.28209
+],
+  "geometry": {"coordinates":[61.4334,32.28209],"type":"Point"}
+}

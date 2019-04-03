@@ -1,0 +1,72 @@
+{
+  "id": 1327445187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.33387,38.00154,70.33387,38.00154",
+    "geom:latitude":38.00154,
+    "geom:longitude":70.33387,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Labgard",
+    "gn:country_code":"AF",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1467215,
+    "gn:latitude":38.00154,
+    "gn:longitude":70.33387,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Labgard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0644\u0628\u06af\u0631\u062f",
+        "Labga\u1e5f\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467215
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c03183581573197f15c4e958b392851e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1327445187,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327445187,
+    "wof:lastmodified":1537583457,
+    "wof:name":"Labgard",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.33386999999999,
+    38.00154000000001,
+    70.33386999999999,
+    38.00154000000001
+],
+  "geometry": {"coordinates":[70.33386999999999,38.00154000000001],"type":"Point"}
+}

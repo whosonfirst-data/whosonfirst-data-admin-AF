@@ -1,0 +1,81 @@
+{
+  "id": 1242832285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84917,36.73243,68.84917,36.73243",
+    "geom:latitude":36.73243,
+    "geom:longitude":68.84917,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401",
+    "gn:asciiname":"Za Khel",
+    "gn:country_code":"AF",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121095,
+    "gn:latitude":36.73243,
+    "gn:longitude":68.84917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0647 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zakheyl\u2019",
+        "Za Kheyl",
+        "Z\u0101 Kh\u0113l",
+        "Zah Kheyl",
+        "\u0632\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121095
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3aa6e82452489963e2775c21ba673f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1242832285,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1242832285,
+    "wof:lastmodified":1537580023,
+    "wof:name":"Za Khel",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84917,
+    36.73243,
+    68.84917,
+    36.73243
+],
+  "geometry": {"coordinates":[68.84917,36.73243],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225811437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.296,34.43596,70.296,34.43596",
+    "geom:latitude":34.43596,
+    "geom:longitude":70.296,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802.0",
+    "gn:asciiname":"Lala Kala",
+    "gn:country_code":"AF",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473140,
+    "gn:latitude":34.43596,
+    "gn:longitude":70.296,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101l\u0101 Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lalakala",
+        "L\u0101l\u0101 Kal\u0101",
+        "\u0644\u0627\u0644\u0627 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473140
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a143e616a6d87cdded892e1e3f13fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562523,
+            "locality_id":1225811437,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1225811437,
+    "wof:lastmodified":1537583740,
+    "wof:name":"Lala Kala",
+    "wof:parent_id":1108562523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.296,
+    34.43595999999999,
+    70.296,
+    34.43595999999999
+],
+  "geometry": {"coordinates":[70.29600000000001,34.43595999999999],"type":"Point"}
+}

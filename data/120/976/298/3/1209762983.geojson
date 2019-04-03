@@ -1,0 +1,73 @@
+{
+  "id": 1209762983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.14361,32.55053,67.14361,32.55053",
+    "geom:latitude":32.55053,
+    "geom:longitude":67.14361,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Narghan",
+    "gn:country_code":"AF",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480601,
+    "gn:latitude":32.55053,
+    "gn:longitude":67.14361,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nargh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nargan",
+        "Nargh\u0101n",
+        "\u0646\u0631\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480601
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"29ec945b57ac64b96a4bd635468f3308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1209762983,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209762983,
+    "wof:lastmodified":1537583890,
+    "wof:name":"Narghan",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.14361,
+    32.55053,
+    67.14361,
+    32.55053
+],
+  "geometry": {"coordinates":[67.14361,32.55053],"type":"Point"}
+}

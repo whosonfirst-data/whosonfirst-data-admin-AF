@@ -1,0 +1,74 @@
+{
+  "id": 1259706377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98826,34.93987,67.98826,34.93987",
+    "geom:latitude":34.93987,
+    "geom:longitude":67.98826,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2802.0",
+    "gn:asciiname":"Deh Palang",
+    "gn:country_code":"AF",
+    "gn:dem":2591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457264,
+    "gn:latitude":34.93987,
+    "gn:longitude":67.98826,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Palang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhpalang",
+        "Deh Palang",
+        "Dehpalang",
+        "\u062f\u0647 \u067e\u0644\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457264
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd7aff3558d0c06fc2faa67c8192b740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562487,
+            "locality_id":1259706377,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259706377,
+    "wof:lastmodified":1537583221,
+    "wof:name":"Deh Palang",
+    "wof:parent_id":1108562487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98826,
+    34.93987,
+    67.98826,
+    34.93987
+],
+  "geometry": {"coordinates":[67.98826,34.93987],"type":"Point"}
+}

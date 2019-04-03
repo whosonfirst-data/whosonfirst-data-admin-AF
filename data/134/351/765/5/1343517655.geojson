@@ -1,0 +1,73 @@
+{
+  "id": 1343517655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30833,31.45222,67.30833,31.45222",
+    "geom:latitude":31.45222,
+    "geom:longitude":67.30833,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Khalu",
+    "gn:country_code":"AF",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137253,
+    "gn:latitude":31.45222,
+    "gn:longitude":67.30833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khal\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khal\u016b",
+        "Khalu",
+        "\u062e\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137253
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd4628b86c11576e52186ef9c2fcf7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1343517655,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343517655,
+    "wof:lastmodified":1537581405,
+    "wof:name":"Khalu",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30833,
+    31.45222,
+    67.30833,
+    31.45222
+],
+  "geometry": {"coordinates":[67.30833,31.45222],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327222675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.94913,33.01132,64.94913,33.01132",
+    "geom:latitude":33.01132,
+    "geom:longitude":64.94913,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Baghal",
+    "gn:country_code":"AF",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147612,
+    "gn:latitude":33.01132,
+    "gn:longitude":64.94913,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baghal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bagal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Anjoman",
+        "Andzhuman",
+        "Baghal Anjoman",
+        "Baghal",
+        "\u0628\u063a\u0644",
+        "Anjuman",
+        "\u0627\u0646\u062c\u0645\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147612
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"24487b07ba151eb8d921c477bf23105f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1327222675,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1327222675,
+    "wof:lastmodified":1537582281,
+    "wof:name":"Baghal",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.94913000000001,
+    33.01132,
+    64.94913000000001,
+    33.01132
+],
+  "geometry": {"coordinates":[64.94913000000001,33.01132],"type":"Point"}
+}

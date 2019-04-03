@@ -1,0 +1,74 @@
+{
+  "id": 1310605773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.11897,33.98657,67.11897,33.98657",
+    "geom:latitude":33.98657,
+    "geom:longitude":67.11897,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Nowmilak",
+    "gn:country_code":"AF",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442616,
+    "gn:latitude":33.98657,
+    "gn:longitude":67.11897,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowmilak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawmilak",
+        "Nowm\u012blak",
+        "Nowmilak",
+        "\u0646\u0648\u0645\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9fe93f9a288cd56a31710d3581d50a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1310605773,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310605773,
+    "wof:lastmodified":1537582932,
+    "wof:name":"Nowmilak",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.11896999999999,
+    33.98657,
+    67.11896999999999,
+    33.98657
+],
+  "geometry": {"coordinates":[67.11896999999999,33.98657],"type":"Point"}
+}

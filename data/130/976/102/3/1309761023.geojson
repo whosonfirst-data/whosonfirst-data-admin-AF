@@ -1,0 +1,77 @@
+{
+  "id": 1309761023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56735,36.53065,69.56735,36.53065",
+    "geom:latitude":36.53065,
+    "geom:longitude":69.56735,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1204",
+    "gn:asciiname":"Zanburak",
+    "gn:country_code":"AF",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121069,
+    "gn:latitude":36.53065,
+    "gn:longitude":69.56735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zanb\u016brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0443\u0440\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Zamburak",
+        "Zamb\u016b\u1e5fak",
+        "Zanb\u016brak",
+        "\u0632\u0646\u0628\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121069
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"caea89fa54004b0621716d6a003b9637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561899,
+            "locality_id":1309761023,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1309761023,
+    "wof:lastmodified":1537580021,
+    "wof:name":"Zanburak",
+    "wof:parent_id":1108561899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56735,
+    36.53065,
+    69.56735,
+    36.53065
+],
+  "geometry": {"coordinates":[69.56735,36.53065],"type":"Point"}
+}

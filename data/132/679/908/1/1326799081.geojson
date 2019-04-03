@@ -1,0 +1,79 @@
+{
+  "id": 1326799081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.03379,31.03964,66.03379,31.03964",
+    "geom:latitude":31.03964,
+    "geom:longitude":66.03379,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Kach Kakozai",
+    "gn:country_code":"AF",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138919,
+    "gn:latitude":31.03964,
+    "gn:longitude":66.03379,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kach K\u0101k\u014dza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0686 \u0643\u0627\u0643\u0648\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kuchkokozay",
+        "Ka\u010d K\u0101kozay",
+        "Kach K\u0101k\u014dzay",
+        "Kach K\u0101k\u014dza\u012b",
+        "\u06a9\u0686 \u06a9\u0627\u06a9\u0648\u0632\u06cc",
+        "Kach K\u0101kowzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138919
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8aa793efe01b4efaf0442c502af403df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1326799081,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326799081,
+    "wof:lastmodified":1537581532,
+    "wof:name":"Kach Kakozai",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.03379,
+    31.03964,
+    66.03379,
+    31.03964
+],
+  "geometry": {"coordinates":[66.03379,31.03964],"type":"Point"}
+}

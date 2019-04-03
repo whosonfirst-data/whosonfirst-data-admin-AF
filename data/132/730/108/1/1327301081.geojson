@@ -1,0 +1,74 @@
+{
+  "id": 1327301081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82318,37.49967,69.82318,37.49967",
+    "geom:latitude":37.49967,
+    "geom:longitude":69.82318,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1209",
+    "gn:asciiname":"Khasar",
+    "gn:country_code":"AF",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137321,
+    "gn:latitude":37.49967,
+    "gn:longitude":69.82318,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khasar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101ks\u0101r",
+        "Kh\u0101\u015f\u0101r",
+        "\u062e\u0627\u0635\u0627\u0631",
+        "Kh\u0101s\u0101\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137321
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82a558b26867e2099df9b0c21135a232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561879,
+            "locality_id":1327301081,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1327301081,
+    "wof:lastmodified":1537581410,
+    "wof:name":"Khasar",
+    "wof:parent_id":1108561879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82318000000001,
+    37.49967,
+    69.82318000000001,
+    37.49967
+],
+  "geometry": {"coordinates":[69.82318000000001,37.49967],"type":"Point"}
+}

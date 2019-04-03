@@ -1,0 +1,80 @@
+{
+  "id": 1242817473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82021,33.215,69.82021,33.215",
+    "geom:latitude":33.215,
+    "geom:longitude":69.82021,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Gulap Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434441,
+    "gn:latitude":33.215,
+    "gn:longitude":69.82021,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul\u0101p Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0627\u067e \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Gulapkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Gol\u0101pkh\u0113l",
+        "Gul\u0101p Kh\u0113l",
+        "Gol\u0101p Kheyl",
+        "\u06af\u0644\u0627\u067e \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434441
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5cba0f5072f165ada248ce754ad38b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1242817473,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1242817473,
+    "wof:lastmodified":1537582717,
+    "wof:name":"Gulap Khel",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82021,
+    33.215,
+    69.82021,
+    33.215
+],
+  "geometry": {"coordinates":[69.82021,33.215],"type":"Point"}
+}

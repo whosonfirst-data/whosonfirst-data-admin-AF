@@ -1,0 +1,71 @@
+{
+  "id": 1226502979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77273,36.00453,66.77273,36.00453",
+    "geom:latitude":36.00453,
+    "geom:longitude":66.77273,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603.0",
+    "gn:asciiname":"Chashmah-ye Suwal",
+    "gn:country_code":"AF",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7511375,
+    "gn:latitude":36.00453,
+    "gn:longitude":66.77273,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chashmah-ye Suwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0686\u0634\u0645\u06c0 \u0633\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511375
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77faf6984901316cd21dff7236c894f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1226502979,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1226502979,
+    "wof:lastmodified":1537583921,
+    "wof:name":"Chashmah-ye Suwal",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77273000000001,
+    36.00452999999999,
+    66.77273000000001,
+    36.00452999999999
+],
+  "geometry": {"coordinates":[66.77273000000001,36.00452999999999],"type":"Point"}
+}

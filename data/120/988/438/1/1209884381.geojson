@@ -1,0 +1,71 @@
+{
+  "id": 1209884381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14186,36.34827,69.14186,36.34827",
+    "geom:latitude":36.34827,
+    "geom:longitude":69.14186,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Barag",
+    "gn:country_code":"AF",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147100,
+    "gn:latitude":36.34827,
+    "gn:longitude":69.14186,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147100
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c14ae42e8dae3ed23ff1086bf897ca6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1209884381,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1209884381,
+    "wof:lastmodified":1537582240,
+    "wof:name":"Barag",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14186,
+    36.34827,
+    69.14186,
+    36.34827
+],
+  "geometry": {"coordinates":[69.14185999999999,36.34827],"type":"Point"}
+}

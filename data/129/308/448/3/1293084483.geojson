@@ -1,0 +1,81 @@
+{
+  "id": 1293084483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63763,35.07388,69.63763,35.07388",
+    "geom:latitude":35.07388,
+    "geom:longitude":69.63763,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Deh-e Ghowchak",
+    "gn:country_code":"AF",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429462,
+    "gn:latitude":35.07388,
+    "gn:longitude":69.63763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Ghowchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06c0 \u0642\u0648\u0686\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0445\u0438-\u0413\u0430\u0443\u0447\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dehe Ghaw\u010dak",
+        "Dekhi-Gauchak",
+        "Deh-e Q\u016bchak",
+        "Deh-e Ghowchak",
+        "\u062f\u0647 \u063a\u0648\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429462
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"25e62bec63960254a3c2568dafcce95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1293084483,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1293084483,
+    "wof:lastmodified":1537582671,
+    "wof:name":"Deh-e Ghowchak",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63763,
+    35.07388,
+    69.63763,
+    35.07388
+],
+  "geometry": {"coordinates":[69.63763,35.07388],"type":"Point"}
+}

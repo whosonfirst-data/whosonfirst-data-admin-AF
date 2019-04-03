@@ -1,0 +1,72 @@
+{
+  "id": 1242584929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28579,35.5381,69.28579,35.5381",
+    "geom:latitude":35.5381,
+    "geom:longitude":69.28579,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307",
+    "gn:asciiname":"Qulba",
+    "gn:country_code":"AF",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128781,
+    "gn:latitude":35.5381,
+    "gn:longitude":69.28579,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qulb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qulb\u0101",
+        "\u0642\u0644\u0628\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128781
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9562839d5aeecf65dbb5b2bbb82da0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1242584929,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1242584929,
+    "wof:lastmodified":1537580652,
+    "wof:name":"Qulba",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28579,
+    35.5381,
+    69.28579,
+    35.5381
+],
+  "geometry": {"coordinates":[69.28579000000001,35.5381],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243130419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53792,31.56129,65.53792,31.56129",
+    "geom:latitude":31.56129,
+    "geom:longitude":65.53792,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2408",
+    "gn:asciiname":"Salian",
+    "gn:country_code":"AF",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127840,
+    "gn:latitude":31.56129,
+    "gn:longitude":65.53792,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101lih\u0101n",
+        "Salikhan",
+        "\u015e\u0101le\u1e29\u0101n",
+        "\u015e\u0101li\u1e29\u0101n",
+        "\u0635\u0627\u0644\u062d\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421196563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f80e06be96d0c9a94098d2014b970e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421196563,
+            "locality_id":1243130419,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243130419,
+    "wof:lastmodified":1537580582,
+    "wof:name":"Salian",
+    "wof:parent_id":421196563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53792,
+    31.56129,
+    65.53792,
+    31.56129
+],
+  "geometry": {"coordinates":[65.53792,31.56129],"type":"Point"}
+}

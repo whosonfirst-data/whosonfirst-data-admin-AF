@@ -1,0 +1,76 @@
+{
+  "id": 1226810483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44297,31.56044,67.44297,31.56044",
+    "geom:latitude":31.56044,
+    "geom:longitude":67.44297,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Karezgay",
+    "gn:country_code":"AF",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436034,
+    "gn:latitude":31.56044,
+    "gn:longitude":67.44297,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113zgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u06cc\u0632\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u0101r\u0113zgay",
+        "\u06af\u0627\u0631\u06d0\u0632\u06af\u06cc",
+        "K\u0101\u1e5f\u0113zgay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436034
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a31bd0cf63aeb7706684a6bffe8d671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1226810483,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226810483,
+    "wof:lastmodified":1537582792,
+    "wof:name":"Karezgay",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44296999999999,
+    31.56044,
+    67.44296999999999,
+    31.56044
+],
+  "geometry": {"coordinates":[67.44296999999999,31.56044],"type":"Point"}
+}

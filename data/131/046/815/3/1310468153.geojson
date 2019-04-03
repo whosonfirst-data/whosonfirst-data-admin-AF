@@ -1,0 +1,75 @@
+{
+  "id": 1310468153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53499,33.97749,70.53499,33.97749",
+    "geom:latitude":33.97749,
+    "geom:longitude":70.53499,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Spin Darah",
+    "gn:country_code":"AF",
+    "gn:dem":2692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1476419,
+    "gn:latitude":33.97749,
+    "gn:longitude":70.53499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bn Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sp\u012bn \u1e0ea\u1e5fa",
+        "Spindara",
+        "Sp\u012bn Darah",
+        "Sp\u012bn Darreh",
+        "\u0633\u067e\u06cc\u0646 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476419
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"60a83772b1bb881b93802ef5f4a9ac1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1310468153,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1310468153,
+    "wof:lastmodified":1537583848,
+    "wof:name":"Spin Darah",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53499000000002,
+    33.97749,
+    70.53499000000002,
+    33.97749
+],
+  "geometry": {"coordinates":[70.53499000000002,33.97749],"type":"Point"}
+}

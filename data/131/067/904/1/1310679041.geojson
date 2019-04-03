@@ -1,0 +1,74 @@
+{
+  "id": 1310679041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.29324,34.54832,64.29324,34.54832",
+    "geom:latitude":34.54832,
+    "geom:longitude":64.29324,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Nurianah",
+    "gn:country_code":"AF",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131600,
+    "gn:latitude":34.54832,
+    "gn:longitude":64.29324,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u016br\u012b\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u016bry\u0101na",
+        "N\u016br\u012b\u0101nah",
+        "\u0646\u0648\u0631\u06cc\u0627\u0646\u0647",
+        "N\u016bry\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131600
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"72584acaefb559c9f755baed2d811ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1310679041,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310679041,
+    "wof:lastmodified":1537580934,
+    "wof:name":"Nurianah",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.29324,
+    34.54832,
+    64.29324,
+    34.54832
+],
+  "geometry": {"coordinates":[64.29324,34.54832],"type":"Point"}
+}

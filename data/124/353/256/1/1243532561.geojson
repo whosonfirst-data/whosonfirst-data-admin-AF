@@ -1,0 +1,78 @@
+{
+  "id": 1243532561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.1215,34.71827,62.1215,34.71827",
+    "geom:latitude":34.71827,
+    "geom:longitude":62.1215,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Rabat-e Mirza",
+    "gn:country_code":"AF",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128316,
+    "gn:latitude":34.71827,
+    "gn:longitude":62.1215,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163-e M\u012brz\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rabati-Mirza",
+        "Rib\u0101t M\u012brza",
+        "\u1e5eab\u0101\u1e6f-i-Mi\u1e5fz\u0101",
+        "Rib\u0101t-i-Mirza",
+        "Rob\u0101t-i-M\u012brza",
+        "Rob\u0101\u0163-e M\u012brz\u0101",
+        "Rab\u0101\u0163-e M\u012brz\u0101",
+        "\u0631\u0628\u0627\u0637 \u0645\u06cc\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128316
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9daff46ca040ab761c29d10c2336c075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1243532561,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1243532561,
+    "wof:lastmodified":1537580618,
+    "wof:name":"Rabat-e Mirza",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.1215,
+    34.71827,
+    62.1215,
+    34.71827
+],
+  "geometry": {"coordinates":[62.1215,34.71827],"type":"Point"}
+}

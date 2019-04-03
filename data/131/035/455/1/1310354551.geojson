@@ -1,0 +1,73 @@
+{
+  "id": 1310354551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.50289,35.96623,67.50289,35.96623",
+    "geom:latitude":35.96623,
+    "geom:longitude":67.50289,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Ziraki",
+    "gn:country_code":"AF",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120592,
+    "gn:latitude":35.96623,
+    "gn:longitude":67.50289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u012brak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u012brak\u012b",
+        "\u0632\u06cc\u0631\u06a9\u06cc",
+        "Ziraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b89676a48d81d71f2566582a9643abc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1310354551,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1310354551,
+    "wof:lastmodified":1537579955,
+    "wof:name":"Ziraki",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.50289000000001,
+    35.96623,
+    67.50289000000001,
+    35.96623
+],
+  "geometry": {"coordinates":[67.50289000000001,35.96623],"type":"Point"}
+}

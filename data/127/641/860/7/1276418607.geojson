@@ -1,0 +1,75 @@
+{
+  "id": 1276418607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.06494,34.38407,63.06494,34.38407",
+    "geom:latitude":34.38407,
+    "geom:longitude":63.06494,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Shorgird",
+    "gn:country_code":"AF",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124749,
+    "gn:latitude":34.38407,
+    "gn:longitude":63.06494,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014drgird",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shorgerd",
+        "S\u014d\u1e5fge\u1e5f\u1e0f",
+        "Sh\u016brgerd",
+        "Sh\u014drgird",
+        "\u0634\u0648\u0631\u06af\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124749
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c53db069f2eeef3bd1a9e74430627f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1276418607,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276418607,
+    "wof:lastmodified":1537580325,
+    "wof:name":"Shorgird",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.06494,
+    34.38407,
+    63.06494,
+    34.38407
+],
+  "geometry": {"coordinates":[63.06494,34.38407],"type":"Point"}
+}

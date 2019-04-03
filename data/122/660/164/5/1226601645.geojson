@@ -1,0 +1,74 @@
+{
+  "id": 1226601645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.44259,37.1423,69.44259,37.1423",
+    "geom:latitude":37.1423,
+    "geom:longitude":69.44259,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1214.0",
+    "gn:asciiname":"Jihlam Khor",
+    "gn:country_code":"AF",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465301,
+    "gn:latitude":37.1423,
+    "gn:longitude":69.44259,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jihlam Kh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jehlam Kh\u014d\u1e5f (1)",
+        "Jehlam Khowr (1)",
+        "Jihlam Kh\u014dr",
+        "\u062c\u0647\u0644\u0645 \u062e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465301
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb071e885385121648ebd9786d6eae06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561955,
+            "locality_id":1226601645,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1226601645,
+    "wof:lastmodified":1537583394,
+    "wof:name":"Jihlam Khor",
+    "wof:parent_id":1108561955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.44259,
+    37.1423,
+    69.44259,
+    37.1423
+],
+  "geometry": {"coordinates":[69.44259,37.1423],"type":"Point"}
+}

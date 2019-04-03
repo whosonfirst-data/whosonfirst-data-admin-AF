@@ -1,0 +1,75 @@
+{
+  "id": 1243252475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.00101,32.98694,65.00101,32.98694",
+    "geom:latitude":32.98694,
+    "geom:longitude":65.00101,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Tachiray",
+    "gn:country_code":"AF",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123438,
+    "gn:latitude":32.98694,
+    "gn:longitude":65.00101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101chir\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101\u010der\u0101y",
+        "Tachiray",
+        "T\u0101chir\u0101y",
+        "\u062a\u0627\u0686\u0631\u0627\u06cc",
+        "T\u0101cher\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123438
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f3031736b0a870e39fde5ff6d80e50df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1243252475,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243252475,
+    "wof:lastmodified":1537580225,
+    "wof:name":"Tachiray",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.00101,
+    32.98694,
+    65.00101,
+    32.98694
+],
+  "geometry": {"coordinates":[65.00100999999999,32.98694],"type":"Point"}
+}

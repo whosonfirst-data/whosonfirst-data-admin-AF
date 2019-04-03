@@ -1,0 +1,81 @@
+{
+  "id": 1293777629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.13658,33.27912,65.13658,33.27912",
+    "geom:latitude":33.27912,
+    "geom:longitude":65.13658,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Tah-e Sinah",
+    "gn:country_code":"AF",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123308,
+    "gn:latitude":33.27912,
+    "gn:longitude":65.13658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah-e S\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0647 \u0633\u064a\u0646\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0438-\u0421\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ta-i-Sina",
+        "Tayi-Sina",
+        "Tah-e S\u012bnah",
+        "\u062a\u0647 \u0633\u06cc\u0646\u0647",
+        "Tah-e Sinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123308
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63b66c8509aab41e8bda70d02fd08643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1293777629,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293777629,
+    "wof:lastmodified":1537580216,
+    "wof:name":"Tah-e Sinah",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.13658000000001,
+    33.27912,
+    65.13658000000001,
+    33.27912
+],
+  "geometry": {"coordinates":[65.13658000000001,33.27912],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226659783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63042,37.16538,70.63042,37.16538",
+    "geom:latitude":37.16538,
+    "geom:longitude":70.63042,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Parnah Kham",
+    "gn:country_code":"AF",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468081,
+    "gn:latitude":37.16538,
+    "gn:longitude":70.63042,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Parnah Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa\u1e5fna Kham",
+        "\u067e\u0631\u0646\u0647 \u062e\u0645",
+        "Pa\u1e5fnah Kham",
+        "Parnah Kham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468081
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe0f3dd7fe11ac68ecf7da7fea655e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1226659783,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226659783,
+    "wof:lastmodified":1537583530,
+    "wof:name":"Parnah Kham",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63042,
+    37.16538,
+    70.63042,
+    37.16538
+],
+  "geometry": {"coordinates":[70.63042,37.16538],"type":"Point"}
+}

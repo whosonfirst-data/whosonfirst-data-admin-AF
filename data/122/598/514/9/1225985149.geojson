@@ -1,0 +1,73 @@
+{
+  "id": 1225985149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37901,34.64773,70.37901,34.64773",
+    "geom:latitude":34.64773,
+    "geom:longitude":70.37901,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Amber",
+    "gn:country_code":"AF",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148774,
+    "gn:latitude":34.64773,
+    "gn:longitude":70.37901,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Amb\u0113\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amb\u0113r",
+        "Amb\u0113\u1e5f",
+        "\u0627\u0645\u0628\u06d0\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148774
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f2ea8d005fa1374a73a59fda7d3b32fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1225985149,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1225985149,
+    "wof:lastmodified":1537582363,
+    "wof:name":"Amber",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37901,
+    34.64773,
+    70.37901,
+    34.64773
+],
+  "geometry": {"coordinates":[70.37900999999999,34.64773],"type":"Point"}
+}

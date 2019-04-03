@@ -1,0 +1,74 @@
+{
+  "id": 1277165279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.75784,34.89797,61.75784,34.89797",
+    "geom:latitude":34.89797,
+    "geom:longitude":61.75784,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Ziraki Moghulha",
+    "gn:country_code":"AF",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120590,
+    "gn:latitude":34.89797,
+    "gn:longitude":61.75784,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u012brak\u012b Moghulh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u012braki Mughulh\u0101",
+        "Z\u012brak\u012b Moghulh\u0101",
+        "\u0632\u06cc\u0631\u06a9\u06cc \u0645\u063a\u0644\u0647\u0627",
+        "Z\u012braki Mogholh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120590
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d33506bd74e89a69501967d8e4beaeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1277165279,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1277165279,
+    "wof:lastmodified":1537579955,
+    "wof:name":"Ziraki Moghulha",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.75784,
+    34.89797,
+    61.75784,
+    34.89797
+],
+  "geometry": {"coordinates":[61.75784,34.89797],"type":"Point"}
+}

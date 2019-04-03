@@ -1,0 +1,71 @@
+{
+  "id": 1242929641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.2277,31.5213,65.2277,31.5213",
+    "geom:latitude":31.5213,
+    "geom:longitude":65.2277,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Magat",
+    "gn:country_code":"AF",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134304,
+    "gn:latitude":31.5213,
+    "gn:longitude":65.2277,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Magat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u06af\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"38d81a5aa27997a2a8b7ba983c87e294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1242929641,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242929641,
+    "wof:lastmodified":1537581163,
+    "wof:name":"Magat",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.2277,
+    31.5213,
+    65.2277,
+    31.5213
+],
+  "geometry": {"coordinates":[65.2277,31.5213],"type":"Point"}
+}

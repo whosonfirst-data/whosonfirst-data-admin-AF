@@ -1,0 +1,68 @@
+{
+  "id": 1343921165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30261,34.12872,70.30261,34.12872",
+    "geom:latitude":34.12872,
+    "geom:longitude":70.30261,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Alu Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108977,
+    "gn:latitude":34.12872,
+    "gn:longitude":70.30261,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Al\u016b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108977
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9368e5df151712de49ed7143b8614b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562343,
+            "locality_id":1343921165,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343921165,
+    "wof:lastmodified":1537073759,
+    "wof:name":"Alu Khel",
+    "wof:parent_id":1108562343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30261,
+    34.12872,
+    70.30261,
+    34.12872
+],
+  "geometry": {"coordinates":[70.30261,34.12872],"type":"Point"}
+}

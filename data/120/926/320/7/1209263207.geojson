@@ -1,0 +1,68 @@
+{
+  "id": 1209263207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78438,35.58028,65.78438,35.58028",
+    "geom:latitude":35.58028,
+    "geom:longitude":65.78438,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Mianah",
+    "gn:country_code":"AF",
+    "gn:dem":2512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133417,
+    "gn:latitude":35.58028,
+    "gn:longitude":65.78438,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012b\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "My\u0101na",
+        "M\u012b\u0101neh",
+        "M\u012b\u0101nah",
+        "\u0645\u06cc\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133417
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1cb9df87ff2ed4e55022f8c4c7fe00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209263207
+        }
+    ],
+    "wof:id":1209263207,
+    "wof:lastmodified":1537581091,
+    "wof:name":"Mianah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78438,
+    35.58028,
+    65.78438,
+    35.58028
+],
+  "geometry": {"coordinates":[65.78438,35.58028],"type":"Point"}
+}

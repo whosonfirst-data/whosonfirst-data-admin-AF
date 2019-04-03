@@ -1,0 +1,72 @@
+{
+  "id": 1243014807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.08198,36.46753,67.08198,36.46753",
+    "geom:latitude":36.46753,
+    "geom:longitude":67.08198,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611.0",
+    "gn:asciiname":"Shor Bulaq",
+    "gn:country_code":"AF",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7511389,
+    "gn:latitude":36.46753,
+    "gn:longitude":67.08198,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr B\u016bl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sh\u014dr B\u016bl\u0101q",
+        "\u0634\u0648\u0631 \u0628\u0648\u0644\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7511389
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"81bb54a90a04d84649422cc7ccc7ace7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1243014807,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243014807,
+    "wof:lastmodified":1537583922,
+    "wof:name":"Shor Bulaq",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08198,
+    36.46753,
+    67.08198,
+    36.46753
+],
+  "geometry": {"coordinates":[67.08198,36.46753],"type":"Point"}
+}

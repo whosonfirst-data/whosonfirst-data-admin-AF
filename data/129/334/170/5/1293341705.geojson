@@ -1,0 +1,73 @@
+{
+  "id": 1293341705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55948,35.11814,70.55948,35.11814",
+    "geom:latitude":35.11814,
+    "geom:longitude":70.55948,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Awik",
+    "gn:country_code":"AF",
+    "gn:dem":2126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428897,
+    "gn:latitude":35.11814,
+    "gn:longitude":70.55948,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aw\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avik",
+        "Aw\u012bk",
+        "\u0627\u0648\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7feb7b51971db2aaab00ac3bcce28138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1293341705,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1293341705,
+    "wof:lastmodified":1537582666,
+    "wof:name":"Awik",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55948000000002,
+    35.11814,
+    70.55948000000002,
+    35.11814
+],
+  "geometry": {"coordinates":[70.55948000000002,35.11814],"type":"Point"}
+}

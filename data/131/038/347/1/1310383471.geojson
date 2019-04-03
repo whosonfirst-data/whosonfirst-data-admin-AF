@@ -1,0 +1,72 @@
+{
+  "id": 1310383471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.26151,34.78861,62.26151,34.78861",
+    "geom:latitude":34.78861,
+    "geom:longitude":62.26151,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Sarbuzi",
+    "gn:country_code":"AF",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454272,
+    "gn:latitude":34.78861,
+    "gn:longitude":62.26151,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarb\u016bz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarb\u016bz\u012b",
+        "\u0633\u0631\u0628\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f7565590ad651b95fc4908f8f38c36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1310383471,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310383471,
+    "wof:lastmodified":1537583115,
+    "wof:name":"Sarbuzi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.26151,
+    34.78861,
+    62.26151,
+    34.78861
+],
+  "geometry": {"coordinates":[62.26151,34.78861],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276710027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45804,35.63257,67.45804,35.63257",
+    "geom:latitude":35.63257,
+    "geom:longitude":67.45804,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505",
+    "gn:asciiname":"Ghujurtu",
+    "gn:country_code":"AF",
+    "gn:dem":2856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141195,
+    "gn:latitude":35.63257,
+    "gn:longitude":67.45804,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghujurt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghujurt\u016b",
+        "\u063a\u062c\u0631\u062a\u0648",
+        "Ghoju\u1e5ftu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141195
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e33b72e287e181372eb426a64147183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1276710027,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276710027,
+    "wof:lastmodified":1537581733,
+    "wof:name":"Ghujurtu",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45804,
+    35.63257,
+    67.45804,
+    35.63257
+],
+  "geometry": {"coordinates":[67.45804,35.63257],"type":"Point"}
+}

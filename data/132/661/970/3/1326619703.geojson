@@ -1,0 +1,72 @@
+{
+  "id": 1326619703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.64033,33.92108,63.64033,33.92108",
+    "geom:latitude":33.92108,
+    "geom:longitude":63.64033,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Kaftar Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138830,
+    "gn:latitude":33.92108,
+    "gn:longitude":63.64033,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaftar Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaftar Kh\u0101n",
+        "\u06a9\u0641\u062a\u0631 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138830
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"30b663f5fb893aedc4737d2333e70895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1326619703,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326619703,
+    "wof:lastmodified":1537581526,
+    "wof:name":"Kaftar Khan",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.64033000000001,
+    33.92108,
+    63.64033000000001,
+    33.92108
+],
+  "geometry": {"coordinates":[63.64033000000001,33.92108],"type":"Point"}
+}

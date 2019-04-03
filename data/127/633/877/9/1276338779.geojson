@@ -1,0 +1,73 @@
+{
+  "id": 1276338779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48657,37.33006,71.48657,37.33006",
+    "geom:latitude":37.33006,
+    "geom:longitude":71.48657,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Darmarakh",
+    "gn:country_code":"AF",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144047,
+    "gn:latitude":37.33006,
+    "gn:longitude":71.48657,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darm\u0101rakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darm\u0101rakh",
+        "\u062f\u0631\u0645\u0627\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144047,
+        "wk:page":"Darmarakh"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91f872732a46d76706c08ba84d545fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1276338779,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276338779,
+    "wof:lastmodified":1537581971,
+    "wof:name":"Darmarakh",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48657,
+    37.33006,
+    71.48657,
+    37.33006
+],
+  "geometry": {"coordinates":[71.48657,37.33006],"type":"Point"}
+}

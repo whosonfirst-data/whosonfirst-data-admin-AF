@@ -1,0 +1,77 @@
+{
+  "id": 1293841799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06284,36.6737,69.06284,36.6737",
+    "geom:latitude":36.6737,
+    "geom:longitude":69.06284,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Chahar Sari",
+    "gn:country_code":"AF",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145785,
+    "gn:latitude":36.6737,
+    "gn:longitude":69.06284,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Sar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0445\u0430\u0440\u0441\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u010cah\u0101r Sari",
+        "Chakharsari",
+        "Chah\u0101r Sar\u012b",
+        "\u0686\u0647\u0627\u0631 \u0633\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145785
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f13407d716866f6ed11aebfd6df940bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1293841799,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1293841799,
+    "wof:lastmodified":1537582128,
+    "wof:name":"Chahar Sari",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06284000000001,
+    36.6737,
+    69.06284000000001,
+    36.6737
+],
+  "geometry": {"coordinates":[69.06284000000001,36.6737],"type":"Point"}
+}

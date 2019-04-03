@@ -1,0 +1,75 @@
+{
+  "id": 1277095139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.35505,33.31465,64.35505,33.31465",
+    "geom:latitude":33.31465,
+    "geom:longitude":64.35505,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Khurami",
+    "gn:country_code":"AF",
+    "gn:dem":2422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136385,
+    "gn:latitude":33.31465,
+    "gn:longitude":64.35505,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khuram\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khu\u1e5f\u1e5fami",
+        "Khurrami",
+        "Khuram\u012b",
+        "\u062e\u0631\u0645\u06cc",
+        "Khorram\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136385
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7dea51a2f99ce952be84d5b7a0b4dc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1277095139,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1277095139,
+    "wof:lastmodified":1537581338,
+    "wof:name":"Khurami",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.35505,
+    33.31465,
+    64.35505,
+    33.31465
+],
+  "geometry": {"coordinates":[64.35505000000001,33.31465],"type":"Point"}
+}

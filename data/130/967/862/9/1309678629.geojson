@@ -1,0 +1,75 @@
+{
+  "id": 1309678629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15241,34.49562,68.15241,34.49562",
+    "geom:latitude":34.49562,
+    "geom:longitude":68.15241,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Tobah Gah",
+    "gn:country_code":"AF",
+    "gn:dem":2932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122300,
+    "gn:latitude":34.49562,
+    "gn:longitude":68.15241,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014dbah G\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tobagakh",
+        "T\u014dbag\u0101h",
+        "Towbehg\u0101h",
+        "T\u014dbah G\u0101h",
+        "\u062a\u0648\u0628\u0647 \u06af\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea272b8d5c2d765676d156a3b9178f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1309678629,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1309678629,
+    "wof:lastmodified":1537580104,
+    "wof:name":"Tobah Gah",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15241,
+    34.49562,
+    68.15241,
+    34.49562
+],
+  "geometry": {"coordinates":[68.15241,34.49562],"type":"Point"}
+}

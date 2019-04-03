@@ -1,0 +1,74 @@
+{
+  "id": 1226195851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1504,34.52086,70.1504,34.52086",
+    "geom:latitude":34.52086,
+    "geom:longitude":70.1504,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902",
+    "gn:asciiname":"Khani Kheyl",
+    "gn:country_code":"AF",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137105,
+    "gn:latitude":34.52086,
+    "gn:longitude":70.1504,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101n\u012b Kheyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304inw\u0101\u1e5fo L\u014dya Ouswali",
+        "Ghani Khel",
+        "Kh\u0101ni Khel",
+        "Kh\u0101n\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137105
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"922b32a6c4d26cc29a521000b1be4f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1226195851,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1226195851,
+    "wof:lastmodified":1537581393,
+    "wof:name":"Khani Kheyl",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1504,
+    34.52086,
+    70.1504,
+    34.52086
+],
+  "geometry": {"coordinates":[70.1504,34.52086],"type":"Point"}
+}

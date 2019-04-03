@@ -1,0 +1,77 @@
+{
+  "id": 1293199633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.85374,34.74217,67.85374,34.74217",
+    "geom:latitude":34.74217,
+    "geom:longitude":67.85374,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Dukani",
+    "gn:country_code":"AF",
+    "gn:dem":2805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142902,
+    "gn:latitude":34.74217,
+    "gn:longitude":67.85374,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Duk\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eok\u0101ni",
+        "Dukani",
+        "Dok\u0101n\u012b",
+        "Dokk\u0101n\u012b",
+        "Duk\u0101n\u012b",
+        "\u062f\u06a9\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142902,
+        "wk:page":"Dokani"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5bce3440ed4b646081cfa287b7f442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1293199633,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293199633,
+    "wof:lastmodified":1537581870,
+    "wof:name":"Dukani",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.85374,
+    34.74217,
+    67.85374,
+    34.74217
+],
+  "geometry": {"coordinates":[67.85374,34.74217],"type":"Point"}
+}

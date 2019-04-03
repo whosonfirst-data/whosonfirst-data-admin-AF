@@ -1,0 +1,79 @@
+{
+  "id": 1326500977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65217,35.09143,69.65217,35.09143",
+    "geom:latitude":35.09143,
+    "geom:longitude":69.65217,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204",
+    "gn:asciiname":"Qalachah",
+    "gn:country_code":"AF",
+    "gn:dem":2252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130176,
+    "gn:latitude":35.09143,
+    "gn:longitude":69.65217,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Qal\u0101\u010da",
+        "Kalacha",
+        "Qal\u0101cha",
+        "Qal\u0101cheh",
+        "Qal\u0101chah",
+        "\u0642\u0644\u0627\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130176
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d344b4fd91090ac2d0205e0abaa0f181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1326500977,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1326500977,
+    "wof:lastmodified":1537580817,
+    "wof:name":"Qalachah",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65217,
+    35.09143,
+    69.65217,
+    35.09143
+],
+  "geometry": {"coordinates":[69.65217,35.09143],"type":"Point"}
+}

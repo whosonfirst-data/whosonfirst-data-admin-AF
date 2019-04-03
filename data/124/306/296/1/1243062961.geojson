@@ -1,0 +1,74 @@
+{
+  "id": 1243062961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.33281,32.32257,64.33281,32.32257",
+    "geom:latitude":32.32257,
+    "geom:longitude":64.33281,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306",
+    "gn:asciiname":"Tah Khumak",
+    "gn:country_code":"AF",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123209,
+    "gn:latitude":32.32257,
+    "gn:longitude":64.33281,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah Khumak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khumak",
+        "Tah Khumak",
+        "\u062a\u0647 \u062e\u0645\u06a9",
+        "Ta\u2019Khomak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123209
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"25b3fc26bc8e539d385071840c2a5d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1243062961,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243062961,
+    "wof:lastmodified":1537580210,
+    "wof:name":"Tah Khumak",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.33281,
+    32.32257,
+    64.33281,
+    32.32257
+],
+  "geometry": {"coordinates":[64.33280999999999,32.32257],"type":"Point"}
+}

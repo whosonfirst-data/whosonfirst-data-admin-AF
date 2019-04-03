@@ -1,0 +1,74 @@
+{
+  "id": 1259363965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.13611,34.95788,62.13611,34.95788",
+    "geom:latitude":34.95788,
+    "geom:longitude":62.13611,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Qowm Ghazi",
+    "gn:country_code":"AF",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128817,
+    "gn:latitude":34.95788,
+    "gn:longitude":62.13611,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qowm Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumtazi",
+        "Qawm Gh\u0101zi",
+        "Qowm Gh\u0101z\u012b",
+        "\u0642\u0648\u0645 \u063a\u0627\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128817
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77b916f3712134e058d64a50db57d79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1259363965,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259363965,
+    "wof:lastmodified":1537580655,
+    "wof:name":"Qowm Ghazi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.13611,
+    34.95788,
+    62.13611,
+    34.95788
+],
+  "geometry": {"coordinates":[62.13611,34.95788],"type":"Point"}
+}

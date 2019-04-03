@@ -1,0 +1,74 @@
+{
+  "id": 1292956987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.31421,31.49548,65.31421,31.49548",
+    "geom:latitude":31.49548,
+    "geom:longitude":65.31421,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416",
+    "gn:asciiname":"Nalgham",
+    "gn:country_code":"AF",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132407,
+    "gn:latitude":31.49548,
+    "gn:longitude":65.31421,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nalgham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Nal\u2019gam"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0644\u063a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132407
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2d6ca147e7cc67d2ee47765938e53375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1292956987,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1292956987,
+    "wof:lastmodified":1537581005,
+    "wof:name":"Nalgham",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.31421,
+    31.49548,
+    65.31421,
+    31.49548
+],
+  "geometry": {"coordinates":[65.31421,31.49548],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242744619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.40646,34.14481,67.40646,34.14481",
+    "geom:latitude":34.14481,
+    "geom:longitude":67.40646,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Gardanguli",
+    "gn:country_code":"AF",
+    "gn:dem":3271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462054,
+    "gn:latitude":34.14481,
+    "gn:longitude":67.40646,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gardangul\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gardangol\u012b",
+        "Gardangul\u012b",
+        "\u06af\u0631\u062f\u0646\u06af\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462054
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc9a98333d2353b07eb13eb43966c89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1242744619,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242744619,
+    "wof:lastmodified":1537583344,
+    "wof:name":"Gardanguli",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.40646,
+    34.14481,
+    67.40646,
+    34.14481
+],
+  "geometry": {"coordinates":[67.40646,34.14481],"type":"Point"}
+}

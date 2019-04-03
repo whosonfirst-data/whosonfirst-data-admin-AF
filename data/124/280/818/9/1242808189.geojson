@@ -1,0 +1,76 @@
+{
+  "id": 1242808189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.48694,32.65264,65.48694,32.65264",
+    "geom:latitude":32.65264,
+    "geom:longitude":65.48694,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605.0",
+    "gn:asciiname":"Mian Daw",
+    "gn:country_code":"AF",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1444169,
+    "gn:latitude":32.65264,
+    "gn:longitude":65.48694,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012b\u0101n D\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miandau",
+        "M\u012b\u0101n\u1e0f\u0101b",
+        "My\u0101n\u1e0f\u0101w",
+        "M\u012b\u0101n D\u0101w",
+        "\u0645\u06cc\u0627\u0646 \u062f\u0627\u0648",
+        "M\u012b\u0101n Do \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1444169
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c64136e18624deabb1fa681457951646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561983,
+            "locality_id":1242808189,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242808189,
+    "wof:lastmodified":1537582957,
+    "wof:name":"Mian Daw",
+    "wof:parent_id":1108561983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.48694,
+    32.65264000000001,
+    65.48694,
+    32.65264000000001
+],
+  "geometry": {"coordinates":[65.48694,32.65264000000001],"type":"Point"}
+}

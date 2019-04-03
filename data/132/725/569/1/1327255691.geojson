@@ -1,0 +1,73 @@
+{
+  "id": 1327255691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.26639,33.00083,64.26639,33.00083",
+    "geom:latitude":33.00083,
+    "geom:longitude":64.26639,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Chinar",
+    "gn:country_code":"AF",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459628,
+    "gn:latitude":33.00083,
+    "gn:longitude":64.26639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chinar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cen\u0101r",
+        "Chinar",
+        "Chen\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459628
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf8bfdc701e04569df45017fa7a24568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1327255691,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1327255691,
+    "wof:lastmodified":1537583298,
+    "wof:name":"Chinar",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.26639,
+    33.00083,
+    64.26639,
+    33.00083
+],
+  "geometry": {"coordinates":[64.26639,33.00083],"type":"Point"}
+}

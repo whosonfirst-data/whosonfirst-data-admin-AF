@@ -1,0 +1,68 @@
+{
+  "id": 1209060413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85858,35.57264,66.85858,35.57264",
+    "geom:latitude":35.57264,
+    "geom:longitude":66.85858,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104",
+    "gn:asciiname":"Kulich",
+    "gn:country_code":"AF",
+    "gn:dem":2289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135733,
+    "gn:latitude":35.57264,
+    "gn:longitude":66.85858,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kul\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kol\u012bc",
+        "Kol\u012bch",
+        "Kul\u012bch",
+        "\u06a9\u0644\u06cc\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135733
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"45a96ffcce88cb9a6d6b8a47cdf5eae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209060413
+        }
+    ],
+    "wof:id":1209060413,
+    "wof:lastmodified":1537581281,
+    "wof:name":"Kulich",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85858,
+    35.57264,
+    66.85858,
+    35.57264
+],
+  "geometry": {"coordinates":[66.85858,35.57264],"type":"Point"}
+}

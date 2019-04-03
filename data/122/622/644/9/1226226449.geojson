@@ -1,0 +1,78 @@
+{
+  "id": 1226226449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.85876,33.38988,64.85876,33.38988",
+    "geom:latitude":33.38988,
+    "geom:longitude":64.85876,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Dahan-e Ghargharow",
+    "gn:country_code":"AF",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144595,
+    "gn:latitude":33.38988,
+    "gn:longitude":64.85876,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e Ghargharow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u0654 \u063a\u0631\u063a\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Dakhani-Gargarav",
+        "\u1e0eahane Gha\u1e5fgha\u1e5faw",
+        "Dah\u0101n-e Ghargharow",
+        "\u062f\u0647\u0627\u0646 \u063a\u0631\u063a\u0631\u0648",
+        "Dahan-e Gharghar\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144595
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63090d98144c8d02911d0906b057f32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1226226449,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226226449,
+    "wof:lastmodified":1537582021,
+    "wof:name":"Dahan-e Ghargharow",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.85876,
+    33.38988,
+    64.85876,
+    33.38988
+],
+  "geometry": {"coordinates":[64.85876,33.38988],"type":"Point"}
+}

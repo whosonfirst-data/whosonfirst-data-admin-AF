@@ -1,0 +1,73 @@
+{
+  "id": 1277043919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27759,32.39842,66.27759,32.39842",
+    "geom:latitude":32.39842,
+    "geom:longitude":66.27759,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414",
+    "gn:asciiname":"Tukhpay",
+    "gn:country_code":"AF",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122193,
+    "gn:latitude":32.39842,
+    "gn:longitude":66.27759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tukhp\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tukhp\u0101y",
+        "\u062a\u062e\u067e\u0627\u06cc",
+        "Tukhpay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122193
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"645219a68d94916930b15335c6ec9551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1277043919,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1277043919,
+    "wof:lastmodified":1537580166,
+    "wof:name":"Tukhpay",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27759,
+    32.39842,
+    66.27759,
+    32.39842
+],
+  "geometry": {"coordinates":[66.27759,32.39842],"type":"Point"}
+}

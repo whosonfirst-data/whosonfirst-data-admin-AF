@@ -1,0 +1,76 @@
+{
+  "id": 1276164109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08485,34.93032,70.08485,34.93032",
+    "geom:latitude":34.93032,
+    "geom:longitude":70.08485,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"904",
+    "gn:asciiname":"Norah",
+    "gn:country_code":"AF",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131795,
+    "gn:latitude":34.93032,
+    "gn:longitude":70.08485,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u014drah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nora",
+        "N\u014dra",
+        "N\u014d\u1e5fah",
+        "Nowrah",
+        "N\u014drah",
+        "\u0646\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131795
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9a6f3953417024b2558e53b8b585bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561957,
+            "locality_id":1276164109,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276164109,
+    "wof:lastmodified":1537580954,
+    "wof:name":"Norah",
+    "wof:parent_id":1108561957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08485,
+    34.93032,
+    70.08485,
+    34.93032
+],
+  "geometry": {"coordinates":[70.08485,34.93032],"type":"Point"}
+}

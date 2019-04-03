@@ -1,0 +1,79 @@
+{
+  "id": 1293314511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.64394,32.84004,61.64394,32.84004",
+    "geom:latitude":32.84004,
+    "geom:longitude":61.64394,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2107",
+    "gn:asciiname":"Karez-e 'Askak",
+    "gn:country_code":"AF",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138028,
+    "gn:latitude":32.84004,
+    "gn:longitude":61.64394,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e \u2018Askak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u0101r\u0113z-e \u2018Askak"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0639\u0633\u06a9\u06a9"
+    ],
+    "name:und_x_variant":[
+        "K\u0101r\u0113ze \u2018Askak",
+        "K\u0101r\u012bz-e \u2018Askak",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0639\u0633\u06a9\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138028
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b47c839121ec995788e443d332379e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561801,
+            "locality_id":1293314511,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293314511,
+    "wof:lastmodified":1537581471,
+    "wof:name":"Karez-e 'Askak",
+    "wof:parent_id":1108561801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.64394,
+    32.84004,
+    61.64394,
+    32.84004
+],
+  "geometry": {"coordinates":[61.64394,32.84004],"type":"Point"}
+}

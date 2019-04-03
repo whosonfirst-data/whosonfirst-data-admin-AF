@@ -1,0 +1,78 @@
+{
+  "id": 1209786641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6,35.02,69.6,35.02",
+    "geom:latitude":35.02,
+    "geom:longitude":69.6,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Bazari-Badakhshi",
+    "gn:country_code":"AF",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146695,
+    "gn:latitude":35.02,
+    "gn:longitude":69.6,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bazari-Badakhshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440\u0438-\u0411\u0430\u0434\u0430\u0445\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "B\u0101z\u0101re Badaksi",
+        "B\u0101z\u0101re Badakh\u0161i",
+        "Bazari-Badakhshi",
+        "Badakhshi B\u0101z\u0101re",
+        "B\u0101z\u0101r-e Badakhsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146695
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f7b799c68ec2aaaa0d3239d84307df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1209786641,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1209786641,
+    "wof:lastmodified":1537582206,
+    "wof:name":"Bazari-Badakhshi",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6,
+    35.02,
+    69.6,
+    35.02
+],
+  "geometry": {"coordinates":[69.59999999999999,35.02],"type":"Point"}
+}

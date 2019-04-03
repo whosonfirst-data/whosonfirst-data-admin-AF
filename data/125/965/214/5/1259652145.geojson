@@ -1,0 +1,75 @@
+{
+  "id": 1259652145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51615,31.31316,66.51615,31.31316",
+    "geom:latitude":31.31316,
+    "geom:longitude":66.51615,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Mihraban Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465941,
+    "gn:latitude":31.31316,
+    "gn:longitude":66.51615,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mihrab\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikhrabankalay",
+        "M\u00eahrab\u0101n Kal\u0101",
+        "Mehrab\u0101n Kalay",
+        "Mihrab\u0101n K\u00ealay",
+        "\u0645\u0647\u0631\u0628\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465941
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0834a8461a4f55f264390b20dbe6a789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1259652145,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259652145,
+    "wof:lastmodified":1537583410,
+    "wof:name":"Mihraban Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.51615,
+    31.31316,
+    66.51615,
+    31.31316
+],
+  "geometry": {"coordinates":[66.51615,31.31316],"type":"Point"}
+}

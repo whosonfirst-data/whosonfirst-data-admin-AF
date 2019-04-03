@@ -1,0 +1,78 @@
+{
+  "id": 1276865549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.3633,31.67056,64.3633,31.67056",
+    "geom:latitude":31.67056,
+    "geom:longitude":64.3633,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2301",
+    "gn:asciiname":"Sleman Shahzai",
+    "gn:country_code":"AF",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124254,
+    "gn:latitude":31.67056,
+    "gn:longitude":64.3633,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sl\u0113m\u0101n Sh\u0101hza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0627\u0646 \u0634\u0627\u0647\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Suleymanshakhzi",
+        "Sl\u0113m\u0101n\u0161\u0101hzi",
+        "Sl\u0113m\u0101n Sh\u0101hza\u012b",
+        "\u0633\u0644\u06d0\u0645\u0627\u0646 \u0634\u0627\u0647\u0632\u06cc",
+        "Soleym\u0101n Sh\u0101hz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421194569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124254
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f2a0c2dd7f5cc40832ae8ca88e41d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194569,
+            "locality_id":1276865549,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1276865549,
+    "wof:lastmodified":1537580285,
+    "wof:name":"Sleman Shahzai",
+    "wof:parent_id":421194569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.3633,
+    31.67056,
+    64.3633,
+    31.67056
+],
+  "geometry": {"coordinates":[64.3633,31.67056],"type":"Point"}
+}

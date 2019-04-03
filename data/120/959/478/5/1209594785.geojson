@@ -1,0 +1,71 @@
+{
+  "id": 1209594785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10797,34.89576,69.10797,34.89576",
+    "geom:latitude":34.89576,
+    "geom:longitude":69.10797,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"105.0",
+    "gn:asciiname":"Qaziyan",
+    "gn:country_code":"AF",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349689,
+    "gn:latitude":34.89576,
+    "gn:longitude":69.10797,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101\u1e95iy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kaz\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101\u1e0f\u1e95y\u0101n",
+        "Q\u0101\u1e95\u012b\u0101n",
+        "\u0642\u0627\u0636\u06cc\u0627\u0646",
+        "Q\u0101\u1e95iy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349689
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d11120495e821d668a7fc3e218d0e99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209594785
+        }
+    ],
+    "wof:id":1209594785,
+    "wof:lastmodified":1537582468,
+    "wof:name":"Qaziyan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10797,
+    34.89576,
+    69.10797,
+    34.89576
+],
+  "geometry": {"coordinates":[69.10796999999999,34.89576],"type":"Point"}
+}

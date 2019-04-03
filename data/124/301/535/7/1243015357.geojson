@@ -1,0 +1,78 @@
+{
+  "id": 1243015357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09009,32.78657,69.09009,32.78657",
+    "geom:latitude":32.78657,
+    "geom:longitude":69.09009,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2908.0",
+    "gn:asciiname":"Jangul Ziarat",
+    "gn:country_code":"AF",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434017,
+    "gn:latitude":32.78657,
+    "gn:longitude":69.09009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101ngul Z\u012b\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhangul\u2019ziarat"
+    ],
+    "name:und_x_variant":[
+        "Dzhangul\u2019ziarat",
+        "J\u0101ngul Zy\u0101\u1e5fat",
+        "J\u0101ngol Z\u012b\u0101rat",
+        "J\u0101ngul Z\u012b\u0101rat",
+        "\u062c\u0627\u0646\u06af\u0644 \u0632\u06cc\u0627\u0631\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        421171021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434017
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9443730f89f3472e7a5d7c518cd71468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171021,
+            "locality_id":1243015357,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243015357,
+    "wof:lastmodified":1537582701,
+    "wof:name":"Jangul Ziarat",
+    "wof:parent_id":421171021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09009,
+    32.78657,
+    69.09009,
+    32.78657
+],
+  "geometry": {"coordinates":[69.09009,32.78657],"type":"Point"}
+}

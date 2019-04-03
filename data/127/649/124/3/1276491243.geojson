@@ -1,0 +1,73 @@
+{
+  "id": 1276491243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06095,36.02531,68.06095,36.02531",
+    "geom:latitude":36.02531,
+    "geom:longitude":68.06095,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Deh-e Now",
+    "gn:country_code":"AF",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143547,
+    "gn:latitude":36.02531,
+    "gn:longitude":68.06095,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh-i-Naw",
+        "Deh-e Now",
+        "\u062f\u0647 \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143547
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f859a0c302533cf9817245797880380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1276491243,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276491243,
+    "wof:lastmodified":1537581929,
+    "wof:name":"Deh-e Now",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06095,
+    36.02531,
+    68.06095,
+    36.02531
+],
+  "geometry": {"coordinates":[68.06095000000001,36.02531],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277110271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52666,33.65287,66.52666,33.65287",
+    "geom:latitude":33.65287,
+    "geom:longitude":66.52666,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Daraztaq",
+    "gn:country_code":"AF",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144102,
+    "gn:latitude":33.65287,
+    "gn:longitude":66.52666,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dar\u0101zt\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101r\u0101zt\u0101g",
+        "\u1e0ea\u1e5f\u0101zt\u0101q",
+        "Dar\u0101zt\u0101q",
+        "\u062f\u0631\u0627\u0632\u062a\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144102
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3179aed62b3d5c6a01b27ed75e7ee7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1277110271,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1277110271,
+    "wof:lastmodified":1537581974,
+    "wof:name":"Daraztaq",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52665999999999,
+    33.65287,
+    66.52665999999999,
+    33.65287
+],
+  "geometry": {"coordinates":[66.52665999999999,33.65287],"type":"Point"}
+}

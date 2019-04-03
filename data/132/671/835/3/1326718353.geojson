@@ -1,0 +1,74 @@
+{
+  "id": 1326718353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.03468,34.2722,63.03468,34.2722",
+    "geom:latitude":34.2722,
+    "geom:longitude":63.03468,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Karashk",
+    "gn:country_code":"AF",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138194,
+    "gn:latitude":34.2722,
+    "gn:longitude":63.03468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karashk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e5fask",
+        "Ka\u1e5fashk",
+        "Karashk",
+        "\u06a9\u0631\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138194
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b339e42d534b12a5b11d4b0446c51d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1326718353,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1326718353,
+    "wof:lastmodified":1537581487,
+    "wof:name":"Karashk",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.03468,
+    34.2722,
+    63.03468,
+    34.2722
+],
+  "geometry": {"coordinates":[63.03468,34.2722],"type":"Point"}
+}

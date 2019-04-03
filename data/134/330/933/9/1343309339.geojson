@@ -1,0 +1,76 @@
+{
+  "id": 1343309339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88499,32.44729,66.88499,32.44729",
+    "geom:latitude":32.44729,
+    "geom:longitude":66.88499,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Angur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447757,
+    "gn:latitude":32.44729,
+    "gn:longitude":66.88499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ang\u016br K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06af\u0648\u0631 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ang\u016br K\u00ealay",
+        "\u0627\u0646\u06af\u0648\u0631 \u06a9\u0644\u06cc",
+        "Ang\u016br Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb5f07bd25a20ce20968ed2e125d3eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1343309339,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343309339,
+    "wof:lastmodified":1537582974,
+    "wof:name":"Angur Kelay",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88499,
+    32.44729,
+    66.88499,
+    32.44729
+],
+  "geometry": {"coordinates":[66.88499,32.44729],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259687919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.33329,36.46017,70.33329,36.46017",
+    "geom:latitude":36.46017,
+    "geom:longitude":70.33329,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1123",
+    "gn:asciiname":"Khumbuk",
+    "gn:country_code":"AF",
+    "gn:dem":2318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136568,
+    "gn:latitude":36.46017,
+    "gn:longitude":70.33329,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khumbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chambuk",
+        "Khambak",
+        "Khumbuk",
+        "Khombok",
+        "\u062e\u0645\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136568,
+        "wk:page":"Khombok"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b20227e88225702ae39bbe927165ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562529,
+            "locality_id":1259687919,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259687919,
+    "wof:lastmodified":1537581351,
+    "wof:name":"Khumbuk",
+    "wof:parent_id":1108562529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.33329,
+    36.46017,
+    70.33329,
+    36.46017
+],
+  "geometry": {"coordinates":[70.33329000000001,36.46017],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242749315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.83764,34.73128,69.83764,34.73128",
+    "geom:latitude":34.73128,
+    "geom:longitude":69.83764,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Ni'man",
+    "gn:country_code":"AF",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131931,
+    "gn:latitude":34.73128,
+    "gn:longitude":69.83764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ni\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niman",
+        "Ne\u2018m\u0101n",
+        "Ni\u2018m\u0101n",
+        "\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131931
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"534e45e75f325fb881f75b5b03b46b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1242749315,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1242749315,
+    "wof:lastmodified":1537580965,
+    "wof:name":"Ni'man",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.83764000000001,
+    34.73128,
+    69.83764000000001,
+    34.73128
+],
+  "geometry": {"coordinates":[69.83764000000001,34.73128],"type":"Point"}
+}

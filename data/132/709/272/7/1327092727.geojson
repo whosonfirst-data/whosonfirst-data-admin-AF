@@ -1,0 +1,78 @@
+{
+  "id": 1327092727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05257,31.58124,67.05257,31.58124",
+    "geom:latitude":31.58124,
+    "geom:longitude":67.05257,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Gharay",
+    "gn:country_code":"AF",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436086,
+    "gn:latitude":31.58124,
+    "gn:longitude":67.05257,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101\u1e5fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Garay",
+        "Gh\u0101\u1e5fay",
+        "\u063a\u0627\u0693\u06cc",
+        "Gh\u0101ray",
+        "\u063a\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9d078ce0e0af9d6e9e50e3d4e2af6ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1327092727,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327092727,
+    "wof:lastmodified":1537582799,
+    "wof:name":"Gharay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05256999999999,
+    31.58124,
+    67.05256999999999,
+    31.58124
+],
+  "geometry": {"coordinates":[67.05256999999999,31.58124],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193200079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30311,33.66025,69.30311,33.66025",
+    "geom:latitude":33.66025,
+    "geom:longitude":69.30311,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705",
+    "gn:asciiname":"Sur Sangiyan",
+    "gn:country_code":"AF",
+    "gn:dem":2407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123514,
+    "gn:latitude":33.66025,
+    "gn:longitude":69.30311,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br Sangiy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631 \u0633\u0646\u06af\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sursangian",
+        "S\u016b\u1e5f Sangy\u0101n",
+        "Sowr Sang\u012b\u0101n",
+        "S\u016br Sangiy\u0101n",
+        "\u0633\u0648\u0631 \u0633\u0646\u06af\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123514
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3cecbc59c9ce340caee8a1bd655946bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1193200079,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193200079,
+    "wof:lastmodified":1537580229,
+    "wof:name":"Sur Sangiyan",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30311,
+    33.66025,
+    69.30311,
+    33.66025
+],
+  "geometry": {"coordinates":[69.30311,33.66025],"type":"Point"}
+}

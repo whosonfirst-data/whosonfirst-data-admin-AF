@@ -1,0 +1,74 @@
+{
+  "id": 1193225353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61843,31.55896,67.61843,31.55896",
+    "geom:latitude":31.55896,
+    "geom:longitude":67.61843,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Qal'ah-ye Burj-e Sangi",
+    "gn:country_code":"AF",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477766,
+    "gn:latitude":31.55896,
+    "gn:longitude":67.61843,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Burj-e Sang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalayi-Burdzhi-Sangi",
+        "Qala-i-Bu\u1e5fje Sangi",
+        "Qal\u2018eh-ye Borj-e Sang\u012b",
+        "Qal\u2018ah-ye Burj-e Sang\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477766
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8158cd6d052389148ee1fa33a64d5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1193225353,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1193225353,
+    "wof:lastmodified":1537583881,
+    "wof:name":"Qal'ah-ye Burj-e Sangi",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61843,
+    31.55896,
+    67.61843,
+    31.55896
+],
+  "geometry": {"coordinates":[67.61843,31.55896],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343919325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39169,32.87414,67.39169,32.87414",
+    "geom:latitude":32.87414,
+    "geom:longitude":67.39169,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Murpay",
+    "gn:country_code":"AF",
+    "gn:dem":2351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132638,
+    "gn:latitude":32.87414,
+    "gn:longitude":67.39169,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016brp\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u016brp\u0101y",
+        "\u0645\u0648\u0631\u067e\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132638
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8cdb856992c28e719e0d405f9d46df30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1343919325,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343919325,
+    "wof:lastmodified":1537581023,
+    "wof:name":"Murpay",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39169,
+    32.87414,
+    67.39169,
+    32.87414
+],
+  "geometry": {"coordinates":[67.39169,32.87414],"type":"Point"}
+}

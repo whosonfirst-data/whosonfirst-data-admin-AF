@@ -1,0 +1,74 @@
+{
+  "id": 1243368245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63041,35.11641,66.63041,35.11641",
+    "geom:latitude":35.11641,
+    "geom:longitude":66.63041,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Durushtak",
+    "gn:country_code":"AF",
+    "gn:dem":3086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142830,
+    "gn:latitude":35.11641,
+    "gn:longitude":66.63041,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Durushtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eo\u1e5fus\u0304tak",
+        "Doroshtak",
+        "Durushtak",
+        "\u062f\u0631\u0634\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142830
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0cda5e76d76f633540ea273e72ca855c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1243368245,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243368245,
+    "wof:lastmodified":1537581863,
+    "wof:name":"Durushtak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63041,
+    35.11640999999999,
+    66.63041,
+    35.11640999999999
+],
+  "geometry": {"coordinates":[66.63041,35.11640999999999],"type":"Point"}
+}

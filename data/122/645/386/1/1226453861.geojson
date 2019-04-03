@@ -1,0 +1,74 @@
+{
+  "id": 1226453861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66218,35.9313,69.66218,35.9313",
+    "geom:latitude":35.9313,
+    "geom:longitude":69.66218,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1308",
+    "gn:asciiname":"Kajnaw",
+    "gn:country_code":"AF",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138722,
+    "gn:latitude":35.9313,
+    "gn:longitude":69.66218,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kajn\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajin\u0101w",
+        "Kajn\u0101w",
+        "Kajnow",
+        "\u06a9\u062c\u0646\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138722
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3674f484fa48690ece3c8acffe46d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562171,
+            "locality_id":1226453861,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226453861,
+    "wof:lastmodified":1537581519,
+    "wof:name":"Kajnaw",
+    "wof:parent_id":1108562171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66218,
+    35.9313,
+    69.66218,
+    35.9313
+],
+  "geometry": {"coordinates":[69.66218000000001,35.9313],"type":"Point"}
+}

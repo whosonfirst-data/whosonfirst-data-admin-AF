@@ -1,0 +1,73 @@
+{
+  "id": 1276711015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07631,36.04008,67.07631,36.04008",
+    "geom:latitude":36.04008,
+    "geom:longitude":67.07631,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Nighak",
+    "gn:country_code":"AF",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465334,
+    "gn:latitude":36.04008,
+    "gn:longitude":67.07631,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nighak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nighak (2)",
+        "Nighak",
+        "\u0646\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5bc46584aa3e5731bd70e8919834991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1276711015,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276711015,
+    "wof:lastmodified":1537583396,
+    "wof:name":"Nighak",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07630999999999,
+    36.04008,
+    67.07630999999999,
+    36.04008
+],
+  "geometry": {"coordinates":[67.07630999999999,36.04008],"type":"Point"}
+}

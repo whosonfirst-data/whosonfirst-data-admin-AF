@@ -1,0 +1,67 @@
+{
+  "id": 1209356025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89659,35.85533,65.89659,35.85533",
+    "geom:latitude":35.85533,
+    "geom:longitude":65.89659,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Warwa",
+    "gn:country_code":"AF",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121692,
+    "gn:latitude":35.85533,
+    "gn:longitude":65.89659,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101rw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101rw\u0101",
+        "\u0648\u0627\u0631\u0648\u0627",
+        "W\u0101\u1e5fw\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121692
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82e846f06d5cf4ca6a8c7eee56c9ddef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209356025
+        }
+    ],
+    "wof:id":1209356025,
+    "wof:lastmodified":1537580056,
+    "wof:name":"Warwa",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89659,
+    35.85533,
+    65.89659,
+    35.85533
+],
+  "geometry": {"coordinates":[65.89659,35.85533],"type":"Point"}
+}

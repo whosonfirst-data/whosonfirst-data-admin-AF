@@ -1,0 +1,75 @@
+{
+  "id": 1276275203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27345,34.54656,70.27345,34.54656",
+    "geom:latitude":34.54656,
+    "geom:longitude":70.27345,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Qal'ahtak",
+    "gn:country_code":"AF",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474616,
+    "gn:latitude":34.54656,
+    "gn:longitude":70.27345,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah\u1e6fak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalatak",
+        "Qal\u2018atak",
+        "Qal\u2018etak",
+        "Qal\u2018ah\u1e6fak",
+        "\u0642\u0644\u0639\u0647 \u067c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"077c1bc88c2d99546d123b7245add40c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1276275203,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276275203,
+    "wof:lastmodified":1537583818,
+    "wof:name":"Qal'ahtak",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27345,
+    34.54656,
+    70.27345,
+    34.54656
+],
+  "geometry": {"coordinates":[70.27345,34.54656],"type":"Point"}
+}

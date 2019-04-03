@@ -1,0 +1,74 @@
+{
+  "id": 1209701113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29627,33.03032,67.29627,33.03032",
+    "geom:latitude":33.03032,
+    "geom:longitude":67.29627,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Kotah",
+    "gn:country_code":"AF",
+    "gn:dem":2508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450711,
+    "gn:latitude":33.03032,
+    "gn:longitude":67.29627,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dta",
+        "Kowtah",
+        "K\u014d\u1e6fah",
+        "\u06a9\u0648\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450711
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0d072441d88b086e8e65b85678970df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1209701113,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209701113,
+    "wof:lastmodified":1537583060,
+    "wof:name":"Kotah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29626999999999,
+    33.03032,
+    67.29626999999999,
+    33.03032
+],
+  "geometry": {"coordinates":[67.29626999999999,33.03032],"type":"Point"}
+}

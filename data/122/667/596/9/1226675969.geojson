@@ -1,0 +1,77 @@
+{
+  "id": 1226675969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.16656,36.86279,66.16656,36.86279",
+    "geom:latitude":36.86279,
+    "geom:longitude":66.16656,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1710",
+    "gn:asciiname":"Khanaqah",
+    "gn:country_code":"AF",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1137160,
+    "gn:latitude":36.86279,
+    "gn:longitude":66.16656,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101naq\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101neq\u0101h",
+        "Kh\u0101naka",
+        "Kh\u0101nanq\u0101",
+        "Kh\u0101naq\u0101",
+        "Kh\u0101naq\u0101h",
+        "\u062e\u0627\u0646\u0642\u0647",
+        "\u062e\u0627\u0646\u0642\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137160
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a08e1038f8b0d4bfd28ba3b91711e34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562149,
+            "locality_id":1226675969,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1226675969,
+    "wof:lastmodified":1537581399,
+    "wof:name":"Khanaqah",
+    "wof:parent_id":1108562149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.16656,
+    36.86279,
+    66.16656,
+    36.86279
+],
+  "geometry": {"coordinates":[66.16656,36.86279],"type":"Point"}
+}

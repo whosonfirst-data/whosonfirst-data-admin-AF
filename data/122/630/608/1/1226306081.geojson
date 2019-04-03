@@ -1,0 +1,79 @@
+{
+  "id": 1226306081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3392,34.45192,70.3392,34.45192",
+    "geom:latitude":34.45192,
+    "geom:longitude":70.3392,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802.0",
+    "gn:asciiname":"Kachar",
+    "gn:country_code":"AF",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473122,
+    "gn:latitude":34.45192,
+    "gn:longitude":70.3392,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kach\u0101\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0686\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ka\u010d\u0101r",
+        "\u0643\u0686\u0631",
+        "Kach\u0101\u1e5f",
+        "\u06a9\u0686\u0627\u0693",
+        "\u06a9\u0686\u0631",
+        "Kachar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473122
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78f191b3152a77af03f8b3b53f56b009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562523,
+            "locality_id":1226306081,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226306081,
+    "wof:lastmodified":1537583739,
+    "wof:name":"Kachar",
+    "wof:parent_id":1108562523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3392,
+    34.45192,
+    70.3392,
+    34.45192
+],
+  "geometry": {"coordinates":[70.33920000000001,34.45192],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209673705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23401,31.66321,67.23401,31.66321",
+    "geom:latitude":31.66321,
+    "geom:longitude":67.23401,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Bari Kalay",
+    "gn:country_code":"AF",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436116,
+    "gn:latitude":31.66321,
+    "gn:longitude":67.23401,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101r\u012b Kalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0628\u0627\u0631\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0627\u0631\u06cc \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ray K\u00ealay",
+        "\u0628\u0627\u0631\u06cc \u06a9\u0644\u06cc",
+        "B\u0101\u1e5fay Kalay",
+        "B\u0101r\u012b Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7241e46e9fab9394d69fd7db65e62168",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209673705
+        }
+    ],
+    "wof:id":1209673705,
+    "wof:lastmodified":1537582802,
+    "wof:name":"Bari Kalay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23401,
+    31.66321,
+    67.23401,
+    31.66321
+],
+  "geometry": {"coordinates":[67.23401,31.66321],"type":"Point"}
+}

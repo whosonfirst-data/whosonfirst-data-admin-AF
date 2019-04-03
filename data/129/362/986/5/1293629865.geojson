@@ -1,0 +1,77 @@
+{
+  "id": 1293629865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48303,34.66983,70.48303,34.66983",
+    "geom:latitude":34.66983,
+    "geom:longitude":70.48303,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Bar Kashmund",
+    "gn:country_code":"AF",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146900,
+    "gn:latitude":34.66983,
+    "gn:longitude":70.48303,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ba\u1e5f Kashmun\u1e0f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar Ka\u0161mund",
+        "Bar-Kashmund",
+        "\u0628\u0693 \u06a9\u0634\u0645\u0646\u0689",
+        "Bar Kashm\u016bn\u1e0f",
+        "Ba\u1e5f Kashm\u016bnd",
+        "\u0628\u0631 \u06a9\u0634\u0645\u0648\u0646\u0689",
+        "Ba\u1e5f Kashmun\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146900
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"446b7ac40bd09f788d8d49ab79efd42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1293629865,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1293629865,
+    "wof:lastmodified":1537582222,
+    "wof:name":"Bar Kashmund",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48303,
+    34.66983,
+    70.48303,
+    34.66983
+],
+  "geometry": {"coordinates":[70.48303,34.66983],"type":"Point"}
+}

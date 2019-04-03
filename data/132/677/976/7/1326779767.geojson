@@ -1,0 +1,73 @@
+{
+  "id": 1326779767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1328,35.84129,67.1328,35.84129",
+    "geom:latitude":35.84129,
+    "geom:longitude":67.1328,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Wukar",
+    "gn:country_code":"AF",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121556,
+    "gn:latitude":35.84129,
+    "gn:longitude":67.1328,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wukar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0648\u06a9\u0631",
+        "Wukar",
+        "Woka\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121556
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"271a9b3b3ba7de6a10af6486a8111439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1326779767,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1326779767,
+    "wof:lastmodified":1537580048,
+    "wof:name":"Wukar",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1328,
+    35.84129,
+    67.1328,
+    35.84129
+],
+  "geometry": {"coordinates":[67.1328,35.84129],"type":"Point"}
+}

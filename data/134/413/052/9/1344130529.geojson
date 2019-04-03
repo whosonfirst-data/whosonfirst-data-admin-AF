@@ -1,0 +1,82 @@
+{
+  "id": 1344130529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62596,35.00716,69.62596,35.00716",
+    "geom:latitude":35.00716,
+    "geom:longitude":69.62596,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Sharif Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429501,
+    "gn:latitude":35.00716,
+    "gn:longitude":69.62596,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shar\u012bf Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u064a\u0641 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u0438\u0444\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sharifkheyl\u2019",
+        "\u0160ar\u012bfkh\u0113l",
+        "Shar\u012bfkheyl",
+        "\u0634\u0631\u064a\u0641 \u062e\u064a\u0644",
+        "Shar\u012bf Kh\u0113l",
+        "\u0634\u0631\u06cc\u0641 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429501
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c51096d15a7d6f1dba06376c9358fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1344130529,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1344130529,
+    "wof:lastmodified":1537582678,
+    "wof:name":"Sharif Khel",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62595999999999,
+    35.00716,
+    69.62595999999999,
+    35.00716
+],
+  "geometry": {"coordinates":[69.62595999999999,35.00716],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293277705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54824,33.95618,67.54824,33.95618",
+    "geom:latitude":33.95618,
+    "geom:longitude":67.54824,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Pas-e Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438198,
+    "gn:latitude":33.95618,
+    "gn:longitude":67.54824,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pas-e Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u0654 \u0633\u0646\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0438-\u0421\u0430\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Pasi-Sang",
+        "Pas-e Sang",
+        "\u067e\u0633 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438198
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5896f448c49c1c9108ab957229c5ad6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1293277705,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293277705,
+    "wof:lastmodified":1537582882,
+    "wof:name":"Pas-e Sang",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54824,
+    33.95618,
+    67.54824,
+    33.95618
+],
+  "geometry": {"coordinates":[67.54824000000001,33.95618],"type":"Point"}
+}

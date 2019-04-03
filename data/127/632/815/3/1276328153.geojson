@@ -1,0 +1,75 @@
+{
+  "id": 1276328153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59316,31.83612,64.59316,31.83612",
+    "geom:latitude":31.83612,
+    "geom:longitude":64.59316,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Shahr-e Kuhnah",
+    "gn:country_code":"AF",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125876,
+    "gn:latitude":31.83612,
+    "gn:longitude":64.59316,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr-e Kuhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ahre Kuhna",
+        "Shakhri-Kukhna",
+        "Shahr-e Kuhnah",
+        "\u0634\u0647\u0631 \u06a9\u0647\u0646\u0647",
+        "Shahr-e Kohneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"749be632056d11f19fec8afeb358cd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1276328153,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1276328153,
+    "wof:lastmodified":1537580423,
+    "wof:name":"Shahr-e Kuhnah",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59316,
+    31.83612,
+    64.59316,
+    31.83612
+],
+  "geometry": {"coordinates":[64.59316,31.83612],"type":"Point"}
+}

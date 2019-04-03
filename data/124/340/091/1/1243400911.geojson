@@ -1,0 +1,74 @@
+{
+  "id": 1243400911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7353,35.78769,66.7353,35.78769",
+    "geom:latitude":35.78769,
+    "geom:longitude":66.7353,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Ghrichak",
+    "gn:country_code":"AF",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141076,
+    "gn:latitude":35.78769,
+    "gn:longitude":66.7353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghrichak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u1e5fecak",
+        "Ghrechak",
+        "Ghrichak",
+        "\u063a\u0631\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141076
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"48973fe1cfd94b6767391d6d8b22bfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1243400911,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243400911,
+    "wof:lastmodified":1537581718,
+    "wof:name":"Ghrichak",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7353,
+    35.78769000000001,
+    66.7353,
+    35.78769000000001
+],
+  "geometry": {"coordinates":[66.7353,35.78769000000001],"type":"Point"}
+}

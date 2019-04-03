@@ -1,0 +1,78 @@
+{
+  "id": 1193095331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.68966,31.71247,65.68966,31.71247",
+    "geom:latitude":31.71247,
+    "geom:longitude":65.68966,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Sarde Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407298,
+    "gn:latitude":31.71247,
+    "gn:longitude":65.68966,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sard\u0113 Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062f\u0654 \u0633\u0641\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Sarde-Sufla",
+        "Sa\u1e5f\u1e0f\u0113 Sufl\u0101",
+        "Sard\u0113 Sufl\u00e1",
+        "\u0633\u0631\u062f\u06d0 \u0633\u0641\u0644\u0649",
+        "Sard-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407298
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"220efe15895ec66fa8d27367747d8819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561811,
+            "locality_id":1193095331,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1193095331,
+    "wof:lastmodified":1537582515,
+    "wof:name":"Sarde Sufla",
+    "wof:parent_id":1108561811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.68966,
+    31.71247,
+    65.68966,
+    31.71247
+],
+  "geometry": {"coordinates":[65.68966,31.71247],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276180635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71963,31.5677,66.71963,31.5677",
+    "geom:latitude":31.5677,
+    "geom:longitude":66.71963,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Ana Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476867,
+    "gn:latitude":31.5677,
+    "gn:longitude":66.71963,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"An\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anakheyl\u2019",
+        "An\u0101kh\u0113l",
+        "An\u0101h Kh\u0113l",
+        "\u0627\u0646\u0627\u0647 \u062e\u06d0\u0644",
+        "An\u0101kheyl",
+        "An\u0101 Kh\u0113l",
+        "\u0627\u0646\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476867
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b6f12d3762ee1df72e8437d5f49fd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1276180635,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276180635,
+    "wof:lastmodified":1537583856,
+    "wof:name":"Ana Khel",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71963000000001,
+    31.5677,
+    66.71963000000001,
+    31.5677
+],
+  "geometry": {"coordinates":[66.71963000000001,31.5677],"type":"Point"}
+}

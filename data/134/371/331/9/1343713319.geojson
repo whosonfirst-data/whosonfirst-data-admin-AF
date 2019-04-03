@@ -1,0 +1,73 @@
+{
+  "id": 1343713319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09243,35.37724,70.09243,35.37724",
+    "geom:latitude":35.37724,
+    "geom:longitude":70.09243,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004.0",
+    "gn:asciiname":"Busaydur",
+    "gn:country_code":"AF",
+    "gn:dem":2643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146298,
+    "gn:latitude":35.37724,
+    "gn:longitude":70.09243,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Busaydur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0633\u06cc\u062f\u0631",
+        "Bosaydur",
+        "Busaydur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146298
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ccc1fad2b2fbdf6107a4ec61d6f89fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562241,
+            "locality_id":1343713319,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1343713319,
+    "wof:lastmodified":1537582171,
+    "wof:name":"Busaydur",
+    "wof:parent_id":1108562241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09243000000001,
+    35.37724,
+    70.09243000000001,
+    35.37724
+],
+  "geometry": {"coordinates":[70.09243000000001,35.37724],"type":"Point"}
+}

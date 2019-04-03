@@ -1,0 +1,77 @@
+{
+  "id": 1259945393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.8225,30.87694,61.8225,30.87694",
+    "geom:latitude":30.87694,
+    "geom:longitude":61.8225,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2201",
+    "gn:asciiname":"Mulla Nur Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132890,
+    "gn:latitude":30.87694,
+    "gn:longitude":61.8225,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 N\u016br Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0646\u0648\u0631 \u0645\u062d\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mull\u0101 N\u016b\u1e5fmoh\u1e0f",
+        "Mull\u0101 N\u016br Mu\u1e29ammad",
+        "\u0645\u0644\u0627 \u0646\u0648\u0631 \u0645\u062d\u0645\u062f",
+        "Moll\u0101 N\u016br Mo\u1e29d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132890
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5df6cee5449a3ff562c7474fe375299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562603,
+            "locality_id":1259945393,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1259945393,
+    "wof:lastmodified":1537581046,
+    "wof:name":"Mulla Nur Muhammad",
+    "wof:parent_id":1108562603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.8225,
+    30.87694,
+    61.8225,
+    30.87694
+],
+  "geometry": {"coordinates":[61.8225,30.87694],"type":"Point"}
+}

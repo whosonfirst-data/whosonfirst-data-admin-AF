@@ -1,0 +1,75 @@
+{
+  "id": 1293176659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59782,34.66297,70.59782,34.66297",
+    "geom:latitude":34.66297,
+    "geom:longitude":70.59782,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Najaran",
+    "gn:country_code":"AF",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473898,
+    "gn:latitude":34.66297,
+    "gn:longitude":70.59782,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naj\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naj\u0101\u1e5f\u0101n",
+        "Nadzharan",
+        "Najj\u0101r\u0101n",
+        "Naj\u0101r\u0101n",
+        "\u0646\u062c\u0627\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473898
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c01fa902b86c772137f4144d03a59988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1293176659,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293176659,
+    "wof:lastmodified":1537583770,
+    "wof:name":"Najaran",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59782,
+    34.66297,
+    70.59782,
+    34.66297
+],
+  "geometry": {"coordinates":[70.59782,34.66297],"type":"Point"}
+}

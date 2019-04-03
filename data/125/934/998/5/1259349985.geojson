@@ -1,0 +1,72 @@
+{
+  "id": 1259349985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.04699,36.19599,70.04699,36.19599",
+    "geom:latitude":36.19599,
+    "geom:longitude":70.04699,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Gumbad",
+    "gn:country_code":"AF",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140725,
+    "gn:latitude":36.19599,
+    "gn:longitude":70.04699,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gumbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonbad",
+        "\u06af\u0645\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140725
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34042876be941d14c48777092f977204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1259349985,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1259349985,
+    "wof:lastmodified":1537581689,
+    "wof:name":"Gumbad",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.04699000000001,
+    36.19599,
+    70.04699000000001,
+    36.19599
+],
+  "geometry": {"coordinates":[70.04699000000001,36.19599],"type":"Point"}
+}

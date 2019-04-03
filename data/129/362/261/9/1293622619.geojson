@@ -1,0 +1,73 @@
+{
+  "id": 1293622619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91,32.75,65.91,32.75",
+    "geom:latitude":32.75,
+    "geom:longitude":65.91,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Bluchi",
+    "gn:country_code":"AF",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147261,
+    "gn:latitude":32.75,
+    "gn:longitude":65.91,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bluchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bl\u016b\u010di",
+        "Bal\u016bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147261,
+        "wk:page":"Bal%C5%ABch%C4%AB%2C_Or%C5%ABzg%C4%81n"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b8d666830d4d4f674354a4623fdc43f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1293622619,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1293622619,
+    "wof:lastmodified":1537582250,
+    "wof:name":"Bluchi",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91,
+    32.75,
+    65.91,
+    32.75
+],
+  "geometry": {"coordinates":[65.91,32.75],"type":"Point"}
+}

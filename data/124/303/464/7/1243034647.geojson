@@ -1,0 +1,75 @@
+{
+  "id": 1243034647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77939,34.45314,68.77939,34.45314",
+    "geom:latitude":34.45314,
+    "geom:longitude":68.77939,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"401",
+    "gn:asciiname":"Tebah",
+    "gn:country_code":"AF",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122570,
+    "gn:latitude":34.45314,
+    "gn:longitude":68.77939,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0113bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0113ba",
+        "Teba",
+        "T\u0113bah",
+        "Tepah \u2018Us\u0304m\u0101n Kh\u0113l",
+        "\u062a\u06d0\u0628\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"542eeaf1153ee332d17575e6e937db17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562259,
+            "locality_id":1243034647,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1243034647,
+    "wof:lastmodified":1537580170,
+    "wof:name":"Tebah",
+    "wof:parent_id":1108562259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77939,
+    34.45314,
+    68.77939,
+    34.45314
+],
+  "geometry": {"coordinates":[68.77939000000001,34.45314],"type":"Point"}
+}

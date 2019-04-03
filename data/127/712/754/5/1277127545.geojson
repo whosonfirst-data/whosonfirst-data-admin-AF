@@ -1,0 +1,74 @@
+{
+  "id": 1277127545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28488,32.66018,67.28488,32.66018",
+    "geom:latitude":32.66018,
+    "geom:longitude":67.28488,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Tsaleray",
+    "gn:country_code":"AF",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146021,
+    "gn:latitude":32.66018,
+    "gn:longitude":67.28488,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tsal\u0113ray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cal\u0113\u1e5fay",
+        "Chaleray",
+        "Tsal\u0113ray",
+        "\u0685\u0644\u06d0\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"031753d9fd53b218149c6c99d5c047d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1277127545,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1277127545,
+    "wof:lastmodified":1537582150,
+    "wof:name":"Tsaleray",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28488,
+    32.66018,
+    67.28488,
+    32.66018
+],
+  "geometry": {"coordinates":[67.28488,32.66018],"type":"Point"}
+}

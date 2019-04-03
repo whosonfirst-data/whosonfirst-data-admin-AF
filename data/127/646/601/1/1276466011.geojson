@@ -1,0 +1,68 @@
+{
+  "id": 1276466011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.86333,33.01861,62.86333,33.01861",
+    "geom:latitude":33.01861,
+    "geom:longitude":62.86333,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2105.0",
+    "gn:asciiname":"Khawarak",
+    "gn:country_code":"AF",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436960,
+    "gn:latitude":33.01861,
+    "gn:longitude":62.86333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khaw\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cb94f0cda50e5f65f84dbafdeffc59b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1276466011,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1276466011,
+    "wof:lastmodified":1537094885,
+    "wof:name":"Khawarak",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.86333000000001,
+    33.01861,
+    62.86333000000001,
+    33.01861
+],
+  "geometry": {"coordinates":[62.86333000000001,33.01861],"type":"Point"}
+}

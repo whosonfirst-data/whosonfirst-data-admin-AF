@@ -1,0 +1,75 @@
+{
+  "id": 1243361011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.19718,33.48347,63.19718,33.48347",
+    "geom:latitude":33.48347,
+    "geom:longitude":63.19718,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Lar Jinah",
+    "gn:country_code":"AF",
+    "gn:dem":1931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134755,
+    "gn:latitude":33.48347,
+    "gn:longitude":63.19718,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lar Jinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u1e5f Jina",
+        "Lar-Dzhina",
+        "Lar Jinah",
+        "\u0644\u0631 \u062c\u0646\u0647",
+        "Lar J\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134755
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"767dab4d6dc3bc00efbd29774d65992a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1243361011,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243361011,
+    "wof:lastmodified":1537581199,
+    "wof:name":"Lar Jinah",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.19718,
+    33.48347,
+    63.19718,
+    33.48347
+],
+  "geometry": {"coordinates":[63.19718,33.48347],"type":"Point"}
+}

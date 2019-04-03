@@ -1,0 +1,84 @@
+{
+  "id": 1259970421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69059,33.23597,67.69059,33.23597",
+    "geom:latitude":33.23597,
+    "geom:longitude":67.69059,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Shash Yakah",
+    "gn:country_code":"AF",
+    "gn:dem":2915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125303,
+    "gn:latitude":33.23597,
+    "gn:longitude":67.69059,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash Yakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0634 \u064a\u0643\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0448\u044c\u044f\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0160a\u0161yaka",
+        "Shash\u2019yaka",
+        "Shashyakah",
+        "Shesh Yakah",
+        "Shesh Yaqeh",
+        "Sheshyekeh",
+        "Shash Yakah",
+        "\u0634\u0634 \u06cc\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125303
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"894d3a089d3738659050312ccd71d91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1259970421,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259970421,
+    "wof:lastmodified":1537580376,
+    "wof:name":"Shash Yakah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69059,
+    33.23597,
+    67.69059,
+    33.23597
+],
+  "geometry": {"coordinates":[67.69059,33.23597],"type":"Point"}
+}

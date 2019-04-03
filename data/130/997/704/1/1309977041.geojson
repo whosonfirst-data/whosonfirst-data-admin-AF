@@ -1,0 +1,77 @@
+{
+  "id": 1309977041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31844,35.04295,69.31844,35.04295",
+    "geom:latitude":35.04295,
+    "geom:longitude":69.31844,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"201.0",
+    "gn:asciiname":"Sorghal",
+    "gn:country_code":"AF",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423475,
+    "gn:latitude":35.04295,
+    "gn:longitude":69.31844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014drghal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sorgal\u2019"
+    ],
+    "name:und_x_variant":[
+        "S\u014d\u1e5fghal",
+        "S\u016brghal",
+        "S\u014drghal",
+        "\u0633\u0648\u0631\u063a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423475
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28b7e195edd56ac711675b53b9cab1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562235,
+            "locality_id":1309977041,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1309977041,
+    "wof:lastmodified":1537582576,
+    "wof:name":"Sorghal",
+    "wof:parent_id":1108562235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31844,
+    35.04295,
+    69.31844,
+    35.04295
+],
+  "geometry": {"coordinates":[69.31844,35.04295],"type":"Point"}
+}

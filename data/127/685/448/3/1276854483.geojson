@@ -1,0 +1,81 @@
+{
+  "id": 1276854483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65801,35.04656,69.65801,35.04656",
+    "geom:latitude":35.04656,
+    "geom:longitude":69.65801,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Zabi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429492,
+    "gn:latitude":35.04656,
+    "gn:longitude":69.65801,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zab\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0438\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Zabikheyl\u2019",
+        "Zabikh\u0113l",
+        "Zab\u012bkheyl",
+        "Zab\u012b Kh\u0113l",
+        "\u0632\u0628\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429492
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bedb081e6130451ac2bd2721f07aa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1276854483,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1276854483,
+    "wof:lastmodified":1537582676,
+    "wof:name":"Zabi Khel",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65801,
+    35.04656,
+    69.65801,
+    35.04656
+],
+  "geometry": {"coordinates":[69.65801,35.04656],"type":"Point"}
+}

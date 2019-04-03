@@ -1,0 +1,73 @@
+{
+  "id": 1259590579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92323,35.53397,68.92323,35.53397",
+    "geom:latitude":35.53397,
+    "geom:longitude":68.92323,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1306",
+    "gn:asciiname":"Sar-e Kamar",
+    "gn:country_code":"AF",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127170,
+    "gn:latitude":35.53397,
+    "gn:longitude":68.92323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Kamar",
+        "Sar-e Kamar",
+        "\u0633\u0631 \u06a9\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127170
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d58e74aa2ade6fb794a83b280ccc3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562165,
+            "locality_id":1259590579,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259590579,
+    "wof:lastmodified":1537580535,
+    "wof:name":"Sar-e Kamar",
+    "wof:parent_id":1108562165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92323,
+    35.53397000000001,
+    68.92323,
+    35.53397000000001
+],
+  "geometry": {"coordinates":[68.92323,35.53397000000001],"type":"Point"}
+}

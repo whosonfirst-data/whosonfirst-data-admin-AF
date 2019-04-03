@@ -1,0 +1,77 @@
+{
+  "id": 1226703589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05181,34.78112,70.05181,34.78112",
+    "geom:latitude":34.78112,
+    "geom:longitude":70.05181,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Gachiyan",
+    "gn:country_code":"AF",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474480,
+    "gn:latitude":34.78112,
+    "gn:longitude":70.05181,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gachiy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gach\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Ga\u010dy\u0101n",
+        "Gachy\u0101n",
+        "Gachiy\u0101n",
+        "\u06af\u0686\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474480
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"591090c5cb86a86fd940c85afa34cb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1226703589,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1226703589,
+    "wof:lastmodified":1537583808,
+    "wof:name":"Gachiyan",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05181,
+    34.78112,
+    70.05181,
+    34.78112
+],
+  "geometry": {"coordinates":[70.05181,34.78112],"type":"Point"}
+}

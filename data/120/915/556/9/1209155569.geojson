@@ -1,0 +1,74 @@
+{
+  "id": 1209155569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08803,34.94671,71.08803,34.94671",
+    "geom:latitude":34.94671,
+    "geom:longitude":71.08803,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1008.0",
+    "gn:asciiname":"Mashogal",
+    "gn:country_code":"AF",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476305,
+    "gn:latitude":34.94671,
+    "gn:longitude":71.08803,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101sh\u014dgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u0648\u06af\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Mashogal\u2019"
+    ],
+    "name:und_x_variant":[
+        "M\u0101\u0161ogal",
+        "Mashowgal",
+        "M\u0101sh\u014dgal",
+        "\u0645\u0627\u0634\u0648\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae7f43f8c1d2ff16acb2220236874814",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209155569
+        }
+    ],
+    "wof:id":1209155569,
+    "wof:lastmodified":1537583846,
+    "wof:name":"Mashogal",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08803,
+    34.94671,
+    71.08803,
+    34.94671
+],
+  "geometry": {"coordinates":[71.08803,34.94671],"type":"Point"}
+}

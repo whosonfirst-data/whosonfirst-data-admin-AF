@@ -1,0 +1,80 @@
+{
+  "id": 1193087211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.99602,36.98028,66.99602,36.98028",
+    "geom:latitude":36.98028,
+    "geom:longitude":66.99602,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1605",
+    "gn:asciiname":"Qarah Ghujlah",
+    "gn:country_code":"AF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129684,
+    "gn:latitude":36.98028,
+    "gn:longitude":66.99602,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Ghujlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u063a\u062c\u0644\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0443\u0434\u0436\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Qara Ghojla",
+        "Karagudzhla",
+        "Qareh Ghojlah",
+        "Qarah Ghujlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129684
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"641537585dbed0e03f9b5d61e6175a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561963,
+            "locality_id":1193087211,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1193087211,
+    "wof:lastmodified":1537580752,
+    "wof:name":"Qarah Ghujlah",
+    "wof:parent_id":1108561963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.99602,
+    36.98028,
+    66.99602,
+    36.98028
+],
+  "geometry": {"coordinates":[66.99602,36.98028],"type":"Point"}
+}

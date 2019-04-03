@@ -1,0 +1,76 @@
+{
+  "id": 1193085797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.92834,35.31334,65.92834,35.31334",
+    "geom:latitude":35.31334,
+    "geom:longitude":65.92834,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Dartaykhi",
+    "gn:country_code":"AF",
+    "gn:dem":2586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143942,
+    "gn:latitude":35.31334,
+    "gn:longitude":65.92834,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dartaykh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eart\u0113khi",
+        "Dart\u012bkhi",
+        "Dartaykh\u012b",
+        "\u062f\u0631\u062a\u06cc\u062e\u06cc",
+        "Dartakh\u012b",
+        "\u062f\u0631\u062a\u062e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143942
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9143565c057d4e6062568a50ce5945e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1193085797,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1193085797,
+    "wof:lastmodified":1537581961,
+    "wof:name":"Dartaykhi",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.92834,
+    35.31334000000001,
+    65.92834,
+    35.31334000000001
+],
+  "geometry": {"coordinates":[65.92834000000001,35.31334000000001],"type":"Point"}
+}

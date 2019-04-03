@@ -1,0 +1,78 @@
+{
+  "id": 1225892015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28288,34.44483,68.28288,34.44483",
+    "geom:latitude":34.44483,
+    "geom:longitude":68.28288,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Qol-e Afghan Gol",
+    "gn:country_code":"AF",
+    "gn:dem":3346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128893,
+    "gn:latitude":34.44483,
+    "gn:longitude":68.28288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl-e Afgh\u0101n G\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kulli-Afgankul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qulle Afgh\u0101ngul",
+        "Qowl-e Afgh\u0101n Gol",
+        "Qolleh-ye Afgh\u0101ngol",
+        "Q\u014dl-e Afgh\u0101n G\u014dl",
+        "\u0642\u0648\u0644 \u0627\u0641\u063a\u0627\u0646 \u06af\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128893
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6d56ef99286fbcb92e09539018f735d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1225892015,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1225892015,
+    "wof:lastmodified":1537580664,
+    "wof:name":"Qol-e Afghan Gol",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28288,
+    34.44483,
+    68.28288,
+    34.44483
+],
+  "geometry": {"coordinates":[68.28288000000001,34.44483],"type":"Point"}
+}

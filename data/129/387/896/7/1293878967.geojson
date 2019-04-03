@@ -1,0 +1,75 @@
+{
+  "id": 1293878967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58278,33.27472,68.58278,33.27472",
+    "geom:latitude":33.27472,
+    "geom:longitude":68.58278,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Loy-Shar",
+    "gn:country_code":"AF",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134535,
+    "gn:latitude":33.27472,
+    "gn:longitude":68.58278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Loy-Shar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loy \u0160\u0101r",
+        "Loy-Shar",
+        "Lowy S\u0332h\u0332\u0101r",
+        "L\u014dy S\u0332h\u0332\u0101r",
+        "\u0644\u0648\u06cc \u069a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134535
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"983d273426cdb37b6e4a09041c72dafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1293878967,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293878967,
+    "wof:lastmodified":1537581182,
+    "wof:name":"Loy-Shar",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58278,
+    33.27472,
+    68.58278,
+    33.27472
+],
+  "geometry": {"coordinates":[68.58278,33.27472],"type":"Point"}
+}

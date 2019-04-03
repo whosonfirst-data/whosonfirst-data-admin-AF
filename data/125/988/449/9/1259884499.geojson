@@ -1,0 +1,74 @@
+{
+  "id": 1259884499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09011,35.38062,68.09011,35.38062",
+    "geom:latitude":35.38062,
+    "geom:longitude":68.09011,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2803.0",
+    "gn:asciiname":"Sar-e Guli",
+    "gn:country_code":"AF",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428847,
+    "gn:latitude":35.38062,
+    "gn:longitude":68.09011,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e G\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fe G\u016bli",
+        "Sar-e Gowl\u012b",
+        "Sar-e G\u016bl\u012b",
+        "\u0633\u0631 \u06af\u0648\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428847
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c736181235fb03809744b368a9ab271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1259884499,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259884499,
+    "wof:lastmodified":1537582666,
+    "wof:name":"Sar-e Guli",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09011,
+    35.38062,
+    68.09011,
+    35.38062
+],
+  "geometry": {"coordinates":[68.09011,35.38062],"type":"Point"}
+}

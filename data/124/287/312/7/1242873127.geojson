@@ -1,0 +1,72 @@
+{
+  "id": 1242873127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96419,34.09979,66.96419,34.09979",
+    "geom:latitude":34.09979,
+    "geom:longitude":66.96419,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Sewjoy",
+    "gn:country_code":"AF",
+    "gn:dem":2986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277138,
+    "gn:latitude":34.09979,
+    "gn:longitude":66.96419,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0113wj\u014dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113wj\u014dy",
+        "\u0633\u06d0\u0648\u062c\u0648\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277138
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffe1a089200bf86e9a39a68299de9d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1242873127,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1242873127,
+    "wof:lastmodified":1537583939,
+    "wof:name":"Sewjoy",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96419,
+    34.09979000000001,
+    66.96419,
+    34.09979000000001
+],
+  "geometry": {"coordinates":[66.96419,34.09979000000001],"type":"Point"}
+}

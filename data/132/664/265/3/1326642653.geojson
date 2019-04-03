@@ -1,0 +1,73 @@
+{
+  "id": 1326642653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.54439,35.24502,63.54439,35.24502",
+    "geom:latitude":35.24502,
+    "geom:longitude":63.54439,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1906",
+    "gn:asciiname":"Sayyido Khan",
+    "gn:country_code":"AF",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127937,
+    "gn:latitude":35.24502,
+    "gn:longitude":63.54439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid\u014d Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sayyid\u014d Kh\u0101n",
+        "\u0633\u06cc\u062f\u0648 \u062e\u0627\u0646",
+        "Sai\u1e0fo Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127937
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ce78b9174fd03a644143b6b9b2307eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1326642653,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1326642653,
+    "wof:lastmodified":1537580590,
+    "wof:name":"Sayyido Khan",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.54439,
+    35.24502000000001,
+    63.54439,
+    35.24502000000001
+],
+  "geometry": {"coordinates":[63.54439,35.24502000000001],"type":"Point"}
+}

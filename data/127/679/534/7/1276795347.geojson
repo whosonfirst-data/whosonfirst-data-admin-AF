@@ -1,0 +1,74 @@
+{
+  "id": 1276795347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.88196,34.00337,65.88196,34.00337",
+    "geom:latitude":34.00337,
+    "geom:longitude":65.88196,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405",
+    "gn:asciiname":"Qolang",
+    "gn:country_code":"AF",
+    "gn:dem":2683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128898,
+    "gn:latitude":34.00337,
+    "gn:longitude":65.88196,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulang",
+        "Q\u014dlang",
+        "\u0642\u0648\u0644\u0646\u06af",
+        "Qowlang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128898
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95188c06151b5e66ec67c0ccbec1901d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1276795347,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276795347,
+    "wof:lastmodified":1537580664,
+    "wof:name":"Qolang",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.88195999999999,
+    34.00337,
+    65.88195999999999,
+    34.00337
+],
+  "geometry": {"coordinates":[65.88195999999999,34.00337],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259826545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26623,32.87338,69.26623,32.87338",
+    "geom:latitude":32.87338,
+    "geom:longitude":69.26623,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Shaykhan",
+    "gn:country_code":"AF",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434153,
+    "gn:latitude":32.87338,
+    "gn:longitude":69.26623,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160aykh\u0101n",
+        "Sheykhan",
+        "Sheykh\u0101n",
+        "Sh\u0113kh\u0101n",
+        "Shaykh\u0101n",
+        "\u0634\u06cc\u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434153
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dc55a60030663e9444f6ad21a7e89b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1259826545,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259826545,
+    "wof:lastmodified":1537582705,
+    "wof:name":"Shaykhan",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26623000000001,
+    32.87338,
+    69.26623000000001,
+    32.87338
+],
+  "geometry": {"coordinates":[69.26623000000001,32.87338],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276531421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34172,35.05271,69.34172,35.05271",
+    "geom:latitude":35.05271,
+    "geom:longitude":69.34172,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"207.0",
+    "gn:asciiname":"Rahman Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423464,
+    "gn:latitude":35.05271,
+    "gn:longitude":69.34172,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ra\u1e29m\u0101n Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u062d\u0645\u0627\u0646 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Rakhmankheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e5ea\u1e29m\u0101nkh\u0113l",
+        "Ra\u1e29m\u0101nkheyl",
+        "Ra\u1e29m\u0101n Kh\u0113l",
+        "\u0631\u062d\u0645\u0627\u0646 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423464
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6fd0050192049d57c8ebb0c8f078cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562075,
+            "locality_id":1276531421,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1276531421,
+    "wof:lastmodified":1537582574,
+    "wof:name":"Rahman Khel",
+    "wof:parent_id":1108562075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34172,
+    35.05271,
+    69.34172,
+    35.05271
+],
+  "geometry": {"coordinates":[69.34172,35.05271],"type":"Point"}
+}

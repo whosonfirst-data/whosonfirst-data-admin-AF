@@ -1,0 +1,78 @@
+{
+  "id": 1192968987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76464,33.16047,68.76464,33.16047",
+    "geom:latitude":33.16047,
+    "geom:longitude":68.76464,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Kormu Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435141,
+    "gn:latitude":33.16047,
+    "gn:longitude":68.76464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014drm\u016b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kormukheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kh\u014d\u1e5fmu Kh\u0113l",
+        "\u06a9\u0648\u0631\u0645\u0648 \u062e\u06d0\u0644",
+        "K\u014drm\u016b Kh\u0113l",
+        "Khowrmo Kheyl",
+        "K\u014drm\u014d Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435141
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"14d3cb14a016e237aa7a524148c28101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1192968987,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1192968987,
+    "wof:lastmodified":1537582756,
+    "wof:name":"Kormu Khel",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76464,
+    33.16047,
+    68.76464,
+    33.16047
+],
+  "geometry": {"coordinates":[68.76464,33.16047],"type":"Point"}
+}

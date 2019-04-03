@@ -1,0 +1,76 @@
+{
+  "id": 1343809041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73229,32.06168,66.73229,32.06168",
+    "geom:latitude":32.06168,
+    "geom:longitude":66.73229,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506",
+    "gn:asciiname":"Shokhak",
+    "gn:country_code":"AF",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123969,
+    "gn:latitude":32.06168,
+    "gn:longitude":66.73229,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dkhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062e\u0643"
+    ],
+    "name:und_x_variant":[
+        "S\u014dkhak",
+        "Sh\u014dkhak",
+        "Sowkhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123969
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ac4e5e1b64919dd1554190c05bc1f4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1343809041,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343809041,
+    "wof:lastmodified":1537580262,
+    "wof:name":"Shokhak",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73229,
+    32.06168,
+    66.73229,
+    32.06168
+],
+  "geometry": {"coordinates":[66.73229000000001,32.06168],"type":"Point"}
+}

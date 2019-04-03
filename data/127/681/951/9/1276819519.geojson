@@ -1,0 +1,75 @@
+{
+  "id": 1276819519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33182,31.7257,66.33182,31.7257",
+    "geom:latitude":31.7257,
+    "geom:longitude":66.33182,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436872,
+    "gn:latitude":31.7257,
+    "gn:longitude":66.33182,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darrah",
+        "Darra",
+        "\u062f\u0631\u0647",
+        "Darreh",
+        "Darah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436872
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5dfd480803558f5539bf17f3fa339e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1276819519,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276819519,
+    "wof:lastmodified":1537582821,
+    "wof:name":"Darah",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33182,
+    31.7257,
+    66.33182,
+    31.7257
+],
+  "geometry": {"coordinates":[66.33181999999999,31.7257],"type":"Point"}
+}

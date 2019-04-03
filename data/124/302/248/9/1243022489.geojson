@@ -1,0 +1,74 @@
+{
+  "id": 1243022489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09735,34.46975,68.09735,34.46975",
+    "geom:latitude":34.46975,
+    "geom:longitude":68.09735,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Qash",
+    "gn:country_code":"AF",
+    "gn:dem":3009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1459021,
+    "gn:latitude":34.46975,
+    "gn:longitude":68.09735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Razvaliny Kash",
+        "Q\u0101\u0161",
+        "Q\u0101sh",
+        "\u0642\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a744cf2dbad7cd9e87da3379f42df61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1243022489,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1243022489,
+    "wof:lastmodified":1537583285,
+    "wof:name":"Qash",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09735,
+    34.46975,
+    68.09735,
+    34.46975
+],
+  "geometry": {"coordinates":[68.09735000000001,34.46975],"type":"Point"}
+}

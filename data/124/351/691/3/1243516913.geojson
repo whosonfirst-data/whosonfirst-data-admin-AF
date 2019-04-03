@@ -1,0 +1,76 @@
+{
+  "id": 1243516913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.85333,31.18778,61.85333,31.18778",
+    "geom:latitude":31.18778,
+    "geom:longitude":61.85333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Muhammad Hosayn",
+    "gn:country_code":"AF",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436246,
+    "gn:latitude":31.18778,
+    "gn:longitude":61.85333,
+    "gn:modification_date":"2018-02-25",
+    "gn:name":"Muhammad Hosayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Mu\u1e29ammad\u00a0\u1e28osayn"
+    ],
+    "name:und_x_variant":[
+        "Mo\u1e96\u1e0f H\u0331osayn",
+        "Mo\u1e29ammad \u1e28oseyn",
+        "Mu\u1e29ammad\u00a0\u1e28osayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436246
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90c05273d909be94104a2b44b2d8ced8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1243516913,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1243516913,
+    "wof:lastmodified":1537582813,
+    "wof:name":"Muhammad Hosayn",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.85333000000001,
+    31.18778,
+    61.85333000000001,
+    31.18778
+],
+  "geometry": {"coordinates":[61.85333000000001,31.18778],"type":"Point"}
+}

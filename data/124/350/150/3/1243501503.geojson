@@ -1,0 +1,75 @@
+{
+  "id": 1243501503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43921,32.62172,68.43921,32.62172",
+    "geom:latitude":32.62172,
+    "geom:longitude":68.43921,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Shnah Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437379,
+    "gn:latitude":32.62172,
+    "gn:longitude":68.43921,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shnah K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sneh Kalay",
+        "Shnakalay",
+        "\u0634\u0646\u0647 \u06a9\u0644\u06cc",
+        "Shnah Kalay",
+        "Shnah K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437379
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7daba90a219132059deffff0a6465011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1243501503,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243501503,
+    "wof:lastmodified":1537582843,
+    "wof:name":"Shnah Kelay",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43921,
+    32.62172,
+    68.43921,
+    32.62172
+],
+  "geometry": {"coordinates":[68.43921,32.62172],"type":"Point"}
+}

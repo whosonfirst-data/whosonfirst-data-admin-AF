@@ -1,0 +1,68 @@
+{
+  "id": 1209566293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70155,32.62693,66.70155,32.62693",
+    "geom:latitude":32.62693,
+    "geom:longitude":66.70155,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Barlagho",
+    "gn:country_code":"AF",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146888,
+    "gn:latitude":32.62693,
+    "gn:longitude":66.70155,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barlagh\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barlagu",
+        "Barlagh\u014d",
+        "\u0628\u0631\u0644\u063a\u0648",
+        "Ba\u1e5flagho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146888
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5634facc44e645e2ed0c83ab368da02a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209566293
+        }
+    ],
+    "wof:id":1209566293,
+    "wof:lastmodified":1537582221,
+    "wof:name":"Barlagho",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70155,
+    32.62693,
+    66.70155,
+    32.62693
+],
+  "geometry": {"coordinates":[66.70155,32.62693],"type":"Point"}
+}

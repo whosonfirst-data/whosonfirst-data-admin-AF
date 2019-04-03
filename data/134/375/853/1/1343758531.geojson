@@ -1,0 +1,71 @@
+{
+  "id": 1343758531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36536,34.3681,66.36536,34.3681",
+    "geom:latitude":34.3681,
+    "geom:longitude":66.36536,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Surkhak-e Shiwnah",
+    "gn:country_code":"AF",
+    "gn:dem":3032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142819,
+    "gn:latitude":34.3681,
+    "gn:longitude":66.36536,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkhak-e Shiwnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631\u062e\u06a9 \u0634\u0648\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142819
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"980a0704059c81f8bae8244464ae457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1343758531,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343758531,
+    "wof:lastmodified":1537583939,
+    "wof:name":"Surkhak-e Shiwnah",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36536,
+    34.3681,
+    66.36536,
+    34.3681
+],
+  "geometry": {"coordinates":[66.36536,34.3681],"type":"Point"}
+}

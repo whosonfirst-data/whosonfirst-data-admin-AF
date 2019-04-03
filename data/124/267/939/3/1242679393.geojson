@@ -1,0 +1,73 @@
+{
+  "id": 1242679393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80889,35.54792,68.80889,35.54792",
+    "geom:latitude":35.54792,
+    "geom:longitude":68.80889,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1304.0",
+    "gn:asciiname":"Awaran",
+    "gn:country_code":"AF",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148065,
+    "gn:latitude":35.54792,
+    "gn:longitude":68.80889,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100war\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avaran",
+        "\u0100war\u0101n",
+        "\u0622\u0648\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148065
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4503581c5043284d2147bf81562b7ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1242679393,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1242679393,
+    "wof:lastmodified":1537582314,
+    "wof:name":"Awaran",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80889,
+    35.54792,
+    68.80889,
+    35.54792
+],
+  "geometry": {"coordinates":[68.80889000000001,35.54792],"type":"Point"}
+}

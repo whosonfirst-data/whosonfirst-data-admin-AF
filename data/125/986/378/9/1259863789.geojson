@@ -1,0 +1,75 @@
+{
+  "id": 1259863789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.31061,33.48229,64.31061,33.48229",
+    "geom:latitude":33.48229,
+    "geom:longitude":64.31061,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Ab-e Baydak",
+    "gn:country_code":"AF",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149664,
+    "gn:latitude":33.48229,
+    "gn:longitude":64.31061,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b-e Baydak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100bb\u0113\u1e0fak",
+        "Abbedak",
+        "\u0100b-e Baydak",
+        "\u0622\u0628 \u0628\u06cc\u062f\u06a9",
+        "\u0100bb\u012bdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149664
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8ddeffe3aae67fe1fb767c74243ce6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1259863789,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259863789,
+    "wof:lastmodified":1537582437,
+    "wof:name":"Ab-e Baydak",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.31061,
+    33.48229,
+    64.31061,
+    33.48229
+],
+  "geometry": {"coordinates":[64.31061,33.48229],"type":"Point"}
+}

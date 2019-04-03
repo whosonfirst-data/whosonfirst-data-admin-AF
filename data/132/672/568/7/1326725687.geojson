@@ -1,0 +1,74 @@
+{
+  "id": 1326725687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44473,33.68047,67.44473,33.68047",
+    "geom:latitude":33.68047,
+    "geom:longitude":67.44473,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Jaybginah",
+    "gn:country_code":"AF",
+    "gn:dem":2932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442886,
+    "gn:latitude":33.68047,
+    "gn:longitude":67.44473,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jaybginah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0113bgina",
+        "J\u012bbg\u012bnah",
+        "Jaybginah",
+        "\u062c\u06cc\u0628\u06af\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442886
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ea392129fcf8c8e8a1667ac150aebd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1326725687,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326725687,
+    "wof:lastmodified":1537582940,
+    "wof:name":"Jaybginah",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44473,
+    33.68047,
+    67.44473,
+    33.68047
+],
+  "geometry": {"coordinates":[67.44473000000001,33.68047],"type":"Point"}
+}

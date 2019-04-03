@@ -1,0 +1,74 @@
+{
+  "id": 1243156431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.70347,33.96891,63.70347,33.96891",
+    "geom:latitude":33.96891,
+    "geom:longitude":63.70347,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Qal'ah-ye Tulak",
+    "gn:country_code":"AF",
+    "gn:dem":2245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129780,
+    "gn:latitude":33.96891,
+    "gn:longitude":63.70347,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye T\u016blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-T\u016blak",
+        "Qal\u2018eh-ye T\u016blak",
+        "Qal\u2018ah-ye T\u016blak",
+        "\u0642\u0644\u0639\u0647 \u062a\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129780
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb82edf93a8f1525aee26050abcafc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1243156431,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243156431,
+    "wof:lastmodified":1537580762,
+    "wof:name":"Qal'ah-ye Tulak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.70347,
+    33.96891,
+    63.70347,
+    33.96891
+],
+  "geometry": {"coordinates":[63.70347,33.96891],"type":"Point"}
+}

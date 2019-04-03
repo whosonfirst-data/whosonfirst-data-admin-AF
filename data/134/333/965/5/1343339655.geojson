@@ -1,0 +1,75 @@
+{
+  "id": 1343339655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.37073,34.95184,62.37073,34.95184",
+    "geom:latitude":34.95184,
+    "geom:longitude":62.37073,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Kalbi",
+    "gn:country_code":"AF",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138543,
+    "gn:latitude":34.95184,
+    "gn:longitude":62.37073,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kal\u2019bi"
+    ],
+    "name:und_x_variant":[
+        "Kalb\u012b",
+        "\u06a9\u0644\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138543
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"44f2fe76375368105b36dcce896236a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1343339655,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343339655,
+    "wof:lastmodified":1537581507,
+    "wof:name":"Kalbi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.37073,
+    34.95184,
+    62.37073,
+    34.95184
+],
+  "geometry": {"coordinates":[62.37073,34.95184],"type":"Point"}
+}

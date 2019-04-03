@@ -1,0 +1,75 @@
+{
+  "id": 1344090261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.73556,32.58866,65.73556,32.58866",
+    "geom:latitude":32.58866,
+    "geom:longitude":65.73556,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Lakulay",
+    "gn:country_code":"AF",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134959,
+    "gn:latitude":32.58866,
+    "gn:longitude":65.73556,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101k\u016blay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0643\u0648\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u0101k\u016blay",
+        "\u0644\u0627\u06a9\u0648\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134959
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf3de669abee2f1a1243356fda1df1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1344090261,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1344090261,
+    "wof:lastmodified":1537581214,
+    "wof:name":"Lakulay",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.73555999999999,
+    32.58866,
+    65.73555999999999,
+    32.58866
+],
+  "geometry": {"coordinates":[65.73555999999999,32.58866],"type":"Point"}
+}

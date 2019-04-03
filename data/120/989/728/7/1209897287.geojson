@@ -1,0 +1,74 @@
+{
+  "id": 1209897287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.18064,34.30099,62.18064,34.30099",
+    "geom:latitude":34.30099,
+    "geom:longitude":62.18064,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Dargharah",
+    "gn:country_code":"AF",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144068,
+    "gn:latitude":34.30099,
+    "gn:longitude":62.18064,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dargharah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dargara",
+        "\u1e0ea\u1e5fgha\u1e5fa",
+        "Dargharah",
+        "\u062f\u0631\u063a\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144068
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a19bbb35c0b8f19de5e535bae16cb917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1209897287,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209897287,
+    "wof:lastmodified":1537581972,
+    "wof:name":"Dargharah",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.18064,
+    34.30099000000001,
+    62.18064,
+    34.30099000000001
+],
+  "geometry": {"coordinates":[62.18064,34.30099000000001],"type":"Point"}
+}

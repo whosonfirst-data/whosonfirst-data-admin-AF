@@ -1,0 +1,72 @@
+{
+  "id": 1243468091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4914,37.51569,71.4914,37.51569",
+    "geom:latitude":37.51569,
+    "geom:longitude":71.4914,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Sawan",
+    "gn:country_code":"AF",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101651,
+    "gn:latitude":37.51569,
+    "gn:longitude":71.4914,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0101w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101w\u0101n",
+        "\u0633\u0627\u0648\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101651
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f7ecea1700b5c7daa6a66b0caf2f0851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1243468091,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243468091,
+    "wof:lastmodified":1537583915,
+    "wof:name":"Sawan",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4914,
+    37.51569,
+    71.4914,
+    37.51569
+],
+  "geometry": {"coordinates":[71.4914,37.51569],"type":"Point"}
+}

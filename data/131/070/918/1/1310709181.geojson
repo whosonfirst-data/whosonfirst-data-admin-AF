@@ -1,0 +1,72 @@
+{
+  "id": 1310709181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.57415,36.2479,69.57415,36.2479",
+    "geom:latitude":36.2479,
+    "geom:longitude":69.57415,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1314.0",
+    "gn:asciiname":"Yakhchi",
+    "gn:country_code":"AF",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304705,
+    "gn:latitude":36.2479,
+    "gn:longitude":69.57415,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakhch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakhch\u012b",
+        "\u06cc\u062e\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304705
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"676f3b336c3a9a1472bbe9b076479120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562059,
+            "locality_id":1310709181,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310709181,
+    "wof:lastmodified":1537583941,
+    "wof:name":"Yakhchi",
+    "wof:parent_id":1108562059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.57415,
+    36.2479,
+    69.57415,
+    36.2479
+],
+  "geometry": {"coordinates":[69.57415,36.2479],"type":"Point"}
+}

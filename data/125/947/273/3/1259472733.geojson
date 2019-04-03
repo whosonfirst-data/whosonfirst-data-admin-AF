@@ -1,0 +1,71 @@
+{
+  "id": 1259472733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.61807,34.95907,65.61807,34.95907",
+    "geom:latitude":34.95907,
+    "geom:longitude":65.61807,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Waz",
+    "gn:country_code":"AF",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475799,
+    "gn:latitude":34.95907,
+    "gn:longitude":65.61807,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Waz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475799
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca6044d91649319db8ed62b8786fda50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1259472733,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259472733,
+    "wof:lastmodified":1537583839,
+    "wof:name":"Waz",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.61806999999999,
+    34.95907,
+    65.61806999999999,
+    34.95907
+],
+  "geometry": {"coordinates":[65.61806999999999,34.95907],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242961261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.21076,34.78471,62.21076,34.78471",
+    "geom:latitude":34.78471,
+    "geom:longitude":62.21076,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Kashkal",
+    "gn:country_code":"AF",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137755,
+    "gn:latitude":34.78471,
+    "gn:longitude":62.21076,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashkal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kashkal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ka\u0161kal",
+        "Kashkal",
+        "\u06a9\u0634\u06a9\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137755
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49be3974c7267dc1b326cb51a92de0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1242961261,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242961261,
+    "wof:lastmodified":1537581440,
+    "wof:name":"Kashkal",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.21076,
+    34.78471,
+    62.21076,
+    34.78471
+],
+  "geometry": {"coordinates":[62.21076,34.78471],"type":"Point"}
+}

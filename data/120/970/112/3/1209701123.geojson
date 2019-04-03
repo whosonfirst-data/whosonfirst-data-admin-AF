@@ -1,0 +1,74 @@
+{
+  "id": 1209701123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47738,33.14129,67.47738,33.14129",
+    "geom:latitude":33.14129,
+    "geom:longitude":67.47738,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Bayqobi",
+    "gn:country_code":"AF",
+    "gn:dem":2359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450616,
+    "gn:latitude":33.14129,
+    "gn:longitude":67.47738,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayq\u014db\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113q\u014dbi",
+        "B\u0113qowbi",
+        "Bayq\u014db\u012b",
+        "\u0628\u06cc\u0642\u0648\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6778806645fb69ffef11bddca4d7da24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1209701123,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209701123,
+    "wof:lastmodified":1537583055,
+    "wof:name":"Bayqobi",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47738000000001,
+    33.14129000000001,
+    67.47738000000001,
+    33.14129000000001
+],
+  "geometry": {"coordinates":[67.47738000000001,33.14129000000001],"type":"Point"}
+}

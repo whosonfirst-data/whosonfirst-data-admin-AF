@@ -1,0 +1,73 @@
+{
+  "id": 1209913123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07943,34.15295,67.07943,34.15295",
+    "geom:latitude":34.15295,
+    "geom:longitude":67.07943,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Sar-e Bum",
+    "gn:country_code":"AF",
+    "gn:dem":2670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127229,
+    "gn:latitude":34.15295,
+    "gn:longitude":67.07943,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e B\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Bum",
+        "Sar-e B\u016bm",
+        "\u0633\u0631 \u0628\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"10e4161d5780481240ad8ea48e021292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1209913123,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1209913123,
+    "wof:lastmodified":1537580541,
+    "wof:name":"Sar-e Bum",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07943,
+    34.15295,
+    67.07943,
+    34.15295
+],
+  "geometry": {"coordinates":[67.07943,34.15295],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259768635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62153,32.78025,67.62153,32.78025",
+    "geom:latitude":32.78025,
+    "geom:longitude":67.62153,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Shinkay",
+    "gn:country_code":"AF",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125118,
+    "gn:latitude":32.78025,
+    "gn:longitude":67.62153,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shinkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160inkay",
+        "Sh\u012bnkai",
+        "S\u0304inkae",
+        "Shenkay",
+        "Sh\u012bnkay",
+        "\u0634\u06cc\u0646\u06a9\u06cc",
+        "Shinkay",
+        "\u0634\u0646\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125118
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7707a7f3b8da3dbf01a0162beb199694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1259768635,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259768635,
+    "wof:lastmodified":1537580358,
+    "wof:name":"Shinkay",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62153,
+    32.78025,
+    67.62153,
+    32.78025
+],
+  "geometry": {"coordinates":[67.62153000000001,32.78025],"type":"Point"}
+}

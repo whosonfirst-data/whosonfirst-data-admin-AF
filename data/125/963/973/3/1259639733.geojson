@@ -1,0 +1,74 @@
+{
+  "id": 1259639733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63989,31.21928,66.63989,31.21928",
+    "geom:latitude":31.21928,
+    "geom:longitude":66.63989,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Indzergai",
+    "gn:country_code":"AF",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465752,
+    "gn:latitude":31.21928,
+    "gn:longitude":66.63989,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Indz\u00earga\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indzhirgay",
+        "Indz\u00earga\u012b",
+        "Enjergay",
+        "\u0627\u0646\u0681\u0631\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465752
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a7b7f75d47dc1b05c2fb042d728d303f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1259639733,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259639733,
+    "wof:lastmodified":1537583407,
+    "wof:name":"Indzergai",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63989000000001,
+    31.21928,
+    66.63989000000001,
+    31.21928
+],
+  "geometry": {"coordinates":[66.63989000000001,31.21928],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225998727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52282,35.90872,66.52282,35.90872",
+    "geom:latitude":35.90872,
+    "geom:longitude":66.52282,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3107",
+    "gn:asciiname":"Karan",
+    "gn:country_code":"AF",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138208,
+    "gn:latitude":35.90872,
+    "gn:longitude":66.52282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u0101n",
+        "\u06a9\u0631\u0627\u0646",
+        "Ka\u1e5f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138208
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c3fd83757a499bae01c851e3c40f04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562043,
+            "locality_id":1225998727,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225998727,
+    "wof:lastmodified":1537581487,
+    "wof:name":"Karan",
+    "wof:parent_id":1108562043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52282,
+    35.90872,
+    66.52282,
+    35.90872
+],
+  "geometry": {"coordinates":[66.52282,35.90872],"type":"Point"}
+}

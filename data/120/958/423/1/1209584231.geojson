@@ -1,0 +1,71 @@
+{
+  "id": 1209584231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45354,31.52517,65.45354,31.52517",
+    "geom:latitude":31.52517,
+    "geom:longitude":65.45354,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2408.0",
+    "gn:asciiname":"Haji Habibullah",
+    "gn:country_code":"AF",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466989,
+    "gn:latitude":31.52517,
+    "gn:longitude":65.45354,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b \u1e28ab\u012bbull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u062d\u0628\u064a\u0628 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khadzhi-Khabibulla",
+        "\u1e28\u0101j\u012b \u1e28ab\u012bbull\u0101h",
+        "\u062d\u0627\u062c\u06cc \u062d\u0628\u06cc\u0628 \u0627\u0644\u0644\u0640\u0647",
+        "\u1e28\u0101jj\u012b \u1e28ab\u012bboll\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466989
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"33425ef53881d567873a207133c5c5dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209584231
+        }
+    ],
+    "wof:id":1209584231,
+    "wof:lastmodified":1537583449,
+    "wof:name":"Haji Habibullah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45354,
+    31.52517000000001,
+    65.45354,
+    31.52517000000001
+],
+  "geometry": {"coordinates":[65.45354,31.52517000000001],"type":"Point"}
+}

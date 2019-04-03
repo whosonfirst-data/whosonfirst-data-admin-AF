@@ -1,0 +1,74 @@
+{
+  "id": 1226172823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74023,33.86834,66.74023,33.86834",
+    "geom:latitude":33.86834,
+    "geom:longitude":66.74023,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Sayyid Ahmad",
+    "gn:country_code":"AF",
+    "gn:dem":2422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437783,
+    "gn:latitude":33.86834,
+    "gn:longitude":66.74023,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Say\u1e0fahma\u1e0f",
+        "Sayyid A\u1e29mad",
+        "Seyyed A\u1e29mad",
+        "\u0633\u064a\u062f \u0627\u062d\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437783
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"252edfdb8e7eb994c3eaa0403d06a620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1226172823,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1226172823,
+    "wof:lastmodified":1537582859,
+    "wof:name":"Sayyid Ahmad",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74023000000001,
+    33.86834,
+    66.74023000000001,
+    33.86834
+],
+  "geometry": {"coordinates":[66.74023000000001,33.86834],"type":"Point"}
+}

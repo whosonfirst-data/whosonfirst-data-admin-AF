@@ -1,0 +1,74 @@
+{
+  "id": 1260047029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.84086,36.84658,69.84086,36.84658",
+    "geom:latitude":36.84658,
+    "geom:longitude":69.84086,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1207.0",
+    "gn:asciiname":"Jurmi",
+    "gn:country_code":"AF",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467205,
+    "gn:latitude":36.84658,
+    "gn:longitude":69.84086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jurm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ju\u1e5fmi (3)",
+        "Jorm\u012b (3)",
+        "Jurm\u012b",
+        "\u062c\u0631\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467205
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aa1b1e259b8d2a765ddd5c8ae584ba9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562123,
+            "locality_id":1260047029,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1260047029,
+    "wof:lastmodified":1537583456,
+    "wof:name":"Jurmi",
+    "wof:parent_id":1108562123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.84085999999999,
+    36.84658,
+    69.84085999999999,
+    36.84658
+],
+  "geometry": {"coordinates":[69.84085999999999,36.84658],"type":"Point"}
+}

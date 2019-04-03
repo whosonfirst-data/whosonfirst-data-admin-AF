@@ -1,0 +1,73 @@
+{
+  "id": 1344247707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48974,33.34061,67.48974,33.34061",
+    "geom:latitude":33.34061,
+    "geom:longitude":67.48974,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Dahan-e Abay",
+    "gn:country_code":"AF",
+    "gn:dem":2721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144704,
+    "gn:latitude":33.34061,
+    "gn:longitude":67.48974,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e \u0100bay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dah\u0101n-e \u0100bay",
+        "\u062f\u0647\u0627\u0646 \u0622\u0628\u06cc",
+        "Dahan-e \u0100bay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144704
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"955a85f083d020157b3326ab8695a567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1344247707,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1344247707,
+    "wof:lastmodified":1537582035,
+    "wof:name":"Dahan-e Abay",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48974,
+    33.34061,
+    67.48974,
+    33.34061
+],
+  "geometry": {"coordinates":[67.48974,33.34061],"type":"Point"}
+}

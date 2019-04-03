@@ -1,0 +1,71 @@
+{
+  "id": 1260031515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05917,33.27889,70.05917,33.27889",
+    "geom:latitude":33.27889,
+    "geom:longitude":70.05917,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Nandir",
+    "gn:country_code":"AF",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452712,
+    "gn:latitude":33.27889,
+    "gn:longitude":70.05917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nandir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0646\u062f\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452712
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"05917c578d9d9716ef174a90b84bf446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1260031515,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1260031515,
+    "wof:lastmodified":1537583099,
+    "wof:name":"Nandir",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05917,
+    33.27889,
+    70.05917,
+    33.27889
+],
+  "geometry": {"coordinates":[70.05916999999999,33.27889],"type":"Point"}
+}

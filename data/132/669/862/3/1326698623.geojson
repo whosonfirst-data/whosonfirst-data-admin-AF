@@ -1,0 +1,74 @@
+{
+  "id": 1326698623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40582,31.55276,66.40582,31.55276",
+    "geom:latitude":31.55276,
+    "geom:longitude":66.40582,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Shelagay",
+    "gn:country_code":"AF",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436822,
+    "gn:latitude":31.55276,
+    "gn:longitude":66.40582,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113lagay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113lagay",
+        "Shelagay",
+        "Sh\u0113lagay",
+        "\u0634\u06d0\u0644\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436822
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d33035132f3953d197ef9b71b6dae921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1326698623,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326698623,
+    "wof:lastmodified":1537582818,
+    "wof:name":"Shelagay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40581999999999,
+    31.55276,
+    66.40581999999999,
+    31.55276
+],
+  "geometry": {"coordinates":[66.40581999999999,31.55276],"type":"Point"}
+}

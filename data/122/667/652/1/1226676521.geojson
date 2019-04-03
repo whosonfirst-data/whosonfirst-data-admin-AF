@@ -1,0 +1,78 @@
+{
+  "id": 1226676521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33719,35.1814,69.33719,35.1814",
+    "geom:latitude":35.1814,
+    "geom:longitude":69.33719,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3306.0",
+    "gn:asciiname":"Qal'ah-ye Afghan",
+    "gn:country_code":"AF",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423251,
+    "gn:latitude":35.1814,
+    "gn:longitude":69.33719,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Afgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0627\u0641\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kalaafgan",
+        "Qal\u2018a Afgh\u0101n",
+        "Qal\u2018eh-ye Afgh\u0101n",
+        "Qal\u2018ah-ye Afgh\u0101n",
+        "\u0642\u0644\u0639\u06c0 \u0627\u0641\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423251
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1463bdb2702e81ee33b3a3ad1b3eb626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562555,
+            "locality_id":1226676521,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1226676521,
+    "wof:lastmodified":1537582554,
+    "wof:name":"Qal'ah-ye Afghan",
+    "wof:parent_id":1108562555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33719,
+    35.1814,
+    69.33719,
+    35.1814
+],
+  "geometry": {"coordinates":[69.33719000000001,35.1814],"type":"Point"}
+}

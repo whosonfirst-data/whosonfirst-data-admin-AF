@@ -1,0 +1,72 @@
+{
+  "id": 1327060317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48086,36.76952,66.48086,36.76952",
+    "geom:latitude":36.76952,
+    "geom:longitude":66.48086,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1708.0",
+    "gn:asciiname":"Gurjak",
+    "gn:country_code":"AF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422284,
+    "gn:latitude":36.76952,
+    "gn:longitude":66.48086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gurjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorjak",
+        "\u06af\u0631\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422284
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7cf5949bd3ea170a664ff3e5f701f524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1327060317,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1327060317,
+    "wof:lastmodified":1537582541,
+    "wof:name":"Gurjak",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48085999999999,
+    36.76952,
+    66.48085999999999,
+    36.76952
+],
+  "geometry": {"coordinates":[66.48085999999999,36.76952],"type":"Point"}
+}

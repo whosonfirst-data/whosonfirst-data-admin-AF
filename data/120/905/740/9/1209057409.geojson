@@ -1,0 +1,68 @@
+{
+  "id": 1209057409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86499,32.61681,66.86499,32.61681",
+    "geom:latitude":32.61681,
+    "geom:longitude":66.86499,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Mamakhto",
+    "gn:country_code":"AF",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134072,
+    "gn:latitude":32.61681,
+    "gn:longitude":66.86499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mamakht\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamakhta",
+        "Mamakht\u014d",
+        "\u0645\u0645\u062e\u062a\u0648",
+        "Mamakhto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134072
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9cecf6341835e6c5094ec83ddf6d1541",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209057409
+        }
+    ],
+    "wof:id":1209057409,
+    "wof:lastmodified":1537581143,
+    "wof:name":"Mamakhto",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86499,
+    32.61681,
+    66.86499,
+    32.61681
+],
+  "geometry": {"coordinates":[66.86499000000001,32.61681],"type":"Point"}
+}

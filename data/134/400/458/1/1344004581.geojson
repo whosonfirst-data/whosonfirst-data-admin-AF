@@ -1,0 +1,77 @@
+{
+  "id": 1344004581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07,36.85,67.07,36.85",
+    "geom:latitude":36.85,
+    "geom:longitude":67.07,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Shahrak Nau",
+    "gn:country_code":"AF",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124895,
+    "gn:latitude":36.85,
+    "gn:longitude":67.07,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahrak Nau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "S\u0304\u014d\u1e5fak",
+        "Showrak",
+        "Shorak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        421187945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124895,
+        "wk:page":"Showrak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"042b4f46beeefc6cdd542812d5b5cb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187945,
+            "locality_id":1344004581,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1344004581,
+    "wof:lastmodified":1537580336,
+    "wof:name":"Shahrak Nau",
+    "wof:parent_id":421187945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07,
+    36.85,
+    67.07,
+    36.85
+],
+  "geometry": {"coordinates":[67.06999999999999,36.85],"type":"Point"}
+}

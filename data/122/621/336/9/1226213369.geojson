@@ -1,0 +1,77 @@
+{
+  "id": 1226213369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66399,34.82001,69.66399,34.82001",
+    "geom:latitude":34.82001,
+    "geom:longitude":69.66399,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"205",
+    "gn:asciiname":"Seh Padar",
+    "gn:country_code":"AF",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126485,
+    "gn:latitude":34.82001,
+    "gn:longitude":69.66399,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Seh Padar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u067e\u0627\u062f\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sikhpadar",
+        "Seh P\u0101d\u0101r",
+        "Seh Padar",
+        "\u0633\u0647 \u067e\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126485
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e9a5e1b14e8cadaaba59009e29b2454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562531,
+            "locality_id":1226213369,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1226213369,
+    "wof:lastmodified":1537580481,
+    "wof:name":"Seh Padar",
+    "wof:parent_id":1108562531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66399,
+    34.82001,
+    69.66399,
+    34.82001
+],
+  "geometry": {"coordinates":[69.66399,34.82001],"type":"Point"}
+}

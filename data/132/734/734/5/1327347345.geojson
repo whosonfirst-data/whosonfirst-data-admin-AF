@@ -1,0 +1,74 @@
+{
+  "id": 1327347345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34581,36.55928,71.34581,36.55928",
+    "geom:latitude":36.55928,
+    "geom:longitude":71.34581,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1105.0",
+    "gn:asciiname":"Dag Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1468616,
+    "gn:latitude":36.55928,
+    "gn:longitude":71.34581,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101g Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e0e\u0101g Kh\u0101na",
+        "D\u0101g Kh\u0101neh",
+        "D\u0101g Kh\u0101nah",
+        "\u062f\u0627\u06af \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78ed94bdca47d64c09dbe1efadd0e7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562611,
+            "locality_id":1327347345,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327347345,
+    "wof:lastmodified":1537583565,
+    "wof:name":"Dag Khanah",
+    "wof:parent_id":1108562611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34581,
+    36.55928,
+    71.34581,
+    36.55928
+],
+  "geometry": {"coordinates":[71.34581,36.55928],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326786595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.66796,31.48863,66.66796,31.48863",
+    "geom:latitude":31.48863,
+    "geom:longitude":66.66796,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Pakilah",
+    "gn:country_code":"AF",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131267,
+    "gn:latitude":31.48863,
+    "gn:longitude":66.66796,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101kilah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101kela",
+        "Pakila",
+        "P\u0101k\u00ealah",
+        "P\u0101kelah",
+        "P\u0101kilah",
+        "\u067e\u0627\u06a9\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131267
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51c72d417caeb2847709b33e878bbf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1326786595,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326786595,
+    "wof:lastmodified":1537580906,
+    "wof:name":"Pakilah",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.66796,
+    31.48863,
+    66.66796,
+    31.48863
+],
+  "geometry": {"coordinates":[66.66795999999999,31.48863],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309991347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48623,33.47362,67.48623,33.47362",
+    "geom:latitude":33.47362,
+    "geom:longitude":67.48623,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Qorghachi",
+    "gn:country_code":"AF",
+    "gn:dem":3010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450365,
+    "gn:latitude":33.47362,
+    "gn:longitude":67.48623,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014drghach\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u014d\u1e5fghaci",
+        "Qow\u1e5fghachi",
+        "Q\u014drghach\u012b",
+        "\u0642\u0648\u0631\u063a\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450365
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fcfd2638bf1ee1dfd39bb2acfe0cf810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1309991347,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309991347,
+    "wof:lastmodified":1537583043,
+    "wof:name":"Qorghachi",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48623,
+    33.47362,
+    67.48623,
+    33.47362
+],
+  "geometry": {"coordinates":[67.48623000000001,33.47362],"type":"Point"}
+}

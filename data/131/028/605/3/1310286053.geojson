@@ -1,0 +1,73 @@
+{
+  "id": 1310286053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.36458,34.27351,62.36458,34.27351",
+    "geom:latitude":34.27351,
+    "geom:longitude":62.36458,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Nangabad",
+    "gn:country_code":"AF",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472230,
+    "gn:latitude":34.27351,
+    "gn:longitude":62.36458,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nang\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u012b\u0101b\u0101d",
+        "Nang\u0101b\u0101d",
+        "\u0646\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472230
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d47cf7f4c5d60907fc3c9acad37ac39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562079,
+            "locality_id":1310286053,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310286053,
+    "wof:lastmodified":1537583681,
+    "wof:name":"Nangabad",
+    "wof:parent_id":1108562079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.36458,
+    34.27350999999999,
+    62.36458,
+    34.27350999999999
+],
+  "geometry": {"coordinates":[62.36458,34.27350999999999],"type":"Point"}
+}

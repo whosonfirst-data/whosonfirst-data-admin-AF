@@ -1,0 +1,75 @@
+{
+  "id": 1243484191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92354,33.90377,66.92354,33.90377",
+    "geom:latitude":33.90377,
+    "geom:longitude":66.92354,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Bala-ye Sufrah",
+    "gn:country_code":"AF",
+    "gn:dem":2667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437934,
+    "gn:latitude":33.90377,
+    "gn:longitude":66.92354,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101l\u0101-ye Sufrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101l\u0101-i-Suf\u1e5fa",
+        "B\u0101l\u0101-ye S\u014dfrah",
+        "B\u0101l\u0101-ye Sofreh",
+        "B\u0101l\u0101-ye Sufrah",
+        "\u0628\u0627\u0644\u0627 \u0633\u0641\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437934
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0dda19d7e4d68be3348771fef9376fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1243484191,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1243484191,
+    "wof:lastmodified":1537582869,
+    "wof:name":"Bala-ye Sufrah",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92354,
+    33.90377,
+    66.92354,
+    33.90377
+],
+  "geometry": {"coordinates":[66.92354,33.90377],"type":"Point"}
+}

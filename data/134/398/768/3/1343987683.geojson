@@ -1,0 +1,73 @@
+{
+  "id": 1343987683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80582,36.48479,65.80582,36.48479",
+    "geom:latitude":36.48479,
+    "geom:longitude":65.80582,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Pakhahzai",
+    "gn:country_code":"AF",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131264,
+    "gn:latitude":36.48479,
+    "gn:longitude":65.80582,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pakhahza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakhahza\u012b",
+        "\u067e\u062e\u0647 \u0632\u06cc",
+        "Pakhazai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131264
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"227d9466fe841307fd624aa9437bc524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1343987683,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1343987683,
+    "wof:lastmodified":1537580906,
+    "wof:name":"Pakhahzai",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80582,
+    36.48479,
+    65.80582,
+    36.48479
+],
+  "geometry": {"coordinates":[65.80582,36.48479],"type":"Point"}
+}

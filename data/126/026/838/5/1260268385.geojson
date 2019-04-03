@@ -1,0 +1,73 @@
+{
+  "id": 1260268385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.38883,33.00249,67.38883,33.00249",
+    "geom:latitude":33.00249,
+    "geom:longitude":67.38883,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Gumqol",
+    "gn:country_code":"AF",
+    "gn:dem":2517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450719,
+    "gn:latitude":33.00249,
+    "gn:longitude":67.38883,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gumq\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumq\u014dl",
+        "Gumqowl",
+        "\u06af\u0645\u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450719
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"653596fe9180213762e160fd72ed790d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1260268385,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260268385,
+    "wof:lastmodified":1537583061,
+    "wof:name":"Gumqol",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.38883,
+    33.00249,
+    67.38883,
+    33.00249
+],
+  "geometry": {"coordinates":[67.38883,33.00249],"type":"Point"}
+}

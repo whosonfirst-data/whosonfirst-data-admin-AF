@@ -1,0 +1,73 @@
+{
+  "id": 1242645785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04628,32.04219,65.04628,32.04219",
+    "geom:latitude":32.04219,
+    "geom:longitude":65.04628,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2406",
+    "gn:asciiname":"Dzhanabad",
+    "gn:country_code":"AF",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139616,
+    "gn:latitude":32.04219,
+    "gn:longitude":65.04628,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dzhanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101n\u0101b\u0101d",
+        "\u062c\u0627\u0646 \u0622\u0628\u0627\u062f",
+        "J\u0101n\u0101b\u0101\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2be3589fab2d2ee88486f39817f7e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562029,
+            "locality_id":1242645785,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242645785,
+    "wof:lastmodified":1537581592,
+    "wof:name":"Dzhanabad",
+    "wof:parent_id":1108562029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04628000000001,
+    32.04219000000001,
+    65.04628000000001,
+    32.04219000000001
+],
+  "geometry": {"coordinates":[65.04628000000001,32.04219000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209105097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.83574,34.7378,66.83574,34.7378",
+    "geom:latitude":34.7378,
+    "geom:longitude":66.83574,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Deh-e Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":2492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143399,
+    "gn:latitude":34.7378,
+    "gn:longitude":66.83574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh Sorkh",
+        "Deh Surkh",
+        "\u1e0eehe Su\u1e5fkh",
+        "Dekhi-Surkh",
+        "Deh-e Surkh",
+        "Deh-e Sorkh",
+        "\u062f\u0647 \u0633\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143399,
+        "wk:page":"Deh_Sorkh"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aa8c4be71f4b14aefb3afb0c2ffc771c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209105097
+        }
+    ],
+    "wof:id":1209105097,
+    "wof:lastmodified":1537581912,
+    "wof:name":"Deh-e Surkh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.83574,
+    34.7378,
+    66.83574,
+    34.7378
+],
+  "geometry": {"coordinates":[66.83574,34.7378],"type":"Point"}
+}

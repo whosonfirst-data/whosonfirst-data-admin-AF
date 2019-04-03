@@ -1,0 +1,75 @@
+{
+  "id": 1276465015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6536,36.10373,64.6536,36.10373",
+    "geom:latitude":36.10373,
+    "geom:longitude":64.6536,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Bad Qaq",
+    "gn:country_code":"AF",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147683,
+    "gn:latitude":36.10373,
+    "gn:longitude":64.6536,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101d Q\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bot Kh\u0101k",
+        "Bad Kak",
+        "Bat Kh\u0101k",
+        "B\u0101d Q\u0101q",
+        "\u0628\u0627\u062f \u0642\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147683
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5eb62583191a9816144fd3682172b028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1276465015,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1276465015,
+    "wof:lastmodified":1537582286,
+    "wof:name":"Bad Qaq",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6536,
+    36.10373,
+    64.6536,
+    36.10373
+],
+  "geometry": {"coordinates":[64.6536,36.10373],"type":"Point"}
+}

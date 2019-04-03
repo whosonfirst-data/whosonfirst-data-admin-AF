@@ -1,0 +1,75 @@
+{
+  "id": 1276775965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.29853,35.62922,63.29853,35.62922",
+    "geom:latitude":35.62922,
+    "geom:longitude":63.29853,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Akaza'i",
+    "gn:country_code":"AF",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149224,
+    "gn:latitude":35.62922,
+    "gn:longitude":63.29853,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100k\u0101z\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100k\u0101z\u0101\u2018i",
+        "\u0100k\u0101z\u0101y\u012b",
+        "\u0100k\u0101z\u0101\u2019\u012b",
+        "\u0622\u06a9\u0627\u0632\u0627\u0626\u06cc",
+        "\u0100k\u0101za\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149224
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"462e6ae60e0eddb524da496e5dc8106c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1276775965,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1276775965,
+    "wof:lastmodified":1537582400,
+    "wof:name":"Akaza'i",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.29853000000001,
+    35.62922000000001,
+    63.29853000000001,
+    35.62922000000001
+],
+  "geometry": {"coordinates":[63.29853000000001,35.62922000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242589093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.24903,35.40486,68.24903,35.40486",
+    "geom:latitude":35.40486,
+    "geom:longitude":68.24903,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Dasht Lajam",
+    "gn:country_code":"AF",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143825,
+    "gn:latitude":35.40486,
+    "gn:longitude":68.24903,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht Laj\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0easte Laj\u0101m",
+        "Dasht-e Laj\u0101m",
+        "Dasht Laj\u0101m",
+        "\u062f\u0634\u062a \u0644\u062c\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143825
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d7d48fafdac6684f917a785b5a48845e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1242589093,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1242589093,
+    "wof:lastmodified":1537581953,
+    "wof:name":"Dasht Lajam",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.24903,
+    35.40486,
+    68.24903,
+    35.40486
+],
+  "geometry": {"coordinates":[68.24903,35.40486],"type":"Point"}
+}

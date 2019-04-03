@@ -1,0 +1,82 @@
+{
+  "id": 1326815677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64715,33.04485,67.64715,33.04485",
+    "geom:latitude":33.04485,
+    "geom:longitude":67.64715,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Narighan",
+    "gn:country_code":"AF",
+    "gn:dem":2689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132308,
+    "gn:latitude":33.04485,
+    "gn:longitude":67.64715,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101r\u012bgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u064a\u063a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0438\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Narigan",
+        "N\u0101r\u012bgh\u0101n",
+        "\u0646\u0627\u0631\u06cc\u063a\u0627\u0646",
+        "N\u0101z\u012bgh\u0101n",
+        "\u0646\u0627\u0632\u06cc\u063a\u0627\u0646",
+        "\u0646\u0627\u0631\u064a\u063a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132308
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e8c412df1ae8a4a3eb099f61cd30910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1326815677,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326815677,
+    "wof:lastmodified":1537580999,
+    "wof:name":"Narighan",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64715,
+    33.04485,
+    67.64715,
+    33.04485
+],
+  "geometry": {"coordinates":[67.64715,33.04485],"type":"Point"}
+}

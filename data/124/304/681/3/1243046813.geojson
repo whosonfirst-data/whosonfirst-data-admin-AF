@@ -1,0 +1,77 @@
+{
+  "id": 1243046813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.20248,31.57386,64.20248,31.57386",
+    "geom:latitude":31.57386,
+    "geom:longitude":64.20248,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2308.0",
+    "gn:asciiname":"Laghari Ta'miran",
+    "gn:country_code":"AF",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425362,
+    "gn:latitude":31.57386,
+    "gn:longitude":64.20248,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lagha\u1e5f\u012b Ta\u2018m\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u063a\u0631\u06cc \u062a\u0639\u0645\u06cc\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Lagari-Tamiran",
+        "Lagha\u1e5f\u012b Ta\u2018m\u012br\u0101n",
+        "\u0644\u063a\u0693\u06cc \u062a\u0639\u0645\u06cc\u0631\u0627\u0646",
+        "Laghar\u012b Ta\u2018m\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425362
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"526229d92408738fdbc959c61db9bd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562295,
+            "locality_id":1243046813,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243046813,
+    "wof:lastmodified":1537582637,
+    "wof:name":"Laghari Ta'miran",
+    "wof:parent_id":1108562295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.20248000000001,
+    31.57386,
+    64.20248000000001,
+    31.57386
+],
+  "geometry": {"coordinates":[64.20248000000001,31.57386],"type":"Point"}
+}

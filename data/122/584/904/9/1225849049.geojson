@@ -1,0 +1,76 @@
+{
+  "id": 1225849049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8553,36.63869,70.8553,36.63869",
+    "geom:latitude":36.63869,
+    "geom:longitude":70.8553,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Iskan",
+    "gn:country_code":"AF",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142435,
+    "gn:latitude":36.63869,
+    "gn:longitude":70.8553,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Isk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khustuk",
+        "Ask\u0101n",
+        "\u0627\u0633\u06a9\u0627\u0646",
+        "Esk\u0101n",
+        "Isk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142435,
+        "wk:page":"Eskan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2dcabb8ea42146cc9dd31bbcda8065a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1225849049,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1225849049,
+    "wof:lastmodified":1537581828,
+    "wof:name":"Iskan",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8553,
+    36.63869,
+    70.8553,
+    36.63869
+],
+  "geometry": {"coordinates":[70.8553,36.63869],"type":"Point"}
+}

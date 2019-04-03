@@ -1,0 +1,75 @@
+{
+  "id": 1309793873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.36884,34.82548,62.36884,34.82548",
+    "geom:latitude":34.82548,
+    "geom:longitude":62.36884,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Kaftarghal",
+    "gn:country_code":"AF",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138837,
+    "gn:latitude":34.82548,
+    "gn:longitude":62.36884,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaftargh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kaftargal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kaftargh\u0101l",
+        "\u06a9\u0641\u062a\u0631 \u063a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138837
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"20b3162f67061337d7bc77749ec677c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1309793873,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1309793873,
+    "wof:lastmodified":1537581526,
+    "wof:name":"Kaftarghal",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.36884000000001,
+    34.82548,
+    62.36884000000001,
+    34.82548
+],
+  "geometry": {"coordinates":[62.36884000000001,34.82548],"type":"Point"}
+}

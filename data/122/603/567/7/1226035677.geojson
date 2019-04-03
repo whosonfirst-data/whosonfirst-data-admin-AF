@@ -1,0 +1,73 @@
+{
+  "id": 1226035677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75634,33.5707,68.75634,33.5707",
+    "geom:latitude":33.5707,
+    "geom:longitude":68.75634,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"Adah",
+    "gn:country_code":"AF",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149423,
+    "gn:latitude":33.5707,
+    "gn:longitude":68.75634,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e0fah",
+        "\u0627\u0689\u0647",
+        "Ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149423
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5a7393d66e08fb049a67c45b2cf60aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1226035677,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226035677,
+    "wof:lastmodified":1537582416,
+    "wof:name":"Adah",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75634000000001,
+    33.5707,
+    68.75634000000001,
+    33.5707
+],
+  "geometry": {"coordinates":[68.75634000000001,33.5707],"type":"Point"}
+}

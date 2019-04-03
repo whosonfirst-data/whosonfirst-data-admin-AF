@@ -1,0 +1,74 @@
+{
+  "id": 1226332891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52916,34.04775,67.52916,34.04775",
+    "geom:latitude":34.04775,
+    "geom:longitude":67.52916,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Tah-e Nalah",
+    "gn:country_code":"AF",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460448,
+    "gn:latitude":34.04775,
+    "gn:longitude":67.52916,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah-e N\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tayi-Nala",
+        "Ta-i-N\u0101la",
+        "Tah-e N\u0101lah",
+        "\u062a\u0647 \u0646\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460448
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c76b545f72e9f34f79b96a2e58280bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226332891,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226332891,
+    "wof:lastmodified":1537583323,
+    "wof:name":"Tah-e Nalah",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52916,
+    34.04775,
+    67.52916,
+    34.04775
+],
+  "geometry": {"coordinates":[67.52916,34.04775],"type":"Point"}
+}

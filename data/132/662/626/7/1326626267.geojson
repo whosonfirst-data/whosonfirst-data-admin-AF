@@ -1,0 +1,71 @@
+{
+  "id": 1326626267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.29246,33.34741,64.29246,33.34741",
+    "geom:latitude":33.34741,
+    "geom:longitude":64.29246,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Sayn",
+    "gn:country_code":"AF",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126667,
+    "gn:latitude":33.34741,
+    "gn:longitude":64.29246,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126667
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9dfe57de3dfbf30d1432e29ac2ddf84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1326626267,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326626267,
+    "wof:lastmodified":1537580493,
+    "wof:name":"Sayn",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.29245999999999,
+    33.34741,
+    64.29245999999999,
+    33.34741
+],
+  "geometry": {"coordinates":[64.29245999999999,33.34741],"type":"Point"}
+}

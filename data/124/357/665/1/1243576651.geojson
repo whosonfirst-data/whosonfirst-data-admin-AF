@@ -1,0 +1,78 @@
+{
+  "id": 1243576651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7596,34.4164,66.7596,34.4164",
+    "geom:latitude":34.4164,
+    "geom:longitude":66.7596,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Sar-e Qalachah",
+    "gn:country_code":"AF",
+    "gn:dem":2945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127103,
+    "gn:latitude":34.4164,
+    "gn:longitude":66.7596,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Qal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Kalacha",
+        "Sare Qal\u0101\u010da",
+        "Sar-e Qal\u2018ahchah",
+        "Sar-e Qal\u0101cheh",
+        "Sar-e Qal\u0101chah",
+        "\u0633\u0631 \u0642\u0644\u0627\u0686\u0647",
+        "Sar-e Qal\u2018achah",
+        "\u0633\u0631 \u0642\u0644\u0639\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127103
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ea8014276f8c363f732514d22cdcd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1243576651,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243576651,
+    "wof:lastmodified":1537580529,
+    "wof:name":"Sar-e Qalachah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7596,
+    34.4164,
+    66.7596,
+    34.4164
+],
+  "geometry": {"coordinates":[66.75960000000001,34.4164],"type":"Point"}
+}

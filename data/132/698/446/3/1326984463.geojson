@@ -1,0 +1,74 @@
+{
+  "id": 1326984463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61125,33.77706,68.61125,33.77706",
+    "geom:latitude":33.77706,
+    "geom:longitude":68.61125,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Kuz Jangjay",
+    "gn:country_code":"AF",
+    "gn:dem":2518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135095,
+    "gn:latitude":33.77706,
+    "gn:longitude":68.61125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bz Jangj\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuz-Dzhangdzhay",
+        "K\u016bz Jang Dz\u0101y",
+        "K\u016bz Jangj\u0101y",
+        "\u06a9\u0648\u0632 \u062c\u0646\u06af\u062c\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135095
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e178ec3543dc4cb9844c0cf0304a2895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1326984463,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1326984463,
+    "wof:lastmodified":1537581224,
+    "wof:name":"Kuz Jangjay",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61125,
+    33.77706,
+    68.61125,
+    33.77706
+],
+  "geometry": {"coordinates":[68.61125,33.77706],"type":"Point"}
+}

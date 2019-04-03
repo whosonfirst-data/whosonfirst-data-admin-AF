@@ -1,0 +1,79 @@
+{
+  "id": 1309702921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38278,33.59848,68.38278,33.59848",
+    "geom:latitude":33.59848,
+    "geom:longitude":68.38278,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"601",
+    "gn:asciiname":"Jilowgir",
+    "gn:country_code":"AF",
+    "gn:dem":2278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139199,
+    "gn:latitude":33.59848,
+    "gn:longitude":68.38278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jilowg\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0648\u06af\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dzhilaugir",
+        "Jelewg\u012br",
+        "Jelawg\u012b\u1e5f",
+        "Jalowg\u012br",
+        "Jelowg\u012br",
+        "Jilowg\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139199
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"daf82b148db84782e26af984b3e8be1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1309702921,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309702921,
+    "wof:lastmodified":1537581557,
+    "wof:name":"Jilowgir",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38278000000001,
+    33.59848,
+    68.38278000000001,
+    33.59848
+],
+  "geometry": {"coordinates":[68.38278000000001,33.59848],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309871271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.15189,32.18523,63.15189,32.18523",
+    "geom:latitude":32.18523,
+    "geom:longitude":63.15189,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Mir Dari Saray",
+    "gn:country_code":"AF",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133265,
+    "gn:latitude":32.18523,
+    "gn:longitude":63.15189,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br D\u0101r\u012b Sar\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012br D\u0101di",
+        "M\u012brd\u0101d\u012b Sar\u0101y",
+        "M\u012br D\u0101r\u012b Sar\u0101y",
+        "\u0645\u06cc\u0631 \u062f\u0627\u0631\u06cc \u0633\u0631\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133265
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21dcce8dc83ba9074c280d84f5f992d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561987,
+            "locality_id":1309871271,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1309871271,
+    "wof:lastmodified":1537581081,
+    "wof:name":"Mir Dari Saray",
+    "wof:parent_id":1108561987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.15189,
+    32.18523,
+    63.15189,
+    32.18523
+],
+  "geometry": {"coordinates":[63.15189,32.18523],"type":"Point"}
+}

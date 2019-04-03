@@ -1,0 +1,78 @@
+{
+  "id": 1209706311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75853,33.18612,67.75853,33.18612",
+    "geom:latitude":33.18612,
+    "geom:longitude":67.75853,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"613.0",
+    "gn:asciiname":"Khidah",
+    "gn:country_code":"AF",
+    "gn:dem":2627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448793,
+    "gn:latitude":33.18612,
+    "gn:longitude":67.75853,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khe\u1e0fa",
+        "Khida",
+        "Khedah",
+        "Khidah",
+        "\u062e\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448793
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6185c0c07cbbeb70a5c7a9753a10567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1209706311,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209706311,
+    "wof:lastmodified":1537582992,
+    "wof:name":"Khidah",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75853000000001,
+    33.18612,
+    67.75853000000001,
+    33.18612
+],
+  "geometry": {"coordinates":[67.75853000000001,33.18612],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309914471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.65265,35.376,63.65265,35.376",
+    "geom:latitude":35.376,
+    "geom:longitude":63.65265,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Mullayan",
+    "gn:country_code":"AF",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423544,
+    "gn:latitude":35.376,
+    "gn:longitude":63.65265,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101y\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mull\u0101y\u0101n",
+        "\u0645\u0644\u0627\u06cc\u0627\u0646",
+        "Moll\u0101y\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423544
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ed748154a9777ce3d01236d04c514424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1309914471,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1309914471,
+    "wof:lastmodified":1537582581,
+    "wof:name":"Mullayan",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.65265,
+    35.376,
+    63.65265,
+    35.376
+],
+  "geometry": {"coordinates":[63.65265,35.376],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343406437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89589,34.59245,70.89589,34.59245",
+    "geom:latitude":34.59245,
+    "geom:longitude":70.89589,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Tutgay",
+    "gn:country_code":"AF",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473960,
+    "gn:latitude":34.59245,
+    "gn:longitude":70.89589,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u016btgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u016btgay",
+        "\u062a\u0648\u062a\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"854890909787af16dbd628e555ae4a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562153,
+            "locality_id":1343406437,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1343406437,
+    "wof:lastmodified":1537583774,
+    "wof:name":"Tutgay",
+    "wof:parent_id":1108562153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89589000000002,
+    34.59245,
+    70.89589000000002,
+    34.59245
+],
+  "geometry": {"coordinates":[70.89589000000002,34.59245],"type":"Point"}
+}

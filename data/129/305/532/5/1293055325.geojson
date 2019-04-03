@@ -1,0 +1,75 @@
+{
+  "id": 1293055325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84704,34.3325,68.84704,34.3325",
+    "geom:latitude":34.3325,
+    "geom:longitude":68.84704,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"401",
+    "gn:asciiname":"Sar-e Ghundey",
+    "gn:country_code":"AF",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127197,
+    "gn:latitude":34.3325,
+    "gn:longitude":68.84704,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Ghun\u1e0f\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar-e Ghon\u1e0f\u012b",
+        "Sari-Gar",
+        "Sar-e Ghun\u1e0f\u00eay",
+        "Sar-e Ghar",
+        "\u0633\u0631 \u063a\u0646\u0689\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127197
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e93270c8b07bc392be4d839663517fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562259,
+            "locality_id":1293055325,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293055325,
+    "wof:lastmodified":1537580538,
+    "wof:name":"Sar-e Ghundey",
+    "wof:parent_id":1108562259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84704,
+    34.3325,
+    68.84704,
+    34.3325
+],
+  "geometry": {"coordinates":[68.84704000000001,34.3325],"type":"Point"}
+}

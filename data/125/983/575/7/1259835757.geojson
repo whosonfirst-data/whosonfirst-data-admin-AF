@@ -1,0 +1,82 @@
+{
+  "id": 1259835757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.85817,31.54622,65.85817,31.54622",
+    "geom:latitude":31.54622,
+    "geom:longitude":65.85817,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402",
+    "gn:asciiname":"Mandisar",
+    "gn:country_code":"AF",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133996,
+    "gn:latitude":31.54622,
+    "gn:longitude":65.85817,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Man\u1e0f\u012bs\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u062f\u06cc \u0633\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Manda Hissar",
+        "Mandi Hissar",
+        "Mandazar",
+        "Mandi His\u0101r",
+        "Mand\u012b \u1e28e\u015f\u0101r",
+        "Mand\u012b S\u0101r",
+        "Man\u1e0f\u012bs\u0101r",
+        "\u0645\u0646\u0689\u06cc\u0633\u0627\u0631",
+        "\u0645\u0646\u062f\u06cc \u0633\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133996
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1452aeb07264b66f3c7b44b9ef867485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1259835757,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259835757,
+    "wof:lastmodified":1537581138,
+    "wof:name":"Mandisar",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.85817,
+    31.54622,
+    65.85817,
+    31.54622
+],
+  "geometry": {"coordinates":[65.85817,31.54622],"type":"Point"}
+}

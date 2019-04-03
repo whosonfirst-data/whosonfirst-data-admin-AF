@@ -1,0 +1,75 @@
+{
+  "id": 1226802707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4832,34.84078,70.4832,34.84078",
+    "geom:latitude":34.84078,
+    "geom:longitude":70.4832,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Chitila",
+    "gn:country_code":"AF",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145943,
+    "gn:latitude":34.84078,
+    "gn:longitude":70.4832,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chitila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cetel\u0101",
+        "Chitila",
+        "Chetel\u0101",
+        "Ch\u012bt\u012bl\u0101",
+        "\u0686\u06cc\u062a\u06cc\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145943
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d1ee0908b05d83d1cd1b60224f2fc49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1226802707,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1226802707,
+    "wof:lastmodified":1537582144,
+    "wof:name":"Chitila",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4832,
+    34.84078,
+    70.4832,
+    34.84078
+],
+  "geometry": {"coordinates":[70.4832,34.84078],"type":"Point"}
+}

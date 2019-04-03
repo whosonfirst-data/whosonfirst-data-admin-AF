@@ -1,0 +1,75 @@
+{
+  "id": 1343449895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79286,32.255,64.79286,32.255",
+    "geom:latitude":32.255,
+    "geom:longitude":64.79286,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Chaghali",
+    "gn:country_code":"AF",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145917,
+    "gn:latitude":32.255,
+    "gn:longitude":64.79286,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chagh\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cagh\u0101li",
+        "Chagali",
+        "Chagh\u0101l\u012b",
+        "\u0686\u063a\u0627\u0644\u06cc",
+        "Chagh\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145917
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cbb714eedb596e08180ed1ea4f2b41e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1343449895,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343449895,
+    "wof:lastmodified":1537582141,
+    "wof:name":"Chaghali",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79286,
+    32.255,
+    64.79286,
+    32.255
+],
+  "geometry": {"coordinates":[64.79286,32.255],"type":"Point"}
+}

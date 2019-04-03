@@ -1,0 +1,73 @@
+{
+  "id": 1226209493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.75897,37.20738,69.75897,37.20738",
+    "geom:latitude":37.20738,
+    "geom:longitude":69.75897,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Qizil Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467360,
+    "gn:latitude":37.20738,
+    "gn:longitude":69.75897,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qizil Qal\u2018ah",
+        "\u0642\u0632\u0644 \u0642\u0644\u0639\u0647",
+        "Sh\u012br Kh\u0101n (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467360
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87d223fd35c2b3b9e0f66c5787b4febe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1226209493,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1226209493,
+    "wof:lastmodified":1537583469,
+    "wof:name":"Qizil Qal'ah",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.75896999999999,
+    37.20738,
+    69.75896999999999,
+    37.20738
+],
+  "geometry": {"coordinates":[69.75896999999999,37.20738],"type":"Point"}
+}

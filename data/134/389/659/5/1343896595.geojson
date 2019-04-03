@@ -1,0 +1,72 @@
+{
+  "id": 1343896595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44321,35.0228,68.44321,35.0228",
+    "geom:latitude":35.0228,
+    "geom:longitude":68.44321,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306",
+    "gn:asciiname":"Kharzar-e Bala",
+    "gn:country_code":"AF",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136876,
+    "gn:latitude":35.0228,
+    "gn:longitude":68.44321,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101rz\u0101r-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101rz\u0101r-e B\u0101l\u0101",
+        "\u062e\u0627\u0631\u0632\u0627\u0631 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ddcf06dfc7202fbd4c90bacca6c3b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1343896595,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343896595,
+    "wof:lastmodified":1537581376,
+    "wof:name":"Kharzar-e Bala",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44321,
+    35.0228,
+    68.44321,
+    35.0228
+],
+  "geometry": {"coordinates":[68.44320999999999,35.0228],"type":"Point"}
+}

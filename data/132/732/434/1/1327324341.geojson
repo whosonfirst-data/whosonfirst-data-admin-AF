@@ -1,0 +1,75 @@
+{
+  "id": 1327324341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31915,33.19691,67.31915,33.19691",
+    "geom:latitude":33.19691,
+    "geom:longitude":67.31915,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Siyahto",
+    "gn:country_code":"AF",
+    "gn:dem":3157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450552,
+    "gn:latitude":33.19691,
+    "gn:longitude":67.31915,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siy\u0101ht\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sy\u0101to",
+        "S\u012b\u0101t\u016b",
+        "S\u012b\u0101ht\u014d",
+        "\u0633\u06cc\u0627\u0647\u062a\u0648",
+        "Siy\u0101ht\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450552
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39450d0f2a2f29fb9401b813fd7b8f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1327324341,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327324341,
+    "wof:lastmodified":1537583051,
+    "wof:name":"Siyahto",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31915,
+    33.19691,
+    67.31915,
+    33.19691
+],
+  "geometry": {"coordinates":[67.31914999999999,33.19691],"type":"Point"}
+}

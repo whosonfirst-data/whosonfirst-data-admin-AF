@@ -1,0 +1,71 @@
+{
+  "id": 1293797663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10985,36.95437,73.10985,36.95437",
+    "geom:latitude":36.95437,
+    "geom:longitude":73.10985,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Shamsah",
+    "gn:country_code":"AF",
+    "gn:dem":3211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8307021,
+    "gn:latitude":36.95437,
+    "gn:longitude":73.10985,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shamsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0634\u0645\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8307021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e01f28ae5db46bf1655b6a1f4c92beae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1293797663,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293797663,
+    "wof:lastmodified":1537583942,
+    "wof:name":"Shamsah",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10985,
+    36.95437,
+    73.10985,
+    36.95437
+],
+  "geometry": {"coordinates":[73.10984999999999,36.95437],"type":"Point"}
+}

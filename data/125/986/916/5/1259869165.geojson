@@ -1,0 +1,75 @@
+{
+  "id": 1259869165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.28608,34.12897,64.28608,34.12897",
+    "geom:latitude":34.12897,
+    "geom:longitude":64.28608,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Jiragak",
+    "gn:country_code":"AF",
+    "gn:dem":2573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139180,
+    "gn:latitude":34.12897,
+    "gn:longitude":64.28608,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jiragak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhiragak",
+        "Je\u1e5fagak",
+        "J\u012brehgak",
+        "Jiragak",
+        "\u062c\u0631\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139180
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3971d6da34e4a05d6f7df902d2f4b770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1259869165,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259869165,
+    "wof:lastmodified":1537581556,
+    "wof:name":"Jiragak",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.28608,
+    34.12897,
+    64.28608,
+    34.12897
+],
+  "geometry": {"coordinates":[64.28608,34.12897],"type":"Point"}
+}

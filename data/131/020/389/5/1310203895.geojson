@@ -1,0 +1,75 @@
+{
+  "id": 1310203895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95476,34.74209,66.95476,34.74209",
+    "geom:latitude":34.74209,
+    "geom:longitude":66.95476,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Katah Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457790,
+    "gn:latitude":34.74209,
+    "gn:longitude":66.95476,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Katah Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katakhana",
+        "Katakh\u0101na",
+        "Katah Kh\u0101nah",
+        "Katahkh\u0101neh",
+        "\u06af\u062a\u0647 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457790
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9915c58d297de4cf57a4dbda15650495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1310203895,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310203895,
+    "wof:lastmodified":1537583237,
+    "wof:name":"Katah Khanah",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95476,
+    34.74209,
+    66.95476,
+    34.74209
+],
+  "geometry": {"coordinates":[66.95475999999999,34.74209],"type":"Point"}
+}

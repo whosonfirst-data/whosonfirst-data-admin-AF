@@ -1,0 +1,73 @@
+{
+  "id": 1226092705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28,32.72111,69.28,32.72111",
+    "geom:latitude":32.72111,
+    "geom:longitude":69.28,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Sabel Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433963,
+    "gn:latitude":32.72111,
+    "gn:longitude":69.28,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sab\u0113l Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabel\u2019kala",
+        "Sab\u0113l Kal\u0101",
+        "Sabeyl Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433963
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4eff83fbf52543bc6329c2ead1404b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1226092705,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226092705,
+    "wof:lastmodified":1537582698,
+    "wof:name":"Sabel Kala",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28,
+    32.72111,
+    69.28,
+    32.72111
+],
+  "geometry": {"coordinates":[69.28,32.72111],"type":"Point"}
+}

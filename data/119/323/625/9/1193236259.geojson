@@ -1,0 +1,68 @@
+{
+  "id": 1193236259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.9,37.23333,68.9,37.23333",
+    "geom:latitude":37.23333,
+    "geom:longitude":68.9,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Chatal",
+    "gn:country_code":"AF",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145256,
+    "gn:latitude":37.23333,
+    "gn:longitude":68.9,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chatal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145256
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ab8691de2f7050e76e59b60f08f20a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1193236259,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1193236259,
+    "wof:lastmodified":1536383270,
+    "wof:name":"Chatal",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.9,
+    37.23333,
+    68.9,
+    37.23333
+],
+  "geometry": {"coordinates":[68.90000000000001,37.23333],"type":"Point"}
+}

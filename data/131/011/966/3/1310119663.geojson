@@ -1,0 +1,73 @@
+{
+  "id": 1310119663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.20683,37.04814,71.20683,37.04814",
+    "geom:latitude":37.04814,
+    "geom:longitude":71.20683,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Suchu",
+    "gn:country_code":"AF",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468320,
+    "gn:latitude":37.04814,
+    "gn:longitude":71.20683,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016bch\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016b\u010d\u016b",
+        "S\u016bch\u016b",
+        "\u0633\u0648\u0686\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468320
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cfbca5cdfe4ad1a3296e7fa623da7688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562453,
+            "locality_id":1310119663,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310119663,
+    "wof:lastmodified":1537583548,
+    "wof:name":"Suchu",
+    "wof:parent_id":1108562453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.20683000000002,
+    37.04814,
+    71.20683000000002,
+    37.04814
+],
+  "geometry": {"coordinates":[71.20683000000002,37.04814],"type":"Point"}
+}

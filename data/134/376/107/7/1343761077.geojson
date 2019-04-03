@@ -1,0 +1,75 @@
+{
+  "id": 1343761077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03901,34.17394,67.03901,34.17394",
+    "geom:latitude":34.17394,
+    "geom:longitude":67.03901,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Gardon-Arg",
+    "gn:country_code":"AF",
+    "gn:dem":2695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141852,
+    "gn:latitude":34.17394,
+    "gn:longitude":67.03901,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gard\u014dn-Arg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gardonarg",
+        "Ga\u1e5f\u1e0f\u014dn-a\u1e5fg",
+        "Gard\u016bn Arg",
+        "Gard\u014dn-Arg",
+        "\u06af\u0631\u062f\u0648\u0646 \u0627\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141852
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35e1578592bf4bc850422da2ceadeddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1343761077,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343761077,
+    "wof:lastmodified":1537581779,
+    "wof:name":"Gardon-Arg",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03901,
+    34.17394,
+    67.03901,
+    34.17394
+],
+  "geometry": {"coordinates":[67.03901,34.17394],"type":"Point"}
+}

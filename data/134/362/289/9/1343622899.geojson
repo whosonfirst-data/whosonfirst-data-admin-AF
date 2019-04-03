@@ -1,0 +1,75 @@
+{
+  "id": 1343622899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52265,32.20689,66.52265,32.20689",
+    "geom:latitude":32.20689,
+    "geom:longitude":66.52265,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Kowshak",
+    "gn:country_code":"AF",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137623,
+    "gn:latitude":32.20689,
+    "gn:longitude":66.52265,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaushak",
+        "Kaw\u0161ak",
+        "Kowshak",
+        "\u06a9\u0648\u0634\u06a9",
+        "Kawshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137623
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7fb19e96470b5e303c61b4f434ccee54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1343622899,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343622899,
+    "wof:lastmodified":1537581430,
+    "wof:name":"Kowshak",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52265,
+    32.20689,
+    66.52265,
+    32.20689
+],
+  "geometry": {"coordinates":[66.52265,32.20689],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226631559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22087,33.62278,68.22087,33.62278",
+    "geom:latitude":33.62278,
+    "geom:longitude":68.22087,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Sabzposhan",
+    "gn:country_code":"AF",
+    "gn:dem":2714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128091,
+    "gn:latitude":33.62278,
+    "gn:longitude":68.22087,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sabzp\u014dsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabzpo\u0161\u0101n",
+        "Sabzp\u016bsh\u0101n",
+        "Sabzp\u014dsh\u0101n",
+        "\u0633\u0628\u0632\u067e\u0648\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128091
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eb4c1d14a2f689468ced7c02783b0b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1226631559,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226631559,
+    "wof:lastmodified":1537580602,
+    "wof:name":"Sabzposhan",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22086999999999,
+    33.62278,
+    68.22086999999999,
+    33.62278
+],
+  "geometry": {"coordinates":[68.22086999999999,33.62278],"type":"Point"}
+}

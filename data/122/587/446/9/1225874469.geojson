@@ -1,0 +1,81 @@
+{
+  "id": 1225874469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.34533,32.81282,66.34533,32.81282",
+    "geom:latitude":32.81282,
+    "geom:longitude":66.34533,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Jalbay Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139694,
+    "gn:latitude":32.81282,
+    "gn:longitude":66.34533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jalbay Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhal\u2019bay-Dzhanubi"
+    ],
+    "name:und_x_variant":[
+        "S\u0304am\u0101li",
+        "Jan\u016bbi",
+        "Jalbay Jun\u016bb\u012b",
+        "\u062c\u0644\u0628\u06cc \u062c\u0646\u0648\u0628\u06cc",
+        "Jalbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139694
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a41b3edb872de6b9919dc8bef0a50dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1225874469,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1225874469,
+    "wof:lastmodified":1537581599,
+    "wof:name":"Jalbay Junubi",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.34533,
+    32.81282,
+    66.34533,
+    32.81282
+],
+  "geometry": {"coordinates":[66.34533,32.81282],"type":"Point"}
+}

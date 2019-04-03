@@ -1,0 +1,74 @@
+{
+  "id": 1310136137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.52414,33.20963,65.52414,33.20963",
+    "geom:latitude":33.20963,
+    "geom:longitude":65.52414,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Sowf",
+    "gn:country_code":"AF",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123747,
+    "gn:latitude":33.20963,
+    "gn:longitude":65.52414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sowf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bf",
+        "\u015e\u016bf",
+        "\u0635\u0648\u0641",
+        "Sowf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123747
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9be6d35f34c11333c460eb0372819058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1310136137,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310136137,
+    "wof:lastmodified":1537580248,
+    "wof:name":"Sowf",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.52414,
+    33.20963,
+    65.52414,
+    33.20963
+],
+  "geometry": {"coordinates":[65.52414,33.20963],"type":"Point"}
+}

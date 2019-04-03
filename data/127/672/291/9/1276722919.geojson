@@ -1,0 +1,74 @@
+{
+  "id": 1276722919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30694,32.76694,69.30694,32.76694",
+    "geom:latitude":32.76694,
+    "geom:longitude":69.30694,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Tsyay",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434041,
+    "gn:latitude":32.76694,
+    "gn:longitude":69.30694,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tsyay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019yay",
+        "Cyay",
+        "Tsyay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434041
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0bf74d588ae01174fc5bee6e439b1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1276722919,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276722919,
+    "wof:lastmodified":1537582702,
+    "wof:name":"Tsyay",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30694,
+    32.76694000000001,
+    69.30694,
+    32.76694000000001
+],
+  "geometry": {"coordinates":[69.30694,32.76694000000001],"type":"Point"}
+}

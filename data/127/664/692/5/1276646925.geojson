@@ -1,0 +1,74 @@
+{
+  "id": 1276646925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61131,33.47002,68.61131,33.47002",
+    "geom:latitude":33.47002,
+    "geom:longitude":68.61131,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"615",
+    "gn:asciiname":"Zakar",
+    "gn:country_code":"AF",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121105,
+    "gn:latitude":33.47002,
+    "gn:longitude":68.61131,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0304akar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0304aka\u1e5f",
+        "Zakar",
+        "Z\u0304akar",
+        "\u0630\u06a9\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121105
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"020598a09a67b90829c851a2f665dc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1276646925,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276646925,
+    "wof:lastmodified":1537580023,
+    "wof:name":"Zakar",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61131,
+    33.47002,
+    68.61131,
+    33.47002
+],
+  "geometry": {"coordinates":[68.61131,33.47002],"type":"Point"}
+}

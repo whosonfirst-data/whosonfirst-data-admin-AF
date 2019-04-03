@@ -1,0 +1,73 @@
+{
+  "id": 1360093613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.80412,35.56803,63.80412,35.56803",
+    "geom:latitude":35.56803,
+    "geom:longitude":63.80412,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1905",
+    "gn:asciiname":"Tirband",
+    "gn:country_code":"AF",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122425,
+    "gn:latitude":35.56803,
+    "gn:longitude":63.80412,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012brband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u012brband",
+        "\u062a\u06cc\u0631\u0628\u0646\u062f",
+        "T\u012b\u1e5fban\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122425
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"774e41227bac196b33ef6aec67af14e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1360093613,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1360093613,
+    "wof:lastmodified":1537580113,
+    "wof:name":"Tirband",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.80412,
+    35.56803,
+    63.80412,
+    35.56803
+],
+  "geometry": {"coordinates":[63.80412,35.56803],"type":"Point"}
+}

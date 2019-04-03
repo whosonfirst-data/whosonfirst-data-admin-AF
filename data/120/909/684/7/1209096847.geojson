@@ -1,0 +1,73 @@
+{
+  "id": 1209096847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.08869,32.83942,68.08869,32.83942",
+    "geom:latitude":32.83942,
+    "geom:longitude":68.08869,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"611.0",
+    "gn:asciiname":"Almar Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148860,
+    "gn:latitude":32.83942,
+    "gn:longitude":68.08869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Almar Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Almar Kh\u0113l"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0645\u0631 \u062e\u06d0\u0644"
+    ],
+    "name:und_x_variant":[
+        "Alma\u1e5fkh\u0113l",
+        "Almar Kheyl",
+        "\u0627\u0644\u0645\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148860
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"810e625cb780c74f1d33d861efe38f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209096847
+        }
+    ],
+    "wof:id":1209096847,
+    "wof:lastmodified":1537582371,
+    "wof:name":"Almar Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.08869,
+    32.83942,
+    68.08869,
+    32.83942
+],
+  "geometry": {"coordinates":[68.08869,32.83942],"type":"Point"}
+}

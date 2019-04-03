@@ -1,0 +1,72 @@
+{
+  "id": 1276349669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50017,37.59085,71.50017,37.59085",
+    "geom:latitude":37.59085,
+    "geom:longitude":71.50017,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1109.0",
+    "gn:asciiname":"Pidrud",
+    "gn:country_code":"AF",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101639,
+    "gn:latitude":37.59085,
+    "gn:longitude":71.50017,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pidr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pidr\u016bd",
+        "\u067e\u062f\u0631\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101639
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82b462a1a008696012fa2d5a4ad56def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562491,
+            "locality_id":1276349669,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276349669,
+    "wof:lastmodified":1537583915,
+    "wof:name":"Pidrud",
+    "wof:parent_id":1108562491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50017,
+    37.59085,
+    71.50017,
+    37.59085
+],
+  "geometry": {"coordinates":[71.50017,37.59085],"type":"Point"}
+}

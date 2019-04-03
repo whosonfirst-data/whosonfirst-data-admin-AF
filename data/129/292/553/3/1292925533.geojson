@@ -1,0 +1,72 @@
+{
+  "id": 1292925533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83276,32.5083,67.83276,32.5083",
+    "geom:latitude":32.5083,
+    "geom:longitude":67.83276,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Mansur",
+    "gn:country_code":"AF",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133909,
+    "gn:latitude":32.5083,
+    "gn:longitude":67.83276,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Man\u015f\u016br",
+        "\u0645\u0646\u0635\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133909
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cc97ea5abf317366d6915edec4d45707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1292925533,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1292925533,
+    "wof:lastmodified":1537581131,
+    "wof:name":"Mansur",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83276,
+    32.5083,
+    67.83276,
+    32.5083
+],
+  "geometry": {"coordinates":[67.83275999999999,32.5083],"type":"Point"}
+}

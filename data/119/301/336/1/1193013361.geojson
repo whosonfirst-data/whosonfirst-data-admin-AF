@@ -1,0 +1,74 @@
+{
+  "id": 1193013361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.93005,32.96125,62.93005,32.96125",
+    "geom:latitude":32.96125,
+    "geom:longitude":62.93005,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Du Sang",
+    "gn:country_code":"AF",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142816,
+    "gn:latitude":32.96125,
+    "gn:longitude":62.93005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dusang",
+        "Dosang",
+        "D\u016b Sang",
+        "\u062f\u0648 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142816
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abb5b3d01649a9049823878ec7fbb48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1193013361,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1193013361,
+    "wof:lastmodified":1537581862,
+    "wof:name":"Du Sang",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.93005,
+    32.96125,
+    62.93005,
+    32.96125
+],
+  "geometry": {"coordinates":[62.93005,32.96125],"type":"Point"}
+}

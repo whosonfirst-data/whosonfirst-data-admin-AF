@@ -1,0 +1,79 @@
+{
+  "id": 1310500513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64386,34.83793,66.64386,34.83793",
+    "geom:latitude":34.83793,
+    "geom:longitude":66.64386,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Dashti Sachak",
+    "gn:country_code":"AF",
+    "gn:dem":2595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143809,
+    "gn:latitude":34.83793,
+    "gn:longitude":66.64386,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht\u012b Sachak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sachak",
+        "Dashtisachak",
+        "Sacak",
+        "Dasht-i-Sachak",
+        "Da\u0161ti-sa\u010dak",
+        "Dasht-e Sachak",
+        "Dasht\u012b Sachak",
+        "\u062f\u0634\u062a\u06cc \u0633\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143809,
+        "wk:page":"Dasht-e_Sachak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"308ce9caf063988466df37b67e467f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1310500513,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310500513,
+    "wof:lastmodified":1537581952,
+    "wof:name":"Dashti Sachak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64386,
+    34.83793,
+    66.64386,
+    34.83793
+],
+  "geometry": {"coordinates":[66.64386,34.83793],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243125103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.15497,33.47819,69.15497,33.47819",
+    "geom:latitude":33.47819,
+    "geom:longitude":69.15497,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Khar Mast Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136961,
+    "gn:latitude":33.47819,
+    "gn:longitude":69.15497,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khar Mast Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0645\u0633\u062a \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kharmastkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kha\u1e5fmastkh\u0113l",
+        "Kharmast Kh\u0113l",
+        "Kharmast Kheyl",
+        "Khar Mast Kh\u0113l",
+        "\u062e\u0631\u0645\u0633\u062a \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136961
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7130c65cef5c90e47ed9318207a8825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1243125103,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1243125103,
+    "wof:lastmodified":1537581382,
+    "wof:name":"Khar Mast Khel",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15496999999999,
+    33.47819,
+    69.15496999999999,
+    33.47819
+],
+  "geometry": {"coordinates":[69.15496999999999,33.47819],"type":"Point"}
+}

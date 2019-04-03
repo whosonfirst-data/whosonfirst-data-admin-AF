@@ -1,0 +1,80 @@
+{
+  "id": 1276180637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35848,31.5756,67.35848,31.5756",
+    "geom:latitude":31.5756,
+    "geom:longitude":67.35848,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Lwarah Wulgay",
+    "gn:country_code":"AF",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134408,
+    "gn:latitude":31.5756,
+    "gn:longitude":67.35848,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5fah Wulgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631\u0647 \u0648\u0644\u06af\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "L\u2019varavul\u2019gay"
+    ],
+    "name:und_x_variant":[
+        "Lwara Wulgay",
+        "Lwa\u1e5fah Wulgay",
+        "\u0644\u0648\u0693\u0647 \u0648\u0644\u06af\u06cc",
+        "L\u2019varavul\u2019gay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134408
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0668fec11e299fd34d964ada246029be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1276180637,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276180637,
+    "wof:lastmodified":1537581173,
+    "wof:name":"Lwarah Wulgay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35848,
+    31.5756,
+    67.35848,
+    31.5756
+],
+  "geometry": {"coordinates":[67.35848,31.5756],"type":"Point"}
+}

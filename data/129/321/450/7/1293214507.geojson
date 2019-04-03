@@ -1,0 +1,74 @@
+{
+  "id": 1293214507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58968,37.54732,70.58968,37.54732",
+    "geom:latitude":37.54732,
+    "geom:longitude":70.58968,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Rubat",
+    "gn:country_code":"AF",
+    "gn:dem":2536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467525,
+    "gn:latitude":37.54732,
+    "gn:longitude":70.58968,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rub\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rob\u0101\u0163",
+        "Rab\u0101\u0163",
+        "\u0631\u0628\u0627\u0637",
+        "Rub\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467525
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb7918b3dd84776cbb61e2b8fe04e2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1293214507,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293214507,
+    "wof:lastmodified":1537583484,
+    "wof:name":"Rubat",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58968,
+    37.54732,
+    70.58968,
+    37.54732
+],
+  "geometry": {"coordinates":[70.58968,37.54732],"type":"Point"}
+}

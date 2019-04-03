@@ -1,0 +1,74 @@
+{
+  "id": 1360052711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71489,37.04989,69.71489,37.04989",
+    "geom:latitude":37.04989,
+    "geom:longitude":69.71489,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208.0",
+    "gn:asciiname":"Taluk",
+    "gn:country_code":"AF",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466638,
+    "gn:latitude":37.04989,
+    "gn:longitude":69.71489,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101l\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101l\u016bk (1)",
+        "T\u0101lowk (1)",
+        "T\u0101l\u016bk",
+        "\u062a\u0627\u0644\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466638
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3dc72166c138c85d49742a1c192a6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1360052711,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1360052711,
+    "wof:lastmodified":1537583435,
+    "wof:name":"Taluk",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71489,
+    37.04989000000001,
+    69.71489,
+    37.04989000000001
+],
+  "geometry": {"coordinates":[69.71489,37.04989000000001],"type":"Point"}
+}

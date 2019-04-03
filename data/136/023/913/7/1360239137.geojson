@@ -1,0 +1,77 @@
+{
+  "id": 1360239137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25183,34.41271,68.25183,34.41271",
+    "geom:latitude":34.41271,
+    "geom:longitude":68.25183,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Yak Roya",
+    "gn:country_code":"AF",
+    "gn:dem":3304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121313,
+    "gn:latitude":34.41271,
+    "gn:longitude":68.25183,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yak R\u014dy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakruya",
+        "Yak R\u016byeh",
+        "Yak\u1e5f\u016bya",
+        "Yekr\u016byeh",
+        "Yak R\u014dyah",
+        "Yak R\u014dy\u0101",
+        "\u064a\u06a9 \u0631\u0648\u064a\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"44f557ac3d2a17ad831d0ea50b59fa1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1360239137,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1360239137,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yak Roya",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25183,
+    34.41271,
+    68.25183,
+    34.41271
+],
+  "geometry": {"coordinates":[68.25183,34.41271],"type":"Point"}
+}

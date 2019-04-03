@@ -1,0 +1,68 @@
+{
+  "id": 1209549129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36101,37.02703,66.36101,37.02703",
+    "geom:latitude":37.02703,
+    "geom:longitude":66.36101,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1707",
+    "gn:asciiname":"Faruq Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142229,
+    "gn:latitude":37.02703,
+    "gn:longitude":66.36101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"F\u0101r\u016bq Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faruk Qala",
+        "Far\u016bk Qal\u2018eh",
+        "F\u0101r\u016bq Qal\u2018ah",
+        "\u0641\u0627\u0631\u0648\u0642 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c5bb2f61f70df9acc5f5bf89b011ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209549129
+        }
+    ],
+    "wof:id":1209549129,
+    "wof:lastmodified":1537581811,
+    "wof:name":"Faruq Qal'ah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36101,
+    37.02703,
+    66.36101,
+    37.02703
+],
+  "geometry": {"coordinates":[66.36100999999999,37.02703],"type":"Point"}
+}

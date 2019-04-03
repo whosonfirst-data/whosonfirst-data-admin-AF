@@ -1,0 +1,75 @@
+{
+  "id": 1193081647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15789,34.68658,70.15789,34.68658",
+    "geom:latitude":34.68658,
+    "geom:longitude":70.15789,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Dewah",
+    "gn:country_code":"AF",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474491,
+    "gn:latitude":34.68658,
+    "gn:longitude":70.15789,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deva",
+        "\u1e0e\u0113wa",
+        "D\u012bveh",
+        "D\u0113wah",
+        "\u062f\u06d0\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bcc3dfd0264d15b16bdd487e170b373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1193081647,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1193081647,
+    "wof:lastmodified":1537583809,
+    "wof:name":"Dewah",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15789000000001,
+    34.68658,
+    70.15789000000001,
+    34.68658
+],
+  "geometry": {"coordinates":[70.15789000000001,34.68658],"type":"Point"}
+}

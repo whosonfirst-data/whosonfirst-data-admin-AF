@@ -1,0 +1,74 @@
+{
+  "id": 1193229419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17495,35.23512,69.17495,35.23512",
+    "geom:latitude":35.23512,
+    "geom:longitude":69.17495,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303",
+    "gn:asciiname":"Hijan",
+    "gn:country_code":"AF",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140052,
+    "gn:latitude":35.23512,
+    "gn:longitude":69.17495,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hij\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khidzhan",
+        "Hej\u0101n",
+        "Hij\u0101n",
+        "\u0647\u062c\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140052
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"204c16d70aa5d7bc8552b5ae2122d2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1193229419,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1193229419,
+    "wof:lastmodified":1537581627,
+    "wof:name":"Hijan",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17495,
+    35.23512,
+    69.17495,
+    35.23512
+],
+  "geometry": {"coordinates":[69.17495,35.23512],"type":"Point"}
+}

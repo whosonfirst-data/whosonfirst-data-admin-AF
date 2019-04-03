@@ -1,0 +1,72 @@
+{
+  "id": 1343665817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67639,38.40348,70.67639,38.40348",
+    "geom:latitude":38.40348,
+    "geom:longitude":70.67639,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Miligad",
+    "gn:country_code":"AF",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1465897,
+    "gn:latitude":38.40348,
+    "gn:longitude":70.67639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bl\u012bgad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "M\u012bl\u012bgad",
+        "\u0645\u06cc\u0644\u06cc\u06af\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"14d7524a038b479a5b9db05c247dd247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1343665817,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343665817,
+    "wof:lastmodified":1537583409,
+    "wof:name":"Miligad",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67639,
+    38.40348,
+    70.67639,
+    38.40348
+],
+  "geometry": {"coordinates":[70.67639,38.40348],"type":"Point"}
+}

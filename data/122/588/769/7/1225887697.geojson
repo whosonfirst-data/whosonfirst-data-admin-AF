@@ -1,0 +1,81 @@
+{
+  "id": 1225887697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09069,33.35688,70.09069,33.35688",
+    "geom:latitude":33.35688,
+    "geom:longitude":70.09069,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Surkey Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345648,
+    "gn:latitude":33.35688,
+    "gn:longitude":70.09069,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surk\u00eay Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0643\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Serkaykheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Se\u1e5fkaykh\u0113l",
+        "Sarka\u012b Kh\u0113l",
+        "Serkay Kheyl",
+        "Surk\u00eay Kh\u0113l",
+        "\u0633\u0631\u06a9\u06cd \u062e\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345648
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d52e0852bb3cbb690fbbd2415a0db080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1225887697,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1225887697,
+    "wof:lastmodified":1537582447,
+    "wof:name":"Surkey Khel",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09069000000001,
+    33.35688,
+    70.09069000000001,
+    33.35688
+],
+  "geometry": {"coordinates":[70.09069000000001,33.35688],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309890103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.99836,34.51801,65.99836,34.51801",
+    "geom:latitude":34.51801,
+    "geom:longitude":65.99836,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Sar-e Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":2998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476094,
+    "gn:latitude":34.51801,
+    "gn:longitude":65.99836,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fe S\u014dkhta",
+        "Sar-e S\u016bkhteh",
+        "Sar-e S\u014dkhtah",
+        "\u0633\u0631 \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476094
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5a9ba3e09d4229027103c71ad0782176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1309890103,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309890103,
+    "wof:lastmodified":1537583840,
+    "wof:name":"Sar-e Sokhtah",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.99835999999999,
+    34.51801,
+    65.99835999999999,
+    34.51801
+],
+  "geometry": {"coordinates":[65.99835999999999,34.51801],"type":"Point"}
+}

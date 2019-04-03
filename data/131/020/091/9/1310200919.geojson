@@ -1,0 +1,72 @@
+{
+  "id": 1310200919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.83778,34.62866,65.83778,34.62866",
+    "geom:latitude":34.62866,
+    "geom:longitude":65.83778,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2709",
+    "gn:asciiname":"Zardghal",
+    "gn:country_code":"AF",
+    "gn:dem":2548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120933,
+    "gn:latitude":34.62866,
+    "gn:longitude":65.83778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zardgh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zardgh\u0101l",
+        "\u0632\u0631\u062f\u063a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23c25f61de8396adc44b5fd2875cc7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1310200919,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310200919,
+    "wof:lastmodified":1537579970,
+    "wof:name":"Zardghal",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.83778000000001,
+    34.62866,
+    65.83778000000001,
+    34.62866
+],
+  "geometry": {"coordinates":[65.83778000000001,34.62866],"type":"Point"}
+}

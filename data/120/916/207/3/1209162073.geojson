@@ -1,0 +1,72 @@
+{
+  "id": 1209162073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.31053,34.3964,68.31053,34.3964",
+    "geom:latitude":34.3964,
+    "geom:longitude":68.31053,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Khushk Qol",
+    "gn:country_code":"AF",
+    "gn:dem":3104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136487,
+    "gn:latitude":34.3964,
+    "gn:longitude":68.31053,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khushk Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khushkkull\u2019"
+    ],
+    "name:und_x_variant":[
+        "Khu\u0161kqul",
+        "Khoshk Qowl",
+        "Khoshkqol",
+        "Khushk Q\u014dl",
+        "\u062e\u0634\u06a9 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136487
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aebd43b7e4b67cc6eee411b056736142",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209162073
+        }
+    ],
+    "wof:id":1209162073,
+    "wof:lastmodified":1537581345,
+    "wof:name":"Khushk Qol",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.31053,
+    34.3964,
+    68.31053,
+    34.3964
+],
+  "geometry": {"coordinates":[68.31053,34.3964],"type":"Point"}
+}

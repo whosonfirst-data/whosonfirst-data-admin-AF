@@ -1,0 +1,75 @@
+{
+  "id": 1242767191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59258,33.73275,64.59258,33.73275",
+    "geom:latitude":33.73275,
+    "geom:longitude":64.59258,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Ghowlagh",
+    "gn:country_code":"AF",
+    "gn:dem":2496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141304,
+    "gn:latitude":33.73275,
+    "gn:longitude":64.59258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghowl\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaulag",
+        "Ghawl\u0101gh",
+        "Ghowl\u0101gh",
+        "\u063a\u0648\u0644\u0627\u063a",
+        "Gh\u0101bl\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e2776c932f94d1e8607181ceda5344a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1242767191,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242767191,
+    "wof:lastmodified":1537581742,
+    "wof:name":"Ghowlagh",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59258,
+    33.73275,
+    64.59258,
+    33.73275
+],
+  "geometry": {"coordinates":[64.59258,33.73275],"type":"Point"}
+}

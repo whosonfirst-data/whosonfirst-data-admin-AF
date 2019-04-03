@@ -1,0 +1,81 @@
+{
+  "id": 1276484091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77735,33.30201,69.77735,33.30201",
+    "geom:latitude":33.30201,
+    "geom:longitude":69.77735,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3206.0",
+    "gn:asciiname":"Bar Khan Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146897,
+    "gn:latitude":33.30201,
+    "gn:longitude":69.77735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Kh\u0101n Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631 \u062e\u0627\u0646 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Bar-Khankheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5f Kh\u0101nkh\u0113l",
+        "Ba\u1e5f Kh\u0101nkheyl",
+        "\u0628\u0631 \u062e\u0627\u0646 \u062e\u064a\u0644",
+        "Bar Kh\u0101n Kh\u0113l",
+        "\u0628\u0631 \u062e\u0627\u0646 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"59071d32d87116c0cb1f001091ef98a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562239,
+            "locality_id":1276484091,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1276484091,
+    "wof:lastmodified":1537582221,
+    "wof:name":"Bar Khan Khel",
+    "wof:parent_id":1108562239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77735,
+    33.30201,
+    69.77735,
+    33.30201
+],
+  "geometry": {"coordinates":[69.77735,33.30201],"type":"Point"}
+}

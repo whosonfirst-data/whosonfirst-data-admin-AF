@@ -1,0 +1,74 @@
+{
+  "id": 1276570933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68302,32.51563,67.68302,32.51563",
+    "geom:latitude":32.51563,
+    "geom:longitude":67.68302,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"610.0",
+    "gn:asciiname":"Mukarab",
+    "gn:country_code":"AF",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435807,
+    "gn:latitude":32.51563,
+    "gn:longitude":67.68302,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mukarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukarrab",
+        "Mukarab",
+        "\u0645\u06a9\u0631\u0628",
+        "Mokarrab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435807
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c504dacef5da26aab93781e5c927577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1276570933,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276570933,
+    "wof:lastmodified":1537582787,
+    "wof:name":"Mukarab",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68302,
+    32.51563,
+    67.68302,
+    32.51563
+],
+  "geometry": {"coordinates":[67.68302,32.51563],"type":"Point"}
+}

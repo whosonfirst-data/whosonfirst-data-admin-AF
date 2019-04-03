@@ -1,0 +1,76 @@
+{
+  "id": 1209753903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83142,34.97743,68.83142,34.97743",
+    "geom:latitude":34.97743,
+    "geom:longitude":68.83142,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305.0",
+    "gn:asciiname":"Purakal",
+    "gn:country_code":"AF",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454457,
+    "gn:latitude":34.97743,
+    "gn:longitude":68.83142,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pur\u0101kal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Purakal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Por\u0101kal",
+        "Pur\u0101kal",
+        "\u067e\u0631\u0627\u06a9\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454457
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ff19d1d42abc006536e2db0d6de9264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1209753903,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1209753903,
+    "wof:lastmodified":1537583120,
+    "wof:name":"Purakal",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83142,
+    34.97743,
+    68.83142,
+    34.97743
+],
+  "geometry": {"coordinates":[68.83141999999999,34.97743],"type":"Point"}
+}

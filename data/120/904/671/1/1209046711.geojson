@@ -1,0 +1,71 @@
+{
+  "id": 1209046711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90991,33.7203,69.90991,33.7203",
+    "geom:latitude":33.7203,
+    "geom:longitude":69.90991,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"707",
+    "gn:asciiname":"Tori Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122097,
+    "gn:latitude":33.7203,
+    "gn:longitude":69.90991,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014dr\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Torikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "T\u014d\u1e5fikh\u0113l",
+        "T\u014dr\u012b Kh\u0113l",
+        "T\u016br\u012b Kheyl",
+        "\u062a\u0648\u0631\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122097
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"016e8dd08b7df0cd767f74ff0e98f55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209046711
+        }
+    ],
+    "wof:id":1209046711,
+    "wof:lastmodified":1537580087,
+    "wof:name":"Tori Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90991,
+    33.7203,
+    69.90991,
+    33.7203
+],
+  "geometry": {"coordinates":[69.90991,33.7203],"type":"Point"}
+}

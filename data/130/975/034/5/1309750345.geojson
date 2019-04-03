@@ -1,0 +1,76 @@
+{
+  "id": 1309750345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95015,33.77979,69.95015,33.77979",
+    "geom:latitude":33.77979,
+    "geom:longitude":69.95015,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"707.0",
+    "gn:asciiname":"Shepolah",
+    "gn:country_code":"AF",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1425091,
+    "gn:latitude":33.77979,
+    "gn:longitude":69.95015,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u00eap\u014dlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0160\u011bpola",
+        "Shepula",
+        "Shp\u016blah",
+        "Shep\u016blah",
+        "Sh\u00eap\u014dlah",
+        "\u0634\u067e\u0648\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425091
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"41d4f3e022cdd0c2e2bb706847e6821d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561927,
+            "locality_id":1309750345,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1309750345,
+    "wof:lastmodified":1537582625,
+    "wof:name":"Shepolah",
+    "wof:parent_id":1108561927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95015,
+    33.77979000000001,
+    69.95015,
+    33.77979000000001
+],
+  "geometry": {"coordinates":[69.95014999999999,33.77979000000001],"type":"Point"}
+}

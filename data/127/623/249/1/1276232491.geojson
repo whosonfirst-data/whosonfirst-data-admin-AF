@@ -1,0 +1,77 @@
+{
+  "id": 1276232491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.67684,34.82537,66.67684,34.82537",
+    "geom:latitude":34.82537,
+    "geom:longitude":66.67684,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Rashyu",
+    "gn:country_code":"AF",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457710,
+    "gn:latitude":34.82537,
+    "gn:longitude":66.67684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101shy\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Rash\u2019yu"
+    ],
+    "name:und_x_variant":[
+        "R\u0101\u0161yu",
+        "R\u0101shy\u016b",
+        "R\u0101shyow",
+        "\u0631\u0627\u0634\u064a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457710
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2e14e9ec3e5e2a41c48adc2e2e54334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1276232491,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276232491,
+    "wof:lastmodified":1537583233,
+    "wof:name":"Rashyu",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.67684,
+    34.82537,
+    66.67684,
+    34.82537
+],
+  "geometry": {"coordinates":[66.67684,34.82537],"type":"Point"}
+}

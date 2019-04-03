@@ -1,0 +1,74 @@
+{
+  "id": 1293681593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.57604,32.73104,62.57604,32.73104",
+    "geom:latitude":32.73104,
+    "geom:longitude":62.57604,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Tapah",
+    "gn:country_code":"AF",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122829,
+    "gn:latitude":32.73104,
+    "gn:longitude":62.57604,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tapah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tappeh",
+        "Tapah",
+        "\u062a\u067e\u0647",
+        "Tapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122829
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"edd22a1b015658d230995fc698434715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1293681593,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293681593,
+    "wof:lastmodified":1537580188,
+    "wof:name":"Tapah",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.57604,
+    32.73104,
+    62.57604,
+    32.73104
+],
+  "geometry": {"coordinates":[62.57604,32.73104],"type":"Point"}
+}

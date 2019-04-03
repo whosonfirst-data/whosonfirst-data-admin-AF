@@ -1,0 +1,76 @@
+{
+  "id": 1243498555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40374,33.81727,69.40374,33.81727",
+    "geom:latitude":33.81727,
+    "geom:longitude":69.40374,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705.0",
+    "gn:asciiname":"Babakaray",
+    "gn:country_code":"AF",
+    "gn:dem":2849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147823,
+    "gn:latitude":33.81727,
+    "gn:longitude":69.40374,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101bakaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u0643\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Babaka\u1e5fay",
+        "B\u0101bakaray",
+        "\u0628\u0627\u0628\u06a9\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147823
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c844699254045b2bd5c16d24cbf74f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561783,
+            "locality_id":1243498555,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1243498555,
+    "wof:lastmodified":1537582299,
+    "wof:name":"Babakaray",
+    "wof:parent_id":1108561783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40374,
+    33.81727,
+    69.40374,
+    33.81727
+],
+  "geometry": {"coordinates":[69.40374,33.81727],"type":"Point"}
+}

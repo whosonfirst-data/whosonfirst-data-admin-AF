@@ -1,0 +1,75 @@
+{
+  "id": 1259730857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35276,32.15815,66.35276,32.15815",
+    "geom:latitude":32.15815,
+    "geom:longitude":66.35276,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Pai Darushak",
+    "gn:country_code":"AF",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130896,
+    "gn:latitude":32.15815,
+    "gn:longitude":66.35276,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101\u012b Dar\u016bshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darreh Shakk",
+        "Drashak",
+        "P\u0101y \u1e0ea\u1e5f\u016bsak",
+        "P\u0101\u012b Dar\u016bshak",
+        "\u067e\u0627\u06cc \u062f\u0631\u0648\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130896
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ddcdd4eb15e670f58572c46016fc716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1259730857,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259730857,
+    "wof:lastmodified":1537580878,
+    "wof:name":"Pai Darushak",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35276,
+    32.15815,
+    66.35276,
+    32.15815
+],
+  "geometry": {"coordinates":[66.35276,32.15815],"type":"Point"}
+}

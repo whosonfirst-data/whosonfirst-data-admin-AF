@@ -1,0 +1,74 @@
+{
+  "id": 1226676517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.32368,32.97836,65.32368,32.97836",
+    "geom:latitude":32.97836,
+    "geom:longitude":65.32368,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604",
+    "gn:asciiname":"Owbeh",
+    "gn:country_code":"AF",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131415,
+    "gn:latitude":32.97836,
+    "gn:longitude":65.32368,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Owbeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014cb\u00eah",
+        "Oba",
+        "\u0627\u0648\u0628\u0647",
+        "Owbeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131415
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2fdb9f4164b6c630cc5f0b6a79e47a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562455,
+            "locality_id":1226676517,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1226676517,
+    "wof:lastmodified":1537580918,
+    "wof:name":"Owbeh",
+    "wof:parent_id":1108562455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.32368000000001,
+    32.97836,
+    65.32368000000001,
+    32.97836
+],
+  "geometry": {"coordinates":[65.32368000000001,32.97836],"type":"Point"}
+}

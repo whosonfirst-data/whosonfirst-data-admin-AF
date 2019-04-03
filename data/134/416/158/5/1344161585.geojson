@@ -1,0 +1,73 @@
+{
+  "id": 1344161585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77111,34.77746,66.77111,34.77746",
+    "geom:latitude":34.77746,
+    "geom:longitude":66.77111,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Kham-e Garmak",
+    "gn:country_code":"AF",
+    "gn:dem":2472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137221,
+    "gn:latitude":34.77746,
+    "gn:longitude":66.77111,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kham-e Garmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamigarmak",
+        "Kham-e Garmak",
+        "\u062e\u0645 \u06af\u0631\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137221
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3894e0b3b2c304bdbb0fbc3123b81e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1344161585,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1344161585,
+    "wof:lastmodified":1537581403,
+    "wof:name":"Kham-e Garmak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77111,
+    34.77746,
+    66.77111,
+    34.77746
+],
+  "geometry": {"coordinates":[66.77110999999999,34.77746],"type":"Point"}
+}

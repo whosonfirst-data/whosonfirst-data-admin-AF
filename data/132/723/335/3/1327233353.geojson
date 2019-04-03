@@ -1,0 +1,74 @@
+{
+  "id": 1327233353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02025,35.93658,69.02025,35.93658",
+    "geom:latitude":35.93658,
+    "geom:longitude":69.02025,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Jam",
+    "gn:country_code":"AF",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139635,
+    "gn:latitude":35.93658,
+    "gn:longitude":69.02025,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101m-e",
+        "J\u0101meh",
+        "J\u0101m",
+        "\u062c\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139635
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"62a814c723ddc585926b90040ce75a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1327233353,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327233353,
+    "wof:lastmodified":1537581594,
+    "wof:name":"Jam",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02025,
+    35.93658,
+    69.02025,
+    35.93658
+],
+  "geometry": {"coordinates":[69.02025,35.93658],"type":"Point"}
+}

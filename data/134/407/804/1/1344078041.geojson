@@ -1,0 +1,72 @@
+{
+  "id": 1344078041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.60001,36.12691,64.60001,36.12691",
+    "geom:latitude":36.12691,
+    "geom:longitude":64.60001,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Ming Darakht",
+    "gn:country_code":"AF",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424308,
+    "gn:latitude":36.12691,
+    "gn:longitude":64.60001,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ming Darakht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0646\u06af \u062f\u0631\u062e\u062a",
+        "Meng Derakht (4)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424308
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f86a8d4aedbe27a666b5c0231e35d79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1344078041,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1344078041,
+    "wof:lastmodified":1537582606,
+    "wof:name":"Ming Darakht",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.60001,
+    36.12691,
+    64.60001,
+    36.12691
+],
+  "geometry": {"coordinates":[64.60001,36.12691],"type":"Point"}
+}

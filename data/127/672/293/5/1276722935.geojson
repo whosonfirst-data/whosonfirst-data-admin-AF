@@ -1,0 +1,77 @@
+{
+  "id": 1276722935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.81558,33.24792,68.81558,33.24792",
+    "geom:latitude":33.24792,
+    "geom:longitude":68.81558,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915",
+    "gn:asciiname":"Koti Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135498,
+    "gn:latitude":33.24792,
+    "gn:longitude":68.81558,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6f\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kotikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kotikh\u0113l",
+        "\u06a9\u0648\u067c\u06cc \u062e\u06d0\u0644",
+        "Kowt\u012b Kheyl",
+        "K\u014d\u1e6f\u012b Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135498
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"086f22a6508b97d917ca7cc2c1928101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1276722935,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276722935,
+    "wof:lastmodified":1537581260,
+    "wof:name":"Koti Khel",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81558000000001,
+    33.24792,
+    68.81558000000001,
+    33.24792
+],
+  "geometry": {"coordinates":[68.81558000000001,33.24792],"type":"Point"}
+}

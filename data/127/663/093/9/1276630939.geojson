@@ -1,0 +1,79 @@
+{
+  "id": 1276630939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06306,34.23726,70.06306,34.23726",
+    "geom:latitude":34.23726,
+    "geom:longitude":70.06306,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804.0",
+    "gn:asciiname":"Kamah Termay",
+    "gn:country_code":"AF",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473392,
+    "gn:latitude":34.23726,
+    "gn:longitude":70.06306,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kamah T\u00earmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0645\u0647 \u062a\u0631\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kamatermay",
+        "Kama Te\u1e5fmay",
+        "Kamah Termay",
+        "\u0643\u0645\u0647 \u062a\u0631\u0645\u06cc",
+        "Kamah T\u00earmay",
+        "\u06a9\u0645\u0647 \u062a\u0631\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473392
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a1f08b6c73825807034a219f93ff906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562503,
+            "locality_id":1276630939,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276630939,
+    "wof:lastmodified":1537583756,
+    "wof:name":"Kamah Termay",
+    "wof:parent_id":1108562503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06306,
+    34.23726,
+    70.06306,
+    34.23726
+],
+  "geometry": {"coordinates":[70.06305999999999,34.23726],"type":"Point"}
+}

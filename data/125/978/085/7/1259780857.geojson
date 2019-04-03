@@ -1,0 +1,74 @@
+{
+  "id": 1259780857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.08431,32.19385,63.08431,32.19385",
+    "geom:latitude":32.19385,
+    "geom:longitude":63.08431,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2102",
+    "gn:asciiname":"Qismabad",
+    "gn:country_code":"AF",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129080,
+    "gn:latitude":32.19385,
+    "gn:longitude":63.08431,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qism\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kismabad",
+        "Qesm\u0101b\u0101d",
+        "Qism\u0101b\u0101d",
+        "\u0642\u0633\u0645\u0627\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129080
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21ff7a187ea9f802c8e1d52073bf630d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561843,
+            "locality_id":1259780857,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1259780857,
+    "wof:lastmodified":1537580681,
+    "wof:name":"Qismabad",
+    "wof:parent_id":1108561843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.08431,
+    32.19385,
+    63.08431,
+    32.19385
+],
+  "geometry": {"coordinates":[63.08431,32.19385],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1259738041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.48074,36.64937,69.48074,36.64937",
+    "geom:latitude":36.64937,
+    "geom:longitude":69.48074,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Tagaw Wuldi",
+    "gn:country_code":"AF",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123384,
+    "gn:latitude":36.64937,
+    "gn:longitude":69.48074,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tag\u0101w Wuld\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u06af\u0627\u0628 \u0648\u0644\u062f\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0433\u0430\u043e\u0432\u0443\u043b\u044c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tagaovul\u2019dy",
+        "Tag\u0101w Wul\u1e0fi",
+        "Tag\u0101b Wuld\u012b",
+        "Tag\u0101w Wuld\u012b",
+        "\u062a\u06af\u0627\u0648 \u0648\u0644\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123384
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fba0d58b9aeeed6e6c066c7090adcf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1259738041,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1259738041,
+    "wof:lastmodified":1537580221,
+    "wof:name":"Tagaw Wuldi",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.48074,
+    36.64937000000001,
+    69.48074,
+    36.64937000000001
+],
+  "geometry": {"coordinates":[69.48074,36.64937000000001],"type":"Point"}
+}

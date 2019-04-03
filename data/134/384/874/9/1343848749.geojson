@@ -1,0 +1,76 @@
+{
+  "id": 1343848749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68576,32.30313,67.68576,32.30313",
+    "geom:latitude":32.30313,
+    "geom:longitude":67.68576,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Pitaw",
+    "gn:country_code":"AF",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130572,
+    "gn:latitude":32.30313,
+    "gn:longitude":67.68576,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pit\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012bt\u0101v",
+        "Petau",
+        "P\u0113t\u0101w",
+        "Pit\u0101w",
+        "\u067e\u062a\u0627\u0648",
+        "P\u012bt\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130572
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bcdade6ab67ef6643eef0ec57c12c94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1343848749,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343848749,
+    "wof:lastmodified":1537580849,
+    "wof:name":"Pitaw",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68576,
+    32.30313,
+    67.68576,
+    32.30313
+],
+  "geometry": {"coordinates":[67.68576,32.30313],"type":"Point"}
+}

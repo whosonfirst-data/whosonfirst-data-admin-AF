@@ -1,0 +1,75 @@
+{
+  "id": 1293838041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26249,34.73592,68.26249,34.73592",
+    "geom:latitude":34.73592,
+    "geom:longitude":68.26249,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Ghaibi",
+    "gn:country_code":"AF",
+    "gn:dem":3155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141224,
+    "gn:latitude":34.73592,
+    "gn:longitude":68.26249,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gha\u012bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaybi",
+        "Ghaybi",
+        "Gheyb\u012b",
+        "Gha\u012bb\u012b",
+        "\u063a\u064a\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141224
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"578dbc9b782dc58c3c23eb13714ba8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1293838041,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293838041,
+    "wof:lastmodified":1537581736,
+    "wof:name":"Ghaibi",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26249,
+    34.73592,
+    68.26249,
+    34.73592
+],
+  "geometry": {"coordinates":[68.26249,34.73592],"type":"Point"}
+}

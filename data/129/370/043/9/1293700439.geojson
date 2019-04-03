@@ -1,0 +1,73 @@
+{
+  "id": 1293700439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4705,37.09466,70.4705,37.09466",
+    "geom:latitude":37.09466,
+    "geom:longitude":70.4705,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Ishak Kiti",
+    "gn:country_code":"AF",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468041,
+    "gn:latitude":37.09466,
+    "gn:longitude":70.4705,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u012ashak K\u012bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012a\u0161ak K\u012bt\u012b",
+        "\u012ashak K\u012bt\u012b",
+        "\u0627\u06cc\u0634\u06a9 \u06a9\u06cc\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468041
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6daa4ae1a5885478b31884e5f42a99bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1293700439,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293700439,
+    "wof:lastmodified":1537583526,
+    "wof:name":"Ishak Kiti",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4705,
+    37.09466,
+    70.4705,
+    37.09466
+],
+  "geometry": {"coordinates":[70.4705,37.09466],"type":"Point"}
+}

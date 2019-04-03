@@ -1,0 +1,75 @@
+{
+  "id": 1343545489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.36753,34.02215,65.36753,34.02215",
+    "geom:latitude":34.02215,
+    "geom:longitude":65.36753,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Dewar-e Yar Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142993,
+    "gn:latitude":34.02215,
+    "gn:longitude":65.36753,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113w\u0101r-e Y\u0101r Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0113w\u0101\u1e5fe Y\u0101\u1e5fkh\u0101n",
+        "Dayw\u0101r-e Y\u0101r Kh\u0101n",
+        "\u062f\u06cc\u0648\u0627\u0631 \u06cc\u0627\u0631 \u062e\u0627\u0646",
+        "D\u012bv\u0101r-e Y\u0101r Kh\u0101n",
+        "D\u0113w\u0101r-e Y\u0101r Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142993
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87944d307628337fffaa891e72e36f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1343545489,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343545489,
+    "wof:lastmodified":1537581879,
+    "wof:name":"Dewar-e Yar Khan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.36753,
+    34.02215,
+    65.36753,
+    34.02215
+],
+  "geometry": {"coordinates":[65.36753,34.02215],"type":"Point"}
+}

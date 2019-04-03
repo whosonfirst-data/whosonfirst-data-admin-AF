@@ -1,0 +1,78 @@
+{
+  "id": 1276317577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46125,33.58247,63.46125,33.58247",
+    "geom:latitude":33.58247,
+    "geom:longitude":63.46125,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2704",
+    "gn:asciiname":"Khairabad",
+    "gn:country_code":"AF",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136668,
+    "gn:latitude":33.58247,
+    "gn:longitude":63.46125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puzkh\u0101r\u0101n",
+        "Khay\u1e5f \u0100b\u0101\u1e0f",
+        "Khayrabad",
+        "Kha\u012br\u0101b\u0101d",
+        "\u062e\u06cc\u0631 \u0622\u0628\u0627\u062f",
+        "Kheyr\u0101b\u0101d",
+        "Kha\u012br \u0100b\u0101d",
+        "Khayr \u0100b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a21299f6265881e655e5db59fd86a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1276317577,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276317577,
+    "wof:lastmodified":1537581360,
+    "wof:name":"Khairabad",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46125,
+    33.58247,
+    63.46125,
+    33.58247
+],
+  "geometry": {"coordinates":[63.46125,33.58247],"type":"Point"}
+}

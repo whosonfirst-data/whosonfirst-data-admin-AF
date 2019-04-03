@@ -1,0 +1,78 @@
+{
+  "id": 1276942857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.82837,30.86575,61.82837,30.86575",
+    "geom:latitude":30.86575,
+    "geom:longitude":61.82837,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2201",
+    "gn:asciiname":"Wali Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121759,
+    "gn:latitude":30.86575,
+    "gn:longitude":61.82837,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wal\u012b Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u0645\u062d\u062f"
+    ],
+    "name:und_x_variant":[
+        "Wal\u012bmo\u1e29\u1e0f",
+        "Wal\u012b Mu\u1e29ammad",
+        "Val\u012bmo\u1e29ammad",
+        "\u0648\u0644\u06cc \u0645\u062d\u0645\u062f",
+        "Val\u012b Mo\u1e29d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121759
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b7002babdd8201e7a1aaead1777cf40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562603,
+            "locality_id":1276942857,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1276942857,
+    "wof:lastmodified":1537580059,
+    "wof:name":"Wali Muhammad",
+    "wof:parent_id":1108562603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.82836999999999,
+    30.86575,
+    61.82836999999999,
+    30.86575
+],
+  "geometry": {"coordinates":[61.82836999999999,30.86575],"type":"Point"}
+}

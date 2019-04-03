@@ -1,0 +1,79 @@
+{
+  "id": 1242924187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85982,32.71523,68.85982,32.71523",
+    "geom:latitude":32.71523,
+    "geom:longitude":68.85982,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Runi Khunah",
+    "gn:country_code":"AF",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433338,
+    "gn:latitude":32.71523,
+    "gn:longitude":68.85982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u016bn\u012b Kh\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u016bn\u012b Kh\u016bnah"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u0646\u06cc \u062e\u0648\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u1e5e\u016bni Kh\u016bn\u0113",
+        "Runikhune",
+        "\u0631\u0648\u0646\u06cc \u062e\u0648\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433338
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bbf9fabc1d1bf5e97593039a66984633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1242924187,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1242924187,
+    "wof:lastmodified":1537582684,
+    "wof:name":"Runi Khunah",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85982,
+    32.71523,
+    68.85982,
+    32.71523
+],
+  "geometry": {"coordinates":[68.85982,32.71523],"type":"Point"}
+}

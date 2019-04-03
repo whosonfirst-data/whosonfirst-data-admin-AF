@@ -1,0 +1,74 @@
+{
+  "id": 1193170701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.93801,33.76639,65.93801,33.76639",
+    "geom:latitude":33.76639,
+    "geom:longitude":65.93801,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Howarak",
+    "gn:country_code":"AF",
+    "gn:dem":2991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140172,
+    "gn:latitude":33.76639,
+    "gn:longitude":65.93801,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"How\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haw\u0101\u1e5fak",
+        "How\u0101rak",
+        "\u0647\u0648\u0627\u0631\u06a9",
+        "Hav\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140172
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"61db6c648baa83f390d90a94dbc98ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1193170701,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1193170701,
+    "wof:lastmodified":1537581637,
+    "wof:name":"Howarak",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.93800999999999,
+    33.76639,
+    65.93800999999999,
+    33.76639
+],
+  "geometry": {"coordinates":[65.93800999999999,33.76639],"type":"Point"}
+}

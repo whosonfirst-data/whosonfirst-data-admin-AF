@@ -1,0 +1,79 @@
+{
+  "id": 1242599701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.75681,32.08893,61.75681,32.08893",
+    "geom:latitude":32.08893,
+    "geom:longitude":61.75681,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Kuhnah Mayro",
+    "gn:country_code":"AF",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135371,
+    "gn:latitude":32.08893,
+    "gn:longitude":61.75681,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuhnah Mayr\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kuhnah Mayr\u014d"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0647\u0646\u0647 \u0645\u06cc\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kuhna-m\u0113ro",
+        "Kohneh M\u012bro",
+        "\u06a9\u0647\u0646\u0647 \u0645\u06cc\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135371
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b7ebd54f885b3ea4d516a01b85b1687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1242599701,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242599701,
+    "wof:lastmodified":1537581246,
+    "wof:name":"Kuhnah Mayro",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.75681,
+    32.08893,
+    61.75681,
+    32.08893
+],
+  "geometry": {"coordinates":[61.75681,32.08893],"type":"Point"}
+}

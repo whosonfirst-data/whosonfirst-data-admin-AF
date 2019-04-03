@@ -1,0 +1,79 @@
+{
+  "id": 1242628153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76598,32.76327,68.76598,32.76327",
+    "geom:latitude":32.76327,
+    "geom:longitude":68.76598,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906",
+    "gn:asciiname":"Jan Muhammad Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139493,
+    "gn:latitude":32.76327,
+    "gn:longitude":68.76598,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101n Mu\u1e29ammad Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "J\u0101n Mu\u1e29ammad Kal\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0627\u0646 \u0645\u062d\u0645\u062f \u06a9\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dzhankukhammed-Kala",
+        "J\u0101nmo\u1e29amm\u0101\u1e0f",
+        "\u062c\u0627\u0646 \u0645\u062d\u0645\u062f \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139493
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0692cd65b676f9f2241476bf23db235f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1242628153,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1242628153,
+    "wof:lastmodified":1537581582,
+    "wof:name":"Jan Muhammad Kala",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76598,
+    32.76327,
+    68.76598,
+    32.76327
+],
+  "geometry": {"coordinates":[68.76598,32.76327],"type":"Point"}
+}

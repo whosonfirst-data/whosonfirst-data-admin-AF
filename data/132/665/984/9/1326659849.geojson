@@ -1,0 +1,73 @@
+{
+  "id": 1326659849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.04333,37.05972,66.04333,37.05972",
+    "geom:latitude":37.05972,
+    "geom:longitude":66.04333,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Ab Kuluk",
+    "gn:country_code":"AF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149516,
+    "gn:latitude":37.05972,
+    "gn:longitude":66.04333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b Kuluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100b Kolok",
+        "\u0100b Kuluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149516,
+        "wk:page":"Ab_Kolok"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1222d72e6d85ab2d18abe3178a538a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1326659849,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1326659849,
+    "wof:lastmodified":1537582424,
+    "wof:name":"Ab Kuluk",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.04333000000001,
+    37.05972,
+    66.04333000000001,
+    37.05972
+],
+  "geometry": {"coordinates":[66.04333000000001,37.05972],"type":"Point"}
+}

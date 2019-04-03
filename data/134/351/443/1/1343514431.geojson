@@ -1,0 +1,80 @@
+{
+  "id": 1343514431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06883,33.43325,69.06883,33.43325",
+    "geom:latitude":33.43325,
+    "geom:longitude":69.06883,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702.0",
+    "gn:asciiname":"Begwal",
+    "gn:country_code":"AF",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146618,
+    "gn:latitude":33.43325,
+    "gn:longitude":69.06883,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113gw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06af\u0648\u0627\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Begval\u2019"
+    ],
+    "name:und_x_variant":[
+        "B\u0113gw\u0101l",
+        "\u0628\u06cc\u06af\u0648\u0627\u0644",
+        "B\u0113g W\u0101l",
+        "\u0628\u06d0\u06af\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146618
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fd2171f005f2884d3d951060b1fc9526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1343514431,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1343514431,
+    "wof:lastmodified":1537582201,
+    "wof:name":"Begwal",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06883,
+    33.43325,
+    69.06883,
+    33.43325
+],
+  "geometry": {"coordinates":[69.06883000000001,33.43325],"type":"Point"}
+}

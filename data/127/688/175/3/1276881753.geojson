@@ -1,0 +1,71 @@
+{
+  "id": 1276881753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.83205,35.74668,63.83205,35.74668",
+    "geom:latitude":35.74668,
+    "geom:longitude":63.83205,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1905",
+    "gn:asciiname":"Sartakht",
+    "gn:country_code":"AF",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126811,
+    "gn:latitude":35.74668,
+    "gn:longitude":63.83205,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sartakht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631\u062a\u062e\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126811
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"825410c7f6faa22d72c6bc792327906d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1276881753,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1276881753,
+    "wof:lastmodified":1537580504,
+    "wof:name":"Sartakht",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.83205,
+    35.74668,
+    63.83205,
+    35.74668
+],
+  "geometry": {"coordinates":[63.83205,35.74668],"type":"Point"}
+}

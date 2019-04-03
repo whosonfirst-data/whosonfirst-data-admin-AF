@@ -1,0 +1,74 @@
+{
+  "id": 1293510929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.82439,36.412,64.82439,36.412",
+    "geom:latitude":36.412,
+    "geom:longitude":64.82439,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Jalayir",
+    "gn:country_code":"AF",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422244,
+    "gn:latitude":36.412,
+    "gn:longitude":64.82439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jalayir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jalaier (5)",
+        "Jalayir",
+        "\u062c\u0644\u06cc\u0631",
+        "Jal\u0101yer (5)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422244
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4233a456ad24016e7c02c0e26f94f722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562501,
+            "locality_id":1293510929,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293510929,
+    "wof:lastmodified":1537582540,
+    "wof:name":"Jalayir",
+    "wof:parent_id":1108562501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.82439000000001,
+    36.412,
+    64.82439000000001,
+    36.412
+],
+  "geometry": {"coordinates":[64.82439000000001,36.412],"type":"Point"}
+}

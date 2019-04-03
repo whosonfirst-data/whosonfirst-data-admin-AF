@@ -1,0 +1,73 @@
+{
+  "id": 1226584375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27885,34.73669,70.27885,34.73669",
+    "geom:latitude":34.73669,
+    "geom:longitude":70.27885,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Panj Padar",
+    "gn:country_code":"AF",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474439,
+    "gn:latitude":34.73669,
+    "gn:longitude":70.27885,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Panj Padar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandzhpadar",
+        "\u067e\u0646\u062c \u067e\u062f\u0631",
+        "Panj Padar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474439
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"273e3bfe923f410d02e2d3fd066401bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1226584375,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1226584375,
+    "wof:lastmodified":1537583804,
+    "wof:name":"Panj Padar",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27885,
+    34.73669,
+    70.27885,
+    34.73669
+],
+  "geometry": {"coordinates":[70.27885000000001,34.73669],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226039411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.45749,35.23825,64.45749,35.23825",
+    "geom:latitude":35.23825,
+    "geom:longitude":64.45749,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1805",
+    "gn:asciiname":"Ghal-e Siyah",
+    "gn:country_code":"AF",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141474,
+    "gn:latitude":35.23825,
+    "gn:longitude":64.45749,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101l-e Siy\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101le Sy\u0101h",
+        "Gh\u0101l-e S\u012b\u0101h",
+        "\u063a\u0627\u0644 \u0633\u06cc\u0627\u0647",
+        "Gh\u0101l-e Siy\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141474
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1d31c56be9b3484e6f543e1b8dd9c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1226039411,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1226039411,
+    "wof:lastmodified":1537581756,
+    "wof:name":"Ghal-e Siyah",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.45749,
+    35.23825,
+    64.45749,
+    35.23825
+],
+  "geometry": {"coordinates":[64.45749000000001,35.23825],"type":"Point"}
+}

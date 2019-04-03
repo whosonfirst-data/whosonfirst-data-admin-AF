@@ -1,0 +1,82 @@
+{
+  "id": 1259439781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3781,36.76327,69.3781,36.76327",
+    "geom:latitude":36.76327,
+    "geom:longitude":69.3781,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Bodalah",
+    "gn:country_code":"AF",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467639,
+    "gn:latitude":36.76327,
+    "gn:longitude":69.3781,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u014dd\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u062f\u0627\u0644\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0434\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e0f\u0101la",
+        "Bo\u1e0f\u0101la",
+        "Bodala",
+        "Bad\u0101leh",
+        "B\u014dd\u0101lah",
+        "\u0628\u0648\u062f\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467639
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"52ee2ce92862119559b96d306edaee9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1259439781,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1259439781,
+    "wof:lastmodified":1537583495,
+    "wof:name":"Bodalah",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3781,
+    36.76327,
+    69.3781,
+    36.76327
+],
+  "geometry": {"coordinates":[69.3781,36.76327],"type":"Point"}
+}

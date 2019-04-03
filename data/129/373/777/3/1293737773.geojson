@@ -1,0 +1,78 @@
+{
+  "id": 1293737773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45313,35.19104,71.45313,35.19104",
+    "geom:latitude":35.19104,
+    "geom:longitude":71.45313,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1005.0",
+    "gn:asciiname":"Gembiri Khune",
+    "gn:country_code":"AF",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423979,
+    "gn:latitude":35.19104,
+    "gn:longitude":71.45313,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u00eambir\u012b Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u0628\u0631\u06cc \u062e\u0648\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gembi\u1e5fi Kh\u016bn\u0113",
+        "Gembirikhune",
+        "\u06af\u0645\u0628\u0631\u06cc \u062e\u0648\u0646\u06d0",
+        "Gembiri Kh\u016bn\u012b",
+        "G\u00eambir\u012b Kh\u016bn\u0113"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423979
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02c8bbf5e467d88902f40e46a8755c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562307,
+            "locality_id":1293737773,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293737773,
+    "wof:lastmodified":1537582590,
+    "wof:name":"Gembiri Khune",
+    "wof:parent_id":1108562307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45313,
+    35.19104,
+    71.45313,
+    35.19104
+],
+  "geometry": {"coordinates":[71.45313,35.19104],"type":"Point"}
+}

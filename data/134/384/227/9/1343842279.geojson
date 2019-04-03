@@ -1,0 +1,74 @@
+{
+  "id": 1343842279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.2027,33.86953,65.2027,33.86953",
+    "geom:latitude":33.86953,
+    "geom:longitude":65.2027,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Gulqadam",
+    "gn:country_code":"AF",
+    "gn:dem":2676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140552,
+    "gn:latitude":33.86953,
+    "gn:longitude":65.2027,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gulqadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulqa\u1e0fam",
+        "Gulqadam",
+        "\u06af\u0644 \u0642\u062f\u0645",
+        "Golqadam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140552
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0809e36af6632f552f084f73cc2a05f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1343842279,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343842279,
+    "wof:lastmodified":1537581673,
+    "wof:name":"Gulqadam",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.2027,
+    33.86953,
+    65.2027,
+    33.86953
+],
+  "geometry": {"coordinates":[65.20269999999999,33.86953],"type":"Point"}
+}

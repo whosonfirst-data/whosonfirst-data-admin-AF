@@ -1,0 +1,73 @@
+{
+  "id": 1310289389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.91223,34.15817,63.91223,34.15817",
+    "geom:latitude":34.15817,
+    "geom:longitude":63.91223,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Spi Buz",
+    "gn:country_code":"AF",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123930,
+    "gn:latitude":34.15817,
+    "gn:longitude":63.91223,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012b Buz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sp\u012b Buz",
+        "\u0633\u067e\u06cc \u0628\u0632",
+        "Spibuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123930
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76d992c55ba778e01b0f77bd9b8e6f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1310289389,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310289389,
+    "wof:lastmodified":1537580259,
+    "wof:name":"Spi Buz",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.91223000000001,
+    34.15817,
+    63.91223000000001,
+    34.15817
+],
+  "geometry": {"coordinates":[63.91223000000001,34.15817],"type":"Point"}
+}

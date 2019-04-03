@@ -1,0 +1,72 @@
+{
+  "id": 1293573605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.46982,33.53585,64.46982,33.53585",
+    "geom:latitude":33.53585,
+    "geom:longitude":64.46982,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2705.0",
+    "gn:asciiname":"Bayankha",
+    "gn:country_code":"AF",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146752,
+    "gn:latitude":33.53585,
+    "gn:longitude":64.46982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayankha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u012b\u0101nh\u0101",
+        "\u0628\u06cc\u0627\u0646\u0647\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146752
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fde17ee1a415fdbbf857a29c5bd4997e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1293573605,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293573605,
+    "wof:lastmodified":1537582211,
+    "wof:name":"Bayankha",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.46982,
+    33.53585,
+    64.46982,
+    33.53585
+],
+  "geometry": {"coordinates":[64.46982,33.53585],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226218657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8111,33.93892,68.8111,33.93892",
+    "geom:latitude":33.93892,
+    "geom:longitude":68.8111,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503",
+    "gn:asciiname":"Lachi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135059,
+    "gn:latitude":33.93892,
+    "gn:longitude":68.8111,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101ch\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Lachikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "L\u0101\u010dikh\u0113l",
+        "L\u0101ch\u012b Kh\u0113l",
+        "L\u0101ch\u012b Kheyl",
+        "\u0644\u0627\u0686\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135059
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2bdef99f5ea336e7bbd37f77c2ab0d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561859,
+            "locality_id":1226218657,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1226218657,
+    "wof:lastmodified":1537581220,
+    "wof:name":"Lachi Khel",
+    "wof:parent_id":1108561859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8111,
+    33.93892,
+    68.8111,
+    33.93892
+],
+  "geometry": {"coordinates":[68.8111,33.93892],"type":"Point"}
+}

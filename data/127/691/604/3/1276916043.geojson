@@ -1,0 +1,80 @@
+{
+  "id": 1276916043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98665,34.81584,69.98665,34.81584",
+    "geom:latitude":34.81584,
+    "geom:longitude":69.98665,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905",
+    "gn:asciiname":"Tangishu",
+    "gn:country_code":"AF",
+    "gn:dem":1773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122864,
+    "gn:latitude":34.81584,
+    "gn:longitude":69.98665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tang\u012bsh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0634\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "Tang\u012bsh\u016b"
+    ],
+    "name:und_x_variant":[
+        "Tangi\u0161u",
+        "Tangish\u014d",
+        "Tangishu",
+        "\u062a\u0646\u06af\u064a\u0634\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122864
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aa0f12201388e8743bb81b9f14748ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1276916043,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276916043,
+    "wof:lastmodified":1537580191,
+    "wof:name":"Tangishu",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98665,
+    34.81584,
+    69.98665,
+    34.81584
+],
+  "geometry": {"coordinates":[69.98665,34.81584],"type":"Point"}
+}

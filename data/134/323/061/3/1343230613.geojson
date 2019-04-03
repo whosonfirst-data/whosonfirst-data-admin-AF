@@ -1,0 +1,74 @@
+{
+  "id": 1343230613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.72946,31.57178,65.72946,31.57178",
+    "geom:latitude":31.57178,
+    "geom:longitude":65.72946,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Karz",
+    "gn:country_code":"AF",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137777,
+    "gn:latitude":31.57178,
+    "gn:longitude":65.72946,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kars",
+        "Karz",
+        "\u06a9\u0631\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137777,
+        "wk:page":"Karz"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"821de57575420188588d4ddddf980af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1343230613,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343230613,
+    "wof:lastmodified":1537581441,
+    "wof:name":"Karz",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.72946,
+    31.57178,
+    65.72946,
+    31.57178
+],
+  "geometry": {"coordinates":[65.72946,31.57178],"type":"Point"}
+}

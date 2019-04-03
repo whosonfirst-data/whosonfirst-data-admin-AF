@@ -1,0 +1,70 @@
+{
+  "id": 1209499475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.55693,33.73656,64.55693,33.73656",
+    "geom:latitude":33.73656,
+    "geom:longitude":64.55693,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Kilgu",
+    "gn:country_code":"AF",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137516,
+    "gn:latitude":33.73656,
+    "gn:longitude":64.55693,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kilg\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kil\u2019gu"
+    ],
+    "name:und_x_variant":[
+        "Kilg\u016b",
+        "\u06a9\u0644\u06af\u0648",
+        "Kelgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137516
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"655a0a03a3bb45f0d84714819276dfce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209499475
+        }
+    ],
+    "wof:id":1209499475,
+    "wof:lastmodified":1537581424,
+    "wof:name":"Kilgu",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.55693000000001,
+    33.73656,
+    64.55693000000001,
+    33.73656
+],
+  "geometry": {"coordinates":[64.55693000000001,33.73656],"type":"Point"}
+}

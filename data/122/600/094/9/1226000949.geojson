@@ -1,0 +1,79 @@
+{
+  "id": 1226000949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.35759,31.53379,65.35759,31.53379",
+    "geom:latitude":31.53379,
+    "geom:longitude":65.35759,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Kotizi",
+    "gn:country_code":"AF",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466514,
+    "gn:latitude":31.53379,
+    "gn:longitude":65.35759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kotizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u062a\u064a\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u014dtizi",
+        "Kotizi",
+        "K\u014d\u1e6fiza\u012b",
+        "\u06a9\u0648\u067c\u0632\u06cc",
+        "K\u016btizi",
+        "K\u014d\u1e6fiz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466514
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b3720d8f6b8a7db42e0ef3b979ced3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1226000949,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226000949,
+    "wof:lastmodified":1537583429,
+    "wof:name":"Kotizi",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.35759,
+    31.53379,
+    65.35759,
+    31.53379
+],
+  "geometry": {"coordinates":[65.35759,31.53379],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260250757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.93512,31.45561,65.93512,31.45561",
+    "geom:latitude":31.45561,
+    "geom:longitude":65.93512,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402",
+    "gn:asciiname":"Sayyidan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126233,
+    "gn:latitude":31.45561,
+    "gn:longitude":65.93512,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u06cc\u064e\u06c0 \u0633\u0650\u064a\u0650\u0651\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Seyidankalay",
+        "Saye\u1e0f\u0101n Kalay",
+        "Sayyid\u0101n K\u00ealay",
+        "\u0633\u06cc\u062f\u0627\u0646 \u06a9\u0644\u06cc",
+        "Seyyed\u0101n Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126233
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa8585bf602f73ec15f2cff2645bc4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1260250757,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260250757,
+    "wof:lastmodified":1537580455,
+    "wof:name":"Sayyidan Kelay",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.93512,
+    31.45561,
+    65.93512,
+    31.45561
+],
+  "geometry": {"coordinates":[65.93512,31.45561],"type":"Point"}
+}

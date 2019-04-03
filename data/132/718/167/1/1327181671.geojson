@@ -1,0 +1,72 @@
+{
+  "id": 1327181671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84222,31.94755,67.84222,31.94755",
+    "geom:latitude":31.94755,
+    "geom:longitude":67.84222,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Daday",
+    "gn:country_code":"AF",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144768,
+    "gn:latitude":31.94755,
+    "gn:longitude":67.84222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101day",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101day",
+        "\u062f\u0627\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144768
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86122e7b02e7b789c44c2774ff717819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1327181671,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327181671,
+    "wof:lastmodified":1537582039,
+    "wof:name":"Daday",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84222,
+    31.94755,
+    67.84222,
+    31.94755
+],
+  "geometry": {"coordinates":[67.84222,31.94755],"type":"Point"}
+}

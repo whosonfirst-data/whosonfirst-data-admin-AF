@@ -1,0 +1,74 @@
+{
+  "id": 1326983639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2765,34.51395,70.2765,34.51395",
+    "geom:latitude":34.51395,
+    "geom:longitude":70.2765,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Belah",
+    "gn:country_code":"AF",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355980,
+    "gn:latitude":34.51395,
+    "gn:longitude":70.2765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113lah",
+        "\u0628\u06d0\u0644\u0647",
+        "Qal\u2018ah-ye Malik Gulr\u014dz",
+        "\u0642\u0644\u0639\u06c0 \u0645\u0644\u06a9 \u06af\u0644\u0631\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5826ca5c5d5e917517bdaa0dc9967ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1326983639,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1326983639,
+    "wof:lastmodified":1537583942,
+    "wof:name":"Belah",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2765,
+    34.51395,
+    70.2765,
+    34.51395
+],
+  "geometry": {"coordinates":[70.2765,34.51395],"type":"Point"}
+}

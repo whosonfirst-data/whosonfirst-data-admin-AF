@@ -1,0 +1,78 @@
+{
+  "id": 1243321463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.87047,36.66272,68.87047,36.66272",
+    "geom:latitude":36.66272,
+    "geom:longitude":68.87047,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401",
+    "gn:asciiname":"Qandahari",
+    "gn:country_code":"AF",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129715,
+    "gn:latitude":36.66272,
+    "gn:longitude":68.87047,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qandah\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0430\u0445\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kandakhari",
+        "Qandah\u0101r\u012b",
+        "\u0642\u0646\u062f\u0647\u0627\u0631\u06cc",
+        "Kandah\u0101r\u012b",
+        "\u06a9\u0646\u062f\u0647\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129715
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f9b7e5ffd7cf269fd00c22fa6183223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1243321463,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1243321463,
+    "wof:lastmodified":1537580755,
+    "wof:name":"Qandahari",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.87047,
+    36.66272,
+    68.87047,
+    36.66272
+],
+  "geometry": {"coordinates":[68.87047,36.66272],"type":"Point"}
+}

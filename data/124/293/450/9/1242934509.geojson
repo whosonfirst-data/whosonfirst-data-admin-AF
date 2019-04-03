@@ -1,0 +1,67 @@
+{
+  "id": 1242934509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47556,32.46056,66.47556,32.46056",
+    "geom:latitude":32.46056,
+    "geom:longitude":66.47556,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mango",
+    "gn:country_code":"AF",
+    "gn:dem":2292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427833,
+    "gn:latitude":32.46056,
+    "gn:longitude":66.47556,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Mango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427833
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"997a68c1b420399c40d4b30d94c8aea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1242934509,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242934509,
+    "wof:lastmodified":1537044924,
+    "wof:name":"Mango",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47556,
+    32.46056,
+    66.47556,
+    32.46056
+],
+  "geometry": {"coordinates":[66.47556,32.46056],"type":"Point"}
+}

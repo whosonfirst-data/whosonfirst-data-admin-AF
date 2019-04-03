@@ -1,0 +1,75 @@
+{
+  "id": 1209270335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02655,36.66376,69.02655,36.66376",
+    "geom:latitude":36.66376,
+    "geom:longitude":69.02655,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Khayshki",
+    "gn:country_code":"AF",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467776,
+    "gn:latitude":36.66376,
+    "gn:longitude":69.02655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khayshk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064a\u0634\u0643\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0448\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0113\u0161ki",
+        "Kheshki",
+        "Kh\u012bshk\u012b",
+        "Khayshk\u012b",
+        "\u062e\u06cc\u0634\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467776
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11a1be24ced855c61e037ef84032e035",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209270335
+        }
+    ],
+    "wof:id":1209270335,
+    "wof:lastmodified":1537583509,
+    "wof:name":"Khayshki",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02655,
+    36.66376,
+    69.02655,
+    36.66376
+],
+  "geometry": {"coordinates":[69.02655,36.66376],"type":"Point"}
+}

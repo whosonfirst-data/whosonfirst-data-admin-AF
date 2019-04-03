@@ -1,0 +1,74 @@
+{
+  "id": 1226150429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47653,35.95514,68.47653,35.95514",
+    "geom:latitude":35.95514,
+    "geom:longitude":68.47653,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"Chihil Gazi",
+    "gn:country_code":"AF",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145179,
+    "gn:latitude":35.95514,
+    "gn:longitude":68.47653,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chihil Gaz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cehelgazi",
+        "Chehel Gaz\u012b",
+        "Chihil Gaz\u012b",
+        "\u0686\u0647\u0644 \u06af\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145179
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d06b42120de5aaaa0a3958e0149a83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1226150429,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226150429,
+    "wof:lastmodified":1537582082,
+    "wof:name":"Chihil Gazi",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47653000000001,
+    35.95514,
+    68.47653000000001,
+    35.95514
+],
+  "geometry": {"coordinates":[68.47653000000001,35.95514],"type":"Point"}
+}

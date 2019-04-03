@@ -1,0 +1,74 @@
+{
+  "id": 1310055805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98282,36.02896,66.98282,36.02896",
+    "geom:latitude":36.02896,
+    "geom:longitude":66.98282,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Bay Ghizi",
+    "gn:country_code":"AF",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147459,
+    "gn:latitude":36.02896,
+    "gn:longitude":66.98282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101y Ghiz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bai Ghezi (1)",
+        "Bai Ghezi",
+        "B\u0101y Ghiz\u012b",
+        "\u0628\u0627\u06cc \u063a\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147459
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fbb24e0930a4ed0504d195a8d308998e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1310055805,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310055805,
+    "wof:lastmodified":1537582268,
+    "wof:name":"Bay Ghizi",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98281999999999,
+    36.02896,
+    66.98281999999999,
+    36.02896
+],
+  "geometry": {"coordinates":[66.98281999999999,36.02896],"type":"Point"}
+}

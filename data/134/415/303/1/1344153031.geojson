@@ -1,0 +1,76 @@
+{
+  "id": 1344153031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65127,34.5414,65.65127,34.5414",
+    "geom:latitude":34.5414,
+    "geom:longitude":65.65127,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2709",
+    "gn:asciiname":"Lokah-ye Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":2409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134592,
+    "gn:latitude":34.5414,
+    "gn:longitude":65.65127,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dkah-ye Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dka-i-Maz\u0101\u1e5f",
+        "Lokeh-ye Maz\u0101r",
+        "L\u014dkah-ye Maz\u0101r",
+        "\u0644\u0648\u06a9\u0647 \u0645\u0632\u0627\u0631",
+        "L\u014dk Maz\u0101r",
+        "\u0644\u0648\u06a9 \u0645\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"73eb18542a6c02dbec41a3440d3e48ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1344153031,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344153031,
+    "wof:lastmodified":1537581187,
+    "wof:name":"Lokah-ye Mazar",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65127,
+    34.5414,
+    65.65127,
+    34.5414
+],
+  "geometry": {"coordinates":[65.65127,34.5414],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209872045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37054,36.65665,68.37054,36.65665",
+    "geom:latitude":36.65665,
+    "geom:longitude":68.37054,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Khayrabad",
+    "gn:country_code":"AF",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1136662,
+    "gn:latitude":36.65665,
+    "gn:longitude":68.37054,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khayr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0100bdan-i-Mir \u0100lam",
+        "Khoy\u1e5f \u0100b\u0101d",
+        "Khair\u0101b\u0101d",
+        "Kheyr\u0101b\u0101d",
+        "Khayr\u0101b\u0101d",
+        "\u062e\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136662
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c6966b7d73117c929628a52f3fcae8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561889,
+            "locality_id":1209872045,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1209872045,
+    "wof:lastmodified":1537581359,
+    "wof:name":"Khayrabad",
+    "wof:parent_id":1108561889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37054,
+    36.65665,
+    68.37054,
+    36.65665
+],
+  "geometry": {"coordinates":[68.37054000000001,36.65665],"type":"Point"}
+}

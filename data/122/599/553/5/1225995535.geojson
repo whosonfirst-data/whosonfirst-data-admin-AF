@@ -1,0 +1,73 @@
+{
+  "id": 1225995535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.49417,32.58972,67.49417,32.58972",
+    "geom:latitude":32.58972,
+    "geom:longitude":67.49417,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Dowlat Kheyl",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142767,
+    "gn:latitude":32.58972,
+    "gn:longitude":67.49417,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat Kheyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eawlatkh\u0113l",
+        "Dowlat Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142767
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82ece4c6c96d8ff880dfd8c7700b600e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1225995535,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1225995535,
+    "wof:lastmodified":1537581858,
+    "wof:name":"Dowlat Kheyl",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.49417,
+    32.58972,
+    67.49417,
+    32.58972
+],
+  "geometry": {"coordinates":[67.49417,32.58972],"type":"Point"}
+}

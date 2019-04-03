@@ -1,0 +1,75 @@
+{
+  "id": 1293735299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79412,34.79389,68.79412,34.79389",
+    "geom:latitude":34.79389,
+    "geom:longitude":68.79412,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Shibarak",
+    "gn:country_code":"AF",
+    "gn:dem":2755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125190,
+    "gn:latitude":34.79389,
+    "gn:longitude":68.79412,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shibarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ibarak",
+        "Shibarak",
+        "Sh\u012bbarak",
+        "Shaybarak",
+        "\u0634\u0628\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125190
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e503da13845809dba9fb862fae7ee96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1293735299,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1293735299,
+    "wof:lastmodified":1537580364,
+    "wof:name":"Shibarak",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79411999999999,
+    34.79389,
+    68.79411999999999,
+    34.79389
+],
+  "geometry": {"coordinates":[68.79411999999999,34.79389],"type":"Point"}
+}

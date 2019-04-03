@@ -1,0 +1,74 @@
+{
+  "id": 1226742211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0452,33.11304,64.0452,33.11304",
+    "geom:latitude":33.11304,
+    "geom:longitude":64.0452,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Lar Zari",
+    "gn:country_code":"AF",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134726,
+    "gn:latitude":33.11304,
+    "gn:longitude":64.0452,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lar Zar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazari",
+        "Lar-Zari",
+        "Lar Zar\u012b",
+        "\u0644\u0631 \u0632\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134726
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39e18fceae457f284e6b3d43b2f465bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1226742211,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226742211,
+    "wof:lastmodified":1537581197,
+    "wof:name":"Lar Zari",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0452,
+    33.11304000000001,
+    64.0452,
+    33.11304000000001
+],
+  "geometry": {"coordinates":[64.04519999999999,33.11304000000001],"type":"Point"}
+}

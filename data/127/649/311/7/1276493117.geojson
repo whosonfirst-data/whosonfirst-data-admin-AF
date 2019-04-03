@@ -1,0 +1,76 @@
+{
+  "id": 1276493117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30195,32.94921,67.30195,32.94921",
+    "geom:latitude":32.94921,
+    "geom:longitude":67.30195,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Sherzi",
+    "gn:country_code":"AF",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443326,
+    "gn:latitude":32.94921,
+    "gn:longitude":67.30195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113rz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113rzi",
+        "Sherzi",
+        "Shayrz\u012b",
+        "\u0634\u06cc\u0631\u0632\u06cc",
+        "Sh\u012brz\u012b",
+        "Sh\u0113rz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443326
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5118f2b1ad1de18f27befb4730b5912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1276493117,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276493117,
+    "wof:lastmodified":1537582950,
+    "wof:name":"Sherzi",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30195,
+    32.94921,
+    67.30195,
+    32.94921
+],
+  "geometry": {"coordinates":[67.30195000000001,32.94921],"type":"Point"}
+}

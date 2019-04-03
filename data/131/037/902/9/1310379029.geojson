@@ -1,0 +1,72 @@
+{
+  "id": 1310379029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38896,35.06964,69.38896,35.06964",
+    "geom:latitude":35.06964,
+    "geom:longitude":69.38896,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"201.0",
+    "gn:asciiname":"Badzhauri",
+    "gn:country_code":"AF",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423495,
+    "gn:latitude":35.06964,
+    "gn:longitude":69.38896,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Badzhauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101j\u0101wr\u012b",
+        "\u0628\u0627\u062c\u0627\u0648\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423495
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f0ce53c294940d729a607cc93c1824b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562235,
+            "locality_id":1310379029,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1310379029,
+    "wof:lastmodified":1537582578,
+    "wof:name":"Badzhauri",
+    "wof:parent_id":1108562235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38896,
+    35.06964,
+    69.38896,
+    35.06964
+],
+  "geometry": {"coordinates":[69.38896,35.06964],"type":"Point"}
+}

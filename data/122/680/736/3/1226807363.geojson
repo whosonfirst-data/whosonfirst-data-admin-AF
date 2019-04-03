@@ -1,0 +1,75 @@
+{
+  "id": 1226807363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74069,31.69934,66.74069,31.69934",
+    "geom:latitude":31.69934,
+    "geom:longitude":66.74069,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Zor Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476935,
+    "gn:latitude":31.69934,
+    "gn:longitude":66.74069,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u014d\u1e5f K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u014dr Kalay",
+        "Zor-Kalay",
+        "Z\u014d\u1e5f K\u00ealay",
+        "\u0632\u0648\u0693 \u06a9\u0644\u06cc",
+        "Z\u016br Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476935
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"283b695d5da106843a35e038ec8a27ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1226807363,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226807363,
+    "wof:lastmodified":1537583860,
+    "wof:name":"Zor Kelay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74069,
+    31.69934000000001,
+    66.74069,
+    31.69934000000001
+],
+  "geometry": {"coordinates":[66.74069,31.69934000000001],"type":"Point"}
+}

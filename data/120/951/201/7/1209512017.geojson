@@ -1,0 +1,67 @@
+{
+  "id": 1209512017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1855,33.0313,67.1855,33.0313",
+    "geom:latitude":33.0313,
+    "geom:longitude":67.1855,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Ghughah",
+    "gn:country_code":"AF",
+    "gn:dem":2703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450687,
+    "gn:latitude":33.0313,
+    "gn:longitude":67.1855,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u016bghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u016bgha",
+        "Gh\u016bghah",
+        "\u063a\u0648\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450687
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c13286d9ba448f034e6e8ca424894d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209512017
+        }
+    ],
+    "wof:id":1209512017,
+    "wof:lastmodified":1537583059,
+    "wof:name":"Ghughah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1855,
+    33.0313,
+    67.1855,
+    33.0313
+],
+  "geometry": {"coordinates":[67.1855,33.0313],"type":"Point"}
+}

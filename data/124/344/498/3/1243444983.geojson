@@ -1,0 +1,74 @@
+{
+  "id": 1243444983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.49696,33.73447,67.49696,33.73447",
+    "geom:latitude":33.73447,
+    "geom:longitude":67.49696,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Zayr-e Tiryak",
+    "gn:country_code":"AF",
+    "gn:dem":2976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442849,
+    "gn:latitude":33.73447,
+    "gn:longitude":67.49696,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zayr-e T\u012bryak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0113\u1e5fe T\u012b\u1e5fyak",
+        "Z\u012bre T\u012bryek",
+        "Zayr-e T\u012bryak",
+        "\u0632\u06cc\u0631 \u062a\u06cc\u0631\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442849
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08dcc3b3e793ff521c7fbb7f33e210f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1243444983,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243444983,
+    "wof:lastmodified":1537582939,
+    "wof:name":"Zayr-e Tiryak",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.49696,
+    33.73447,
+    67.49696,
+    33.73447
+],
+  "geometry": {"coordinates":[67.49696,33.73447],"type":"Point"}
+}

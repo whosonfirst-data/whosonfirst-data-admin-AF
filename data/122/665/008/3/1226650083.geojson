@@ -1,0 +1,73 @@
+{
+  "id": 1226650083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.03137,37.4072,70.03137,37.4072",
+    "geom:latitude":37.4072,
+    "geom:longitude":70.03137,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Sang-e Khah",
+    "gn:country_code":"AF",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467571,
+    "gn:latitude":37.4072,
+    "gn:longitude":70.03137,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Kh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang-i-Kh\u0101h",
+        "Sang-e Kh\u0101h",
+        "\u0633\u0646\u06af \u062e\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467571
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f2c480c38db24a61476b1e249c69f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1226650083,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226650083,
+    "wof:lastmodified":1537583488,
+    "wof:name":"Sang-e Khah",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.03137,
+    37.4072,
+    70.03137,
+    37.4072
+],
+  "geometry": {"coordinates":[70.03137,37.4072],"type":"Point"}
+}

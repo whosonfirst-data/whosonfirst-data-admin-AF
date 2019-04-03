@@ -1,0 +1,78 @@
+{
+  "id": 1343502267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38921,34.96075,71.38921,34.96075",
+    "geom:latitude":34.96075,
+    "geom:longitude":71.38921,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Meshah",
+    "gn:country_code":"AF",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452139,
+    "gn:latitude":34.96075,
+    "gn:longitude":71.38921,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0113shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u0113\u0161a",
+        "Mesha",
+        "M\u0113shah",
+        "M\u012bshah",
+        "\u0645\u06d0\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452139
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d47e9d587ed9165e7dd7b18010ce0844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561929,
+            "locality_id":1343502267,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1343502267,
+    "wof:lastmodified":1537583088,
+    "wof:name":"Meshah",
+    "wof:parent_id":1108561929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38920999999998,
+    34.96075,
+    71.38920999999998,
+    34.96075
+],
+  "geometry": {"coordinates":[71.38920999999998,34.96075],"type":"Point"}
+}

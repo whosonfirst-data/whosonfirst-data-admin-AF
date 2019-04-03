@@ -1,0 +1,74 @@
+{
+  "id": 1226102617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.08586,36.71549,67.08586,36.71549",
+    "geom:latitude":36.71549,
+    "geom:longitude":67.08586,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1602.0",
+    "gn:asciiname":"Turkmanabad",
+    "gn:country_code":"AF",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8550907,
+    "gn:latitude":36.71549,
+    "gn:longitude":67.08586,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Turkman\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turkman\u0101b\u0101d",
+        "\u062a\u0631\u06a9\u0645\u0646 \u0622\u0628\u0627\u062f",
+        "Sakh\u012b\u0101b\u0101d",
+        "\u0633\u062e\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        421187945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8550907
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c546876c531f2ed7c3b6486941e5493a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187945,
+            "locality_id":1226102617,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1226102617,
+    "wof:lastmodified":1537583945,
+    "wof:name":"Turkmanabad",
+    "wof:parent_id":421187945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08586,
+    36.71549,
+    67.08586,
+    36.71549
+],
+  "geometry": {"coordinates":[67.08586,36.71549],"type":"Point"}
+}

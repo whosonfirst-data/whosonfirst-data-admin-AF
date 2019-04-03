@@ -1,0 +1,68 @@
+{
+  "id": 1243122929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55,31.98333,68.55,31.98333",
+    "geom:latitude":31.98333,
+    "geom:longitude":68.55,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Ebrahimwal",
+    "gn:country_code":"AF",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142593,
+    "gn:latitude":31.98333,
+    "gn:longitude":68.55,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ebr\u0101h\u012bmw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142593
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2683c958b50fea1b60e1734d1b0030b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1243122929,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243122929,
+    "wof:lastmodified":1536775728,
+    "wof:name":"Ebrahimwal",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55,
+    31.98333,
+    68.55,
+    31.98333
+],
+  "geometry": {"coordinates":[68.55,31.98333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293580007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.14408,33.55046,68.14408,33.55046",
+    "geom:latitude":33.55046,
+    "geom:longitude":68.14408,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Shah Baydak",
+    "gn:country_code":"AF",
+    "gn:dem":2699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126063,
+    "gn:latitude":33.55046,
+    "gn:longitude":68.14408,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Baydak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u0628\u064a\u062f\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101hb\u0113dak",
+        "Shakhbedak",
+        "Sh\u0101h B\u012bdak",
+        "Sh\u0101h Baydak",
+        "\u0634\u0627\u0647 \u0628\u06cc\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126063
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b65ef36be545dfb71fffb3d974b693e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1293580007,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293580007,
+    "wof:lastmodified":1537580437,
+    "wof:name":"Shah Baydak",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.14408,
+    33.55046,
+    68.14408,
+    33.55046
+],
+  "geometry": {"coordinates":[68.14408,33.55046],"type":"Point"}
+}

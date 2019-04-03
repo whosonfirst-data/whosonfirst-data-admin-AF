@@ -1,0 +1,81 @@
+{
+  "id": 1243215493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49783,33.29659,69.49783,33.29659",
+    "geom:latitude":33.29659,
+    "geom:longitude":69.49783,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3213",
+    "gn:asciiname":"Zemitsah",
+    "gn:country_code":"AF",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120717,
+    "gn:latitude":33.29659,
+    "gn:longitude":69.49783,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u00eam\u012btsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0645\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "Zemicha",
+        "Z\u011bmica",
+        "Dzmitsah",
+        "Z\u00eamitsah",
+        "Z\u0113mitsah",
+        "\u0632\u06cc\u0645\u0686\u0647",
+        "Z\u00eam\u012btsah",
+        "\u0632\u0645\u06cc\u0685\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120717
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e5814c0037b64503b7798439e7fe8446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562469,
+            "locality_id":1243215493,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1243215493,
+    "wof:lastmodified":1537579961,
+    "wof:name":"Zemitsah",
+    "wof:parent_id":1108562469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49783000000001,
+    33.29659,
+    69.49783000000001,
+    33.29659
+],
+  "geometry": {"coordinates":[69.49783000000001,33.29659],"type":"Point"}
+}

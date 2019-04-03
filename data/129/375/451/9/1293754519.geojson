@@ -1,0 +1,81 @@
+{
+  "id": 1293754519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.60697,35.07968,69.60697,35.07968",
+    "geom:latitude":35.07968,
+    "geom:longitude":69.60697,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204",
+    "gn:asciiname":"Kulala",
+    "gn:country_code":"AF",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135752,
+    "gn:latitude":35.07968,
+    "gn:longitude":69.60697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kul\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0644\u0627\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kol\u0101l\u0101",
+        "Kulala",
+        "K\u016bl\u0101l\u0101",
+        "Kul\u0101l\u0101",
+        "\u06a9\u0644\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135752
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb11193e407467c7149cd19b6032cabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1293754519,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1293754519,
+    "wof:lastmodified":1537581283,
+    "wof:name":"Kulala",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.60696999999999,
+    35.07968,
+    69.60696999999999,
+    35.07968
+],
+  "geometry": {"coordinates":[69.60696999999999,35.07968],"type":"Point"}
+}

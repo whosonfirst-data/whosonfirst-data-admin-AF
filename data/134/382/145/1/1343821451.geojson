@@ -1,0 +1,72 @@
+{
+  "id": 1343821451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30626,34.05828,69.30626,34.05828",
+    "geom:latitude":34.05828,
+    "geom:longitude":69.30626,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"504.0",
+    "gn:asciiname":"Darkh",
+    "gn:country_code":"AF",
+    "gn:dem":2614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144055,
+    "gn:latitude":34.05828,
+    "gn:longitude":69.30626,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0ea\u1e5fkh",
+        "\u062f\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144055
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"184c83758d558471339dcb3f82bd79e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562169,
+            "locality_id":1343821451,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1343821451,
+    "wof:lastmodified":1537581971,
+    "wof:name":"Darkh",
+    "wof:parent_id":1108562169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30626,
+    34.05828,
+    69.30626,
+    34.05828
+],
+  "geometry": {"coordinates":[69.30625999999999,34.05828],"type":"Point"}
+}

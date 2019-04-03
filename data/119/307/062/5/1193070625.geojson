@@ -1,0 +1,74 @@
+{
+  "id": 1193070625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.36665,35.42199,71.36665,35.42199",
+    "geom:latitude":35.42199,
+    "geom:longitude":71.36665,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"Agasi",
+    "gn:country_code":"AF",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423897,
+    "gn:latitude":35.42199,
+    "gn:longitude":71.36665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Agas\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Agas\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f7616d6be6830d65c7ce94a226c8aae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562127,
+            "locality_id":1193070625,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1193070625,
+    "wof:lastmodified":1537582588,
+    "wof:name":"Agasi",
+    "wof:parent_id":1108562127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.36665,
+    35.42199,
+    71.36665,
+    35.42199
+],
+  "geometry": {"coordinates":[71.36665000000001,35.42199],"type":"Point"}
+}

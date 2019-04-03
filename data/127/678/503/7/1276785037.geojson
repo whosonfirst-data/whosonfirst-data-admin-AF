@@ -1,0 +1,77 @@
+{
+  "id": 1276785037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3468,34.71462,66.3468,34.71462",
+    "geom:latitude":34.71462,
+    "geom:longitude":66.3468,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Howzak",
+    "gn:country_code":"AF",
+    "gn:dem":2808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139920,
+    "gn:latitude":34.71462,
+    "gn:longitude":66.3468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ow\u1e95ak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khauzak",
+        "\u1e28aw\u1e0f\u1e95ak",
+        "\u1e28owz\u0327ak",
+        "\u1e28ow\u1e95ak",
+        "\u062d\u0648\u0636\u06a9",
+        "\u1e28owzak",
+        "\u062d\u0648\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139920
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6688046defc66d5f3118c155d3da45d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1276785037,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276785037,
+    "wof:lastmodified":1537581616,
+    "wof:name":"Howzak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3468,
+    34.71462,
+    66.3468,
+    34.71462
+],
+  "geometry": {"coordinates":[66.3468,34.71462],"type":"Point"}
+}

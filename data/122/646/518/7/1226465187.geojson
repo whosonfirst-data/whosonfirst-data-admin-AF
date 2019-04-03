@@ -1,0 +1,74 @@
+{
+  "id": 1226465187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03048,34.34435,67.03048,34.34435",
+    "geom:latitude":34.34435,
+    "geom:longitude":67.03048,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Kaj Now",
+    "gn:country_code":"AF",
+    "gn:dem":2732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462471,
+    "gn:latitude":34.34435,
+    "gn:longitude":67.03048,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadzhnau",
+        "Kaj Now",
+        "Kajn\u0101w",
+        "\u06a9\u062c \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462471
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"19c835d38f6620edac6f9c4aeebbba1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1226465187,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226465187,
+    "wof:lastmodified":1537583370,
+    "wof:name":"Kaj Now",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03048000000001,
+    34.34435,
+    67.03048000000001,
+    34.34435
+],
+  "geometry": {"coordinates":[67.03048000000001,34.34435],"type":"Point"}
+}

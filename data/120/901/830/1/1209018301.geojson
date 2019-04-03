@@ -1,0 +1,69 @@
+{
+  "id": 1209018301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51209,37.1326,70.51209,37.1326",
+    "geom:latitude":37.1326,
+    "geom:longitude":70.51209,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Bay Malasi",
+    "gn:country_code":"AF",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146727,
+    "gn:latitude":37.1326,
+    "gn:longitude":70.51209,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101y M\u0101las\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0627\u06cc \u0645\u0627\u0644\u0633\u06cc",
+        "Bay M\u0101lasi",
+        "B\u0101\u012b M\u0101las\u012b",
+        "B\u0101y M\u0101las\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146727,
+        "wk:page":"Bay_Malasi"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"afdf0ffb7bc2f76f2835cdaad32a148c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209018301
+        }
+    ],
+    "wof:id":1209018301,
+    "wof:lastmodified":1537582208,
+    "wof:name":"Bay Malasi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51209,
+    37.1326,
+    70.51209,
+    37.1326
+],
+  "geometry": {"coordinates":[70.51209,37.1326],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343909175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.98512,34.99878,68.98512,34.99878",
+    "geom:latitude":34.99878,
+    "geom:longitude":68.98512,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"304",
+    "gn:asciiname":"Khiwuh",
+    "gn:country_code":"AF",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136618,
+    "gn:latitude":34.99878,
+    "gn:longitude":68.98512,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khiwuh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khivu",
+        "Kh\u012bvoh",
+        "Khiwuh",
+        "\u062e\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136618
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"874f7578aa611ddd02af3d410c5656e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562495,
+            "locality_id":1343909175,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343909175,
+    "wof:lastmodified":1537581355,
+    "wof:name":"Khiwuh",
+    "wof:parent_id":1108562495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.98512,
+    34.99878,
+    68.98512,
+    34.99878
+],
+  "geometry": {"coordinates":[68.98511999999999,34.99878],"type":"Point"}
+}

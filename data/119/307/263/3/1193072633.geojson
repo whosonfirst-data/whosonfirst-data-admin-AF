@@ -1,0 +1,76 @@
+{
+  "id": 1193072633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22182,34.60605,70.22182,34.60605",
+    "geom:latitude":34.60605,
+    "geom:longitude":70.22182,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Garahwu",
+    "gn:country_code":"AF",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474591,
+    "gn:latitude":34.60605,
+    "gn:longitude":70.22182,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ga\u1e5fahw\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garavu",
+        "Garawu",
+        "Ga\u1e5fahw\u016b",
+        "\u06af\u0693\u0647\u0648\u0648",
+        "Ka\u1e5fahow",
+        "\u06a9\u0693\u0647 \u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474591
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a0420e0f16068c686df2bc4ebda7351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1193072633,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1193072633,
+    "wof:lastmodified":1537583816,
+    "wof:name":"Garahwu",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22182,
+    34.60605,
+    70.22182,
+    34.60605
+],
+  "geometry": {"coordinates":[70.22181999999999,34.60605],"type":"Point"}
+}

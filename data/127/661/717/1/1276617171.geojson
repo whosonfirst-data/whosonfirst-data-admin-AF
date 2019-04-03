@@ -1,0 +1,80 @@
+{
+  "id": 1276617171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.70041,34.26454,69.70041,34.26454",
+    "geom:latitude":34.26454,
+    "geom:longitude":69.70041,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"803",
+    "gn:asciiname":"Kilokas",
+    "gn:country_code":"AF",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135883,
+    "gn:latitude":34.26454,
+    "gn:longitude":69.70041,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u012bl\u014dkas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0648\u0643\u0633"
+    ],
+    "name:und_x_variant":[
+        "K\u012bl\u016b Kas",
+        "Kilokas",
+        "Kil\u014dkas",
+        "Kilowkas",
+        "\u0643\u0644\u0648\u0643\u0633",
+        "K\u012bl\u014dkas",
+        "\u06a9\u06cc\u0644\u0648 \u06a9\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135883
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d1a616ff44492b93f6795cb8abe4f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562065,
+            "locality_id":1276617171,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276617171,
+    "wof:lastmodified":1537581296,
+    "wof:name":"Kilokas",
+    "wof:parent_id":1108562065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.70040999999999,
+    34.26454,
+    69.70040999999999,
+    34.26454
+],
+  "geometry": {"coordinates":[69.70040999999999,34.26454],"type":"Point"}
+}

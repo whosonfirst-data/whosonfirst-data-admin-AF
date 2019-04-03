@@ -1,0 +1,78 @@
+{
+  "id": 1276168945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76978,34.90032,70.76978,34.90032",
+    "geom:latitude":34.90032,
+    "geom:longitude":70.76978,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Nakora",
+    "gn:country_code":"AF",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474088,
+    "gn:latitude":34.90032,
+    "gn:longitude":70.76978,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nakora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0643\u0648\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "N\u0101k\u014dr\u0101",
+        "Nakora",
+        "N\u0101k\u016br\u0101",
+        "N\u0101k\u014d\u1e5f\u0101",
+        "\u0646\u0627\u06a9\u0648\u0693\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474088
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8ad5b5b5fcac80f60424535c2815db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1276168945,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1276168945,
+    "wof:lastmodified":1537583780,
+    "wof:name":"Nakora",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76978000000003,
+    34.90032,
+    70.76978000000003,
+    34.90032
+],
+  "geometry": {"coordinates":[70.76978000000003,34.90032],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343229243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07684,36.19602,70.07684,36.19602",
+    "geom:latitude":36.19602,
+    "geom:longitude":70.07684,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Dayshanah",
+    "gn:country_code":"AF",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143176,
+    "gn:latitude":36.19602,
+    "gn:longitude":70.07684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dayshanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0113sana",
+        "Deshana",
+        "D\u0113shanah",
+        "Dayshanah",
+        "\u062f\u06cc\u0634\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143176
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76128ed5fd90b88c042000401178c256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1343229243,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1343229243,
+    "wof:lastmodified":1537581897,
+    "wof:name":"Dayshanah",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07684,
+    36.19602,
+    70.07684,
+    36.19602
+],
+  "geometry": {"coordinates":[70.07684,36.19602],"type":"Point"}
+}

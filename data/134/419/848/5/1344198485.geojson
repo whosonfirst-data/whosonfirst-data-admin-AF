@@ -1,0 +1,78 @@
+{
+  "id": 1344198485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18,34.89,71.18,34.89",
+    "geom:latitude":34.89,
+    "geom:longitude":71.18,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1002",
+    "gn:asciiname":"Marah Warah",
+    "gn:country_code":"AF",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133879,
+    "gn:latitude":34.89,
+    "gn:longitude":71.18,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Marah Warah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maravara",
+        "Marawarah",
+        "Ma\u1e5fawa\u1e5fa",
+        "Marwura",
+        "Marwura Alaqadari",
+        "Marawarra",
+        "Marah Warah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133879,
+        "wk:page":"Marawara"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eeb16153f5af09cf0fca3dd2808f204f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562245,
+            "locality_id":1344198485,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1344198485,
+    "wof:lastmodified":1537581129,
+    "wof:name":"Marah Warah",
+    "wof:parent_id":1108562245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18,
+    34.89,
+    71.18,
+    34.89
+],
+  "geometry": {"coordinates":[71.18000000000001,34.89],"type":"Point"}
+}

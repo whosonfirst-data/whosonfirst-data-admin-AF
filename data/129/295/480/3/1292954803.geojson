@@ -1,0 +1,73 @@
+{
+  "id": 1292954803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89726,35.51914,65.89726,35.51914",
+    "geom:latitude":35.51914,
+    "geom:longitude":65.89726,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Sofak",
+    "gn:country_code":"AF",
+    "gn:dem":2509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124287,
+    "gn:latitude":35.51914,
+    "gn:longitude":65.89726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015e\u014dfak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u014dfak",
+        "\u0635\u0648\u0641\u06a9",
+        "Sofak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124287
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89e2e9b586041e56daff2be3b12bb20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1292954803,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1292954803,
+    "wof:lastmodified":1537580289,
+    "wof:name":"Sofak",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89726,
+    35.51914,
+    65.89726,
+    35.51914
+],
+  "geometry": {"coordinates":[65.89726,35.51914],"type":"Point"}
+}

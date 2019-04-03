@@ -1,0 +1,78 @@
+{
+  "id": 1309981813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71326,34.31102,70.71326,34.31102",
+    "geom:latitude":34.31102,
+    "geom:longitude":70.71326,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"817.0",
+    "gn:asciiname":"Barikav",
+    "gn:country_code":"AF",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146939,
+    "gn:latitude":34.31102,
+    "gn:longitude":70.71326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barikav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u064a\u0643\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "B\u0101\u1e5fik\u0101w",
+        "Barikav",
+        "B\u0101r\u012bk\u0101b",
+        "B\u0101r\u012bk\u0101w",
+        "\u0628\u0627\u0631\u06cc\u06a9\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"22d230735f9528d60ac3a6f68ea7ea55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561865,
+            "locality_id":1309981813,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1309981813,
+    "wof:lastmodified":1537582226,
+    "wof:name":"Barikav",
+    "wof:parent_id":1108561865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71325999999998,
+    34.31102,
+    70.71325999999998,
+    34.31102
+],
+  "geometry": {"coordinates":[70.71325999999998,34.31102],"type":"Point"}
+}

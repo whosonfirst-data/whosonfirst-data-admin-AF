@@ -1,0 +1,81 @@
+{
+  "id": 1343284561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.11438,34.51273,67.11438,34.51273",
+    "geom:latitude":34.51273,
+    "geom:longitude":67.11438,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Kaj Kol",
+    "gn:country_code":"AF",
+    "gn:dem":3088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138729,
+    "gn:latitude":34.51273,
+    "gn:longitude":67.11438,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaj K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kadzhkol\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0434\u0436\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kajk\u014dl",
+        "Kaj Q\u014dl",
+        "Kajk\u016bl",
+        "Kaj K\u014dl",
+        "\u06a9\u062c \u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138729
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c385106bd0cdedae251fb9bbdd9a921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1343284561,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343284561,
+    "wof:lastmodified":1537581520,
+    "wof:name":"Kaj Kol",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.11438000000001,
+    34.51273,
+    67.11438000000001,
+    34.51273
+],
+  "geometry": {"coordinates":[67.11438000000001,34.51273],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360125275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32904,34.67944,70.32904,34.67944",
+    "geom:latitude":34.67944,
+    "geom:longitude":70.32904,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903",
+    "gn:asciiname":"Gularam",
+    "gn:country_code":"AF",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140581,
+    "gn:latitude":34.67944,
+    "gn:longitude":70.32904,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul\u0101r\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0644\u0627\u0631\u0627\u0645",
+        "Gul\u0101\u1e5f\u0101m",
+        "Gul\u0101r\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140581
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9a6324ca2e3628356320cebe9637c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1360125275,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1360125275,
+    "wof:lastmodified":1537581676,
+    "wof:name":"Gularam",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32904,
+    34.67944,
+    70.32904,
+    34.67944
+],
+  "geometry": {"coordinates":[70.32904000000001,34.67944],"type":"Point"}
+}

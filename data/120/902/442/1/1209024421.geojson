@@ -1,0 +1,72 @@
+{
+  "id": 1209024421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40599,31.6846,64.40599,31.6846",
+    "geom:latitude":31.6846,
+    "geom:longitude":64.40599,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Panjow",
+    "gn:country_code":"AF",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131156,
+    "gn:latitude":31.6846,
+    "gn:longitude":64.40599,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Panjow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062c \u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "Pandzhav",
+        "Panjaw",
+        "Panjow",
+        "\u067e\u0646\u062c\u0648",
+        "Panj \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131156
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c342437091fae2314ec8ee74da7b5d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209024421
+        }
+    ],
+    "wof:id":1209024421,
+    "wof:lastmodified":1537580900,
+    "wof:name":"Panjow",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40599,
+    31.6846,
+    64.40599,
+    31.6846
+],
+  "geometry": {"coordinates":[64.40599,31.6846],"type":"Point"}
+}

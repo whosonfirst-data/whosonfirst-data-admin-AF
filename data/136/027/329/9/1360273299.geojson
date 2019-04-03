@@ -1,0 +1,75 @@
+{
+  "id": 1360273299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.10097,34.24122,62.10097,34.24122",
+    "geom:latitude":34.24122,
+    "geom:longitude":62.10097,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Ghuli Shah",
+    "gn:country_code":"AF",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472141,
+    "gn:latitude":34.24122,
+    "gn:longitude":62.10097,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghul\u012b Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulishakh",
+        "Ghol\u012b \u0160\u0101h",
+        "Ghul\u012b Sh\u0101h",
+        "\u063a\u0644\u06cc \u0634\u0627\u0647",
+        "Ghol\u012b Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472141
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8e3ddae3628bbd157ba4c64fb408654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1360273299,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1360273299,
+    "wof:lastmodified":1537583670,
+    "wof:name":"Ghuli Shah",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.10097,
+    34.24122,
+    62.10097,
+    34.24122
+],
+  "geometry": {"coordinates":[62.10097,34.24122],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343954593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36191,34.65451,66.36191,34.65451",
+    "geom:latitude":34.65451,
+    "geom:longitude":66.36191,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Sar-e Dasht",
+    "gn:country_code":"AF",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127212,
+    "gn:latitude":34.65451,
+    "gn:longitude":66.36191,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sare Da\u0161t",
+        "Sari-Dasht",
+        "Sar-e Dasht",
+        "\u0633\u0631 \u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127212
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e6f57fef54c06a312790db54e9e3200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1343954593,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343954593,
+    "wof:lastmodified":1537580540,
+    "wof:name":"Sar-e Dasht",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36191,
+    34.65450999999999,
+    66.36191,
+    34.65450999999999
+],
+  "geometry": {"coordinates":[66.36190999999999,34.65450999999999],"type":"Point"}
+}

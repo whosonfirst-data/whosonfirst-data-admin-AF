@@ -1,0 +1,71 @@
+{
+  "id": 1293750773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96697,36.29067,69.96697,36.29067",
+    "geom:latitude":36.29067,
+    "geom:longitude":69.96697,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Sar-e Tang",
+    "gn:country_code":"AF",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127044,
+    "gn:latitude":36.29067,
+    "gn:longitude":69.96697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631 \u062a\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127044
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3a4b757e8744e81dacf3e53160c3b40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1293750773,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293750773,
+    "wof:lastmodified":1537580523,
+    "wof:name":"Sar-e Tang",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96696999999999,
+    36.29067,
+    69.96696999999999,
+    36.29067
+],
+  "geometry": {"coordinates":[69.96696999999999,36.29067],"type":"Point"}
+}

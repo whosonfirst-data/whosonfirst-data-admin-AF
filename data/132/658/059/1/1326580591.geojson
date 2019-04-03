@@ -1,0 +1,74 @@
+{
+  "id": 1326580591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59992,32.31269,66.59992,32.31269",
+    "geom:latitude":32.31269,
+    "geom:longitude":66.59992,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Jaghtu",
+    "gn:country_code":"AF",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139759,
+    "gn:latitude":32.31269,
+    "gn:longitude":66.59992,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101ght\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhagtu",
+        "J\u0101ght\u016b",
+        "\u062c\u0627\u063a\u062a\u0648",
+        "J\u0101ghtu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139759
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"47249224024c1f15ffb5de2563613c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1326580591,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1326580591,
+    "wof:lastmodified":1537581604,
+    "wof:name":"Jaghtu",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59992,
+    32.31269,
+    66.59992,
+    32.31269
+],
+  "geometry": {"coordinates":[66.59992,32.31269],"type":"Point"}
+}

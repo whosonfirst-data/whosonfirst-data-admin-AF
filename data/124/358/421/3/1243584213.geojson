@@ -1,0 +1,81 @@
+{
+  "id": 1243584213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64252,35.37902,69.64252,35.37902",
+    "geom:latitude":35.37902,
+    "geom:longitude":69.64252,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3303.0",
+    "gn:asciiname":"Kijol",
+    "gn:country_code":"AF",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429406,
+    "gn:latitude":35.37902,
+    "gn:longitude":69.64252,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kij\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u062c\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0434\u0436\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kidzhol\u2019",
+        "Kej\u014dl",
+        "Kej\u016bl",
+        "Kij\u014dl",
+        "\u06a9\u062c\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad68ed13af633de91be6e0d5977aeb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562163,
+            "locality_id":1243584213,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1243584213,
+    "wof:lastmodified":1537582668,
+    "wof:name":"Kijol",
+    "wof:parent_id":1108562163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64251999999999,
+    35.37902000000001,
+    69.64251999999999,
+    35.37902000000001
+],
+  "geometry": {"coordinates":[69.64251999999999,35.37902000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326937591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63742,35.60386,68.63742,35.60386",
+    "geom:latitude":35.60386,
+    "geom:longitude":68.63742,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1304.0",
+    "gn:asciiname":"Darahgak",
+    "gn:country_code":"AF",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144137,
+    "gn:latitude":35.60386,
+    "gn:longitude":68.63742,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darahgak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u0647 \u06af\u06a9",
+        "Daragak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144137
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d91ea03bba77ea008d8d8db79e0b8bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1326937591,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1326937591,
+    "wof:lastmodified":1537581976,
+    "wof:name":"Darahgak",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63741999999999,
+    35.60386,
+    68.63741999999999,
+    35.60386
+],
+  "geometry": {"coordinates":[68.63741999999999,35.60386],"type":"Point"}
+}

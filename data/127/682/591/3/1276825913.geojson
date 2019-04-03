@@ -1,0 +1,73 @@
+{
+  "id": 1276825913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31135,36.3755,69.31135,36.3755",
+    "geom:latitude":36.3755,
+    "geom:longitude":69.31135,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203",
+    "gn:asciiname":"Sar-e Bazar",
+    "gn:country_code":"AF",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127247,
+    "gn:latitude":36.3755,
+    "gn:longitude":69.31135,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5f-i-B\u0101\u1e95\u0101\u1e5f",
+        "Sar-e B\u0101z\u0101r",
+        "\u0633\u0631 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127247
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dfd9683c3271358c41ef97f4651e7f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1276825913,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1276825913,
+    "wof:lastmodified":1537580543,
+    "wof:name":"Sar-e Bazar",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31135,
+    36.3755,
+    69.31135,
+    36.3755
+],
+  "geometry": {"coordinates":[69.31135,36.3755],"type":"Point"}
+}

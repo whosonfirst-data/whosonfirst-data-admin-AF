@@ -1,0 +1,74 @@
+{
+  "id": 1293667925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.10881,32.39303,65.10881,32.39303",
+    "geom:latitude":32.39303,
+    "geom:longitude":65.10881,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Nowabad",
+    "gn:country_code":"AF",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474759,
+    "gn:latitude":32.39303,
+    "gn:longitude":65.10881,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Navabad",
+        "Naw\u0101b\u0101d",
+        "Now\u0101b\u0101d",
+        "\u0646\u0648 \u0622\u0628\u0627\u0689"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474759
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"319ddb6f63c1637f205543798074eb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1293667925,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293667925,
+    "wof:lastmodified":1537583826,
+    "wof:name":"Nowabad",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.10880999999999,
+    32.39303,
+    65.10880999999999,
+    32.39303
+],
+  "geometry": {"coordinates":[65.10880999999999,32.39303],"type":"Point"}
+}

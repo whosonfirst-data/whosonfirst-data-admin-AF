@@ -1,0 +1,81 @@
+{
+  "id": 1326686763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.57962,36.93669,69.57962,36.93669",
+    "geom:latitude":36.93669,
+    "geom:longitude":69.57962,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1215.0",
+    "gn:asciiname":"Jidah",
+    "gn:country_code":"AF",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6252077,
+    "gn:latitude":36.93669,
+    "gn:longitude":69.57962,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064a\u062f\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzhida",
+        "J\u012b\u1e0fa",
+        "J\u012bddeh",
+        "J\u012bdah",
+        "\u062c\u06cc\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6252077
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d91c9e61a99e5ab61d68fa19e226d349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562061,
+            "locality_id":1326686763,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1326686763,
+    "wof:lastmodified":1537583897,
+    "wof:name":"Jidah",
+    "wof:parent_id":1108562061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.57961999999999,
+    36.93669000000001,
+    69.57961999999999,
+    36.93669000000001
+],
+  "geometry": {"coordinates":[69.57961999999999,36.93669000000001],"type":"Point"}
+}

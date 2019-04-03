@@ -1,0 +1,72 @@
+{
+  "id": 1310144147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64429,34.84842,68.64429,34.84842",
+    "geom:latitude":34.84842,
+    "geom:longitude":68.64429,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Kharakin",
+    "gn:country_code":"AF",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137048,
+    "gn:latitude":34.84842,
+    "gn:longitude":68.64429,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kharak\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kharak\u012bn",
+        "\u062e\u0631\u06a9\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137048
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"134a82418b8ec3d8ebb5910fdce16bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1310144147,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1310144147,
+    "wof:lastmodified":1537581388,
+    "wof:name":"Kharakin",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64429,
+    34.84842,
+    68.64429,
+    34.84842
+],
+  "geometry": {"coordinates":[68.64429,34.84842],"type":"Point"}
+}

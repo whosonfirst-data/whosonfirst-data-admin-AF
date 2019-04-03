@@ -1,0 +1,74 @@
+{
+  "id": 1343903673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33652,35.84233,67.33652,35.84233",
+    "geom:latitude":35.84233,
+    "geom:longitude":67.33652,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Torpaghli",
+    "gn:country_code":"AF",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1122259,
+    "gn:latitude":35.84233,
+    "gn:longitude":67.33652,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014drpaghl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "T\u014d\u1e5fpaghli",
+        "Towrpaghl\u012b",
+        "T\u014drpaghl\u012b",
+        "\u062a\u0648\u0631\u067e\u063a\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122259
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"50a43d44d8ad5e2301fbe5f20fddc6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1343903673,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1343903673,
+    "wof:lastmodified":1537580100,
+    "wof:name":"Torpaghli",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33652,
+    35.84233,
+    67.33652,
+    35.84233
+],
+  "geometry": {"coordinates":[67.33651999999999,35.84233],"type":"Point"}
+}

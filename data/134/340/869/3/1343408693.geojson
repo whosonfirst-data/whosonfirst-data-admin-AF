@@ -1,0 +1,74 @@
+{
+  "id": 1343408693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51373,31.89594,66.51373,31.89594",
+    "geom:latitude":31.89594,
+    "geom:longitude":66.51373,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"De Kakarano Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476980,
+    "gn:latitude":31.89594,
+    "gn:longitude":66.51373,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea K\u0101ka\u1e5f\u0101n\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakaranu-Kalay",
+        "\u062f \u06a9\u0627\u06a9\u0693\u0627\u0646\u0648 \u06a9\u0644\u06cc",
+        "De K\u0101kar\u0101no Kalay",
+        "D\u00ea K\u0101ka\u1e5f\u0101n\u014d K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"260f834c8c834d0dd2f88165417a39e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1343408693,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343408693,
+    "wof:lastmodified":1537583862,
+    "wof:name":"De Kakarano Kelay",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.51373000000001,
+    31.89594,
+    66.51373000000001,
+    31.89594
+],
+  "geometry": {"coordinates":[66.51373000000001,31.89594],"type":"Point"}
+}

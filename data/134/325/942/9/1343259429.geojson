@@ -1,0 +1,76 @@
+{
+  "id": 1343259429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30717,33.10855,68.30717,33.10855",
+    "geom:latitude":33.10855,
+    "geom:longitude":68.30717,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Ludian",
+    "gn:country_code":"AF",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134490,
+    "gn:latitude":33.10855,
+    "gn:longitude":68.30717,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ludian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062f\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "L\u016b\u1e0fy\u0101n",
+        "Ludian",
+        "L\u016bd\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"759190c3e221ef549d5c66a671d2b2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1343259429,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343259429,
+    "wof:lastmodified":1537581179,
+    "wof:name":"Ludian",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30717,
+    33.10855,
+    68.30717,
+    33.10855
+],
+  "geometry": {"coordinates":[68.30717,33.10855],"type":"Point"}
+}

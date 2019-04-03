@@ -1,0 +1,79 @@
+{
+  "id": 1243539989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23862,33.00361,68.23862,33.00361",
+    "geom:latitude":33.00361,
+    "geom:longitude":68.23862,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Oriski",
+    "gn:country_code":"AF",
+    "gn:dem":2127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131475,
+    "gn:latitude":33.00361,
+    "gn:longitude":68.23862,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Oriski",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u064a\u0633\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u014c\u1e5f\u012bski",
+        "\u016arusk\u012b",
+        "\u016ariski",
+        "\u014cr\u012bsk\u012b",
+        "\u0627\u0648\u0631\u06cc\u0633\u06a9\u06cc",
+        "\u0648\u0631\u064a\u0633\u0643\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131475
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b89be60b380d95d1d28ccf618554565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1243539989,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243539989,
+    "wof:lastmodified":1537580923,
+    "wof:name":"Oriski",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23862,
+    33.00360999999999,
+    68.23862,
+    33.00360999999999
+],
+  "geometry": {"coordinates":[68.23862,33.00360999999999],"type":"Point"}
+}

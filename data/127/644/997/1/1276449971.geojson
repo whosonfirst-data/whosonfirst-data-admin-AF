@@ -1,0 +1,75 @@
+{
+  "id": 1276449971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76,36.17,68.76,36.17",
+    "geom:latitude":36.17,
+    "geom:longitude":68.76,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Makhadzhir",
+    "gn:country_code":"AF",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134290,
+    "gn:latitude":36.17,
+    "gn:longitude":68.76,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Makhadzhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u0434\u0436\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mah\u0101jer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134290,
+        "wk:page":"Mahajer"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a633207f69e9c1f55a514a2b2ef486fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1276449971,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276449971,
+    "wof:lastmodified":1537581162,
+    "wof:name":"Makhadzhir",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76,
+    36.17,
+    68.76,
+    36.17
+],
+  "geometry": {"coordinates":[68.76000000000001,36.17],"type":"Point"}
+}

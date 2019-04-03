@@ -1,0 +1,78 @@
+{
+  "id": 1293267943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61214,34.69714,70.61214,34.69714",
+    "geom:latitude":34.69714,
+    "geom:longitude":70.61214,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Baba Lamatik",
+    "gn:country_code":"AF",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473991,
+    "gn:latitude":34.69714,
+    "gn:longitude":70.61214,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u0101 Lama\u1e6fik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627 \u0644\u0645\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Babalamatik",
+        "\u0628\u0627\u0628\u0627 \u0644\u0645\u062a\u06a9",
+        "B\u0101b\u0101 Lamatek",
+        "B\u0101b\u0101 Lama\u1e6fik",
+        "\u0628\u0627\u0628\u0627 \u0644\u0645\u067c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473991
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"36275eb96d2fce3283d50089e2c82307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1293267943,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293267943,
+    "wof:lastmodified":1537583776,
+    "wof:name":"Baba Lamatik",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61214,
+    34.69714,
+    70.61214,
+    34.69714
+],
+  "geometry": {"coordinates":[70.61214,34.69714],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360176157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.19698,35.85025,65.19698,35.85025",
+    "geom:latitude":35.85025,
+    "geom:longitude":65.19698,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1806",
+    "gn:asciiname":"Pul-e Khishti",
+    "gn:country_code":"AF",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130492,
+    "gn:latitude":35.85025,
+    "gn:longitude":65.19698,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pul-e Khisht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pul-i-Khes\u0304ti",
+        "Pol-e Khesht\u012b",
+        "Pul-e Khisht\u012b",
+        "\u067e\u0644 \u062e\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130492
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"912e39198c1f4cdd3031393a07a700f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561873,
+            "locality_id":1360176157,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1360176157,
+    "wof:lastmodified":1537580842,
+    "wof:name":"Pul-e Khishti",
+    "wof:parent_id":1108561873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.19698000000001,
+    35.85025,
+    65.19698000000001,
+    35.85025
+],
+  "geometry": {"coordinates":[65.19698000000001,35.85025],"type":"Point"}
+}

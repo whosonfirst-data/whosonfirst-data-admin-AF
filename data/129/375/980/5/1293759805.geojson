@@ -1,0 +1,76 @@
+{
+  "id": 1293759805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88962,34.11035,68.88962,34.11035",
+    "geom:latitude":34.11035,
+    "geom:longitude":68.88962,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"501",
+    "gn:asciiname":"Shulak",
+    "gn:country_code":"AF",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124882,
+    "gn:latitude":34.11035,
+    "gn:longitude":68.88962,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u016blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u016blak",
+        "Shirlakh",
+        "Sh\u016blak",
+        "Shulak",
+        "Showlak",
+        "\u0634\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124882
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d05ac298201d508924e290f4852d4abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562361,
+            "locality_id":1293759805,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293759805,
+    "wof:lastmodified":1537580335,
+    "wof:name":"Shulak",
+    "wof:parent_id":1108562361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88962,
+    34.11035,
+    68.88962,
+    34.11035
+],
+  "geometry": {"coordinates":[68.88961999999999,34.11035],"type":"Point"}
+}

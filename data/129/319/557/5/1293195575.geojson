@@ -1,0 +1,73 @@
+{
+  "id": 1293195575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.69593,32.73653,64.69593,32.73653",
+    "geom:latitude":32.73653,
+    "geom:longitude":64.69593,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304",
+    "gn:asciiname":"Mir Khanabad",
+    "gn:country_code":"AF",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133235,
+    "gn:latitude":32.73653,
+    "gn:longitude":64.69593,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br Kh\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirkhanabad",
+        "M\u012br Kh\u0101n\u0101b\u0101d",
+        "\u0645\u06cc\u0631 \u062e\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133235
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ed44da1dfbdf486df70aa2fd57b29c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1293195575,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293195575,
+    "wof:lastmodified":1537581079,
+    "wof:name":"Mir Khanabad",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.69593,
+    32.73653,
+    64.69593,
+    32.73653
+],
+  "geometry": {"coordinates":[64.69593,32.73653],"type":"Point"}
+}

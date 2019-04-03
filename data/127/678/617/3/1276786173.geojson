@@ -1,0 +1,72 @@
+{
+  "id": 1276786173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28378,33.09071,67.28378,33.09071",
+    "geom:latitude":33.09071,
+    "geom:longitude":67.28378,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Malikak",
+    "gn:country_code":"AF",
+    "gn:dem":2683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450664,
+    "gn:latitude":33.09071,
+    "gn:longitude":67.28378,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malikak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0644\u06a9\u06a9",
+        "Malekak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450664
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c16790d7511e5c5a74f8569fab8a1fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1276786173,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276786173,
+    "wof:lastmodified":1537583058,
+    "wof:name":"Malikak",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28378000000001,
+    33.09070999999999,
+    67.28378000000001,
+    33.09070999999999
+],
+  "geometry": {"coordinates":[67.28378000000001,33.09070999999999],"type":"Point"}
+}

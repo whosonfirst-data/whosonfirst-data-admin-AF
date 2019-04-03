@@ -1,0 +1,71 @@
+{
+  "id": 1259490743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14045,36.22405,69.14045,36.22405",
+    "geom:latitude":36.22405,
+    "geom:longitude":69.14045,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Shash Kal",
+    "gn:country_code":"AF",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534756,
+    "gn:latitude":36.22405,
+    "gn:longitude":69.14045,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash Kal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0634\u0634 \u06a9\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534756
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"252f73f60376bdaf415c5dfeb1dba502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561875,
+            "locality_id":1259490743,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259490743,
+    "wof:lastmodified":1537583943,
+    "wof:name":"Shash Kal",
+    "wof:parent_id":1108561875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14045,
+    36.22405,
+    69.14045,
+    36.22405
+],
+  "geometry": {"coordinates":[69.14045,36.22405],"type":"Point"}
+}

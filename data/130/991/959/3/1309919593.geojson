@@ -1,0 +1,73 @@
+{
+  "id": 1309919593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62423,37.04125,70.62423,37.04125",
+    "geom:latitude":37.04125,
+    "geom:longitude":70.62423,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115",
+    "gn:asciiname":"Spin Gaw",
+    "gn:country_code":"AF",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123892,
+    "gn:latitude":37.04125,
+    "gn:longitude":70.62423,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bn G\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u067e\u06cc\u0646 \u06af\u0627\u0648",
+        "Sp\u012bn G\u0101v",
+        "Sp\u012bn G\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123892
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c6dc2d3c2695daa586a1f0538183d21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1309919593,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309919593,
+    "wof:lastmodified":1537580256,
+    "wof:name":"Spin Gaw",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62423000000003,
+    37.04125,
+    70.62423000000003,
+    37.04125
+],
+  "geometry": {"coordinates":[70.62423000000003,37.04125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309755373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18009,36.12348,68.18009,36.12348",
+    "geom:latitude":36.12348,
+    "geom:longitude":68.18009,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Dasht-e Gharmah",
+    "gn:country_code":"AF",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7520566,
+    "gn:latitude":36.12348,
+    "gn:longitude":68.18009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht-e Gharmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u062f\u0634\u062a \u063a\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7520566
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0a0337d80a92c531755ce326a5bee1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1309755373,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1309755373,
+    "wof:lastmodified":1537583924,
+    "wof:name":"Dasht-e Gharmah",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18009,
+    36.12348,
+    68.18009,
+    36.12348
+],
+  "geometry": {"coordinates":[68.18009000000001,36.12348],"type":"Point"}
+}

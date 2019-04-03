@@ -1,0 +1,79 @@
+{
+  "id": 1260374963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.97822,33.8966,64.97822,33.8966",
+    "geom:latitude":33.8966,
+    "geom:longitude":64.97822,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Sar Garmaw",
+    "gn:country_code":"AF",
+    "gn:dem":2598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126995,
+    "gn:latitude":33.8966,
+    "gn:longitude":64.97822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Garm\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u0101\u1e5f\u0101",
+        "Kara",
+        "Sa\u1e5f Ga\u1e5fmaw",
+        "Sargarmav",
+        "Sar Garm\u0101w",
+        "\u0633\u0631 \u06af\u0631\u0645\u0627\u0648",
+        "Sar Garm \u0100b",
+        "Sar Q\u0101r\u0101",
+        "\u0633\u0631 \u0642\u0627\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126995
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"234aa207f7a9a1572e97fcfa940ecd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1260374963,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1260374963,
+    "wof:lastmodified":1537580519,
+    "wof:name":"Sar Garmaw",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.97822,
+    33.8966,
+    64.97822,
+    33.8966
+],
+  "geometry": {"coordinates":[64.97821999999999,33.8966],"type":"Point"}
+}

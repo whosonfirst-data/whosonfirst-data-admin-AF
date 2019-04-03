@@ -1,0 +1,77 @@
+{
+  "id": 1293335425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54873,35.36715,71.54873,35.36715",
+    "geom:latitude":35.36715,
+    "geom:longitude":71.54873,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1005",
+    "gn:asciiname":"Shinadan",
+    "gn:country_code":"AF",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125378,
+    "gn:latitude":35.36715,
+    "gn:longitude":71.54873,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shin\u0101d\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0627\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0160en\u0101d\u0101n",
+        "Shinadan",
+        "Shen\u0101d\u0101n",
+        "Shin\u0101d\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125378
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c46821b4ca5d29aca9bda956e2ef2f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562307,
+            "locality_id":1293335425,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293335425,
+    "wof:lastmodified":1537580384,
+    "wof:name":"Shinadan",
+    "wof:parent_id":1108562307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54873,
+    35.36715,
+    71.54873,
+    35.36715
+],
+  "geometry": {"coordinates":[71.54873000000001,35.36715],"type":"Point"}
+}

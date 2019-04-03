@@ -1,0 +1,78 @@
+{
+  "id": 1276205707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17116,34.75724,69.17116,34.75724",
+    "geom:latitude":34.75724,
+    "geom:longitude":69.17116,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"104.0",
+    "gn:asciiname":"Sufia",
+    "gn:country_code":"AF",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349826,
+    "gn:latitude":34.75724,
+    "gn:longitude":69.17116,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sufia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0641\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u016bfi\u0101",
+        "\u015e\u016bf\u012bh\u0101",
+        "\u015e\u016bf\u012b\u0101n",
+        "\u015e\u016bf\u012b\u0101",
+        "\u0635\u0648\u0641\u06cc\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349826
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f1dafb36edf3f1e391265de843f016a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562117,
+            "locality_id":1276205707,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1276205707,
+    "wof:lastmodified":1537582480,
+    "wof:name":"Sufia",
+    "wof:parent_id":1108562117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17116,
+    34.75724,
+    69.17116,
+    34.75724
+],
+  "geometry": {"coordinates":[69.17116,34.75724],"type":"Point"}
+}

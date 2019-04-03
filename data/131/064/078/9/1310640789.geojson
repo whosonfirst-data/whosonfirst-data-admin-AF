@@ -1,0 +1,76 @@
+{
+  "id": 1310640789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10739,33.44123,69.10739,33.44123",
+    "geom:latitude":33.44123,
+    "geom:longitude":69.10739,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702.0",
+    "gn:asciiname":"Malokan",
+    "gn:country_code":"AF",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434876,
+    "gn:latitude":33.44123,
+    "gn:longitude":69.10739,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mal\u014dk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mal\u014dk\u0101n",
+        "Mal\u016bk\u0101n",
+        "\u0645\u0644\u0648\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b82a195dc225361250316426c0c1cbd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1310640789,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310640789,
+    "wof:lastmodified":1537582743,
+    "wof:name":"Malokan",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10739000000001,
+    33.44123,
+    69.10739000000001,
+    33.44123
+],
+  "geometry": {"coordinates":[69.10739000000001,33.44123],"type":"Point"}
+}

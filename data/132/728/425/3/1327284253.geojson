@@ -1,0 +1,78 @@
+{
+  "id": 1327284253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85283,36.90146,66.85283,36.90146",
+    "geom:latitude":36.90146,
+    "geom:longitude":66.85283,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606",
+    "gn:asciiname":"Shah Ab",
+    "gn:country_code":"AF",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126098,
+    "gn:latitude":36.90146,
+    "gn:longitude":66.85283,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u0622\u0628"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0430\u0431"
+    ],
+    "name:und_x_variant":[
+        "Shakhab",
+        "Sh\u0101h \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126098
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"df52777b9dad3e6f7c98b298b6d28e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1327284253,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1327284253,
+    "wof:lastmodified":1537580441,
+    "wof:name":"Shah Ab",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85283000000001,
+    36.90146,
+    66.85283000000001,
+    36.90146
+],
+  "geometry": {"coordinates":[66.85283000000001,36.90146],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344232763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15773,34.1738,70.15773,34.1738",
+    "geom:latitude":34.1738,
+    "geom:longitude":70.15773,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Sanganay",
+    "gn:country_code":"AF",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126416,
+    "gn:latitude":34.1738,
+    "gn:longitude":70.15773,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang\u0101\u1e49ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u0627\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Singani",
+        "Sang\u0101\u1e49ay",
+        "Seng\u0101ni",
+        "\u0633\u0646\u06af\u0627\u06bc\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126416
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"25a9936abc107a418007cc9bdc837e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1344232763,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1344232763,
+    "wof:lastmodified":1537580475,
+    "wof:name":"Sanganay",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15773,
+    34.1738,
+    70.15773,
+    34.1738
+],
+  "geometry": {"coordinates":[70.15773,34.1738],"type":"Point"}
+}

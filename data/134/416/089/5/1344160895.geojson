@@ -1,0 +1,73 @@
+{
+  "id": 1344160895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.13365,36.64583,71.13365,36.64583",
+    "geom:latitude":36.64583,
+    "geom:longitude":71.13365,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1125",
+    "gn:asciiname":"Sarask",
+    "gn:country_code":"AF",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127399,
+    "gn:latitude":36.64583,
+    "gn:longitude":71.13365,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar\u0101sk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0631\u0627\u0633\u06a9",
+        "Sa\u1e5f\u0101sk",
+        "Sar\u0101sk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127399
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a77eab6280a1c8d4de448547a518be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562567,
+            "locality_id":1344160895,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1344160895,
+    "wof:lastmodified":1537580554,
+    "wof:name":"Sarask",
+    "wof:parent_id":1108562567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.13365,
+    36.64583,
+    71.13365,
+    36.64583
+],
+  "geometry": {"coordinates":[71.13365,36.64583],"type":"Point"}
+}

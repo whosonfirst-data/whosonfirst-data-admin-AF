@@ -1,0 +1,74 @@
+{
+  "id": 1310546333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72013,35.02113,70.72013,35.02113",
+    "geom:latitude":35.02113,
+    "geom:longitude":70.72013,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Samtal",
+    "gn:country_code":"AF",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428920,
+    "gn:latitude":35.02113,
+    "gn:longitude":70.72013,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Samtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Samtal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0645\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428920
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ecef13982dd37bc8e737ad820b28a9ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1310546333,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1310546333,
+    "wof:lastmodified":1537582667,
+    "wof:name":"Samtal",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72013000000003,
+    35.02113,
+    70.72013000000003,
+    35.02113
+],
+  "geometry": {"coordinates":[70.72013000000003,35.02113],"type":"Point"}
+}

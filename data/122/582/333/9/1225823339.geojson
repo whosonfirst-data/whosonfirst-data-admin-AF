@@ -1,0 +1,79 @@
+{
+  "id": 1225823339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.24403,33.29854,62.24403,33.29854",
+    "geom:latitude":33.29854,
+    "geom:longitude":62.24403,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Korghak",
+    "gn:country_code":"AF",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428426,
+    "gn:latitude":33.29854,
+    "gn:longitude":62.24403,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014drghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u063a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Korgak",
+        "K\u014d\u1e5fghak",
+        "K\u016brghak",
+        "K\u014drghak",
+        "\u06a9\u0648\u0631\u063a\u06a9",
+        "\u0643\u0648\u0631\u063a\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428426
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5e2689223bb9e005034e4fcb6baed3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198905,
+            "locality_id":1225823339,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1225823339,
+    "wof:lastmodified":1537582660,
+    "wof:name":"Korghak",
+    "wof:parent_id":421198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.24403,
+    33.29854,
+    62.24403,
+    33.29854
+],
+  "geometry": {"coordinates":[62.24403,33.29854],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344204445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51905,32.83089,68.51905,32.83089",
+    "geom:latitude":32.83089,
+    "geom:longitude":68.51905,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902",
+    "gn:asciiname":"'Omari Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131532,
+    "gn:latitude":32.83089,
+    "gn:longitude":68.51905,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Omar\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umarikala",
+        "\u0639\u0645\u0631\u06cc \u06a9\u0644\u0627",
+        "\u2018Omar\u012b Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131532
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d690694167f6f29421de513162db0d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1344204445,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1344204445,
+    "wof:lastmodified":1537580928,
+    "wof:name":"'Omari Kala",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51905,
+    32.83089,
+    68.51905,
+    32.83089
+],
+  "geometry": {"coordinates":[68.51904999999999,32.83089],"type":"Point"}
+}

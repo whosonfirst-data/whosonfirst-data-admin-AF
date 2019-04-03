@@ -1,0 +1,78 @@
+{
+  "id": 1276382255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38114,33.8153,69.38114,33.8153",
+    "geom:latitude":33.8153,
+    "geom:longitude":69.38114,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705",
+    "gn:asciiname":"Wech Shakh Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121605,
+    "gn:latitude":33.8153,
+    "gn:longitude":69.38114,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u00each S\u0332h\u0332\u0101kh Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0686 \u0634\u0627\u062e \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "W\u011b\u010d \u0160\u0101kh Kal\u0101",
+        "Vechshakhkala",
+        "Vech Sh\u0101kh Kal\u0101",
+        "W\u00each S\u0332h\u0332\u0101kh Kal\u0101",
+        "\u0648\u0686 \u069a\u0627\u062e \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121605
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea52a81fef16719d323d739c65832ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561783,
+            "locality_id":1276382255,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1276382255,
+    "wof:lastmodified":1537580051,
+    "wof:name":"Wech Shakh Kala",
+    "wof:parent_id":1108561783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38114,
+    33.8153,
+    69.38114,
+    33.8153
+],
+  "geometry": {"coordinates":[69.38114,33.8153],"type":"Point"}
+}

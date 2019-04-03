@@ -1,0 +1,78 @@
+{
+  "id": 1226794587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.35037,35.00181,71.35037,35.00181",
+    "geom:latitude":35.00181,
+    "geom:longitude":71.35037,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Tangay Bandah",
+    "gn:country_code":"AF",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424143,
+    "gn:latitude":35.00181,
+    "gn:longitude":71.35037,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tangay B\u0101n\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u06a9\u0654 \u062a\u0646\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tangaybanda",
+        "\u062a\u0646\u06af\u06cc \u0628\u0627\u0646\u0689\u0647",
+        "Tangay B\u0101ndeh",
+        "Tanga\u012b B\u0101n\u1e0fah",
+        "Tangay B\u0101n\u1e0fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424143
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"26832b97deffcee9a3e05e5d09cacc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561929,
+            "locality_id":1226794587,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1226794587,
+    "wof:lastmodified":1537582602,
+    "wof:name":"Tangay Bandah",
+    "wof:parent_id":1108561929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.35037,
+    35.00181,
+    71.35037,
+    35.00181
+],
+  "geometry": {"coordinates":[71.35037,35.00181],"type":"Point"}
+}

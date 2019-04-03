@@ -1,0 +1,75 @@
+{
+  "id": 1326814655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40927,33.35842,64.40927,33.35842",
+    "geom:latitude":33.35842,
+    "geom:longitude":64.40927,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Sar Wara'in",
+    "gn:country_code":"AF",
+    "gn:dem":2572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126774,
+    "gn:latitude":33.35842,
+    "gn:longitude":64.40927,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Wara\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarvarain",
+        "Sa\u1e5f Wa\u1e5fa\u2019\u012bn",
+        "Sar Wara\u2019\u012bn",
+        "\u0633\u0631 \u0648\u0631\u0626\u06cc\u0646",
+        "Sar Var\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126774
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b6f43b8deb96db12713c231372f5b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1326814655,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326814655,
+    "wof:lastmodified":1537580502,
+    "wof:name":"Sar Wara'in",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40926999999999,
+    33.35842,
+    64.40926999999999,
+    33.35842
+],
+  "geometry": {"coordinates":[64.40926999999999,33.35842],"type":"Point"}
+}

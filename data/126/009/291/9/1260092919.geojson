@@ -1,0 +1,74 @@
+{
+  "id": 1260092919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.2079,34.94841,63.2079,34.94841",
+    "geom:latitude":34.94841,
+    "geom:longitude":63.2079,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1901.0",
+    "gn:asciiname":"Kharistan",
+    "gn:country_code":"AF",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457635,
+    "gn:latitude":34.94841,
+    "gn:longitude":63.2079,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101rist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101\u1e5fist\u0101n",
+        "Kh\u0101rist\u0101n",
+        "\u062e\u0627\u0631\u0633\u062a\u0627\u0646",
+        "Kh\u0101rest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457635
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"413b011ba207948aab268c23cdf104fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562377,
+            "locality_id":1260092919,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1260092919,
+    "wof:lastmodified":1537583231,
+    "wof:name":"Kharistan",
+    "wof:parent_id":1108562377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.2079,
+    34.94841,
+    63.2079,
+    34.94841
+],
+  "geometry": {"coordinates":[63.2079,34.94841],"type":"Point"}
+}

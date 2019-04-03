@@ -1,0 +1,75 @@
+{
+  "id": 1276600211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91036,32.09531,66.91036,32.09531",
+    "geom:latitude":32.09531,
+    "geom:longitude":66.91036,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Degak",
+    "gn:country_code":"AF",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143686,
+    "gn:latitude":32.09531,
+    "gn:longitude":66.91036,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113gak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u06af\u06a9"
+    ],
+    "name:und_x_variant":[
+        "D\u0113gak",
+        "\u062f\u06d0\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143686
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25ac16715a943174ea1a12283928de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1276600211,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276600211,
+    "wof:lastmodified":1537581943,
+    "wof:name":"Degak",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91036,
+    32.09531,
+    66.91036,
+    32.09531
+],
+  "geometry": {"coordinates":[66.91036,32.09531],"type":"Point"}
+}

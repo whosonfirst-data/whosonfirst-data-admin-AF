@@ -1,0 +1,78 @@
+{
+  "id": 1276689511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45464,35.21465,69.45464,35.21465",
+    "geom:latitude":35.21465,
+    "geom:longitude":69.45464,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3306.0",
+    "gn:asciiname":"Shufah-ye Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423536,
+    "gn:latitude":35.21465,
+    "gn:longitude":69.45464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shufah-ye P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0641\u06c0 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0160ofa-i-P\u0101\u2019\u012bn",
+        "Shufayi-Pain",
+        "Sh\u016bfeh-ye Pa\u2019\u012bn",
+        "Shufah-ye P\u0101\u2019\u012bn",
+        "\u0634\u0641\u06c0 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423536
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"94a5e0532c696fbfa56df3e1953602aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562555,
+            "locality_id":1276689511,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1276689511,
+    "wof:lastmodified":1537582581,
+    "wof:name":"Shufah-ye Pa'in",
+    "wof:parent_id":1108562555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45464,
+    35.21465,
+    69.45464,
+    35.21465
+],
+  "geometry": {"coordinates":[69.45464,35.21465],"type":"Point"}
+}

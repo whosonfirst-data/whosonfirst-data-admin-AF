@@ -1,0 +1,72 @@
+{
+  "id": 1327135975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30379,35.39417,68.30379,35.39417",
+    "geom:latitude":35.39417,
+    "geom:longitude":68.30379,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Khayrkhanah",
+    "gn:country_code":"AF",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7519979,
+    "gn:latitude":35.39417,
+    "gn:longitude":68.30379,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khayrkh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khayrkh\u0101nah",
+        "\u062e\u06cc\u0631\u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519979
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82150d8281bd2139817b915360f4ed10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1327135975,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327135975,
+    "wof:lastmodified":1537583923,
+    "wof:name":"Khayrkhanah",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30379,
+    35.39417,
+    68.30379,
+    35.39417
+],
+  "geometry": {"coordinates":[68.30379000000001,35.39417],"type":"Point"}
+}

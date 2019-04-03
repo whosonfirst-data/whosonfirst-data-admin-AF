@@ -1,0 +1,66 @@
+{
+  "id": 1209209447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.83531,34.01571,64.83531,34.01571",
+    "geom:latitude":34.01571,
+    "geom:longitude":64.83531,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Garmabak",
+    "gn:country_code":"AF",
+    "gn:dem":2703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141795,
+    "gn:latitude":34.01571,
+    "gn:longitude":64.83531,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Garm\u0101bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garm\u0101bak",
+        "\u06af\u0631\u0645\u0627\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141795
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da5cce2a9542f29de058cc2e2fbe5d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209209447
+        }
+    ],
+    "wof:id":1209209447,
+    "wof:lastmodified":1537581776,
+    "wof:name":"Garmabak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.83530999999999,
+    34.01571,
+    64.83530999999999,
+    34.01571
+],
+  "geometry": {"coordinates":[64.83530999999999,34.01571],"type":"Point"}
+}

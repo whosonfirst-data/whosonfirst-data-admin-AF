@@ -1,0 +1,82 @@
+{
+  "id": 1193241453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91557,34.07983,70.91557,34.07983",
+    "geom:latitude":34.07983,
+    "geom:longitude":70.91557,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"812",
+    "gn:asciiname":"Sholgar",
+    "gn:country_code":"AF",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124899,
+    "gn:latitude":34.07983,
+    "gn:longitude":70.91557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dlgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0634\u0648\u0644\u06af\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "Shol\u2019gar"
+    ],
+    "name:und_x_variant":[
+        "\u0160olgar",
+        "Sholghar",
+        "Showlgar Kalay",
+        "\u0642\u0631\u064a\u06c0 \u0634\u0648\u0644\u06af\u0631",
+        "Sh\u014dlgar",
+        "\u0634\u0648\u0644\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124899
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"134dcdb5451b4c0438260b79e71d1c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561997,
+            "locality_id":1193241453,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1193241453,
+    "wof:lastmodified":1537580337,
+    "wof:name":"Sholgar",
+    "wof:parent_id":1108561997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91557,
+    34.07983,
+    70.91557,
+    34.07983
+],
+  "geometry": {"coordinates":[70.91557,34.07983],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260032767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49279,33.4612,69.49279,33.4612",
+    "geom:latitude":33.4612,
+    "geom:longitude":69.49279,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Shilam",
+    "gn:country_code":"AF",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125395,
+    "gn:latitude":33.4612,
+    "gn:longitude":69.49279,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shilam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0160elam",
+        "Silam",
+        "Shelam",
+        "Shilam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125395
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"631ae3317dcbae32b2999d037249b6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1260032767,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1260032767,
+    "wof:lastmodified":1537580385,
+    "wof:name":"Shilam",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49279,
+    33.4612,
+    69.49279,
+    33.4612
+],
+  "geometry": {"coordinates":[69.49279,33.4612],"type":"Point"}
+}

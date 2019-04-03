@@ -1,0 +1,78 @@
+{
+  "id": 1260069133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.47714,31.67828,64.47714,31.67828",
+    "geom:latitude":31.67828,
+    "geom:longitude":64.47714,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Turkman Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122075,
+    "gn:latitude":31.67828,
+    "gn:longitude":64.47714,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Turkman K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u0647\u0654 \u062a\u0631\u0643\u0645\u0646"
+    ],
+    "name:und_x_variant":[
+        "Turkmankalay",
+        "Tu\u1e5fkman Kalay",
+        "Turkman K\u00ealay",
+        "\u062a\u0631\u06a9\u0645\u0646 \u06a9\u0644\u06cc",
+        "Torkman Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122075
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b963f6f1c054fa1f68460b96003855c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1260069133,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1260069133,
+    "wof:lastmodified":1537580085,
+    "wof:name":"Turkman Kelay",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.47714,
+    31.67828,
+    64.47714,
+    31.67828
+],
+  "geometry": {"coordinates":[64.47714000000001,31.67828],"type":"Point"}
+}

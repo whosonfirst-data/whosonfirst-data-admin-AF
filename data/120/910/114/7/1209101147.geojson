@@ -1,0 +1,68 @@
+{
+  "id": 1209101147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.50528,31.625,64.50528,31.625",
+    "geom:latitude":31.625,
+    "geom:longitude":64.50528,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2301.0",
+    "gn:asciiname":"Mukhtar Kala",
+    "gn:country_code":"AF",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472386,
+    "gn:latitude":31.625,
+    "gn:longitude":64.50528,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mukht\u0101r Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukhattakala",
+        "Mukht\u0101r Kal\u0101",
+        "Mukha\u0163ar Kal\u0101",
+        "\u0645\u062e\u0637\u0631 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472386
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91519ee67a811dc57021fa7779e98981",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209101147
+        }
+    ],
+    "wof:id":1209101147,
+    "wof:lastmodified":1537583687,
+    "wof:name":"Mukhtar Kala",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.50528,
+    31.625,
+    64.50528,
+    31.625
+],
+  "geometry": {"coordinates":[64.50528,31.625],"type":"Point"}
+}

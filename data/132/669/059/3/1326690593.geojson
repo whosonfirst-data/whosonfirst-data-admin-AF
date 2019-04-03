@@ -1,0 +1,71 @@
+{
+  "id": 1326690593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.87387,36.08317,66.87387,36.08317",
+    "geom:latitude":36.08317,
+    "geom:longitude":66.87387,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Qlamshik",
+    "gn:country_code":"AF",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129021,
+    "gn:latitude":36.08317,
+    "gn:longitude":66.87387,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qlamshik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0644\u0645\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37f02b07d9f708032099af834382b7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1326690593,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326690593,
+    "wof:lastmodified":1537580675,
+    "wof:name":"Qlamshik",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.87387,
+    36.08317,
+    66.87387,
+    36.08317
+],
+  "geometry": {"coordinates":[66.87387,36.08317],"type":"Point"}
+}

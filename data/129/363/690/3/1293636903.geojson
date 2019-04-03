@@ -1,0 +1,77 @@
+{
+  "id": 1293636903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26825,34.17797,68.26825,34.17797",
+    "geom:latitude":34.17797,
+    "geom:longitude":68.26825,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Safa Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458842,
+    "gn:latitude":34.17797,
+    "gn:longitude":68.26825,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eaf\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Safakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u015eaf\u0101kh\u0113l",
+        "\u015eaf\u0101kheyl",
+        "\u015eaf\u0101 Kh\u0113l",
+        "\u0635\u0641\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458842
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae3f274c3d58e2333b020b2af84c6e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1293636903,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293636903,
+    "wof:lastmodified":1537583276,
+    "wof:name":"Safa Khel",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26825,
+    34.17797,
+    68.26825,
+    34.17797
+],
+  "geometry": {"coordinates":[68.26824999999999,34.17797],"type":"Point"}
+}

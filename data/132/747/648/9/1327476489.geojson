@@ -1,0 +1,75 @@
+{
+  "id": 1327476489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.3547,35.77011,71.3547,35.77011",
+    "geom:latitude":35.77011,
+    "geom:longitude":71.3547,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Afsay",
+    "gn:country_code":"AF",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149356,
+    "gn:latitude":35.77011,
+    "gn:longitude":71.3547,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100fsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aspai",
+        "Afsay",
+        "Apsai",
+        "\u0100fsay",
+        "\u0622\u0641\u0633\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149356
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"361836bbb8d5d82a3585828c16687d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1327476489,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1327476489,
+    "wof:lastmodified":1537582410,
+    "wof:name":"Afsay",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.3547,
+    35.77010999999999,
+    71.3547,
+    35.77010999999999
+],
+  "geometry": {"coordinates":[71.35469999999999,35.77010999999999],"type":"Point"}
+}

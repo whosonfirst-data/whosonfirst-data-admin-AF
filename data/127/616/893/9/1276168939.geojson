@@ -1,0 +1,75 @@
+{
+  "id": 1276168939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08955,34.97536,71.08955,34.97536",
+    "geom:latitude":34.97536,
+    "geom:longitude":71.08955,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1008.0",
+    "gn:asciiname":"Qowru",
+    "gn:country_code":"AF",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451835,
+    "gn:latitude":34.97536,
+    "gn:longitude":71.08955,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qowru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koru",
+        "Q\u014d\u1e5fu",
+        "Qowru",
+        "Q\u014dr\u016b",
+        "\u0642\u0648\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451835
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c527f2ad927c1f1efe300bc40fbbffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562575,
+            "locality_id":1276168939,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1276168939,
+    "wof:lastmodified":1537583074,
+    "wof:name":"Qowru",
+    "wof:parent_id":1108562575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08955,
+    34.97535999999999,
+    71.08955,
+    34.97535999999999
+],
+  "geometry": {"coordinates":[71.08955,34.97535999999999],"type":"Point"}
+}

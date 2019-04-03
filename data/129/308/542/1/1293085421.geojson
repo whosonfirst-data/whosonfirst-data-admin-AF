@@ -1,0 +1,71 @@
+{
+  "id": 1293085421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.34082,34.37003,66.34082,34.37003",
+    "geom:latitude":34.37003,
+    "geom:longitude":66.34082,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Sangar",
+    "gn:country_code":"AF",
+    "gn:dem":3013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456132,
+    "gn:latitude":34.37003,
+    "gn:longitude":66.34082,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456132
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c1246d46b01935f88335f3dac95933f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1293085421,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293085421,
+    "wof:lastmodified":1537583167,
+    "wof:name":"Sangar",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.34082,
+    34.37003,
+    66.34082,
+    34.37003
+],
+  "geometry": {"coordinates":[66.34081999999999,34.37003],"type":"Point"}
+}

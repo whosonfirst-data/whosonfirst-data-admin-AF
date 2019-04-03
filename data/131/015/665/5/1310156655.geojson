@@ -1,0 +1,78 @@
+{
+  "id": 1310156655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42908,32.37776,67.42908,32.37776",
+    "geom:latitude":32.37776,
+    "geom:longitude":67.42908,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Chambaran",
+    "gn:country_code":"AF",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145489,
+    "gn:latitude":32.37776,
+    "gn:longitude":67.42908,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chambar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0628\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Camba\u1e5f\u0101n",
+        "Chambaran",
+        "Chambar\u0101n",
+        "\u0686\u0645\u0628\u0631\u0627\u0646",
+        "Chanbar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145489
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de92ff1acef3dbe5a21c38dd26819aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1310156655,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310156655,
+    "wof:lastmodified":1537582108,
+    "wof:name":"Chambaran",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42908,
+    32.37775999999999,
+    67.42908,
+    32.37775999999999
+],
+  "geometry": {"coordinates":[67.42908,32.37775999999999],"type":"Point"}
+}

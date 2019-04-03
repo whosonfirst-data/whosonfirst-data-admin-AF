@@ -1,0 +1,73 @@
+{
+  "id": 1310632385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12299,34.46291,67.12299,34.46291",
+    "geom:latitude":34.46291,
+    "geom:longitude":67.12299,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Spidak",
+    "gn:country_code":"AF",
+    "gn:dem":3099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462326,
+    "gn:latitude":34.46291,
+    "gn:longitude":67.12299,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Spidak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spaydak",
+        "Sp\u012bdak",
+        "\u0633\u067e\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462326
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"65f7270b001db1919fbf1d00bb3a22a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1310632385,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310632385,
+    "wof:lastmodified":1537583361,
+    "wof:name":"Spidak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12299,
+    34.46291,
+    67.12299,
+    34.46291
+],
+  "geometry": {"coordinates":[67.12299,34.46291],"type":"Point"}
+}

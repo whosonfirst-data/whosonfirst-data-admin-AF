@@ -1,0 +1,82 @@
+{
+  "id": 1360242829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.27206,36.84529,69.27206,36.84529",
+    "geom:latitude":36.84529,
+    "geom:longitude":69.27206,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1407.0",
+    "gn:asciiname":"Bur Bulaq",
+    "gn:country_code":"AF",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1467324,
+    "gn:latitude":36.84529,
+    "gn:longitude":69.27206,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016br B\u016bl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631 \u0628\u0644\u0627\u063a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "B\u016b\u1e5f Bul\u0101q",
+        "B\u016br Bol\u0101q",
+        "Burbulak",
+        "B\u016br Bol\u0101gh",
+        "B\u016br B\u016bl\u0101q",
+        "\u0628\u0648\u0631 \u0628\u0648\u0644\u0627\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467324
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99ff2be456eceb31ec03ad8627e09c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561953,
+            "locality_id":1360242829,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1360242829,
+    "wof:lastmodified":1537583466,
+    "wof:name":"Bur Bulaq",
+    "wof:parent_id":1108561953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.27206,
+    36.84529000000001,
+    69.27206,
+    36.84529000000001
+],
+  "geometry": {"coordinates":[69.27206,36.84529000000001],"type":"Point"}
+}

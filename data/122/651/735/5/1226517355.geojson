@@ -1,0 +1,78 @@
+{
+  "id": 1226517355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.11753,31.9194,63.11753,31.9194",
+    "geom:latitude":31.9194,
+    "geom:longitude":63.11753,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Rakin",
+    "gn:country_code":"AF",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128583,
+    "gn:latitude":31.9194,
+    "gn:longitude":63.11753,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101kin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u0101kin"
+    ],
+    "name:fas_x_variant":[
+        "R\u0101ken",
+        "\u0631\u0627\u06a9\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0627\u06a9\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128583
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff7bb421e18939d46f28026305e5b8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561987,
+            "locality_id":1226517355,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1226517355,
+    "wof:lastmodified":1537580637,
+    "wof:name":"Rakin",
+    "wof:parent_id":1108561987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.11753,
+    31.9194,
+    63.11753,
+    31.9194
+],
+  "geometry": {"coordinates":[63.11753,31.9194],"type":"Point"}
+}

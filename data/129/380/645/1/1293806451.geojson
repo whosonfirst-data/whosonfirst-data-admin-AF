@@ -1,0 +1,72 @@
+{
+  "id": 1293806451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12358,34.20607,67.12358,34.20607",
+    "geom:latitude":34.20607,
+    "geom:longitude":67.12358,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Sursu",
+    "gn:country_code":"AF",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123509,
+    "gn:latitude":34.20607,
+    "gn:longitude":67.12358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surs\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surs\u016b",
+        "\u0633\u0631\u0633\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123509
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9f58d60daa381baa9aadf9d0e575c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1293806451,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293806451,
+    "wof:lastmodified":1537580229,
+    "wof:name":"Sursu",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12358,
+    34.20607,
+    67.12358,
+    34.20607
+],
+  "geometry": {"coordinates":[67.12358,34.20607],"type":"Point"}
+}

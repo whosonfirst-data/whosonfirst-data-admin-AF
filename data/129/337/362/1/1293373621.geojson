@@ -1,0 +1,73 @@
+{
+  "id": 1293373621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.87537,32.08865,64.87537,32.08865",
+    "geom:latitude":32.08865,
+    "geom:longitude":64.87537,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Sar Gharakay",
+    "gn:country_code":"AF",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473695,
+    "gn:latitude":32.08865,
+    "gn:longitude":64.87537,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Gh\u0101rakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sargarakay",
+        "Sar Gh\u0101rakay",
+        "\u0633\u0631 \u063a\u0627\u0631\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473695
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"61c38d80e0f12b728a224e6ce032c128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1293373621,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293373621,
+    "wof:lastmodified":1537583763,
+    "wof:name":"Sar Gharakay",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.87536999999999,
+    32.08865,
+    64.87536999999999,
+    32.08865
+],
+  "geometry": {"coordinates":[64.87536999999999,32.08865],"type":"Point"}
+}

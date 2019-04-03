@@ -1,0 +1,76 @@
+{
+  "id": 1209992253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65122,34.08808,70.65122,34.08808",
+    "geom:latitude":34.08808,
+    "geom:longitude":70.65122,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Karkanay",
+    "gn:country_code":"AF",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469669,
+    "gn:latitude":34.08808,
+    "gn:longitude":70.65122,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ka\u1e5fkanay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u0643\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ka\u1e5fkanay",
+        "\u06a9\u0693\u06a9\u0646\u06cc",
+        "Karkanay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469669
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"47000f39f272876d33781de1039f8127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1209992253,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1209992253,
+    "wof:lastmodified":1537583622,
+    "wof:name":"Karkanay",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65122,
+    34.08808,
+    70.65122,
+    34.08808
+],
+  "geometry": {"coordinates":[70.65122,34.08808],"type":"Point"}
+}

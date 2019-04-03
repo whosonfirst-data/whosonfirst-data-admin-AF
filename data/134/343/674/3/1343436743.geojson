@@ -1,0 +1,81 @@
+{
+  "id": 1343436743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72648,34.49898,70.72648,34.49898",
+    "geom:latitude":34.49898,
+    "geom:longitude":70.72648,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"818",
+    "gn:asciiname":"Narai Obeh",
+    "gn:country_code":"AF",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132328,
+    "gn:latitude":34.49898,
+    "gn:longitude":70.72648,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nara\u012b \u014cb\u00eah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0654 \u062a\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0631\u06cc \u0627\u0648\u0628\u0647"
+    ],
+    "name:und_x_variant":[
+        "Narayoba",
+        "Na\u1e5fay \u014cbeh",
+        "Nara\u012b \u014cb\u00eah",
+        "Na\u1e5fay Owb\u0113h",
+        "Naray \u014cb\u00eah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132328
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43b93835d895b74baaec7bf8216c9a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562125,
+            "locality_id":1343436743,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343436743,
+    "wof:lastmodified":1537581000,
+    "wof:name":"Narai Obeh",
+    "wof:parent_id":1108562125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72648000000002,
+    34.49898,
+    70.72648000000002,
+    34.49898
+],
+  "geometry": {"coordinates":[70.72648000000002,34.49898],"type":"Point"}
+}

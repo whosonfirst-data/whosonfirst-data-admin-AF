@@ -1,0 +1,73 @@
+{
+  "id": 1360179703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.04361,32.83306,63.04361,32.83306",
+    "geom:latitude":32.83306,
+    "geom:longitude":63.04361,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Qaryeh-ye Guzar Gazak",
+    "gn:country_code":"AF",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129419,
+    "gn:latitude":32.83306,
+    "gn:longitude":63.04361,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryeh-ye Guz\u0304ar Gazak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e5fya-i-Goza\u1e5f Gazak",
+        "Qaryeh-ye Goz\u0304ar Gazak",
+        "Qaryeh-ye Guz\u0304ar Gazak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129419
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"adccb83636b61e8c61053740a4650a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1360179703,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360179703,
+    "wof:lastmodified":1537580721,
+    "wof:name":"Qaryeh-ye Guzar Gazak",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.04361,
+    32.83306,
+    63.04361,
+    32.83306
+],
+  "geometry": {"coordinates":[63.04361,32.83306],"type":"Point"}
+}

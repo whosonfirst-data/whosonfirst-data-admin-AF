@@ -1,0 +1,71 @@
+{
+  "id": 1209584229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.62502,32.32685,65.62502,32.32685",
+    "geom:latitude":32.32685,
+    "geom:longitude":65.62502,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2415.0",
+    "gn:asciiname":"Karezak",
+    "gn:country_code":"AF",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424805,
+    "gn:latitude":32.32685,
+    "gn:longitude":65.62502,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113zak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632\u0643"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113zak",
+        "K\u0101r\u0113zak",
+        "\u06a9\u0627\u0631\u06d0\u0632\u06a9",
+        "K\u0101r\u012bzak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424805
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e3cb07ec64557676578429a748f329b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209584229
+        }
+    ],
+    "wof:id":1209584229,
+    "wof:lastmodified":1537582617,
+    "wof:name":"Karezak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.62501999999999,
+    32.32685,
+    65.62501999999999,
+    32.32685
+],
+  "geometry": {"coordinates":[65.62501999999999,32.32685],"type":"Point"}
+}

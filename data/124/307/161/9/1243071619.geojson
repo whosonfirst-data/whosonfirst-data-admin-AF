@@ -1,0 +1,73 @@
+{
+  "id": 1243071619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38675,36.64864,71.38675,36.64864",
+    "geom:latitude":36.64864,
+    "geom:longitude":71.38675,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1105",
+    "gn:asciiname":"Rud",
+    "gn:country_code":"AF",
+    "gn:dem":3015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128247,
+    "gn:latitude":36.64864,
+    "gn:longitude":71.38675,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u016bd",
+        "\u0631\u0648\u062f",
+        "R\u016b\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128247
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e70bb5e536afd25ebf1e7b88078fabd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562611,
+            "locality_id":1243071619,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243071619,
+    "wof:lastmodified":1537580611,
+    "wof:name":"Rud",
+    "wof:parent_id":1108562611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38675,
+    36.64864,
+    71.38675,
+    36.64864
+],
+  "geometry": {"coordinates":[71.38675000000001,36.64864],"type":"Point"}
+}

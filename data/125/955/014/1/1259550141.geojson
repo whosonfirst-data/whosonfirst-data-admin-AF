@@ -1,0 +1,73 @@
+{
+  "id": 1259550141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3427,34.22216,68.3427,34.22216",
+    "geom:latitude":34.22216,
+    "geom:longitude":68.3427,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Lashkari",
+    "gn:country_code":"AF",
+    "gn:dem":2451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458810,
+    "gn:latitude":34.22216,
+    "gn:longitude":68.3427,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lashkar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u0161kari",
+        "Lashkar\u012b",
+        "\u0644\u0634\u06a9\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458810
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68950296c464d0a93cc88364d579fd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1259550141,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1259550141,
+    "wof:lastmodified":1537583274,
+    "wof:name":"Lashkari",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3427,
+    34.22216,
+    68.3427,
+    34.22216
+],
+  "geometry": {"coordinates":[68.34269999999999,34.22216],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226172821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.19855,34.0892,66.19855,34.0892",
+    "geom:latitude":34.0892,
+    "geom:longitude":66.19855,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403.0",
+    "gn:asciiname":"Chardugak",
+    "gn:country_code":"AF",
+    "gn:dem":2622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145360,
+    "gn:latitude":34.0892,
+    "gn:longitude":66.19855,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101rdugak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u0101rdogak",
+        "Chardugak",
+        "\u010c\u0101rdogak",
+        "Chah\u0101rd\u014dgak",
+        "Chah\u0101rdogak",
+        "Ch\u0101rdugak",
+        "\u0686\u0627\u0631\u062f\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145360
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02349d50a8c7d111f002640ff16802bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1226172821,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1226172821,
+    "wof:lastmodified":1537582096,
+    "wof:name":"Chardugak",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.19855,
+    34.0892,
+    66.19855,
+    34.0892
+],
+  "geometry": {"coordinates":[66.19855,34.0892],"type":"Point"}
+}

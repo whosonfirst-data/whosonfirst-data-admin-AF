@@ -1,0 +1,73 @@
+{
+  "id": 1310469083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65931,36.59632,69.65931,36.59632",
+    "geom:latitude":36.59632,
+    "geom:longitude":69.65931,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1217.0",
+    "gn:asciiname":"Sar-e Kan",
+    "gn:country_code":"AF",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467351,
+    "gn:latitude":36.59632,
+    "gn:longitude":69.65931,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e K\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5f-i-K\u0101n",
+        "Sar-e K\u0101n",
+        "\u0633\u0631 \u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467351
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f0f0a22ce523f93214dd3d92da64011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562303,
+            "locality_id":1310469083,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1310469083,
+    "wof:lastmodified":1537583469,
+    "wof:name":"Sar-e Kan",
+    "wof:parent_id":1108562303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65930999999999,
+    36.59632,
+    69.65930999999999,
+    36.59632
+],
+  "geometry": {"coordinates":[69.65930999999999,36.59632],"type":"Point"}
+}

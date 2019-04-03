@@ -1,0 +1,74 @@
+{
+  "id": 1259964075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.1307,33.66385,65.1307,33.66385",
+    "geom:latitude":33.66385,
+    "geom:longitude":65.1307,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Astarghanah",
+    "gn:country_code":"AF",
+    "gn:dem":2495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148168,
+    "gn:latitude":33.66385,
+    "gn:longitude":65.1307,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Astarghanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asta\u1e5fghana",
+        "Astarghanah",
+        "\u0627\u0633\u062a\u0631\u063a\u0646\u0647",
+        "Asta\u1e5fghanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148168
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f708923491f6be461961f30663c54107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1259964075,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259964075,
+    "wof:lastmodified":1537582324,
+    "wof:name":"Astarghanah",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.1307,
+    33.66385,
+    65.1307,
+    33.66385
+],
+  "geometry": {"coordinates":[65.1307,33.66385],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344061597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09112,34.48149,67.09112,34.48149",
+    "geom:latitude":34.48149,
+    "geom:longitude":67.09112,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Chiji",
+    "gn:country_code":"AF",
+    "gn:dem":3129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462277,
+    "gn:latitude":34.48149,
+    "gn:longitude":67.09112,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chij\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chidzhi",
+        "\u010ciji",
+        "Ch\u012bj\u012b",
+        "Chij\u012b",
+        "\u0686\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53dd9d22318ce74bff63b6bf4f506cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1344061597,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1344061597,
+    "wof:lastmodified":1537583357,
+    "wof:name":"Chiji",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09111999999999,
+    34.48149,
+    67.09111999999999,
+    34.48149
+],
+  "geometry": {"coordinates":[67.09111999999999,34.48149],"type":"Point"}
+}

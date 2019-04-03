@@ -1,0 +1,72 @@
+{
+  "id": 1343645983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.53937,34.67253,64.53937,34.67253",
+    "geom:latitude":34.67253,
+    "geom:longitude":64.53937,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Zakhan",
+    "gn:country_code":"AF",
+    "gn:dem":2209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121100,
+    "gn:latitude":34.67253,
+    "gn:longitude":64.53937,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101kh\u0101n",
+        "\u0632\u0627\u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121100
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a88a2a2399f317a2a5ef5d1f53e0f6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1343645983,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343645983,
+    "wof:lastmodified":1537580023,
+    "wof:name":"Zakhan",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.53936999999999,
+    34.67253,
+    64.53936999999999,
+    34.67253
+],
+  "geometry": {"coordinates":[64.53936999999999,34.67253],"type":"Point"}
+}

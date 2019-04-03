@@ -1,0 +1,72 @@
+{
+  "id": 1327340833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.44332,35.59823,69.44332,35.59823",
+    "geom:latitude":35.59823,
+    "geom:longitude":69.44332,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1302",
+    "gn:asciiname":"Tirgaran",
+    "gn:country_code":"AF",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122421,
+    "gn:latitude":35.59823,
+    "gn:longitude":69.44332,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012brgar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u012brgar\u0101n",
+        "\u062a\u06cc\u0631\u06af\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122421
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8214a04ee7ed69cd54eaffbb290eda68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562363,
+            "locality_id":1327340833,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327340833,
+    "wof:lastmodified":1537580113,
+    "wof:name":"Tirgaran",
+    "wof:parent_id":1108562363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.44332,
+    35.59823,
+    69.44332,
+    35.59823
+],
+  "geometry": {"coordinates":[69.44332,35.59823],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225803351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.82147,31.64914,66.82147,31.64914",
+    "geom:latitude":31.64914,
+    "geom:longitude":66.82147,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"'Ali Sher",
+    "gn:country_code":"AF",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476923,
+    "gn:latitude":31.64914,
+    "gn:longitude":66.82147,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b Sh\u0113r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alisher",
+        "\u2018Ali \u0160\u0113r",
+        "\u2018Al\u012b Shayr",
+        "\u0639\u0644\u06cc \u0634\u06cc\u0631",
+        "\u2018Al\u012b Sh\u012br",
+        "\u2018Al\u012b Sh\u0113r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476923
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2c27037471d06f98744d900d0497cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1225803351,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1225803351,
+    "wof:lastmodified":1537583859,
+    "wof:name":"'Ali Sher",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.82146999999999,
+    31.64914000000001,
+    66.82146999999999,
+    31.64914000000001
+],
+  "geometry": {"coordinates":[66.82146999999999,31.64914000000001],"type":"Point"}
+}

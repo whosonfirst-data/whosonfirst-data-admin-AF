@@ -1,0 +1,75 @@
+{
+  "id": 1309796607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33549,33.14232,67.33549,33.14232",
+    "geom:latitude":33.14232,
+    "geom:longitude":67.33549,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Pusht-e Chob",
+    "gn:country_code":"AF",
+    "gn:dem":2932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130460,
+    "gn:latitude":33.14232,
+    "gn:longitude":67.33549,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pusht-e Ch\u014db",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puste C\u014db",
+        "Puste Chob",
+        "Posht-e Ch\u016bb",
+        "Pusht-e Ch\u014db",
+        "\u067e\u0634\u062a \u0686\u0648\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130460
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"403a8fbb498b769c78c9537c8de7a80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1309796607,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309796607,
+    "wof:lastmodified":1537580839,
+    "wof:name":"Pusht-e Chob",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33549000000001,
+    33.14232,
+    67.33549000000001,
+    33.14232
+],
+  "geometry": {"coordinates":[67.33549000000001,33.14232],"type":"Point"}
+}

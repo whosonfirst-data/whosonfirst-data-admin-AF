@@ -1,0 +1,82 @@
+{
+  "id": 1276752907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.44969,31.72455,64.44969,31.72455",
+    "geom:latitude":31.72455,
+    "geom:longitude":64.44969,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Jamal Kor",
+    "gn:country_code":"AF",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139670,
+    "gn:latitude":31.72455,
+    "gn:longitude":64.44969,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jam\u0101l K\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u0627\u0644 \u0643\u0648\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhamal\u2019kor"
+    ],
+    "name:und_x_variant":[
+        "Jam\u0101l K\u014d\u1e5f",
+        "Jam\u0101l",
+        "Jam\u0101l K\u014d",
+        "Jam\u0101l K\u014dr",
+        "\u062c\u0645\u0627\u0644 \u06a9\u0648\u0631",
+        "Jam\u0101l Kowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139670
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8838c70c50f6e8cc9262bd45060d45e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1276752907,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1276752907,
+    "wof:lastmodified":1537581597,
+    "wof:name":"Jamal Kor",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.44969,
+    31.72455,
+    64.44969,
+    31.72455
+],
+  "geometry": {"coordinates":[64.44969,31.72455],"type":"Point"}
+}

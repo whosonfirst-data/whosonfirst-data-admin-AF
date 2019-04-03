@@ -1,0 +1,79 @@
+{
+  "id": 1276777117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23095,36.91864,72.23095,36.91864",
+    "geom:latitude":36.91864,
+    "geom:longitude":72.23095,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106",
+    "gn:asciiname":"Pegish",
+    "gn:country_code":"AF",
+    "gn:dem":2763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130772,
+    "gn:latitude":36.91864,
+    "gn:longitude":72.23095,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Peg\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagis\u0304",
+        "Pegis",
+        "Pigash",
+        "Paykash",
+        "Pegesh",
+        "Pigish",
+        "Peg\u012bsh",
+        "\u067e\u06af\u064a\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130772,
+        "wk:page":"Pegish"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d4e6f260c3a4193147a227d793d3d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1276777117,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276777117,
+    "wof:lastmodified":1537580866,
+    "wof:name":"Pegish",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23095,
+    36.91864,
+    72.23095,
+    36.91864
+],
+  "geometry": {"coordinates":[72.23095000000001,36.91864],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309740001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.14797,36.98801,66.14797,36.98801",
+    "geom:latitude":36.98801,
+    "geom:longitude":66.14797,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Akhir-e Jizah",
+    "gn:country_code":"AF",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149208,
+    "gn:latitude":36.98801,
+    "gn:longitude":66.14797,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100khir-e Jizah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhir-i-Jeza",
+        "\u0100khir-e Jizah",
+        "\u0622\u062e\u0631 \u062c\u0632\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149208
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8cdff2bf71ace68e847813db01ed15de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1309740001,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1309740001,
+    "wof:lastmodified":1537582399,
+    "wof:name":"Akhir-e Jizah",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.14797,
+    36.98801,
+    66.14797,
+    36.98801
+],
+  "geometry": {"coordinates":[66.14797,36.98801],"type":"Point"}
+}

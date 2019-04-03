@@ -1,0 +1,72 @@
+{
+  "id": 1259367229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.15458,33.79378,65.15458,33.79378",
+    "geom:latitude":33.79378,
+    "geom:longitude":65.15458,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Angurak",
+    "gn:country_code":"AF",
+    "gn:dem":2711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148646,
+    "gn:latitude":33.79378,
+    "gn:longitude":65.15458,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ang\u016brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ang\u016brak",
+        "\u0627\u0646\u06af\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148646
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0c77a673c7c09dc5bb8b6b2e88d5d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1259367229,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259367229,
+    "wof:lastmodified":1537582354,
+    "wof:name":"Angurak",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.15458000000001,
+    33.79378,
+    65.15458000000001,
+    33.79378
+],
+  "geometry": {"coordinates":[65.15458000000001,33.79378],"type":"Point"}
+}

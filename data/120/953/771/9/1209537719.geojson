@@ -1,0 +1,66 @@
+{
+  "id": 1209537719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.90557,33.45353,63.90557,33.45353",
+    "geom:latitude":33.45353,
+    "geom:longitude":63.90557,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Zabi",
+    "gn:country_code":"AF",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121146,
+    "gn:latitude":33.45353,
+    "gn:longitude":63.90557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101b\u012b",
+        "\u0632\u0627\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121146
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39480763533498553df491a7b0aad2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209537719
+        }
+    ],
+    "wof:id":1209537719,
+    "wof:lastmodified":1537580025,
+    "wof:name":"Zabi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.90557,
+    33.45353,
+    63.90557,
+    33.45353
+],
+  "geometry": {"coordinates":[63.90557,33.45353],"type":"Point"}
+}

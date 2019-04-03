@@ -1,0 +1,76 @@
+{
+  "id": 1343516303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96533,37.52873,69.96533,37.52873",
+    "geom:latitude":37.52873,
+    "geom:longitude":69.96533,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1209",
+    "gn:asciiname":"Wayski",
+    "gn:country_code":"AF",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121848,
+    "gn:latitude":37.52873,
+    "gn:longitude":69.96533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Waysk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasaki",
+        "W\u0113sk",
+        "W\u0113ski",
+        "V\u012bsk\u012b",
+        "Waysk\u012b",
+        "\u0648\u06cc\u0633\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121848
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd4919f0d27a5856d10642c1860f75f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561879,
+            "locality_id":1343516303,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1343516303,
+    "wof:lastmodified":1537580066,
+    "wof:name":"Wayski",
+    "wof:parent_id":1108561879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96533000000001,
+    37.52873,
+    69.96533000000001,
+    37.52873
+],
+  "geometry": {"coordinates":[69.96533000000001,37.52873],"type":"Point"}
+}

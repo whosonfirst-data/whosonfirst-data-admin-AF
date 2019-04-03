@@ -1,0 +1,79 @@
+{
+  "id": 1259536479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31612,33.77151,69.31612,33.77151",
+    "geom:latitude":33.77151,
+    "geom:longitude":69.31612,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"705",
+    "gn:asciiname":"Miw Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133157,
+    "gn:latitude":33.77151,
+    "gn:longitude":69.31612,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bw Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648 \u062e\u06cc\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Mivkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Miwkh\u0113l",
+        "M\u012bw Kh\u0113l",
+        "\u0645\u06cc\u0648 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133157
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80549dcaa05e195b3b43f8c35e584ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561783,
+            "locality_id":1259536479,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1259536479,
+    "wof:lastmodified":1537581073,
+    "wof:name":"Miw Khel",
+    "wof:parent_id":1108561783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31612,
+    33.77151,
+    69.31612,
+    33.77151
+],
+  "geometry": {"coordinates":[69.31612,33.77151],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243036549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.83955,31.56414,64.83955,31.56414",
+    "geom:latitude":31.56414,
+    "geom:longitude":64.83955,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Mali Khel",
+    "gn:country_code":"AF",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134123,
+    "gn:latitude":31.56414,
+    "gn:longitude":64.83955,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101l\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Malikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "M\u0101likh\u0113l",
+        "M\u0101l\u012b Kh\u0113l",
+        "\u0645\u0627\u0644\u06cc \u062e\u06d0\u0644",
+        "M\u0101l\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25835254cb9ba0311bec26451022d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1243036549,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243036549,
+    "wof:lastmodified":1537581150,
+    "wof:name":"Mali Khel",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.83955,
+    31.56414,
+    64.83955,
+    31.56414
+],
+  "geometry": {"coordinates":[64.83955,31.56414],"type":"Point"}
+}

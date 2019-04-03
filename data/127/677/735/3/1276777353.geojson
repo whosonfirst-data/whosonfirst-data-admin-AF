@@ -1,0 +1,73 @@
+{
+  "id": 1276777353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14376,37.45952,70.14376,37.45952",
+    "geom:latitude":37.45952,
+    "geom:longitude":70.14376,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Aq Mastan",
+    "gn:country_code":"AF",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467561,
+    "gn:latitude":37.45952,
+    "gn:longitude":70.14376,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Mast\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100q Mast\u0101n",
+        "\u0622\u0642 \u0645\u0633\u062a\u0627\u0646",
+        "Aq Mast\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467561
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca0a84041203799bbfd39877741769ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1276777353,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276777353,
+    "wof:lastmodified":1537583487,
+    "wof:name":"Aq Mastan",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14376,
+    37.45952,
+    70.14376,
+    37.45952
+],
+  "geometry": {"coordinates":[70.14376,37.45952],"type":"Point"}
+}

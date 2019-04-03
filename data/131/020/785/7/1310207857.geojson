@@ -1,0 +1,71 @@
+{
+  "id": 1310207857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.45717,35.09729,63.45717,35.09729",
+    "geom:latitude":35.09729,
+    "geom:longitude":63.45717,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Miana Bam",
+    "gn:country_code":"AF",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133413,
+    "gn:latitude":35.09729,
+    "gn:longitude":63.45717,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Miana Bam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012b\u0101neh Bam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133413
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9bf8adba439bcebc0ccc0dd64dccc0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562371,
+            "locality_id":1310207857,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310207857,
+    "wof:lastmodified":1537581091,
+    "wof:name":"Miana Bam",
+    "wof:parent_id":1108562371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.45717,
+    35.09729,
+    63.45717,
+    35.09729
+],
+  "geometry": {"coordinates":[63.45717,35.09729],"type":"Point"}
+}

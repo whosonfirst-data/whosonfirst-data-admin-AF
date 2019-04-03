@@ -1,0 +1,76 @@
+{
+  "id": 1193222841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23218,34.67194,70.23218,34.67194",
+    "geom:latitude":34.67194,
+    "geom:longitude":70.23218,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Shorawah",
+    "gn:country_code":"AF",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474524,
+    "gn:latitude":34.67194,
+    "gn:longitude":70.23218,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160or\u0101wa",
+        "Sh\u016bwa",
+        "Shorava",
+        "Sh\u016bwah",
+        "Sh\u014dr\u0101wah",
+        "\u0634\u0648\u0631\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474524
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"615efeb53ea969e42e3bfd342e38bff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1193222841,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1193222841,
+    "wof:lastmodified":1537583813,
+    "wof:name":"Shorawah",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23218,
+    34.67194,
+    70.23218,
+    34.67194
+],
+  "geometry": {"coordinates":[70.23218,34.67194],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243139251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26055,36.34884,69.26055,36.34884",
+    "geom:latitude":36.34884,
+    "geom:longitude":69.26055,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203.0",
+    "gn:asciiname":"Tayrsak Chashmah",
+    "gn:country_code":"AF",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409933,
+    "gn:latitude":36.34884,
+    "gn:longitude":69.26055,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tayrsak Chashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu\u1e5fsak Casma",
+        "Tursak Cheshmeh",
+        "Tayrsak Chashmah",
+        "\u062a\u06cc\u0631\u0633\u06a9 \u0686\u0634\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25f1f96ef2a5578aa0e033d361752e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1243139251,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1243139251,
+    "wof:lastmodified":1537582532,
+    "wof:name":"Tayrsak Chashmah",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26055,
+    36.34884,
+    69.26055,
+    36.34884
+],
+  "geometry": {"coordinates":[69.26054999999999,36.34884],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243167443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57267,33.67198,68.57267,33.67198",
+    "geom:latitude":33.67198,
+    "geom:longitude":68.57267,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"616",
+    "gn:asciiname":"Lolah",
+    "gn:country_code":"AF",
+    "gn:dem":2587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134584,
+    "gn:latitude":33.67198,
+    "gn:longitude":68.57267,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lola",
+        "L\u014dla",
+        "L\u014dlah",
+        "Lowlah",
+        "\u0644\u0648\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134584
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a7b79c2e19307c7b4cc101a2b7582db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562601,
+            "locality_id":1243167443,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243167443,
+    "wof:lastmodified":1537581187,
+    "wof:name":"Lolah",
+    "wof:parent_id":1108562601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57267,
+    33.67198,
+    68.57267,
+    33.67198
+],
+  "geometry": {"coordinates":[68.57267,33.67198],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276730927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3638,32.32336,66.3638,32.32336",
+    "geom:latitude":32.32336,
+    "geom:longitude":66.3638,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414",
+    "gn:asciiname":"Spi Lagh",
+    "gn:country_code":"AF",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123922,
+    "gn:latitude":32.32336,
+    "gn:longitude":66.3638,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012b L\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Spilag",
+        "Sp\u012b L\u0101gh",
+        "\u0633\u067e\u06cc \u0644\u0627\u063a",
+        "Spi L\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123922
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"caf3988ec6b34aa2fae8d173cd200d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1276730927,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276730927,
+    "wof:lastmodified":1537580259,
+    "wof:name":"Spi Lagh",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3638,
+    32.32336,
+    66.3638,
+    32.32336
+],
+  "geometry": {"coordinates":[66.3638,32.32336],"type":"Point"}
+}

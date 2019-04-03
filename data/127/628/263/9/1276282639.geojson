@@ -1,0 +1,82 @@
+{
+  "id": 1276282639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00605,33.4948,70.00605,33.4948",
+    "geom:latitude":33.4948,
+    "geom:longitude":70.00605,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3209",
+    "gn:asciiname":"Khulbisat",
+    "gn:country_code":"AF",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1136414,
+    "gn:latitude":33.4948,
+    "gn:longitude":70.00605,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khulbis\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u0628\u0633\u0627\u062a"
+    ],
+    "name:rus_x_preferred":[
+        "Khul\u2019besat"
+    ],
+    "name:und_x_variant":[
+        "Khulbes\u0101t",
+        "Kh\u0101lb\u00eas\u0101t",
+        "Kholbes\u0101t",
+        "Kh\u014dlbis\u0101t",
+        "\u062e\u0648\u0644\u0628\u0633\u0627\u062a",
+        "Khulbis\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136414
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2365f23a9067e28e1a273fb751e770fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562421,
+            "locality_id":1276282639,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1276282639,
+    "wof:lastmodified":1537581340,
+    "wof:name":"Khulbisat",
+    "wof:parent_id":1108562421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00605,
+    33.4948,
+    70.00605,
+    33.4948
+],
+  "geometry": {"coordinates":[70.00605,33.4948],"type":"Point"}
+}

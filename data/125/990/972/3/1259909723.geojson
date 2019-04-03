@@ -1,0 +1,74 @@
+{
+  "id": 1259909723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.10644,37.01486,66.10644,37.01486",
+    "geom:latitude":37.01486,
+    "geom:longitude":66.10644,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Harun-e Awal",
+    "gn:country_code":"AF",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425693,
+    "gn:latitude":37.01486,
+    "gn:longitude":66.10644,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"H\u0101r\u016bn-e Awal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0101r\u016bn-i-Awal",
+        "H\u0101r\u016bn-e Avval",
+        "H\u0101r\u016bn-e Awal",
+        "\u0647\u0627\u0631\u0648\u0646 \u0627\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425693
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7af08d8b0895a62910c8dcac7eceaade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1259909723,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1259909723,
+    "wof:lastmodified":1537582639,
+    "wof:name":"Harun-e Awal",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.10644,
+    37.01486,
+    66.10644,
+    37.01486
+],
+  "geometry": {"coordinates":[66.10644000000001,37.01486],"type":"Point"}
+}

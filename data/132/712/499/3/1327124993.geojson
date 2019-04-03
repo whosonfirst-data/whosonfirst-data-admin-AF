@@ -1,0 +1,67 @@
+{
+  "id": 1327124993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61667,33.0,68.61667,33.0",
+    "geom:latitude":33.0,
+    "geom:longitude":68.61667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sar Tasan",
+    "gn:country_code":"AF",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126800,
+    "gn:latitude":33.0,
+    "gn:longitude":68.61667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Sa\u1e5f T\u0101san",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126800
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3350f64b76bdf2a8cc5bc7272d0d1228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562597,
+            "locality_id":1327124993,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327124993,
+    "wof:lastmodified":1536624866,
+    "wof:name":"Sar Tasan",
+    "wof:parent_id":1108562597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61667,
+    33.0,
+    68.61667,
+    33.0
+],
+  "geometry": {"coordinates":[68.61667,33.0],"type":"Point"}
+}

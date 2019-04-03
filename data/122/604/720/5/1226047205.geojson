@@ -1,0 +1,74 @@
+{
+  "id": 1226047205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71218,34.72647,67.71218,34.72647",
+    "geom:latitude":34.72647,
+    "geom:longitude":67.71218,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2801.0",
+    "gn:asciiname":"Tay-e Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":3053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457470,
+    "gn:latitude":34.72647,
+    "gn:longitude":67.71218,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tay-e Gh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tayi-Gar",
+        "Tay-e Ghar",
+        "Tay-e Gh\u0101r",
+        "\u062a\u06cc \u063a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457470
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3ea01bb8aa6ac489e42288c7c79899e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1226047205,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226047205,
+    "wof:lastmodified":1537583227,
+    "wof:name":"Tay-e Ghar",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71218,
+    34.72647,
+    67.71218,
+    34.72647
+],
+  "geometry": {"coordinates":[67.71218,34.72647],"type":"Point"}
+}

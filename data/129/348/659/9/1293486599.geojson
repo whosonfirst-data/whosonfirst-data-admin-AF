@@ -1,0 +1,74 @@
+{
+  "id": 1293486599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.45293,35.09714,66.45293,35.09714",
+    "geom:latitude":35.09714,
+    "geom:longitude":66.45293,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Katah Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137723,
+    "gn:latitude":35.09714,
+    "gn:longitude":66.45293,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Katah Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katab\u0113\u1e0f",
+        "Ka\u1e6fah B\u012bd",
+        "Katah Bayd",
+        "\u06a9\u062a\u0647 \u0628\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137723
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"370c49aef1d0dbffc40f9e1bb0179885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1293486599,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293486599,
+    "wof:lastmodified":1537581438,
+    "wof:name":"Katah Bayd",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.45293000000001,
+    35.09714,
+    66.45293000000001,
+    35.09714
+],
+  "geometry": {"coordinates":[66.45293000000001,35.09714],"type":"Point"}
+}

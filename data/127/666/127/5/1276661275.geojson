@@ -1,0 +1,73 @@
+{
+  "id": 1276661275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80998,37.13344,70.80998,37.13344",
+    "geom:latitude":37.13344,
+    "geom:longitude":70.80998,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1114.0",
+    "gn:asciiname":"Wurnel",
+    "gn:country_code":"AF",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468570,
+    "gn:latitude":37.13344,
+    "gn:longitude":70.80998,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wurn\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0648\u0631\u0646\u06d0\u0644",
+        "Wu\u1e5fn\u0113l",
+        "Wurn\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2cd8c880e74f9021f9e69b7e543624d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561817,
+            "locality_id":1276661275,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276661275,
+    "wof:lastmodified":1537583562,
+    "wof:name":"Wurnel",
+    "wof:parent_id":1108561817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80998000000002,
+    37.13344,
+    70.80998000000002,
+    37.13344
+],
+  "geometry": {"coordinates":[70.80998000000002,37.13344],"type":"Point"}
+}

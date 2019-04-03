@@ -1,0 +1,73 @@
+{
+  "id": 1243377419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39057,36.55474,70.39057,36.55474",
+    "geom:latitude":36.55474,
+    "geom:longitude":70.39057,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1123",
+    "gn:asciiname":"Rabat",
+    "gn:country_code":"AF",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128337,
+    "gn:latitude":36.55474,
+    "gn:longitude":70.39057,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rab\u0101\u0163",
+        "\u0631\u0628\u0627\u0637",
+        "Rob\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128337
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fab72b3fdb4eabced682b707b2f30601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562529,
+            "locality_id":1243377419,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243377419,
+    "wof:lastmodified":1537580620,
+    "wof:name":"Rabat",
+    "wof:parent_id":1108562529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39057,
+    36.55474,
+    70.39057,
+    36.55474
+],
+  "geometry": {"coordinates":[70.39057,36.55474],"type":"Point"}
+}

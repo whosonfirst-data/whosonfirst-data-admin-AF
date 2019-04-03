@@ -1,0 +1,77 @@
+{
+  "id": 1310128457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03204,34.80306,68.03204,34.80306",
+    "geom:latitude":34.80306,
+    "geom:longitude":68.03204,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2802",
+    "gn:asciiname":"Jandar Gul-e Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139594,
+    "gn:latitude":34.80306,
+    "gn:longitude":68.03204,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jandar Gul-e Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhandargali-Sufla",
+        "Jandar Gol-e Sofl\u00e1",
+        "Jan\u1e0fa\u1e5fgale Sufl\u0101",
+        "Jandargal-e Sofl\u00e1",
+        "Jandar Gul-e Sufl\u00e1",
+        "\u062c\u0646\u062f\u0631 \u06af\u0644 \u0633\u0641\u0644\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139594,
+        "wk:page":"Jandar_Gol-e_Sofla"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"569873de263ef3379d1c2e524abc3fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562487,
+            "locality_id":1310128457,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310128457,
+    "wof:lastmodified":1537581590,
+    "wof:name":"Jandar Gul-e Sufla",
+    "wof:parent_id":1108562487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03204000000001,
+    34.80306,
+    68.03204000000001,
+    34.80306
+],
+  "geometry": {"coordinates":[68.03204000000001,34.80306],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360227259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61962,34.82837,68.61962,34.82837",
+    "geom:latitude":34.82837,
+    "geom:longitude":68.61962,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Saybak",
+    "gn:country_code":"AF",
+    "gn:dem":2419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126629,
+    "gn:latitude":34.82837,
+    "gn:longitude":68.61962,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Saybak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sebak",
+        "S\u0113bak",
+        "S\u012bbak",
+        "Saybak",
+        "\u0633\u06cc\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126629
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"03bca110e9a358598a887513bea76a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1360227259,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1360227259,
+    "wof:lastmodified":1537580490,
+    "wof:name":"Saybak",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61962,
+    34.82837,
+    68.61962,
+    34.82837
+],
+  "geometry": {"coordinates":[68.61962,34.82837],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226030137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87807,33.31233,67.87807,33.31233",
+    "geom:latitude":33.31233,
+    "geom:longitude":67.87807,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Sadbarg",
+    "gn:country_code":"AF",
+    "gn:dem":2883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128077,
+    "gn:latitude":33.31233,
+    "gn:longitude":67.87807,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eadbarg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u0431\u0430\u0440\u0433"
+    ],
+    "name:und_x_variant":[
+        "\u015eadbarg",
+        "\u0635\u062f\u0628\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128077
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc63b630efa1c75fb10ca6258fe3244b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1226030137,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226030137,
+    "wof:lastmodified":1537580601,
+    "wof:name":"Sadbarg",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87807,
+    33.31233,
+    67.87807,
+    33.31233
+],
+  "geometry": {"coordinates":[67.87806999999999,33.31233],"type":"Point"}
+}

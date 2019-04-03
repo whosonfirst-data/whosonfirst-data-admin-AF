@@ -1,0 +1,77 @@
+{
+  "id": 1326515403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34071,33.66538,68.34071,33.66538",
+    "geom:latitude":33.66538,
+    "geom:longitude":68.34071,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"603",
+    "gn:asciiname":"Taqu Duz",
+    "gn:country_code":"AF",
+    "gn:dem":2474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122808,
+    "gn:latitude":33.66538,
+    "gn:longitude":68.34071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101q\u016b D\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0642\u0648\u062f\u0632"
+    ],
+    "name:und_x_variant":[
+        "Takuduz",
+        "T\u0101q\u016b D\u016bz",
+        "T\u0101q\u016b\u1e0fuz",
+        "\u062a\u0627\u0642\u0648 \u062f\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122808
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b716a530c21dd21740bb081e6adfe55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562195,
+            "locality_id":1326515403,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326515403,
+    "wof:lastmodified":1537580187,
+    "wof:name":"Taqu Duz",
+    "wof:parent_id":1108562195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34071,
+    33.66538,
+    68.34071,
+    33.66538
+],
+  "geometry": {"coordinates":[68.34071,33.66538],"type":"Point"}
+}

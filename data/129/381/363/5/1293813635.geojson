@@ -1,0 +1,74 @@
+{
+  "id": 1293813635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27508,33.86925,66.27508,33.86925",
+    "geom:latitude":33.86925,
+    "geom:longitude":66.27508,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Ghaybe",
+    "gn:country_code":"AF",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449111,
+    "gn:latitude":33.86925,
+    "gn:longitude":66.27508,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghayb\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0113b\u0113",
+        "Ghayb\u0113",
+        "\u063a\u06cc\u0628\u06d0",
+        "Gheyb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449111
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"153f3b71a159c3e36ae1ba182d5be79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1293813635,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1293813635,
+    "wof:lastmodified":1537583004,
+    "wof:name":"Ghaybe",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27508,
+    33.86925,
+    66.27508,
+    33.86925
+],
+  "geometry": {"coordinates":[66.27508,33.86925],"type":"Point"}
+}

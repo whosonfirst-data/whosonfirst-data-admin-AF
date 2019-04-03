@@ -1,0 +1,68 @@
+{
+  "id": 1193189303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41358,35.12807,70.41358,35.12807",
+    "geom:latitude":35.12807,
+    "geom:longitude":70.41358,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3007.0",
+    "gn:asciiname":"Banok Deh Das",
+    "gn:country_code":"AF",
+    "gn:dem":3149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108706,
+    "gn:latitude":35.12807,
+    "gn:longitude":70.41358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ban\u014dk Deh Das",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108706
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7581dae75d4044715f51125eb5a228b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561991,
+            "locality_id":1193189303,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1193189303,
+    "wof:lastmodified":1536363732,
+    "wof:name":"Banok Deh Das",
+    "wof:parent_id":1108561991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41358000000002,
+    35.12807,
+    70.41358000000002,
+    35.12807
+],
+  "geometry": {"coordinates":[70.41358000000002,35.12807],"type":"Point"}
+}

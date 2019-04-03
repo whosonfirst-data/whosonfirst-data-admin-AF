@@ -1,0 +1,81 @@
+{
+  "id": 1360225267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86898,34.67192,69.86898,34.67192",
+    "geom:latitude":34.67192,
+    "geom:longitude":69.86898,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901",
+    "gn:asciiname":"Shah Gulian",
+    "gn:country_code":"AF",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126027,
+    "gn:latitude":34.67192,
+    "gn:longitude":69.86898,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Gul\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u06af\u0644\u064a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Shakhgul\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101hguly\u0101n",
+        "Sh\u0101hguly\u0101n",
+        "Sh\u0101h Gol\u012b\u0101n",
+        "Sh\u0101h Gul\u012b\u0101n",
+        "\u0634\u0627\u0647 \u06af\u0644\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2e05a8ea7523c1afa09560f8606aaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1360225267,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1360225267,
+    "wof:lastmodified":1537580435,
+    "wof:name":"Shah Gulian",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86898000000001,
+    34.67192,
+    69.86898000000001,
+    34.67192
+],
+  "geometry": {"coordinates":[69.86898000000001,34.67192],"type":"Point"}
+}

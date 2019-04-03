@@ -1,0 +1,75 @@
+{
+  "id": 1242924477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37885,31.80054,67.37885,31.80054",
+    "geom:latitude":31.80054,
+    "geom:longitude":67.37885,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Nikeh Gano Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436155,
+    "gn:latitude":31.80054,
+    "gn:longitude":67.37885,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u012bk\u00eah G\u0101n\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nikaganu-Kili",
+        "N\u012bk\u00eah G\u0101n\u014d K\u00ealay",
+        "\u0646\u06cc\u06a9\u0647 \u06af\u0627\u0646\u0648 \u06a9\u0644\u06cc",
+        "N\u012bk\u0113hg\u0101no Keli",
+        "N\u012bk\u00eahg\u0101n\u014d K\u00eal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436155
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1401c08ade70aaed613404b089dd485b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1242924477,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242924477,
+    "wof:lastmodified":1537582807,
+    "wof:name":"Nikeh Gano Kelay",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37885,
+    31.80054,
+    67.37885,
+    31.80054
+],
+  "geometry": {"coordinates":[67.37885,31.80054],"type":"Point"}
+}

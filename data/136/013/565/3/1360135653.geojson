@@ -1,0 +1,77 @@
+{
+  "id": 1360135653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98033,32.53042,66.98033,32.53042",
+    "geom:latitude":32.53042,
+    "geom:longitude":66.98033,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Shimizi",
+    "gn:country_code":"AF",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125176,
+    "gn:latitude":32.53042,
+    "gn:longitude":66.98033,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shimizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u06cc\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0160imizi",
+        "Sh\u012bm\u012bz\u012b",
+        "\u0634\u0645\u0632\u06cc",
+        "Shimizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125176
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db837653a12d57f52ef23bc9a249a329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1360135653,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1360135653,
+    "wof:lastmodified":1537580363,
+    "wof:name":"Shimizi",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98033000000001,
+    32.53042,
+    66.98033000000001,
+    32.53042
+],
+  "geometry": {"coordinates":[66.98033000000001,32.53042],"type":"Point"}
+}

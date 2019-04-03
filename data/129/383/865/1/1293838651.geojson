@@ -1,0 +1,73 @@
+{
+  "id": 1293838651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66571,36.97709,69.66571,36.97709",
+    "geom:latitude":36.97709,
+    "geom:longitude":69.66571,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208",
+    "gn:asciiname":"Galah Wan",
+    "gn:country_code":"AF",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142045,
+    "gn:latitude":36.97709,
+    "gn:longitude":69.66571,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Galah W\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galah W\u0101n",
+        "\u06af\u0644\u0647 \u0648\u0627\u0646",
+        "Galaw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142045
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3a6c4d8b92ff0b50c7198a1b6b5d775d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1293838651,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293838651,
+    "wof:lastmodified":1537581794,
+    "wof:name":"Galah Wan",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66571,
+    36.97709,
+    69.66571,
+    36.97709
+],
+  "geometry": {"coordinates":[69.66571,36.97709],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326788767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.21885,31.5034,67.21885,31.5034",
+    "geom:latitude":31.5034,
+    "geom:longitude":67.21885,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Bayik",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436020,
+    "gn:latitude":31.5034,
+    "gn:longitude":67.21885,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101yik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "B\u0101yik",
+        "\u0628\u0627\u06cc\u06a9",
+        "B\u0101yek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e0ca79a7622d2bebf2d5d1a3d7f4c546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1326788767,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326788767,
+    "wof:lastmodified":1537582791,
+    "wof:name":"Bayik",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.21885,
+    31.5034,
+    67.21885,
+    31.5034
+],
+  "geometry": {"coordinates":[67.21885,31.5034],"type":"Point"}
+}

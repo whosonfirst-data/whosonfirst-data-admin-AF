@@ -1,0 +1,68 @@
+{
+  "id": 1209261579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76479,32.64985,68.76479,32.64985",
+    "geom:latitude":32.64985,
+    "geom:longitude":68.76479,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Bang",
+    "gn:country_code":"AF",
+    "gn:dem":2519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1433311,
+    "gn:latitude":32.64985,
+    "gn:longitude":68.76479,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433311
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9535f695b262599d095e2e38a0669094",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209261579
+        }
+    ],
+    "wof:id":1209261579,
+    "wof:lastmodified":1537582683,
+    "wof:name":"Bang",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76479,
+    32.64985,
+    68.76479,
+    32.64985
+],
+  "geometry": {"coordinates":[68.76479,32.64985],"type":"Point"}
+}

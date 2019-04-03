@@ -1,0 +1,72 @@
+{
+  "id": 1243125575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28917,34.52712,70.28917,34.52712",
+    "geom:latitude":34.52712,
+    "geom:longitude":70.28917,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Sosangai",
+    "gn:country_code":"AF",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564095,
+    "gn:latitude":34.52712,
+    "gn:longitude":70.28917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dsanga\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014dsanga\u012b",
+        "\u0633\u0648\u0633\u0646\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564095
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"58045a40693b87fba4939ee257c7d3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1243125575,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1243125575,
+    "wof:lastmodified":1537583934,
+    "wof:name":"Sosangai",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28917,
+    34.52712,
+    70.28917,
+    34.52712
+],
+  "geometry": {"coordinates":[70.28917,34.52712],"type":"Point"}
+}

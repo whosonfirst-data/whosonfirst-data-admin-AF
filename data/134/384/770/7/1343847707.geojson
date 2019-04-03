@@ -1,0 +1,74 @@
+{
+  "id": 1343847707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.55762,34.21326,63.55762,34.21326",
+    "geom:latitude":34.21326,
+    "geom:longitude":63.55762,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Kushkamin",
+    "gn:country_code":"AF",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135135,
+    "gn:latitude":34.21326,
+    "gn:longitude":63.55762,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bshk\u0101m\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u0161k\u0101m\u012bn",
+        "Kushk\u0101m\u012bn",
+        "K\u016bshk\u0101m\u012bn",
+        "\u06a9\u0648\u0634\u06a9\u0627\u0645\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135135
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8a018d30abea3b38dd50c7c6e27b2d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1343847707,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343847707,
+    "wof:lastmodified":1537581228,
+    "wof:name":"Kushkamin",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.55761999999999,
+    34.21326,
+    63.55761999999999,
+    34.21326
+],
+  "geometry": {"coordinates":[63.55761999999999,34.21326],"type":"Point"}
+}

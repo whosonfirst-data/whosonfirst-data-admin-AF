@@ -1,0 +1,81 @@
+{
+  "id": 1193068915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.00844,34.9695,71.00844,34.9695",
+    "geom:latitude":34.9695,
+    "geom:longitude":71.00844,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Gondel",
+    "gn:country_code":"AF",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451841,
+    "gn:latitude":34.9695,
+    "gn:longitude":71.00844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014dn\u1e0f\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0646\u062f\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Gondel\u2019"
+    ],
+    "name:und_x_variant":[
+        "G\u014dnd\u0113l",
+        "Gownd\u0113l",
+        "\u06af\u0648\u0646\u062f\u064a\u0644",
+        "G\u014dn\u1e0f\u0113l",
+        "\u06af\u0648\u0646\u0689\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451841
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"634d6e04485f4cab0f2da72adcf1987c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561933,
+            "locality_id":1193068915,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1193068915,
+    "wof:lastmodified":1537583075,
+    "wof:name":"Gondel",
+    "wof:parent_id":1108561933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.00844000000002,
+    34.9695,
+    71.00844000000002,
+    34.9695
+],
+  "geometry": {"coordinates":[71.00844000000002,34.9695],"type":"Point"}
+}

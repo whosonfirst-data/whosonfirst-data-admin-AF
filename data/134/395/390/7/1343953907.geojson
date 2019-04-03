@@ -1,0 +1,76 @@
+{
+  "id": 1343953907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88378,32.29989,64.88378,32.29989",
+    "geom:latitude":32.29989,
+    "geom:longitude":64.88378,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304",
+    "gn:asciiname":"Zubayr",
+    "gn:country_code":"AF",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120559,
+    "gn:latitude":32.29989,
+    "gn:longitude":64.88378,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zubayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zobair",
+        "Zobay\u1e5f",
+        "Zubayi",
+        "Zubayr",
+        "\u0632\u0628\u06cc\u0631",
+        "Zobeyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120559
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"46960ce06e4de217df4c0ccef255a7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1343953907,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343953907,
+    "wof:lastmodified":1537579953,
+    "wof:name":"Zubayr",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88378,
+    32.29989,
+    64.88378,
+    32.29989
+],
+  "geometry": {"coordinates":[64.88378,32.29989],"type":"Point"}
+}

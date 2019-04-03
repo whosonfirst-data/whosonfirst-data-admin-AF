@@ -1,0 +1,76 @@
+{
+  "id": 1326797257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99361,34.5316,67.99361,34.5316",
+    "geom:latitude":34.5316,
+    "geom:longitude":67.99361,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Baldarghangak",
+    "gn:country_code":"AF",
+    "gn:dem":3311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457436,
+    "gn:latitude":34.5316,
+    "gn:longitude":67.99361,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baldarghangak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bal\u2019dargangak"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ld\u0101rghangak",
+        "Baldarghangak",
+        "\u0628\u0644\u062f\u0631\u063a\u0646\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457436
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f263cf0ab5a78bd1e94dcb0c4eb2aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1326797257,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1326797257,
+    "wof:lastmodified":1537583226,
+    "wof:name":"Baldarghangak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99361,
+    34.5316,
+    67.99361,
+    34.5316
+],
+  "geometry": {"coordinates":[67.99361,34.5316],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293822597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.43227,35.12321,70.43227,35.12321",
+    "geom:latitude":35.12321,
+    "geom:longitude":70.43227,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Shapawos",
+    "gn:country_code":"AF",
+    "gn:dem":3297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108705,
+    "gn:latitude":35.12321,
+    "gn:longitude":70.43227,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shap\u0101wos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108705
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ba14eda21fe12eb6b3bafcabbe758d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561991,
+            "locality_id":1293822597,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1293822597,
+    "wof:lastmodified":1536801096,
+    "wof:name":"Shapawos",
+    "wof:parent_id":1108561991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.43226999999997,
+    35.12321,
+    70.43226999999997,
+    35.12321
+],
+  "geometry": {"coordinates":[70.43226999999997,35.12321],"type":"Point"}
+}

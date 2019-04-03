@@ -1,0 +1,76 @@
+{
+  "id": 1209863455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13696,34.29207,68.13696,34.29207",
+    "geom:latitude":34.29207,
+    "geom:longitude":68.13696,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Dewar",
+    "gn:country_code":"AF",
+    "gn:dem":2855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459114,
+    "gn:latitude":34.29207,
+    "gn:longitude":68.13696,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113w\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Divar",
+        "\u1e0eiw\u0101\u1e5f",
+        "D\u012bv\u0101r",
+        "Dayw\u0101r",
+        "D\u0113w\u0101r",
+        "\u062f\u06d0\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459114
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f7e4de9d3cfef8c6b0350b2ace8fddf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1209863455,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209863455,
+    "wof:lastmodified":1537583291,
+    "wof:name":"Dewar",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13696,
+    34.29207,
+    68.13696,
+    34.29207
+],
+  "geometry": {"coordinates":[68.13696,34.29207],"type":"Point"}
+}

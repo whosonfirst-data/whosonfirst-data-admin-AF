@@ -1,0 +1,78 @@
+{
+  "id": 1260352109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68278,34.58098,70.68278,34.58098",
+    "geom:latitude":34.58098,
+    "geom:longitude":70.68278,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"819.0",
+    "gn:asciiname":"Kashkot",
+    "gn:country_code":"AF",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473937,
+    "gn:latitude":34.58098,
+    "gn:longitude":70.68278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0634 \u0643\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u0161kot",
+        "Kashkot",
+        "K\u0101shkowt",
+        "K\u0101shk\u014d\u1e6f",
+        "\u06a9\u0627\u0634\u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473937
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7640959f6dff9ece2857ad9fad53b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562223,
+            "locality_id":1260352109,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1260352109,
+    "wof:lastmodified":1537583772,
+    "wof:name":"Kashkot",
+    "wof:parent_id":1108562223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68278000000002,
+    34.58098,
+    70.68278000000002,
+    34.58098
+],
+  "geometry": {"coordinates":[70.68278000000002,34.58098],"type":"Point"}
+}

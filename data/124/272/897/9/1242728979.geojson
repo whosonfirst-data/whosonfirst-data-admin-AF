@@ -1,0 +1,78 @@
+{
+  "id": 1242728979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56447,32.54292,66.56447,32.54292",
+    "geom:latitude":32.54292,
+    "geom:longitude":66.56447,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Hazar Buz",
+    "gn:country_code":"AF",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140124,
+    "gn:latitude":32.54292,
+    "gn:longitude":66.56447,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101r Buz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0632\u0627\u0631\u0628\u0632"
+    ],
+    "name:und_x_variant":[
+        "Khazarbuz",
+        "Haz\u0101\u1e5fbuz",
+        "Haz\u0101r Buz",
+        "\u0647\u0632\u0627\u0631 \u0628\u0632",
+        "Hez\u0101rboz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140124
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c85f578bf134b0144374d3d14a59588e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1242728979,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242728979,
+    "wof:lastmodified":1537581633,
+    "wof:name":"Hazar Buz",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56447,
+    32.54292,
+    66.56447,
+    32.54292
+],
+  "geometry": {"coordinates":[66.56447,32.54292],"type":"Point"}
+}

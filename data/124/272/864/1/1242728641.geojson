@@ -1,0 +1,78 @@
+{
+  "id": 1242728641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.22705,32.61258,69.22705,32.61258",
+    "geom:latitude":32.61258,
+    "geom:longitude":69.22705,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Sowdal Malkshay Kot",
+    "gn:country_code":"AF",
+    "gn:dem":2121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433902,
+    "gn:latitude":32.61258,
+    "gn:longitude":69.22705,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sowdal Malkshay K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Saudal\u2019mal\u2019kshay-Kot"
+    ],
+    "name:und_x_variant":[
+        "Sawdal Malk\u0161ay Kot",
+        "Saudal\u2019mal\u2019kshay-Kot",
+        "Sawdal Malkshay Kow\u1e6f",
+        "Sowdal Malkshay K\u014d\u1e6f",
+        "\u0633\u0648\u062f\u0644 \u0645\u0644\u06a9\u0634\u06cc \u06a9\u0648\u067c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433902
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1ad551fd299fc1acfe82995c7ac10fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1242728641,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1242728641,
+    "wof:lastmodified":1537582695,
+    "wof:name":"Sowdal Malkshay Kot",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.22705,
+    32.61258,
+    69.22705,
+    32.61258
+],
+  "geometry": {"coordinates":[69.22705000000001,32.61258],"type":"Point"}
+}

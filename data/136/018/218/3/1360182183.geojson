@@ -1,0 +1,77 @@
+{
+  "id": 1360182183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97271,33.5438,67.97271,33.5438",
+    "geom:latitude":33.5438,
+    "geom:longitude":67.97271,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Qalkhi",
+    "gn:country_code":"AF",
+    "gn:dem":2855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129750,
+    "gn:latitude":33.5438,
+    "gn:longitude":67.97271,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qalkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kal\u2019khi",
+        "Qalkhi Sa\u1e0f\u1e5fay",
+        "Qalkh\u012b",
+        "\u0642\u0644\u062e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129750
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ef75f038596fa3a2bd3e00344b2caecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1360182183,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360182183,
+    "wof:lastmodified":1537580758,
+    "wof:name":"Qalkhi",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97270999999999,
+    33.5438,
+    67.97270999999999,
+    33.5438
+],
+  "geometry": {"coordinates":[67.97270999999999,33.5438],"type":"Point"}
+}

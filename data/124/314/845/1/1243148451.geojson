@@ -1,0 +1,76 @@
+{
+  "id": 1243148451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99372,34.05019,68.99372,34.05019",
+    "geom:latitude":34.05019,
+    "geom:longitude":68.99372,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"501.0",
+    "gn:asciiname":"Alozi",
+    "gn:country_code":"AF",
+    "gn:dem":1900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148842,
+    "gn:latitude":34.05019,
+    "gn:longitude":68.99372,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Al\u014dz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u014dzi",
+        "Alozi",
+        "Al\u014dza\u012b",
+        "Alowz\u012b",
+        "Al\u014dz\u012b",
+        "\u0627\u0644\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148842
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21224fc7042bd902e349fe54bdf6186e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562361,
+            "locality_id":1243148451,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243148451,
+    "wof:lastmodified":1537582369,
+    "wof:name":"Alozi",
+    "wof:parent_id":1108562361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99372,
+    34.05019,
+    68.99372,
+    34.05019
+],
+  "geometry": {"coordinates":[68.99372,34.05019],"type":"Point"}
+}

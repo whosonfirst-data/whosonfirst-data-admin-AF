@@ -1,0 +1,74 @@
+{
+  "id": 1226659791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97468,36.71987,70.97468,36.71987",
+    "geom:latitude":36.71987,
+    "geom:longitude":70.97468,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Nowak",
+    "gn:country_code":"AF",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132206,
+    "gn:latitude":36.71987,
+    "gn:longitude":70.97468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawak",
+        "\u0646\u0648\u06a9",
+        "N\u0101vak",
+        "Nowak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132206
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"27adefab12fda69c55f858aea13673ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1226659791,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226659791,
+    "wof:lastmodified":1537580991,
+    "wof:name":"Nowak",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97468,
+    36.71987,
+    70.97468,
+    36.71987
+],
+  "geometry": {"coordinates":[70.97468000000001,36.71987],"type":"Point"}
+}

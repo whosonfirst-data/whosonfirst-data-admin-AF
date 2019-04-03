@@ -1,0 +1,73 @@
+{
+  "id": 1327245251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58746,37.30249,70.58746,37.30249",
+    "geom:latitude":37.30249,
+    "geom:longitude":70.58746,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Deblo",
+    "gn:country_code":"AF",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468436,
+    "gn:latitude":37.30249,
+    "gn:longitude":70.58746,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113bl\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u06d0\u0628\u0644\u0648",
+        "\u1e0e\u0113bl\u014d",
+        "D\u0113bl\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468436
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc25eded582dd3d7e893ac1ebdf807c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1327245251,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327245251,
+    "wof:lastmodified":1537583554,
+    "wof:name":"Deblo",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58746,
+    37.30249,
+    70.58746,
+    37.30249
+],
+  "geometry": {"coordinates":[70.58745999999999,37.30249],"type":"Point"}
+}

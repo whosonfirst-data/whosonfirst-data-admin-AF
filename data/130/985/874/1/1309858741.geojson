@@ -1,0 +1,75 @@
+{
+  "id": 1309858741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.52833,33.78167,69.52833,33.78167",
+    "geom:latitude":33.78167,
+    "geom:longitude":69.52833,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Salimi Nargay",
+    "gn:country_code":"AF",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127831,
+    "gn:latitude":33.78167,
+    "gn:longitude":69.52833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sal\u012bm\u012b Nargay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salimaynargay",
+        "Sal\u012bm\u012b Narga\u012b",
+        "Salem\u012b Nargay",
+        "Sal\u012bm\u012b Nargay",
+        "\u0633\u0644\u06cc\u0645\u06cc \u0646\u0631\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127831
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f03ccc1d450c307d04f04354bb59dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562443,
+            "locality_id":1309858741,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1309858741,
+    "wof:lastmodified":1537580581,
+    "wof:name":"Salimi Nargay",
+    "wof:parent_id":1108562443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.52833000000001,
+    33.78167,
+    69.52833000000001,
+    33.78167
+],
+  "geometry": {"coordinates":[69.52833000000001,33.78167],"type":"Point"}
+}

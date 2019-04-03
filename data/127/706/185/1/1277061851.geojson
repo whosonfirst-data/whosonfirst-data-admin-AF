@@ -1,0 +1,74 @@
+{
+  "id": 1277061851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44837,33.97025,67.44837,33.97025",
+    "geom:latitude":33.97025,
+    "geom:longitude":67.44837,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Sinjid",
+    "gn:country_code":"AF",
+    "gn:dem":2755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442682,
+    "gn:latitude":33.97025,
+    "gn:longitude":67.44837,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sinj\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senj\u012b\u1e0f",
+        "Senjed",
+        "Sinj\u012bd",
+        "\u0633\u0646\u062c\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442682
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7aba908d63b1cc7a111eed3f57964d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1277061851,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1277061851,
+    "wof:lastmodified":1537582935,
+    "wof:name":"Sinjid",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44837,
+    33.97025,
+    67.44837,
+    33.97025
+],
+  "geometry": {"coordinates":[67.44837,33.97025],"type":"Point"}
+}

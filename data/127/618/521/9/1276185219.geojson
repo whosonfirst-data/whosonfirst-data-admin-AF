@@ -1,0 +1,78 @@
+{
+  "id": 1276185219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.69374,36.77452,67.69374,36.77452",
+    "geom:latitude":36.77452,
+    "geom:longitude":67.69374,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614.0",
+    "gn:asciiname":"Guzar-e Bala",
+    "gn:country_code":"AF",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464629,
+    "gn:latitude":36.77452,
+    "gn:longitude":67.69374,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Guz\u0304ar-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0437\u0430\u0440\u0438-\u0411\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Guzari-Bala",
+        "Guzar-i-B\u0101la",
+        "Goz\u0304ar-e B\u0101l\u0101",
+        "Guz\u0304ar-e B\u0101l\u0101",
+        "\u06af\u0630\u0631 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464629
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b872166a3910eb68f6e32527a062e881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562177,
+            "locality_id":1276185219,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276185219,
+    "wof:lastmodified":1537583381,
+    "wof:name":"Guzar-e Bala",
+    "wof:parent_id":1108562177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.69374,
+    36.77452,
+    67.69374,
+    36.77452
+],
+  "geometry": {"coordinates":[67.69374000000001,36.77452],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209162075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54768,34.29983,68.54768,34.29983",
+    "geom:latitude":34.29983,
+    "geom:longitude":68.54768,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Shahi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125977,
+    "gn:latitude":34.29983,
+    "gn:longitude":68.54768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shakhikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101hikh\u0113l",
+        "Sh\u0101hikh\u0113l",
+        "Sh\u0101h\u012b Kh\u0113l",
+        "Sh\u0101h\u012bkheyl",
+        "\u0634\u0627\u0647\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125977
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c68180e7fde88b6452c676b1267d31c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209162075
+        }
+    ],
+    "wof:id":1209162075,
+    "wof:lastmodified":1537580433,
+    "wof:name":"Shahi Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54768,
+    34.29983,
+    68.54768,
+    34.29983
+],
+  "geometry": {"coordinates":[68.54768,34.29983],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309673443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77,32.06932,67.77,32.06932",
+    "geom:latitude":32.06932,
+    "geom:longitude":67.77,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Haidare Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139984,
+    "gn:latitude":32.06932,
+    "gn:longitude":67.77,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28a\u012bdar\u0113 K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaydarekalay",
+        "Hay\u1e0fa\u1e5f\u0113 Kalay",
+        "\u1e28eydar-e Kalay",
+        "\u1e28a\u012bdar\u0113 K\u00ealay",
+        "\u062d\u06cc\u062f\u0631\u06d0 \u06a9\u0644\u06cc",
+        "\u1e28eydar\u012b Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139984
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82780e2ac6c5d2c92977b151abc06429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1309673443,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1309673443,
+    "wof:lastmodified":1537581622,
+    "wof:name":"Haidare Kelay",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77,
+    32.06932,
+    67.77,
+    32.06932
+],
+  "geometry": {"coordinates":[67.77,32.06932],"type":"Point"}
+}

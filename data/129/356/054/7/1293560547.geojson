@@ -1,0 +1,75 @@
+{
+  "id": 1293560547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.15579,33.82084,69.15579,33.82084",
+    "geom:latitude":33.82084,
+    "geom:longitude":69.15579,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"501",
+    "gn:asciiname":"Hasht Naghor",
+    "gn:country_code":"AF",
+    "gn:dem":2518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140179,
+    "gn:latitude":33.82084,
+    "gn:longitude":69.15579,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hasht Nagh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khashtnagor",
+        "Ha\u0161tnaghor",
+        "Hasht Nagh\u016br",
+        "Hasht Nagh\u014dr",
+        "\u0647\u0634\u062a \u0646\u063a\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140179
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c4797f6d3e3c29aed51ebdefac13163d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562361,
+            "locality_id":1293560547,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293560547,
+    "wof:lastmodified":1537581637,
+    "wof:name":"Hasht Naghor",
+    "wof:parent_id":1108562361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15579,
+    33.82084,
+    69.15579,
+    33.82084
+],
+  "geometry": {"coordinates":[69.15579,33.82084],"type":"Point"}
+}

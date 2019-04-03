@@ -1,0 +1,72 @@
+{
+  "id": 1209829159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23353,37.04677,71.23353,37.04677",
+    "geom:latitude":37.04677,
+    "geom:longitude":71.23353,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Iwinak",
+    "gn:country_code":"AF",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468281,
+    "gn:latitude":37.04677,
+    "gn:longitude":71.23353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u012aw\u012bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012aw\u012bnak",
+        "\u0627\u06cc\u0648\u06cc\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468281
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"50e5d9cc9d207f9897f3133150868131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562453,
+            "locality_id":1209829159,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209829159,
+    "wof:lastmodified":1537583547,
+    "wof:name":"Iwinak",
+    "wof:parent_id":1108562453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23353,
+    37.04677,
+    71.23353,
+    37.04677
+],
+  "geometry": {"coordinates":[71.23353,37.04677],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343539429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.0073,35.02726,62.0073,35.02726",
+    "geom:latitude":35.02726,
+    "geom:longitude":62.0073,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Tah Shor",
+    "gn:country_code":"AF",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122691,
+    "gn:latitude":35.02726,
+    "gn:longitude":62.0073,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah Sh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta \u0160or",
+        "Tashor",
+        "Ta Sh\u016br",
+        "Tah Sh\u014dr",
+        "\u062a\u0647 \u0634\u0648\u0631",
+        "Tah Sh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d88da6607d83a185bce004cdb106693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1343539429,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343539429,
+    "wof:lastmodified":1537580178,
+    "wof:name":"Tah Shor",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.0073,
+    35.02726,
+    62.0073,
+    35.02726
+],
+  "geometry": {"coordinates":[62.0073,35.02726],"type":"Point"}
+}

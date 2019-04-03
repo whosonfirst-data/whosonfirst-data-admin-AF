@@ -1,0 +1,74 @@
+{
+  "id": 1343517665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.60959,32.47899,65.60959,32.47899",
+    "geom:latitude":32.47899,
+    "geom:longitude":65.60959,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2415",
+    "gn:asciiname":"Khandak Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137156,
+    "gn:latitude":32.47899,
+    "gn:longitude":65.60959,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khandak K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khandakkalay",
+        "Khandak K\u00ealay",
+        "\u062e\u0646\u062f\u06a9 \u06a9\u0644\u06cc",
+        "Khan\u1e0fak Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137156
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de320909efae2ed71cd8d7af5904d710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562323,
+            "locality_id":1343517665,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343517665,
+    "wof:lastmodified":1537581399,
+    "wof:name":"Khandak Kelay",
+    "wof:parent_id":1108562323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.60959,
+    32.47899,
+    65.60959,
+    32.47899
+],
+  "geometry": {"coordinates":[65.60959,32.47899],"type":"Point"}
+}

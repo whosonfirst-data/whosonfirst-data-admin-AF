@@ -1,0 +1,73 @@
+{
+  "id": 1293230443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6348,33.68928,66.6348,33.68928",
+    "geom:latitude":33.68928,
+    "geom:longitude":66.6348,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Qashbar",
+    "gn:country_code":"AF",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437717,
+    "gn:latitude":33.68928,
+    "gn:longitude":66.6348,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qashbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u0161bar",
+        "Qashbar",
+        "\u0642\u0634\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437717
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c4d328a90cccd36926a819421ea1c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1293230443,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1293230443,
+    "wof:lastmodified":1537582855,
+    "wof:name":"Qashbar",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6348,
+    33.68928,
+    66.6348,
+    33.68928
+],
+  "geometry": {"coordinates":[66.6348,33.68928],"type":"Point"}
+}

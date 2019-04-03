@@ -1,0 +1,77 @@
+{
+  "id": 1259830243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48862,32.64298,68.48862,32.64298",
+    "geom:latitude":32.64298,
+    "geom:longitude":68.48862,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Shawal Karez",
+    "gn:country_code":"AF",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437383,
+    "gn:latitude":32.64298,
+    "gn:longitude":68.48862,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101w\u0101l K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shaval\u2019karez"
+    ],
+    "name:und_x_variant":[
+        "S\u0101w\u0101l K\u0101\u1e5f\u0113z",
+        "\u0634\u0627\u0648\u0627\u0644 \u06a9\u0627\u0631\u06d0\u0632",
+        "Sh\u0101w\u0101l K\u0101r\u012bz",
+        "Sh\u0101w\u0101l K\u0101r\u0113z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437383
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"46c04def7531ae96d83fdcc00e0a7786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1259830243,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259830243,
+    "wof:lastmodified":1537582844,
+    "wof:name":"Shawal Karez",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48862,
+    32.64298,
+    68.48862,
+    32.64298
+],
+  "geometry": {"coordinates":[68.48862,32.64298],"type":"Point"}
+}

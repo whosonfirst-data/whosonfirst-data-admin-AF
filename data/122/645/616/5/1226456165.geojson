@@ -1,0 +1,73 @@
+{
+  "id": 1226456165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26726,36.89071,70.26726,36.89071",
+    "geom:latitude":36.89071,
+    "geom:longitude":70.26726,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Bagh-e Aram",
+    "gn:country_code":"AF",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467753,
+    "gn:latitude":36.89071,
+    "gn:longitude":70.26726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh-e Ar\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101gh-i-A\u1e5fam",
+        "B\u0101gh-e Ar\u0101m",
+        "\u0628\u0627\u063a \u0627\u0631\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467753
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"307b753823721cb6841282101a6771e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1226456165,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226456165,
+    "wof:lastmodified":1537583507,
+    "wof:name":"Bagh-e Aram",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26726,
+    36.89071,
+    70.26726,
+    36.89071
+],
+  "geometry": {"coordinates":[70.26725999999999,36.89071],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310158543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35129,33.42181,69.35129,33.42181",
+    "geom:latitude":33.42181,
+    "geom:longitude":69.35129,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"703.0",
+    "gn:asciiname":"Tswander",
+    "gn:country_code":"AF",
+    "gn:dem":2449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144789,
+    "gn:latitude":33.42181,
+    "gn:longitude":69.35129,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tswan\u1e0f\u0113r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0646\u062f\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Cwand\u0113\u1e5f",
+        "Chvander",
+        "Tswand\u0113r",
+        "Tswan\u1e0f\u0113r",
+        "\u0685\u0648\u0646\u0689\u06d0\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144789
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"92a43504199b00fabb117a282f122ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562477,
+            "locality_id":1310158543,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310158543,
+    "wof:lastmodified":1537582042,
+    "wof:name":"Tswander",
+    "wof:parent_id":1108562477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35129,
+    33.42181,
+    69.35129,
+    33.42181
+],
+  "geometry": {"coordinates":[69.35129000000001,33.42181],"type":"Point"}
+}

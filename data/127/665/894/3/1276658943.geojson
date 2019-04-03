@@ -1,0 +1,73 @@
+{
+  "id": 1276658943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03902,35.9896,69.03902,35.9896",
+    "geom:latitude":35.9896,
+    "geom:longitude":69.03902,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Qaltah Qol",
+    "gn:country_code":"AF",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129743,
+    "gn:latitude":35.9896,
+    "gn:longitude":69.03902,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaltah Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaltah Q\u014dl",
+        "\u0642\u0644\u062a\u0647 \u0642\u0648\u0644",
+        "Qaltaq\u014dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129743
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4cdd05ea2ed3ed6d32e3b3f4b7d0a688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1276658943,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276658943,
+    "wof:lastmodified":1537580757,
+    "wof:name":"Qaltah Qol",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03902,
+    35.9896,
+    69.03902,
+    35.9896
+],
+  "geometry": {"coordinates":[69.03901999999999,35.9896],"type":"Point"}
+}

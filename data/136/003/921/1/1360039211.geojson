@@ -1,0 +1,75 @@
+{
+  "id": 1360039211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29193,34.91906,71.29193,34.91906",
+    "geom:latitude":34.91906,
+    "geom:longitude":71.29193,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Lemgai",
+    "gn:country_code":"AF",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452160,
+    "gn:latitude":34.91906,
+    "gn:longitude":71.29193,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u00eamga\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0645\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Lemgay",
+        "L\u00eamga\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452160
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d6beda34934a2fef63da601c5b08325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1360039211,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1360039211,
+    "wof:lastmodified":1537583089,
+    "wof:name":"Lemgai",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29193000000002,
+    34.91905999999999,
+    71.29193000000002,
+    34.91905999999999
+],
+  "geometry": {"coordinates":[71.29193000000002,34.91905999999999],"type":"Point"}
+}

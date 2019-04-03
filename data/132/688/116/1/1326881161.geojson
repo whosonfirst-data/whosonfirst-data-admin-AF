@@ -1,0 +1,77 @@
+{
+  "id": 1326881161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13469,32.4932,67.13469,32.4932",
+    "geom:latitude":32.4932,
+    "geom:longitude":67.13469,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Loy Zardalu",
+    "gn:country_code":"AF",
+    "gn:dem":2199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134419,
+    "gn:latitude":32.4932,
+    "gn:longitude":67.13469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Zard\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u062f\u0627\u0644\u0648\u06cc \u0643\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "L\u014dy Za\u1e5f\u1e0f\u0101lu",
+        "L\u014dy Zard\u0101l\u016b",
+        "\u0644\u0648\u06cc \u0632\u0631\u062f\u0627\u0644\u0648",
+        "L\u016by Zard\u0101l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134419
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ac68133a25c238420dd4af8f38e23a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1326881161,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1326881161,
+    "wof:lastmodified":1537581174,
+    "wof:name":"Loy Zardalu",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13469,
+    32.4932,
+    67.13469,
+    32.4932
+],
+  "geometry": {"coordinates":[67.13469000000001,32.4932],"type":"Point"}
+}

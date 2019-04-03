@@ -1,0 +1,74 @@
+{
+  "id": 1360026499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.32282,35.17338,71.32282,35.17338",
+    "geom:latitude":35.17338,
+    "geom:longitude":71.32282,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1006.0",
+    "gn:asciiname":"Amluk Katsay",
+    "gn:country_code":"AF",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424038,
+    "gn:latitude":35.17338,
+    "gn:longitude":71.32282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aml\u016bk Katsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amlukkachay",
+        "Aml\u016bk Kacay",
+        "Aml\u016bk Katsay",
+        "\u0627\u0645\u0644\u0648\u06a9 \u06a9\u0685\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424038
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad06c0e1c331cec7d295b4ff6fd7f4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562025,
+            "locality_id":1360026499,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1360026499,
+    "wof:lastmodified":1537582596,
+    "wof:name":"Amluk Katsay",
+    "wof:parent_id":1108562025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.32282,
+    35.17338,
+    71.32282,
+    35.17338
+],
+  "geometry": {"coordinates":[71.32281999999999,35.17338],"type":"Point"}
+}

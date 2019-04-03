@@ -1,0 +1,71 @@
+{
+  "id": 1243275353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19474,35.63161,69.19474,35.63161",
+    "geom:latitude":35.63161,
+    "geom:longitude":69.19474,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307.0",
+    "gn:asciiname":"Ghazmarq",
+    "gn:country_code":"AF",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464998,
+    "gn:latitude":35.63161,
+    "gn:longitude":69.19474,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghazmarq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u063a\u0632\u0645\u0631\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464998
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f1535ed6a01f3c3bb5eab9e79395ab31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1243275353,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1243275353,
+    "wof:lastmodified":1537583388,
+    "wof:name":"Ghazmarq",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19474,
+    35.63160999999999,
+    69.19474,
+    35.63160999999999
+],
+  "geometry": {"coordinates":[69.19474,35.63160999999999],"type":"Point"}
+}

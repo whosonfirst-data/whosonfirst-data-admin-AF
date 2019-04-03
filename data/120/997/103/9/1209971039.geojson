@@ -1,0 +1,76 @@
+{
+  "id": 1209971039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18214,34.07653,68.18214,34.07653",
+    "geom:latitude":34.07653,
+    "geom:longitude":68.18214,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405",
+    "gn:asciiname":"Gadagak",
+    "gn:country_code":"AF",
+    "gn:dem":2629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142110,
+    "gn:latitude":34.07653,
+    "gn:longitude":68.18214,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ga\u1e0fagak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e0fagak",
+        "Gadakag",
+        "Gadahgak",
+        "Gadagak",
+        "Ga\u1e0fagak",
+        "\u06af\u0689\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142110
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b8e2376de3fb9819d4e4e984a1bc6479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1209971039,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209971039,
+    "wof:lastmodified":1537581799,
+    "wof:name":"Gadagak",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18214,
+    34.07653,
+    68.18214,
+    34.07653
+],
+  "geometry": {"coordinates":[68.18214,34.07653],"type":"Point"}
+}

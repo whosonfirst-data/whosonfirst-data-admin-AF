@@ -1,0 +1,75 @@
+{
+  "id": 1243438557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0886,34.5035,65.0886,34.5035",
+    "geom:latitude":34.5035,
+    "geom:longitude":65.0886,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Sangubar",
+    "gn:country_code":"AF",
+    "gn:dem":2206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127514,
+    "gn:latitude":34.5035,
+    "gn:longitude":65.0886,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sangub\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangabar",
+        "Sangob\u0101r",
+        "Sangub\u0101r",
+        "\u0633\u0646\u06af\u0628\u0627\u0631",
+        "Sangow B\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127514
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68933f58edb2db0d06061fafa1816a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1243438557,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243438557,
+    "wof:lastmodified":1537580562,
+    "wof:name":"Sangubar",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0886,
+    34.5035,
+    65.0886,
+    34.5035
+],
+  "geometry": {"coordinates":[65.0886,34.5035],"type":"Point"}
+}

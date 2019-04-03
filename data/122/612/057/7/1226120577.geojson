@@ -1,0 +1,77 @@
+{
+  "id": 1226120577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.41468,33.86166,63.41468,33.86166",
+    "geom:latitude":33.86166,
+    "geom:longitude":63.41468,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Payghol",
+    "gn:country_code":"AF",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130773,
+    "gn:latitude":33.86166,
+    "gn:longitude":63.41468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Paygh\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Pegol\u2019"
+    ],
+    "name:und_x_variant":[
+        "P\u0113gh\u014dl",
+        "P\u0113ghowl",
+        "Paygh\u014dl",
+        "\u067e\u06cc\u063a\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130773
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"416724641345eceb2606da9e5c50c59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1226120577,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226120577,
+    "wof:lastmodified":1537580867,
+    "wof:name":"Payghol",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.41468,
+    33.86166,
+    63.41468,
+    33.86166
+],
+  "geometry": {"coordinates":[63.41468,33.86166],"type":"Point"}
+}

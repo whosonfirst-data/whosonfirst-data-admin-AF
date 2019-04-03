@@ -1,0 +1,76 @@
+{
+  "id": 1276396967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71695,37.18002,68.71695,37.18002",
+    "geom:latitude":37.18002,
+    "geom:longitude":68.71695,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Barzangi Afghani",
+    "gn:country_code":"AF",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1146832,
+    "gn:latitude":37.18002,
+    "gn:longitude":68.71695,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barzang\u012b Afgh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ba\u1e5fzangi Atgh\u0101ni",
+        "Ba\u1e5fzangi Afgh\u0101ni",
+        "Barzangi-Afgani",
+        "Barzang\u012b-ye Afgh\u0101n\u012byeh",
+        "Barzang\u012b Afgh\u0101n\u012b",
+        "\u0628\u0631\u0632\u0646\u06af\u06cc \u0627\u0641\u063a\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146832
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b08edfe06a65059363ac7ff885ac9822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1276396967,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1276396967,
+    "wof:lastmodified":1537582216,
+    "wof:name":"Barzangi Afghani",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71695,
+    37.18002,
+    68.71695,
+    37.18002
+],
+  "geometry": {"coordinates":[68.71695,37.18002],"type":"Point"}
+}

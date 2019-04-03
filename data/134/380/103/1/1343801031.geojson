@@ -1,0 +1,79 @@
+{
+  "id": 1343801031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82007,33.28009,69.82007,33.28009",
+    "geom:latitude":33.28009,
+    "geom:longitude":69.82007,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203",
+    "gn:asciiname":"Dur Kotki",
+    "gn:country_code":"AF",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142659,
+    "gn:latitude":33.28009,
+    "gn:longitude":69.82007,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dur K\u014d\u1e6fk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631 \u0643\u0648\u062a\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u1e0e\u016b\u1e5f K\u014dtki",
+        "Durkotki",
+        "Dur K\u014d\u1e6fk\u00eay",
+        "Dor Kowtkey",
+        "Dur K\u014d\u1e6fk\u012b",
+        "\u062f\u0631 \u0643\u0648\u067c\u0643\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142659
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a3b449249d3c89a8ccdf16cb96403889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562239,
+            "locality_id":1343801031,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1343801031,
+    "wof:lastmodified":1537581849,
+    "wof:name":"Dur Kotki",
+    "wof:parent_id":1108562239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82007,
+    33.28009,
+    69.82007,
+    33.28009
+],
+  "geometry": {"coordinates":[69.82007,33.28009],"type":"Point"}
+}

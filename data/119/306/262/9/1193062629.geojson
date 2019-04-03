@@ -1,0 +1,75 @@
+{
+  "id": 1193062629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.70099,33.18803,69.70099,33.18803",
+    "geom:latitude":33.18803,
+    "geom:longitude":69.70099,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203",
+    "gn:asciiname":"Mizagay",
+    "gn:country_code":"AF",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133156,
+    "gn:latitude":33.18803,
+    "gn:longitude":69.70099,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Miz\u0101gay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0627\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Miz\u0101ga\u012b",
+        "Miz\u0101gay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133156
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de0eb88b147e29389227957b28c61d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1193062629,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1193062629,
+    "wof:lastmodified":1537581073,
+    "wof:name":"Mizagay",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.70099,
+    33.18803,
+    69.70099,
+    33.18803
+],
+  "geometry": {"coordinates":[69.70099,33.18803],"type":"Point"}
+}

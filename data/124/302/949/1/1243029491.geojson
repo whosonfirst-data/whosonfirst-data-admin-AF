@@ -1,0 +1,78 @@
+{
+  "id": 1243029491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87416,31.94842,67.87416,31.94842",
+    "geom:latitude":31.94842,
+    "geom:longitude":67.87416,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Jelgah",
+    "gn:country_code":"AF",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139112,
+    "gn:latitude":31.94842,
+    "gn:longitude":67.87416,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u00ealgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhil\u2019ga"
+    ],
+    "name:und_x_variant":[
+        "Jelg\u0113h",
+        "J\u00ealg\u00eah",
+        "Jolgeh",
+        "J\u00ealgah",
+        "\u062c\u0644\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139112
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc68b9ef7010dbc7b1bcc15c13c2bb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1243029491,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243029491,
+    "wof:lastmodified":1537581551,
+    "wof:name":"Jelgah",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87416,
+    31.94842,
+    67.87416,
+    31.94842
+],
+  "geometry": {"coordinates":[67.87416,31.94842],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209325983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1581,36.23004,69.1581,36.23004",
+    "geom:latitude":36.23004,
+    "geom:longitude":69.1581,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1310.0",
+    "gn:asciiname":"Bay Tob",
+    "gn:country_code":"AF",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146782,
+    "gn:latitude":36.23004,
+    "gn:longitude":69.1581,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101y T\u014db",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101y T\u014db",
+        "B\u0101tob",
+        "\u0628\u0627\u06cc \u062a\u0648\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146782,
+        "wk:page":"Batob"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"33ada2ec57256b3a597ccc18080655b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209325983
+        }
+    ],
+    "wof:id":1209325983,
+    "wof:lastmodified":1537582213,
+    "wof:name":"Bay Tob",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1581,
+    36.23004,
+    69.1581,
+    36.23004
+],
+  "geometry": {"coordinates":[69.1581,36.23004],"type":"Point"}
+}

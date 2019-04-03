@@ -1,0 +1,74 @@
+{
+  "id": 1293846439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.85384,30.35877,61.85384,30.35877",
+    "geom:latitude":30.35877,
+    "geom:longitude":61.85384,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203.0",
+    "gn:asciiname":"Chigini 'Abdul Hakim",
+    "gn:country_code":"AF",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1144994,
+    "gn:latitude":30.35877,
+    "gn:longitude":61.85384,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bg\u012bn\u012b \u2018Abdul \u1e28ak\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u010c\u012bg\u012bn\u012b \u2019Abdul Hak\u012bm",
+        "Ch\u012bg\u012bn\u012b \u2018Abdul \u1e28ak\u012bm",
+        "\u0686\u06cc\u06af\u06cc\u0646\u06cc \u0639\u0628\u062f\u0644 \u062d\u06a9\u06cc\u0645",
+        "Ch\u012bg\u012bn\u012b \u2018Abd ol \u1e28ak\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144994
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c20b8dd1352d450d8482d39bae5e8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1293846439,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1293846439,
+    "wof:lastmodified":1537582063,
+    "wof:name":"Chigini 'Abdul Hakim",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.85384000000001,
+    30.35877,
+    61.85384000000001,
+    30.35877
+],
+  "geometry": {"coordinates":[61.85384000000001,30.35877],"type":"Point"}
+}

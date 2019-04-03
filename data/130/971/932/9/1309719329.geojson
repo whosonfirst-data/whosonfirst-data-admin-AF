@@ -1,0 +1,73 @@
+{
+  "id": 1309719329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28912,35.15091,68.28912,35.15091",
+    "geom:latitude":35.15091,
+    "geom:longitude":68.28912,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1305.0",
+    "gn:asciiname":"Chah-e Ahu",
+    "gn:country_code":"AF",
+    "gn:dem":3157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1145757,
+    "gn:latitude":35.15091,
+    "gn:longitude":68.28912,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101h-e \u0100h\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u010cahe \u0100hu",
+        "Ch\u0101h-e \u0100h\u016b",
+        "\u0686\u0627\u0647 \u0622\u0647\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"caf2d9e53a966741ae01aad7778c3deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1309719329,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1309719329,
+    "wof:lastmodified":1537582126,
+    "wof:name":"Chah-e Ahu",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28912,
+    35.15091,
+    68.28912,
+    35.15091
+],
+  "geometry": {"coordinates":[68.28912,35.15091],"type":"Point"}
+}

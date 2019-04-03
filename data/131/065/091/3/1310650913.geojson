@@ -1,0 +1,74 @@
+{
+  "id": 1310650913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77146,35.80385,66.77146,35.80385",
+    "geom:latitude":35.80385,
+    "geom:longitude":66.77146,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Jowpayah",
+    "gn:country_code":"AF",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139307,
+    "gn:latitude":35.80385,
+    "gn:longitude":66.77146,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jowp\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jawp\u0101ya",
+        "Jowp\u0101yeh",
+        "Jowp\u0101yah",
+        "\u062c\u0648\u067e\u0627\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139307
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ab3bb9c55194ed3003ba3fb80103e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1310650913,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310650913,
+    "wof:lastmodified":1537581565,
+    "wof:name":"Jowpayah",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77146,
+    35.80385,
+    66.77146,
+    35.80385
+],
+  "geometry": {"coordinates":[66.77146,35.80385],"type":"Point"}
+}

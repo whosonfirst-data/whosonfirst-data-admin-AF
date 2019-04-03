@@ -1,0 +1,80 @@
+{
+  "id": 1343318189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.15595,31.2292,66.15595,31.2292",
+    "geom:latitude":31.2292,
+    "geom:longitude":66.15595,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Wakil Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1121793,
+    "gn:latitude":31.2292,
+    "gn:longitude":66.15595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wak\u012bl K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u06c0 \u0648\u0643\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Vakil\u2019kalay"
+    ],
+    "name:und_x_variant":[
+        "Wak\u012bl Kalay",
+        "\u0648\u06a9\u06cc\u0644 \u06a9\u0644\u06cc",
+        "Vak\u012bl Kalay",
+        "Wak\u012bl K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121793
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ab40439f3f51e8e82661d8336a8932e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1343318189,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343318189,
+    "wof:lastmodified":1537580061,
+    "wof:name":"Wakil Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.15595,
+    31.2292,
+    66.15595,
+    31.2292
+],
+  "geometry": {"coordinates":[66.15595,31.2292],"type":"Point"}
+}

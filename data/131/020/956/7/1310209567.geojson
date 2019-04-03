@@ -1,0 +1,76 @@
+{
+  "id": 1310209567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89211,34.82096,67.89211,34.82096",
+    "geom:latitude":34.82096,
+    "geom:longitude":67.89211,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Fatmasti",
+    "gn:country_code":"AF",
+    "gn:dem":2459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142204,
+    "gn:latitude":34.82096,
+    "gn:longitude":67.89211,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fa\u0163mast\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadmasti",
+        "Fatmasti",
+        "Fatmast\u012b",
+        "Fa\u0163mast\u012b",
+        "\u0641\u0637\u0645\u0633\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142204,
+        "wk:page":"Fatmasti"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a35e7365f5f5cec9664ae52309375e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1310209567,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310209567,
+    "wof:lastmodified":1537581809,
+    "wof:name":"Fatmasti",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89211,
+    34.82096,
+    67.89211,
+    34.82096
+],
+  "geometry": {"coordinates":[67.89211,34.82096],"type":"Point"}
+}

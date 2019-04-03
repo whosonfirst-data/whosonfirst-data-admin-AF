@@ -1,0 +1,74 @@
+{
+  "id": 1293844967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53389,32.81778,68.53389,32.81778",
+    "geom:latitude":32.81778,
+    "geom:longitude":68.53389,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Sro Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433392,
+    "gn:latitude":32.81778,
+    "gn:longitude":68.53389,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sr\u014d Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Srukala",
+        "Sr\u014d Kal\u0101",
+        "\u0633\u0631\u0648 \u06a9\u0644\u0627",
+        "S\u1e5fo Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433392
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"40c13f9a3f96c2eed830687a017392ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1293844967,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293844967,
+    "wof:lastmodified":1537582685,
+    "wof:name":"Sro Kala",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53389,
+    32.81778,
+    68.53389,
+    32.81778
+],
+  "geometry": {"coordinates":[68.53389,32.81778],"type":"Point"}
+}

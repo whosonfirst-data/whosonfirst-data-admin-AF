@@ -1,0 +1,78 @@
+{
+  "id": 1326884245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09891,34.79454,71.09891,34.79454",
+    "geom:latitude":34.79454,
+    "geom:longitude":71.09891,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Dandunah",
+    "gn:country_code":"AF",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451933,
+    "gn:latitude":34.79454,
+    "gn:longitude":71.09891,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0ean\u1e0f\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u062f\u0648\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dand\u016bna",
+        "Danduna",
+        "\u1e0ean\u1e0f\u016bnah",
+        "Dand\u016bnah",
+        "\u0689\u0646\u0689\u0648\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b277857dd5523872269633c4b3c85a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561823,
+            "locality_id":1326884245,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326884245,
+    "wof:lastmodified":1537583081,
+    "wof:name":"Dandunah",
+    "wof:parent_id":1108561823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09891,
+    34.79454,
+    71.09891,
+    34.79454
+],
+  "geometry": {"coordinates":[71.09891,34.79454],"type":"Point"}
+}

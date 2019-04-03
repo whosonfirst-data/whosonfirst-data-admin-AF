@@ -1,0 +1,74 @@
+{
+  "id": 1293877957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66524,34.49749,65.66524,34.49749",
+    "geom:latitude":34.49749,
+    "geom:longitude":65.66524,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Allah Yar",
+    "gn:country_code":"AF",
+    "gn:dem":2413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149029,
+    "gn:latitude":34.49749,
+    "gn:longitude":65.66524,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"All\u0101h Y\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alayar",
+        "Al\u0101y\u0101r",
+        "All\u0101h Y\u0101r",
+        "\u0627\ufdf2 \u06cc\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149029
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3e1f46c590ac8467fb671e0c271d3349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1293877957,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293877957,
+    "wof:lastmodified":1537582385,
+    "wof:name":"Allah Yar",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66524,
+    34.49749,
+    65.66524,
+    34.49749
+],
+  "geometry": {"coordinates":[65.66524,34.49749],"type":"Point"}
+}

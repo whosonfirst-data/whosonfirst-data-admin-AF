@@ -1,0 +1,74 @@
+{
+  "id": 1242807689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96196,33.20688,66.96196,33.20688",
+    "geom:latitude":33.20688,
+    "geom:longitude":66.96196,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603.0",
+    "gn:asciiname":"Khanah-ye Mulla Haidar",
+    "gn:country_code":"AF",
+    "gn:dem":2818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442453,
+    "gn:latitude":33.20688,
+    "gn:longitude":66.96196,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101nah-ye Mull\u0101 \u1e28a\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101na-i-Mull\u0101 Hay\u1e0fa\u1e5f",
+        "Kh\u0101neh-ye Moll\u0101 \u1e28eydar",
+        "Kh\u0101nah-ye Mull\u0101 \u1e28a\u012bdar",
+        "\u062e\u0627\u0646\u0647 \u0645\u0644\u0627 \u062d\u064a\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e649705f29a12f2c686af654d29340f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1242807689,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242807689,
+    "wof:lastmodified":1537582930,
+    "wof:name":"Khanah-ye Mulla Haidar",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96195999999999,
+    33.20688,
+    66.96195999999999,
+    33.20688
+],
+  "geometry": {"coordinates":[66.96195999999999,33.20688],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344086387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.93398,33.92232,65.93398,33.92232",
+    "geom:latitude":33.92232,
+    "geom:longitude":65.93398,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405.0",
+    "gn:asciiname":"Khadir",
+    "gn:country_code":"AF",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1348242,
+    "gn:latitude":33.92232,
+    "gn:longitude":65.93398,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khad\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khad\u012br",
+        "\u062e\u062f\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348242
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e9ef1f37abd40aa9312ce91c2c82f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1344086387,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1344086387,
+    "wof:lastmodified":1537582449,
+    "wof:name":"Khadir",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.93398,
+    33.92232,
+    65.93398,
+    33.92232
+],
+  "geometry": {"coordinates":[65.93398000000001,33.92232],"type":"Point"}
+}

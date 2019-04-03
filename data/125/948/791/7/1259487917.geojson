@@ -1,0 +1,75 @@
+{
+  "id": 1259487917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74906,34.52361,66.74906,34.52361",
+    "geom:latitude":34.52361,
+    "geom:longitude":66.74906,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Gaw Kushtah",
+    "gn:country_code":"AF",
+    "gn:dem":3031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141727,
+    "gn:latitude":34.52361,
+    "gn:longitude":66.74906,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101w Kushtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gavkushta",
+        "G\u0101wku\u0161ta",
+        "G\u0101vkoshteh",
+        "G\u0101w Kushtah",
+        "\u06af\u0627\u0648 \u06a9\u0634\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141727
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bc2ace4ad198b9643326662b5a5f97f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1259487917,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259487917,
+    "wof:lastmodified":1537581771,
+    "wof:name":"Gaw Kushtah",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74906,
+    34.52361,
+    66.74906,
+    34.52361
+],
+  "geometry": {"coordinates":[66.74906,34.52361],"type":"Point"}
+}

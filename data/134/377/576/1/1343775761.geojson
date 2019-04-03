@@ -1,0 +1,73 @@
+{
+  "id": 1343775761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66045,37.15487,70.66045,37.15487",
+    "geom:latitude":37.15487,
+    "geom:longitude":70.66045,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Shinah",
+    "gn:country_code":"AF",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468085,
+    "gn:latitude":37.15487,
+    "gn:longitude":70.66045,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u012bna",
+        "Sh\u012bnah",
+        "\u0634\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468085
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e95ae7df581225ed6c9546819c5fb124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1343775761,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343775761,
+    "wof:lastmodified":1537583530,
+    "wof:name":"Shinah",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66045,
+    37.15487,
+    70.66045,
+    37.15487
+],
+  "geometry": {"coordinates":[70.66045,37.15487],"type":"Point"}
+}

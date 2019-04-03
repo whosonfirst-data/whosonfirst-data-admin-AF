@@ -1,0 +1,72 @@
+{
+  "id": 1259893587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23245,37.46207,70.23245,37.46207",
+    "geom:latitude":37.46207,
+    "geom:longitude":70.23245,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Deh Tut",
+    "gn:country_code":"AF",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468137,
+    "gn:latitude":37.46207,
+    "gn:longitude":70.23245,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh T\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh T\u016bt",
+        "\u062f\u0647 \u062a\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468137
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7ca83137e95399fcf46848d593b50d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1259893587,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259893587,
+    "wof:lastmodified":1537583534,
+    "wof:name":"Deh Tut",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23245,
+    37.46207,
+    70.23245,
+    37.46207
+],
+  "geometry": {"coordinates":[70.23245,37.46207],"type":"Point"}
+}

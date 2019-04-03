@@ -1,0 +1,75 @@
+{
+  "id": 1326877257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80652,33.19682,68.80652,33.19682",
+    "geom:latitude":33.19682,
+    "geom:longitude":68.80652,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901",
+    "gn:asciiname":"Kanawah",
+    "gn:country_code":"AF",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138344,
+    "gn:latitude":33.19682,
+    "gn:longitude":68.80652,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kan\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanava",
+        "Kan\u0101wa",
+        "\u06a9\u0646\u0627\u0648\u0647",
+        "Kan\u0101veh",
+        "Kan\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7b535be8510bb3931ceac66f56bbdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1326877257,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1326877257,
+    "wof:lastmodified":1537581496,
+    "wof:name":"Kanawah",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80651999999999,
+    33.19682,
+    68.80651999999999,
+    33.19682
+],
+  "geometry": {"coordinates":[68.80651999999999,33.19682],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1225991753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88633,32.37341,66.88633,32.37341",
+    "geom:latitude":32.37341,
+    "geom:longitude":66.88633,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Junubi Sherak",
+    "gn:country_code":"AF",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139468,
+    "gn:latitude":32.37341,
+    "gn:longitude":66.88633,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b Sh\u0113rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0634\u064a\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Dzhanubi-Sherak",
+        "Jan\u016bbi \u1e62\u0113rak",
+        "Jan\u016bb\u012b Sh\u012brak",
+        "Jun\u016bb\u012b Shayrak",
+        "\u062c\u0646\u0648\u0628\u06cc \u0634\u06cc\u0631\u06a9",
+        "Jon\u016bb\u012b Sh\u012brak",
+        "Jun\u016bb\u012b Sh\u0113rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139468
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f006f0ae2399ff2c80d9bc204d9a92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1225991753,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1225991753,
+    "wof:lastmodified":1537581579,
+    "wof:name":"Junubi Sherak",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88633,
+    32.37341,
+    66.88633,
+    32.37341
+],
+  "geometry": {"coordinates":[66.88633,32.37341],"type":"Point"}
+}

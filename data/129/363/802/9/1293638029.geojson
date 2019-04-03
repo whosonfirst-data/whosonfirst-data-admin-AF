@@ -1,0 +1,73 @@
+{
+  "id": 1293638029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35488,35.91411,66.35488,35.91411",
+    "geom:latitude":35.91411,
+    "geom:longitude":66.35488,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3102",
+    "gn:asciiname":"Gojba",
+    "gn:country_code":"AF",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140630,
+    "gn:latitude":35.91411,
+    "gn:longitude":66.35488,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014djb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u014djb\u0101",
+        "Gowjb\u0101",
+        "\u06af\u0648\u062c\u0628\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140630
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35b6f0662ce6a2678185e42f78c58d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562429,
+            "locality_id":1293638029,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1293638029,
+    "wof:lastmodified":1537581680,
+    "wof:name":"Gojba",
+    "wof:parent_id":1108562429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35488000000001,
+    35.91411,
+    66.35488000000001,
+    35.91411
+],
+  "geometry": {"coordinates":[66.35488000000001,35.91411],"type":"Point"}
+}

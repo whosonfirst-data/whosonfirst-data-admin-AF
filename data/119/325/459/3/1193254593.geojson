@@ -1,0 +1,78 @@
+{
+  "id": 1193254593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96815,33.9227,68.96815,33.9227",
+    "geom:latitude":33.9227,
+    "geom:longitude":68.96815,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Shaykh Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438646,
+    "gn:latitude":33.9227,
+    "gn:longitude":68.96815,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sheykhkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160aykhkh\u0113l",
+        "Sh\u0113kh Kh\u0113l",
+        "Sheykh Kheyl",
+        "Shaykh Kh\u0113l",
+        "\u0634\u064a\u062e \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438646
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"034500ffe3cfb67d8ca39a3d223297fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561859,
+            "locality_id":1193254593,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1193254593,
+    "wof:lastmodified":1537582891,
+    "wof:name":"Shaykh Khel",
+    "wof:parent_id":1108561859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96815,
+    33.9227,
+    68.96815,
+    33.9227
+],
+  "geometry": {"coordinates":[68.96814999999999,33.9227],"type":"Point"}
+}

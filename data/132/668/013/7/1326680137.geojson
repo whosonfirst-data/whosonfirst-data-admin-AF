@@ -1,0 +1,76 @@
+{
+  "id": 1326680137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.79702,36.79019,66.79702,36.79019",
+    "geom:latitude":36.79019,
+    "geom:longitude":66.79702,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606",
+    "gn:asciiname":"Walakai",
+    "gn:country_code":"AF",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121787,
+    "gn:latitude":36.79019,
+    "gn:longitude":66.79702,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Walaka\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0430\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Valagay",
+        "Walaka\u012b",
+        "\u0648\u0644\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121787
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b5d944944bfc7763a4b0c5d81e2df51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1326680137,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326680137,
+    "wof:lastmodified":1537580061,
+    "wof:name":"Walakai",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.79701999999999,
+    36.79019,
+    66.79701999999999,
+    36.79019
+],
+  "geometry": {"coordinates":[66.79701999999999,36.79019],"type":"Point"}
+}

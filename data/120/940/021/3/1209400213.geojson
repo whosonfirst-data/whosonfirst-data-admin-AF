@@ -1,0 +1,72 @@
+{
+  "id": 1209400213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77235,33.26324,67.77235,33.26324",
+    "geom:latitude":33.26324,
+    "geom:longitude":67.77235,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Almaysh",
+    "gn:country_code":"AF",
+    "gn:dem":2745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1148851,
+    "gn:latitude":33.26324,
+    "gn:longitude":67.77235,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Almaysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u043c\u0435\u0448"
+    ],
+    "name:und_x_variant":[
+        "Al\u2019mesh",
+        "Alm\u0113\u0161",
+        "Alm\u0113sh",
+        "Almaysh",
+        "\u0627\u0644\u0645\u06cc\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148851
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6aa56d7c9052498db69d7f36a7d3c41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209400213
+        }
+    ],
+    "wof:id":1209400213,
+    "wof:lastmodified":1537582370,
+    "wof:name":"Almaysh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77235,
+    33.26324,
+    67.77235,
+    33.26324
+],
+  "geometry": {"coordinates":[67.77235,33.26324],"type":"Point"}
+}

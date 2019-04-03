@@ -1,0 +1,77 @@
+{
+  "id": 1243422509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0396,36.67432,69.0396,36.67432",
+    "geom:latitude":36.67432,
+    "geom:longitude":69.0396,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Junguli",
+    "gn:country_code":"AF",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467767,
+    "gn:latitude":36.67432,
+    "gn:longitude":69.0396,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jungul\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043d\u0433\u0443\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhunguli",
+        "Jungul\u012b",
+        "Jongol\u012b",
+        "\u062c\u0646\u06af\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467767
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7c845ad78e5dbe01f02b4675de3c495b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1243422509,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1243422509,
+    "wof:lastmodified":1537583508,
+    "wof:name":"Junguli",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0396,
+    36.67432,
+    69.0396,
+    36.67432
+],
+  "geometry": {"coordinates":[69.03959999999999,36.67432],"type":"Point"}
+}

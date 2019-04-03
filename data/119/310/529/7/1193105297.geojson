@@ -1,0 +1,81 @@
+{
+  "id": 1193105297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83005,36.75849,68.83005,36.75849",
+    "geom:latitude":36.75849,
+    "geom:longitude":68.83005,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Zar Kharid-e Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467623,
+    "gn:latitude":36.75849,
+    "gn:longitude":68.83005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zar Khar\u012bd-e Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631 \u062e\u0631\u064a\u062f\u0654 \u0633\u0641\u0644\u0649"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0440\u0445\u0430\u0440\u0438\u0434\u0438-\u0421\u0443\u0444\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Za\u1e5f Kha\u1e5fi\u1e0f-i-Sufl\u0101",
+        "Zarkharidi-Sufla",
+        "Zar Khar\u012bd-e Sofl\u00e1",
+        "Zar Khar\u012bd-e Sufl\u00e1",
+        "\u0632\u0631 \u062e\u0631\u06cc\u062f \u0633\u0641\u0644\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467623
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"06a363f78cf52f609581ec292ccfa35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1193105297,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1193105297,
+    "wof:lastmodified":1537583493,
+    "wof:name":"Zar Kharid-e Sufla",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83005,
+    36.75849,
+    68.83005,
+    36.75849
+],
+  "geometry": {"coordinates":[68.83005,36.75849],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293245823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23573,34.68939,70.23573,34.68939",
+    "geom:latitude":34.68939,
+    "geom:longitude":70.23573,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Armul",
+    "gn:country_code":"AF",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474519,
+    "gn:latitude":34.68939,
+    "gn:longitude":70.23573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Armul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Armul\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0631\u0645\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474519
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0a5e22eb10ac33a56fa01aaf922b592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1293245823,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1293245823,
+    "wof:lastmodified":1537583812,
+    "wof:name":"Armul",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23573,
+    34.68939,
+    70.23573,
+    34.68939
+],
+  "geometry": {"coordinates":[70.23573,34.68939],"type":"Point"}
+}

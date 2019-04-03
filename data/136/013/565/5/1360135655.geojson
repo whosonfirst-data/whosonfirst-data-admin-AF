@@ -1,0 +1,75 @@
+{
+  "id": 1360135655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.42526,32.20189,66.42526,32.20189",
+    "geom:latitude":32.20189,
+    "geom:longitude":66.42526,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Kulah Khisht",
+    "gn:country_code":"AF",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135348,
+    "gn:latitude":32.20189,
+    "gn:longitude":66.42526,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016blah Khisht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bla Khe\u0161t",
+        "Kulakhisht",
+        "K\u016blah Khisht",
+        "\u06a9\u0648\u0644\u0647 \u062e\u0634\u062a",
+        "K\u016blah Khesht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135348
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fdf496eb8abd34bf7c8cdbe65aee46ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1360135655,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1360135655,
+    "wof:lastmodified":1537581244,
+    "wof:name":"Kulah Khisht",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.42526,
+    32.20189,
+    66.42526,
+    32.20189
+],
+  "geometry": {"coordinates":[66.42525999999999,32.20189],"type":"Point"}
+}

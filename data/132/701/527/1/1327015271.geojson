@@ -1,0 +1,76 @@
+{
+  "id": 1327015271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70385,33.61795,68.70385,33.61795",
+    "geom:latitude":33.61795,
+    "geom:longitude":68.70385,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"616",
+    "gn:asciiname":"Gurbat",
+    "gn:country_code":"AF",
+    "gn:dem":2827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140687,
+    "gn:latitude":33.61795,
+    "gn:longitude":68.70385,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u016brbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u1e5fbat",
+        "Gurbat",
+        "Gurb\u00eat",
+        "Gorbat",
+        "G\u016brbat",
+        "\u06af\u0648\u0631\u0628\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140687
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aea5b01d835c1aa9b9ec58572e73481f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562601,
+            "locality_id":1327015271,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327015271,
+    "wof:lastmodified":1537581686,
+    "wof:name":"Gurbat",
+    "wof:parent_id":1108562601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70385,
+    33.61795,
+    68.70385,
+    33.61795
+],
+  "geometry": {"coordinates":[68.70385,33.61795],"type":"Point"}
+}

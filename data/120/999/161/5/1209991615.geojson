@@ -1,0 +1,73 @@
+{
+  "id": 1209991615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.16194,32.00778,63.16194,32.00778",
+    "geom:latitude":32.00778,
+    "geom:longitude":63.16194,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Estoway",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1461331,
+    "gn:latitude":32.00778,
+    "gn:longitude":63.16194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Estoway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Istuvay",
+        "Estoway"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1461331
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"67fc77058c7923c77b2b356a39736681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561987,
+            "locality_id":1209991615,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1209991615,
+    "wof:lastmodified":1537583338,
+    "wof:name":"Estoway",
+    "wof:parent_id":1108561987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.16194,
+    32.00778,
+    63.16194,
+    32.00778
+],
+  "geometry": {"coordinates":[63.16194,32.00778],"type":"Point"}
+}

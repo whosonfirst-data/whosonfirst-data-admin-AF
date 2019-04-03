@@ -1,0 +1,77 @@
+{
+  "id": 1344104233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00133,31.98181,68.00133,31.98181",
+    "geom:latitude":31.98181,
+    "geom:longitude":68.00133,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Haji Buyin",
+    "gn:country_code":"AF",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481503,
+    "gn:latitude":31.98181,
+    "gn:longitude":68.00133,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b B\u016byin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhi-Buyin",
+        "Haji B\u016byen",
+        "\u062d\u0627\u062c\u06cc \u0628\u0648\u06cc\u0646",
+        "H\u0101ji Bayan",
+        "\u1e28\u0101jj\u012b Bowyen",
+        "\u1e28\u0101jj\u012b B\u016byen",
+        "\u1e28\u0101j\u012b B\u016byin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481503
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8abc80041ac3ad6b58de8b8b645620b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1344104233,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1344104233,
+    "wof:lastmodified":1537583895,
+    "wof:name":"Haji Buyin",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00133000000001,
+    31.98181,
+    68.00133000000001,
+    31.98181
+],
+  "geometry": {"coordinates":[68.00133000000001,31.98181],"type":"Point"}
+}

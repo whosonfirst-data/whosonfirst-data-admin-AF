@@ -1,0 +1,79 @@
+{
+  "id": 1310086699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.40052,34.69009,62.40052,34.69009",
+    "geom:latitude":34.69009,
+    "geom:longitude":62.40052,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Qaryah-ye Hulah",
+    "gn:country_code":"AF",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129494,
+    "gn:latitude":34.69009,
+    "gn:longitude":62.40052,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye H\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0647\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khula",
+        "Qa\u1e5fyah-e H\u016bla",
+        "Qa\u1e5fya-i-H\u016bla",
+        "Qaryah-ye H\u016blah",
+        "\u0642\u0631\u06cc\u06c0 \u0647\u0648\u0644\u0647",
+        "Qaryeh-ye Huleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129494
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"65ef03a4f90fe19b09746fe7c7061982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1310086699,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310086699,
+    "wof:lastmodified":1537580734,
+    "wof:name":"Qaryah-ye Hulah",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.40051999999999,
+    34.69009,
+    62.40051999999999,
+    34.69009
+],
+  "geometry": {"coordinates":[62.40051999999999,34.69009],"type":"Point"}
+}

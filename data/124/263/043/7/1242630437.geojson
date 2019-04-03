@@ -1,0 +1,79 @@
+{
+  "id": 1242630437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21394,33.57268,69.21394,33.57268",
+    "geom:latitude":33.57268,
+    "geom:longitude":69.21394,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Asalat Beg",
+    "gn:country_code":"AF",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148304,
+    "gn:latitude":33.57268,
+    "gn:longitude":69.21394,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u015fal\u0101t B\u0113g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0637\u0644\u0627\u062a \u0628\u064a\u06af"
+    ],
+    "name:und_x_variant":[
+        "A\u015fal\u0101t B\u0113g",
+        "Asalatbek",
+        "A\u0163al\u0101tbeyg",
+        "\u0627\u0635\u0644\u0627\u062a \u0628\u06d0\u06af",
+        "Asal\u0101t B\u0113g",
+        "\u0627\u0633\u0644\u0627\u062a \u0628\u06cc\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49f8423be2474c8ff1096c9deeac087d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1242630437,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1242630437,
+    "wof:lastmodified":1537582333,
+    "wof:name":"Asalat Beg",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21394000000001,
+    33.57268,
+    69.21394000000001,
+    33.57268
+],
+  "geometry": {"coordinates":[69.21394000000001,33.57268],"type":"Point"}
+}

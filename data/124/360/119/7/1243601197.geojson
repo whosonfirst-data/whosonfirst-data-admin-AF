@@ -1,0 +1,75 @@
+{
+  "id": 1243601197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64959,32.66456,68.64959,32.66456",
+    "geom:latitude":32.66456,
+    "geom:longitude":68.64959,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"De Maqam Kotah",
+    "gn:country_code":"AF",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433303,
+    "gn:latitude":32.66456,
+    "gn:longitude":68.64959,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Maq\u0101m K\u014d\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makamkota",
+        "\u1e0ee Maq\u0101m K\u014dta",
+        "\u062f \u0645\u0642\u0627\u0645 \u06a9\u0648\u067c\u0647",
+        "De Maq\u0101m Kowtah",
+        "D\u00ea Maq\u0101m K\u014d\u1e6fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433303
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0c615309725b5b0e140a411b42157b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1243601197,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243601197,
+    "wof:lastmodified":1537582683,
+    "wof:name":"De Maqam Kotah",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64959,
+    32.66455999999999,
+    68.64959,
+    32.66455999999999
+],
+  "geometry": {"coordinates":[68.64959,32.66455999999999],"type":"Point"}
+}

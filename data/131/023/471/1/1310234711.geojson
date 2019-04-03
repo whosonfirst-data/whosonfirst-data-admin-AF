@@ -1,0 +1,76 @@
+{
+  "id": 1310234711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41459,34.17314,66.41459,34.17314",
+    "geom:latitude":34.17314,
+    "geom:longitude":66.41459,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403",
+    "gn:asciiname":"Osai",
+    "gn:country_code":"AF",
+    "gn:dem":2558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131459,
+    "gn:latitude":34.17314,
+    "gn:longitude":66.41459,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Osai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014csa\u2019i",
+        "Osai",
+        "\u014csah\u2018\u012b",
+        "Owsah\u2018\u012b",
+        "\u014csa\u2018\u012b",
+        "\u0627\u0648\u0633\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131459
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9f5629dfba2ed6c04d841ddfd939928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1310234711,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310234711,
+    "wof:lastmodified":1537580922,
+    "wof:name":"Osai",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41459,
+    34.17314,
+    66.41459,
+    34.17314
+],
+  "geometry": {"coordinates":[66.41459,34.17314],"type":"Point"}
+}

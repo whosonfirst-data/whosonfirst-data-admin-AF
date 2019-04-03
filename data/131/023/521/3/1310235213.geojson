@@ -1,0 +1,77 @@
+{
+  "id": 1310235213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40139,32.86118,66.40139,32.86118",
+    "geom:latitude":32.86118,
+    "geom:longitude":66.40139,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Pay Gulkhar",
+    "gn:country_code":"AF",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130863,
+    "gn:latitude":32.86118,
+    "gn:longitude":66.40139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y Gulkh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0626 \u06af\u0644\u062e\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "P\u0101y Gulkh\u0101\u1e5f",
+        "P\u0101y Gulkh\u0101r",
+        "\u067e\u0627\u06cc \u06af\u0644\u062e\u0627\u0631",
+        "P\u0101y Golkh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130863
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2fb03f2444581c26cc42579bed0f571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1310235213,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1310235213,
+    "wof:lastmodified":1537580874,
+    "wof:name":"Pay Gulkhar",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40139,
+    32.86118,
+    66.40139,
+    32.86118
+],
+  "geometry": {"coordinates":[66.40139000000001,32.86118],"type":"Point"}
+}

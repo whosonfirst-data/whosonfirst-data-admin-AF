@@ -1,0 +1,75 @@
+{
+  "id": 1309967049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.54739,32.78209,68.54739,32.78209",
+    "geom:latitude":32.78209,
+    "geom:longitude":68.54739,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902",
+    "gn:asciiname":"Dawud Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143784,
+    "gn:latitude":32.78209,
+    "gn:longitude":68.54739,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101w\u016bd K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0101\u2019\u016b\u1e0f Kalay",
+        "Daudkalay",
+        "\u062f\u0627\u0648\u0648\u062f \u06a9\u0644\u06cc",
+        "D\u0101v\u016bd Kalay",
+        "D\u0101w\u016bd K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"734f211da7374f57005496527fa960f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1309967049,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1309967049,
+    "wof:lastmodified":1537581950,
+    "wof:name":"Dawud Kelay",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.54739000000001,
+    32.78209,
+    68.54739000000001,
+    32.78209
+],
+  "geometry": {"coordinates":[68.54739000000001,32.78209],"type":"Point"}
+}

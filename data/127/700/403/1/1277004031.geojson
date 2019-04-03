@@ -1,0 +1,73 @@
+{
+  "id": 1277004031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.79872,33.38086,63.79872,33.38086",
+    "geom:latitude":33.38086,
+    "geom:longitude":63.79872,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Barzibi",
+    "gn:country_code":"AF",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146827,
+    "gn:latitude":33.38086,
+    "gn:longitude":63.79872,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barzib\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barzib\u012b",
+        "\u0628\u0631\u0632\u0628\u06cc",
+        "Ba\u1e5fzeb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146827
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d25b635116ac0fd0c8c5caf4ddd2cc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1277004031,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1277004031,
+    "wof:lastmodified":1537582215,
+    "wof:name":"Barzibi",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.79872,
+    33.38086,
+    63.79872,
+    33.38086
+],
+  "geometry": {"coordinates":[63.79872,33.38086],"type":"Point"}
+}

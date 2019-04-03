@@ -1,0 +1,68 @@
+{
+  "id": 1193086303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72389,35.49694,67.72389,35.49694",
+    "geom:latitude":35.49694,
+    "geom:longitude":67.72389,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Qalacheh",
+    "gn:country_code":"AF",
+    "gn:dem":2593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422845,
+    "gn:latitude":35.49694,
+    "gn:longitude":67.72389,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u0101cheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422845
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a5c83b7283080619f8404351edca18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1193086303,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1193086303,
+    "wof:lastmodified":1536375465,
+    "wof:name":"Qalacheh",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72389,
+    35.49694,
+    67.72389,
+    35.49694
+],
+  "geometry": {"coordinates":[67.72389,35.49694],"type":"Point"}
+}

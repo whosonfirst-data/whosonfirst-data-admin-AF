@@ -1,0 +1,75 @@
+{
+  "id": 1225832991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.87862,34.22805,62.87862,34.22805",
+    "geom:latitude":34.22805,
+    "geom:longitude":62.87862,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Lar-e Khuni",
+    "gn:country_code":"AF",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460624,
+    "gn:latitude":34.22805,
+    "gn:longitude":62.87862,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101r-e Kh\u016bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lari-Khuni",
+        "La\u1e5f-i-Kh\u016bni",
+        "Lar-e Kh\u016bn\u012b",
+        "L\u0101r-e Kh\u016bn\u012b",
+        "\u0644\u0627\u0631 \u062e\u0648\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460624
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3542c00ebb5e79366fadc3c776c15f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1225832991,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1225832991,
+    "wof:lastmodified":1537583331,
+    "wof:name":"Lar-e Khuni",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.87862,
+    34.22805,
+    62.87862,
+    34.22805
+],
+  "geometry": {"coordinates":[62.87862,34.22805],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293657837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43798,31.15785,66.43798,31.15785",
+    "geom:latitude":31.15785,
+    "geom:longitude":66.43798,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Mullayano",
+    "gn:country_code":"AF",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477154,
+    "gn:latitude":31.15785,
+    "gn:longitude":66.43798,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101y\u0101n\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0644\u0627 \u06cc\u0627\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Mullayanu",
+        "Mull\u0101y\u0101no",
+        "Mull\u0101y\u0101n\u014d",
+        "\u0645\u0644\u0627\u06cc\u0627\u0646\u0648",
+        "Moll\u0101y\u0101no"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477154
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a0610c36c1216a970a49e83ae327a2f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1293657837,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293657837,
+    "wof:lastmodified":1537583872,
+    "wof:name":"Mullayano",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43798000000001,
+    31.15785,
+    66.43798000000001,
+    31.15785
+],
+  "geometry": {"coordinates":[66.43798000000001,31.15785],"type":"Point"}
+}

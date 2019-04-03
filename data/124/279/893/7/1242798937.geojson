@@ -1,0 +1,72 @@
+{
+  "id": 1242798937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59209,35.57199,64.59209,35.57199",
+    "geom:latitude":35.57199,
+    "geom:longitude":64.59209,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Wabuz Bala",
+    "gn:country_code":"AF",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121838,
+    "gn:latitude":35.57199,
+    "gn:longitude":64.59209,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101b\u016bz B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101b\u016bz B\u0101l\u0101",
+        "\u0648\u0627\u0628\u0648\u0632 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"10f002aedcf12cdbb2068f932f24b227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1242798937,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1242798937,
+    "wof:lastmodified":1537580065,
+    "wof:name":"Wabuz Bala",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59209,
+    35.57199,
+    64.59209,
+    35.57199
+],
+  "geometry": {"coordinates":[64.59209,35.57199],"type":"Point"}
+}

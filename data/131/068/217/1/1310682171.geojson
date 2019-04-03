@@ -1,0 +1,73 @@
+{
+  "id": 1310682171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.99463,34.26867,61.99463,34.26867",
+    "geom:latitude":34.26867,
+    "geom:longitude":61.99463,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Minar",
+    "gn:country_code":"AF",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133328,
+    "gn:latitude":34.26867,
+    "gn:longitude":61.99463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bn\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012bn\u0101r",
+        "\u0645\u06cc\u0646\u0627\u0631",
+        "Min\u0101\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133328
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"501078ea3d9228173d3275da1c776b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198931,
+            "locality_id":1310682171,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310682171,
+    "wof:lastmodified":1537581086,
+    "wof:name":"Minar",
+    "wof:parent_id":421198931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.99463000000001,
+    34.26867,
+    61.99463000000001,
+    34.26867
+],
+  "geometry": {"coordinates":[61.99463000000001,34.26867],"type":"Point"}
+}

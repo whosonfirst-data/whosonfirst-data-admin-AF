@@ -1,0 +1,78 @@
+{
+  "id": 1344110903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.35067,35.04733,71.35067,35.04733",
+    "geom:latitude":35.04733,
+    "geom:longitude":71.35067,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1003.0",
+    "gn:asciiname":"Ghar Koh",
+    "gn:country_code":"AF",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424103,
+    "gn:latitude":35.04733,
+    "gn:longitude":71.35067,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101r K\u014dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0627\u0631\u0643\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gh\u0101\u1e5fkoh",
+        "Garkokh",
+        "\u063a\u0627\u0631 \u06a9\u0648\u0647",
+        "Gh\u0101rk\u016bh",
+        "Gh\u0101r K\u014dh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424103
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f2c5cb367568ce04d00b982f02bc835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561857,
+            "locality_id":1344110903,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1344110903,
+    "wof:lastmodified":1537582598,
+    "wof:name":"Ghar Koh",
+    "wof:parent_id":1108561857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.35067,
+    35.04733,
+    71.35067,
+    35.04733
+],
+  "geometry": {"coordinates":[71.35066999999999,35.04733],"type":"Point"}
+}

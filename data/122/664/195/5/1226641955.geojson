@@ -1,0 +1,72 @@
+{
+  "id": 1226641955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27917,34.50655,66.27917,34.50655",
+    "geom:latitude":34.50655,
+    "geom:longitude":66.27917,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Deh-e Paytaw",
+    "gn:country_code":"AF",
+    "gn:dem":2805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542231,
+    "gn:latitude":34.50655,
+    "gn:longitude":66.27917,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Payt\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh-e Payt\u0101w",
+        "\u062f\u0647 \u067e\u06cc\u062a\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542231
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5a5647b21054ac0099993caa18029875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1226641955,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226641955,
+    "wof:lastmodified":1537583930,
+    "wof:name":"Deh-e Paytaw",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27917,
+    34.50655,
+    66.27917,
+    34.50655
+],
+  "geometry": {"coordinates":[66.27916999999999,34.50655],"type":"Point"}
+}

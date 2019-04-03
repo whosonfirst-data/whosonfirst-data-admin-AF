@@ -1,0 +1,74 @@
+{
+  "id": 1259777757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20108,34.14605,65.20108,34.14605",
+    "geom:latitude":34.14605,
+    "geom:longitude":65.20108,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Dewanagak",
+    "gn:country_code":"AF",
+    "gn:dem":2711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1143005,
+    "gn:latitude":34.14605,
+    "gn:longitude":65.20108,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113w\u0101nagak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e0e\u0113w\u0101nagak",
+        "D\u0113w\u0101nagak",
+        "\u062f\u06cc\u0648\u0627\u0646\u06af\u06a9",
+        "D\u012bv\u0101negak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143005
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f694db66e356988190b77ab93e5dbeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1259777757,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259777757,
+    "wof:lastmodified":1537581881,
+    "wof:name":"Dewanagak",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20108,
+    34.14605,
+    65.20108,
+    34.14605
+],
+  "geometry": {"coordinates":[65.20108,34.14605],"type":"Point"}
+}

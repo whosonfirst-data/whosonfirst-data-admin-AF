@@ -1,0 +1,73 @@
+{
+  "id": 1360238347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2549,34.52983,70.2549,34.52983",
+    "geom:latitude":34.52983,
+    "geom:longitude":70.2549,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Lamati",
+    "gn:country_code":"AF",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474629,
+    "gn:latitude":34.52983,
+    "gn:longitude":70.2549,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lama\u1e6f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lama\u1e6f\u012b",
+        "\u0644\u0645\u067c\u06cc",
+        "Lamati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474629
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d1cb33485ddcca5756fbf38d36d1a9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1360238347,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1360238347,
+    "wof:lastmodified":1537583819,
+    "wof:name":"Lamati",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2549,
+    34.52983,
+    70.2549,
+    34.52983
+],
+  "geometry": {"coordinates":[70.25490000000001,34.52983],"type":"Point"}
+}

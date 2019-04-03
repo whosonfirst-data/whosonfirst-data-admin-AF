@@ -1,0 +1,68 @@
+{
+  "id": 1209496273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.83106,34.89641,61.83106,34.89641",
+    "geom:latitude":34.89641,
+    "geom:longitude":61.83106,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Zango'i",
+    "gn:country_code":"AF",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121016,
+    "gn:latitude":34.89641,
+    "gn:longitude":61.83106,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zang\u014d\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zang\u014d\u2019i",
+        "Zang\u014d\u2019\u012b",
+        "\u0632\u0646\u06af\u0648\u0626\u06cc",
+        "Zang\u016b\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121016
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e22815a801a38b43e7a8d2a727d81324",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209496273
+        }
+    ],
+    "wof:id":1209496273,
+    "wof:lastmodified":1537580019,
+    "wof:name":"Zango'i",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.83106,
+    34.89641,
+    61.83106,
+    34.89641
+],
+  "geometry": {"coordinates":[61.83106,34.89641],"type":"Point"}
+}

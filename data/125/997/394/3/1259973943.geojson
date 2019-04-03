@@ -1,0 +1,78 @@
+{
+  "id": 1259973943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.80594,33.37465,64.80594,33.37465",
+    "geom:latitude":33.37465,
+    "geom:longitude":64.80594,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Iskowchah",
+    "gn:country_code":"AF",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142427,
+    "gn:latitude":33.37465,
+    "gn:longitude":64.80594,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Iskowchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0643\u0648 \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Iskaucha",
+        "Eskaw\u010da",
+        "Iskowchah",
+        "\u0627\u0633\u06a9\u0648\u0686\u0647",
+        "Eskawchah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142427
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc9e76d5e5e7aff06b8c7dd0b2b14f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1259973943,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259973943,
+    "wof:lastmodified":1537581827,
+    "wof:name":"Iskowchah",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.80594,
+    33.37465,
+    64.80594,
+    33.37465
+],
+  "geometry": {"coordinates":[64.80594000000001,33.37465],"type":"Point"}
+}

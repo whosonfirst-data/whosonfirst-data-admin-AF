@@ -1,0 +1,78 @@
+{
+  "id": 1310685509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.61438,34.46291,65.61438,34.46291",
+    "geom:latitude":34.46291,
+    "geom:longitude":65.61438,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2709",
+    "gn:asciiname":"Garay-e Chishti",
+    "gn:country_code":"AF",
+    "gn:dem":2586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141917,
+    "gn:latitude":34.46291,
+    "gn:longitude":65.61438,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Garay-e Chisht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garay-e Chesht\u012b",
+        "Garayi-Chishti",
+        "Garaye \u010ce\u0161ti",
+        "Garay-\u012b Chesht\u012b",
+        "Garay-e Chisht\u012b",
+        "\u06af\u0631\u06cc \u0686\u0634\u062a\u06cc",
+        "Garah-ye Chesht\u012b",
+        "\u06af\u0631\u0647 \u0686\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141917
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ef595b3464f03f5c5ce182bc7f16fe6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1310685509,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310685509,
+    "wof:lastmodified":1537581784,
+    "wof:name":"Garay-e Chishti",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.61438000000001,
+    34.46291,
+    65.61438000000001,
+    34.46291
+],
+  "geometry": {"coordinates":[65.61438000000001,34.46291],"type":"Point"}
+}

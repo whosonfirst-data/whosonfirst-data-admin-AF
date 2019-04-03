@@ -1,0 +1,77 @@
+{
+  "id": 1327484577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.38199,32.21386,67.38199,32.21386",
+    "geom:latitude":32.21386,
+    "geom:longitude":67.38199,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Sur Ghbarg",
+    "gn:country_code":"AF",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123588,
+    "gn:latitude":32.21386,
+    "gn:longitude":67.38199,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br Ghbarg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0644\u06c0 \u0633\u0631\u062e"
+    ],
+    "name:und_x_variant":[
+        "Surgbarg",
+        "S\u016br Ghbarg",
+        "\u0633\u0648\u0631 \u063a\u0628\u0631\u06af",
+        "S\u016br Ghba\u1e5fg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123588
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"59dcd2d42c7684e91b9df6a8862759dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1327484577,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327484577,
+    "wof:lastmodified":1537580236,
+    "wof:name":"Sur Ghbarg",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.38199,
+    32.21386,
+    67.38199,
+    32.21386
+],
+  "geometry": {"coordinates":[67.38199,32.21386],"type":"Point"}
+}

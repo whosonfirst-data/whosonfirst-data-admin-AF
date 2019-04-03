@@ -1,0 +1,73 @@
+{
+  "id": 1276702773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43497,34.90759,68.43497,34.90759",
+    "geom:latitude":34.90759,
+    "geom:longitude":68.43497,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306.0",
+    "gn:asciiname":"Dahan-e Say",
+    "gn:country_code":"AF",
+    "gn:dem":2410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144404,
+    "gn:latitude":34.90759,
+    "gn:longitude":68.43497,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Say",
+        "Dahan-e S\u0101y",
+        "\u062f\u0647\u0646 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144404
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b98d2e14308b390d7b7e4d6397a2a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1276702773,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1276702773,
+    "wof:lastmodified":1537581999,
+    "wof:name":"Dahan-e Say",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43496999999999,
+    34.90759,
+    68.43496999999999,
+    34.90759
+],
+  "geometry": {"coordinates":[68.43496999999999,34.90759],"type":"Point"}
+}

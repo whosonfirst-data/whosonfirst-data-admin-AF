@@ -1,0 +1,73 @@
+{
+  "id": 1293377873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.80703,34.23854,62.80703,34.23854",
+    "geom:latitude":34.23854,
+    "geom:longitude":62.80703,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Fushkan",
+    "gn:country_code":"AF",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142129,
+    "gn:latitude":34.23854,
+    "gn:longitude":62.80703,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fushk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu\u0161k\u0101n",
+        "Fushk\u0101n",
+        "\u0641\u0634\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142129
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aedc60c7d17e5b22c7c7afa2dfaaa812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1293377873,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293377873,
+    "wof:lastmodified":1537581800,
+    "wof:name":"Fushkan",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80703000000001,
+    34.23854,
+    62.80703000000001,
+    34.23854
+],
+  "geometry": {"coordinates":[62.80703000000001,34.23854],"type":"Point"}
+}

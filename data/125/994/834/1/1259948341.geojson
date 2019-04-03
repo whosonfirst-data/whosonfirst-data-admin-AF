@@ -1,0 +1,72 @@
+{
+  "id": 1259948341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.14454,31.059,66.14454,31.059",
+    "geom:latitude":31.059,
+    "geom:longitude":66.14454,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Daman",
+    "gn:country_code":"AF",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144231,
+    "gn:latitude":31.059,
+    "gn:longitude":66.14454,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101m\u0101n",
+        "\u062f\u0627\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144231
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68a57a35b7e87be3aa56fbf866ae92fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1259948341,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259948341,
+    "wof:lastmodified":1537581982,
+    "wof:name":"Daman",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.14454,
+    31.059,
+    66.14454,
+    31.059
+],
+  "geometry": {"coordinates":[66.14454000000001,31.059],"type":"Point"}
+}

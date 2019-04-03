@@ -1,0 +1,81 @@
+{
+  "id": 1293442745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3457,33.34578,69.3457,33.34578",
+    "geom:latitude":33.34578,
+    "geom:longitude":69.3457,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Gulkhan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140788,
+    "gn:latitude":33.34578,
+    "gn:longitude":69.3457,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gulkh\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644 \u062e\u0627\u0646 \u0643\u0644\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Gul\u2019khankalay"
+    ],
+    "name:und_x_variant":[
+        "Gulkh\u0101n Kalay",
+        "Gul Kh\u0101n K\u00ealay",
+        "Gol Kh\u0101n Kalay",
+        "Gulkh\u0101n K\u00ealay",
+        "\u06af\u0644\u062e\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140788
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6e77c47c692c568b0539251817201aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1293442745,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1293442745,
+    "wof:lastmodified":1537581694,
+    "wof:name":"Gulkhan Kelay",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3457,
+    33.34578,
+    69.3457,
+    33.34578
+],
+  "geometry": {"coordinates":[69.34569999999999,33.34578],"type":"Point"}
+}

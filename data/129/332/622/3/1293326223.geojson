@@ -1,0 +1,75 @@
+{
+  "id": 1293326223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.91932,37.07893,65.91932,37.07893",
+    "geom:latitude":37.07893,
+    "geom:longitude":65.91932,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Qulaq",
+    "gn:country_code":"AF",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128785,
+    "gn:latitude":37.07893,
+    "gn:longitude":65.91932,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qulaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qolaq",
+        "Qizil Ayak",
+        "Qulaq",
+        "\u0642\u0644\u0642",
+        "Q\u016bl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128785
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a41120e5a61c85c3782e638e70eb5294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1293326223,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293326223,
+    "wof:lastmodified":1537580652,
+    "wof:name":"Qulaq",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.91932,
+    37.07893,
+    65.91932,
+    37.07893
+],
+  "geometry": {"coordinates":[65.91932,37.07893],"type":"Point"}
+}

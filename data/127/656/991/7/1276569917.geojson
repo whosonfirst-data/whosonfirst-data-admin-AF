@@ -1,0 +1,73 @@
+{
+  "id": 1276569917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.28476,33.80658,64.28476,33.80658",
+    "geom:latitude":33.80658,
+    "geom:longitude":64.28476,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Gharak",
+    "gn:country_code":"AF",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141434,
+    "gn:latitude":33.80658,
+    "gn:longitude":64.28476,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garak",
+        "Gh\u0101rak",
+        "\u063a\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141434
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4ab45c331a99666e551f0669a5c9f753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1276569917,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276569917,
+    "wof:lastmodified":1537581753,
+    "wof:name":"Gharak",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.28475999999999,
+    33.80658,
+    64.28475999999999,
+    33.80658
+],
+  "geometry": {"coordinates":[64.28475999999999,33.80658],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193058575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97904,33.50843,68.97904,33.50843",
+    "geom:latitude":33.50843,
+    "geom:longitude":68.97904,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Gorjay",
+    "gn:country_code":"AF",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140498,
+    "gn:latitude":33.50843,
+    "gn:longitude":68.97904,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014drjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gordzhay",
+        "G\u014d\u1e5fjay",
+        "G\u016brj\u0113",
+        "G\u016brjay",
+        "G\u014drjay",
+        "\u06af\u0648\u0631\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140498
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce3d19c6ea6e039fdbd8c062df1dfe35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1193058575,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193058575,
+    "wof:lastmodified":1537581669,
+    "wof:name":"Gorjay",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97904,
+    33.50843,
+    68.97904,
+    33.50843
+],
+  "geometry": {"coordinates":[68.97904,33.50843],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276437523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67114,34.10081,67.67114,34.10081",
+    "geom:latitude":34.10081,
+    "geom:longitude":67.67114,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Utah Pur",
+    "gn:country_code":"AF",
+    "gn:dem":3251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121901,
+    "gn:latitude":34.10081,
+    "gn:longitude":67.67114,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016atah P\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016atah P\u016br",
+        "\u016atap\u016b\u1e5f",
+        "Utapur",
+        "Owtahp\u016br",
+        "\u0627\u0648\u062a\u0647 \u067e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121901
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c6fca114d0b821bd71a2e26aa140d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1276437523,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276437523,
+    "wof:lastmodified":1537580070,
+    "wof:name":"Utah Pur",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67114000000001,
+    34.10081,
+    67.67114000000001,
+    34.10081
+],
+  "geometry": {"coordinates":[67.67114000000001,34.10081],"type":"Point"}
+}

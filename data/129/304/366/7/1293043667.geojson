@@ -1,0 +1,79 @@
+{
+  "id": 1293043667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.17454,35.29499,70.17454,35.29499",
+    "geom:latitude":35.29499,
+    "geom:longitude":70.17454,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004",
+    "gn:asciiname":"Sokhtah Mundol",
+    "gn:country_code":"AF",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124275,
+    "gn:latitude":35.29499,
+    "gn:longitude":70.17454,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtah Mun\u1e0f\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sokhtamundol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Sokhtumund\u014dl",
+        "S\u014dkhtamund\u014dl",
+        "S\u014dkhtah Mund\u014dl",
+        "S\u016bkhtumund\u016bl",
+        "S\u014dkhtah Mun\u1e0f\u014dl",
+        "\u0633\u0648\u062e\u062a\u0647 \u0645\u0646\u0689\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124275
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5afebf59f1f13a9d22bf4d29f474df1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562241,
+            "locality_id":1293043667,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1293043667,
+    "wof:lastmodified":1537580287,
+    "wof:name":"Sokhtah Mundol",
+    "wof:parent_id":1108562241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.17454000000001,
+    35.29499000000001,
+    70.17454000000001,
+    35.29499000000001
+],
+  "geometry": {"coordinates":[70.17454000000001,35.29499000000001],"type":"Point"}
+}

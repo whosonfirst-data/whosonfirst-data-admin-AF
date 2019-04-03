@@ -1,0 +1,74 @@
+{
+  "id": 1326780827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.90854,36.20532,66.90854,36.20532",
+    "geom:latitude":36.20532,
+    "geom:longitude":66.90854,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Pul-e Baraq",
+    "gn:country_code":"AF",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130496,
+    "gn:latitude":36.20532,
+    "gn:longitude":66.90854,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pul-e Baraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pul-i-Baraq",
+        "Pol-e Baraq",
+        "Pul-e Baraq",
+        "\u067e\u0644 \u0628\u0631\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b891d105161464cd974e8060e8b1395b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1326780827,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326780827,
+    "wof:lastmodified":1537580843,
+    "wof:name":"Pul-e Baraq",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.90854,
+    36.20532,
+    66.90854,
+    36.20532
+],
+  "geometry": {"coordinates":[66.90854,36.20532],"type":"Point"}
+}

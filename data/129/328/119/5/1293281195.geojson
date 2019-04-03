@@ -1,0 +1,76 @@
+{
+  "id": 1293281195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.18857,32.19076,64.18857,32.19076",
+    "geom:latitude":32.19076,
+    "geom:longitude":64.18857,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307.0",
+    "gn:asciiname":"Biabanak",
+    "gn:country_code":"AF",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146503,
+    "gn:latitude":32.19076,
+    "gn:longitude":64.18857,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u012b\u0101b\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "B\u2019yabanak"
+    ],
+    "name:und_x_variant":[
+        "By\u0101b\u0101nak",
+        "B\u012b\u0101b\u0101nak",
+        "\u0628\u06cc\u0627\u0628\u0627\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146503
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e7b6ecda63fc96c6e8cddcef9cc41b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1293281195,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293281195,
+    "wof:lastmodified":1537582190,
+    "wof:name":"Biabanak",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.18857,
+    32.19076,
+    64.18857,
+    32.19076
+],
+  "geometry": {"coordinates":[64.18857,32.19076],"type":"Point"}
+}

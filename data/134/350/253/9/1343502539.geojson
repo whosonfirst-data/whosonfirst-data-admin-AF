@@ -1,0 +1,74 @@
+{
+  "id": 1343502539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37304,35.98192,66.37304,35.98192",
+    "geom:latitude":35.98192,
+    "geom:longitude":66.37304,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3102.0",
+    "gn:asciiname":"Alachah Kotal",
+    "gn:country_code":"AF",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149123,
+    "gn:latitude":35.98192,
+    "gn:longitude":66.37304,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alachah K\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alacak\u014dtal",
+        "Alachakowtal",
+        "Alachah K\u014dtal",
+        "\u0627\u0644\u0686\u0647 \u06a9\u0648\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"52b764a6bcf6bd1726f6ac4ab66c1845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562429,
+            "locality_id":1343502539,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1343502539,
+    "wof:lastmodified":1537582391,
+    "wof:name":"Alachah Kotal",
+    "wof:parent_id":1108562429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37304,
+    35.98192,
+    66.37304,
+    35.98192
+],
+  "geometry": {"coordinates":[66.37304,35.98192],"type":"Point"}
+}

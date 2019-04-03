@@ -1,0 +1,71 @@
+{
+  "id": 1226272805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.07282,36.85022,66.07282,36.85022",
+    "geom:latitude":36.85022,
+    "geom:longitude":66.07282,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1710",
+    "gn:asciiname":"Kafgtr",
+    "gn:country_code":"AF",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138843,
+    "gn:latitude":36.85022,
+    "gn:longitude":66.07282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kafgtr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0641\u06af\u062a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138843
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f6b1272f06cbb8abc7526c19cb21737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562149,
+            "locality_id":1226272805,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1226272805,
+    "wof:lastmodified":1537581527,
+    "wof:name":"Kafgtr",
+    "wof:parent_id":1108562149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.07282,
+    36.85022,
+    66.07282,
+    36.85022
+],
+  "geometry": {"coordinates":[66.07281999999999,36.85022],"type":"Point"}
+}

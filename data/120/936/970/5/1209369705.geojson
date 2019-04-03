@@ -1,0 +1,67 @@
+{
+  "id": 1209369705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36578,36.40215,69.36578,36.40215",
+    "geom:latitude":36.40215,
+    "geom:longitude":69.36578,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203.0",
+    "gn:asciiname":"Abrow",
+    "gn:country_code":"AF",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409935,
+    "gn:latitude":36.40215,
+    "gn:longitude":69.36578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100brow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100braw",
+        "\u0100brow",
+        "\u0622\u0628\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409935
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43d8a728609baf01f13b97173639ae9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209369705
+        }
+    ],
+    "wof:id":1209369705,
+    "wof:lastmodified":1537582532,
+    "wof:name":"Abrow",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36578,
+    36.40215,
+    69.36578,
+    36.40215
+],
+  "geometry": {"coordinates":[69.36578,36.40215],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226518037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97667,34.0864,70.97667,34.0864",
+    "geom:latitude":34.0864,
+    "geom:longitude":70.97667,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"812.0",
+    "gn:asciiname":"Chinar",
+    "gn:country_code":"AF",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145086,
+    "gn:latitude":34.0864,
+    "gn:longitude":70.97667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chin\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0686\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u010cen\u0101r",
+        "Chinar",
+        "Chin\u0101r",
+        "Chen\u0101r",
+        "Chen\u0101r Kalay",
+        "\u0642\u0631\u064a\u06c0 \u0686\u0646\u0627\u0631",
+        "\u0686\u0646\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76d05e0480861b930709ea988e8a2267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561997,
+            "locality_id":1226518037,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226518037,
+    "wof:lastmodified":1537582073,
+    "wof:name":"Chinar",
+    "wof:parent_id":1108561997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97667,
+    34.0864,
+    70.97667,
+    34.0864
+],
+  "geometry": {"coordinates":[70.97667,34.0864],"type":"Point"}
+}

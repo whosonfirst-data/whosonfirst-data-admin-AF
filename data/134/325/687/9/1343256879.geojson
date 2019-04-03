@@ -1,0 +1,72 @@
+{
+  "id": 1343256879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.96894,33.08181,63.96894,33.08181",
+    "geom:latitude":33.08181,
+    "geom:longitude":63.96894,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Wang",
+    "gn:country_code":"AF",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121745,
+    "gn:latitude":33.08181,
+    "gn:longitude":63.96894,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101ng",
+        "\u0648\u0627\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121745
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ee9fd541848b6f2fbafef697e0aacd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1343256879,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1343256879,
+    "wof:lastmodified":1537580058,
+    "wof:name":"Wang",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.96894,
+    33.08181,
+    63.96894,
+    33.08181
+],
+  "geometry": {"coordinates":[63.96894,33.08181],"type":"Point"}
+}

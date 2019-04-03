@@ -1,0 +1,73 @@
+{
+  "id": 1327224453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.38239,33.06391,67.38239,33.06391",
+    "geom:latitude":33.06391,
+    "geom:longitude":67.38239,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Khartizak",
+    "gn:country_code":"AF",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450716,
+    "gn:latitude":33.06391,
+    "gn:longitude":67.38239,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khart\u012bzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khart\u012bzak",
+        "\u062e\u0631\u062a\u06cc\u0632\u06a9",
+        "Khartizak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450716
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"25d4ae96fd4235da36ec5b1b2bd11fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1327224453,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327224453,
+    "wof:lastmodified":1537583061,
+    "wof:name":"Khartizak",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.38239,
+    33.06391,
+    67.38239,
+    33.06391
+],
+  "geometry": {"coordinates":[67.38239,33.06391],"type":"Point"}
+}

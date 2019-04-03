@@ -1,0 +1,74 @@
+{
+  "id": 1259436251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.10308,34.80536,70.10308,34.80536",
+    "geom:latitude":34.80536,
+    "geom:longitude":70.10308,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905",
+    "gn:asciiname":"Kotalay",
+    "gn:country_code":"AF",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135610,
+    "gn:latitude":34.80536,
+    "gn:longitude":70.10308,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6falay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutalay",
+        "K\u014dtalay",
+        "K\u014d\u1e6falay",
+        "\u06a9\u0648\u067c\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135610
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2724d5740a9dc3e9eea98a9439ee3fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1259436251,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259436251,
+    "wof:lastmodified":1537581270,
+    "wof:name":"Kotalay",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.10308,
+    34.80536,
+    70.10308,
+    34.80536
+],
+  "geometry": {"coordinates":[70.10308000000001,34.80536],"type":"Point"}
+}

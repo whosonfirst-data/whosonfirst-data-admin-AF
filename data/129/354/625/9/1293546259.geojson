@@ -1,0 +1,78 @@
+{
+  "id": 1293546259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.58982,36.72219,69.58982,36.72219",
+    "geom:latitude":36.72219,
+    "geom:longitude":69.58982,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Moghul",
+    "gn:country_code":"AF",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467450,
+    "gn:latitude":36.72219,
+    "gn:longitude":69.58982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Moghul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0433\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Mugul\u2019",
+        "Mughul",
+        "Moghol",
+        "Moghul",
+        "\u0645\u063a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467450
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8e94b75c3d632017c74bad3d13eb19a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1293546259,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293546259,
+    "wof:lastmodified":1537583477,
+    "wof:name":"Moghul",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.58981999999999,
+    36.72219000000001,
+    69.58981999999999,
+    36.72219000000001
+],
+  "geometry": {"coordinates":[69.58981999999999,36.72219000000001],"type":"Point"}
+}

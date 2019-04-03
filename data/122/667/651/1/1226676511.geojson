@@ -1,0 +1,71 @@
+{
+  "id": 1226676511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.6664,36.72625,65.6664,36.72625",
+    "geom:latitude":36.72625,
+    "geom:longitude":65.6664,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1702.0",
+    "gn:asciiname":"Taghan",
+    "gn:country_code":"AF",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425450,
+    "gn:latitude":36.72625,
+    "gn:longitude":65.6664,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Taghan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062a\u063a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425450
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11f807270e05eaff6f15c28dd2fb5e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562185,
+            "locality_id":1226676511,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1226676511,
+    "wof:lastmodified":1537582638,
+    "wof:name":"Taghan",
+    "wof:parent_id":1108562185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.6664,
+    36.72625,
+    65.6664,
+    36.72625
+],
+  "geometry": {"coordinates":[65.6664,36.72625],"type":"Point"}
+}

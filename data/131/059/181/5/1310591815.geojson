@@ -1,0 +1,74 @@
+{
+  "id": 1310591815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31798,33.94752,67.31798,33.94752",
+    "geom:latitude":33.94752,
+    "geom:longitude":67.31798,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Gulchindah",
+    "gn:country_code":"AF",
+    "gn:dem":3110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442654,
+    "gn:latitude":33.94752,
+    "gn:longitude":67.31798,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gulch\u012bndah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gulc\u012bn\u1e0fa",
+        "Golch\u012bndeh",
+        "Gulch\u012bndah",
+        "\u06af\u0644\u0686\u06cc\u0646\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ee1cffc46a4702e2ef92343164cbfd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1310591815,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310591815,
+    "wof:lastmodified":1537582933,
+    "wof:name":"Gulchindah",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31798,
+    33.94752,
+    67.31798,
+    33.94752
+],
+  "geometry": {"coordinates":[67.31798000000001,33.94752],"type":"Point"}
+}

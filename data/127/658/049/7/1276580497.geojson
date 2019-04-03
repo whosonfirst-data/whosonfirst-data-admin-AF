@@ -1,0 +1,74 @@
+{
+  "id": 1276580497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.3344,32.71685,65.3344,32.71685",
+    "geom:latitude":32.71685,
+    "geom:longitude":65.3344,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604.0",
+    "gn:asciiname":"Amar",
+    "gn:country_code":"AF",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1453721,
+    "gn:latitude":32.71685,
+    "gn:longitude":65.3344,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Amar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Razvaliny Amar",
+        "Amar",
+        "\u0627\u0645\u0631",
+        "Ama\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453721
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39a2bbbb0580dec100d36f417246db71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562455,
+            "locality_id":1276580497,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1276580497,
+    "wof:lastmodified":1537583108,
+    "wof:name":"Amar",
+    "wof:parent_id":1108562455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.3344,
+    32.71685,
+    65.3344,
+    32.71685
+],
+  "geometry": {"coordinates":[65.3344,32.71685],"type":"Point"}
+}

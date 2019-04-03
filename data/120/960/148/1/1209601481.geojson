@@ -1,0 +1,75 @@
+{
+  "id": 1209601481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38073,34.66196,69.38073,34.66196",
+    "geom:latitude":34.66196,
+    "geom:longitude":69.38073,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"102",
+    "gn:asciiname":"Kowtu",
+    "gn:country_code":"AF",
+    "gn:dem":1977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135600,
+    "gn:latitude":34.66196,
+    "gn:longitude":69.38073,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowtu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062a\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kotu",
+        "K\u016btow",
+        "K\u014dtu",
+        "Kowtu",
+        "\u06a9\u0648\u062a\u0648",
+        "K\u014dt\u014d",
+        "K\u014d\u1e6f\u016b",
+        "\u06a9\u0648\u067c\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135600
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c8b77bbb858a59fb49508a8d4df9b9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209601481
+        }
+    ],
+    "wof:id":1209601481,
+    "wof:lastmodified":1537581269,
+    "wof:name":"Kowtu",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38073,
+    34.66196,
+    69.38073,
+    34.66196
+],
+  "geometry": {"coordinates":[69.38073,34.66196],"type":"Point"}
+}

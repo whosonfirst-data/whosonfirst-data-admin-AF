@@ -1,0 +1,77 @@
+{
+  "id": 1343741109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93591,32.63099,64.93591,32.63099",
+    "geom:latitude":32.63099,
+    "geom:longitude":64.93591,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Sayyid Badian",
+    "gn:country_code":"AF",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126229,
+    "gn:latitude":32.63099,
+    "gn:longitude":64.93591,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid B\u0101d\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Saidbad\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Say\u1e0f B\u0101\u1e0fy\u0101n",
+        "Sayyid B\u0101d\u012b\u0101n",
+        "\u0633\u06cc\u062f \u0628\u0627\u062f\u06cc\u0627\u0646",
+        "Seyyed B\u0101d\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c6cf978a73fece4bc2796184250b81c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1343741109,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343741109,
+    "wof:lastmodified":1537580455,
+    "wof:name":"Sayyid Badian",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93590999999999,
+    32.63099,
+    64.93590999999999,
+    32.63099
+],
+  "geometry": {"coordinates":[64.93590999999999,32.63099],"type":"Point"}
+}

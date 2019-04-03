@@ -1,0 +1,73 @@
+{
+  "id": 1293283865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.33326,35.70573,65.33326,35.70573",
+    "geom:latitude":35.70573,
+    "geom:longitude":65.33326,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1807",
+    "gn:asciiname":"Takhrah",
+    "gn:country_code":"AF",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123204,
+    "gn:latitude":35.70573,
+    "gn:longitude":65.33326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takhrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takh\u1e5fa",
+        "Takhrah",
+        "\u062a\u062e\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123204
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c4b201c03a56f17e20d5405b44b7552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562055,
+            "locality_id":1293283865,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293283865,
+    "wof:lastmodified":1537580210,
+    "wof:name":"Takhrah",
+    "wof:parent_id":1108562055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.33326,
+    35.70573,
+    65.33326,
+    35.70573
+],
+  "geometry": {"coordinates":[65.33326,35.70573],"type":"Point"}
+}

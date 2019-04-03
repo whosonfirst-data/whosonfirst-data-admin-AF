@@ -1,0 +1,75 @@
+{
+  "id": 1343442093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.00982,34.71332,62.00982,34.71332",
+    "geom:latitude":34.71332,
+    "geom:longitude":62.00982,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Sang-e Low",
+    "gn:country_code":"AF",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127548,
+    "gn:latitude":34.71332,
+    "gn:longitude":62.00982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Low",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang-i-Law",
+        "Sangi-Lao",
+        "Sang-e Low",
+        "\u0633\u0646\u06af \u0644\u0648",
+        "Sang-e Law"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127548
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f8ba63d515a40a117976fc89d1343f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198931,
+            "locality_id":1343442093,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343442093,
+    "wof:lastmodified":1537580563,
+    "wof:name":"Sang-e Low",
+    "wof:parent_id":421198931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.00982,
+    34.71332,
+    62.00982,
+    34.71332
+],
+  "geometry": {"coordinates":[62.00982,34.71332],"type":"Point"}
+}

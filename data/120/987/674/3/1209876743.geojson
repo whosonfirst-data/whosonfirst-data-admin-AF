@@ -1,0 +1,71 @@
+{
+  "id": 1209876743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96666,35.98625,66.96666,35.98625",
+    "geom:latitude":35.98625,
+    "geom:longitude":66.96666,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Jangalak",
+    "gn:country_code":"AF",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139564,
+    "gn:latitude":35.98625,
+    "gn:longitude":66.96666,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jangalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0646\u06af\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139564
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f069e6a54dafd1dffa174a81be71164f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1209876743,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1209876743,
+    "wof:lastmodified":1537581587,
+    "wof:name":"Jangalak",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96666,
+    35.98625,
+    66.96666,
+    35.98625
+],
+  "geometry": {"coordinates":[66.96666,35.98625],"type":"Point"}
+}

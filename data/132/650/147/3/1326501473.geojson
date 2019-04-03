@@ -1,0 +1,75 @@
+{
+  "id": 1326501473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94066,34.47809,68.94066,34.47809",
+    "geom:latitude":34.47809,
+    "geom:longitude":68.94066,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"108.0",
+    "gn:asciiname":"Chowki",
+    "gn:country_code":"AF",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456894,
+    "gn:latitude":34.47809,
+    "gn:longitude":68.94066,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chowk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cawki",
+        "Chauki",
+        "Chawk\u012b",
+        "Chowk\u012b",
+        "\u0686\u0648\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456894
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"874fe5f9421e8f61abc7664b87157b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562345,
+            "locality_id":1326501473,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1326501473,
+    "wof:lastmodified":1537583203,
+    "wof:name":"Chowki",
+    "wof:parent_id":1108562345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94066,
+    34.47809,
+    68.94066,
+    34.47809
+],
+  "geometry": {"coordinates":[68.94065999999999,34.47809],"type":"Point"}
+}

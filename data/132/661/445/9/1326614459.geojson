@@ -1,0 +1,73 @@
+{
+  "id": 1326614459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.11387,33.5389,65.11387,33.5389",
+    "geom:latitude":33.5389,
+    "geom:longitude":65.11387,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Alah",
+    "gn:country_code":"AF",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149124,
+    "gn:latitude":33.5389,
+    "gn:longitude":65.11387,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100la",
+        "\u0100lah",
+        "\u0622\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149124
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b160ee639db980990f0bc33fedf70b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1326614459,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1326614459,
+    "wof:lastmodified":1537582391,
+    "wof:name":"Alah",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.11386999999999,
+    33.5389,
+    65.11386999999999,
+    33.5389
+],
+  "geometry": {"coordinates":[65.11386999999999,33.5389],"type":"Point"}
+}

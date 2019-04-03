@@ -1,0 +1,75 @@
+{
+  "id": 1326834893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64747,34.27314,66.64747,34.27314",
+    "geom:latitude":34.27314,
+    "geom:longitude":66.64747,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Sar-e Raqol-e Parsah",
+    "gn:country_code":"AF",
+    "gn:dem":2890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458401,
+    "gn:latitude":34.27314,
+    "gn:longitude":66.64747,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e R\u0101q\u014dl-e Parsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5fe \u1e5e\u0101q\u014dle Pa\u1e5fsa",
+        "Sari-Rakuli-Parsa",
+        "Sar-e R\u0101q\u014dl-e Pars\u0101",
+        "Sar-e R\u0101q\u014dl-e Parsah",
+        "\u0633\u0631 \u0631\u0627\u0642\u0648\u0644 \u067e\u0631\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458401
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93c53ca3a564d55154dcf1cf36c78c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1326834893,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1326834893,
+    "wof:lastmodified":1537583270,
+    "wof:name":"Sar-e Raqol-e Parsah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64747,
+    34.27314000000001,
+    66.64747,
+    34.27314000000001
+],
+  "geometry": {"coordinates":[66.64747,34.27314000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310643175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73127,34.89335,68.73127,34.89335",
+    "geom:latitude":34.89335,
+    "geom:longitude":68.73127,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Qal'ah-ye Padshahi",
+    "gn:country_code":"AF",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129856,
+    "gn:latitude":34.89335,
+    "gn:longitude":68.73127,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye P\u0101dsh\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-P\u0101d\u0161\u0101hi",
+        "Kalayi-Padshakhi",
+        "Qal\u2018eh-ye P\u0101dsh\u0101h\u012b",
+        "Qal\u2018ah-ye P\u0101dsh\u0101h\u012b",
+        "\u0642\u0644\u0639\u0647 \u067e\u0627\u062f\u0634\u0627\u0647\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129856
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86c1023f52351a57bacaa6599b52de09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1310643175,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1310643175,
+    "wof:lastmodified":1537580774,
+    "wof:name":"Qal'ah-ye Padshahi",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73127,
+    34.89335,
+    68.73127,
+    34.89335
+],
+  "geometry": {"coordinates":[68.73126999999999,34.89335],"type":"Point"}
+}

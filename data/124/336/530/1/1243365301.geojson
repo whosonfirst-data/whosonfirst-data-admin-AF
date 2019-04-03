@@ -1,0 +1,73 @@
+{
+  "id": 1243365301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.50306,35.82167,68.50306,35.82167",
+    "geom:latitude":35.82167,
+    "geom:longitude":68.50306,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"Tonddarreh",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469993,
+    "gn:latitude":35.82167,
+    "gn:longitude":68.50306,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tonddarreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tun\u1e0f\u1e0fa\u1e5fa",
+        "Tonddarreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469993
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dcec83acf64a7160f6bc06773d64bf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1243365301,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1243365301,
+    "wof:lastmodified":1537583635,
+    "wof:name":"Tonddarreh",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.50305999999999,
+    35.82167000000001,
+    68.50305999999999,
+    35.82167000000001
+],
+  "geometry": {"coordinates":[68.50305999999999,35.82167000000001],"type":"Point"}
+}

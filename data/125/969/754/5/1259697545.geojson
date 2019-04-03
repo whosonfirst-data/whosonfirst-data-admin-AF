@@ -1,0 +1,73 @@
+{
+  "id": 1259697545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3611,36.70408,70.3611,36.70408",
+    "geom:latitude":36.70408,
+    "geom:longitude":70.3611,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Deh Ustayan",
+    "gn:country_code":"AF",
+    "gn:dem":2162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467796,
+    "gn:latitude":36.70408,
+    "gn:longitude":70.3611,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh \u016ast\u0101y\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh \u016ast\u0101y\u0101n",
+        "\u062f\u0647 \u0627\u0648\u0633\u062a\u0627\u06cc\u0627\u0646",
+        "Deh \u016ast\u0101y\u0101n (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467796
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd048187008642c4dc0fe607d472fe90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1259697545,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259697545,
+    "wof:lastmodified":1537583512,
+    "wof:name":"Deh Ustayan",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3611,
+    36.70408,
+    70.3611,
+    36.70408
+],
+  "geometry": {"coordinates":[70.36109999999999,36.70408],"type":"Point"}
+}

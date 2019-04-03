@@ -1,0 +1,73 @@
+{
+  "id": 1193126203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.63377,31.71824,64.63377,31.71824",
+    "geom:latitude":31.71824,
+    "geom:longitude":64.63377,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Tablesafian",
+    "gn:country_code":"AF",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472793,
+    "gn:latitude":31.71824,
+    "gn:longitude":64.63377,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tablesafian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00ea \u0162abl\u0113 \u015e\u0101f\u012b\u0101n",
+        "\u062f \u0637\u0628\u0644\u06d0 \u0635\u0627\u0641\u06cc\u0627\u0646",
+        "De Tabl\u0113 \u015e\u0101f\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472793
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f2c19d3f2eb34e56ec8999abcd100cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1193126203,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1193126203,
+    "wof:lastmodified":1537583715,
+    "wof:name":"Tablesafian",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.63377,
+    31.71824,
+    64.63377,
+    31.71824
+],
+  "geometry": {"coordinates":[64.63377,31.71824],"type":"Point"}
+}

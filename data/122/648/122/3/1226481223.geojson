@@ -1,0 +1,78 @@
+{
+  "id": 1226481223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9697,33.31121,69.9697,33.31121",
+    "geom:latitude":33.31121,
+    "geom:longitude":69.9697,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Pirano Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434603,
+    "gn:latitude":33.31121,
+    "gn:longitude":69.9697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pir\u0101n\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u067e\u06cc\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Piranukalay",
+        "P\u012br\u0101n\u014d K\u00ealay",
+        "Pi\u1e5f\u0101no Kalay",
+        "Pir\u0101n\u014d K\u00ealay",
+        "\u067e\u0631\u0627\u0646\u0648 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434603
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c5c8182a367e9eb89a3aa32ae3a4070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1226481223,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1226481223,
+    "wof:lastmodified":1537582734,
+    "wof:name":"Pirano Kelay",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9697,
+    33.31121,
+    69.9697,
+    33.31121
+],
+  "geometry": {"coordinates":[69.9697,33.31121],"type":"Point"}
+}

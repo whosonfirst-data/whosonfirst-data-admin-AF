@@ -1,0 +1,87 @@
+{
+  "id": 1226697125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1828,32.9515,69.1828,32.9515",
+    "geom:latitude":32.9515,
+    "geom:longitude":69.1828,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2911",
+    "gn:asciiname":"Urgun",
+    "gn:country_code":"AF",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1131479,
+    "gn:latitude":32.9515,
+    "gn:longitude":69.1828,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Urgun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Urgun"
+    ],
+    "name:eng_x_variant":[
+        "Orgun",
+        "Urgin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u06af\u0648\u0646\u200e\u200e"
+    ],
+    "name:pus_x_preferred":[
+        "\u0648\u0631\u06ab\u0648\u0646\u200e,"
+    ],
+    "name:und_x_variant":[
+        "Urg\u016bn",
+        "Org\u016bn",
+        "Orgun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131479,
+        "wk:page":"Urgun"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35cf8b9c4e7659eedb379abdcbc25d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562557,
+            "locality_id":1226697125,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226697125,
+    "wof:lastmodified":1537580923,
+    "wof:name":"Urgun",
+    "wof:parent_id":1108562557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1828,
+    32.9515,
+    69.1828,
+    32.9515
+],
+  "geometry": {"coordinates":[69.1828,32.9515],"type":"Point"}
+}

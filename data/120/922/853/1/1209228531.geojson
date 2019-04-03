@@ -1,0 +1,66 @@
+{
+  "id": 1209228531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35155,37.62501,70.35155,37.62501",
+    "geom:latitude":37.62501,
+    "geom:longitude":70.35155,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112",
+    "gn:asciiname":"Yawjan",
+    "gn:country_code":"AF",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121213,
+    "gn:latitude":37.62501,
+    "gn:longitude":70.35155,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Y\u0101wj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101wj\u0101n",
+        "\u06cc\u0627\u0648\u062c\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121213
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9611eab3ed61b456e801d797e3ef1c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209228531
+        }
+    ],
+    "wof:id":1209228531,
+    "wof:lastmodified":1537580029,
+    "wof:name":"Yawjan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35155,
+    37.62501,
+    70.35155,
+    37.62501
+],
+  "geometry": {"coordinates":[70.35155,37.62501],"type":"Point"}
+}

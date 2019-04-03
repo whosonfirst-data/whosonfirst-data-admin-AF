@@ -1,0 +1,74 @@
+{
+  "id": 1309740535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.33431,32.41868,65.33431,32.41868",
+    "geom:latitude":32.41868,
+    "geom:longitude":65.33431,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605",
+    "gn:asciiname":"War Jan",
+    "gn:country_code":"AF",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121709,
+    "gn:latitude":32.41868,
+    "gn:longitude":65.33431,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"War J\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vardzhan",
+        "War J\u0101n",
+        "\u0648\u0631 \u062c\u0627\u0646",
+        "Wa\u1e5f J\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121709
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d77037e3bfda161e8365d888dfd511dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561983,
+            "locality_id":1309740535,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1309740535,
+    "wof:lastmodified":1537580056,
+    "wof:name":"War Jan",
+    "wof:parent_id":1108561983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.33431,
+    32.41868,
+    65.33431,
+    32.41868
+],
+  "geometry": {"coordinates":[65.33431,32.41868],"type":"Point"}
+}

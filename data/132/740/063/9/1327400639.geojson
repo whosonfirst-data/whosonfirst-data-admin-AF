@@ -1,0 +1,76 @@
+{
+  "id": 1327400639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75795,34.25272,67.75795,34.25272",
+    "geom:latitude":34.25272,
+    "geom:longitude":67.75795,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Shaniyah",
+    "gn:country_code":"AF",
+    "gn:dem":3130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460237,
+    "gn:latitude":34.25272,
+    "gn:longitude":67.75795,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaniyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160aneya",
+        "Shaniya",
+        "Shanayah",
+        "Shaneyeh",
+        "Shaniyah",
+        "\u0634\u0646\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460237
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"88831f783dee6f0a00493bc4f1eb43f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1327400639,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1327400639,
+    "wof:lastmodified":1537583310,
+    "wof:name":"Shaniyah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75795,
+    34.25272,
+    67.75795,
+    34.25272
+],
+  "geometry": {"coordinates":[67.75794999999999,34.25272],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226636635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90744,32.99499,67.90744,32.99499",
+    "geom:latitude":32.99499,
+    "geom:longitude":67.90744,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"611",
+    "gn:asciiname":"Sadozai",
+    "gn:country_code":"AF",
+    "gn:dem":2111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128050,
+    "gn:latitude":32.99499,
+    "gn:longitude":67.90744,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015ead\u014dza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e0f\u014dzay",
+        "\u015ead\u014dza\u012b",
+        "\u0635\u062f\u0648\u0632\u06cc",
+        "\u015eadowzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128050
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7d03054383504e2d14f11cdd3e99bba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561773,
+            "locality_id":1226636635,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226636635,
+    "wof:lastmodified":1537580598,
+    "wof:name":"Sadozai",
+    "wof:parent_id":1108561773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90744000000001,
+    32.99499,
+    67.90744000000001,
+    32.99499
+],
+  "geometry": {"coordinates":[67.90744000000001,32.99499],"type":"Point"}
+}

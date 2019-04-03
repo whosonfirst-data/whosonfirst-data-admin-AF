@@ -1,0 +1,80 @@
+{
+  "id": 1243400907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72871,37.31177,66.72871,37.31177",
+    "geom:latitude":37.31177,
+    "geom:longitude":66.72871,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1604",
+    "gn:asciiname":"Shor Ariq",
+    "gn:country_code":"AF",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124781,
+    "gn:latitude":37.31177,
+    "gn:longitude":66.72871,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr \u0100r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101z\u0101rjui",
+        "B\u0101z\u0101ri",
+        "Shor Aregh",
+        "Sh\u016br Areq",
+        "Sh\u014dr \u0100r\u012bq",
+        "\u0634\u0648\u0631 \u0622\u0631\u06cc\u0642"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rariq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124781,
+        "wk:page":"Shur_Areq"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"396ff01d9b475d9e523fcb8541113d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562509,
+            "locality_id":1243400907,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243400907,
+    "wof:lastmodified":1537580327,
+    "wof:name":"Shor Ariq",
+    "wof:parent_id":1108562509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72870999999999,
+    37.31177,
+    66.72870999999999,
+    37.31177
+],
+  "geometry": {"coordinates":[66.72870999999999,37.31177],"type":"Point"}
+}

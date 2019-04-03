@@ -1,0 +1,68 @@
+{
+  "id": 1327188095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.75741,34.69211,70.75741,34.69211",
+    "geom:latitude":34.69211,
+    "geom:longitude":70.75741,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Sami",
+    "gn:country_code":"AF",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110306,
+    "gn:latitude":34.69211,
+    "gn:longitude":70.75741,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sam\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110306
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d83266cb4e8cad6e435b8a29d0a9aad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1327188095,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327188095,
+    "wof:lastmodified":1537032284,
+    "wof:name":"Sami",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.75741,
+    34.69211,
+    70.75741,
+    34.69211
+],
+  "geometry": {"coordinates":[70.75740999999999,34.69211],"type":"Point"}
+}

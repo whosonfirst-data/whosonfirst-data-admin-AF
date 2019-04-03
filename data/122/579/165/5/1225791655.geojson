@@ -1,0 +1,78 @@
+{
+  "id": 1225791655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.61778,36.8917,66.61778,36.8917",
+    "geom:latitude":36.8917,
+    "geom:longitude":66.61778,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1607.0",
+    "gn:asciiname":"Chuchak",
+    "gn:country_code":"AF",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144940,
+    "gn:latitude":36.8917,
+    "gn:longitude":66.61778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chuchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0686\u06a9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0686\u06a9",
+        "Chochak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144940
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"634e0425729ffe0d1d85135129a09523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561883,
+            "locality_id":1225791655,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1225791655,
+    "wof:lastmodified":1537582056,
+    "wof:name":"Chuchak",
+    "wof:parent_id":1108561883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.61778000000001,
+    36.8917,
+    66.61778000000001,
+    36.8917
+],
+  "geometry": {"coordinates":[66.61778000000001,36.8917],"type":"Point"}
+}

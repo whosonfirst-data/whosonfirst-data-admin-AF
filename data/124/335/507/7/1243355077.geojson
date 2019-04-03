@@ -1,0 +1,72 @@
+{
+  "id": 1243355077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.2163,35.70117,65.2163,35.70117",
+    "geom:latitude":35.70117,
+    "geom:longitude":65.2163,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1807.0",
+    "gn:asciiname":"Chakan",
+    "gn:country_code":"AF",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145618,
+    "gn:latitude":35.70117,
+    "gn:longitude":65.2163,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cak\u0101n",
+        "Chak\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145618
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"72480e060a514f3791db9bf867a49e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562055,
+            "locality_id":1243355077,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1243355077,
+    "wof:lastmodified":1537582118,
+    "wof:name":"Chakan",
+    "wof:parent_id":1108562055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.2163,
+    35.70117,
+    65.2163,
+    35.70117
+],
+  "geometry": {"coordinates":[65.2163,35.70117],"type":"Point"}
+}

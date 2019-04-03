@@ -1,0 +1,76 @@
+{
+  "id": 1193239707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48721,31.80775,66.48721,31.80775",
+    "geom:latitude":31.80775,
+    "geom:longitude":66.48721,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Owdakey",
+    "gn:country_code":"AF",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148027,
+    "gn:latitude":31.80775,
+    "gn:longitude":66.48721,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Owdak\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aw\u1e0fakey",
+        "Avdakay",
+        "\u0627\u0648\u062f\u06a9\u06cd",
+        "\u0100bdakey",
+        "Awdak\u00eay",
+        "Owdak\u00eay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"096fa0b88dd24dfbbf131492e4189446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1193239707,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1193239707,
+    "wof:lastmodified":1537582312,
+    "wof:name":"Owdakey",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48721,
+    31.80775,
+    66.48721,
+    31.80775
+],
+  "geometry": {"coordinates":[66.48721,31.80775],"type":"Point"}
+}

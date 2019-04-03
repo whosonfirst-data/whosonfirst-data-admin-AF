@@ -1,0 +1,72 @@
+{
+  "id": 1310135621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72494,33.92626,66.72494,33.92626",
+    "geom:latitude":33.92626,
+    "geom:longitude":66.72494,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Mir-e Shikar",
+    "gn:country_code":"AF",
+    "gn:dem":2992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8429501,
+    "gn:latitude":33.92626,
+    "gn:longitude":66.72494,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br-e Shikar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012br-e Shikar",
+        "\u0645\u064a\u0631 \u0634\u06a9\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8429501
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b17a70a252e00e1c4dfe7c28d257eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1310135621,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310135621,
+    "wof:lastmodified":1537583943,
+    "wof:name":"Mir-e Shikar",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72494,
+    33.92626,
+    66.72494,
+    33.92626
+],
+  "geometry": {"coordinates":[66.72494,33.92626],"type":"Point"}
+}

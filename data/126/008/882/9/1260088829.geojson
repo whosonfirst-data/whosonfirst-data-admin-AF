@@ -1,0 +1,75 @@
+{
+  "id": 1260088829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.0516,34.7817,63.0516,34.7817",
+    "geom:latitude":34.7817,
+    "geom:longitude":63.0516,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1901",
+    "gn:asciiname":"Kalkayz",
+    "gn:country_code":"AF",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138519,
+    "gn:latitude":34.7817,
+    "gn:longitude":63.0516,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalkayz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kal\u2019kez"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u06a9\u06cc\u0632",
+        "Kalk\u0113z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138519
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"904e7820de56c95987a9950705aa0cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562377,
+            "locality_id":1260088829,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1260088829,
+    "wof:lastmodified":1537581506,
+    "wof:name":"Kalkayz",
+    "wof:parent_id":1108562377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.0516,
+    34.7817,
+    63.0516,
+    34.7817
+],
+  "geometry": {"coordinates":[63.0516,34.7817],"type":"Point"}
+}

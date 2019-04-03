@@ -1,0 +1,85 @@
+{
+  "id": 1192981621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.18274,34.24088,70.18274,34.24088",
+    "geom:latitude":34.24088,
+    "geom:longitude":70.18274,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Kazhah",
+    "gn:country_code":"AF",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1137548,
+    "gn:latitude":34.24088,
+    "gn:longitude":70.18274,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaz\u0332h\u0332ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0698\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khazha",
+        "Naw\u0113 Ka\u017ea",
+        "Khowg\u012b\u0101n\u012b",
+        "Ka\u017ea",
+        "Kagd",
+        "Kaza",
+        "Kaga",
+        "Kazhah",
+        "\u0643\u0698\u0647",
+        "Kaz\u0332h\u0332ah",
+        "\u06a9\u0696\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137548,
+        "wk:page":"Kaga_%28Afghanistan%29"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f01d8693f8cfb253953821aef168f8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1192981621,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1192981621,
+    "wof:lastmodified":1537581426,
+    "wof:name":"Kazhah",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.18274,
+    34.24088,
+    70.18274,
+    34.24088
+],
+  "geometry": {"coordinates":[70.18274,34.24088],"type":"Point"}
+}

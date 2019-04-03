@@ -1,0 +1,80 @@
+{
+  "id": 1292951051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05112,36.56796,67.05112,36.56796",
+    "geom:latitude":36.56796,
+    "geom:longitude":67.05112,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1612",
+    "gn:asciiname":"Karez Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137855,
+    "gn:latitude":36.56796,
+    "gn:longitude":67.05112,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z Kal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u064a\u0632 \u0643\u0644\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0435\u0437-\u041a\u0430\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karez-Kalan",
+        "K\u0101r\u012bz Kal\u0101n",
+        "K\u0101r\u0113z Kal\u0101n",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u06a9\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137855
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3256b9c92b4b14dfe4f75a60ffc75e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561981,
+            "locality_id":1292951051,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1292951051,
+    "wof:lastmodified":1537581447,
+    "wof:name":"Karez Kalan",
+    "wof:parent_id":1108561981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05112,
+    36.56796,
+    67.05112,
+    36.56796
+],
+  "geometry": {"coordinates":[67.05112,36.56796],"type":"Point"}
+}

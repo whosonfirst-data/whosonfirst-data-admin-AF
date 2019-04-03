@@ -1,0 +1,74 @@
+{
+  "id": 1310579301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.01075,33.34497,63.01075,33.34497",
+    "geom:latitude":33.34497,
+    "geom:longitude":63.01075,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Dahan-e Rumah",
+    "gn:country_code":"AF",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144417,
+    "gn:latitude":33.34497,
+    "gn:longitude":63.01075,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e R\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Ruma",
+        "Dah\u0101n-e R\u016bmah",
+        "\u062f\u0647\u0627\u0646 \u0631\u0648\u0645\u0647",
+        "Dahan-e R\u016bm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144417
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02c1587588c61fc3d73976f8fa8b655f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198905,
+            "locality_id":1310579301,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310579301,
+    "wof:lastmodified":1537582000,
+    "wof:name":"Dahan-e Rumah",
+    "wof:parent_id":421198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.01075,
+    33.34497,
+    63.01075,
+    33.34497
+],
+  "geometry": {"coordinates":[63.01075,33.34497],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310317879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.11407,35.05865,63.11407,35.05865",
+    "geom:latitude":35.05865,
+    "geom:longitude":63.11407,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1907",
+    "gn:asciiname":"Mamakow",
+    "gn:country_code":"AF",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134076,
+    "gn:latitude":35.05865,
+    "gn:longitude":63.11407,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mam\u0101kow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mam\u0101kow",
+        "\u0645\u0645\u0627\u06a9\u0648",
+        "Mam\u0101kaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134076
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db3620f0bfe4249cb8e2e56da2283718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562287,
+            "locality_id":1310317879,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310317879,
+    "wof:lastmodified":1537581144,
+    "wof:name":"Mamakow",
+    "wof:parent_id":1108562287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.11407,
+    35.05865,
+    63.11407,
+    35.05865
+],
+  "geometry": {"coordinates":[63.11407,35.05865],"type":"Point"}
+}

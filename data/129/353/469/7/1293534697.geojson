@@ -1,0 +1,78 @@
+{
+  "id": 1293534697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74089,34.6555,70.74089,34.6555",
+    "geom:latitude":34.6555,
+    "geom:longitude":70.74089,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013",
+    "gn:asciiname":"Dipolak",
+    "gn:country_code":"AF",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143061,
+    "gn:latitude":34.6555,
+    "gn:longitude":70.74089,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0eip\u014dlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u067e\u0648\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Dip\u014dlak",
+        "Dipolak",
+        "Dip\u016blak",
+        "\u1e0eip\u014dlak",
+        "\u0689\u067e\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143061
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cb1a6cdb1226672770f30f304b706225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1293534697,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293534697,
+    "wof:lastmodified":1537581889,
+    "wof:name":"Dipolak",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74089000000002,
+    34.6555,
+    70.74089000000002,
+    34.6555
+],
+  "geometry": {"coordinates":[70.74089000000002,34.6555],"type":"Point"}
+}

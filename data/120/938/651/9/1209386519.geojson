@@ -1,0 +1,68 @@
+{
+  "id": 1209386519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93713,33.95046,68.93713,33.95046",
+    "geom:latitude":33.95046,
+    "geom:longitude":68.93713,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Kashmiri Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438668,
+    "gn:latitude":33.95046,
+    "gn:longitude":68.93713,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashm\u012br\u012b P\u0101\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0161mir\u012b P\u0101\u2019\u012bn",
+        "Kashmiri-Pain",
+        "Kashm\u012br\u012b P\u0101\u2018\u012bn",
+        "\u06a9\u0634\u0645\u064a\u0631\u06cc \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37f689bd2ffac148591ce6e3ed4625c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209386519
+        }
+    ],
+    "wof:id":1209386519,
+    "wof:lastmodified":1537582894,
+    "wof:name":"Kashmiri Pa'in",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93713000000001,
+    33.95046,
+    68.93713000000001,
+    33.95046
+],
+  "geometry": {"coordinates":[68.93713000000001,33.95046],"type":"Point"}
+}

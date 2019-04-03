@@ -1,0 +1,76 @@
+{
+  "id": 1209877329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.87102,32.91182,68.87102,32.91182",
+    "geom:latitude":32.91182,
+    "geom:longitude":68.87102,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2907",
+    "gn:asciiname":"Spinah",
+    "gn:country_code":"AF",
+    "gn:dem":2478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123919,
+    "gn:latitude":32.91182,
+    "gn:longitude":68.87102,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u067e\u06cc\u0646\u0647",
+        "Spina",
+        "Sp\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123919
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c281a03298ab3c02f3e52a188716dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562341,
+            "locality_id":1209877329,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1209877329,
+    "wof:lastmodified":1537580258,
+    "wof:name":"Spinah",
+    "wof:parent_id":1108562341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.87102,
+    32.91182,
+    68.87102,
+    32.91182
+],
+  "geometry": {"coordinates":[68.87102,32.91182],"type":"Point"}
+}

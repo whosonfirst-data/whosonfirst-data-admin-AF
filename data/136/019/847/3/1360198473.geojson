@@ -1,0 +1,73 @@
+{
+  "id": 1360198473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28012,36.86864,70.28012,36.86864",
+    "geom:latitude":36.86864,
+    "geom:longitude":70.28012,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Khanaqah",
+    "gn:country_code":"AF",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467757,
+    "gn:latitude":36.86864,
+    "gn:longitude":70.28012,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101naq\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101naq\u0101h",
+        "Kh\u0101neq\u0101h",
+        "\u062e\u0627\u0646\u0642\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b56ae8a266dd606c58e0bcf44f7ab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1360198473,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360198473,
+    "wof:lastmodified":1537583507,
+    "wof:name":"Khanaqah",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28012,
+    36.86864,
+    70.28012,
+    36.86864
+],
+  "geometry": {"coordinates":[70.28012,36.86864],"type":"Point"}
+}

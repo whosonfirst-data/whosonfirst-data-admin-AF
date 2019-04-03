@@ -1,0 +1,79 @@
+{
+  "id": 1226223237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.45833,34.24856,62.45833,34.24856",
+    "geom:latitude":34.24856,
+    "geom:longitude":62.45833,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004.0",
+    "gn:asciiname":"Lak Lak Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472219,
+    "gn:latitude":34.24856,
+    "gn:longitude":62.45833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lak Lak Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0643\u0644\u0643 \u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Laklak Kh\u0101na",
+        "Laklakkhana",
+        "Laklak Kh\u0101neh",
+        "Lak Lak Kh\u0101nah",
+        "\u0644\u06a9 \u0644\u06a9 \u062e\u0627\u0646\u0647",
+        "\u0644\u0643\u0644\u0643 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472219
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0ec6eb0fbc8705b372143b54f53cd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1226223237,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226223237,
+    "wof:lastmodified":1537583679,
+    "wof:name":"Lak Lak Khanah",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.45833,
+    34.24856,
+    62.45833,
+    34.24856
+],
+  "geometry": {"coordinates":[62.45833,34.24856],"type":"Point"}
+}

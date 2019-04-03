@@ -1,0 +1,73 @@
+{
+  "id": 1310096031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26287,33.34148,67.26287,33.34148",
+    "geom:latitude":33.34148,
+    "geom:longitude":67.26287,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Kushah-ye Ashay",
+    "gn:country_code":"AF",
+    "gn:dem":2820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450286,
+    "gn:latitude":33.34148,
+    "gn:longitude":67.26287,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bshah-ye \u0100shay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016b\u0161a-i-\u0100\u0161ay",
+        "K\u016bshah-ye \u0100shay",
+        "\u06a9\u0648\u0634\u06c0 \u0622\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450286
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d91d5cf2209309c825d5c033099caa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1310096031,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310096031,
+    "wof:lastmodified":1537583039,
+    "wof:name":"Kushah-ye Ashay",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26286999999999,
+    33.34148,
+    67.26286999999999,
+    33.34148
+],
+  "geometry": {"coordinates":[67.26286999999999,33.34148],"type":"Point"}
+}

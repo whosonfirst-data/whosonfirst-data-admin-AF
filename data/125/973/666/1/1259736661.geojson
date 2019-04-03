@@ -1,0 +1,76 @@
+{
+  "id": 1259736661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23841,34.54349,70.23841,34.54349",
+    "geom:latitude":34.54349,
+    "geom:longitude":70.23841,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Aghrabat",
+    "gn:country_code":"AF",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149319,
+    "gn:latitude":34.54349,
+    "gn:longitude":70.23841,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aghrab\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agrabat",
+        "Agh\u1e5fab\u0101t",
+        "Aghrab\u0101\u0163",
+        "\u0627\u063a\u0631\u0628\u0627\u0637",
+        "\u0100ghrab\u0101\u0163",
+        "\u0622\u063a\u0631\u0628\u0627\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149319
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"161b4f1acff77c149c1926469ca66992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1259736661,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259736661,
+    "wof:lastmodified":1537582408,
+    "wof:name":"Aghrabat",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23841,
+    34.54349000000001,
+    70.23841,
+    34.54349000000001
+],
+  "geometry": {"coordinates":[70.23841,34.54349000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327252299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.75304,34.13594,63.75304,34.13594",
+    "geom:latitude":34.13594,
+    "geom:longitude":63.75304,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Awshakan",
+    "gn:country_code":"AF",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147957,
+    "gn:latitude":34.13594,
+    "gn:longitude":63.75304,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awshakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aw\u0161agan",
+        "Awshakan",
+        "\u0627\u0648\u0634\u06a9\u0646",
+        "\u0100bshekan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147957
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"44262830ba240e0ca9d83f7fe9726685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1327252299,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327252299,
+    "wof:lastmodified":1537582308,
+    "wof:name":"Awshakan",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.75304000000001,
+    34.13594000000001,
+    63.75304000000001,
+    34.13594000000001
+],
+  "geometry": {"coordinates":[63.75304000000001,34.13594000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260027179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64974,32.15273,66.64974,32.15273",
+    "geom:latitude":32.15273,
+    "geom:longitude":66.64974,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"Ramazai",
+    "gn:country_code":"AF",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128561,
+    "gn:latitude":32.15273,
+    "gn:longitude":66.64974,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ramaza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u1e5eamaz",
+        "Ramaza\u012b",
+        "Ramazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128561
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3667662e9fa174c8bb953a021f2ec1aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1260027179,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1260027179,
+    "wof:lastmodified":1537580635,
+    "wof:name":"Ramazai",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64974000000001,
+    32.15273,
+    66.64974000000001,
+    32.15273
+],
+  "geometry": {"coordinates":[66.64974000000001,32.15273],"type":"Point"}
+}

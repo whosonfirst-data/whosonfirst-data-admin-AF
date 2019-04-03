@@ -1,0 +1,68 @@
+{
+  "id": 890455927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.58268,31.111,66.58268,31.111",
+    "geom:latitude":31.111,
+    "geom:longitude":66.58268,
+    "gn:country":"AF",
+    "gn:fcode":"PPL",
+    "gn:pop":1,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kha\u1e5fb\u016bti"
+    ],
+    "qs:name":"Kharb\u016b\u1e6f\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465568,
+        "qs:id":555895
+    },
+    "wof:country":"AF",
+    "wof:created":1469052986,
+    "wof:geomhash":"549a1743f2ea8fb555e29bca23cd0bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":890455927,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":890455927,
+    "wof:lastmodified":1505343666,
+    "wof:name":"Kharb\u016b\u1e6f\u012b",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:population":1,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.58268,
+    31.111,
+    66.58268,
+    31.111
+],
+  "geometry": {"coordinates":[66.58268,31.111],"type":"Point"}
+}

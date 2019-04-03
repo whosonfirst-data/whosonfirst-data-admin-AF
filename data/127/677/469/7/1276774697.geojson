@@ -1,0 +1,73 @@
+{
+  "id": 1276774697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00584,35.90892,69.00584,35.90892",
+    "geom:latitude":35.90892,
+    "geom:longitude":69.00584,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Kotal-e Sabzak",
+    "gn:country_code":"AF",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135521,
+    "gn:latitude":35.90892,
+    "gn:longitude":69.00584,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dtal-e Sabzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dtal-e Sabzak",
+        "Kowtal-e Sabzar",
+        "\u06a9\u0648\u062a\u0644 \u0633\u0628\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135521
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11c38ff70881684e1f04d37c0fac8580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1276774697,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276774697,
+    "wof:lastmodified":1537581262,
+    "wof:name":"Kotal-e Sabzak",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00584,
+    35.90892,
+    69.00584,
+    35.90892
+],
+  "geometry": {"coordinates":[69.00584000000001,35.90892],"type":"Point"}
+}

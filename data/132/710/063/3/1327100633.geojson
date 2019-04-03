@@ -1,0 +1,68 @@
+{
+  "id": 1327100633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39759,34.44975,70.39759,34.44975",
+    "geom:latitude":34.44975,
+    "geom:longitude":70.39759,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802.0",
+    "gn:asciiname":"Pawkamha",
+    "gn:country_code":"AF",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305395,
+    "gn:latitude":34.44975,
+    "gn:longitude":70.39759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101wkamh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305395
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a91210d4cb70de5f8abb90ffc2bda1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562523,
+            "locality_id":1327100633,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327100633,
+    "wof:lastmodified":1536662125,
+    "wof:name":"Pawkamha",
+    "wof:parent_id":1108562523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39759000000002,
+    34.44975,
+    70.39759000000002,
+    34.44975
+],
+  "geometry": {"coordinates":[70.39759000000002,34.44975],"type":"Point"}
+}

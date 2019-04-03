@@ -1,0 +1,74 @@
+{
+  "id": 1293567249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.16188,34.87456,62.16188,34.87456",
+    "geom:latitude":34.87456,
+    "geom:longitude":62.16188,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Durmishi",
+    "gn:country_code":"AF",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142653,
+    "gn:latitude":34.87456,
+    "gn:longitude":62.16188,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016brm\u012bsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u016brmi\u0161i",
+        "Durmishi",
+        "D\u016brm\u012bsh\u012b",
+        "\u062f\u0648\u0631\u0645\u06cc\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142653
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d021d3f8a584e1827250b82d2baab4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1293567249,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293567249,
+    "wof:lastmodified":1537581849,
+    "wof:name":"Durmishi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.16188,
+    34.87456,
+    62.16188,
+    34.87456
+],
+  "geometry": {"coordinates":[62.16188,34.87456],"type":"Point"}
+}

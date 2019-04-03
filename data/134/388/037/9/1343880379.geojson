@@ -1,0 +1,73 @@
+{
+  "id": 1343880379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.43355,32.36551,61.43355,32.36551",
+    "geom:latitude":32.36551,
+    "geom:longitude":61.43355,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2108",
+    "gn:asciiname":"Hasanabad",
+    "gn:country_code":"AF",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140229,
+    "gn:latitude":32.36551,
+    "gn:longitude":61.43355,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28asan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331as\u1e0f\u0101n Ab\u0101\u1e0f",
+        "\u1e28asan\u0101b\u0101d",
+        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4adf349a5805c05943574178cebd674b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1343880379,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1343880379,
+    "wof:lastmodified":1537581642,
+    "wof:name":"Hasanabad",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.43355,
+    32.36551,
+    61.43355,
+    32.36551
+],
+  "geometry": {"coordinates":[61.43355,32.36551],"type":"Point"}
+}

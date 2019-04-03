@@ -1,0 +1,66 @@
+{
+  "id": 890442713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06067,33.69471,70.06067,33.69471",
+    "geom:latitude":33.69471,
+    "geom:longitude":70.06067,
+    "gn:country":"AF",
+    "gn:fcode":"PPL",
+    "gn:pop":500,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Deri Mila",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224058,
+        "gp:id":1935264,
+        "qs:id":759993
+    },
+    "wof:country":"AF",
+    "wof:created":1469052374,
+    "wof:geomhash":"4b5008490c45fdecf7d861be61ef490c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562093,
+            "locality_id":890442713,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":890442713,
+    "wof:lastmodified":1505343589,
+    "wof:name":"Deri Mila",
+    "wof:parent_id":1108562093,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06067,
+    33.69471,
+    70.06067,
+    33.69471
+],
+  "geometry": {"coordinates":[70.06067,33.69471],"type":"Point"}
+}

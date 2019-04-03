@@ -1,0 +1,74 @@
+{
+  "id": 1242878061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71261,37.03089,70.71261,37.03089",
+    "geom:latitude":37.03089,
+    "geom:longitude":70.71261,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1118",
+    "gn:asciiname":"Khash",
+    "gn:country_code":"AF",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136861,
+    "gn:latitude":37.03089,
+    "gn:longitude":70.71261,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101\u0161",
+        "Kh\u0101s\u0304",
+        "\u062e\u0627\u0634",
+        "Kh\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136861
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bdd3aa8d761394147fdcd3e320c249a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562161,
+            "locality_id":1242878061,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1242878061,
+    "wof:lastmodified":1537581375,
+    "wof:name":"Khash",
+    "wof:parent_id":1108562161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71261,
+    37.03089,
+    70.71261,
+    37.03089
+],
+  "geometry": {"coordinates":[70.71261,37.03089],"type":"Point"}
+}

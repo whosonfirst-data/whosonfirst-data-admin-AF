@@ -1,0 +1,73 @@
+{
+  "id": 1260009393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72377,33.64809,66.72377,33.64809",
+    "geom:latitude":33.64809,
+    "geom:longitude":66.72377,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Shishkah",
+    "gn:country_code":"AF",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437635,
+    "gn:latitude":33.64809,
+    "gn:longitude":66.72377,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012bshkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u012b\u0161ka",
+        "Sh\u012bshkah",
+        "\u0634\u06cc\u0634\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437635
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c7d50b2418a7edd84ada555b3e253ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1260009393,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1260009393,
+    "wof:lastmodified":1537582850,
+    "wof:name":"Shishkah",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72377,
+    33.64809,
+    66.72377,
+    33.64809
+],
+  "geometry": {"coordinates":[66.72377,33.64809],"type":"Point"}
+}

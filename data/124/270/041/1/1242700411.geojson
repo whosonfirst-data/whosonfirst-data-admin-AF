@@ -1,0 +1,68 @@
+{
+  "id": 1242700411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.99499,34.17373,66.99499,34.17373",
+    "geom:latitude":34.17373,
+    "geom:longitude":66.99499,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Sar Motak",
+    "gn:country_code":"AF",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060460,
+    "gn:latitude":34.17373,
+    "gn:longitude":66.99499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar M\u014dtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060460
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da7fbcdfa3f68def3edaaa965f4a56e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1242700411,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1242700411,
+    "wof:lastmodified":1536886431,
+    "wof:name":"Sar Motak",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.99499,
+    34.17373,
+    66.99499,
+    34.17373
+],
+  "geometry": {"coordinates":[66.99499,34.17373],"type":"Point"}
+}

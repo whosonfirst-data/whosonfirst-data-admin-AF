@@ -1,0 +1,78 @@
+{
+  "id": 1343872259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12104,37.86251,71.12104,37.86251",
+    "geom:latitude":37.86251,
+    "geom:longitude":71.12104,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Qaryah-ye Ba Khirsak",
+    "gn:country_code":"AF",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147427,
+    "gn:latitude":37.86251,
+    "gn:longitude":71.12104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye B\u0101 Khirsak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u1e0f\u0101 Khers",
+        "Madokhirs",
+        "Qa\u1e5fya-i-B\u0101 Khe\u1e5fsak",
+        "Bakhursak",
+        "\u0642\u0631\u06cc\u0647 \u0628\u0627 \u062e\u0631\u0633\u06a9",
+        "B\u0101 Khersak",
+        "Qaryah-ye B\u0101 Khirsak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147427,
+        "wk:page":"Ba_Khersak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"563b191a9920351fb7706e1a60535770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1343872259,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343872259,
+    "wof:lastmodified":1537582265,
+    "wof:name":"Qaryah-ye Ba Khirsak",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12104000000002,
+    37.86251,
+    71.12104000000002,
+    37.86251
+],
+  "geometry": {"coordinates":[71.12104000000002,37.86251],"type":"Point"}
+}

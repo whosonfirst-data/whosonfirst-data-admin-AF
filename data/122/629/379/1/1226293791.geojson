@@ -1,0 +1,77 @@
+{
+  "id": 1226293791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.90128,32.45018,66.90128,32.45018",
+    "geom:latitude":32.45018,
+    "geom:longitude":66.90128,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Ghundey",
+    "gn:country_code":"AF",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141005,
+    "gn:latitude":32.45018,
+    "gn:longitude":66.90128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghun\u1e0f\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0648\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gunday",
+        "Ghun\u1e0f\u00eay",
+        "\u063a\u0646\u0689\u06cd",
+        "Gh\u016bn\u1e0fey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141005
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d8d536e427cd2f06848a0c4a4c2bcd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1226293791,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226293791,
+    "wof:lastmodified":1537581712,
+    "wof:name":"Ghundey",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.90128,
+    32.45018,
+    66.90128,
+    32.45018
+],
+  "geometry": {"coordinates":[66.90128,32.45018],"type":"Point"}
+}

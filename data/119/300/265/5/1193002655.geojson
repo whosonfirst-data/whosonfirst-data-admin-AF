@@ -1,0 +1,75 @@
+{
+  "id": 1193002655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0176,34.08788,64.0176,34.08788",
+    "geom:latitude":34.08788,
+    "geom:longitude":64.0176,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Siyah Khak",
+    "gn:country_code":"AF",
+    "gn:dem":2489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124598,
+    "gn:latitude":34.08788,
+    "gn:longitude":64.0176,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siy\u0101h Kh\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siakhkhak",
+        "Syahkh\u0101k",
+        "S\u012b\u0101hkh\u0101k",
+        "\u0633\u06cc\u0627\u0647 \u062e\u0627\u06a9",
+        "Siy\u0101h Kh\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124598
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b874f66ce8252aded2d3472e3b58d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1193002655,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193002655,
+    "wof:lastmodified":1537580312,
+    "wof:name":"Siyah Khak",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0176,
+    34.08788,
+    64.0176,
+    34.08788
+],
+  "geometry": {"coordinates":[64.0176,34.08788],"type":"Point"}
+}

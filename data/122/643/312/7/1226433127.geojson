@@ -1,0 +1,77 @@
+{
+  "id": 1226433127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44517,33.5218,68.44517,33.5218",
+    "geom:latitude":33.5218,
+    "geom:longitude":68.44517,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"601",
+    "gn:asciiname":"Deh-e Khudaydad",
+    "gn:country_code":"AF",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143570,
+    "gn:latitude":33.5218,
+    "gn:longitude":68.44517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Khud\u0101yd\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0654 \u062e\u062f\u0627\u064a\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Dekhi-Khudaidad",
+        "Deh-e Khud\u0101yd\u0101d",
+        "Deh-e Khod\u0101yd\u0101d",
+        "\u062f\u0647 \u062e\u062f\u0627\u06cc\u062f\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98981880071857091729003cec1db549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1226433127,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226433127,
+    "wof:lastmodified":1537581931,
+    "wof:name":"Deh-e Khudaydad",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44516999999999,
+    33.5218,
+    68.44516999999999,
+    33.5218
+],
+  "geometry": {"coordinates":[68.44516999999999,33.5218],"type":"Point"}
+}

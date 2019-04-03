@@ -1,0 +1,74 @@
+{
+  "id": 1293458215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97053,31.68091,65.97053,31.68091",
+    "geom:latitude":31.68091,
+    "geom:longitude":65.97053,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402",
+    "gn:asciiname":"Shakar Ganj",
+    "gn:country_code":"AF",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125793,
+    "gn:latitude":31.68091,
+    "gn:longitude":65.97053,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakar Ganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160akarganj",
+        "Shakargandzh",
+        "Shakar Ganj",
+        "\u0634\u06a9\u0631 \u06af\u0646\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125793
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ccf7ae156ee187efd9edd753595af09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1293458215,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293458215,
+    "wof:lastmodified":1537580417,
+    "wof:name":"Shakar Ganj",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97053000000001,
+    31.68091,
+    65.97053000000001,
+    31.68091
+],
+  "geometry": {"coordinates":[65.97053000000001,31.68091],"type":"Point"}
+}

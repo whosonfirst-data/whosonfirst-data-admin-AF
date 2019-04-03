@@ -1,0 +1,78 @@
+{
+  "id": 1327424555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45758,33.34073,68.45758,33.34073",
+    "geom:latitude":33.34073,
+    "geom:longitude":68.45758,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Mufti Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439017,
+    "gn:latitude":33.34073,
+    "gn:longitude":68.45758,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Muft\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0645\u0641\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mufti Kal\u0101",
+        "Muftikala",
+        "Muft\u012b Kal\u0101",
+        "Moft\u012b Kal\u0101",
+        "\u0645\u0641\u062a\u06cc \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439017
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ddcb06a169fb6f97329d60833ebd11db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1327424555,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327424555,
+    "wof:lastmodified":1537582911,
+    "wof:name":"Mufti Kala",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45758000000001,
+    33.34073,
+    68.45758000000001,
+    33.34073
+],
+  "geometry": {"coordinates":[68.45758000000001,33.34073],"type":"Point"}
+}

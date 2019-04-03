@@ -1,0 +1,74 @@
+{
+  "id": 1293155641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96648,36.96433,69.96648,36.96433",
+    "geom:latitude":36.96433,
+    "geom:longitude":69.96648,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208",
+    "gn:asciiname":"Shingirab",
+    "gn:country_code":"AF",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125370,
+    "gn:latitude":36.96433,
+    "gn:longitude":69.96648,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shingir\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senege\u1e5f\u0101b",
+        "Shenger\u0101b",
+        "Shingir\u0101b",
+        "\u0634\u0646\u06af\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125370
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6b8f64046b5af342c95e845aae2db851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1293155641,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293155641,
+    "wof:lastmodified":1537580383,
+    "wof:name":"Shingirab",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96648,
+    36.96433,
+    69.96648,
+    36.96433
+],
+  "geometry": {"coordinates":[69.96648,36.96433],"type":"Point"}
+}

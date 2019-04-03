@@ -1,0 +1,74 @@
+{
+  "id": 1310209575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96091,34.62338,66.96091,34.62338",
+    "geom:latitude":34.62338,
+    "geom:longitude":66.96091,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Sabz Naw",
+    "gn:country_code":"AF",
+    "gn:dem":2843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128094,
+    "gn:latitude":34.62338,
+    "gn:longitude":66.96091,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sabz N\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sabznau",
+        "Sabz N\u0101w",
+        "Sabzn\u0101w",
+        "\u0633\u0628\u0632 \u0646\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128094
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5a91c2a900bc7bcb91474fac6cba9243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1310209575,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310209575,
+    "wof:lastmodified":1537580602,
+    "wof:name":"Sabz Naw",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96091,
+    34.62338,
+    66.96091,
+    34.62338
+],
+  "geometry": {"coordinates":[66.96091,34.62338],"type":"Point"}
+}

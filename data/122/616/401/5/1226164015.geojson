@@ -1,0 +1,72 @@
+{
+  "id": 1226164015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05257,36.03929,65.05257,36.03929",
+    "geom:latitude":36.03929,
+    "geom:longitude":65.05257,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1813",
+    "gn:asciiname":"Khowtar Khan",
+    "gn:country_code":"AF",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136462,
+    "gn:latitude":36.03929,
+    "gn:longitude":65.05257,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khowtar Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khowtar Kh\u0101n",
+        "\u062e\u0648\u062a\u0631 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136462
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e82e94f42c7df132bc610ba0dac9938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562191,
+            "locality_id":1226164015,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1226164015,
+    "wof:lastmodified":1537581344,
+    "wof:name":"Khowtar Khan",
+    "wof:parent_id":1108562191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05256999999999,
+    36.03929,
+    65.05256999999999,
+    36.03929
+],
+  "geometry": {"coordinates":[65.05256999999999,36.03929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326841733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85834,35.76407,68.85834,35.76407",
+    "geom:latitude":35.76407,
+    "geom:longitude":68.85834,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1304",
+    "gn:asciiname":"Mingak",
+    "gn:country_code":"AF",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133541,
+    "gn:latitude":35.76407,
+    "gn:longitude":68.85834,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mingak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mengak",
+        "Mingak",
+        "\u0645\u0646\u06af\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133541
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"077880c6c5a2318f2c88b38565a342fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561999,
+            "locality_id":1326841733,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1326841733,
+    "wof:lastmodified":1537581104,
+    "wof:name":"Mingak",
+    "wof:parent_id":1108561999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85834,
+    35.76407000000001,
+    68.85834,
+    35.76407000000001
+],
+  "geometry": {"coordinates":[68.85834,35.76407000000001],"type":"Point"}
+}

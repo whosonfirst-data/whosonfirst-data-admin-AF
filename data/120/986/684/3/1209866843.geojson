@@ -1,0 +1,73 @@
+{
+  "id": 1209866843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29028,32.78917,69.29028,32.78917",
+    "geom:latitude":32.78917,
+    "geom:longitude":69.29028,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Dim Maney",
+    "gn:country_code":"AF",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434073,
+    "gn:latitude":32.78917,
+    "gn:longitude":69.29028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dim M\u0101n\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimmanay",
+        "Dim M\u0101n\u00eay",
+        "Dem M\u0101ney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434073
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eeef61adba03b0f199f71a7e23e794a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1209866843,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1209866843,
+    "wof:lastmodified":1537582704,
+    "wof:name":"Dim Maney",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29028000000001,
+    32.78917,
+    69.29028000000001,
+    32.78917
+],
+  "geometry": {"coordinates":[69.29028000000001,32.78917],"type":"Point"}
+}

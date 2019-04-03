@@ -1,0 +1,74 @@
+{
+  "id": 1260093841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.96618,36.96176,70.96618,36.96176",
+    "geom:latitude":36.96176,
+    "geom:longitude":70.96618,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Pushistan",
+    "gn:country_code":"AF",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468603,
+    "gn:latitude":36.96176,
+    "gn:longitude":70.96618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u016bshist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u016b\u0161ist\u0101n",
+        "\u067e\u0648\u0634\u0633\u062a\u0627\u0646",
+        "P\u016bshest\u0101n",
+        "P\u016bshist\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468603
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0a991744633f3ef469ecbef065ecabd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561835,
+            "locality_id":1260093841,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260093841,
+    "wof:lastmodified":1537583564,
+    "wof:name":"Pushistan",
+    "wof:parent_id":1108561835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.96618000000002,
+    36.96176,
+    70.96618000000002,
+    36.96176
+],
+  "geometry": {"coordinates":[70.96618000000002,36.96176],"type":"Point"}
+}

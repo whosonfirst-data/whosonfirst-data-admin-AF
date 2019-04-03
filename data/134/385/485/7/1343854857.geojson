@@ -1,0 +1,74 @@
+{
+  "id": 1343854857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75052,33.64452,68.75052,33.64452",
+    "geom:latitude":33.64452,
+    "geom:longitude":68.75052,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"616",
+    "gn:asciiname":"Spedar",
+    "gn:country_code":"AF",
+    "gn:dem":2754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123954,
+    "gn:latitude":33.64452,
+    "gn:longitude":68.75052,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u0113d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sp\u0113\u1e0f\u0101\u1e5f",
+        "Sep\u012bd\u0101r",
+        "Sp\u0113d\u0101r",
+        "\u0633\u067e\u06d0\u062f\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123954
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c64eee6a97deff859373b1f337c3879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562601,
+            "locality_id":1343854857,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343854857,
+    "wof:lastmodified":1537580260,
+    "wof:name":"Spedar",
+    "wof:parent_id":1108562601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75052,
+    33.64452,
+    68.75052,
+    33.64452
+],
+  "geometry": {"coordinates":[68.75051999999999,33.64452],"type":"Point"}
+}

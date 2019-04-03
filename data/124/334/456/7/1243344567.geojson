@@ -1,0 +1,75 @@
+{
+  "id": 1243344567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.71008,34.87278,61.71008,34.87278",
+    "geom:latitude":34.87278,
+    "geom:longitude":61.71008,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Ghorqand-e Hazarah",
+    "gn:country_code":"AF",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140949,
+    "gn:latitude":34.87278,
+    "gn:longitude":61.71008,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014drqand-e Haz\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u014d\u1e5fqan\u1e0f-i-Haz\u0101\u1e5fa",
+        "Gh\u016brqand-e Haz\u0101ra",
+        "Gh\u014drqand-e Haz\u0101rah",
+        "\u063a\u0648\u0631\u0642\u0646\u062f \u0647\u0632\u0627\u0631\u0647",
+        "Gh\u016brqand-e Hez\u0101reh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140949
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e68c69282cc194b4296dcb9dda1c2f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1243344567,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1243344567,
+    "wof:lastmodified":1537581707,
+    "wof:name":"Ghorqand-e Hazarah",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.71008000000001,
+    34.87278,
+    61.71008000000001,
+    34.87278
+],
+  "geometry": {"coordinates":[61.71008000000001,34.87278],"type":"Point"}
+}

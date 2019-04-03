@@ -1,0 +1,76 @@
+{
+  "id": 1242951923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.08277,32.56599,65.08277,32.56599",
+    "geom:latitude":32.56599,
+    "geom:longitude":65.08277,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Barig Ab",
+    "gn:country_code":"AF",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146958,
+    "gn:latitude":32.56599,
+    "gn:longitude":65.08277,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101rig \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101\u1e5fig\u0101w",
+        "Barigav",
+        "B\u0101rig \u0100b",
+        "\u0628\u0627\u0631\u06af \u0622\u0648",
+        "B\u0101r\u012bk \u0100b",
+        "B\u0101rig \u0100w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146958
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7fdd44b04b0c0d58aab310c978665ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1242951923,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242951923,
+    "wof:lastmodified":1537582227,
+    "wof:name":"Barig Ab",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.08277,
+    32.56599,
+    65.08277,
+    32.56599
+],
+  "geometry": {"coordinates":[65.08277,32.56599],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209771839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41392,31.12329,66.41392,31.12329",
+    "geom:latitude":31.12329,
+    "geom:longitude":66.41392,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Madian",
+    "gn:country_code":"AF",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1134310,
+    "gn:latitude":31.12329,
+    "gn:longitude":66.41392,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mad\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mad\u012b\u0101n",
+        "\u0645\u062f\u06cc\u0627\u0646",
+        "Mady\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134310
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d6b30279001d93217814572ffb56d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1209771839,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209771839,
+    "wof:lastmodified":1537581163,
+    "wof:name":"Madian",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41391999999999,
+    31.12329,
+    66.41391999999999,
+    31.12329
+],
+  "geometry": {"coordinates":[66.41391999999999,31.12329],"type":"Point"}
+}

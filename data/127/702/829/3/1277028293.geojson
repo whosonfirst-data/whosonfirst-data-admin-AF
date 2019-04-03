@@ -1,0 +1,76 @@
+{
+  "id": 1277028293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71831,35.5352,66.71831,35.5352",
+    "geom:latitude":35.5352,
+    "geom:longitude":66.71831,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104",
+    "gn:asciiname":"Sar-e Pul",
+    "gn:country_code":"AF",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127111,
+    "gn:latitude":35.5352,
+    "gn:longitude":66.71831,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Pul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryeh-ye Sar-e Pol",
+        "Sa\u1e5fe Pul",
+        "Sar-i-Pul",
+        "Sar-e Pol",
+        "Sar-e Pul",
+        "\u0633\u0631 \u067e\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127111
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0dcec3de31611a61147acd1dbe4fb91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1277028293,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1277028293,
+    "wof:lastmodified":1537580530,
+    "wof:name":"Sar-e Pul",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71831,
+    35.5352,
+    66.71831,
+    35.5352
+],
+  "geometry": {"coordinates":[66.71831,35.5352],"type":"Point"}
+}

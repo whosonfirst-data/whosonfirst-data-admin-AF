@@ -1,0 +1,74 @@
+{
+  "id": 1226427803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35086,33.59366,67.35086,33.59366",
+    "geom:latitude":33.59366,
+    "geom:longitude":67.35086,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"605",
+    "gn:asciiname":"Dungah",
+    "gn:country_code":"AF",
+    "gn:dem":2857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142676,
+    "gn:latitude":33.59366,
+    "gn:longitude":67.35086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e0eungah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunga",
+        "\u1e0eongah",
+        "\u1e0eungah",
+        "\u0689\u0646\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142676
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"64a0e5d68f375c9acc1beabd64d84628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1226427803,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226427803,
+    "wof:lastmodified":1537581851,
+    "wof:name":"Dungah",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35086,
+    33.59366,
+    67.35086,
+    33.59366
+],
+  "geometry": {"coordinates":[67.35086,33.59366],"type":"Point"}
+}

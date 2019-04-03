@@ -1,0 +1,79 @@
+{
+  "id": 1327179305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05166,34.9679,71.05166,34.9679",
+    "geom:latitude":34.9679,
+    "geom:longitude":71.05166,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1008.0",
+    "gn:asciiname":"Panjigal",
+    "gn:country_code":"AF",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451839,
+    "gn:latitude":34.9679,
+    "gn:longitude":71.05166,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Panj\u012bgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062c\u06af\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Pandzhigal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Panjgal",
+        "Panj\u012bgal",
+        "\u067e\u0646\u062c\u06cc\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451839
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"88a724f4cddcba8918b450ae60d6e155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562575,
+            "locality_id":1327179305,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327179305,
+    "wof:lastmodified":1537583074,
+    "wof:name":"Panjigal",
+    "wof:parent_id":1108562575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05166,
+    34.9679,
+    71.05166,
+    34.9679
+],
+  "geometry": {"coordinates":[71.05166,34.9679],"type":"Point"}
+}

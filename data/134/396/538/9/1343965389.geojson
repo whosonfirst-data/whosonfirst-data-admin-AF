@@ -1,0 +1,81 @@
+{
+  "id": 1343965389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80518,36.3465,68.80518,36.3465",
+    "geom:latitude":36.3465,
+    "geom:longitude":68.80518,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Mulla Khel",
+    "gn:country_code":"AF",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132916,
+    "gn:latitude":36.3465,
+    "gn:longitude":68.80518,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043b\u043b\u0430\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Mull\u0101 Kh\u0113l",
+        "Moll\u0101 Kh\u0113l",
+        "Mullakheyl\u2019",
+        "Moll\u0101 Kheyl",
+        "\u0645\u0644\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132916
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"210423d9441bc796d926987bab1c83c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1343965389,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343965389,
+    "wof:lastmodified":1537581048,
+    "wof:name":"Mulla Khel",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80518000000001,
+    36.3465,
+    68.80518000000001,
+    36.3465
+],
+  "geometry": {"coordinates":[68.80518000000001,36.3465],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326913899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.85553,32.25122,63.85553,32.25122",
+    "geom:latitude":32.25122,
+    "geom:longitude":63.85553,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Washer",
+    "gn:country_code":"AF",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1121855,
+    "gn:latitude":32.25122,
+    "gn:longitude":63.85553,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101sh\u0113r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101s\u0113\u1e5f",
+        "Wash\u0101r",
+        "V\u0101sh\u012br",
+        "W\u0101shayr",
+        "\u0648\u0627\u0634\u06cc\u0631",
+        "W\u0101sh\u0113r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121855
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2cb3b69faf48bf499d1b8a070623ca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1326913899,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1326913899,
+    "wof:lastmodified":1537580066,
+    "wof:name":"Washer",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.85553,
+    32.25122,
+    63.85553,
+    32.25122
+],
+  "geometry": {"coordinates":[63.85553,32.25122],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327355533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.93185,33.44532,63.93185,33.44532",
+    "geom:latitude":33.44532,
+    "geom:longitude":63.93185,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Bornimi",
+    "gn:country_code":"AF",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146304,
+    "gn:latitude":33.44532,
+    "gn:longitude":63.93185,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u014drnim\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u014d\u1e5fnimi",
+        "B\u014drnim\u012b",
+        "\u0628\u0648\u0631\u0646\u0645\u06cc",
+        "Bowrn\u012bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d3172de4a9a3833396e19bd538a1621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1327355533,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1327355533,
+    "wof:lastmodified":1537582171,
+    "wof:name":"Bornimi",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.93185,
+    33.44532,
+    63.93185,
+    33.44532
+],
+  "geometry": {"coordinates":[63.93185,33.44532],"type":"Point"}
+}

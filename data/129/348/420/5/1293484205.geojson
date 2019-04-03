@@ -1,0 +1,72 @@
+{
+  "id": 1293484205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.68335,36.11265,64.68335,36.11265",
+    "geom:latitude":36.11265,
+    "geom:longitude":64.68335,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Qush Qunaq",
+    "gn:country_code":"AF",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128923,
+    "gn:latitude":36.11265,
+    "gn:longitude":64.68335,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qush Qunaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0634 \u0642\u0646\u0642",
+        "Qosh Qonaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128923
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"59e2fe5f5e2d5cbca3e1768aa02f39b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1293484205,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293484205,
+    "wof:lastmodified":1537580667,
+    "wof:name":"Qush Qunaq",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.68335,
+    36.11265,
+    64.68335,
+    36.11265
+],
+  "geometry": {"coordinates":[64.68335,36.11265],"type":"Point"}
+}

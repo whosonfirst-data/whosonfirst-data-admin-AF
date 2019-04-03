@@ -1,0 +1,65 @@
+{
+  "id": 1209110057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88868,38.1762,70.88868,38.1762",
+    "geom:latitude":38.1762,
+    "geom:longitude":70.88868,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Kay",
+    "gn:country_code":"AF",
+    "gn:dem":2543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466640,
+    "gn:latitude":38.1762,
+    "gn:longitude":70.88868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fdac98d51ee29a820fb51a7915af68fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209110057
+        }
+    ],
+    "wof:id":1209110057,
+    "wof:lastmodified":1537583435,
+    "wof:name":"Kay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88868000000002,
+    38.1762,
+    70.88868000000002,
+    38.1762
+],
+  "geometry": {"coordinates":[70.88868000000002,38.1762],"type":"Point"}
+}

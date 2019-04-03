@@ -1,0 +1,76 @@
+{
+  "id": 1193247017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04312,32.02188,65.04312,32.02188",
+    "geom:latitude":32.02188,
+    "geom:longitude":65.04312,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2406.0",
+    "gn:asciiname":"Abulhasan",
+    "gn:country_code":"AF",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149451,
+    "gn:latitude":32.02188,
+    "gn:longitude":65.04312,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Abul\u1e29asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Abul\u2019khasan"
+    ],
+    "name:und_x_variant":[
+        "Abul\u1e29asan",
+        "\u0627\u0628\u0644\u062d\u0633\u0646",
+        "Ab\u016b ol \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149451
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4235b872da3d078e7f68becd0526d2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562029,
+            "locality_id":1193247017,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1193247017,
+    "wof:lastmodified":1537582419,
+    "wof:name":"Abulhasan",
+    "wof:parent_id":1108562029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04312,
+    32.02188,
+    65.04312,
+    32.02188
+],
+  "geometry": {"coordinates":[65.04312,32.02188],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226447165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.34884,34.18627,67.34884,34.18627",
+    "geom:latitude":34.18627,
+    "geom:longitude":67.34884,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Qol-e Aso",
+    "gn:country_code":"AF",
+    "gn:dem":2739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462027,
+    "gn:latitude":34.18627,
+    "gn:longitude":67.34884,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl-e As\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuli-Asu",
+        "Q\u014dle Aso",
+        "Qowl-e Aso",
+        "Q\u014dl-e As\u014d",
+        "\u0642\u0648\u0644 \u0627\u0633\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"50a7acf3450fda0c85efe898aaee75f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1226447165,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226447165,
+    "wof:lastmodified":1537583343,
+    "wof:name":"Qol-e Aso",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.34884,
+    34.18627,
+    67.34884,
+    34.18627
+],
+  "geometry": {"coordinates":[67.34884,34.18627],"type":"Point"}
+}

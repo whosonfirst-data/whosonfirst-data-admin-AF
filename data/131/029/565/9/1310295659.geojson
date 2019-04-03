@@ -1,0 +1,78 @@
+{
+  "id": 1310295659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.1491,33.37498,68.1491,33.37498",
+    "geom:latitude":33.37498,
+    "geom:longitude":68.1491,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"618",
+    "gn:asciiname":"Ghurghurak",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140980,
+    "gn:latitude":33.37498,
+    "gn:longitude":68.1491,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghurghurak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0631\u063a\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Gurgurak",
+        "Ghurghorak",
+        "Ghu\u1e5fgho\u1e5fak",
+        "Ghurghurak",
+        "\u063a\u0631\u063a\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1dbefa01a019765e5d60518316fdf6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1310295659,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310295659,
+    "wof:lastmodified":1537581710,
+    "wof:name":"Ghurghurak",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.1491,
+    33.37498,
+    68.1491,
+    33.37498
+],
+  "geometry": {"coordinates":[68.1491,33.37498],"type":"Point"}
+}

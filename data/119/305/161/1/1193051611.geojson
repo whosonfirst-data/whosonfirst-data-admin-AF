@@ -1,0 +1,73 @@
+{
+  "id": 1193051611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96455,33.22434,66.96455,33.22434",
+    "geom:latitude":33.22434,
+    "geom:longitude":66.96455,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Gidurgu",
+    "gn:country_code":"AF",
+    "gn:dem":2663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140922,
+    "gn:latitude":33.22434,
+    "gn:longitude":66.96455,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gidurg\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gidurg\u016b",
+        "\u06af\u062f\u0631\u06af\u0648",
+        "Gidu\u1e5fgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140922
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"887cc66bcc4ccafdb8ce7f6b02a5374c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1193051611,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1193051611,
+    "wof:lastmodified":1537581705,
+    "wof:name":"Gidurgu",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96455,
+    33.22434000000001,
+    66.96455,
+    33.22434000000001
+],
+  "geometry": {"coordinates":[66.96455,33.22434000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209796577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.63002,34.29892,62.63002,34.29892",
+    "geom:latitude":34.29892,
+    "geom:longitude":62.63002,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Pustin",
+    "gn:country_code":"AF",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130990,
+    "gn:latitude":34.29892,
+    "gn:longitude":62.63002,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u016bst\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pas\u0304t\u016bn Za\u1e5fgh\u016bn",
+        "Pasht\u016bn Zargh\u016bn",
+        "P\u016bst\u012bn",
+        "\u067e\u0648\u0633\u062a\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130990,
+        "wk:page":"Pashtun_Zarghun"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f47fd88533f2a73166432264d3d3fe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1209796577,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209796577,
+    "wof:lastmodified":1537580886,
+    "wof:name":"Pustin",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.63002,
+    34.29892,
+    62.63002,
+    34.29892
+],
+  "geometry": {"coordinates":[62.63002,34.29892],"type":"Point"}
+}

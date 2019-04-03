@@ -1,0 +1,81 @@
+{
+  "id": 1293106125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62609,36.08024,68.62609,36.08024",
+    "geom:latitude":36.08024,
+    "geom:longitude":68.62609,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1301",
+    "gn:asciiname":"Kunduz Tapah",
+    "gn:country_code":"AF",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128972,
+    "gn:latitude":36.08024,
+    "gn:longitude":68.62609,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kunduz Tapah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u062f\u0648\u0632 \u062a\u067e\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443\u0437\u0442\u0430\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kunduztapa",
+        "Qun\u1e0f\u016bz Tapa",
+        "Qond\u016bz Tappeh",
+        "Kunduz Tapah",
+        "\u06a9\u0646\u062f\u0632 \u062a\u067e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128972
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0eb77b73bc37c07247df051a353cfb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1293106125,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293106125,
+    "wof:lastmodified":1537580672,
+    "wof:name":"Kunduz Tapah",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62609,
+    36.08024,
+    68.62609,
+    36.08024
+],
+  "geometry": {"coordinates":[68.62609,36.08024],"type":"Point"}
+}

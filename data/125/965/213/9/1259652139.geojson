@@ -1,0 +1,75 @@
+{
+  "id": 1259652139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45639,31.4825,67.45639,31.4825",
+    "geom:latitude":31.4825,
+    "geom:longitude":67.45639,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Lekah Sheway",
+    "gn:country_code":"AF",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1134654,
+    "gn:latitude":31.4825,
+    "gn:longitude":67.45639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u00eakah Sh\u00eaway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Leka \u0160eway",
+        "Likashivay",
+        "L\u00eakah Sh\u00eaway",
+        "Lekah Sheway",
+        "\u0644\u06a9\u0647 \u0634\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c078db4e561c67e81adbf58649e938cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1259652139,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259652139,
+    "wof:lastmodified":1537581192,
+    "wof:name":"Lekah Sheway",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45639,
+    31.4825,
+    67.45639,
+    31.4825
+],
+  "geometry": {"coordinates":[67.45639,31.4825],"type":"Point"}
+}

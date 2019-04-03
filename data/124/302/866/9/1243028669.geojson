@@ -1,0 +1,84 @@
+{
+  "id": 1243028669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.82,37.33611,66.82,37.33611",
+    "geom:latitude":37.33611,
+    "geom:longitude":66.82,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1604",
+    "gn:asciiname":"Shor Tepe",
+    "gn:country_code":"AF",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124727,
+    "gn:latitude":37.33611,
+    "gn:longitude":66.82,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shor Tepe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shor Tapa",
+        "S\u0304o\u1e5ftapa",
+        "Shor Tappeh",
+        "Sh\u016br Teypah",
+        "Shor Tepe",
+        "Shur\u2019-tepe",
+        "Shor Tepa",
+        "Sh\u016br Tappeh",
+        "Sh\u014dr Tepah",
+        "\u0634\u0648\u0631 \u062a\u067e\u0647"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u2018rtepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124727,
+        "wk:page":"Shur_Tappeh%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2099c16e8dc79d5f2c7f19609829bd19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562509,
+            "locality_id":1243028669,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243028669,
+    "wof:lastmodified":1537580323,
+    "wof:name":"Shor Tepe",
+    "wof:parent_id":1108562509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.82,
+    37.33611,
+    66.82,
+    37.33611
+],
+  "geometry": {"coordinates":[66.81999999999999,37.33611],"type":"Point"}
+}

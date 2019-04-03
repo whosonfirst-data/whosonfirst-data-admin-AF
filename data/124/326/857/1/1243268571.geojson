@@ -1,0 +1,74 @@
+{
+  "id": 1243268571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99309,35.36455,67.99309,35.36455",
+    "geom:latitude":35.36455,
+    "geom:longitude":67.99309,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Fayrozak",
+    "gn:country_code":"AF",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142157,
+    "gn:latitude":35.36455,
+    "gn:longitude":67.99309,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fayr\u014dzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fer\u014dzak",
+        "F\u012br\u016bzak",
+        "Fayr\u014dzak",
+        "\u0641\u06cc\u0631\u0648\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142157
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3b9bc204c18e005cd5ef60d0af97b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1243268571,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243268571,
+    "wof:lastmodified":1537581803,
+    "wof:name":"Fayrozak",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99309000000001,
+    35.36455,
+    67.99309000000001,
+    35.36455
+],
+  "geometry": {"coordinates":[67.99309000000001,35.36455],"type":"Point"}
+}

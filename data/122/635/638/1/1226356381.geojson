@@ -1,0 +1,73 @@
+{
+  "id": 1226356381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46395,37.12781,70.46395,37.12781",
+    "geom:latitude":37.12781,
+    "geom:longitude":70.46395,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115.0",
+    "gn:asciiname":"Turugh",
+    "gn:country_code":"AF",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468018,
+    "gn:latitude":37.12781,
+    "gn:longitude":70.46395,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u016brugh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162\u016brugh",
+        "\u0637\u0648\u0631\u063a",
+        "\u1e6e\u016b\u1e5fugh (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468018
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a4dc2bef87a1420a792f3d57172a911a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1226356381,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226356381,
+    "wof:lastmodified":1537583522,
+    "wof:name":"Turugh",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46395,
+    37.12781,
+    70.46395,
+    37.12781
+],
+  "geometry": {"coordinates":[70.46395,37.12781],"type":"Point"}
+}

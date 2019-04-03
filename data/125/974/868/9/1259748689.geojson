@@ -1,0 +1,72 @@
+{
+  "id": 1259748689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.85333,31.06056,61.85333,31.06056",
+    "geom:latitude":31.06056,
+    "geom:longitude":61.85333,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Taj Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436325,
+    "gn:latitude":31.06056,
+    "gn:longitude":61.85333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101j Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101jmo\u1e96\u1e0f",
+        "T\u0101j Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436325
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17f92ab798cab76749d7adb3e8ec9162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1259748689,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1259748689,
+    "wof:lastmodified":1537582818,
+    "wof:name":"Taj Muhammad",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.85333000000001,
+    31.06056,
+    61.85333000000001,
+    31.06056
+],
+  "geometry": {"coordinates":[61.85333000000001,31.06056],"type":"Point"}
+}

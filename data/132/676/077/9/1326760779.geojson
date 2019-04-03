@@ -1,0 +1,77 @@
+{
+  "id": 1326760779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43444,32.92728,65.43444,32.92728",
+    "geom:latitude":32.92728,
+    "geom:longitude":65.43444,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604",
+    "gn:asciiname":"Yak Qoryah",
+    "gn:country_code":"AF",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121315,
+    "gn:latitude":32.92728,
+    "gn:longitude":65.43444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yak Q\u014dryah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Yakkor\u2019ya"
+    ],
+    "name:und_x_variant":[
+        "Yakq\u014d\u1e5fya",
+        "Yak Q\u014dryah",
+        "\u06cc\u06a9 \u0642\u0648\u0631\u06cc\u0647",
+        "Yek Q\u016bryeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121315
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e82c9466408f35206a87e68b9a6826c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562455,
+            "locality_id":1326760779,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1326760779,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yak Qoryah",
+    "wof:parent_id":1108562455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43444000000001,
+    32.92728,
+    65.43444000000001,
+    32.92728
+],
+  "geometry": {"coordinates":[65.43444000000001,32.92728],"type":"Point"}
+}

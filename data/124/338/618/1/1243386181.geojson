@@ -1,0 +1,74 @@
+{
+  "id": 1243386181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.58323,34.30098,66.58323,34.30098",
+    "geom:latitude":34.30098,
+    "geom:longitude":66.58323,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Nawah-ye Karah",
+    "gn:country_code":"AF",
+    "gn:dem":2896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132149,
+    "gn:latitude":34.30098,
+    "gn:longitude":66.58323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101wah-ye Karah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101wa-i-Ka\u1e5fa",
+        "Navayi-Kara",
+        "N\u0101wah-ye Karah",
+        "\u0646\u0627\u0648\u0647 \u06a9\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132149
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b16bfd10c2d3cf550a8153ba68c1e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1243386181,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243386181,
+    "wof:lastmodified":1537580984,
+    "wof:name":"Nawah-ye Karah",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.58323,
+    34.30098,
+    66.58323,
+    34.30098
+],
+  "geometry": {"coordinates":[66.58323,34.30098],"type":"Point"}
+}

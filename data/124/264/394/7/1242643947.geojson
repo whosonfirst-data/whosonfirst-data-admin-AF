@@ -1,0 +1,75 @@
+{
+  "id": 1242643947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.02038,34.52804,68.02038,34.52804",
+    "geom:latitude":34.52804,
+    "geom:longitude":68.02038,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Dasht-e Moshak",
+    "gn:country_code":"AF",
+    "gn:dem":3260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455694,
+    "gn:latitude":34.52804,
+    "gn:longitude":68.02038,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht-e M\u014dshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashtimushak",
+        "Da\u0161ti-m\u016b\u0161ak",
+        "Dasht-e M\u016bshak",
+        "Dasht-e M\u014dshak",
+        "\u062f\u0634\u062a \u0645\u0648\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455694
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e7d6e6754688327a069f8feb88f4c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1242643947,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242643947,
+    "wof:lastmodified":1537583157,
+    "wof:name":"Dasht-e Moshak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.02038,
+    34.52804,
+    68.02038,
+    34.52804
+],
+  "geometry": {"coordinates":[68.02038,34.52804],"type":"Point"}
+}

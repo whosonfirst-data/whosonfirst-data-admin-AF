@@ -1,0 +1,80 @@
+{
+  "id": 1310542181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84908,34.77546,70.84908,34.77546",
+    "geom:latitude":34.77546,
+    "geom:longitude":70.84908,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Murchah Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474103,
+    "gn:latitude":34.77546,
+    "gn:longitude":70.84908,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016brchah Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0686\u0647 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Murchakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Mur\u010dakh\u0113l",
+        "M\u016brchehkheyl",
+        "M\u016brchah Kh\u0113l",
+        "\u0645\u0648\u0631\u0686\u0647 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474103
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc9f606ca1eb6b848ed9d1cfad8c1f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561913,
+            "locality_id":1310542181,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1310542181,
+    "wof:lastmodified":1537583781,
+    "wof:name":"Murchah Khel",
+    "wof:parent_id":1108561913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84908,
+    34.77546,
+    70.84908,
+    34.77546
+],
+  "geometry": {"coordinates":[70.84908,34.77546],"type":"Point"}
+}

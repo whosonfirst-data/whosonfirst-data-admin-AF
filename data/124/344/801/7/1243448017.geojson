@@ -1,0 +1,78 @@
+{
+  "id": 1243448017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05517,32.99391,65.05517,32.99391",
+    "geom:latitude":32.99391,
+    "geom:longitude":65.05517,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Sar Shirmin",
+    "gn:country_code":"AF",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126824,
+    "gn:latitude":32.99391,
+    "gn:longitude":65.05517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Shirm\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar \u0160erm\u012bn",
+        "Sarshirmin",
+        "Sa\u1e5f S\u0304\u0113m\u012bn",
+        "Sa\u1e5f S\u0304\u0113lm\u012bn",
+        "Sar Sh\u0113lm\u012bn",
+        "Sar Shirm\u012bn",
+        "\u0633\u0631 \u0634\u0631\u0645\u06cc\u0646",
+        "Sar Sherm\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126824
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0bb0d4a617fe759e550fc850172b2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1243448017,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243448017,
+    "wof:lastmodified":1537580505,
+    "wof:name":"Sar Shirmin",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05516999999999,
+    32.99391,
+    65.05516999999999,
+    32.99391
+],
+  "geometry": {"coordinates":[65.05516999999999,32.99391],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209975043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.49658,32.04877,65.49658,32.04877",
+    "geom:latitude":32.04877,
+    "geom:longitude":65.49658,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2405",
+    "gn:asciiname":"Shotur Gardan",
+    "gn:country_code":"AF",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124911,
+    "gn:latitude":32.04877,
+    "gn:longitude":65.49658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shotur Gardan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuturgardan",
+        "Shutar Gardan",
+        "Shutar Gardaneh",
+        "\u0160otur Gardan",
+        "Shotur Gardan",
+        "\u0634\u062a\u0631 \u06af\u0631\u062f\u0646",
+        "Shotor Gardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124911
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f3280e6f29670b4734591fa7cd02446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562141,
+            "locality_id":1209975043,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209975043,
+    "wof:lastmodified":1537580337,
+    "wof:name":"Shotur Gardan",
+    "wof:parent_id":1108562141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.49658000000001,
+    32.04877,
+    65.49658000000001,
+    32.04877
+],
+  "geometry": {"coordinates":[65.49658000000001,32.04877],"type":"Point"}
+}

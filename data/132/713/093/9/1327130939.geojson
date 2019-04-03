@@ -1,0 +1,73 @@
+{
+  "id": 1327130939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.36667,35.5,64.36667,35.5",
+    "geom:latitude":35.5,
+    "geom:longitude":64.36667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Khosh Bay",
+    "gn:country_code":"AF",
+    "gn:dem":2492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120485,
+    "gn:latitude":35.5,
+    "gn:longitude":64.36667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh B\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khus\u0304b\u0101y",
+        "Khvosh B\u0101y",
+        "Kh\u014dsh B\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120485
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"388eb1f645d82e49b5dd6d959b7b930b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1327130939,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1327130939,
+    "wof:lastmodified":1537579948,
+    "wof:name":"Khosh Bay",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.36667,
+    35.5,
+    64.36667,
+    35.5
+],
+  "geometry": {"coordinates":[64.36667,35.5],"type":"Point"}
+}

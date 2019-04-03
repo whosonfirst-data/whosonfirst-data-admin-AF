@@ -1,0 +1,74 @@
+{
+  "id": 1209791453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46157,34.08834,70.46157,34.08834",
+    "geom:latitude":34.08834,
+    "geom:longitude":70.46157,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"808",
+    "gn:asciiname":"Tangay",
+    "gn:country_code":"AF",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139870,
+    "gn:latitude":34.08834,
+    "gn:longitude":70.46157,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tangay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iangay",
+        "Tanga\u012b",
+        "\u062a\u0646\u06af\u06cc",
+        "Tangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139870
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"edceb5cc9ce52ce30da0eb040f6dc1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561971,
+            "locality_id":1209791453,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1209791453,
+    "wof:lastmodified":1537581613,
+    "wof:name":"Tangay",
+    "wof:parent_id":1108561971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46157,
+    34.08834,
+    70.46157,
+    34.08834
+],
+  "geometry": {"coordinates":[70.46156999999999,34.08834],"type":"Point"}
+}

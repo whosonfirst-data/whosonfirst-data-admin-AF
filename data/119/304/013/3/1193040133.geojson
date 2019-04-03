@@ -1,0 +1,73 @@
+{
+  "id": 1193040133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.49292,33.15151,63.49292,33.15151",
+    "geom:latitude":33.15151,
+    "geom:longitude":63.49292,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Palang Dunag",
+    "gn:country_code":"AF",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131237,
+    "gn:latitude":33.15151,
+    "gn:longitude":63.49292,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Palang D\u016bnag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palangdunag",
+        "Palang D\u016bnag",
+        "\u067e\u0644\u0646\u06af \u062f\u0648\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131237
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"380d4d29016a1267abad7b63817f9225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1193040133,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1193040133,
+    "wof:lastmodified":1537580905,
+    "wof:name":"Palang Dunag",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.49292,
+    33.15150999999999,
+    63.49292,
+    33.15150999999999
+],
+  "geometry": {"coordinates":[63.49292,33.15150999999999],"type":"Point"}
+}

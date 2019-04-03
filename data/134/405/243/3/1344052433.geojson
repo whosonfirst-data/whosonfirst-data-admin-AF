@@ -1,0 +1,75 @@
+{
+  "id": 1344052433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70505,33.44353,68.70505,33.44353",
+    "geom:latitude":33.44353,
+    "geom:longitude":68.70505,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"615",
+    "gn:asciiname":"Maytar",
+    "gn:country_code":"AF",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133485,
+    "gn:latitude":33.44353,
+    "gn:longitude":68.70505,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maytar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metar",
+        "M\u0113tar",
+        "M\u0113ta\u1e5f",
+        "Maytar",
+        "\u0645\u06cc\u062a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133485
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c6b681a66c0cbcbeaec62ac13bc3766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1344052433,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1344052433,
+    "wof:lastmodified":1537581099,
+    "wof:name":"Maytar",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70505,
+    33.44353,
+    68.70505,
+    33.44353
+],
+  "geometry": {"coordinates":[68.70505,33.44353],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310345963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.17011,34.66317,70.17011,34.66317",
+    "geom:latitude":34.66317,
+    "geom:longitude":70.17011,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901",
+    "gn:asciiname":"Shergar",
+    "gn:country_code":"AF",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125020,
+    "gn:latitude":34.66317,
+    "gn:longitude":70.17011,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113rga\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113rgar",
+        "Shergar",
+        "Sh\u0113\u1e5fgar",
+        "Sh\u012brgar",
+        "Shayrga\u1e5f",
+        "\u0634\u06cc\u0631\u06af\u0693",
+        "Sh\u0113rga\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b295e2eeefcb22039fa8da03c1a601c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1310345963,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1310345963,
+    "wof:lastmodified":1537580348,
+    "wof:name":"Shergar",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.17011,
+    34.66317,
+    70.17011,
+    34.66317
+],
+  "geometry": {"coordinates":[70.17010999999999,34.66317],"type":"Point"}
+}

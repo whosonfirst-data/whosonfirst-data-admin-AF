@@ -1,0 +1,81 @@
+{
+  "id": 1343929219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71467,34.56841,69.71467,34.56841",
+    "geom:latitude":34.56841,
+    "geom:longitude":69.71467,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Sar Chashmah",
+    "gn:country_code":"AF",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127335,
+    "gn:latitude":34.56841,
+    "gn:longitude":69.71467,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Chashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0686\u0634\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar Chashmeh",
+        "Sarchashma",
+        "Sar\u010de\u0161ma",
+        "Sarcheshmeh",
+        "Sar Chashmah",
+        "\u0633\u0631 \u0686\u0634\u0645\u0647",
+        "Sar Chashmah K\u00ealay",
+        "\u0633\u0631 \u0686\u0634\u0645\u0647 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127335
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17b1ea98457249294c16ddff19d67635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1343929219,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1343929219,
+    "wof:lastmodified":1537580549,
+    "wof:name":"Sar Chashmah",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71467,
+    34.56841,
+    69.71467,
+    34.56841
+],
+  "geometry": {"coordinates":[69.71467,34.56841],"type":"Point"}
+}

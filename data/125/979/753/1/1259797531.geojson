@@ -1,0 +1,73 @@
+{
+  "id": 1259797531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48028,37.57417,70.48028,37.57417",
+    "geom:latitude":37.57417,
+    "geom:longitude":70.48028,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Puska Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467490,
+    "gn:latitude":37.57417,
+    "gn:longitude":70.48028,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pusk\u0101 Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusk\u0101 Kh\u0101n",
+        "\u067e\u0633\u06a9\u0627 \u062e\u0627\u0646",
+        "Posk\u0101 Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cb96e92c1d20aa3d2b9e9388f52931e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1259797531,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259797531,
+    "wof:lastmodified":1537583481,
+    "wof:name":"Puska Khan",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48028000000002,
+    37.57417,
+    70.48028000000002,
+    37.57417
+],
+  "geometry": {"coordinates":[70.48028000000002,37.57417],"type":"Point"}
+}

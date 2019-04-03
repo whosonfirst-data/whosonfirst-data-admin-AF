@@ -1,0 +1,76 @@
+{
+  "id": 1326570735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.19652,34.87337,71.19652,34.87337",
+    "geom:latitude":34.87337,
+    "geom:longitude":71.19652,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1002.0",
+    "gn:asciiname":"Sangam",
+    "gn:country_code":"AF",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451891,
+    "gn:latitude":34.87337,
+    "gn:longitude":71.19652,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0101ng\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u0645"
+    ],
+    "name:und_x_variant":[
+        "S\u0101ng\u0101m",
+        "\u0633\u0627\u0646\u06af\u0627\u0645",
+        "Sangam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451891
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7cfda9cb6d73c5b840922014f3b96440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562245,
+            "locality_id":1326570735,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326570735,
+    "wof:lastmodified":1537583078,
+    "wof:name":"Sangam",
+    "wof:parent_id":1108562245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.19651999999998,
+    34.87337,
+    71.19651999999998,
+    34.87337
+],
+  "geometry": {"coordinates":[71.19651999999998,34.87337],"type":"Point"}
+}

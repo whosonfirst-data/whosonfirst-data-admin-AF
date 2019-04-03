@@ -1,0 +1,74 @@
+{
+  "id": 1259767613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39863,34.553,66.39863,34.553",
+    "geom:latitude":34.553,
+    "geom:longitude":66.39863,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Jar-e Badal",
+    "gn:country_code":"AF",
+    "gn:dem":3057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139440,
+    "gn:latitude":34.553,
+    "gn:longitude":66.39863,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e Badal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhari-Badal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u062c\u0631 \u0628\u062f\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139440
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"511068f0aacacff45ded3aa679ef2456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1259767613,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259767613,
+    "wof:lastmodified":1537581576,
+    "wof:name":"Jar-e Badal",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39863000000001,
+    34.553,
+    66.39863000000001,
+    34.553
+],
+  "geometry": {"coordinates":[66.39863000000001,34.553],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293555511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65532,34.0562,70.65532,34.0562",
+    "geom:latitude":34.0562,
+    "geom:longitude":70.65532,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810",
+    "gn:asciiname":"Kartatut",
+    "gn:country_code":"AF",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137794,
+    "gn:latitude":34.0562,
+    "gn:longitude":70.65532,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kart\u0101t\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u062a\u0627 \u062a\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ka\u1e5ft\u0101t\u016bt",
+        "Kart\u0101 \u1e6e\u016b\u1e6f",
+        "Kart\u0101t\u016bt",
+        "\u06a9\u0631\u062a\u0627\u062a\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137794
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c39f3b9e9844a0c8ab1f6ca92daf49be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1293555511,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1293555511,
+    "wof:lastmodified":1537581443,
+    "wof:name":"Kartatut",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65531999999997,
+    34.0562,
+    70.65531999999997,
+    34.0562
+],
+  "geometry": {"coordinates":[70.65531999999997,34.0562],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243276609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.05499,34.82003,64.05499,34.82003",
+    "geom:latitude":34.82003,
+    "geom:longitude":64.05499,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904.0",
+    "gn:asciiname":"Anjirak",
+    "gn:country_code":"AF",
+    "gn:dem":2009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8304496,
+    "gn:latitude":34.82003,
+    "gn:longitude":64.05499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Anj\u012brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Anj\u012brak",
+        "\u0627\u0646\u062c\u06cc\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304496
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ec098fc89a5fa3fefbbd2658d50b7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1243276609,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243276609,
+    "wof:lastmodified":1537583940,
+    "wof:name":"Anjirak",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.05499,
+    34.82003,
+    64.05499,
+    34.82003
+],
+  "geometry": {"coordinates":[64.05499,34.82003],"type":"Point"}
+}

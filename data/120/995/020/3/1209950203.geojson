@@ -1,0 +1,73 @@
+{
+  "id": 1209950203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70197,33.76008,66.70197,33.76008",
+    "geom:latitude":33.76008,
+    "geom:longitude":66.70197,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Baliband",
+    "gn:country_code":"AF",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147298,
+    "gn:latitude":33.76008,
+    "gn:longitude":66.70197,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101liband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101l\u012b Band",
+        "B\u0101liband",
+        "\u0628\u0627\u0644\u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147298
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3657803aeeada8c2ab73664eaa345022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1209950203,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1209950203,
+    "wof:lastmodified":1537582254,
+    "wof:name":"Baliband",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70196999999999,
+    33.76008,
+    66.70196999999999,
+    33.76008
+],
+  "geometry": {"coordinates":[66.70196999999999,33.76008],"type":"Point"}
+}

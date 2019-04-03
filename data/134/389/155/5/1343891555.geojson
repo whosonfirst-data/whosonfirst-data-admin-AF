@@ -1,0 +1,68 @@
+{
+  "id": 1343891555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66667,37.41667,65.66667,37.41667",
+    "geom:latitude":37.41667,
+    "geom:longitude":65.66667,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1709",
+    "gn:asciiname":"Kawk",
+    "gn:country_code":"AF",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137605,
+    "gn:latitude":37.41667,
+    "gn:longitude":65.66667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kawk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137605
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"122a3eddd21b284c62f6e5e453933b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562143,
+            "locality_id":1343891555,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1343891555,
+    "wof:lastmodified":1536619649,
+    "wof:name":"Kawk",
+    "wof:parent_id":1108562143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66667,
+    37.41667,
+    65.66667,
+    37.41667
+],
+  "geometry": {"coordinates":[65.66667,37.41667],"type":"Point"}
+}

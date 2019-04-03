@@ -1,0 +1,81 @@
+{
+  "id": 1276292071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72277,36.69624,66.72277,36.69624",
+    "geom:latitude":36.69624,
+    "geom:longitude":66.72277,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608",
+    "gn:asciiname":"Jar Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139366,
+    "gn:latitude":36.69624,
+    "gn:longitude":66.72277,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0631 \u0642\u0644\u0639\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dzharkala",
+        "Jar Qala",
+        "J\u0101r Qal\u2018eh",
+        "Jar Qal\u2018ah",
+        "\u062c\u0631 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139366
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ecb9c682274e32388fb4e8293da517e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1276292071,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276292071,
+    "wof:lastmodified":1537581570,
+    "wof:name":"Jar Qal'ah",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72277,
+    36.69624,
+    66.72277,
+    36.69624
+],
+  "geometry": {"coordinates":[66.72277,36.69624],"type":"Point"}
+}

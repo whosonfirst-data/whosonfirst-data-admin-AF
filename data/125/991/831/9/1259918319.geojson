@@ -1,0 +1,74 @@
+{
+  "id": 1259918319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17111,35.24636,69.17111,35.24636",
+    "geom:latitude":35.24636,
+    "geom:longitude":69.17111,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Ghow",
+    "gn:country_code":"AF",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423188,
+    "gn:latitude":35.24636,
+    "gn:longitude":69.17111,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gav",
+        "Ghaw",
+        "Ghow",
+        "\u063a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423188
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f82db6ac2155215f117d2a20dba8bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1259918319,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1259918319,
+    "wof:lastmodified":1537582549,
+    "wof:name":"Ghow",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17111,
+    35.24636,
+    69.17111,
+    35.24636
+],
+  "geometry": {"coordinates":[69.17111,35.24636],"type":"Point"}
+}

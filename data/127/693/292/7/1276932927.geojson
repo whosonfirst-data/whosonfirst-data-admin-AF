@@ -1,0 +1,75 @@
+{
+  "id": 1276932927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.46388,31.83802,65.46388,31.83802",
+    "geom:latitude":31.83802,
+    "geom:longitude":65.46388,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2405",
+    "gn:asciiname":"Salamak",
+    "gn:country_code":"AF",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127874,
+    "gn:latitude":31.83802,
+    "gn:longitude":65.46388,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sal\u0101mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0627\u0645\u0643"
+    ],
+    "name:und_x_variant":[
+        "Sal\u0101mak",
+        "\u0633\u0644\u0627\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127874
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"886203c300e2efa4b26d546861e71d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562141,
+            "locality_id":1276932927,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276932927,
+    "wof:lastmodified":1537580585,
+    "wof:name":"Salamak",
+    "wof:parent_id":1108562141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.46388,
+    31.83802,
+    65.46388,
+    31.83802
+],
+  "geometry": {"coordinates":[65.46388,31.83802],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293638025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.128,36.116,66.128,36.116",
+    "geom:latitude":36.116,
+    "geom:longitude":66.128,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101",
+    "gn:asciiname":"Latah Band",
+    "gn:country_code":"AF",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134701,
+    "gn:latitude":36.116,
+    "gn:longitude":66.128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Latah Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lata Band",
+        "Latah Band",
+        "\u0644\u062a\u0647 \u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134701
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d66a97e006d10a2988c68af769822cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1293638025,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1293638025,
+    "wof:lastmodified":1537581195,
+    "wof:name":"Latah Band",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.128,
+    36.116,
+    66.128,
+    36.116
+],
+  "geometry": {"coordinates":[66.128,36.116],"type":"Point"}
+}

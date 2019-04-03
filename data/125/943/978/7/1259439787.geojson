@@ -1,0 +1,81 @@
+{
+  "id": 1259439787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.32846,36.66381,69.32846,36.66381",
+    "geom:latitude":36.66381,
+    "geom:longitude":69.32846,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202",
+    "gn:asciiname":"Pashah Khor",
+    "gn:country_code":"AF",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131007,
+    "gn:latitude":36.66381,
+    "gn:longitude":69.32846,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pashah Kh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u0627 \u062e\u0648\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u0430\u0445\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Pa\u0161a Khor",
+        "Pashakhor",
+        "P\u0101sh\u0101 Khowr",
+        "Pashah Kh\u014dr",
+        "\u067e\u0634\u0647 \u062e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131007
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25331cb26b10b4c89bc4afaf36ec7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1259439787,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1259439787,
+    "wof:lastmodified":1537580888,
+    "wof:name":"Pashah Khor",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.32845999999999,
+    36.66381,
+    69.32845999999999,
+    36.66381
+],
+  "geometry": {"coordinates":[69.32845999999999,36.66381],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259867519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.80736,34.48498,62.80736,34.48498",
+    "geom:latitude":34.48498,
+    "geom:longitude":62.80736,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2005",
+    "gn:asciiname":"Kushurmand",
+    "gn:country_code":"AF",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135127,
+    "gn:latitude":34.48498,
+    "gn:longitude":62.80736,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kush\u016brmand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku\u0161\u016brmand",
+        "Kushurmand",
+        "Kushowrmand",
+        "Kush\u016brmand",
+        "\u06a9\u0634\u0648\u0631\u0645\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135127
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0c2785c9370608b5ac9bf626da45835a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562131,
+            "locality_id":1259867519,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259867519,
+    "wof:lastmodified":1537581227,
+    "wof:name":"Kushurmand",
+    "wof:parent_id":1108562131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80736,
+    34.48498,
+    62.80736,
+    34.48498
+],
+  "geometry": {"coordinates":[62.80736,34.48498],"type":"Point"}
+}

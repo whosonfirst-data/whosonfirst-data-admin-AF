@@ -1,0 +1,79 @@
+{
+  "id": 1243461813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72554,36.32666,68.72554,36.32666",
+    "geom:latitude":36.32666,
+    "geom:longitude":68.72554,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1311.0",
+    "gn:asciiname":"Larkhabi",
+    "gn:country_code":"AF",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409301,
+    "gn:latitude":36.32666,
+    "gn:longitude":68.72554,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Larkh\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0631\u062e\u0627\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0445\u0430\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "L\u0101rkh\u0101b\u012b",
+        "Larkh\u0101b\u012b",
+        "\u0644\u0631\u062e\u0627\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409301
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4682bb2219a8e7934febc4ad7045b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1243461813,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1243461813,
+    "wof:lastmodified":1537582525,
+    "wof:name":"Larkhabi",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72554000000001,
+    36.32666,
+    68.72554000000001,
+    36.32666
+],
+  "geometry": {"coordinates":[68.72554000000001,36.32666],"type":"Point"}
+}

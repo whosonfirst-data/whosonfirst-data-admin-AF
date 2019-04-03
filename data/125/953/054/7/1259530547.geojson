@@ -1,0 +1,73 @@
+{
+  "id": 1259530547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69609,32.82979,68.69609,32.82979",
+    "geom:latitude":32.82979,
+    "geom:longitude":68.69609,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2907.0",
+    "gn:asciiname":"Kakay",
+    "gn:country_code":"AF",
+    "gn:dem":2290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453661,
+    "gn:latitude":32.82979,
+    "gn:longitude":68.69609,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u06a9\u06cc",
+        "Kalay",
+        "Kakay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453661
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"441a3082e3f8f0391aa626ca0e2abdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562341,
+            "locality_id":1259530547,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259530547,
+    "wof:lastmodified":1537583108,
+    "wof:name":"Kakay",
+    "wof:parent_id":1108562341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69609,
+    32.82979,
+    68.69609,
+    32.82979
+],
+  "geometry": {"coordinates":[68.69609,32.82979],"type":"Point"}
+}

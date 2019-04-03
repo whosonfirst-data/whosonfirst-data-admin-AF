@@ -1,0 +1,74 @@
+{
+  "id": 1343404187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.014,33.54315,70.014,33.54315",
+    "geom:latitude":33.54315,
+    "geom:longitude":70.014,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3210.0",
+    "gn:asciiname":"Surkey",
+    "gn:country_code":"AF",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345526,
+    "gn:latitude":33.54315,
+    "gn:longitude":70.014,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surk\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serkay",
+        "S\u0113rkay",
+        "Surk\u00eay",
+        "\u0633\u0631\u06a9\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108561841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345526
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6229ed6b76a7b5b3093141eae6cbde6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561841,
+            "locality_id":1343404187,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1343404187,
+    "wof:lastmodified":1537582441,
+    "wof:name":"Surkey",
+    "wof:parent_id":1108561841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.014,
+    33.54315,
+    70.014,
+    33.54315
+],
+  "geometry": {"coordinates":[70.014,33.54315],"type":"Point"}
+}

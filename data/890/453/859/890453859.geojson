@@ -1,0 +1,73 @@
+{
+  "id": 890453859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.59066,31.80219,65.59066,31.80219",
+    "geom:latitude":31.80219,
+    "geom:longitude":65.59066,
+    "gn:country":"AF",
+    "gn:fcode":"MT",
+    "gn:pop":1563,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0648\u0631\u0633\u0643"
+    ],
+    "name:unk_x_variant":[
+        "Gora Kharvarsak"
+    ],
+    "qs:name":"Kh\u00ea\u1e5f W\u00ears\u00eak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136892,
+        "gp:id":1935237,
+        "qs:id":84197
+    },
+    "wof:country":"AF",
+    "wof:created":1469052876,
+    "wof:geomhash":"8d71626066fe1973bc545c32114edb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561811,
+            "locality_id":890453859,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":890453859,
+    "wof:lastmodified":1505343653,
+    "wof:name":"Kh\u00ea\u1e5f W\u00ears\u00eak",
+    "wof:parent_id":1108561811,
+    "wof:placetype":"locality",
+    "wof:population":1563,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.59066,
+    31.80219,
+    65.59066,
+    31.80219
+],
+  "geometry": {"coordinates":[65.59066,31.80219],"type":"Point"}
+}

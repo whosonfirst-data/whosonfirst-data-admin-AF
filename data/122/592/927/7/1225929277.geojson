@@ -1,0 +1,81 @@
+{
+  "id": 1225929277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61023,33.32998,67.61023,33.32998",
+    "geom:latitude":33.32998,
+    "geom:longitude":67.61023,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Qutulank",
+    "gn:country_code":"AF",
+    "gn:dem":2931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128729,
+    "gn:latitude":33.32998,
+    "gn:longitude":67.61023,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u016b\u0163\u016blank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0637\u0648\u0644\u0646\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u0443\u043b\u0430\u043d\u043a"
+    ],
+    "name:und_x_variant":[
+        "Q\u016b\u1e6f\u016blank",
+        "Kutulank",
+        "Qow\u0163owlank",
+        "Q\u016b\u0163\u016blank",
+        "\u0642\u0648\u0637\u0648\u0644\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128729
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4231835d9e8aece53b0e16b01a2891a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1225929277,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225929277,
+    "wof:lastmodified":1537580647,
+    "wof:name":"Qutulank",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61023,
+    33.32998,
+    67.61023,
+    33.32998
+],
+  "geometry": {"coordinates":[67.61023,33.32998],"type":"Point"}
+}

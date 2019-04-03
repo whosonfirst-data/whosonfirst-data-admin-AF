@@ -1,0 +1,79 @@
+{
+  "id": 1292969359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.74522,31.91394,65.74522,31.91394",
+    "geom:latitude":31.91394,
+    "geom:longitude":65.74522,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Mianzkal",
+    "gn:country_code":"AF",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133350,
+    "gn:latitude":31.91394,
+    "gn:longitude":65.74522,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012b\u0101nzk\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0627\u0646\u0643\u0627\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Mianzkal\u2019"
+    ],
+    "name:und_x_variant":[
+        "My\u0101nzk\u0101l",
+        "\u0645\u06cc\u0627\u0646\u0632\u06a9\u0627\u0644",
+        "M\u012b\u0101nzk\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133350
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"01811223853d0868a3baa3073dffafec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1292969359,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1292969359,
+    "wof:lastmodified":1537581087,
+    "wof:name":"Mianzkal",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.74521999999999,
+    31.91394,
+    65.74521999999999,
+    31.91394
+],
+  "geometry": {"coordinates":[65.74521999999999,31.91394],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327016065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05099,34.78497,69.05099,34.78497",
+    "geom:latitude":34.78497,
+    "geom:longitude":69.05099,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"115.0",
+    "gn:asciiname":"Kowkan",
+    "gn:country_code":"AF",
+    "gn:dem":1992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349850,
+    "gn:latitude":34.78497,
+    "gn:longitude":69.05099,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kaukan",
+        "Kawk\u0101n",
+        "Kowk\u0101n",
+        "\u06a9\u0648\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349850
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6bdad399e093154cc982af91cc238dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562009,
+            "locality_id":1327016065,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1327016065,
+    "wof:lastmodified":1537582483,
+    "wof:name":"Kowkan",
+    "wof:parent_id":1108562009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05099,
+    34.78497,
+    69.05099,
+    34.78497
+],
+  "geometry": {"coordinates":[69.05099,34.78497],"type":"Point"}
+}

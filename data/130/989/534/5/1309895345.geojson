@@ -1,0 +1,76 @@
+{
+  "id": 1309895345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79753,34.13945,64.79753,34.13945",
+    "geom:latitude":34.13945,
+    "geom:longitude":64.79753,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Jar-e Ramazan",
+    "gn:country_code":"AF",
+    "gn:dem":2652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1139413,
+    "gn:latitude":34.13945,
+    "gn:longitude":64.79753,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e Rama\u1e95\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dzhari-Ramazan",
+        "Ja\u1e5fe \u1e5eama\u1e0f\u1e95\u0101n",
+        "J\u0101r-e Rama\u1e95\u0101n",
+        "Jar-e Rame\u1e95\u0101n",
+        "Jar-e Rama\u1e95\u0101n",
+        "\u062c\u0631 \u0631\u0645\u0636\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139413
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce89dc828c9b0b54af72e91fb8b9641a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1309895345,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309895345,
+    "wof:lastmodified":1537581574,
+    "wof:name":"Jar-e Ramazan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79753000000001,
+    34.13945,
+    64.79753000000001,
+    34.13945
+],
+  "geometry": {"coordinates":[64.79753000000001,34.13945],"type":"Point"}
+}

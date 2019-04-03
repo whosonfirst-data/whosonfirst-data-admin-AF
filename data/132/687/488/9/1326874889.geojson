@@ -1,0 +1,74 @@
+{
+  "id": 1326874889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14957,34.72178,70.14957,34.72178",
+    "geom:latitude":34.72178,
+    "geom:longitude":70.14957,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901.0",
+    "gn:asciiname":"Shakarman",
+    "gn:country_code":"AF",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474477,
+    "gn:latitude":34.72178,
+    "gn:longitude":70.14957,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakarm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160akarm\u0101n",
+        "Shakarman",
+        "Shakarm\u0101n",
+        "\u0634\u06a9\u0631\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474477
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b9dac31f36b22656e3f426993e0c7b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1326874889,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1326874889,
+    "wof:lastmodified":1537583808,
+    "wof:name":"Shakarman",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14957,
+    34.72178,
+    70.14957,
+    34.72178
+],
+  "geometry": {"coordinates":[70.14957,34.72178],"type":"Point"}
+}

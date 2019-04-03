@@ -1,0 +1,76 @@
+{
+  "id": 1293826831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.24353,35.36232,70.24353,35.36232",
+    "geom:latitude":35.36232,
+    "geom:longitude":70.24353,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004",
+    "gn:asciiname":"Jena Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139186,
+    "gn:latitude":35.36232,
+    "gn:longitude":70.24353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jen\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhinakhayl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u062c\u0646\u0627 \u062e\u06d0\u0644",
+        "Jen\u0101kheyl",
+        "Jen\u0101 Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139186
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7dc3ddabae82d9aeec04586b5e24f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562241,
+            "locality_id":1293826831,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1293826831,
+    "wof:lastmodified":1537581556,
+    "wof:name":"Jena Khel",
+    "wof:parent_id":1108562241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.24353,
+    35.36232000000001,
+    70.24353,
+    35.36232000000001
+],
+  "geometry": {"coordinates":[70.24353000000001,35.36232000000001],"type":"Point"}
+}

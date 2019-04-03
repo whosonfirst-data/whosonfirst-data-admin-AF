@@ -1,0 +1,73 @@
+{
+  "id": 1226220387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.8281,34.2802,63.8281,34.2802",
+    "geom:latitude":34.2802,
+    "geom:longitude":63.8281,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Zalah",
+    "gn:country_code":"AF",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121092,
+    "gn:latitude":34.2802,
+    "gn:longitude":63.8281,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101la",
+        "Z\u0101lah",
+        "\u0632\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e1c570c8d1177406ff47b77b5178f2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1226220387,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226220387,
+    "wof:lastmodified":1537580023,
+    "wof:name":"Zalah",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.8281,
+    34.2802,
+    63.8281,
+    34.2802
+],
+  "geometry": {"coordinates":[63.8281,34.2802],"type":"Point"}
+}

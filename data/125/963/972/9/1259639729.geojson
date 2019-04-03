@@ -1,0 +1,76 @@
+{
+  "id": 1259639729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37436,32.42327,66.37436,32.42327",
+    "geom:latitude":32.42327,
+    "geom:longitude":66.37436,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414.0",
+    "gn:asciiname":"Chalbar",
+    "gn:country_code":"AF",
+    "gn:dem":2289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145549,
+    "gn:latitude":32.42327,
+    "gn:longitude":66.37436,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chalbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chal\u2019bar"
+    ],
+    "name:und_x_variant":[
+        "\u010calbar",
+        "Chalbar",
+        "\u0686\u0644\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145549
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9f7b2ba5251b2f76e144ce16d69299a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1259639729,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259639729,
+    "wof:lastmodified":1537582113,
+    "wof:name":"Chalbar",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37436,
+    32.42327,
+    66.37436,
+    32.42327
+],
+  "geometry": {"coordinates":[66.37436,32.42327],"type":"Point"}
+}

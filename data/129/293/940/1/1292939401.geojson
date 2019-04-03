@@ -1,0 +1,73 @@
+{
+  "id": 1292939401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7278,33.22532,66.7278,33.22532",
+    "geom:latitude":33.22532,
+    "geom:longitude":66.7278,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Katkay",
+    "gn:country_code":"AF",
+    "gn:dem":2568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137647,
+    "gn:latitude":33.22532,
+    "gn:longitude":66.7278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ka\u1e6fkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e6fkay",
+        "\u06a9\u067c\u06a9\u06cc",
+        "Katkay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137647
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6919086df00ba457d67bf11ca1fd6e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1292939401,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1292939401,
+    "wof:lastmodified":1537581431,
+    "wof:name":"Katkay",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7278,
+    33.22532,
+    66.7278,
+    33.22532
+],
+  "geometry": {"coordinates":[66.7278,33.22532],"type":"Point"}
+}

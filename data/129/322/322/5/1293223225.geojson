@@ -1,0 +1,73 @@
+{
+  "id": 1293223225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.66952,34.84469,66.66952,34.84469",
+    "geom:latitude":34.84469,
+    "geom:longitude":66.66952,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Sumipi",
+    "gn:country_code":"AF",
+    "gn:dem":2457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124203,
+    "gn:latitude":34.84469,
+    "gn:longitude":66.66952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sum\u012bp\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Som\u012bp\u012b",
+        "Sum\u012bp\u012b",
+        "\u0633\u0645\u064a\u067e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124203
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d958cf0eb0520348ad8d9ca0b28c0939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1293223225,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293223225,
+    "wof:lastmodified":1537580281,
+    "wof:name":"Sumipi",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.66951999999999,
+    34.84469,
+    66.66951999999999,
+    34.84469
+],
+  "geometry": {"coordinates":[66.66951999999999,34.84469],"type":"Point"}
+}

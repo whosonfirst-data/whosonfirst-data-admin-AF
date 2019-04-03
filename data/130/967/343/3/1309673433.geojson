@@ -1,0 +1,74 @@
+{
+  "id": 1309673433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59616,31.91107,66.59616,31.91107",
+    "geom:latitude":31.91107,
+    "geom:longitude":66.59616,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Hamid Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476984,
+    "gn:latitude":31.91107,
+    "gn:longitude":66.59616,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28am\u012bd K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamidkalay",
+        "\u062d\u0645\u06cc\u062f \u06a9\u0644\u06cc",
+        "\u1e28am\u012bd Kalay",
+        "\u1e28am\u012bd K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476984
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dfd50073e9fc806b88eddc24be29a5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1309673433,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1309673433,
+    "wof:lastmodified":1537583863,
+    "wof:name":"Hamid Kelay",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59616,
+    31.91107,
+    66.59616,
+    31.91107
+],
+  "geometry": {"coordinates":[66.59616,31.91107],"type":"Point"}
+}

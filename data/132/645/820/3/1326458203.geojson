@@ -1,0 +1,73 @@
+{
+  "id": 1326458203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.79595,36.73357,65.79595,36.73357",
+    "geom:latitude":36.73357,
+    "geom:longitude":65.79595,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701",
+    "gn:asciiname":"Yangi Ariq",
+    "gn:country_code":"AF",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121274,
+    "gn:latitude":36.73357,
+    "gn:longitude":65.79595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yang\u012b \u0100r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang\u012b \u0100r\u012bq",
+        "\u06cc\u0646\u06af\u06cc \u0622\u0631\u06cc\u0642",
+        "Yang\u012b Aregh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ad1cd9c79e371fb9bfa37e8cff14436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1326458203,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1326458203,
+    "wof:lastmodified":1537580033,
+    "wof:name":"Yangi Ariq",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.79595,
+    36.73357,
+    65.79595,
+    36.73357
+],
+  "geometry": {"coordinates":[65.79595,36.73357],"type":"Point"}
+}

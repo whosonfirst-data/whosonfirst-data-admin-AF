@@ -1,0 +1,73 @@
+{
+  "id": 1193023325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61576,36.12324,69.61576,36.12324",
+    "geom:latitude":36.12324,
+    "geom:longitude":69.61576,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1313",
+    "gn:asciiname":"Yamok",
+    "gn:country_code":"AF",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121283,
+    "gn:latitude":36.12324,
+    "gn:longitude":69.61576,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yam\u014dk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yam\u014dk",
+        "Yam\u016bk",
+        "\u06cc\u0645\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121283
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8eee4bc9b66628b74a6bb56db4647c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562003,
+            "locality_id":1193023325,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1193023325,
+    "wof:lastmodified":1537580034,
+    "wof:name":"Yamok",
+    "wof:parent_id":1108562003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61576,
+    36.12324,
+    69.61576,
+    36.12324
+],
+  "geometry": {"coordinates":[69.61575999999999,36.12324],"type":"Point"}
+}

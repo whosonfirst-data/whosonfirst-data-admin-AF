@@ -1,0 +1,74 @@
+{
+  "id": 1259680539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.52048,35.798,64.52048,35.798",
+    "geom:latitude":35.798,
+    "geom:longitude":64.52048,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1803",
+    "gn:asciiname":"Qilishli",
+    "gn:country_code":"AF",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129150,
+    "gn:latitude":35.798,
+    "gn:longitude":64.52048,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qilishl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qeles\u0304li",
+        "Qeleshl\u012b",
+        "Qilishl\u012b",
+        "\u0642\u0644\u0634\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129150
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6932d80d823d2a441a650066a4acb0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561799,
+            "locality_id":1259680539,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1259680539,
+    "wof:lastmodified":1537580689,
+    "wof:name":"Qilishli",
+    "wof:parent_id":1108561799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.52048,
+    35.798,
+    64.52048,
+    35.798
+],
+  "geometry": {"coordinates":[64.52048000000001,35.798],"type":"Point"}
+}

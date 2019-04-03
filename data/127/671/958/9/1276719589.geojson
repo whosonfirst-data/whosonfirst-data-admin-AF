@@ -1,0 +1,81 @@
+{
+  "id": 1276719589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96015,36.69339,68.96015,36.69339",
+    "geom:latitude":36.69339,
+    "geom:longitude":68.96015,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1401.0",
+    "gn:asciiname":"Baysh Kupruk",
+    "gn:country_code":"AF",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468012,
+    "gn:latitude":36.69339,
+    "gn:longitude":68.96015,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baysh Kupr\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0634 \u0643\u067e\u0631\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0443\u043f\u0440\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "B\u0113\u0161 Kupruk",
+        "Beshkupruk",
+        "B\u012bsh Koprok",
+        "Baysh Kupr\u016bk",
+        "\u0628\u06cc\u0634 \u06a9\u067e\u0631\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        421188181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468012
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5870993022be7d2b600bc04eeab801dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188181,
+            "locality_id":1276719589,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1276719589,
+    "wof:lastmodified":1537583522,
+    "wof:name":"Baysh Kupruk",
+    "wof:parent_id":421188181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96015,
+    36.69339,
+    68.96015,
+    36.69339
+],
+  "geometry": {"coordinates":[68.96015,36.69339],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226713595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28857,34.00796,69.28857,34.00796",
+    "geom:latitude":34.00796,
+    "geom:longitude":69.28857,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"504",
+    "gn:asciiname":"Pairam",
+    "gn:country_code":"AF",
+    "gn:dem":2583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130804,
+    "gn:latitude":34.00796,
+    "gn:longitude":69.28857,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pa\u012bram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Payram",
+        "Pa\u012bram",
+        "Pay\u1e5fam",
+        "\u067e\u06cc\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130804
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"561305222a7f6713ddb020a066074c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562169,
+            "locality_id":1226713595,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1226713595,
+    "wof:lastmodified":1537580869,
+    "wof:name":"Pairam",
+    "wof:parent_id":1108562169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28856999999999,
+    34.00796,
+    69.28856999999999,
+    34.00796
+],
+  "geometry": {"coordinates":[69.28856999999999,34.00796],"type":"Point"}
+}

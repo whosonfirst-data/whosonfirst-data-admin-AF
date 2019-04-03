@@ -1,0 +1,72 @@
+{
+  "id": 1276747813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.32879,34.58716,66.32879,34.58716",
+    "geom:latitude":34.58716,
+    "geom:longitude":66.32879,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Varakhu",
+    "gn:country_code":"AF",
+    "gn:dem":2962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456623,
+    "gn:latitude":34.58716,
+    "gn:longitude":66.32879,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Varakhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101r-\u0101h\u016b",
+        "\u0648\u0627\u0631 \u0622\u0647\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456623
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"799fb91b84f035e46cdda27c7bd434af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1276747813,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276747813,
+    "wof:lastmodified":1537583191,
+    "wof:name":"Varakhu",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.32879,
+    34.58716,
+    66.32879,
+    34.58716
+],
+  "geometry": {"coordinates":[66.32879,34.58716],"type":"Point"}
+}

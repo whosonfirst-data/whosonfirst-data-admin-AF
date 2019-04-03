@@ -1,0 +1,72 @@
+{
+  "id": 1310200931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.09525,33.87531,65.09525,33.87531",
+    "geom:latitude":33.87531,
+    "geom:longitude":65.09525,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"'Ali Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1148945,
+    "gn:latitude":33.87531,
+    "gn:longitude":65.09525,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u2018Al\u012b Kh\u0101n",
+        "\u0639\u0644\u06cc \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148945
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3a2516caec483744bdb8f9a9931389d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1310200931,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310200931,
+    "wof:lastmodified":1537582379,
+    "wof:name":"'Ali Khan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.09525,
+    33.87531,
+    65.09525,
+    33.87531
+],
+  "geometry": {"coordinates":[65.09524999999999,33.87531],"type":"Point"}
+}

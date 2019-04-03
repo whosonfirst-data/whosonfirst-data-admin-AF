@@ -1,0 +1,74 @@
+{
+  "id": 1243219879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.32084,32.38213,66.32084,32.38213",
+    "geom:latitude":32.38213,
+    "geom:longitude":66.32084,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414",
+    "gn:asciiname":"Lulah",
+    "gn:country_code":"AF",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134474,
+    "gn:latitude":32.38213,
+    "gn:longitude":66.32084,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u016bla",
+        "Lula",
+        "L\u016blah",
+        "\u0644\u0648\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134474
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea5049fc09d45a086c0672faff35e55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1243219879,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243219879,
+    "wof:lastmodified":1537581178,
+    "wof:name":"Lulah",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.32084,
+    32.38213,
+    66.32084,
+    32.38213
+],
+  "geometry": {"coordinates":[66.32084,32.38213],"type":"Point"}
+}

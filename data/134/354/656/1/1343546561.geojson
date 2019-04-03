@@ -1,0 +1,78 @@
+{
+  "id": 1343546561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20138,33.51184,68.20138,33.51184",
+    "geom:latitude":33.51184,
+    "geom:longitude":68.20138,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"602.0",
+    "gn:asciiname":"Pa'in Gandab",
+    "gn:country_code":"AF",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447234,
+    "gn:latitude":33.51184,
+    "gn:longitude":68.20138,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101\u2019\u012bn Gand\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0626\u064a\u0646 \u06af\u0646\u062f\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Payi-Gandab",
+        "P\u0101\u2019\u012bn Gand\u0101b",
+        "\u067e\u0627\u0626\u06cc\u0646 \u06af\u0646\u062f\u0627\u0628",
+        "Gand\u0101b",
+        "\u06af\u0646\u062f\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447234
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"41f48e4e7d980076ae2aeba081d51e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1343546561,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343546561,
+    "wof:lastmodified":1537582960,
+    "wof:name":"Pa'in Gandab",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20138,
+    33.51184,
+    68.20138,
+    33.51184
+],
+  "geometry": {"coordinates":[68.20138,33.51184],"type":"Point"}
+}

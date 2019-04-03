@@ -1,0 +1,73 @@
+{
+  "id": 1226147665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71593,34.1091,66.71593,34.1091",
+    "geom:latitude":34.1091,
+    "geom:longitude":66.71593,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Khushkak",
+    "gn:country_code":"AF",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458283,
+    "gn:latitude":34.1091,
+    "gn:longitude":66.71593,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khushkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khu\u0161kak",
+        "Khushkak",
+        "\u062e\u0634\u06a9\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458283
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"67b7ddc1e8eb1af49ec9cadaeea390a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1226147665,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226147665,
+    "wof:lastmodified":1537583263,
+    "wof:name":"Khushkak",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71593,
+    34.1091,
+    66.71593,
+    34.1091
+],
+  "geometry": {"coordinates":[66.71593,34.1091],"type":"Point"}
+}

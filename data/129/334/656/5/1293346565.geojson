@@ -1,0 +1,73 @@
+{
+  "id": 1293346565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72461,31.2979,66.72461,31.2979",
+    "geom:latitude":31.2979,
+    "geom:longitude":66.72461,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Sebat",
+    "gn:country_code":"AF",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126616,
+    "gn:latitude":31.2979,
+    "gn:longitude":66.72461,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0113bat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113bet",
+        "S\u0113bat",
+        "\u0633\u06d0\u0628\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aeb7849385fea9b2b87e9e1b41b2bcc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1293346565,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293346565,
+    "wof:lastmodified":1537580489,
+    "wof:name":"Sebat",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72461,
+    31.2979,
+    66.72461,
+    31.2979
+],
+  "geometry": {"coordinates":[66.72461,31.2979],"type":"Point"}
+}

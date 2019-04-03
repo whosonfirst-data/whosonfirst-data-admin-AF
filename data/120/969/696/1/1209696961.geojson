@@ -1,0 +1,77 @@
+{
+  "id": 1209696961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.78296,34.38667,61.78296,34.38667",
+    "geom:latitude":34.38667,
+    "geom:longitude":61.78296,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Shakiban",
+    "gn:country_code":"AF",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125404,
+    "gn:latitude":34.38667,
+    "gn:longitude":61.78296,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shak\u012bb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304akib\u0101n",
+        "Shekeyb\u0101n-e T\u0101jek\u012b",
+        "Shaikhb\u0101n",
+        "S\u0304ekib\u0101n",
+        "Shek\u012bb\u0101n",
+        "Shak\u012bb\u0101n",
+        "\u0634\u06a9\u06cc\u0628\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125404
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35536cdb8f42e1f6aaeaf039fc105438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198931,
+            "locality_id":1209696961,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209696961,
+    "wof:lastmodified":1537580387,
+    "wof:name":"Shakiban",
+    "wof:parent_id":421198931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.78296,
+    34.38667,
+    61.78296,
+    34.38667
+],
+  "geometry": {"coordinates":[61.78296,34.38667],"type":"Point"}
+}

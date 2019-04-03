@@ -1,0 +1,74 @@
+{
+  "id": 1343709091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52944,31.62083,67.52944,31.62083",
+    "geom:latitude":31.62083,
+    "geom:longitude":67.52944,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Khwaji",
+    "gn:country_code":"AF",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136016,
+    "gn:latitude":31.62083,
+    "gn:longitude":67.52944,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101j\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzhi",
+        "Khw\u0101ji",
+        "Khw\u0101j\u012b",
+        "Khv\u0101j\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136016
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f1bc8647eb982f2067b3ebfe93de875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1343709091,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343709091,
+    "wof:lastmodified":1537581308,
+    "wof:name":"Khwaji",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52944000000001,
+    31.62083,
+    67.52944000000001,
+    31.62083
+],
+  "geometry": {"coordinates":[67.52944000000001,31.62083],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209604789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.61472,34.63806,64.61472,34.63806",
+    "geom:latitude":34.63806,
+    "geom:longitude":64.61472,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Asya",
+    "gn:country_code":"AF",
+    "gn:dem":2307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148164,
+    "gn:latitude":34.63806,
+    "gn:longitude":64.61472,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100sy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darrahe \u0100sy\u0101",
+        "\u0100sy\u0101",
+        "\u0100s\u012b\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148164
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6cf4123404e95ccdd1bbf37e339f82a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209604789
+        }
+    ],
+    "wof:id":1209604789,
+    "wof:lastmodified":1537582323,
+    "wof:name":"Asya",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.61471999999999,
+    34.63806,
+    64.61471999999999,
+    34.63806
+],
+  "geometry": {"coordinates":[64.61471999999999,34.63806],"type":"Point"}
+}

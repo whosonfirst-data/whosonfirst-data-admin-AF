@@ -1,0 +1,75 @@
+{
+  "id": 1243036559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.41108,31.53336,65.41108,31.53336",
+    "geom:latitude":31.53336,
+    "geom:longitude":65.41108,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2416.0",
+    "gn:asciiname":"Haji Rahm ud Din",
+    "gn:country_code":"AF",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466603,
+    "gn:latitude":31.53336,
+    "gn:longitude":65.41108,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b Ra\u1e29m ud D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhi-Rakhmuddim",
+        "\u1e28\u0101ji \u1e5ea\u1e29mu\u1e0f\u1e0f\u012bm",
+        "\u1e28\u0101j\u012b Ra\u1e29m ud D\u012bn",
+        "\u062d\u0627\u062c\u06cc \u0631\u062d\u0645 \u0627\u0644\u062f\u06cc\u0646",
+        "\u1e28\u0101jj\u012b Ra\u1e29modd\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466603
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fed24cee16ef973606432f133204541b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562613,
+            "locality_id":1243036559,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243036559,
+    "wof:lastmodified":1537583434,
+    "wof:name":"Haji Rahm ud Din",
+    "wof:parent_id":1108562613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.41108,
+    31.53336,
+    65.41108,
+    31.53336
+],
+  "geometry": {"coordinates":[65.41108,31.53336],"type":"Point"}
+}

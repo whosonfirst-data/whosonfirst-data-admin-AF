@@ -1,0 +1,86 @@
+{
+  "id": 1209999931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35112,35.02298,69.35112,35.02298",
+    "geom:latitude":35.02298,
+    "geom:longitude":69.35112,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"201",
+    "gn:asciiname":"Sidqabad",
+    "gn:country_code":"AF",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1126606,
+    "gn:latitude":35.02298,
+    "gn:longitude":69.35112,
+    "gn:modification_date":"2018-02-13",
+    "gn:name":"Sidq\u0101b\u0101d",
+    "gn:population":7407,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062f\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a Waz\u012b\u1e5f",
+        "Makhmudraki",
+        "Qal\u2019eh-i-Waz\u012br",
+        "Se\u1e0fq\u0101b\u0101\u1e0f",
+        "Sedg\u0101b\u0101d",
+        "Sidq\u0101b\u0101d",
+        "\u0633\u062f\u0642 \u0622\u0628\u0627\u062f",
+        "Qal\u2018ah-ye Waz\u012br",
+        "\u0642\u0644\u0639\u06c0 \u0648\u0632\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126606,
+        "wk:page":"Mahmud-i-Raqi"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d1696f31bf1430298433243a4a6d013d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562235,
+            "locality_id":1209999931,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1209999931,
+    "wof:lastmodified":1537580488,
+    "wof:name":"Sidqabad",
+    "wof:parent_id":1108562235,
+    "wof:placetype":"locality",
+    "wof:population":7407,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35112,
+    35.02298,
+    69.35112,
+    35.02298
+],
+  "geometry": {"coordinates":[69.35111999999999,35.02298],"type":"Point"}
+}

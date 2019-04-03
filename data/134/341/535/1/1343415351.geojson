@@ -1,0 +1,73 @@
+{
+  "id": 1343415351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65933,34.47458,68.65933,34.47458",
+    "geom:latitude":34.47458,
+    "geom:longitude":68.65933,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Diyaki",
+    "gn:country_code":"AF",
+    "gn:dem":2373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457110,
+    "gn:latitude":34.47458,
+    "gn:longitude":68.65933,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Diyak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deyak\u012b",
+        "Diyak\u012b",
+        "\u062f\u06cc\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457110
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9475de2076c84675a7f77eced0851cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1343415351,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343415351,
+    "wof:lastmodified":1537583213,
+    "wof:name":"Diyaki",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65933000000001,
+    34.47458,
+    68.65933000000001,
+    34.47458
+],
+  "geometry": {"coordinates":[68.65933000000001,34.47458],"type":"Point"}
+}

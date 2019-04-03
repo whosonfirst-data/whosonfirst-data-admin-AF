@@ -1,0 +1,73 @@
+{
+  "id": 1226486477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40157,33.65911,69.40157,33.65911",
+    "geom:latitude":33.65911,
+    "geom:longitude":69.40157,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Mach",
+    "gn:country_code":"AF",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134360,
+    "gn:latitude":33.65911,
+    "gn:longitude":69.40157,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u010d",
+        "Mach",
+        "\u0645\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134360
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f2a4095158ec7950ac43a7bce0f5b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562443,
+            "locality_id":1226486477,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226486477,
+    "wof:lastmodified":1537581167,
+    "wof:name":"Mach",
+    "wof:parent_id":1108562443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40156999999999,
+    33.65911,
+    69.40156999999999,
+    33.65911
+],
+  "geometry": {"coordinates":[69.40156999999999,33.65911],"type":"Point"}
+}

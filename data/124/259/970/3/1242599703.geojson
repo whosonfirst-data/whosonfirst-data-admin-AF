@@ -1,0 +1,74 @@
+{
+  "id": 1242599703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.12543,32.98451,64.12543,32.98451",
+    "geom:latitude":32.98451,
+    "geom:longitude":64.12543,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Ijan",
+    "gn:country_code":"AF",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139859,
+    "gn:latitude":32.98451,
+    "gn:longitude":64.12543,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u012ajan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idzhan",
+        "\u012ajan",
+        "\u0627\u062c\u0646",
+        "\u012aj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139859
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e9aca8143a7304d90029b7aa6fa7b0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1242599703,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242599703,
+    "wof:lastmodified":1537581612,
+    "wof:name":"Ijan",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.12543000000001,
+    32.98451,
+    64.12543000000001,
+    32.98451
+],
+  "geometry": {"coordinates":[64.12543000000001,32.98451],"type":"Point"}
+}

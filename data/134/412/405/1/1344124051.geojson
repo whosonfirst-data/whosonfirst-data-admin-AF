@@ -1,0 +1,71 @@
+{
+  "id": 1344124051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51676,36.36656,69.51676,36.36656",
+    "geom:latitude":36.36656,
+    "geom:longitude":69.51676,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203.0",
+    "gn:asciiname":"Darah-ye Baykh",
+    "gn:country_code":"AF",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526504,
+    "gn:latitude":36.36656,
+    "gn:longitude":69.51676,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah-ye Baykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u06c0 \u0628\u06cc\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526504
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0568e52a36df9fc2b6f80ed6e3d6b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1344124051,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1344124051,
+    "wof:lastmodified":1537583925,
+    "wof:name":"Darah-ye Baykh",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51675999999999,
+    36.36656,
+    69.51675999999999,
+    36.36656
+],
+  "geometry": {"coordinates":[69.51675999999999,36.36656],"type":"Point"}
+}

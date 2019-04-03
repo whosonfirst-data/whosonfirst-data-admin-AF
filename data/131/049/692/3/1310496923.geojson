@@ -1,0 +1,74 @@
+{
+  "id": 1310496923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8209,32.83517,67.8209,32.83517",
+    "geom:latitude":32.83517,
+    "geom:longitude":67.8209,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Shimu Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435644,
+    "gn:latitude":32.83517,
+    "gn:longitude":67.8209,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shim\u016b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160em\u016bkh\u0113l",
+        "Shim\u016b Kh\u0113l",
+        "\u0634\u0645\u0648 \u062e\u06d0\u0644",
+        "Shem\u016b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435644
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5da590e906316316f06c201841ed8fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1310496923,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310496923,
+    "wof:lastmodified":1537582774,
+    "wof:name":"Shimu Khel",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8209,
+    32.83517,
+    67.8209,
+    32.83517
+],
+  "geometry": {"coordinates":[67.82089999999999,32.83517],"type":"Point"}
+}

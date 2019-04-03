@@ -1,0 +1,76 @@
+{
+  "id": 1276168951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05127,34.84738,71.05127,34.84738",
+    "geom:latitude":34.84738,
+    "geom:longitude":71.05127,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Achal",
+    "gn:country_code":"AF",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451912,
+    "gn:latitude":34.84738,
+    "gn:longitude":71.05127,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ach\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Achal\u2019"
+    ],
+    "name:und_x_variant":[
+        "A\u010d\u0101l",
+        "Ach\u0101l",
+        "\u0627\u0686\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451912
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e4daf0983207d6e491455427fab0e310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1276168951,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1276168951,
+    "wof:lastmodified":1537583079,
+    "wof:name":"Achal",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05127,
+    34.84738,
+    71.05127,
+    34.84738
+],
+  "geometry": {"coordinates":[71.05127,34.84738],"type":"Point"}
+}

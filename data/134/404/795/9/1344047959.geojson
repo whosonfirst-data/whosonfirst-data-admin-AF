@@ -1,0 +1,75 @@
+{
+  "id": 1344047959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.1869,33.11667,68.1869,33.11667",
+    "geom:latitude":33.11667,
+    "geom:longitude":68.1869,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Nowaz",
+    "gn:country_code":"AF",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132133,
+    "gn:latitude":33.11667,
+    "gn:longitude":68.1869,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nav\u0101z",
+        "Navaz",
+        "Naw\u0101z",
+        "Now\u0101z",
+        "\u0646\u0648\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132133
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f3f4920dad213c2f88f1ce82cd678210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1344047959,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1344047959,
+    "wof:lastmodified":1537580983,
+    "wof:name":"Nowaz",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.1869,
+    33.11667,
+    68.1869,
+    33.11667
+],
+  "geometry": {"coordinates":[68.18689999999999,33.11667],"type":"Point"}
+}

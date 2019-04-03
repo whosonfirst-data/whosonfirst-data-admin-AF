@@ -1,0 +1,74 @@
+{
+  "id": 1226189617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52733,31.76703,67.52733,31.76703",
+    "geom:latitude":31.76703,
+    "geom:longitude":67.52733,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508",
+    "gn:asciiname":"Gharbi Warghar",
+    "gn:country_code":"AF",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141403,
+    "gn:latitude":31.76703,
+    "gn:longitude":67.52733,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharb\u012b Wargha\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garbi-Vargar",
+        "Gharb\u012b Wargha\u1e5f",
+        "Gha\u1e5fbi Wa\u1e5fghar",
+        "\u063a\u0631\u0628\u06cc \u0648\u0631\u063a\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141403
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9a48472447a770c12e32f708214fdda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1226189617,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1226189617,
+    "wof:lastmodified":1537581751,
+    "wof:name":"Gharbi Warghar",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52733,
+    31.76703,
+    67.52733,
+    31.76703
+],
+  "geometry": {"coordinates":[67.52733000000001,31.76703],"type":"Point"}
+}

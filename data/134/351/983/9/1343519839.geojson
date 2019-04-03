@@ -1,0 +1,76 @@
+{
+  "id": 1343519839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.21949,31.01062,66.21949,31.01062",
+    "geom:latitude":31.01062,
+    "geom:longitude":66.21949,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Iti",
+    "gn:country_code":"AF",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139813,
+    "gn:latitude":31.01062,
+    "gn:longitude":66.21949,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"It\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "It\u012b",
+        "\u0644\u062a\u06cc",
+        "Iti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139813
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e564253784c70b836aae4969cb16f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1343519839,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343519839,
+    "wof:lastmodified":1537581608,
+    "wof:name":"Iti",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.21949000000001,
+    31.01062,
+    66.21949000000001,
+    31.01062
+],
+  "geometry": {"coordinates":[66.21949000000001,31.01062],"type":"Point"}
+}

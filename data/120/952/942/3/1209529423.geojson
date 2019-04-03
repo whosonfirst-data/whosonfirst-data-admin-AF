@@ -1,0 +1,65 @@
+{
+  "id": 1209529423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62979,37.50103,70.62979,37.50103",
+    "geom:latitude":37.50103,
+    "geom:longitude":70.62979,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Bar Kham",
+    "gn:country_code":"AF",
+    "gn:dem":2684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468522,
+    "gn:latitude":37.50103,
+    "gn:longitude":70.62979,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0631 \u062e\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb7c1bc42d270058898df2af8a0b01d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209529423
+        }
+    ],
+    "wof:id":1209529423,
+    "wof:lastmodified":1537583560,
+    "wof:name":"Bar Kham",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62979,
+    37.50103,
+    70.62979,
+    37.50103
+],
+  "geometry": {"coordinates":[70.62979,37.50103],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310190569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69569,33.38298,68.69569,33.38298",
+    "geom:latitude":33.38298,
+    "geom:longitude":68.69569,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"615",
+    "gn:asciiname":"Tahanah",
+    "gn:country_code":"AF",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123339,
+    "gn:latitude":33.38298,
+    "gn:longitude":68.69569,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah\u0101\u1e49ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takhana",
+        "Tah\u0101\u1e49a",
+        "Tah\u0101neh",
+        "Tah\u0101\u1e49ah",
+        "\u062a\u0647\u0627\u06bc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123339
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"faafa1ce8b4d461c586e04bf6f2e8598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1310190569,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310190569,
+    "wof:lastmodified":1537580219,
+    "wof:name":"Tahanah",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69569,
+    33.38298,
+    68.69569,
+    33.38298
+],
+  "geometry": {"coordinates":[68.69569,33.38298],"type":"Point"}
+}

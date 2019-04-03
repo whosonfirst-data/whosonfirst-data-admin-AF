@@ -1,0 +1,72 @@
+{
+  "id": 1293674509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.30463,33.34036,67.30463,33.34036",
+    "geom:latitude":33.34036,
+    "geom:longitude":67.30463,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606.0",
+    "gn:asciiname":"Giro-ye Jambud",
+    "gn:country_code":"AF",
+    "gn:dem":2760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7530677,
+    "gn:latitude":33.34036,
+    "gn:longitude":67.30463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u012br\u014d-ye Jambud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u012br\u014d-ye Jambud",
+        "\u06af\u06cc\u0631\u0648 \u062c\u0645\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7530677
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5851f2dba3b2590c4b61697b736933f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1293674509,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293674509,
+    "wof:lastmodified":1537583928,
+    "wof:name":"Giro-ye Jambud",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.30463,
+    33.34036,
+    67.30463,
+    33.34036
+],
+  "geometry": {"coordinates":[67.30463,33.34036],"type":"Point"}
+}

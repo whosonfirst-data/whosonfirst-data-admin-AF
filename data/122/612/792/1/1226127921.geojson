@@ -1,0 +1,74 @@
+{
+  "id": 1226127921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.91786,32.15034,67.91786,32.15034",
+    "geom:latitude":32.15034,
+    "geom:longitude":67.91786,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"610",
+    "gn:asciiname":"Silimak Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126425,
+    "gn:latitude":32.15034,
+    "gn:longitude":67.91786,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Silimak K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silimakkalay",
+        "Silimak K\u00ealay",
+        "\u0633\u0644\u0645\u06a9 \u06a9\u0644\u06cc",
+        "Sel\u012bmak Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126425
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c6716bdf1d9669adc60964024bdfcdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562315,
+            "locality_id":1226127921,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226127921,
+    "wof:lastmodified":1537580476,
+    "wof:name":"Silimak Kelay",
+    "wof:parent_id":1108562315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.91786,
+    32.15034,
+    67.91786,
+    32.15034
+],
+  "geometry": {"coordinates":[67.91786,32.15034],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226192997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79391,32.69985,68.79391,32.69985",
+    "geom:latitude":32.69985,
+    "geom:longitude":68.79391,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906",
+    "gn:asciiname":"Ghami Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141455,
+    "gn:latitude":32.69985,
+    "gn:longitude":68.79391,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gham\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gham\u012b K\u00ealay"
+    ],
+    "name:fas_x_variant":[
+        "\u063a\u0645\u06cc \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gamikalay",
+        "\u063a\u0645\u06cc \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141455
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a97d58e09abde7ce94ae62af50e64d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1226192997,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226192997,
+    "wof:lastmodified":1537581755,
+    "wof:name":"Ghami Kelay",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79391,
+    32.69985,
+    68.79391,
+    32.69985
+],
+  "geometry": {"coordinates":[68.79391,32.69985],"type":"Point"}
+}

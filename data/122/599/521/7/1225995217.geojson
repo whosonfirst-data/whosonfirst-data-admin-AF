@@ -1,0 +1,76 @@
+{
+  "id": 1225995217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96671,32.00912,68.96671,32.00912",
+    "geom:latitude":32.00912,
+    "geom:longitude":68.96671,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Mesri",
+    "gn:country_code":"AF",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133491,
+    "gn:latitude":32.00912,
+    "gn:longitude":68.96671,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Me\u015fr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Misaray",
+        "Me\u015fray",
+        "Me\u015fr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f31efb6790abe76041968600abf1207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1225995217,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1225995217,
+    "wof:lastmodified":1537581099,
+    "wof:name":"Mesri",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96670999999999,
+    32.00912,
+    68.96670999999999,
+    32.00912
+],
+  "geometry": {"coordinates":[68.96670999999999,32.00912],"type":"Point"}
+}

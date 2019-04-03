@@ -1,0 +1,74 @@
+{
+  "id": 1243487891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.62896,36.77597,65.62896,36.77597",
+    "geom:latitude":36.77597,
+    "geom:longitude":65.62896,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1702",
+    "gn:asciiname":"Saltiq-e Khord",
+    "gn:country_code":"AF",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127801,
+    "gn:latitude":36.77597,
+    "gn:longitude":65.62896,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salt\u012bq-e Kh\u014drd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saltiq Khurd",
+        "Saltiq Khvord",
+        "Salt\u012bq-e Kh\u014drd",
+        "\u0633\u0644\u062a\u06cc\u0642 \u062e\u0648\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127801
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"861e10f800c5c737472b490b989056a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562185,
+            "locality_id":1243487891,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1243487891,
+    "wof:lastmodified":1537580579,
+    "wof:name":"Saltiq-e Khord",
+    "wof:parent_id":1108562185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.62895999999999,
+    36.77597,
+    65.62895999999999,
+    36.77597
+],
+  "geometry": {"coordinates":[65.62895999999999,36.77597],"type":"Point"}
+}

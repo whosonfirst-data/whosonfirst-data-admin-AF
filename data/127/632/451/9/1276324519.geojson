@@ -1,0 +1,75 @@
+{
+  "id": 1276324519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.74,33.84,67.74,33.84",
+    "geom:latitude":33.84,
+    "geom:longitude":67.74,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Kalayi-Khan",
+    "gn:country_code":"AF",
+    "gn:dem":3235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129944,
+    "gn:latitude":33.84,
+    "gn:longitude":67.74,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalayi-Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439\u0438-\u0425\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Qal`a-i-Kh\u0101n",
+        "Qal`eh-ye Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129944
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86086d928fb083e433537baa9587aade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1276324519,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276324519,
+    "wof:lastmodified":1537580787,
+    "wof:name":"Kalayi-Khan",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.74,
+    33.84,
+    67.74,
+    33.84
+],
+  "geometry": {"coordinates":[67.73999999999999,33.84],"type":"Point"}
+}

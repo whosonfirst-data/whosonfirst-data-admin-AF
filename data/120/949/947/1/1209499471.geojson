@@ -1,0 +1,69 @@
+{
+  "id": 1209499471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.32731,33.6561,64.32731,33.6561",
+    "geom:latitude":33.6561,
+    "geom:longitude":64.32731,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Ishturkhusp",
+    "gn:country_code":"AF",
+    "gn:dem":2485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142444,
+    "gn:latitude":33.6561,
+    "gn:longitude":64.32731,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ishturkhusp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "E\u0161turkhusp",
+        "Eshterkhosp",
+        "Ishturkhusp",
+        "\u0627\u0634\u062a\u0631\u062e\u0633\u067e",
+        "Eshterkhosb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142444
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"366e485f4211acd0c5d80796bfeaf2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209499471
+        }
+    ],
+    "wof:id":1209499471,
+    "wof:lastmodified":1537581829,
+    "wof:name":"Ishturkhusp",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.32731,
+    33.6561,
+    64.32731,
+    33.6561
+],
+  "geometry": {"coordinates":[64.32731,33.6561],"type":"Point"}
+}

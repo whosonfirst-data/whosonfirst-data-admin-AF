@@ -1,0 +1,78 @@
+{
+  "id": 1192958385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.79662,33.98873,69.79662,33.98873",
+    "geom:latitude":33.98873,
+    "geom:longitude":69.79662,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"711",
+    "gn:asciiname":"Pitlah",
+    "gn:country_code":"AF",
+    "gn:dem":2451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130711,
+    "gn:latitude":33.98873,
+    "gn:longitude":69.79662,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pi\u0163lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pitla",
+        "Pe\u1e6fla",
+        "Patlah",
+        "Pe\u0163lah",
+        "Pi\u0163lah",
+        "\u067e\u0637\u0644\u0647",
+        "Pitlah",
+        "\u067e\u062a\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130711
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e66ccf08df4841827725db5a3b658a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561789,
+            "locality_id":1192958385,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1192958385,
+    "wof:lastmodified":1537580862,
+    "wof:name":"Pitlah",
+    "wof:parent_id":1108561789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.79661999999999,
+    33.98873,
+    69.79661999999999,
+    33.98873
+],
+  "geometry": {"coordinates":[69.79661999999999,33.98873],"type":"Point"}
+}

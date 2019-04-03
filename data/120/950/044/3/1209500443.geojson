@@ -1,0 +1,70 @@
+{
+  "id": 1209500443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7682,33.30622,67.7682,33.30622",
+    "geom:latitude":33.30622,
+    "geom:longitude":67.7682,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"613.0",
+    "gn:asciiname":"Malkhi",
+    "gn:country_code":"AF",
+    "gn:dem":2953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448860,
+    "gn:latitude":33.30622,
+    "gn:longitude":67.7682,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044c\u0445\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mal\u2019khi",
+        "Malkh\u012b",
+        "\u0645\u0644\u062e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448860
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"55867dfe0fde0ccd6e2a5e78c53f1ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209500443
+        }
+    ],
+    "wof:id":1209500443,
+    "wof:lastmodified":1537582994,
+    "wof:name":"Malkhi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7682,
+    33.30622,
+    67.7682,
+    33.30622
+],
+  "geometry": {"coordinates":[67.76819999999999,33.30622],"type":"Point"}
+}

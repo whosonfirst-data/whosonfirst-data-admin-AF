@@ -1,0 +1,79 @@
+{
+  "id": 421190269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.103118,36.7,67.103118,36.7",
+    "geom:latitude":36.7,
+    "geom:longitude":67.103118,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mazar-e Sharif",
+    "qs:name_adm0":"Afghanistan",
+    "qs:name_adm1":"Balkh",
+    "qs:photos":93,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":93,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119352,
+    "qs:woe_adm0":23424739,
+    "qs:woe_id":1926305,
+    "src:geom":"quattroshapes",
+    "wd:latitude":36.7,
+    "wd:longitude":67.116667,
+    "wd:wordcount":3198,
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1926305,
+        "qs:id":1119352,
+        "wd:id":"Q130469"
+    },
+    "wof:country":"AF",
+    "wof:created":1459009652,
+    "wof:geomhash":"b778f25368a474fd19d6b27b6623d4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562267,
+            "locality_id":421190269,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":421190269,
+    "wof:lastmodified":1527716392,
+    "wof:name":"Mazar-e Sharif",
+    "wof:parent_id":1108562267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.103118,
+    36.7,
+    67.103118,
+    36.7
+],
+  "geometry": {"coordinates":[67.10311799999999,36.7],"type":"Point"}
+}

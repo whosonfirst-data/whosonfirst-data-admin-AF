@@ -1,0 +1,75 @@
+{
+  "id": 1259529091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06417,36.00515,68.06417,36.00515",
+    "geom:latitude":36.00515,
+    "geom:longitude":68.06417,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Qal'ah-ye Khizriha",
+    "gn:country_code":"AF",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129740,
+    "gn:latitude":36.00515,
+    "gn:longitude":68.06417,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Khi\u1e95r\u012bh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qala-i-Khre\u1e0f\u1e95\u1e5f\u012bh\u0101",
+        "Qal-\u2018ye Khedzr\u012bh\u0101",
+        "Qal\u2018eh-ye Khe\u1e95r\u012bh\u0101",
+        "Qal\u2018ah-ye Khi\u1e95r\u012bh\u0101",
+        "\u0642\u0644\u0639\u06c0 \u062e\u0636\u0631\u06cc \u0647\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129740
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0354bb2743ffbb6db454ba1d96f969f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1259529091,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1259529091,
+    "wof:lastmodified":1537580757,
+    "wof:name":"Qal'ah-ye Khizriha",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06416999999999,
+    36.00515,
+    68.06416999999999,
+    36.00515
+],
+  "geometry": {"coordinates":[68.06416999999999,36.00515],"type":"Point"}
+}

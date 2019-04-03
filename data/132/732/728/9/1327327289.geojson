@@ -1,0 +1,75 @@
+{
+  "id": 1327327289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.97449,32.69413,64.97449,32.69413",
+    "geom:latitude":32.69413,
+    "geom:longitude":64.97449,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Showay",
+    "gn:country_code":"AF",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124720,
+    "gn:latitude":32.69413,
+    "gn:longitude":64.97449,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shovay",
+        "\u0160oway",
+        "Sh\u014dway",
+        "\u0634\u0648\u0648\u06cc",
+        "Sh\u016bway"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124720
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8e1f3bbe50a0a1053b1ea24dc1eb945d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1327327289,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1327327289,
+    "wof:lastmodified":1537580323,
+    "wof:name":"Showay",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.97449,
+    32.69413,
+    64.97449,
+    32.69413
+],
+  "geometry": {"coordinates":[64.97449,32.69413],"type":"Point"}
+}

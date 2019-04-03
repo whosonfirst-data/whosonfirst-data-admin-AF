@@ -1,0 +1,82 @@
+{
+  "id": 1276150669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.76852,35.45733,69.76852,35.45733",
+    "geom:latitude":35.45733,
+    "geom:longitude":69.76852,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3303.0",
+    "gn:asciiname":"Awizriah",
+    "gn:country_code":"AF",
+    "gn:dem":2214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429542,
+    "gn:latitude":35.45733,
+    "gn:longitude":69.76852,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awizr\u012bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0632\u0631\u064a\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0438\u0437\u0440\u0438\u0430"
+    ],
+    "name:und_x_variant":[
+        "Awezry",
+        "Awez\u1e5fya",
+        "Avizria",
+        "\u0100vezryah",
+        "Awizr\u012bah",
+        "\u0627\u0648\u0632\u0631\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429542
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"16a7577a98f16f965430b8e983e77240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562163,
+            "locality_id":1276150669,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1276150669,
+    "wof:lastmodified":1537582679,
+    "wof:name":"Awizriah",
+    "wof:parent_id":1108562163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.76852,
+    35.45733,
+    69.76852,
+    35.45733
+],
+  "geometry": {"coordinates":[69.76852,35.45733],"type":"Point"}
+}

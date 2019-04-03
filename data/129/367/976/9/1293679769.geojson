@@ -1,0 +1,80 @@
+{
+  "id": 1293679769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.76642,33.179,67.76642,33.179",
+    "geom:latitude":33.179,
+    "geom:longitude":67.76642,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Deh-e Sakay",
+    "gn:country_code":"AF",
+    "gn:dem":2563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143530,
+    "gn:latitude":33.179,
+    "gn:longitude":67.76642,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e S\u0101kay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06c0 \u0633\u0627\u0643\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0445\u0438-\u0421\u0430\u043a\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dekhi-Sakay",
+        "Deh-e S\u0101kay",
+        "\u062f\u0647 \u0633\u0627\u06a9\u06cc",
+        "\u062f\u06c0 \u0633\u0627\u0643\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143530
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eab3584a42774276f5ade303a70ff07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1293679769,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293679769,
+    "wof:lastmodified":1537581927,
+    "wof:name":"Deh-e Sakay",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.76642,
+    33.179,
+    67.76642,
+    33.179
+],
+  "geometry": {"coordinates":[67.76642,33.179],"type":"Point"}
+}

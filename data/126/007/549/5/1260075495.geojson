@@ -1,0 +1,79 @@
+{
+  "id": 1260075495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.58226,33.25025,67.58226,33.25025",
+    "geom:latitude":33.25025,
+    "geom:longitude":67.58226,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Sherabad",
+    "gn:country_code":"AF",
+    "gn:dem":2833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125068,
+    "gn:latitude":33.25025,
+    "gn:longitude":67.58226,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113r\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113r\u0101b\u0101d",
+        "Sherabad",
+        "Sh\u012br\u0101b\u0101d",
+        "Shayr\u0101b\u0101d",
+        "\u0634\u06cc\u0631 \u0622\u0628\u0627\u062f",
+        "Sh\u0113r\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125068
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a937a1193505a622eeea0146b5fb76d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1260075495,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260075495,
+    "wof:lastmodified":1537580354,
+    "wof:name":"Sherabad",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.58225999999999,
+    33.25025,
+    67.58225999999999,
+    33.25025
+],
+  "geometry": {"coordinates":[67.58225999999999,33.25025],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343372785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38278,36.945,70.38278,36.945",
+    "geom:latitude":36.945,
+    "geom:longitude":70.38278,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1116",
+    "gn:asciiname":"Gaz-e Kayl",
+    "gn:country_code":"AF",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141635,
+    "gn:latitude":36.945,
+    "gn:longitude":70.38278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gaz-e Kayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaz-i-K\u0113l",
+        "Gaz-e K\u0113l",
+        "Gaz-e Kayl",
+        "\u06af\u0632 \u06a9\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141635
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7c3e71e1059b969ccd913b4fb71d82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561943,
+            "locality_id":1343372785,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343372785,
+    "wof:lastmodified":1537581766,
+    "wof:name":"Gaz-e Kayl",
+    "wof:parent_id":1108561943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38278000000003,
+    36.945,
+    70.38278000000003,
+    36.945
+],
+  "geometry": {"coordinates":[70.38278000000003,36.945],"type":"Point"}
+}

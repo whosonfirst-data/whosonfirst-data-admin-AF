@@ -1,0 +1,73 @@
+{
+  "id": 1310295665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68345,32.66875,67.68345,32.66875",
+    "geom:latitude":32.66875,
+    "geom:longitude":67.68345,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"609.0",
+    "gn:asciiname":"Mulla Jana",
+    "gn:country_code":"AF",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435779,
+    "gn:latitude":32.66875,
+    "gn:longitude":67.68345,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 J\u0101n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mull\u0101 J\u0101n\u0101",
+        "\u0645\u0644\u0627 \u062c\u0627\u0646\u0627",
+        "Moll\u0101 J\u0101n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435779
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cddc86679745a0c52670ba08fda76aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1310295665,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310295665,
+    "wof:lastmodified":1537582786,
+    "wof:name":"Mulla Jana",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68345,
+    32.66875,
+    67.68345,
+    32.66875
+],
+  "geometry": {"coordinates":[67.68344999999999,32.66875],"type":"Point"}
+}

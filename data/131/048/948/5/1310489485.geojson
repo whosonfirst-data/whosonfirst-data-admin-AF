@@ -1,0 +1,73 @@
+{
+  "id": 1310489485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.09983,33.66291,63.09983,33.66291",
+    "geom:latitude":33.66291,
+    "geom:longitude":63.09983,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Hanut",
+    "gn:country_code":"AF",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140249,
+    "gn:latitude":33.66291,
+    "gn:longitude":63.09983,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"H\u0101n\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khanut",
+        "H\u0101n\u016bt",
+        "\u0647\u0627\u0646\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140249
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abfff7e64ae52e677d14fd671ea69e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1310489485,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310489485,
+    "wof:lastmodified":1537581644,
+    "wof:name":"Hanut",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.09983,
+    33.66291,
+    63.09983,
+    33.66291
+],
+  "geometry": {"coordinates":[63.09983,33.66291],"type":"Point"}
+}

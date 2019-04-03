@@ -1,0 +1,78 @@
+{
+  "id": 1293543265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8558,34.9614,70.8558,34.9614",
+    "geom:latitude":34.9614,
+    "geom:longitude":70.8558,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Lotah Lam",
+    "gn:country_code":"AF",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474067,
+    "gn:latitude":34.9614,
+    "gn:longitude":70.8558,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014d\u1e6fah L\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0647 \u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Lota L\u0101m",
+        "Lutalam",
+        "Lotah L\u0101m",
+        "L\u014d\u1e6fah L\u0101m",
+        "\u0644\u0648\u067c\u0647 \u0644\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474067
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"40dd156eb1e6fb52ffe9438d77c7039a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561933,
+            "locality_id":1293543265,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293543265,
+    "wof:lastmodified":1537583779,
+    "wof:name":"Lotah Lam",
+    "wof:parent_id":1108561933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8558,
+    34.9614,
+    70.8558,
+    34.9614
+],
+  "geometry": {"coordinates":[70.8558,34.9614],"type":"Point"}
+}

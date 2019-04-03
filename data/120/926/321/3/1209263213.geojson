@@ -1,0 +1,68 @@
+{
+  "id": 1209263213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.88489,35.31142,65.88489,35.31142",
+    "geom:latitude":35.31142,
+    "geom:longitude":65.88489,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":2525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123690,
+    "gn:latitude":35.31142,
+    "gn:longitude":65.88489,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014dkhta",
+        "S\u016bkhteh",
+        "S\u014dkhtah",
+        "\u0633\u0648\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123690
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ea249a7dba9d9eda6b70523308bf6388",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209263213
+        }
+    ],
+    "wof:id":1209263213,
+    "wof:lastmodified":1537580242,
+    "wof:name":"Sokhtah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.88489,
+    35.31142,
+    65.88489,
+    35.31142
+],
+  "geometry": {"coordinates":[65.88489,35.31142],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209297769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36316,35.02937,69.36316,35.02937",
+    "geom:latitude":35.02937,
+    "geom:longitude":69.36316,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"201.0",
+    "gn:asciiname":"Koratas",
+    "gn:country_code":"AF",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423491,
+    "gn:latitude":35.02937,
+    "gn:longitude":69.36316,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Koratas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0637\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "K\u014d\u1e5fa\u0163\u0101s",
+        "Koratas",
+        "K\u016bra\u0163\u0101s",
+        "K\u014dra\u0163\u0101s",
+        "\u06a9\u0648\u0631\u0637\u0627\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"13f7040ea1634be8a6d8301080a04edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209297769
+        }
+    ],
+    "wof:id":1209297769,
+    "wof:lastmodified":1537582578,
+    "wof:name":"Koratas",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36316,
+    35.02937,
+    69.36316,
+    35.02937
+],
+  "geometry": {"coordinates":[69.36315999999999,35.02937],"type":"Point"}
+}

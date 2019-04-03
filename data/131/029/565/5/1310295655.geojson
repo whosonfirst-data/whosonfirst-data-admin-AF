@@ -1,0 +1,76 @@
+{
+  "id": 1310295655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.28684,33.05219,68.28684,33.05219",
+    "geom:latitude":33.05219,
+    "geom:longitude":68.28684,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Kalagay",
+    "gn:country_code":"AF",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138651,
+    "gn:latitude":33.05219,
+    "gn:longitude":68.28684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal\u0101gay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0627\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kal\u0101ga\u012b",
+        "Kal\u0101gay",
+        "\u0643\u0644\u0627\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138651
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dcfa9ade96e61d7add3cb2fe6808cb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1310295655,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310295655,
+    "wof:lastmodified":1537581515,
+    "wof:name":"Kalagay",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.28684,
+    33.05219,
+    68.28684,
+    33.05219
+],
+  "geometry": {"coordinates":[68.28684,33.05219],"type":"Point"}
+}

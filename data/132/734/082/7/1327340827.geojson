@@ -1,0 +1,73 @@
+{
+  "id": 1327340827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15592,35.16363,68.15592,35.16363",
+    "geom:latitude":35.16363,
+    "geom:longitude":68.15592,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Tirgiran",
+    "gn:country_code":"AF",
+    "gn:dem":2597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122444,
+    "gn:latitude":35.16363,
+    "gn:longitude":68.15592,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012brg\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u012big\u012br\u0101n",
+        "T\u012brg\u012br\u0101n",
+        "\u062a\u06cc\u0631\u06af\u06cc\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122444
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32ab693d5668de2f52a28426d29a8314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1327340827,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327340827,
+    "wof:lastmodified":1537580114,
+    "wof:name":"Tirgiran",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15592,
+    35.16363,
+    68.15592,
+    35.16363
+],
+  "geometry": {"coordinates":[68.15591999999999,35.16363],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192964829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94282,37.02737,66.94282,37.02737",
+    "geom:latitude":37.02737,
+    "geom:longitude":66.94282,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1605",
+    "gn:asciiname":"Zadian",
+    "gn:country_code":"AF",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121141,
+    "gn:latitude":37.02737,
+    "gn:longitude":66.94282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101d\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101d\u012b\u0101n",
+        "\u0632\u0627\u062f\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121141,
+        "wk:page":"Zadian"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b69faedf12a0280f174b57cf7c239b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561963,
+            "locality_id":1192964829,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1192964829,
+    "wof:lastmodified":1537580025,
+    "wof:name":"Zadian",
+    "wof:parent_id":1108561963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94282,
+    37.02737,
+    66.94282,
+    37.02737
+],
+  "geometry": {"coordinates":[66.94282,37.02737],"type":"Point"}
+}

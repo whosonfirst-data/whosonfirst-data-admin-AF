@@ -1,0 +1,76 @@
+{
+  "id": 1293197939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.50116,32.14868,61.50116,32.14868",
+    "geom:latitude":32.14868,
+    "geom:longitude":61.50116,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Shushk",
+    "gn:country_code":"AF",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124721,
+    "gn:latitude":32.14868,
+    "gn:longitude":61.50116,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shushk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0634\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0160u\u0161k",
+        "Shushk",
+        "\u0634\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124721
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6adc919804dbd605a3da3c74004059a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1293197939,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293197939,
+    "wof:lastmodified":1537580323,
+    "wof:name":"Shushk",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.50116,
+    32.14868,
+    61.50116,
+    32.14868
+],
+  "geometry": {"coordinates":[61.50116,32.14868],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343998109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45915,33.34246,69.45915,33.34246",
+    "geom:latitude":33.34246,
+    "geom:longitude":69.45915,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704",
+    "gn:asciiname":"Sornah",
+    "gn:country_code":"AF",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124002,
+    "gn:latitude":33.34246,
+    "gn:longitude":69.45915,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014drnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sorna",
+        "S\u014d\u1e5fna",
+        "S\u016brnah",
+        "S\u014drnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124002
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"97367d71174b333c6d6d22c897b47135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1343998109,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1343998109,
+    "wof:lastmodified":1537580264,
+    "wof:name":"Sornah",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45915,
+    33.34246,
+    69.45915,
+    33.34246
+],
+  "geometry": {"coordinates":[69.45914999999999,33.34246],"type":"Point"}
+}

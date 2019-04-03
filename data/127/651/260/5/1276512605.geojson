@@ -1,0 +1,81 @@
+{
+  "id": 1276512605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.93746,31.66659,62.93746,31.66659",
+    "geom:latitude":31.66659,
+    "geom:longitude":62.93746,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Pushtah-ye Hasan",
+    "gn:country_code":"AF",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130449,
+    "gn:latitude":31.66659,
+    "gn:longitude":62.93746,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pushtah-ye \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Pushtah-ye \u1e28asan"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0634\u062a\u0647 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dewalak",
+        "Poshteh-ye \u1e28asan",
+        "D\u012bv\u0101lak",
+        "Pushtah-e \u1e28asan",
+        "\u067e\u0634\u062a\u0647 \u062d\u0633\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130449
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1fa38641d4f8651fb3986dcc324b058d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562159,
+            "locality_id":1276512605,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1276512605,
+    "wof:lastmodified":1537580838,
+    "wof:name":"Pushtah-ye Hasan",
+    "wof:parent_id":1108562159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.93746,
+    31.66659000000001,
+    62.93746,
+    31.66659000000001
+],
+  "geometry": {"coordinates":[62.93746,31.66659000000001],"type":"Point"}
+}

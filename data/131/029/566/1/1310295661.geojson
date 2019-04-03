@@ -1,0 +1,81 @@
+{
+  "id": 1310295661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68896,33.49004,67.68896,33.49004",
+    "geom:latitude":33.49004,
+    "geom:longitude":67.68896,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Shaygan",
+    "gn:country_code":"AF",
+    "gn:dem":3255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125464,
+    "gn:latitude":33.49004,
+    "gn:longitude":67.68896,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shayg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u064a\u06af\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0439\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u0160ayg\u0101n",
+        "Shaygan",
+        "Sh\u0101yg\u0101n",
+        "Shayg\u0101n",
+        "\u0634\u06cc\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125464
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb3be911ceced1b6ddb41f2e98841604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1310295661,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310295661,
+    "wof:lastmodified":1537580391,
+    "wof:name":"Shaygan",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68896,
+    33.49004,
+    67.68896,
+    33.49004
+],
+  "geometry": {"coordinates":[67.68895999999999,33.49004],"type":"Point"}
+}

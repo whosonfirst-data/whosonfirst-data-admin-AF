@@ -1,0 +1,79 @@
+{
+  "id": 1343309009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76936,32.74366,68.76936,32.74366",
+    "geom:latitude":32.74366,
+    "geom:longitude":68.76936,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Bangi Kowtah",
+    "gn:country_code":"AF",
+    "gn:dem":2542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147128,
+    "gn:latitude":32.74366,
+    "gn:longitude":68.76936,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bang\u012b Kow\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bang\u012b Kow\u1e6fah"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0646\u06af\u06cc \u06a9\u0648\u067c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Bangikota",
+        "Bangi K\u014dta",
+        "\u0628\u0646\u06af\u06cc \u06a9\u0648\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147128
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d0913a3a9d0da5c32d32148c5b28725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562041,
+            "locality_id":1343309009,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1343309009,
+    "wof:lastmodified":1537582243,
+    "wof:name":"Bangi Kowtah",
+    "wof:parent_id":1108562041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76935999999999,
+    32.74366,
+    68.76935999999999,
+    32.74366
+],
+  "geometry": {"coordinates":[68.76935999999999,32.74366],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293234301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.48493,35.28504,69.48493,35.28504",
+    "geom:latitude":35.28504,
+    "geom:longitude":69.48493,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3301",
+    "gn:asciiname":"Parakh",
+    "gn:country_code":"AF",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131118,
+    "gn:latitude":35.28504,
+    "gn:longitude":69.48493,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101r\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101r\u0101kh",
+        "\u067e\u0627\u0631\u0627\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131118
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce73963407b8febf5ef0fb45348b01b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561867,
+            "locality_id":1293234301,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1293234301,
+    "wof:lastmodified":1537580897,
+    "wof:name":"Parakh",
+    "wof:parent_id":1108561867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.48493,
+    35.28504,
+    69.48493,
+    35.28504
+],
+  "geometry": {"coordinates":[69.48493000000001,35.28504],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326525413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.54828,32.75787,64.54828,32.75787",
+    "geom:latitude":32.75787,
+    "geom:longitude":64.54828,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306",
+    "gn:asciiname":"Kajaki",
+    "gn:country_code":"AF",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138768,
+    "gn:latitude":32.75787,
+    "gn:longitude":64.54828,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kajak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadzhaki",
+        "Kajakai",
+        "Kajak\u012b",
+        "\u06a9\u062c\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138768
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"41d91644b756673380ae8ece93f1dbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1326525413,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1326525413,
+    "wof:lastmodified":1537581522,
+    "wof:name":"Kajaki",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.54828,
+    32.75787,
+    64.54828,
+    32.75787
+],
+  "geometry": {"coordinates":[64.54828000000001,32.75787],"type":"Point"}
+}

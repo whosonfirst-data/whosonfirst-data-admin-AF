@@ -1,0 +1,75 @@
+{
+  "id": 1243063671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.16312,33.35452,64.16312,33.35452",
+    "geom:latitude":33.35452,
+    "geom:longitude":64.16312,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Surkhaj",
+    "gn:country_code":"AF",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1124153,
+    "gn:latitude":33.35452,
+    "gn:longitude":64.16312,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Surkhadzh",
+        "Su\u1e5fkh\u0101j",
+        "Surkh\u0101j",
+        "\u0633\u0631\u062e\u0627\u062c",
+        "Sorkh\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124153
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0fa5f9b77de5fb31165d410fb09117f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1243063671,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243063671,
+    "wof:lastmodified":1537580277,
+    "wof:name":"Surkhaj",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.16311999999999,
+    33.35452,
+    64.16311999999999,
+    33.35452
+],
+  "geometry": {"coordinates":[64.16311999999999,33.35452],"type":"Point"}
+}

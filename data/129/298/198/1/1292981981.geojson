@@ -1,0 +1,73 @@
+{
+  "id": 1292981981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.90154,34.50184,60.90154,34.50184",
+    "geom:latitude":34.50184,
+    "geom:longitude":60.90154,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Ma'lumah",
+    "gn:country_code":"AF",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134086,
+    "gn:latitude":34.50184,
+    "gn:longitude":60.90154,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ma\u2018l\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maluma",
+        "Ma\u2018l\u016bmeh",
+        "Ma\u2018l\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2255cc5c750305eb7eb2b7d18ee25e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562213,
+            "locality_id":1292981981,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1292981981,
+    "wof:lastmodified":1537581146,
+    "wof:name":"Ma'lumah",
+    "wof:parent_id":1108562213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.90154,
+    34.50184,
+    60.90154,
+    34.50184
+],
+  "geometry": {"coordinates":[60.90154,34.50184],"type":"Point"}
+}

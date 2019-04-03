@@ -1,0 +1,77 @@
+{
+  "id": 1293057307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.73564,31.91955,65.73564,31.91955",
+    "geom:latitude":31.91955,
+    "geom:longitude":65.73564,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Lur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134448,
+    "gn:latitude":31.91955,
+    "gn:longitude":65.73564,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u016br K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0644\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Lurkalay",
+        "L\u016br K\u00ealay",
+        "\u0644\u0648\u0631 \u06a9\u0644\u06cc",
+        "L\u016b\u1e5f Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134448
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9d0f3bd14701d7017b610b48182756dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1293057307,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293057307,
+    "wof:lastmodified":1537581177,
+    "wof:name":"Lur Kelay",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.73564,
+    31.91955,
+    65.73564,
+    31.91955
+],
+  "geometry": {"coordinates":[65.73564,31.91955],"type":"Point"}
+}

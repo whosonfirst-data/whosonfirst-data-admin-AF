@@ -1,0 +1,78 @@
+{
+  "id": 1243169459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.49453,32.6182,62.49453,32.6182",
+    "geom:latitude":32.6182,
+    "geom:longitude":62.49453,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2105.0",
+    "gn:asciiname":"Shaykh Lala",
+    "gn:country_code":"AF",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428185,
+    "gn:latitude":32.6182,
+    "gn:longitude":62.49453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh L\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160aykh L\u0101l\u0101",
+        "\u0160\u0113kh L\u0101l\u0101",
+        "Sh\u0113kh L\u0101l\u0101",
+        "Sheykhlala",
+        "Sheykh L\u0101l\u0101",
+        "Shaykh L\u0101l\u0101",
+        "\u0634\u06cc\u062e \u0644\u0627\u0644\u0627",
+        "\u0634\u06d0\u062e \u0644\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428185
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1a0c9a0cc0eb4fc92d7d21bde4304e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1243169459,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243169459,
+    "wof:lastmodified":1537582649,
+    "wof:name":"Shaykh Lala",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.49453000000001,
+    32.6182,
+    62.49453000000001,
+    32.6182
+],
+  "geometry": {"coordinates":[62.49453000000001,32.6182],"type":"Point"}
+}

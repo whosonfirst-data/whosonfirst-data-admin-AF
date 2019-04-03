@@ -1,0 +1,81 @@
+{
+  "id": 1226030123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84875,33.08398,67.84875,33.08398",
+    "geom:latitude":33.08398,
+    "geom:longitude":67.84875,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":2317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144962,
+    "gn:latitude":33.08398,
+    "gn:longitude":67.84875,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u064a\u0646\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "China",
+        "\u010cina",
+        "Ch\u012bneh",
+        "Ch\u012bnah",
+        "\u0686\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144962
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"04210c54b6a7479dda9597391525ade5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1226030123,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226030123,
+    "wof:lastmodified":1537582059,
+    "wof:name":"Chinah",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84875,
+    33.08398,
+    67.84875,
+    33.08398
+],
+  "geometry": {"coordinates":[67.84875,33.08398],"type":"Point"}
+}

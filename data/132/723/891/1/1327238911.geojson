@@ -1,0 +1,81 @@
+{
+  "id": 1327238911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70289,36.11246,68.70289,36.11246",
+    "geom:latitude":36.11246,
+    "geom:longitude":68.70289,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Pusht-e Nahr",
+    "gn:country_code":"AF",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130435,
+    "gn:latitude":36.11246,
+    "gn:longitude":68.70289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pusht-e Nahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a\u06c0 \u0646\u0647\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0448\u0442\u0438-\u041d\u0430\u0445\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Pu\u0161t-i-Nahr",
+        "Pushti-Nakhar",
+        "Posht-e Nahr",
+        "\u067e\u0634\u062a \u0646\u0647\u0631",
+        "Pusht-e Nahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130435
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3442e8d1ae3cadca2a9408117d692f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1327238911,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327238911,
+    "wof:lastmodified":1537580837,
+    "wof:name":"Pusht-e Nahr",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70289,
+    36.11246,
+    68.70289,
+    36.11246
+],
+  "geometry": {"coordinates":[68.70289,36.11246],"type":"Point"}
+}

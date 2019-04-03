@@ -1,0 +1,75 @@
+{
+  "id": 1343652293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.14593,33.36657,67.14593,33.36657",
+    "geom:latitude":33.36657,
+    "geom:longitude":67.14593,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Qol-e Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":3091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128880,
+    "gn:latitude":33.36657,
+    "gn:longitude":67.14593,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl-e Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u014dle B\u0113\u1e0f",
+        "Qolleh-e-B\u0113d",
+        "Qowl-e B\u012bd",
+        "Q\u014dl-e Bayd",
+        "\u0642\u0648\u0644 \u0628\u06cc\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7da724ae15b86099a75eabb162c3e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1343652293,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343652293,
+    "wof:lastmodified":1537580662,
+    "wof:name":"Qol-e Bayd",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.14593,
+    33.36657,
+    67.14593,
+    33.36657
+],
+  "geometry": {"coordinates":[67.14593000000001,33.36657],"type":"Point"}
+}

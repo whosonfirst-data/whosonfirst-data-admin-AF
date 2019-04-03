@@ -1,0 +1,74 @@
+{
+  "id": 1360178979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.01314,36.1913,65.01314,36.1913",
+    "geom:latitude":36.1913,
+    "geom:longitude":65.01314,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1808",
+    "gn:asciiname":"Qarah Kol",
+    "gn:country_code":"AF",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129598,
+    "gn:latitude":36.1913,
+    "gn:longitude":65.01314,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qara Kol",
+        "Qareh Kol",
+        "Qarah K\u014dl",
+        "\u0642\u0631\u0647 \u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129598
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f47199c0952fd0f28f88f866600a5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562501,
+            "locality_id":1360178979,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1360178979,
+    "wof:lastmodified":1537580744,
+    "wof:name":"Qarah Kol",
+    "wof:parent_id":1108562501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.01314,
+    36.1913,
+    65.01314,
+    36.1913
+],
+  "geometry": {"coordinates":[65.01314000000001,36.1913],"type":"Point"}
+}

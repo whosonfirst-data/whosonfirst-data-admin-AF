@@ -1,0 +1,75 @@
+{
+  "id": 1226103177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19799,32.68791,69.19799,32.68791",
+    "geom:latitude":32.68791,
+    "geom:longitude":69.19799,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Tor Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433936,
+    "gn:latitude":32.68791,
+    "gn:longitude":69.19799,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014dr K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torkalay",
+        "T\u014d\u1e5f Kalay",
+        "Towr Kalay",
+        "T\u014dr K\u00ealay",
+        "\u062a\u0648\u0631 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433936
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f6ea963b87ac75b7ff9d006592e27a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1226103177,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226103177,
+    "wof:lastmodified":1537582697,
+    "wof:name":"Tor Kelay",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19799,
+    32.68791,
+    69.19799,
+    32.68791
+],
+  "geometry": {"coordinates":[69.19799,32.68791],"type":"Point"}
+}

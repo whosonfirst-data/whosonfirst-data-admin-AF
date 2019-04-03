@@ -1,0 +1,74 @@
+{
+  "id": 1293755119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17592,34.82062,69.17592,34.82062",
+    "geom:latitude":34.82062,
+    "geom:longitude":69.17592,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"105.0",
+    "gn:asciiname":"Dowzai",
+    "gn:country_code":"AF",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349773,
+    "gn:latitude":34.82062,
+    "gn:longitude":69.17592,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauzai",
+        "Dawza\u2019\u012b",
+        "\u062f\u0648\u0632\u06cc",
+        "Dowza\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349773
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"951e1a51befafd985754f7ff7170f248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562387,
+            "locality_id":1293755119,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1293755119,
+    "wof:lastmodified":1537582475,
+    "wof:name":"Dowzai",
+    "wof:parent_id":1108562387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17591999999999,
+    34.82062,
+    69.17591999999999,
+    34.82062
+],
+  "geometry": {"coordinates":[69.17591999999999,34.82062],"type":"Point"}
+}

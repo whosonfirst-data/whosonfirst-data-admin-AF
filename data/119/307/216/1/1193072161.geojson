@@ -1,0 +1,74 @@
+{
+  "id": 1193072161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96781,33.43975,68.96781,33.43975",
+    "geom:latitude":33.43975,
+    "geom:longitude":68.96781,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702.0",
+    "gn:asciiname":"Mir Afghan Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435272,
+    "gn:latitude":33.43975,
+    "gn:longitude":68.96781,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br Afgh\u0101n Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012b\u1e5fafgh\u0101n Kal\u0101",
+        "Mirafgankala",
+        "M\u012br Afgh\u0101n Kal\u0101",
+        "\u0645\u06cc\u0631 \u0627\u0641\u063a\u0627\u0646 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ca40a8c81e9ce28191a222fc4bf53e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1193072161,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193072161,
+    "wof:lastmodified":1537582768,
+    "wof:name":"Mir Afghan Kala",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96781,
+    33.43975,
+    68.96781,
+    33.43975
+],
+  "geometry": {"coordinates":[68.96781,33.43975],"type":"Point"}
+}

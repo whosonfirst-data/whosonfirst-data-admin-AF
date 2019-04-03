@@ -1,0 +1,73 @@
+{
+  "id": 1343987687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.08444,36.99778,66.08444,36.99778",
+    "geom:latitude":36.99778,
+    "geom:longitude":66.08444,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704.0",
+    "gn:asciiname":"Chahar Shanghow",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475362,
+    "gn:latitude":36.99778,
+    "gn:longitude":66.08444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Shanghow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u0101rshangho",
+        "Chah\u0101r Shanghow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475362
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d10f17f5a19f2fa37c5fcc96b50fcf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1343987687,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1343987687,
+    "wof:lastmodified":1537583833,
+    "wof:name":"Chahar Shanghow",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.08444,
+    36.99778,
+    66.08444,
+    36.99778
+],
+  "geometry": {"coordinates":[66.08444,36.99778],"type":"Point"}
+}

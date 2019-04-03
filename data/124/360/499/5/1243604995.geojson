@@ -1,0 +1,77 @@
+{
+  "id": 1243604995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.27409,32.56747,67.27409,32.56747",
+    "geom:latitude":32.56747,
+    "geom:longitude":67.27409,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503.0",
+    "gn:asciiname":"Dowlat Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477211,
+    "gn:latitude":32.56747,
+    "gn:longitude":67.27409,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Daulatkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Dawlatkh\u0113l",
+        "Dowlat Kh\u0113l",
+        "\u062f\u0648\u0644\u062a \u062e\u06d0\u0644",
+        "Dowlat Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477211
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"929910cb54401d8f840385ed09c3739b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1243604995,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243604995,
+    "wof:lastmodified":1537583877,
+    "wof:name":"Dowlat Khel",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.27409,
+    32.56747,
+    67.27409,
+    32.56747
+],
+  "geometry": {"coordinates":[67.27409,32.56747],"type":"Point"}
+}

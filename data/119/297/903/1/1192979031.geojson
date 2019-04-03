@@ -1,0 +1,80 @@
+{
+  "id": 1192979031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16255,36.52593,67.16255,36.52593",
+    "geom:latitude":36.52593,
+    "geom:longitude":67.16255,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1611",
+    "gn:asciiname":"Qaburghah",
+    "gn:country_code":"AF",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130259,
+    "gn:latitude":36.52593,
+    "gn:longitude":67.16255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaburghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0628\u0648\u0631\u063a\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0443\u0440\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Qaburgha",
+        "Kaburga",
+        "Qaburghah",
+        "\u0642\u0628\u0631\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130259
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9ada1a2943969ddf3249c7711106f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561891,
+            "locality_id":1192979031,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1192979031,
+    "wof:lastmodified":1537580825,
+    "wof:name":"Qaburghah",
+    "wof:parent_id":1108561891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16255,
+    36.52593,
+    67.16255,
+    36.52593
+],
+  "geometry": {"coordinates":[67.16255,36.52593],"type":"Point"}
+}

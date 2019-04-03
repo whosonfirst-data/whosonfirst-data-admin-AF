@@ -1,0 +1,67 @@
+{
+  "id": 1343544881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.85,31.8,64.85,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":64.85,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dagian",
+    "gn:country_code":"AF",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144728,
+    "gn:latitude":31.8,
+    "gn:longitude":64.85,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"D\u0101gi\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144728
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f2b00704cd350b164ed016ea4ffa671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1343544881,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343544881,
+    "wof:lastmodified":1536622412,
+    "wof:name":"Dagian",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.85,
+    31.8,
+    64.85,
+    31.8
+],
+  "geometry": {"coordinates":[64.84999999999999,31.8],"type":"Point"}
+}

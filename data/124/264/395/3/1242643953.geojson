@@ -1,0 +1,77 @@
+{
+  "id": 1242643953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44551,34.05434,68.44551,34.05434",
+    "geom:latitude":34.05434,
+    "geom:longitude":68.44551,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Khanak Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458884,
+    "gn:latitude":34.05434,
+    "gn:longitude":68.44551,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101nak Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khanakkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101nakkh\u0113l",
+        "Kh\u0101nakkheyl",
+        "Kh\u0101nak Kh\u0113l",
+        "\u062e\u0627\u0646\u06a9 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458884
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"857983e20cf361d185208d8eca1818e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1242643953,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242643953,
+    "wof:lastmodified":1537583279,
+    "wof:name":"Khanak Khel",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44551,
+    34.05434,
+    68.44551,
+    34.05434
+],
+  "geometry": {"coordinates":[68.44551,34.05434],"type":"Point"}
+}

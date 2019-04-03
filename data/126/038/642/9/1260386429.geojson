@@ -1,0 +1,72 @@
+{
+  "id": 1260386429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.42272,31.89281,61.42272,31.89281",
+    "geom:latitude":31.89281,
+    "geom:longitude":61.42272,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Lisaw",
+    "gn:country_code":"AF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134648,
+    "gn:latitude":31.89281,
+    "gn:longitude":61.42272,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lisaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0644\u0633\u0648",
+        "Lesaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134648
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d75d59d854f3122b9611883858c94aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1260386429,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1260386429,
+    "wof:lastmodified":1537581192,
+    "wof:name":"Lisaw",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.42272,
+    31.89281,
+    61.42272,
+    31.89281
+],
+  "geometry": {"coordinates":[61.42272,31.89281],"type":"Point"}
+}

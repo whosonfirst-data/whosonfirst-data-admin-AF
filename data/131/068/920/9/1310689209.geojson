@@ -1,0 +1,77 @@
+{
+  "id": 1310689209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.52032,33.85222,63.52032,33.85222",
+    "geom:latitude":33.85222,
+    "geom:longitude":63.52032,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Khuram Shahr",
+    "gn:country_code":"AF",
+    "gn:dem":2218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136553,
+    "gn:latitude":33.85222,
+    "gn:longitude":63.52032,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khuram Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh Khurram Shahr",
+        "Kho\u1e5famsahr",
+        "Deh Khuram Shar",
+        "Khuram Shar",
+        "Khorramshahr",
+        "Khuram Shahr",
+        "\u062e\u0631\u0645 \u0634\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136553
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c77bb1bf40caa4acca4ecc29ee3ef4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1310689209,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1310689209,
+    "wof:lastmodified":1537581350,
+    "wof:name":"Khuram Shahr",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.52032,
+    33.85222,
+    63.52032,
+    33.85222
+],
+  "geometry": {"coordinates":[63.52032,33.85222],"type":"Point"}
+}

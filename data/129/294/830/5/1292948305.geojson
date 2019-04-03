@@ -1,0 +1,76 @@
+{
+  "id": 1292948305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35521,32.50349,66.35521,32.50349",
+    "geom:latitude":32.50349,
+    "geom:longitude":66.35521,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Sharak",
+    "gn:country_code":"AF",
+    "gn:dem":2636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428092,
+    "gn:latitude":32.50349,
+    "gn:longitude":66.35521,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sharak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u0160arak",
+        "Sharak",
+        "\u0634\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"85a65af43e2a007d1f7f768693fd78f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1292948305,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1292948305,
+    "wof:lastmodified":1537582648,
+    "wof:name":"Sharak",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35521,
+    32.50349,
+    66.35521,
+    32.50349
+],
+  "geometry": {"coordinates":[66.35521,32.50349],"type":"Point"}
+}

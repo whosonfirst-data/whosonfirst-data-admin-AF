@@ -1,0 +1,73 @@
+{
+  "id": 1259341215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62656,31.21417,66.62656,31.21417",
+    "geom:latitude":31.21417,
+    "geom:longitude":66.62656,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Daman Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465757,
+    "gn:latitude":31.21417,
+    "gn:longitude":66.62656,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101m\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101m\u0101n K\u00ealay",
+        "D\u0101m\u0101n Kalay",
+        "\u062f\u0627\u0645\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7840e22a5393e76de20342122b7717b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1259341215,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259341215,
+    "wof:lastmodified":1537583407,
+    "wof:name":"Daman Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62656,
+    31.21417000000001,
+    66.62656,
+    31.21417000000001
+],
+  "geometry": {"coordinates":[66.62656,31.21417000000001],"type":"Point"}
+}

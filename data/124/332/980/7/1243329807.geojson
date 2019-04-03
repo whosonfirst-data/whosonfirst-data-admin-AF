@@ -1,0 +1,78 @@
+{
+  "id": 1243329807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09528,34.17237,70.09528,34.17237",
+    "geom:latitude":34.17237,
+    "geom:longitude":70.09528,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"804.0",
+    "gn:asciiname":"Loy Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473424,
+    "gn:latitude":34.17237,
+    "gn:longitude":70.09528,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06cc \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u014dy Kalay",
+        "Loy-Kalay",
+        "Lowy Kalay",
+        "L\u014dy K\u00ealay",
+        "\u0644\u0648\u06cc \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473424
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffdfb7845a16c509ca3e6f0ee157961d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562503,
+            "locality_id":1243329807,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243329807,
+    "wof:lastmodified":1537583758,
+    "wof:name":"Loy Kelay",
+    "wof:parent_id":1108562503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09528,
+    34.17237,
+    70.09528,
+    34.17237
+],
+  "geometry": {"coordinates":[70.09528,34.17237],"type":"Point"}
+}

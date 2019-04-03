@@ -1,0 +1,77 @@
+{
+  "id": 1309863965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.17936,31.51314,66.17936,31.51314",
+    "geom:latitude":31.51314,
+    "geom:longitude":66.17936,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Shorlin",
+    "gn:country_code":"AF",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123532,
+    "gn:latitude":31.51314,
+    "gn:longitude":66.17936,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014drlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016brlen",
+        "\u0160orlen",
+        "Sh\u014drlen",
+        "Shorlin",
+        "Sh\u014drlin",
+        "\u0634\u0648\u0631\u0644\u0646",
+        "Sh\u016b\u1e5flen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123532
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11d72e4c108f0180cf2b04c76106f134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1309863965,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309863965,
+    "wof:lastmodified":1537580231,
+    "wof:name":"Shorlin",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.17936,
+    31.51314,
+    66.17936,
+    31.51314
+],
+  "geometry": {"coordinates":[66.17936,31.51314],"type":"Point"}
+}

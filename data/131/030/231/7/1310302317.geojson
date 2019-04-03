@@ -1,0 +1,74 @@
+{
+  "id": 1310302317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.97569,32.9948,63.97569,32.9948",
+    "geom:latitude":32.9948,
+    "geom:longitude":63.97569,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Awshu",
+    "gn:country_code":"AF",
+    "gn:dem":2192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443940,
+    "gn:latitude":32.9948,
+    "gn:longitude":63.97569,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awsh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aw\u0161\u016b",
+        "Awsh\u016b",
+        "\u0627\u0648\u0634\u0648",
+        "Awshow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443940
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff7fd19422a025ead83ada876aab8889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1310302317,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1310302317,
+    "wof:lastmodified":1537582952,
+    "wof:name":"Awshu",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.97569,
+    32.9948,
+    63.97569,
+    32.9948
+],
+  "geometry": {"coordinates":[63.97569,32.9948],"type":"Point"}
+}

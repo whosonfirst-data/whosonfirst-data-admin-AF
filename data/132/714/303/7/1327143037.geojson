@@ -1,0 +1,74 @@
+{
+  "id": 1327143037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.42696,35.21561,64.42696,35.21561",
+    "geom:latitude":35.21561,
+    "geom:longitude":64.42696,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Tar Shaybal",
+    "gn:country_code":"AF",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122728,
+    "gn:latitude":35.21561,
+    "gn:longitude":64.42696,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101r Shaybal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101\u1e5fs\u0304\u0113bal",
+        "T\u0101rsh\u0113bal",
+        "T\u0101r Shaybal",
+        "\u062a\u0627\u0631 \u0634\u06cc\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122728
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"04a38b55909c2a96f64bb824dfd182c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1327143037,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1327143037,
+    "wof:lastmodified":1537580181,
+    "wof:name":"Tar Shaybal",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.42696,
+    35.21561,
+    64.42696,
+    35.21561
+],
+  "geometry": {"coordinates":[64.42695999999999,35.21561],"type":"Point"}
+}

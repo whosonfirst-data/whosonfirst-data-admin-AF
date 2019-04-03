@@ -1,0 +1,74 @@
+{
+  "id": 1259410793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87481,33.85823,65.87481,33.85823",
+    "geom:latitude":33.85823,
+    "geom:longitude":65.87481,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405.0",
+    "gn:asciiname":"Chikak",
+    "gn:country_code":"AF",
+    "gn:dem":2728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145150,
+    "gn:latitude":33.85823,
+    "gn:longitude":65.87481,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chikak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cekak",
+        "Chikak",
+        "\u0686\u06a9\u06a9",
+        "Chekak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145150
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fbc3356ef1b14a8d141289780725a4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1259410793,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1259410793,
+    "wof:lastmodified":1537582079,
+    "wof:name":"Chikak",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87481,
+    33.85823,
+    65.87481,
+    33.85823
+],
+  "geometry": {"coordinates":[65.87481,33.85823],"type":"Point"}
+}

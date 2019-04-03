@@ -1,0 +1,78 @@
+{
+  "id": 1276141791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48453,33.47092,68.48453,33.47092",
+    "geom:latitude":33.47092,
+    "geom:longitude":68.48453,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"615.0",
+    "gn:asciiname":"Arzu",
+    "gn:country_code":"AF",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148318,
+    "gn:latitude":33.47092,
+    "gn:longitude":68.48453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arzu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0100\u1e5fzo",
+        "Arzu",
+        "\u0100rez\u014d",
+        "\u0100rez\u016b",
+        "\u0100rz\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148318
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fee71245d9c732eb8a85e3f39aa822c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1276141791,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276141791,
+    "wof:lastmodified":1537582333,
+    "wof:name":"Arzu",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48453,
+    33.47092,
+    68.48453,
+    33.47092
+],
+  "geometry": {"coordinates":[68.48453000000001,33.47092],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344118143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41099,32.4735,67.41099,32.4735",
+    "geom:latitude":32.4735,
+    "geom:longitude":67.41099,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Musa Zai",
+    "gn:country_code":"AF",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439218,
+    "gn:latitude":32.4735,
+    "gn:longitude":67.41099,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0649 \u0632\u0627\u06cc"
+    ],
+    "name:und_x_variant":[
+        "M\u016bs\u0101zi",
+        "M\u016bs\u00e1 Za\u012b",
+        "\u0645\u0648\u0633\u0649 \u0632\u06cc",
+        "M\u016bs\u00e1 Z\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439218
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f0c860a982f85911e8ba297ac0afdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1344118143,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1344118143,
+    "wof:lastmodified":1537582924,
+    "wof:name":"Musa Zai",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41099,
+    32.4735,
+    67.41099,
+    32.4735
+],
+  "geometry": {"coordinates":[67.41099,32.4735],"type":"Point"}
+}

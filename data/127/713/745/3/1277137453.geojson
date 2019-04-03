@@ -1,0 +1,73 @@
+{
+  "id": 1277137453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.73467,35.90409,66.73467,35.90409",
+    "geom:latitude":35.90409,
+    "geom:longitude":66.73467,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Ramah Rah",
+    "gn:country_code":"AF",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128563,
+    "gn:latitude":35.90409,
+    "gn:longitude":66.73467,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ramah R\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramah R\u0101h",
+        "\u0631\u0645\u0647 \u0631\u0627\u0647",
+        "\u1e5eama\u1e5f\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128563
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"79555f56b6366adcc3dca10e219ed978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1277137453,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1277137453,
+    "wof:lastmodified":1537580635,
+    "wof:name":"Ramah Rah",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.73467,
+    35.90409000000001,
+    66.73467,
+    35.90409000000001
+],
+  "geometry": {"coordinates":[66.73466999999999,35.90409000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259796495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.05469,35.04664,64.05469,35.04664",
+    "geom:latitude":35.04664,
+    "geom:longitude":64.05469,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Mushlagh",
+    "gn:country_code":"AF",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132729,
+    "gn:latitude":35.04664,
+    "gn:longitude":64.05469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mushl\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mus\u0304l\u0101gh",
+        "Moshl\u0101gh",
+        "Mushl\u0101gh",
+        "\u0645\u0634\u0644\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132729
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ce353268d52ba349280b41ef4689bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1259796495,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1259796495,
+    "wof:lastmodified":1537581032,
+    "wof:name":"Mushlagh",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.05469000000001,
+    35.04664,
+    64.05469000000001,
+    35.04664
+],
+  "geometry": {"coordinates":[64.05469000000001,35.04664],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1360241805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5892,36.67671,69.5892,36.67671",
+    "geom:latitude":36.67671,
+    "geom:longitude":69.5892,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Ayd Bachah",
+    "gn:country_code":"AF",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468207,
+    "gn:latitude":36.67671,
+    "gn:longitude":69.5892,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100yd Bachah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u064a\u062f \u0628\u0686\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0431\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0100yd Ba\u010da",
+        "Aydbacha",
+        "\u0100yd Bachcheh",
+        "\u0100yd Bachah",
+        "\u0622\u06cc\u062f \u0628\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468207
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"72dd187cc0a1e7b6657eb1daff522d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1360241805,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1360241805,
+    "wof:lastmodified":1537583541,
+    "wof:name":"Ayd Bachah",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5892,
+    36.67671,
+    69.5892,
+    36.67671
+],
+  "geometry": {"coordinates":[69.58920000000001,36.67671],"type":"Point"}
+}

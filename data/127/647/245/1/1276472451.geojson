@@ -1,0 +1,73 @@
+{
+  "id": 1276472451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0827,33.91658,67.0827,33.91658",
+    "geom:latitude":33.91658,
+    "geom:longitude":67.0827,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407",
+    "gn:asciiname":"Sumuchak",
+    "gn:country_code":"AF",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123650,
+    "gn:latitude":33.91658,
+    "gn:longitude":67.0827,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016bm\u016bchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bm\u016b\u010dak",
+        "S\u016bm\u016bchak",
+        "\u0633\u0648\u0645\u0648\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123650
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4de6c92d07dd955d90197308454bfc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1276472451,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276472451,
+    "wof:lastmodified":1537580239,
+    "wof:name":"Sumuchak",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0827,
+    33.91658,
+    67.0827,
+    33.91658
+],
+  "geometry": {"coordinates":[67.0827,33.91658],"type":"Point"}
+}

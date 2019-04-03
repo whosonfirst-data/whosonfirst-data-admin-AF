@@ -1,0 +1,75 @@
+{
+  "id": 1344140571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.99338,32.3232,64.99338,32.3232",
+    "geom:latitude":32.3232,
+    "geom:longitude":64.99338,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303",
+    "gn:asciiname":"Kochak",
+    "gn:country_code":"AF",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135463,
+    "gn:latitude":32.3232,
+    "gn:longitude":64.99338,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u010dak",
+        "Kochak",
+        "K\u014dchak",
+        "\u06a9\u0648\u0686\u06a9",
+        "K\u016bchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135463
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c992b0f7911d7a06822093b5f1658ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1344140571,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1344140571,
+    "wof:lastmodified":1537581255,
+    "wof:name":"Kochak",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.99338,
+    32.3232,
+    64.99338,
+    32.3232
+],
+  "geometry": {"coordinates":[64.99338,32.3232],"type":"Point"}
+}

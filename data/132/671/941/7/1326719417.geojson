@@ -1,0 +1,80 @@
+{
+  "id": 1326719417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.07643,33.03526,65.07643,33.03526",
+    "geom:latitude":33.03526,
+    "geom:longitude":65.07643,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Sar Jinjay",
+    "gn:country_code":"AF",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126946,
+    "gn:latitude":33.03526,
+    "gn:longitude":65.07643,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Jinjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0654 \u062c\u0646\u062c\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0434\u0436\u0438\u043d\u0434\u0436\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sardzhindzhay",
+        "Sar Jinjay",
+        "\u0633\u0631 \u062c\u0646\u062c\u06cc",
+        "Sar Jenjay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126946
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d4abfdda9ec7b9c8bb529c32b3c1f24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1326719417,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1326719417,
+    "wof:lastmodified":1537580515,
+    "wof:name":"Sar Jinjay",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.07643,
+    33.03526,
+    65.07643,
+    33.03526
+],
+  "geometry": {"coordinates":[65.07643,33.03526],"type":"Point"}
+}

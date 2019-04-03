@@ -1,0 +1,74 @@
+{
+  "id": 1226388133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.19727,35.94176,67.19727,35.94176",
+    "geom:latitude":35.94176,
+    "geom:longitude":67.19727,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Pishay",
+    "gn:country_code":"AF",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130728,
+    "gn:latitude":35.94176,
+    "gn:longitude":67.19727,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pishay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pes\u0304ay",
+        "Peshay",
+        "Pishay",
+        "\u067e\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130728
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ac0a6f8510c2a7c28e37917fb478d4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1226388133,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1226388133,
+    "wof:lastmodified":1537580863,
+    "wof:name":"Pishay",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.19726999999999,
+    35.94175999999999,
+    67.19726999999999,
+    35.94175999999999
+],
+  "geometry": {"coordinates":[67.19726999999999,35.94175999999999],"type":"Point"}
+}

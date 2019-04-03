@@ -1,0 +1,72 @@
+{
+  "id": 1293586593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.39339,32.31703,61.39339,32.31703",
+    "geom:latitude":32.31703,
+    "geom:longitude":61.39339,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2108.0",
+    "gn:asciiname":"Salimabad",
+    "gn:country_code":"AF",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1438784,
+    "gn:latitude":32.31703,
+    "gn:longitude":61.39339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sal\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sal\u012bm\u0101b\u0101d",
+        "\u0633\u0644\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95e37089ef0e5a0f31ed339b2b10f476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1293586593,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293586593,
+    "wof:lastmodified":1537582897,
+    "wof:name":"Salimabad",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.39339,
+    32.31703,
+    61.39339,
+    32.31703
+],
+  "geometry": {"coordinates":[61.39339,32.31703],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293023353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0451,34.43234,67.0451,34.43234",
+    "geom:latitude":34.43234,
+    "geom:longitude":67.0451,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Qal'ah-ye Akhund",
+    "gn:country_code":"AF",
+    "gn:dem":2941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462359,
+    "gn:latitude":34.43234,
+    "gn:longitude":67.0451,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye \u0100kh\u016bnd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaakhund",
+        "Qal\u2018a-i-\u0100khun\u1e0f",
+        "Qal\u2018a \u0100khun\u1e0f",
+        "Qal\u2018ah-ye \u0100kh\u016bnd",
+        "Qal\u2018eh-ye \u0100khvond",
+        "\u0642\u0644\u0639\u0647 \u0622\u062e\u0648\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462359
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6d03faec8190580d31c5619fb9e66c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1293023353,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293023353,
+    "wof:lastmodified":1537583364,
+    "wof:name":"Qal'ah-ye Akhund",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0451,
+    34.43234,
+    67.0451,
+    34.43234
+],
+  "geometry": {"coordinates":[67.04510000000001,34.43234],"type":"Point"}
+}

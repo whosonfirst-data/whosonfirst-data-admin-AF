@@ -1,0 +1,75 @@
+{
+  "id": 1260277751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97968,34.33215,65.97968,34.33215",
+    "geom:latitude":34.33215,
+    "geom:longitude":65.97968,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Quriq",
+    "gn:country_code":"AF",
+    "gn:dem":2939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128958,
+    "gn:latitude":34.33215,
+    "gn:longitude":65.97968,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Quriq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuris",
+        "Qoregh",
+        "Quriq",
+        "\u0642\u0631\u0642",
+        "Qoreq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128958
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a78942f40a21eb63b853b8c4ed35bbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1260277751,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1260277751,
+    "wof:lastmodified":1537580671,
+    "wof:name":"Quriq",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97968,
+    34.33215,
+    65.97968,
+    34.33215
+],
+  "geometry": {"coordinates":[65.97968,34.33215],"type":"Point"}
+}

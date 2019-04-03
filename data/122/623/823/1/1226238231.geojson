@@ -1,0 +1,78 @@
+{
+  "id": 1226238231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.13431,33.43125,65.13431,33.43125",
+    "geom:latitude":33.43125,
+    "geom:longitude":65.13431,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2706.0",
+    "gn:asciiname":"Amrutak",
+    "gn:country_code":"AF",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148736,
+    "gn:latitude":33.43125,
+    "gn:longitude":65.13431,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Amrutak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0631\u062a\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0440\u0443\u0442\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0645\u0631\u062a\u06a9",
+        "Amrotak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148736
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"01e194626ec8d7422d9ed81b05120f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1226238231,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226238231,
+    "wof:lastmodified":1537582361,
+    "wof:name":"Amrutak",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.13431,
+    33.43125,
+    65.13431,
+    33.43125
+],
+  "geometry": {"coordinates":[65.13431,33.43125],"type":"Point"}
+}

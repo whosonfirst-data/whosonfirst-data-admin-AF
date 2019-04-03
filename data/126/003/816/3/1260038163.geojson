@@ -1,0 +1,76 @@
+{
+  "id": 1260038163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53681,31.4196,65.53681,31.4196",
+    "geom:latitude":31.4196,
+    "geom:longitude":65.53681,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Nahr-e Shifa",
+    "gn:country_code":"AF",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466893,
+    "gn:latitude":31.4196,
+    "gn:longitude":65.53681,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nahr-e Shif\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nahre \u0160ef\u0101",
+        "Nahr-e Shef\u0101",
+        "Nakhri-Shifa",
+        "Nahr-e Shif\u0101",
+        "\u0646\u0647\u0631 \u0634\u0641\u0627",
+        "Nahr-e Shaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466893
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98a3d670bfd1276f8aade895fb25672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1260038163,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1260038163,
+    "wof:lastmodified":1537583445,
+    "wof:name":"Nahr-e Shifa",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53681,
+    31.4196,
+    65.53681,
+    31.4196
+],
+  "geometry": {"coordinates":[65.53681,31.4196],"type":"Point"}
+}

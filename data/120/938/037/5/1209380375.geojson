@@ -1,0 +1,70 @@
+{
+  "id": 1209380375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.95889,31.01667,61.95889,31.01667",
+    "geom:latitude":31.01667,
+    "geom:longitude":61.95889,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2201",
+    "gn:asciiname":"Mayno",
+    "gn:country_code":"AF",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133654,
+    "gn:latitude":31.01667,
+    "gn:longitude":61.95889,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mayn\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Mayn\u014d",
+        "Meynow",
+        "\u0645\u06cc\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133654
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bd4786536f6b28d4d76fc8a6f62b1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209380375
+        }
+    ],
+    "wof:id":1209380375,
+    "wof:lastmodified":1537581111,
+    "wof:name":"Mayno",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.95889,
+    31.01667,
+    61.95889,
+    31.01667
+],
+  "geometry": {"coordinates":[61.95889,31.01667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243339285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63182,34.03902,70.63182,34.03902",
+    "geom:latitude":34.03902,
+    "geom:longitude":70.63182,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Lawar",
+    "gn:country_code":"AF",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469691,
+    "gn:latitude":34.03902,
+    "gn:longitude":70.63182,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101war",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lavar",
+        "L\u0101war",
+        "\u0644\u0627\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"24c9ab0e9a3e3cac9ec57d9282954e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1243339285,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243339285,
+    "wof:lastmodified":1537583624,
+    "wof:name":"Lawar",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63181999999998,
+    34.03902,
+    70.63181999999998,
+    34.03902
+],
+  "geometry": {"coordinates":[70.63181999999998,34.03902],"type":"Point"}
+}

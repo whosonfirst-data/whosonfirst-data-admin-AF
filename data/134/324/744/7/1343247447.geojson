@@ -1,0 +1,79 @@
+{
+  "id": 1343247447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27054,33.46223,68.27054,33.46223",
+    "geom:latitude":33.46223,
+    "geom:longitude":68.27054,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"618",
+    "gn:asciiname":"Gudal-e Shamsher",
+    "gn:country_code":"AF",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140868,
+    "gn:latitude":33.46223,
+    "gn:longitude":68.27054,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gudal-e Shamsh\u0113r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u062f\u0644\u06cc \u0634\u0645\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Godale \u0160am\u0161\u0113r",
+        "Gudali-Shamsher",
+        "Godal-e Shamshayr",
+        "Godal-e Shamsh\u012br",
+        "Gudal-e Shamsh\u0113r",
+        "\u06af\u062f\u0644 \u0634\u0645\u0634\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140868
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f78e3f2c383c6c052c5714062623ae34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1343247447,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343247447,
+    "wof:lastmodified":1537581701,
+    "wof:name":"Gudal-e Shamsher",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27054,
+    33.46223,
+    68.27054,
+    33.46223
+],
+  "geometry": {"coordinates":[68.27054,33.46223],"type":"Point"}
+}

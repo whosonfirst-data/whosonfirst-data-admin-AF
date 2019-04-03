@@ -1,0 +1,74 @@
+{
+  "id": 1259384457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58845,35.81373,68.58845,35.81373",
+    "geom:latitude":35.81373,
+    "geom:longitude":68.58845,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"Charmab",
+    "gn:country_code":"AF",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145328,
+    "gn:latitude":35.81373,
+    "gn:longitude":68.58845,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Charm\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010carm\u0101b",
+        "Charmab",
+        "Charm\u0101b",
+        "\u0686\u0631\u0645\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145328
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4134f6be4d810d7a549fa2a182f85b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1259384457,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259384457,
+    "wof:lastmodified":1537582093,
+    "wof:name":"Charmab",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58845,
+    35.81373,
+    68.58845,
+    35.81373
+],
+  "geometry": {"coordinates":[68.58844999999999,35.81373],"type":"Point"}
+}

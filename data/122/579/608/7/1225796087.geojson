@@ -1,0 +1,67 @@
+{
+  "id": 1225796087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39583,33.02333,67.39583,33.02333",
+    "geom:latitude":33.02333,
+    "geom:longitude":67.39583,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sar-e Qadi",
+    "gn:country_code":"AF",
+    "gn:dem":2596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450718,
+    "gn:latitude":33.02333,
+    "gn:longitude":67.39583,
+    "gn:modification_date":"2003-09-30",
+    "gn:name":"Sar-e Q\u0101\u1e0fi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450718
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e636a78f1585f5442badeb9bf224785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1225796087,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225796087,
+    "wof:lastmodified":1537082281,
+    "wof:name":"Sar-e Qadi",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39583,
+    33.02333,
+    67.39583,
+    33.02333
+],
+  "geometry": {"coordinates":[67.39583,33.02333],"type":"Point"}
+}

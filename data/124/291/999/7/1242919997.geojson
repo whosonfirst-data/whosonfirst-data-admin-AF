@@ -1,0 +1,73 @@
+{
+  "id": 1242919997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91759,35.75666,66.91759,35.75666",
+    "geom:latitude":35.75666,
+    "geom:longitude":66.91759,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Takha'i",
+    "gn:country_code":"AF",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123237,
+    "gn:latitude":35.75666,
+    "gn:longitude":66.91759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takha\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takha\u2019\u012b",
+        "\u062a\u062e\u0626\u06cc",
+        "Takha\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123237
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f09e81b93b6b2b0667822befa3050bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1242919997,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1242919997,
+    "wof:lastmodified":1537580211,
+    "wof:name":"Takha'i",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91759,
+    35.75666,
+    66.91759,
+    35.75666
+],
+  "geometry": {"coordinates":[66.91759,35.75666],"type":"Point"}
+}

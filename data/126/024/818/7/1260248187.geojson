@@ -1,0 +1,78 @@
+{
+  "id": 1260248187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6207,34.43849,70.6207,34.43849",
+    "geom:latitude":34.43849,
+    "geom:longitude":70.6207,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"818.0",
+    "gn:asciiname":"Bar Shilam",
+    "gn:country_code":"AF",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468875,
+    "gn:latitude":34.43849,
+    "gn:longitude":70.6207,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Shil\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u0627\u0645\u0654 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bar \u0160il\u0101m",
+        "Bar-Shilam",
+        "Bar Sh\u0113l\u0101m",
+        "Bar Shil\u0101m",
+        "\u0628\u0631 \u0634\u0644\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468875
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc087eb77448ebe577cdc1a10fc66746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562125,
+            "locality_id":1260248187,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1260248187,
+    "wof:lastmodified":1537583573,
+    "wof:name":"Bar Shilam",
+    "wof:parent_id":1108562125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6207,
+    34.43849,
+    70.6207,
+    34.43849
+],
+  "geometry": {"coordinates":[70.6207,34.43849],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242852465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.04192,34.27187,61.04192,34.27187",
+    "geom:latitude":34.27187,
+    "geom:longitude":61.04192,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2009",
+    "gn:asciiname":"Rabaturk",
+    "gn:country_code":"AF",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1128301,
+    "gn:latitude":34.27187,
+    "gn:longitude":61.04192,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163urk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e5eab\u0101tu\u1e5fk",
+        "Reb\u0101\u0163-e Tork",
+        "Rib\u0101t-i-Turk",
+        "Rab\u0101\u0163urk",
+        "\u0631\u0628\u0627\u0637\u0631\u06a9",
+        "Rob\u0101\u0163-e Tork"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128301
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"543316b4eef177f73b42b09695eb6ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562035,
+            "locality_id":1242852465,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242852465,
+    "wof:lastmodified":1537580616,
+    "wof:name":"Rabaturk",
+    "wof:parent_id":1108562035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.04192,
+    34.27187,
+    61.04192,
+    34.27187
+],
+  "geometry": {"coordinates":[61.04192,34.27187],"type":"Point"}
+}

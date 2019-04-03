@@ -1,0 +1,80 @@
+{
+  "id": 1243119575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29523,32.38489,67.29523,32.38489",
+    "geom:latitude":32.38489,
+    "geom:longitude":67.29523,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Mulla Bahlol Korunah",
+    "gn:country_code":"AF",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132980,
+    "gn:latitude":32.38489,
+    "gn:longitude":67.29523,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Bahl\u014dl K\u014dr\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u0647\u0627\u06cc \u0645\u0644\u0627 \u0628\u0647\u0644\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Mulla-Bakhlol\u2019-Koruna"
+    ],
+    "name:und_x_variant":[
+        "Mol\u0101 Bahl\u014dl K\u014d\u1e5f\u016bna",
+        "Mull\u0101 Bahl\u014dl K\u014dr\u016bnah",
+        "\u0645\u0644\u0627 \u0628\u0647\u0644\u0648\u0644 \u06a9\u0648\u0631\u0648\u0646\u0647",
+        "Moll\u0101 Bahl\u016bl Kowr\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9fdd78fb9599f2f0870f99597c78739a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1243119575,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243119575,
+    "wof:lastmodified":1537581054,
+    "wof:name":"Mulla Bahlol Korunah",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29523,
+    32.38489000000001,
+    67.29523,
+    32.38489000000001
+],
+  "geometry": {"coordinates":[67.29523,32.38489000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242775183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.52381,32.61214,62.52381,32.61214",
+    "geom:latitude":32.61214,
+    "geom:longitude":62.52381,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Dizak",
+    "gn:country_code":"AF",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142980,
+    "gn:latitude":32.61214,
+    "gn:longitude":62.52381,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u012bzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehzak",
+        "Dizak",
+        "D\u012bzak",
+        "\u062f\u06cc\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142980,
+        "wk:page":"Dizak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c6fdf8dd158ae70fa360f2963763d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1242775183,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242775183,
+    "wof:lastmodified":1537581877,
+    "wof:name":"Dizak",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.52381,
+    32.61214,
+    62.52381,
+    32.61214
+],
+  "geometry": {"coordinates":[62.52381,32.61214],"type":"Point"}
+}

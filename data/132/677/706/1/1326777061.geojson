@@ -1,0 +1,77 @@
+{
+  "id": 1326777061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77195,37.16558,67.77195,37.16558",
+    "geom:latitude":37.16558,
+    "geom:longitude":67.77195,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1613.0",
+    "gn:asciiname":"Kaldar",
+    "gn:country_code":"AF",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427091,
+    "gn:latitude":37.16558,
+    "gn:longitude":67.77195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kald\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kal\u2019dar"
+    ],
+    "name:und_x_variant":[
+        "Kald\u0101r",
+        "Kaldar",
+        "\u06a9\u0644\u062f\u0631",
+        "\u06a9\u0644\u062f\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427091
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"463355a7f5aa3c6a2aa1cf5040071b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562119,
+            "locality_id":1326777061,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326777061,
+    "wof:lastmodified":1537582640,
+    "wof:name":"Kaldar",
+    "wof:parent_id":1108562119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77195,
+    37.16558,
+    67.77195,
+    37.16558
+],
+  "geometry": {"coordinates":[67.77195,37.16558],"type":"Point"}
+}

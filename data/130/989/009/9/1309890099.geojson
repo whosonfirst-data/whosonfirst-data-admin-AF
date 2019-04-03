@@ -1,0 +1,79 @@
+{
+  "id": 1309890099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.99271,34.05802,64.99271,34.05802",
+    "geom:latitude":34.05802,
+    "geom:longitude":64.99271,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Mutah Dewal",
+    "gn:country_code":"AF",
+    "gn:dem":2780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1132714,
+    "gn:latitude":34.05802,
+    "gn:longitude":64.99271,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mutah D\u0113w\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "Mutadeval\u2019"
+    ],
+    "name:und_x_variant":[
+        "Mota \u1e0e\u0113w\u0101i",
+        "Mota \u1e0e\u0113w\u0101l",
+        "Motah D\u012bv\u0101r",
+        "Mutah Dayw\u0101l",
+        "\u0645\u062a\u0647 \u062f\u06cc\u0648\u0627\u0644",
+        "Mutah D\u0113w\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132714
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31a53c689a75f79caa713cb7fd642270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1309890099,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309890099,
+    "wof:lastmodified":1537581029,
+    "wof:name":"Mutah Dewal",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.99271,
+    34.05802,
+    64.99271,
+    34.05802
+],
+  "geometry": {"coordinates":[64.99271,34.05802],"type":"Point"}
+}

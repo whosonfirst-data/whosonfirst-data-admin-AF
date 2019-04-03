@@ -1,0 +1,75 @@
+{
+  "id": 1327388299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.9073,34.51514,67.9073,34.51514",
+    "geom:latitude":34.51514,
+    "geom:longitude":67.9073,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Bursunak",
+    "gn:country_code":"AF",
+    "gn:dem":3089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476124,
+    "gn:latitude":34.51514,
+    "gn:longitude":67.9073,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bursunak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u1e5fsonak",
+        "Bors\u014dnak",
+        "Borsonak",
+        "Bursunak",
+        "\u0628\u0631\u0633\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476124
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a39f8f32c51a5e0a3dd804f9aa9c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1327388299,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1327388299,
+    "wof:lastmodified":1537583843,
+    "wof:name":"Bursunak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.9073,
+    34.51514,
+    67.9073,
+    34.51514
+],
+  "geometry": {"coordinates":[67.90730000000001,34.51514],"type":"Point"}
+}

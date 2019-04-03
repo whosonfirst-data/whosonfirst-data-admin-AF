@@ -1,0 +1,81 @@
+{
+  "id": 1276175093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29203,31.65346,67.29203,31.65346",
+    "geom:latitude":31.65346,
+    "geom:longitude":67.29203,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508",
+    "gn:asciiname":"Dur Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142835,
+    "gn:latitude":31.65346,
+    "gn:longitude":67.29203,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dur Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Durkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eu\u1e5fkh\u0113l",
+        "Dur Kh\u0113l",
+        "\u062f\u0631 \u062e\u06d0\u0644",
+        "Dor Kheyl",
+        "Durkheyl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142835
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3eb6b78902ccd051dc92c53837dac89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1276175093,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276175093,
+    "wof:lastmodified":1537581864,
+    "wof:name":"Dur Khel",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29203000000001,
+    31.65346,
+    67.29203000000001,
+    31.65346
+],
+  "geometry": {"coordinates":[67.29203000000001,31.65346],"type":"Point"}
+}

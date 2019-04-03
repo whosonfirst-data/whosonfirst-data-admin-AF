@@ -1,0 +1,72 @@
+{
+  "id": 1310679915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02783,32.95986,65.02783,32.95986",
+    "geom:latitude":32.95986,
+    "geom:longitude":65.02783,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Badamak",
+    "gn:country_code":"AF",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1444042,
+    "gn:latitude":32.95986,
+    "gn:longitude":65.02783,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101d\u0101mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101d\u0101mak",
+        "\u0628\u0627\u062f\u0627\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1444042
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77fcbb7c9b8f3196f4dc52083d6bbd7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1310679915,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1310679915,
+    "wof:lastmodified":1537582953,
+    "wof:name":"Badamak",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02783000000001,
+    32.95986,
+    65.02783000000001,
+    32.95986
+],
+  "geometry": {"coordinates":[65.02783000000001,32.95986],"type":"Point"}
+}

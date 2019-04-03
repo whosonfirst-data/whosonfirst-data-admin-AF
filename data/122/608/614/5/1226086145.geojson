@@ -1,0 +1,77 @@
+{
+  "id": 1226086145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96837,33.41666,68.96837,33.41666",
+    "geom:latitude":33.41666,
+    "geom:longitude":68.96837,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Hazar Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140090,
+    "gn:latitude":33.41666,
+    "gn:longitude":68.96837,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101r Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khazarkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Haz\u0101\u1e5fkh\u0113l",
+        "Haz\u0101r Kheyl",
+        "Haz\u0101r Kh\u0113l",
+        "\u0647\u0632\u0627\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140090
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b1a34b4fb43baa29a597fbafdf2115cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1226086145,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226086145,
+    "wof:lastmodified":1537581630,
+    "wof:name":"Hazar Khel",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96837,
+    33.41666,
+    68.96837,
+    33.41666
+],
+  "geometry": {"coordinates":[68.96836999999999,33.41666],"type":"Point"}
+}

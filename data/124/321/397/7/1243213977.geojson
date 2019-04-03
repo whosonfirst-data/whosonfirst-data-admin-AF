@@ -1,0 +1,81 @@
+{
+  "id": 1243213977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.69636,36.68599,66.69636,36.68599",
+    "geom:latitude":36.68599,
+    "geom:longitude":66.69636,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608.0",
+    "gn:asciiname":"Baydullah",
+    "gn:country_code":"AF",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405875,
+    "gn:latitude":36.68599,
+    "gn:longitude":66.69636,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baydull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u062f\u0627\u0644\u0644\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u0434\u0443\u043b\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Baydulla",
+        "Baidullah",
+        "B\u0101ydull\u0101h",
+        "Baydoll\u0101h",
+        "Baydull\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405875
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"066ecf02e84109d144b72a7a2fd570ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1243213977,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243213977,
+    "wof:lastmodified":1537582498,
+    "wof:name":"Baydullah",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.69636,
+    36.68599,
+    66.69636,
+    36.68599
+],
+  "geometry": {"coordinates":[66.69636,36.68599],"type":"Point"}
+}

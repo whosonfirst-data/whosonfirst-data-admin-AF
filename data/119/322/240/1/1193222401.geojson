@@ -1,0 +1,80 @@
+{
+  "id": 1193222401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36557,33.57537,69.36557,33.57537",
+    "geom:latitude":33.57537,
+    "geom:longitude":69.36557,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701",
+    "gn:asciiname":"Sipahi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126373,
+    "gn:latitude":33.57537,
+    "gn:longitude":69.36557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sip\u0101h\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u0627\u0647\u06cc \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Sipakhikhel\u2019"
+    ],
+    "name:und_x_variant":[
+        "Sep\u0101hikh\u0113l",
+        "Sep\u0101h\u012b Kheyl",
+        "Sip\u0101h\u012b Kh\u0113l",
+        "\u0633\u067e\u0627\u0647\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126373
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"834cae83e0567834a0c71f44cd2ca4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1193222401,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1193222401,
+    "wof:lastmodified":1537580472,
+    "wof:name":"Sipahi Khel",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36556999999999,
+    33.57537,
+    69.36556999999999,
+    33.57537
+],
+  "geometry": {"coordinates":[69.36556999999999,33.57537],"type":"Point"}
+}

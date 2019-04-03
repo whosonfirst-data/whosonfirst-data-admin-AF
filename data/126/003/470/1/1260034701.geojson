@@ -1,0 +1,81 @@
+{
+  "id": 1260034701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33197,36.52091,69.33197,36.52091",
+    "geom:latitude":36.52091,
+    "geom:longitude":69.33197,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Kal Bachah",
+    "gn:country_code":"AF",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6252089,
+    "gn:latitude":36.52091,
+    "gn:longitude":69.33197,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal Bachah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0644 \u0628\u0686\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0431\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kal Ba\u010da",
+        "Kal\u2019bacha",
+        "Kal Bachcheh",
+        "Kal Bachah",
+        "\u06a9\u0644 \u0628\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6252089
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d7fd314b4f98fe890a613df32eb1c9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1260034701,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1260034701,
+    "wof:lastmodified":1537583899,
+    "wof:name":"Kal Bachah",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33197,
+    36.52091,
+    69.33197,
+    36.52091
+],
+  "geometry": {"coordinates":[69.33197,36.52091],"type":"Point"}
+}

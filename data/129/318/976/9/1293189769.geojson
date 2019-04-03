@@ -1,0 +1,74 @@
+{
+  "id": 1293189769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20558,32.39727,65.20558,32.39727",
+    "geom:latitude":32.39727,
+    "geom:longitude":65.20558,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bibikah",
+    "gn:country_code":"AF",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474771,
+    "gn:latitude":32.39727,
+    "gn:longitude":65.20558,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u012bb\u012bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibika",
+        "Bibiku",
+        "B\u012bb\u012bkah",
+        "\u0628\u0628\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474771
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3cadaa962763f3e70d4c2c9b174b12eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1293189769,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293189769,
+    "wof:lastmodified":1537583826,
+    "wof:name":"Bibikah",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20558,
+    32.39727,
+    65.20558,
+    32.39727
+],
+  "geometry": {"coordinates":[65.20558,32.39727],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293281889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.96179,34.55247,64.96179,34.55247",
+    "geom:latitude":34.55247,
+    "geom:longitude":64.96179,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Barah Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147079,
+    "gn:latitude":34.55247,
+    "gn:longitude":64.96179,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barah Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baraakh\u0101na",
+        "Ba\u1e5fakh\u0101na",
+        "Barakh\u0101neh",
+        "Barah Kh\u0101nah",
+        "\u0628\u0631\u0647 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147079
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"790f2843da0400570b12132f09b10563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1293281889,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293281889,
+    "wof:lastmodified":1537582238,
+    "wof:name":"Barah Khanah",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.96179000000001,
+    34.55247,
+    64.96179000000001,
+    34.55247
+],
+  "geometry": {"coordinates":[64.96179000000001,34.55247],"type":"Point"}
+}

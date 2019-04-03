@@ -1,0 +1,75 @@
+{
+  "id": 1242671281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20878,32.37911,65.20878,32.37911",
+    "geom:latitude":32.37911,
+    "geom:longitude":65.20878,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Bulukchow",
+    "gn:country_code":"AF",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474776,
+    "gn:latitude":32.37911,
+    "gn:longitude":65.20878,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bul\u016bkchow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balukchau",
+        "Bol\u016bk\u010daw",
+        "Bul\u016bkchow",
+        "\u0628\u0644\u0648\u06a9\u0686\u0648",
+        "Bol\u016bkchaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474776
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1ae0c7ca4634e072577cca2d7ec40e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1242671281,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242671281,
+    "wof:lastmodified":1537583827,
+    "wof:name":"Bulukchow",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20878,
+    32.37911,
+    65.20878,
+    32.37911
+],
+  "geometry": {"coordinates":[65.20878,32.37911],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310435123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78816,36.62678,65.78816,36.62678",
+    "geom:latitude":36.62678,
+    "geom:longitude":65.78816,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1701.0",
+    "gn:asciiname":"Alti Khwajah",
+    "gn:country_code":"AF",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425456,
+    "gn:latitude":36.62678,
+    "gn:longitude":65.78816,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alt\u012b Khw\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khowaja",
+        "Alti Khw\u0101ja",
+        "Alti Khv\u0101jeh",
+        "Alt\u012b Khw\u0101jah",
+        "\u0627\u0644\u062a\u06cc \u062e\u0648\u0627\u062c\u0647",
+        "Alat-e Khw\u0101jah Now",
+        "\u0622\u0644\u062a \u062e\u0648\u0627\u062c\u0647 \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425456
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"077628293b6e48c23c8c6f7d25f9fa64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562489,
+            "locality_id":1310435123,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1310435123,
+    "wof:lastmodified":1537582639,
+    "wof:name":"Alti Khwajah",
+    "wof:parent_id":1108562489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78815999999999,
+    36.62678,
+    65.78815999999999,
+    36.62678
+],
+  "geometry": {"coordinates":[65.78815999999999,36.62678],"type":"Point"}
+}

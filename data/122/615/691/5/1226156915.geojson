@@ -1,0 +1,72 @@
+{
+  "id": 1226156915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39038,37.68827,70.39038,37.68827",
+    "geom:latitude":37.68827,
+    "geom:longitude":70.39038,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Kaskha",
+    "gn:country_code":"AF",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467268,
+    "gn:latitude":37.68827,
+    "gn:longitude":70.39038,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kaskh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaskh\u0101",
+        "\u06a9\u0633\u062e\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467268
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9d03cc44b0065f0dc7eb094e71d5c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1226156915,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226156915,
+    "wof:lastmodified":1537583461,
+    "wof:name":"Kaskha",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39038000000002,
+    37.68827,
+    70.39038000000002,
+    37.68827
+],
+  "geometry": {"coordinates":[70.39038000000002,37.68827],"type":"Point"}
+}

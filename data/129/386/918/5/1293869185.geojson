@@ -1,0 +1,76 @@
+{
+  "id": 1293869185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.91584,32.98108,66.91584,32.98108",
+    "geom:latitude":32.98108,
+    "geom:longitude":66.91584,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Olama",
+    "gn:country_code":"AF",
+    "gn:dem":2939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131557,
+    "gn:latitude":32.98108,
+    "gn:longitude":66.91584,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014clam\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u014clam\u0101",
+        "\u0627\u0648\u0644\u0645\u0627",
+        "\u016alam\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131557
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e484dd117f6954bef2a0493413ba85df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1293869185,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293869185,
+    "wof:lastmodified":1537580930,
+    "wof:name":"Olama",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.91584,
+    32.98108,
+    66.91584,
+    32.98108
+],
+  "geometry": {"coordinates":[66.91584,32.98108],"type":"Point"}
+}

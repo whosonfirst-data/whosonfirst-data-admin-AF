@@ -1,0 +1,75 @@
+{
+  "id": 1260349431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92254,36.49716,66.92254,36.49716",
+    "geom:latitude":36.49716,
+    "geom:longitude":66.92254,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609",
+    "gn:asciiname":"Kurdgai",
+    "gn:country_code":"AF",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135234,
+    "gn:latitude":36.49716,
+    "gn:longitude":66.92254,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kurdga\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062f\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kurdga\u012b",
+        "\u06a9\u0631\u062f\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135234
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a554cd771957d7aae2f93cec72c28572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1260349431,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1260349431,
+    "wof:lastmodified":1537581236,
+    "wof:name":"Kurdgai",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92254,
+    36.49716,
+    66.92254,
+    36.49716
+],
+  "geometry": {"coordinates":[66.92254,36.49716],"type":"Point"}
+}

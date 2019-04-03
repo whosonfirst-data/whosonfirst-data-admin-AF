@@ -1,0 +1,73 @@
+{
+  "id": 1242895817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.25,33.35,61.25,33.35",
+    "geom:latitude":33.35,
+    "geom:longitude":61.25,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2107",
+    "gn:asciiname":"Golowga",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140773,
+    "gn:latitude":33.35,
+    "gn:longitude":61.25,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Golowga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gol\u014dga",
+        "Golowga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140773
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7c74fa90a51363abae331cb699210869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561801,
+            "locality_id":1242895817,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1242895817,
+    "wof:lastmodified":1537581693,
+    "wof:name":"Golowga",
+    "wof:parent_id":1108561801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.25,
+    33.35,
+    61.25,
+    33.35
+],
+  "geometry": {"coordinates":[61.25,33.35],"type":"Point"}
+}

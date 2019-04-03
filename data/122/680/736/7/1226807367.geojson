@@ -1,0 +1,81 @@
+{
+  "id": 1226807367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47679,31.19182,66.47679,31.19182",
+    "geom:latitude":31.19182,
+    "geom:longitude":66.47679,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Palian",
+    "gn:country_code":"AF",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131201,
+    "gn:latitude":31.19182,
+    "gn:longitude":66.47679,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pal\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Pal\u2019yak"
+    ],
+    "name:und_x_variant":[
+        "Paly\u0101n",
+        "\u067e\u0644\u06cc\u0627\u0646",
+        "Palyan",
+        "Pal\u2019yak",
+        "Pal\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131201
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a1b99dad68e58b09f62dc95c79dbb0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1226807367,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226807367,
+    "wof:lastmodified":1537580903,
+    "wof:name":"Palian",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47679000000001,
+    31.19182,
+    66.47679000000001,
+    31.19182
+],
+  "geometry": {"coordinates":[66.47679000000001,31.19182],"type":"Point"}
+}

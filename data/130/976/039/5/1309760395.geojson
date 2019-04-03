@@ -1,0 +1,76 @@
+{
+  "id": 1309760395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.60624,34.21239,68.60624,34.21239",
+    "geom:latitude":34.21239,
+    "geom:longitude":68.60624,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Ochodak",
+    "gn:country_code":"AF",
+    "gn:dem":2487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456999,
+    "gn:latitude":34.21239,
+    "gn:longitude":68.60624,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014cch\u014ddak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uchodak",
+        "Och\u014ddak",
+        "O\u010dodak",
+        "Och\u016bdak",
+        "\u014cch\u014ddak",
+        "\u0627\u0648\u0686\u0648\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456999
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8121105542e0e22e278abd1f723b8874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1309760395,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1309760395,
+    "wof:lastmodified":1537583206,
+    "wof:name":"Ochodak",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.60624,
+    34.21239,
+    68.60624,
+    34.21239
+],
+  "geometry": {"coordinates":[68.60624,34.21239],"type":"Point"}
+}

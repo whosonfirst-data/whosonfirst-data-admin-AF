@@ -1,0 +1,74 @@
+{
+  "id": 1327482863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28844,36.02213,67.28844,36.02213",
+    "geom:latitude":36.02213,
+    "geom:longitude":67.28844,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Balinah",
+    "gn:country_code":"AF",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147294,
+    "gn:latitude":36.02213,
+    "gn:longitude":67.28844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Balinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balina",
+        "Bal\u012bnah",
+        "Balinah",
+        "\u0628\u0644\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147294
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b676aeb08ce0762469e0bc0d1ce8a3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1327482863,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1327482863,
+    "wof:lastmodified":1537582254,
+    "wof:name":"Balinah",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28844000000001,
+    36.02213,
+    67.28844000000001,
+    36.02213
+],
+  "geometry": {"coordinates":[67.28844000000001,36.02213],"type":"Point"}
+}

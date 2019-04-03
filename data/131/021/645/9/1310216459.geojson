@@ -1,0 +1,73 @@
+{
+  "id": 1310216459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45274,35.61169,69.45274,35.61169",
+    "geom:latitude":35.61169,
+    "geom:longitude":69.45274,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1302.0",
+    "gn:asciiname":"Chachan",
+    "gn:country_code":"AF",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145929,
+    "gn:latitude":35.61169,
+    "gn:longitude":69.45274,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u0101ch\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101c\u0101n",
+        "Ch\u0101ch\u0101n",
+        "\u0686\u0627\u0686\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145929
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"62d0f32bfea541b8ffd7fd3ff0789885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562363,
+            "locality_id":1310216459,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310216459,
+    "wof:lastmodified":1537582142,
+    "wof:name":"Chachan",
+    "wof:parent_id":1108562363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45274,
+    35.61169,
+    69.45274,
+    35.61169
+],
+  "geometry": {"coordinates":[69.45274000000001,35.61169],"type":"Point"}
+}

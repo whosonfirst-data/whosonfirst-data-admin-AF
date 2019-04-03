@@ -1,0 +1,73 @@
+{
+  "id": 1292950115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.4323,35.95211,67.4323,35.95211",
+    "geom:latitude":35.95211,
+    "geom:longitude":67.4323,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Ajriqsay",
+    "gn:country_code":"AF",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149239,
+    "gn:latitude":35.95211,
+    "gn:longitude":67.4323,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ajriqs\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajriqs\u0101y",
+        "\u0627\u062c\u0631\u0642\u0633\u0627\u06cc",
+        "Aj\u1e5feqs\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149239
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc30ab0878ded6881d536f520acb1390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1292950115,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1292950115,
+    "wof:lastmodified":1537582401,
+    "wof:name":"Ajriqsay",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.4323,
+    35.95211,
+    67.4323,
+    35.95211
+],
+  "geometry": {"coordinates":[67.4323,35.95211],"type":"Point"}
+}

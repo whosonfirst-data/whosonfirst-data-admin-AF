@@ -1,0 +1,71 @@
+{
+  "id": 1326752375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.79482,32.57544,62.79482,32.57544",
+    "geom:latitude":32.57544,
+    "geom:longitude":62.79482,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Kamarak",
+    "gn:country_code":"AF",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138433,
+    "gn:latitude":32.57544,
+    "gn:longitude":62.79482,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kamarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0645\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138433
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3aa48eb3b5455338f6f40068f8d6972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1326752375,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1326752375,
+    "wof:lastmodified":1537581501,
+    "wof:name":"Kamarak",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.79482,
+    32.57544,
+    62.79482,
+    32.57544
+],
+  "geometry": {"coordinates":[62.79482,32.57544],"type":"Point"}
+}

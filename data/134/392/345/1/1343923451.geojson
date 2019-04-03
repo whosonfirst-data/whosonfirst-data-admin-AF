@@ -1,0 +1,72 @@
+{
+  "id": 1343923451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.96639,30.90111,61.96639,30.90111",
+    "geom:latitude":30.90111,
+    "geom:longitude":61.96639,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2201.0",
+    "gn:asciiname":"Sorborot",
+    "gn:country_code":"AF",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435987,
+    "gn:latitude":30.90111,
+    "gn:longitude":61.96639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014drbor\u014dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016brbor\u016bt",
+        "S\u014drbor\u014dt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435987
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b88a61d66a1f28dadeab35099aa32db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562603,
+            "locality_id":1343923451,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1343923451,
+    "wof:lastmodified":1537582790,
+    "wof:name":"Sorborot",
+    "wof:parent_id":1108562603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.96639,
+    30.90111,
+    61.96639,
+    30.90111
+],
+  "geometry": {"coordinates":[61.96639,30.90111],"type":"Point"}
+}

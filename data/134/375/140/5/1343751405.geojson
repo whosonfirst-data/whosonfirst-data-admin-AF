@@ -1,0 +1,77 @@
+{
+  "id": 1343751405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.73333,34.28223,64.73333,34.28223",
+    "geom:latitude":34.28223,
+    "geom:longitude":64.73333,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Sar-e Ushan",
+    "gn:country_code":"AF",
+    "gn:dem":2528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121917,
+    "gn:latitude":34.28223,
+    "gn:longitude":64.73333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e \u016ash\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016ash\u0101n",
+        "Sar-e \u016ash\u0101n",
+        "Us\u0304\u0101n",
+        "Sari-Ushan",
+        "Sare \u016a\u0161\u0101n",
+        "Sar-e Owsh\u0101n",
+        "\u0633\u0631 \u0627\u0648\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121917
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a65775b3ef34d1bc0ef03b5ccb75508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1343751405,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343751405,
+    "wof:lastmodified":1537580072,
+    "wof:name":"Sar-e Ushan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.73333000000001,
+    34.28223,
+    64.73333000000001,
+    34.28223
+],
+  "geometry": {"coordinates":[64.73333000000001,34.28223],"type":"Point"}
+}

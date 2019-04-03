@@ -1,0 +1,74 @@
+{
+  "id": 1226574647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.63027,35.30608,67.63027,35.30608",
+    "geom:latitude":35.30608,
+    "geom:longitude":67.63027,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2803.0",
+    "gn:asciiname":"Qaghor",
+    "gn:country_code":"AF",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422829,
+    "gn:latitude":35.30608,
+    "gn:longitude":67.63027,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101gh\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qagh\u014dr",
+        "Qagh\u016br",
+        "Q\u0101gh\u014dr",
+        "\u0642\u0627\u063a\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422829
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8f56de4567c9ab43f253d4b3c541fc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1226574647,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226574647,
+    "wof:lastmodified":1537582545,
+    "wof:name":"Qaghor",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.63027,
+    35.30608,
+    67.63027,
+    35.30608
+],
+  "geometry": {"coordinates":[67.63027,35.30608],"type":"Point"}
+}

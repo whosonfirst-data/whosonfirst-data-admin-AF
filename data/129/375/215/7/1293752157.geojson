@@ -1,0 +1,75 @@
+{
+  "id": 1293752157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51236,31.23815,66.51236,31.23815",
+    "geom:latitude":31.23815,
+    "geom:longitude":66.51236,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Jowharzai",
+    "gn:country_code":"AF",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139318,
+    "gn:latitude":31.23815,
+    "gn:longitude":66.51236,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jowharza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhaukharzai",
+        "Jawha\u1e5fza\u2019i",
+        "Jowharza\u012b",
+        "Jawharzay",
+        "\u062c\u0648\u0647\u0631\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139318
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"941f5ded03be43402dfa53b37bc58126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1293752157,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293752157,
+    "wof:lastmodified":1537581566,
+    "wof:name":"Jowharzai",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.51236,
+    31.23815,
+    66.51236,
+    31.23815
+],
+  "geometry": {"coordinates":[66.51236,31.23815],"type":"Point"}
+}

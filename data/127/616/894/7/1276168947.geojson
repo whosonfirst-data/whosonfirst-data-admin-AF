@@ -1,0 +1,72 @@
+{
+  "id": 1276168947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.30042,35.1575,71.30042,35.1575",
+    "geom:latitude":35.1575,
+    "geom:longitude":71.30042,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1006",
+    "gn:asciiname":"Marid",
+    "gn:country_code":"AF",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133815,
+    "gn:latitude":35.1575,
+    "gn:longitude":71.30042,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mar\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0631\u06cc\u062f",
+        "Mar\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133815
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c26726a67b2e0fff1640a8ec270dd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562025,
+            "locality_id":1276168947,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1276168947,
+    "wof:lastmodified":1537581124,
+    "wof:name":"Marid",
+    "wof:parent_id":1108562025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.30041999999997,
+    35.1575,
+    71.30041999999997,
+    35.1575
+],
+  "geometry": {"coordinates":[71.30041999999997,35.1575],"type":"Point"}
+}

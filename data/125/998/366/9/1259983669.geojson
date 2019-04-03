@@ -1,0 +1,73 @@
+{
+  "id": 1259983669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55987,37.54907,70.55987,37.54907",
+    "geom:latitude":37.54907,
+    "geom:longitude":70.55987,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Khinwar",
+    "gn:country_code":"AF",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467522,
+    "gn:latitude":37.54907,
+    "gn:longitude":70.55987,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khinw\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062e\u0646\u0648\u0627\u0631",
+        "Khenw\u0101\u1e5f",
+        "Khinw\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6c5d0a219af514c569c2e7878cbcfc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1259983669,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259983669,
+    "wof:lastmodified":1537583484,
+    "wof:name":"Khinwar",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55986999999998,
+    37.54907,
+    70.55986999999998,
+    37.54907
+],
+  "geometry": {"coordinates":[70.55986999999998,37.54907],"type":"Point"}
+}

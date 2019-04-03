@@ -1,0 +1,77 @@
+{
+  "id": 1326581313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65778,33.17695,69.65778,33.17695",
+    "geom:latitude":33.17695,
+    "geom:longitude":69.65778,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Noshpah",
+    "gn:country_code":"AF",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434395,
+    "gn:latitude":33.17695,
+    "gn:longitude":69.65778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u014dshpah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0634\u067e\u0647"
+    ],
+    "name:und_x_variant":[
+        "No\u0161pa",
+        "Noshpa",
+        "N\u014dshpah",
+        "Nowshpah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434395
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c2a429dbad95549891d99f8e79c50bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1326581313,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1326581313,
+    "wof:lastmodified":1537582715,
+    "wof:name":"Noshpah",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65778,
+    33.17695,
+    69.65778,
+    33.17695
+],
+  "geometry": {"coordinates":[69.65778,33.17695],"type":"Point"}
+}

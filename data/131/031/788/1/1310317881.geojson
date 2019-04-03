@@ -1,0 +1,73 @@
+{
+  "id": 1310317881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.74381,35.02174,64.74381,35.02174",
+    "geom:latitude":35.02174,
+    "geom:longitude":64.74381,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Dumgah",
+    "gn:country_code":"AF",
+    "gn:dem":2291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142680,
+    "gn:latitude":35.02174,
+    "gn:longitude":64.74381,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016bmgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u016bmga",
+        "D\u016bmgah",
+        "\u062f\u0648\u0645 \u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142680
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07b432f561bbdf36d4cb165668d4bc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1310317881,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310317881,
+    "wof:lastmodified":1537581851,
+    "wof:name":"Dumgah",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.74381,
+    35.02174,
+    64.74381,
+    35.02174
+],
+  "geometry": {"coordinates":[64.74381,35.02174],"type":"Point"}
+}

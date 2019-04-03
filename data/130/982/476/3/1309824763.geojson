@@ -1,0 +1,74 @@
+{
+  "id": 1309824763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0326,34.73879,65.0326,34.73879",
+    "geom:latitude":34.73879,
+    "geom:longitude":65.0326,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Pulow Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":2707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130500,
+    "gn:latitude":34.73879,
+    "gn:longitude":65.0326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pulow Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polawsu\u1e5fkh",
+        "Pulow Surkh",
+        "\u067e\u0644\u0648 \u0633\u0631\u062e",
+        "Polaw Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130500
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78ed02a7903a1d5babeb02bac0a75334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1309824763,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309824763,
+    "wof:lastmodified":1537580843,
+    "wof:name":"Pulow Surkh",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0326,
+    34.73879,
+    65.0326,
+    34.73879
+],
+  "geometry": {"coordinates":[65.0326,34.73879],"type":"Point"}
+}

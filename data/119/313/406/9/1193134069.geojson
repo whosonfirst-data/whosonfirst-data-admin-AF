@@ -1,0 +1,81 @@
+{
+  "id": 1193134069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98052,33.38662,67.98052,33.38662",
+    "geom:latitude":33.38662,
+    "geom:longitude":67.98052,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"613.0",
+    "gn:asciiname":"Mir Joy",
+    "gn:country_code":"AF",
+    "gn:dem":2877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448921,
+    "gn:latitude":33.38662,
+    "gn:longitude":67.98052,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br J\u014dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631 \u062c\u0648\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0434\u0436\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mirdzhoy",
+        "M\u012b\u1e5fj\u014dy",
+        "M\u012brj\u016by",
+        "M\u012br J\u014dy",
+        "\u0645\u06cc\u0631 \u062c\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448921
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a41b1a3b221639247c1e7cf86093eccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1193134069,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1193134069,
+    "wof:lastmodified":1537582995,
+    "wof:name":"Mir Joy",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98052,
+    33.38662,
+    67.98052,
+    33.38662
+],
+  "geometry": {"coordinates":[67.98052,33.38662],"type":"Point"}
+}

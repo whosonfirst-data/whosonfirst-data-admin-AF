@@ -1,0 +1,71 @@
+{
+  "id": 1243468291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.19428,37.32178,70.19428,37.32178",
+    "geom:latitude":37.32178,
+    "geom:longitude":70.19428,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113",
+    "gn:asciiname":"Samargh",
+    "gn:country_code":"AF",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127762,
+    "gn:latitude":37.32178,
+    "gn:longitude":70.19428,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Samargh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0645\u0631\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127762
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"026ac81c0decc09766119557d6a37a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1243468291,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243468291,
+    "wof:lastmodified":1537580577,
+    "wof:name":"Samargh",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.19428,
+    37.32178,
+    70.19428,
+    37.32178
+],
+  "geometry": {"coordinates":[70.19428000000001,37.32178],"type":"Point"}
+}

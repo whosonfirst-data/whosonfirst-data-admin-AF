@@ -1,0 +1,74 @@
+{
+  "id": 1309833997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.92887,33.77746,65.92887,33.77746",
+    "geom:latitude":33.77746,
+    "geom:longitude":65.92887,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Now-e Rah",
+    "gn:country_code":"AF",
+    "gn:dem":3044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132088,
+    "gn:latitude":33.77746,
+    "gn:longitude":65.92887,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now-e R\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawe \u1e5e\u0101h",
+        "Now-e R\u0101h",
+        "\u0646\u0648 \u0631\u0627\u0647",
+        "Now R\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132088
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31db47bf285ed8b191c146515e40d31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1309833997,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1309833997,
+    "wof:lastmodified":1537580977,
+    "wof:name":"Now-e Rah",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.92886999999999,
+    33.77746,
+    65.92886999999999,
+    33.77746
+],
+  "geometry": {"coordinates":[65.92886999999999,33.77746],"type":"Point"}
+}

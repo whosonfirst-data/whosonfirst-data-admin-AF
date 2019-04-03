@@ -1,0 +1,77 @@
+{
+  "id": 1260268373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75349,32.69618,67.75349,32.69618",
+    "geom:latitude":32.69618,
+    "geom:longitude":67.75349,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"609.0",
+    "gn:asciiname":"Barit Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435761,
+    "gn:latitude":32.69618,
+    "gn:longitude":67.75349,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barit Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Baritkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ba\u1e5fetkh\u0113l",
+        "Baret Kheyl",
+        "Barit Kh\u0113l",
+        "\u0628\u0631\u062a \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435761
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"384fac8db406106e4eddfa4024f79536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1260268373,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260268373,
+    "wof:lastmodified":1537582784,
+    "wof:name":"Barit Khel",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75349,
+    32.69618,
+    67.75349,
+    32.69618
+],
+  "geometry": {"coordinates":[67.75349,32.69618],"type":"Point"}
+}

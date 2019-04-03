@@ -1,0 +1,73 @@
+{
+  "id": 1260113827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.70901,33.41231,65.70901,33.41231",
+    "geom:latitude":33.41231,
+    "geom:longitude":65.70901,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406.0",
+    "gn:asciiname":"Argan",
+    "gn:country_code":"AF",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148406,
+    "gn:latitude":33.41231,
+    "gn:longitude":65.70901,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arg\u0101n",
+        "\u0627\u0631\u06af\u0627\u0646",
+        "A\u1e5fg\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35e42e1f64cd9531fc4442ab2498f7d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1260113827,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1260113827,
+    "wof:lastmodified":1537582338,
+    "wof:name":"Argan",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.70900999999999,
+    33.41231,
+    65.70900999999999,
+    33.41231
+],
+  "geometry": {"coordinates":[65.70900999999999,33.41231],"type":"Point"}
+}

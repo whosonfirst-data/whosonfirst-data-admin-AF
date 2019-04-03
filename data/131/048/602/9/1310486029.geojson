@@ -1,0 +1,73 @@
+{
+  "id": 1310486029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.61153,33.91236,63.61153,33.91236",
+    "geom:latitude":33.91236,
+    "geom:longitude":63.61153,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Sang-e Mashnah",
+    "gn:country_code":"AF",
+    "gn:dem":2373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127603,
+    "gn:latitude":33.91236,
+    "gn:longitude":63.61153,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e M\u0101shnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang-e M\u0101shnah",
+        "\u0633\u0646\u06af \u0645\u0627\u0634\u0646\u0647",
+        "Sange M\u0101s\u0304na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127603
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b01310a67ae096a46a7560a0a0086088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1310486029,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310486029,
+    "wof:lastmodified":1537580566,
+    "wof:name":"Sang-e Mashnah",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.61153,
+    33.91236,
+    63.61153,
+    33.91236
+],
+  "geometry": {"coordinates":[63.61153,33.91236],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225993211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87462,35.32177,65.87462,35.32177",
+    "geom:latitude":35.32177,
+    "geom:longitude":65.87462,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Jar-e Murad",
+    "gn:country_code":"AF",
+    "gn:dem":2505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139416,
+    "gn:latitude":35.32177,
+    "gn:longitude":65.87462,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e Mur\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jar-e Mur\u0101d",
+        "\u062c\u0631 \u0645\u0631\u0627\u062f",
+        "Ja\u1e5fe Mo\u1e5f\u0101\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139416
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dbda50fbadc03a0d497c4b496c2c6309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1225993211,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225993211,
+    "wof:lastmodified":1537581574,
+    "wof:name":"Jar-e Murad",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87462,
+    35.32177,
+    65.87462,
+    35.32177
+],
+  "geometry": {"coordinates":[65.87461999999999,35.32177],"type":"Point"}
+}

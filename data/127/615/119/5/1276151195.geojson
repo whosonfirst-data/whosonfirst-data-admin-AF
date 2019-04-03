@@ -1,0 +1,74 @@
+{
+  "id": 1276151195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52844,33.98857,66.52844,33.98857",
+    "geom:latitude":33.98857,
+    "geom:longitude":66.52844,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Baydakan",
+    "gn:country_code":"AF",
+    "gn:dem":2874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437982,
+    "gn:latitude":33.98857,
+    "gn:longitude":66.52844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baydak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113\u1e0fak\u0101n",
+        "Baydak\u0101n",
+        "B\u012bdak\u0101n",
+        "\u0628\u064a\u062f\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437982
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d3c5f4c984c37cd4345f172eb029e93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1276151195,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276151195,
+    "wof:lastmodified":1537582871,
+    "wof:name":"Baydakan",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52844,
+    33.98857,
+    66.52844,
+    33.98857
+],
+  "geometry": {"coordinates":[66.52844,33.98857],"type":"Point"}
+}

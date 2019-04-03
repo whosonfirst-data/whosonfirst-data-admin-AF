@@ -1,0 +1,76 @@
+{
+  "id": 1260177783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12697,34.54361,66.12697,34.54361",
+    "geom:latitude":34.54361,
+    "geom:longitude":66.12697,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Dewkan",
+    "gn:country_code":"AF",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142990,
+    "gn:latitude":34.54361,
+    "gn:longitude":66.12697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113wk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0113wk\u0101r",
+        "Devkan",
+        "D\u012bvk\u0101r",
+        "Daywk\u0101n",
+        "D\u0113wk\u0101n",
+        "\u062f\u06cc\u0648\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142990
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e91d73ece3f01f17fca868bab3475fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1260177783,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1260177783,
+    "wof:lastmodified":1537581879,
+    "wof:name":"Dewkan",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12697,
+    34.54361,
+    66.12697,
+    34.54361
+],
+  "geometry": {"coordinates":[66.12697,34.54361],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293358891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.96784,31.96615,65.96784,31.96615",
+    "geom:latitude":31.96615,
+    "geom:longitude":65.96784,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Delak",
+    "gn:country_code":"AF",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143319,
+    "gn:latitude":31.96615,
+    "gn:longitude":65.96784,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "D\u0113lak",
+        "\u062f\u06d0\u0644\u06a9",
+        "\u1e0e\u0113lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143319
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6eb74d7b2c0678b5a264447282168e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1293358891,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293358891,
+    "wof:lastmodified":1537581906,
+    "wof:name":"Delak",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.96784,
+    31.96615,
+    65.96784,
+    31.96615
+],
+  "geometry": {"coordinates":[65.96784,31.96615],"type":"Point"}
+}

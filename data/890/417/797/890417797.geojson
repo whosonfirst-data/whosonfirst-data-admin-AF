@@ -1,0 +1,85 @@
+{
+  "id": 890417797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.37828,35.97744,65.37828,35.97744",
+    "geom:latitude":35.97744,
+    "geom:longitude":65.37828,
+    "gn:country":"AF",
+    "gn:fcode":"PPLA2",
+    "gn:pop":9642,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Darzi Ab"
+    ],
+    "name:dut_x_preferred":[
+        "Darzab"
+    ],
+    "name:eng_x_preferred":[
+        "Darzab"
+    ],
+    "name:spa_x_preferred":[
+        "Darzi \u0100b"
+    ],
+    "name:swe_x_preferred":[
+        "Darz\u0101b"
+    ],
+    "name:unk_x_variant":[
+        "Durz\u0101b"
+    ],
+    "qs:name":"Darz\u0101b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143874,
+        "gp:id":56558419,
+        "qs:id":1029792,
+        "wd:id":"Q5196429"
+    },
+    "wof:country":"AF",
+    "wof:created":1469051220,
+    "wof:geomhash":"d33c1366f4794f0a87afd014b08b98d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561951,
+            "locality_id":890417797,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":890417797,
+    "wof:lastmodified":1513888160,
+    "wof:name":"Darz\u0101b",
+    "wof:parent_id":1108561951,
+    "wof:placetype":"locality",
+    "wof:population":9642,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.37828,
+    35.97744,
+    65.37828,
+    35.97744
+],
+  "geometry": {"coordinates":[65.37828,35.97744],"type":"Point"}
+}

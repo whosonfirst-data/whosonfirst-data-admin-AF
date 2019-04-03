@@ -1,0 +1,78 @@
+{
+  "id": 1326874409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43765,33.69563,69.43765,33.69563",
+    "geom:latitude":33.69563,
+    "geom:longitude":69.43765,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"710",
+    "gn:asciiname":"Shayistah Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125466,
+    "gn:latitude":33.69563,
+    "gn:longitude":69.43765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0332h\u0332\u0101yistah Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u064a\u0633\u062a\u0647 \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101yesta Kal\u0101",
+        "Shayistakala",
+        "Sh\u0101yesteh Kal\u0101",
+        "S\u0332h\u0332\u0101yistah Kal\u0101",
+        "\u069a\u0627\u06cc\u0634\u062a\u0647 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125466
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3994ccb0477ff9fda9cf8f4183bf4c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562443,
+            "locality_id":1326874409,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1326874409,
+    "wof:lastmodified":1537580391,
+    "wof:name":"Shayistah Kala",
+    "wof:parent_id":1108562443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43765,
+    33.69563,
+    69.43765,
+    33.69563
+],
+  "geometry": {"coordinates":[69.43765,33.69563],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421200309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23778,35.11833,69.23778,35.11833",
+    "geom:latitude":35.11833,
+    "geom:longitude":69.23778,
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Jabal Saraj"
+    ],
+    "name:eng_x_variant":[
+        "Jabul Saraj"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0633\u0631\u0627\u062c"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhabal\u2019-Ussaradzh"
+    ],
+    "name:unk_x_variant":[
+        "Parwan"
+    ],
+    "qs:gn_country":"AF",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1139807,
+    "qs:gn_pop":15032,
+    "qs:name":"Jabal os Saraj",
+    "qs:name_adm0":"Afghanistan",
+    "qs:name_adm1":"Panjshir",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":162,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":208861,
+    "qs:woe_adm0":23424739,
+    "qs:woe_id":1922130,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        421194001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139807,
+        "gp:id":1922130,
+        "qs:id":208861
+    },
+    "wof:country":"AF",
+    "wof:created":1459010018,
+    "wof:geomhash":"1c653eeb6d85ec76f962cef77571605a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194001,
+            "locality_id":421200309,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":421200309,
+    "wof:lastmodified":1505340768,
+    "wof:name":"Jabal os Saraj",
+    "wof:parent_id":421194001,
+    "wof:placetype":"locality",
+    "wof:population":15032,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23778,
+    35.11833,
+    69.23778,
+    35.11833
+],
+  "geometry": {"coordinates":[69.23778,35.11833],"type":"Point"}
+}

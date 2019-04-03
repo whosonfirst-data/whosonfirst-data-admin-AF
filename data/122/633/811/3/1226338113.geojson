@@ -1,0 +1,73 @@
+{
+  "id": 1226338113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.87793,34.56864,64.87793,34.56864",
+    "geom:latitude":34.56864,
+    "geom:longitude":64.87793,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Gash-e Sangi",
+    "gn:country_code":"AF",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1471243,
+    "gn:latitude":34.56864,
+    "gn:longitude":64.87793,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101sh-e Sang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "G\u0101\u0161e Sangi",
+        "G\u0101sh-e Sang\u012b",
+        "\u06af\u0627\u0634 \u0633\u0646\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471243
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c29c4a6afb0c1aacea8d84fc4c629b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1226338113,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226338113,
+    "wof:lastmodified":1537583649,
+    "wof:name":"Gash-e Sangi",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.87793,
+    34.56864,
+    64.87793,
+    34.56864
+],
+  "geometry": {"coordinates":[64.87793000000001,34.56864],"type":"Point"}
+}

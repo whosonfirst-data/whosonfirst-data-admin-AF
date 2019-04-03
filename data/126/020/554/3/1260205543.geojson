@@ -1,0 +1,74 @@
+{
+  "id": 1260205543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.98975,32.50133,61.98975,32.50133",
+    "geom:latitude":32.50133,
+    "geom:longitude":61.98975,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2111",
+    "gn:asciiname":"Karez-e Hakim",
+    "gn:country_code":"AF",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137987,
+    "gn:latitude":32.50133,
+    "gn:longitude":61.98975,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e \u1e28ak\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101r\u0113ze H\u0331akim",
+        "K\u0101r\u012bz-e \u1e28ak\u012bm",
+        "K\u0101r\u0113z-e \u1e28ak\u012bm",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u062d\u06a9\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137987
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a3cc4e2fca6af9278e8333ac46ed59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562369,
+            "locality_id":1260205543,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1260205543,
+    "wof:lastmodified":1537581466,
+    "wof:name":"Karez-e Hakim",
+    "wof:parent_id":1108562369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.98975,
+    32.50133,
+    61.98975,
+    32.50133
+],
+  "geometry": {"coordinates":[61.98975,32.50133],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276670629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.16465,35.02938,64.16465,35.02938",
+    "geom:latitude":35.02938,
+    "geom:longitude":64.16465,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Zaluk",
+    "gn:country_code":"AF",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121084,
+    "gn:latitude":35.02938,
+    "gn:longitude":64.16465,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zal\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zal\u016bk",
+        "\u0632\u0644\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cec8fd26106feb5045f21f2148fcc4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1276670629,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1276670629,
+    "wof:lastmodified":1537580022,
+    "wof:name":"Zaluk",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.16465,
+    35.02938,
+    64.16465,
+    35.02938
+],
+  "geometry": {"coordinates":[64.16464999999999,35.02938],"type":"Point"}
+}

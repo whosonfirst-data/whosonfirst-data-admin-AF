@@ -1,0 +1,73 @@
+{
+  "id": 1310327041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.74446,33.34185,63.74446,33.34185",
+    "geom:latitude":33.34185,
+    "geom:longitude":63.74446,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Tiriji",
+    "gn:country_code":"AF",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122506,
+    "gn:latitude":33.34185,
+    "gn:longitude":63.74446,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tirij\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tirij\u012b",
+        "\u062a\u0631\u062c\u06cc",
+        "Te\u1e5f\u012bj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122506
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d11ba148e3bc843ac6a8855e36b54897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1310327041,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1310327041,
+    "wof:lastmodified":1537580119,
+    "wof:name":"Tiriji",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.74446,
+    33.34185,
+    63.74446,
+    33.34185
+],
+  "geometry": {"coordinates":[63.74446,33.34185],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276235355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58621,35.92657,68.58621,35.92657",
+    "geom:latitude":35.92657,
+    "geom:longitude":68.58621,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Hazarah-ye Larkhowi",
+    "gn:country_code":"AF",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140095,
+    "gn:latitude":35.92657,
+    "gn:longitude":68.58621,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rah-ye Larkhow\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khazarayi-Larkhavi",
+        "Haz\u0101reh-ye Larkaw\u012b",
+        "Haz\u0101\u1e5fa-i-La\u1e5fkhawi",
+        "Hez\u0101reh-ye Larkaw\u012b",
+        "Haz\u0101rah-ye Larkhow\u012b",
+        "\u0647\u0632\u0627\u0631\u06c0 \u0644\u0631\u062e\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140095
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d65b814f0b572f52bc3e0f2dcc6f17e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1276235355,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276235355,
+    "wof:lastmodified":1537581630,
+    "wof:name":"Hazarah-ye Larkhowi",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58621,
+    35.92657,
+    68.58621,
+    35.92657
+],
+  "geometry": {"coordinates":[68.58620999999999,35.92657],"type":"Point"}
+}

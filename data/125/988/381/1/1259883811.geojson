@@ -1,0 +1,72 @@
+{
+  "id": 1259883811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3776,36.77533,70.3776,36.77533",
+    "geom:latitude":36.77533,
+    "geom:longitude":70.3776,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124",
+    "gn:asciiname":"Suskan",
+    "gn:country_code":"AF",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123497,
+    "gn:latitude":36.77533,
+    "gn:longitude":70.3776,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016bsk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bsk\u0101n",
+        "\u0633\u0648\u0633\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123497
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a73f0d9b98fcf35aa8318b31540ce80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1259883811,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259883811,
+    "wof:lastmodified":1537580228,
+    "wof:name":"Suskan",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3776,
+    36.77533,
+    70.3776,
+    36.77533
+],
+  "geometry": {"coordinates":[70.3776,36.77533],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293048545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22702,34.02174,68.22702,34.02174",
+    "geom:latitude":34.02174,
+    "geom:longitude":68.22702,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"405.0",
+    "gn:asciiname":"Asyab",
+    "gn:country_code":"AF",
+    "gn:dem":2696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148227,
+    "gn:latitude":34.02174,
+    "gn:longitude":68.22702,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100sy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asiab",
+        "\u0100s\u012b\u0101b",
+        "\u0100sy\u0101b",
+        "\u0627\u0633\u064a\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148227
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34f44ec482fe4fb94c3e0f01a115662e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561967,
+            "locality_id":1293048545,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293048545,
+    "wof:lastmodified":1537582327,
+    "wof:name":"Asyab",
+    "wof:parent_id":1108561967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22702,
+    34.02174,
+    68.22702,
+    34.02174
+],
+  "geometry": {"coordinates":[68.22702,34.02174],"type":"Point"}
+}

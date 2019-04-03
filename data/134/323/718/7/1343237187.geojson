@@ -1,0 +1,73 @@
+{
+  "id": 1343237187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.905,31.09583,61.905,31.09583",
+    "geom:latitude":31.09583,
+    "geom:longitude":61.905,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202.0",
+    "gn:asciiname":"Dawud Shah",
+    "gn:country_code":"AF",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436295,
+    "gn:latitude":31.09583,
+    "gn:longitude":61.905,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101w\u016bd Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101\u2019\u016bd \u0161\u0101h",
+        "D\u0101w\u016bd Sh\u0101h",
+        "D\u0101v\u016bd Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436295
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d2e570786a1af6bf74543d5be1d59d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1343237187,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1343237187,
+    "wof:lastmodified":1537582816,
+    "wof:name":"Dawud Shah",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.905,
+    31.09583,
+    61.905,
+    31.09583
+],
+  "geometry": {"coordinates":[61.905,31.09583],"type":"Point"}
+}

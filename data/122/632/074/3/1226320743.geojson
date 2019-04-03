@@ -1,0 +1,79 @@
+{
+  "id": 1226320743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.3555,34.27613,62.3555,34.27613",
+    "geom:latitude":34.27613,
+    "geom:longitude":62.3555,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Qashah",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472229,
+    "gn:latitude":34.27613,
+    "gn:longitude":62.3555,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qashah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0634 \u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kashsha",
+        "Qa\u0161\u0161ah",
+        "Qashshah",
+        "Qashah",
+        "\u0642\u0634\u0647",
+        "\u0642\u0634 \u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472229
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"04ec1f01964bd4116cc6cf2e7152a787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562079,
+            "locality_id":1226320743,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226320743,
+    "wof:lastmodified":1537583681,
+    "wof:name":"Qashah",
+    "wof:parent_id":1108562079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.3555,
+    34.27613,
+    62.3555,
+    34.27613
+],
+  "geometry": {"coordinates":[62.3555,34.27613],"type":"Point"}
+}

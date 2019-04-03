@@ -1,0 +1,74 @@
+{
+  "id": 1310194605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.4096,34.0552,65.4096,34.0552",
+    "geom:latitude":34.0552,
+    "geom:longitude":65.4096,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Khulushki",
+    "gn:country_code":"AF",
+    "gn:dem":2820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136572,
+    "gn:latitude":34.0552,
+    "gn:longitude":65.4096,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khulushk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kholus\u0304ki",
+        "Khulushk\u012b",
+        "\u062e\u0644\u0648\u0634\u06a9\u06cc",
+        "Kholushki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136572
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a4ac70a1bf9c2ab1de401f68a7d27fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1310194605,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310194605,
+    "wof:lastmodified":1537581351,
+    "wof:name":"Khulushki",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.4096,
+    34.0552,
+    65.4096,
+    34.0552
+],
+  "geometry": {"coordinates":[65.4096,34.0552],"type":"Point"}
+}

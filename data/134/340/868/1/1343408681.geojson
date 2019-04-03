@@ -1,0 +1,75 @@
+{
+  "id": 1343408681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.43062,32.71383,67.43062,32.71383",
+    "geom:latitude":32.71383,
+    "geom:longitude":67.43062,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Junubi Yatimak",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139463,
+    "gn:latitude":32.71383,
+    "gn:longitude":67.43062,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b Yat\u012bmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhanubi-Yatimak",
+        "Jan\u016bbi Yat\u012bmak",
+        "Jun\u016bb\u012b Yat\u012bmak",
+        "\u062c\u0646\u0648\u0628\u06cc \u06cc\u062a\u06cc\u0645\u06a9",
+        "Jon\u016bb\u012b Yat\u012bmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139463
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31ca59d78c62e65fe74bb46f294d788b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1343408681,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343408681,
+    "wof:lastmodified":1537581578,
+    "wof:name":"Junubi Yatimak",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.43061999999999,
+    32.71383,
+    67.43061999999999,
+    32.71383
+],
+  "geometry": {"coordinates":[67.43061999999999,32.71383],"type":"Point"}
+}

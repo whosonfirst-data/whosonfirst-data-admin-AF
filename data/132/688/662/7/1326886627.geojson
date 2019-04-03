@@ -1,0 +1,75 @@
+{
+  "id": 1326886627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.07289,32.02799,66.07289,32.02799",
+    "geom:latitude":32.02799,
+    "geom:longitude":66.07289,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"De Barakhanzai Newi Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143719,
+    "gn:latitude":32.02799,
+    "gn:longitude":66.07289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Barakh\u0101nza\u012b N\u00eaw\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barakhanzay-Navaay-Kalay",
+        "\u1e0ee Ba\u1e5fakh\u0101nzay",
+        "D\u00ea Barakh\u0101nza\u012b N\u00eaw\u012b K\u00ealay",
+        "\u062f \u0628\u0631\u062e\u0627\u0646\u0632\u06cc \u0646\u0648\u06cc \u06a9\u0644\u06cc",
+        "De Barakh\u0101nzay Neway Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143719
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"706cab978771056b1ba19179b1d9c08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1326886627,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326886627,
+    "wof:lastmodified":1537581944,
+    "wof:name":"De Barakhanzai Newi Kelay",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.07289,
+    32.02799,
+    66.07289,
+    32.02799
+],
+  "geometry": {"coordinates":[66.07289,32.02799],"type":"Point"}
+}

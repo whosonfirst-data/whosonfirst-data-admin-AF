@@ -1,0 +1,75 @@
+{
+  "id": 1243052299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51194,34.76065,65.51194,34.76065",
+    "geom:latitude":34.76065,
+    "geom:longitude":65.51194,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Khokhul",
+    "gn:country_code":"AF",
+    "gn:dem":3116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136584,
+    "gn:latitude":34.76065,
+    "gn:longitude":65.51194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dkh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101kh\u016bl",
+        "Kh\u014dkh\u016bl",
+        "Khowkh\u016bl",
+        "\u062e\u0648\u062e\u0648\u0644",
+        "\u062e\u0627\u062e\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136584
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7fd8640b4dba464a1f27e106fec113c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1243052299,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243052299,
+    "wof:lastmodified":1537581352,
+    "wof:name":"Khokhul",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51194,
+    34.76065,
+    65.51194,
+    34.76065
+],
+  "geometry": {"coordinates":[65.51194,34.76065],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293636901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26157,34.49312,68.26157,34.49312",
+    "geom:latitude":34.49312,
+    "geom:longitude":68.26157,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Qash",
+    "gn:country_code":"AF",
+    "gn:dem":3081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129249,
+    "gn:latitude":34.49312,
+    "gn:longitude":68.26157,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kash",
+        "Q\u0101\u0161",
+        "Q\u0101sh",
+        "\u0642\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129249
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a0456d5f67f13a374a49d25c4a7390c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1293636901,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293636901,
+    "wof:lastmodified":1537580698,
+    "wof:name":"Qash",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26156999999999,
+    34.49312,
+    68.26156999999999,
+    34.49312
+],
+  "geometry": {"coordinates":[68.26156999999999,34.49312],"type":"Point"}
+}

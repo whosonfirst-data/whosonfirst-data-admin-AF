@@ -1,0 +1,77 @@
+{
+  "id": 1242769343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.43789,35.76212,64.43789,35.76212",
+    "geom:latitude":35.76212,
+    "geom:longitude":64.43789,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Din Taj",
+    "gn:country_code":"AF",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143063,
+    "gn:latitude":35.76212,
+    "gn:longitude":64.43789,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u012bn T\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u012bn T\u0101j"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u06cc\u0646 \u062a\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u06cc\u0646 \u062a\u0627\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143063
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"824b42e866ff3a3e6e31b97f302d2c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1242769343,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1242769343,
+    "wof:lastmodified":1537581889,
+    "wof:name":"Din Taj",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.43789,
+    35.76212,
+    64.43789,
+    35.76212
+],
+  "geometry": {"coordinates":[64.43789,35.76212],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343372605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86836,37.02065,70.86836,37.02065",
+    "geom:latitude":37.02065,
+    "geom:longitude":70.86836,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1108.0",
+    "gn:asciiname":"Gandah Chashmah",
+    "gn:country_code":"AF",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468348,
+    "gn:latitude":37.02065,
+    "gn:longitude":70.86836,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gandah Chashmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gan\u1e0fa Casma",
+        "\u06af\u0646\u062f\u0647 \u0686\u0634\u0645\u0647",
+        "Gandeh Cheshmeh",
+        "Gandah Chashmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468348
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9ae71abac8116df37497f7ec23aa0e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561835,
+            "locality_id":1343372605,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343372605,
+    "wof:lastmodified":1537583551,
+    "wof:name":"Gandah Chashmah",
+    "wof:parent_id":1108561835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86836,
+    37.02065,
+    70.86836,
+    37.02065
+],
+  "geometry": {"coordinates":[70.86836,37.02065],"type":"Point"}
+}

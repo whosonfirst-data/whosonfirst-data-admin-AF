@@ -1,0 +1,77 @@
+{
+  "id": 1242863153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.97531,32.96984,64.97531,32.96984",
+    "geom:latitude":32.96984,
+    "geom:longitude":64.97531,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Surkh Kotal",
+    "gn:country_code":"AF",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124058,
+    "gn:latitude":32.96984,
+    "gn:longitude":64.97531,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh K\u014dtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Surkhkotal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Su\u1e5fkhk\u014dtal",
+        "Surkh K\u014dtal",
+        "\u0633\u0631\u062e \u06a9\u0648\u062a\u0644",
+        "Sorkh Kowtal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124058
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"248ecc3e0b5c566c3b25cd8e9fcc0d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1242863153,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242863153,
+    "wof:lastmodified":1537580269,
+    "wof:name":"Surkh Kotal",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.97531,
+    32.96984,
+    64.97531,
+    32.96984
+],
+  "geometry": {"coordinates":[64.97530999999999,32.96984],"type":"Point"}
+}

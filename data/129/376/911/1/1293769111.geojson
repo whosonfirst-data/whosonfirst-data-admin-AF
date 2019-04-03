@@ -1,0 +1,74 @@
+{
+  "id": 1293769111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6722,32.62635,67.6722,32.62635",
+    "geom:latitude":32.62635,
+    "geom:longitude":67.6722,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Maro Khan",
+    "gn:country_code":"AF",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133784,
+    "gn:latitude":32.62635,
+    "gn:longitude":67.6722,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mar\u014d Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e5f\u014dkh\u0101n",
+        "Mar\u014d Kh\u0101n",
+        "\u0645\u0631\u0648 \u062e\u0627\u0646",
+        "Marow Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23a360667b50f7fedcfa20eb3d7ea677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1293769111,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293769111,
+    "wof:lastmodified":1537581121,
+    "wof:name":"Maro Khan",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6722,
+    32.62635,
+    67.6722,
+    32.62635
+],
+  "geometry": {"coordinates":[67.6722,32.62635],"type":"Point"}
+}

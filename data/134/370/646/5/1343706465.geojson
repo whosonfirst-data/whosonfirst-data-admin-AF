@@ -1,0 +1,72 @@
+{
+  "id": 1343706465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29486,34.51779,70.29486,34.51779",
+    "geom:latitude":34.51779,
+    "geom:longitude":70.29486,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Dupolak",
+    "gn:country_code":"AF",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564103,
+    "gn:latitude":34.51779,
+    "gn:longitude":70.29486,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dup\u014dlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dup\u014dlak",
+        "\u062f\u067e\u0648\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564103
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3494b6c39d1aff35d8556c5032bcf220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1343706465,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1343706465,
+    "wof:lastmodified":1537583935,
+    "wof:name":"Dupolak",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29486,
+    34.51779000000001,
+    70.29486,
+    34.51779000000001
+],
+  "geometry": {"coordinates":[70.29486,34.51779000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209490451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.08655,31.88561,63.08655,31.88561",
+    "geom:latitude":31.88561,
+    "geom:longitude":63.08655,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205",
+    "gn:asciiname":"Kotalak",
+    "gn:country_code":"AF",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135527,
+    "gn:latitude":31.88561,
+    "gn:longitude":63.08655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dtalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u014dtalak"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u062a\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "K\u014dtalak",
+        "Kowtalak",
+        "\u06a9\u0648\u062a\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135527
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffbcb81b2ec4253679a510ff57c746a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209490451
+        }
+    ],
+    "wof:id":1209490451,
+    "wof:lastmodified":1537581263,
+    "wof:name":"Kotalak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.08655,
+    31.88561,
+    63.08655,
+    31.88561
+],
+  "geometry": {"coordinates":[63.08655,31.88561],"type":"Point"}
+}

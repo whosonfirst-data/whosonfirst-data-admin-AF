@@ -1,0 +1,74 @@
+{
+  "id": 1242835807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.528,31.74651,67.528,31.74651",
+    "geom:latitude":31.74651,
+    "geom:longitude":67.528,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Shamawun",
+    "gn:country_code":"AF",
+    "gn:dem":2227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477824,
+    "gn:latitude":31.74651,
+    "gn:longitude":67.528,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sham\u0101w\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304am\u0101w\u016bn",
+        "Shamavun",
+        "Sham\u0101w\u016bn",
+        "\u0634\u0645\u0627\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477824
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"31de96c66cca41603a71a5106ef9bc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1242835807,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242835807,
+    "wof:lastmodified":1537583882,
+    "wof:name":"Shamawun",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.528,
+    31.74651,
+    67.528,
+    31.74651
+],
+  "geometry": {"coordinates":[67.52800000000001,31.74651],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276314149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.38179,34.946,62.38179,34.946",
+    "geom:latitude":34.946,
+    "geom:longitude":62.38179,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Fazl-e Ilahi",
+    "gn:country_code":"AF",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142189,
+    "gn:latitude":34.946,
+    "gn:longitude":62.38179,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fa\u1e95l-e Il\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0636\u0644\u0644\u0627\u0647\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Fazli-Plyakhi",
+        "Fa\u1e0f\u1e95l-i-El\u0101hi",
+        "Fa\u1e95l-e Il\u0101h\u012b",
+        "\u0641\u0636\u0644 \u0627\u0644\u0627\u0647\u06cc",
+        "Fa\u1e95loll\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142189
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abb2ebc124baa2e31da787025681be26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1276314149,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276314149,
+    "wof:lastmodified":1537581807,
+    "wof:name":"Fazl-e Ilahi",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.38179,
+    34.946,
+    62.38179,
+    34.946
+],
+  "geometry": {"coordinates":[62.38179,34.946],"type":"Point"}
+}

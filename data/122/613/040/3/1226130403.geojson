@@ -1,0 +1,78 @@
+{
+  "id": 1226130403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.45369,34.84828,62.45369,34.84828",
+    "geom:latitude":34.84828,
+    "geom:longitude":62.45369,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006.0",
+    "gn:asciiname":"Babu Shayda",
+    "gn:country_code":"AF",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147759,
+    "gn:latitude":34.84828,
+    "gn:longitude":62.45369,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u016b Shayd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0648 \u0634\u064a\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101bu \u0160ayd\u0101",
+        "Babushaida",
+        "B\u0101b\u016b Shayd\u0101",
+        "\u0628\u0627\u0628\u0648 \u0634\u06cc\u062f\u0627",
+        "B\u0101b\u016b Shaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147759
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4d873d34dd5325211cdac2960221399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1226130403,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226130403,
+    "wof:lastmodified":1537582292,
+    "wof:name":"Babu Shayda",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.45369,
+    34.84828,
+    62.45369,
+    34.84828
+],
+  "geometry": {"coordinates":[62.45369,34.84828],"type":"Point"}
+}

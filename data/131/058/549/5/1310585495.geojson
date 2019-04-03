@@ -1,0 +1,72 @@
+{
+  "id": 1310585495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.7686,34.14129,63.7686,34.14129",
+    "geom:latitude":34.14129,
+    "geom:longitude":63.7686,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Dahan-Tutak",
+    "gn:country_code":"AF",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489593,
+    "gn:latitude":34.14129,
+    "gn:longitude":63.7686,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-T\u016btak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dah\u0101n-T\u016btak",
+        "\u062f\u0647\u0627\u0646 \u062a\u0648\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489593
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82acc2bb9578ef22ffbc4005f4c86671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1310585495,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310585495,
+    "wof:lastmodified":1537583919,
+    "wof:name":"Dahan-Tutak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.7686,
+    34.14129000000001,
+    63.7686,
+    34.14129000000001
+],
+  "geometry": {"coordinates":[63.7686,34.14129000000001],"type":"Point"}
+}

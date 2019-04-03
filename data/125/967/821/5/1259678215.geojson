@@ -1,0 +1,73 @@
+{
+  "id": 1259678215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.79164,33.97987,63.79164,33.97987",
+    "geom:latitude":33.97987,
+    "geom:longitude":63.79164,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Kashkar-e Amiri",
+    "gn:country_code":"AF",
+    "gn:dem":2433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137748,
+    "gn:latitude":33.97987,
+    "gn:longitude":63.79164,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashkar-e Am\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaska\u1e5fe Ami\u1e5fi",
+        "Kashkar-e Am\u012br\u012b",
+        "\u06a9\u0634\u06a9\u0631 \u0627\u0645\u06cc\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137748
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7bb6cccfbe008638d48d355b51644fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1259678215,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259678215,
+    "wof:lastmodified":1537581439,
+    "wof:name":"Kashkar-e Amiri",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.79164,
+    33.97987,
+    63.79164,
+    33.97987
+],
+  "geometry": {"coordinates":[63.79164,33.97987],"type":"Point"}
+}

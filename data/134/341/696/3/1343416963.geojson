@@ -1,0 +1,81 @@
+{
+  "id": 1343416963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06248,36.56573,69.06248,36.56573",
+    "geom:latitude":36.56573,
+    "geom:longitude":69.06248,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406.0",
+    "gn:asciiname":"Musa Zai",
+    "gn:country_code":"AF",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468272,
+    "gn:latitude":36.56573,
+    "gn:longitude":69.06248,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0649 \u0632\u0627\u0626\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0430\u0437\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "M\u016bs\u00e1 Z\u0101y",
+        "Musazai",
+        "M\u016bs\u00e1 Z\u0101\u2019\u012b",
+        "M\u016bs\u00e1 Za\u012b",
+        "\u0645\u0648\u0633\u0649 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"92ac83fc9d1288ca69e7bda4dcec0220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1343416963,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1343416963,
+    "wof:lastmodified":1537583546,
+    "wof:name":"Musa Zai",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06248000000001,
+    36.56573,
+    69.06248000000001,
+    36.56573
+],
+  "geometry": {"coordinates":[69.06248000000001,36.56573],"type":"Point"}
+}

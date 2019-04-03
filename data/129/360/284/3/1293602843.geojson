@@ -1,0 +1,74 @@
+{
+  "id": 1293602843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47718,37.23056,71.47718,37.23056",
+    "geom:latitude":37.23056,
+    "geom:longitude":71.47718,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Chuk Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144868,
+    "gn:latitude":37.23056,
+    "gn:longitude":71.47718,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u016bk Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skala Chuk Sang",
+        "C\u016bk Sang",
+        "Ch\u016bk Sang",
+        "\u0686\u0648\u06a9 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421183887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144868
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f82740a22bdea67b8b6b43c5ad8d3574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421183887,
+            "locality_id":1293602843,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293602843,
+    "wof:lastmodified":1537582049,
+    "wof:name":"Chuk Sang",
+    "wof:parent_id":421183887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47718,
+    37.23056,
+    71.47718,
+    37.23056
+],
+  "geometry": {"coordinates":[71.47718,37.23056],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293337619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8067,32.6883,66.8067,32.6883",
+    "geom:latitude":32.6883,
+    "geom:longitude":66.8067,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Korkay",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1135213,
+    "gn:latitude":32.6883,
+    "gn:longitude":66.8067,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014drkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0643\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u014d\u1e5fkay",
+        "K\u014drkay",
+        "\u06a9\u0648\u0631\u06a9\u06cc",
+        "K\u016brkay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135213
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bcc12b784d5667e62cf9b683d9246900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1293337619,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293337619,
+    "wof:lastmodified":1537581234,
+    "wof:name":"Korkay",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8067,
+    32.6883,
+    66.8067,
+    32.6883
+],
+  "geometry": {"coordinates":[66.80670000000001,32.6883],"type":"Point"}
+}

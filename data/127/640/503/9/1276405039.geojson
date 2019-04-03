@@ -1,0 +1,74 @@
+{
+  "id": 1276405039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.11674,30.26101,62.11674,30.26101",
+    "geom:latitude":30.26101,
+    "geom:longitude":62.11674,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2203",
+    "gn:asciiname":"Gor Ab",
+    "gn:country_code":"AF",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140530,
+    "gn:latitude":30.26101,
+    "gn:longitude":62.11674,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014dr \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u014d\u1e5f \u0100b",
+        "G\u014dr \u0100b",
+        "\u06af\u0648\u0631 \u0622\u0628",
+        "G\u016br \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108561885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140530
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"126a8e4acffca1777aa069a2b1b87226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561885,
+            "locality_id":1276405039,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1276405039,
+    "wof:lastmodified":1537581671,
+    "wof:name":"Gor Ab",
+    "wof:parent_id":1108561885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.11674,
+    30.26101,
+    62.11674,
+    30.26101
+],
+  "geometry": {"coordinates":[62.11674,30.26101],"type":"Point"}
+}

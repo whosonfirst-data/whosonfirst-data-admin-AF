@@ -1,0 +1,74 @@
+{
+  "id": 1243241567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.12519,33.18573,62.12519,33.18573",
+    "geom:latitude":33.18573,
+    "geom:longitude":62.12519,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Aliabad",
+    "gn:country_code":"AF",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148990,
+    "gn:latitude":33.18573,
+    "gn:longitude":62.12519,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aliabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ali \u0100b\u0101\u1e0f",
+        "Aliabad",
+        "\u2018Al\u012b\u0101b\u0101d",
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148990
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6cd11b6f7761d458db17256e7cb7616b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198905,
+            "locality_id":1243241567,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1243241567,
+    "wof:lastmodified":1537582382,
+    "wof:name":"Aliabad",
+    "wof:parent_id":421198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.12519,
+    33.18573,
+    62.12519,
+    33.18573
+],
+  "geometry": {"coordinates":[62.12519,33.18573],"type":"Point"}
+}

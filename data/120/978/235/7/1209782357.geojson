@@ -1,0 +1,72 @@
+{
+  "id": 1209782357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81346,34.4805,67.81346,34.4805",
+    "geom:latitude":34.4805,
+    "geom:longitude":67.81346,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Sar Band",
+    "gn:country_code":"AF",
+    "gn:dem":2818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127369,
+    "gn:latitude":34.4805,
+    "gn:longitude":67.81346,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarband",
+        "\u0633\u0631 \u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127369
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"587289fb83825a8d15a19034e082cf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1209782357,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209782357,
+    "wof:lastmodified":1537580552,
+    "wof:name":"Sar Band",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81345999999999,
+    34.4805,
+    67.81345999999999,
+    34.4805
+],
+  "geometry": {"coordinates":[67.81345999999999,34.4805],"type":"Point"}
+}

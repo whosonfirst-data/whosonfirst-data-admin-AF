@@ -1,0 +1,77 @@
+{
+  "id": 1243402999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87221,36.30896,65.87221,36.30896",
+    "geom:latitude":36.30896,
+    "geom:longitude":65.87221,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101",
+    "gn:asciiname":"Khan Aqa",
+    "gn:country_code":"AF",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137123,
+    "gn:latitude":36.30896,
+    "gn:longitude":65.87221,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101n \u0100q\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101neq\u0101",
+        "Kh\u0101naqa",
+        "Kh\u0101neq\u0101h",
+        "Kh\u0101n \u0100q\u0101",
+        "\u062e\u0627\u0646 \u0622\u0642\u0627",
+        "Kh\u0101niq\u0101",
+        "\u062e\u0627\u0646\u0642\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"108c5e05482b5280e66cd006dc2d2b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1243402999,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1243402999,
+    "wof:lastmodified":1537581395,
+    "wof:name":"Khan Aqa",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87221,
+    36.30896,
+    65.87221,
+    36.30896
+],
+  "geometry": {"coordinates":[65.87221,36.30896],"type":"Point"}
+}

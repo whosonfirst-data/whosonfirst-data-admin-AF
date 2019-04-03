@@ -1,0 +1,74 @@
+{
+  "id": 1210020405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.54522,37.97911,70.54522,37.97911",
+    "geom:latitude":37.97911,
+    "geom:longitude":70.54522,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Pas-e Pidew",
+    "gn:country_code":"AF",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467276,
+    "gn:latitude":37.97911,
+    "gn:longitude":70.54522,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pas-e Pid\u0113w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pas-i-Pe\u1e0f\u0113w",
+        "\u067e\u0633 \u067e\u062f\u06d0\u0648",
+        "Pas-e Pe\u1e0f\u0113w",
+        "Pas-e Pid\u0113w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467276
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6558adf3678ea87d47263b1edf70cac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1210020405,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1210020405,
+    "wof:lastmodified":1537583462,
+    "wof:name":"Pas-e Pidew",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.54522,
+    37.97911,
+    70.54522,
+    37.97911
+],
+  "geometry": {"coordinates":[70.54522,37.97911],"type":"Point"}
+}

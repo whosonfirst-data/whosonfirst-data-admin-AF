@@ -1,0 +1,81 @@
+{
+  "id": 1192968979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23801,32.68567,68.23801,32.68567",
+    "geom:latitude":32.68567,
+    "geom:longitude":68.23801,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903",
+    "gn:asciiname":"Khoshamand",
+    "gn:country_code":"AF",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1135980,
+    "gn:latitude":32.68567,
+    "gn:longitude":68.23801,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh\u0101mand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khushamand",
+        "Khvosh \u0100mad",
+        "Khus\u0304 \u0100mad",
+        "Khvosh Mand",
+        "Khos\u0304\u0101man\u1e0f",
+        "Khus\u0304\u0101mand",
+        "\u062e\u0648\u0634\u0627\u0645\u0646\u062f",
+        "Khvosh\u0101mand",
+        "Kh\u016bsh \u0100mad",
+        "\u062e\u0648\u0634 \u0622\u0645\u062f",
+        "Kh\u014dsh\u0101mand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b2bfd8c2844f98c267bed960418e2f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561985,
+            "locality_id":1192968979,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1192968979,
+    "wof:lastmodified":1537581305,
+    "wof:name":"Khoshamand",
+    "wof:parent_id":1108561985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23801,
+    32.68567,
+    68.23801,
+    32.68567
+],
+  "geometry": {"coordinates":[68.23801,32.68567],"type":"Point"}
+}

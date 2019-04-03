@@ -1,0 +1,72 @@
+{
+  "id": 1243254205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94264,33.07943,66.94264,33.07943",
+    "geom:latitude":33.07943,
+    "geom:longitude":66.94264,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"606",
+    "gn:asciiname":"Wulangak",
+    "gn:country_code":"AF",
+    "gn:dem":3085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121547,
+    "gn:latitude":33.07943,
+    "gn:longitude":66.94264,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wulangak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0648\u0644\u0646\u06af\u06a9",
+        "Wulangak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121547
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b777763165df02281b30a61846832f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562237,
+            "locality_id":1243254205,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243254205,
+    "wof:lastmodified":1537580047,
+    "wof:name":"Wulangak",
+    "wof:parent_id":1108562237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94264,
+    33.07943,
+    66.94264,
+    33.07943
+],
+  "geometry": {"coordinates":[66.94264,33.07943],"type":"Point"}
+}

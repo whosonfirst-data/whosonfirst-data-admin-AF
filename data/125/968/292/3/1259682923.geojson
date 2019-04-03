@@ -1,0 +1,74 @@
+{
+  "id": 1259682923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54515,35.34678,67.54515,35.34678",
+    "geom:latitude":35.34678,
+    "geom:longitude":67.54515,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Khargoshak",
+    "gn:country_code":"AF",
+    "gn:dem":1880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136978,
+    "gn:latitude":35.34678,
+    "gn:longitude":67.54515,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kharg\u014dshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u1e5fg\u014dsak",
+        "Kharg\u014dshak",
+        "Kharg\u016bshak",
+        "\u062e\u0631\u06af\u0648\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136978
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"884fe0c32ffeef6a30b8b6454aeafcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1259682923,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259682923,
+    "wof:lastmodified":1537581384,
+    "wof:name":"Khargoshak",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54515,
+    35.34677999999999,
+    67.54515,
+    35.34677999999999
+],
+  "geometry": {"coordinates":[67.54515000000001,35.34677999999999],"type":"Point"}
+}

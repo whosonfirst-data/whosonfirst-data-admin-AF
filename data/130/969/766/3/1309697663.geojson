@@ -1,0 +1,81 @@
+{
+  "id": 1309697663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98999,33.63267,67.98999,33.63267",
+    "geom:latitude":33.63267,
+    "geom:longitude":67.98999,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Mundow",
+    "gn:country_code":"AF",
+    "gn:dem":3314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6252206,
+    "gn:latitude":33.63267,
+    "gn:longitude":67.98999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mun\u1e0fow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u062f\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041c\u0443\u043d\u0434\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Mundau",
+        "Mundaw",
+        "Mond\u0101b",
+        "Mun\u1e0fow",
+        "\u0645\u0646\u0689\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6252206
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bbd4243306b8f08f8eb5639d9a84c5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1309697663,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309697663,
+    "wof:lastmodified":1537583902,
+    "wof:name":"Mundow",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98999,
+    33.63267,
+    67.98999,
+    33.63267
+],
+  "geometry": {"coordinates":[67.98999000000001,33.63267],"type":"Point"}
+}

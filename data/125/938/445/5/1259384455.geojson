@@ -1,0 +1,81 @@
+{
+  "id": 1259384455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91619,36.41459,68.91619,36.41459",
+    "geom:latitude":36.41459,
+    "geom:longitude":68.91619,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1311.0",
+    "gn:asciiname":"Jilow Gir",
+    "gn:country_code":"AF",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409297,
+    "gn:latitude":36.41459,
+    "gn:longitude":68.91619,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jilow G\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0648\u06af\u064a\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u0432\u0433\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Jelaw G\u012br",
+        "Dzhalavgir",
+        "Jelowg\u012br",
+        "Jilow G\u012br",
+        "\u062c\u0644\u0648 \u06af\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409297
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"470412b488d080605e494b61c3c6c74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1259384455,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259384455,
+    "wof:lastmodified":1537582525,
+    "wof:name":"Jilow Gir",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91619,
+    36.41459,
+    68.91619,
+    36.41459
+],
+  "geometry": {"coordinates":[68.91619,36.41459],"type":"Point"}
+}

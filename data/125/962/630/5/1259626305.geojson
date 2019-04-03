@@ -1,0 +1,76 @@
+{
+  "id": 1259626305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56548,33.24324,69.56548,33.24324",
+    "geom:latitude":33.24324,
+    "geom:longitude":69.56548,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3204",
+    "gn:asciiname":"Ispi",
+    "gn:country_code":"AF",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142364,
+    "gn:latitude":33.24324,
+    "gn:longitude":69.56548,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Isp\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Esp\u012b",
+        "Espi",
+        "Isp\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142364
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b9050d53fa3071dfc8c66eba030a1b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562521,
+            "locality_id":1259626305,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1259626305,
+    "wof:lastmodified":1537581822,
+    "wof:name":"Ispi",
+    "wof:parent_id":1108562521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56548000000001,
+    33.24324,
+    69.56548000000001,
+    33.24324
+],
+  "geometry": {"coordinates":[69.56548000000001,33.24324],"type":"Point"}
+}

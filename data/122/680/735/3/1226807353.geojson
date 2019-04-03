@@ -1,0 +1,74 @@
+{
+  "id": 1226807353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.96313,31.75002,65.96313,31.75002",
+    "geom:latitude":31.75002,
+    "geom:longitude":65.96313,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2402",
+    "gn:asciiname":"Zanabad",
+    "gn:country_code":"AF",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121039,
+    "gn:latitude":31.75002,
+    "gn:longitude":65.96313,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zan\u0101b\u0101d",
+        "Zanabad",
+        "\u0632\u0646 \u0622\u0628\u0627\u062f",
+        "Zan\u0101b\u0101\u1e0f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121039
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9c506364bd93ac8562a19d104c67eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561925,
+            "locality_id":1226807353,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226807353,
+    "wof:lastmodified":1537580020,
+    "wof:name":"Zanabad",
+    "wof:parent_id":1108561925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.96313,
+    31.75002000000001,
+    65.96313,
+    31.75002000000001
+],
+  "geometry": {"coordinates":[65.96313000000001,31.75002000000001],"type":"Point"}
+}

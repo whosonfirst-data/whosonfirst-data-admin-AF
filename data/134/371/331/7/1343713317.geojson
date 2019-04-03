@@ -1,0 +1,77 @@
+{
+  "id": 1343713317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42258,35.38506,71.42258,35.38506",
+    "geom:latitude":35.38506,
+    "geom:longitude":71.42258,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3002.0",
+    "gn:asciiname":"Pazinjaluk",
+    "gn:country_code":"AF",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423909,
+    "gn:latitude":35.38506,
+    "gn:longitude":71.42258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pazinjaluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0632\u0646\u062c\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "Pazindzhaluk",
+        "\u067e\u0632\u0646\u062c\u0644\u06a9",
+        "Pazenjaluk",
+        "Pazinjaluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423909
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"371d9e4776d707e81376e87e50a45c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562127,
+            "locality_id":1343713317,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1343713317,
+    "wof:lastmodified":1537582589,
+    "wof:name":"Pazinjaluk",
+    "wof:parent_id":1108562127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42258000000002,
+    35.38506,
+    71.42258000000002,
+    35.38506
+],
+  "geometry": {"coordinates":[71.42258000000002,35.38506],"type":"Point"}
+}

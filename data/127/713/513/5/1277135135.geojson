@@ -1,0 +1,78 @@
+{
+  "id": 1277135135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.81933,31.60499,65.81933,31.60499",
+    "geom:latitude":31.60499,
+    "geom:longitude":65.81933,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Sayyid Jan Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407197,
+    "gn:latitude":31.60499,
+    "gn:longitude":65.81933,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid J\u0101n Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0633\u064a\u062f \u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Say\u1e0fj\u0101n Kal\u0101",
+        "Saidzhankala",
+        "Sayyid J\u0101n Kal\u0101",
+        "\u0633\u06cc\u062f \u062c\u0627\u0646 \u06a9\u0644\u0627",
+        "Seyyedj\u0101n Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407197
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"10a5eda440605b03dd5a830f272cfc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1277135135,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1277135135,
+    "wof:lastmodified":1537582507,
+    "wof:name":"Sayyid Jan Kala",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.81933000000001,
+    31.60499,
+    65.81933000000001,
+    31.60499
+],
+  "geometry": {"coordinates":[65.81933000000001,31.60499],"type":"Point"}
+}

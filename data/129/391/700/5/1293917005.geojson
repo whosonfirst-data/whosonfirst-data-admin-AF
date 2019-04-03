@@ -1,0 +1,72 @@
+{
+  "id": 1293917005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.24115,32.7495,66.24115,32.7495",
+    "geom:latitude":32.7495,
+    "geom:longitude":66.24115,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Musa Khan",
+    "gn:country_code":"AF",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132622,
+    "gn:latitude":32.7495,
+    "gn:longitude":66.24115,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u016bs\u00e1 Kh\u0101n",
+        "\u0645\u0648\u0633\u0649 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132622
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffbf20e5889455afbc73f70fc1328456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1293917005,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1293917005,
+    "wof:lastmodified":1537581022,
+    "wof:name":"Musa Khan",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.24115,
+    32.7495,
+    66.24115,
+    32.7495
+],
+  "geometry": {"coordinates":[66.24115,32.7495],"type":"Point"}
+}

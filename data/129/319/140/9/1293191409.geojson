@@ -1,0 +1,82 @@
+{
+  "id": 1293191409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64162,33.19484,67.64162,33.19484",
+    "geom:latitude":33.19484,
+    "geom:longitude":67.64162,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Mabayn Sokhtah",
+    "gn:country_code":"AF",
+    "gn:dem":2846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134362,
+    "gn:latitude":33.19484,
+    "gn:longitude":67.64162,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101bayn S\u014dkhtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0628\u064a\u0646 \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0431\u0430\u0439\u043d\u0441\u043e\u0445\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mabaynsokhta",
+        "M\u0101bayns\u014dkhta",
+        "M\u0101bayns\u016bkhteh",
+        "M\u0101beyns\u016bkhteh",
+        "M\u0101bayn S\u014dkhtah",
+        "\u0645\u0627\u0628\u06cc\u0646 \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134362
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1531c03c9b2f960a92cdd3d50eaaaae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1293191409,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293191409,
+    "wof:lastmodified":1537581168,
+    "wof:name":"Mabayn Sokhtah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64161999999999,
+    33.19484,
+    67.64161999999999,
+    33.19484
+],
+  "geometry": {"coordinates":[67.64161999999999,33.19484],"type":"Point"}
+}

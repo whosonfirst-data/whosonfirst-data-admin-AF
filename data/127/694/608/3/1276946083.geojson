@@ -1,0 +1,77 @@
+{
+  "id": 1276946083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39459,31.06125,66.39459,31.06125",
+    "geom:latitude":31.06125,
+    "geom:longitude":66.39459,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Neko Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131936,
+    "gn:latitude":31.06125,
+    "gn:longitude":66.39459,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0113k\u014d K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u06c0 \u0646\u06cc\u06a9\u0648"
+    ],
+    "name:und_x_variant":[
+        "Nekukalay",
+        "N\u0113k\u014d K\u00ealay",
+        "\u0646\u06d0\u06a9\u0648 \u06a9\u0644\u06cc",
+        "N\u0113ko Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131936
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a550fe81634188f53b5ef2dd27eeb689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1276946083,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276946083,
+    "wof:lastmodified":1537580965,
+    "wof:name":"Neko Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39459000000001,
+    31.06125,
+    66.39459000000001,
+    31.06125
+],
+  "geometry": {"coordinates":[66.39459000000001,31.06125],"type":"Point"}
+}

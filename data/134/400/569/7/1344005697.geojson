@@ -1,0 +1,74 @@
+{
+  "id": 1344005697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35521,34.70123,68.35521,34.70123",
+    "geom:latitude":34.70123,
+    "geom:longitude":68.35521,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Talkhak",
+    "gn:country_code":"AF",
+    "gn:dem":2643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123033,
+    "gn:latitude":34.70123,
+    "gn:longitude":68.35521,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Talkhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Tal\u2019khak"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0644\u062e\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123033
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"af75baa424d85dfc04a322c7466f8c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1344005697,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1344005697,
+    "wof:lastmodified":1537580201,
+    "wof:name":"Talkhak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35521,
+    34.70123,
+    68.35521,
+    34.70123
+],
+  "geometry": {"coordinates":[68.35521,34.70123],"type":"Point"}
+}

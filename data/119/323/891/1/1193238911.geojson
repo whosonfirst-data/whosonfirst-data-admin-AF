@@ -1,0 +1,77 @@
+{
+  "id": 1193238911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94819,36.70357,66.94819,36.70357",
+    "geom:latitude":36.70357,
+    "geom:longitude":66.94819,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1612",
+    "gn:asciiname":"Mashi",
+    "gn:country_code":"AF",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133743,
+    "gn:latitude":36.70357,
+    "gn:longitude":66.94819,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0438"
+    ],
+    "name:und_x_variant":[
+        "Mash\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133743
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89954cc633857ecbc32b6d8b477d0aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561981,
+            "locality_id":1193238911,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1193238911,
+    "wof:lastmodified":1537581118,
+    "wof:name":"Mashi",
+    "wof:parent_id":1108561981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94819,
+    36.70357,
+    66.94819,
+    36.70357
+],
+  "geometry": {"coordinates":[66.94819,36.70357],"type":"Point"}
+}

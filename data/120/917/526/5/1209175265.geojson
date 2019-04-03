@@ -1,0 +1,62 @@
+{
+  "id": 1209175265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09974,32.5273,69.09974,32.5273",
+    "geom:latitude":32.5273,
+    "geom:longitude":69.09974,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2906.0",
+    "gn:asciiname":"Khushal Khan",
+    "gn:country_code":"AF",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9166166,
+    "gn:latitude":32.5273,
+    "gn:longitude":69.09974,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khushal Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9166166
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ef36d4629694bb0ea59c0caa69eb3ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209175265
+        }
+    ],
+    "wof:id":1209175265,
+    "wof:lastmodified":1536295444,
+    "wof:name":"Khushal Khan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09974,
+    32.5273,
+    69.09974,
+    32.5273
+],
+  "geometry": {"coordinates":[69.09974,32.5273],"type":"Point"}
+}

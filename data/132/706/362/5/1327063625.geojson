@@ -1,0 +1,73 @@
+{
+  "id": 1327063625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20467,36.87305,66.20467,36.87305",
+    "geom:latitude":36.87305,
+    "geom:longitude":66.20467,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1706.0",
+    "gn:asciiname":"Bati Kot",
+    "gn:country_code":"AF",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146785,
+    "gn:latitude":36.87305,
+    "gn:longitude":66.20467,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bat\u012b K\u014d\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bat\u012b K\u014d\u1e6f",
+        "\u0628\u062a\u06cc \u06a9\u0648\u067c",
+        "Bati Kot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146785
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"04c467a62676a099d5631ab8d0d233e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561809,
+            "locality_id":1327063625,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1327063625,
+    "wof:lastmodified":1537582213,
+    "wof:name":"Bati Kot",
+    "wof:parent_id":1108561809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20467,
+    36.87305,
+    66.20467,
+    36.87305
+],
+  "geometry": {"coordinates":[66.20466999999999,36.87305],"type":"Point"}
+}

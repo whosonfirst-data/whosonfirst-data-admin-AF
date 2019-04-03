@@ -1,0 +1,74 @@
+{
+  "id": 1292945951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29333,34.95167,71.29333,34.95167",
+    "geom:latitude":34.95167,
+    "geom:longitude":71.29333,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Laram Kach Banda",
+    "gn:country_code":"AF",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452174,
+    "gn:latitude":34.95167,
+    "gn:longitude":71.29333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Laram Kach B\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u06a9\u0654 \u0644\u0631\u0645 \u0643\u0686"
+    ],
+    "name:und_x_variant":[
+        "Laram Kach B\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452174
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2ed5fd9247ee77dee67607ffb48cc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1292945951,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1292945951,
+    "wof:lastmodified":1537583090,
+    "wof:name":"Laram Kach Banda",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29333000000003,
+    34.95167,
+    71.29333000000003,
+    34.95167
+],
+  "geometry": {"coordinates":[71.29333000000003,34.95167],"type":"Point"}
+}

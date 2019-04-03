@@ -1,0 +1,69 @@
+{
+  "id": 1209562563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64221,31.86678,67.64221,31.86678",
+    "geom:latitude":31.86678,
+    "geom:longitude":67.64221,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Janotsai",
+    "gn:country_code":"AF",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482845,
+    "gn:latitude":31.86678,
+    "gn:longitude":67.64221,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101n\u014dtsa\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhanochay",
+        "J\u0101n\u014dcay",
+        "J\u0101n\u014dtsa\u012b",
+        "J\u0101n\u016btsay",
+        "\u062c\u0627\u0646\u0648\u0685\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482845
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51695a3811401fcb4a144e4a6f77d0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209562563
+        }
+    ],
+    "wof:id":1209562563,
+    "wof:lastmodified":1537583896,
+    "wof:name":"Janotsai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64220999999999,
+    31.86678,
+    67.64220999999999,
+    31.86678
+],
+  "geometry": {"coordinates":[67.64220999999999,31.86678],"type":"Point"}
+}

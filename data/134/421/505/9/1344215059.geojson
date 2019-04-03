@@ -1,0 +1,77 @@
+{
+  "id": 1344215059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19878,36.64706,69.19878,36.64706",
+    "geom:latitude":36.64706,
+    "geom:longitude":69.19878,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406",
+    "gn:asciiname":"Zahid",
+    "gn:country_code":"AF",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121113,
+    "gn:latitude":36.64706,
+    "gn:longitude":69.19878,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0101hid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0438\u0434"
+    ],
+    "name:und_x_variant":[
+        "Zakhid",
+        "Z\u0101hed",
+        "Z\u0101hid",
+        "\u0632\u0627\u0647\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121113
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f1946ce359188b193ff33bf74e7f91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562145,
+            "locality_id":1344215059,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1344215059,
+    "wof:lastmodified":1537580024,
+    "wof:name":"Zahid",
+    "wof:parent_id":1108562145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19878,
+    36.64706,
+    69.19878,
+    36.64706
+],
+  "geometry": {"coordinates":[69.19878,36.64706],"type":"Point"}
+}

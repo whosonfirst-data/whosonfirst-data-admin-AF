@@ -1,0 +1,73 @@
+{
+  "id": 1326764059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20054,35.99229,65.20054,35.99229",
+    "geom:latitude":35.99229,
+    "geom:longitude":65.20054,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1703.0",
+    "gn:asciiname":"Pir-e Gharib",
+    "gn:country_code":"AF",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466467,
+    "gn:latitude":35.99229,
+    "gn:longitude":65.20054,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u012br-e Ghar\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012br-e Ghar\u012bb",
+        "\u067e\u06cc\u0631 \u063a\u0631\u06cc\u0628",
+        "P\u012brghar\u012bb (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466467
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5bd159c2aaa634522fb41e97b9d3c7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561951,
+            "locality_id":1326764059,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1326764059,
+    "wof:lastmodified":1537583428,
+    "wof:name":"Pir-e Gharib",
+    "wof:parent_id":1108561951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20054,
+    35.99229000000001,
+    65.20054,
+    35.99229000000001
+],
+  "geometry": {"coordinates":[65.20054,35.99229000000001],"type":"Point"}
+}

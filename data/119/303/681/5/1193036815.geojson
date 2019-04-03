@@ -1,0 +1,73 @@
+{
+  "id": 1193036815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.77662,33.91854,64.77662,33.91854",
+    "geom:latitude":33.91854,
+    "geom:longitude":64.77662,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Gharghatak",
+    "gn:country_code":"AF",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141374,
+    "gn:latitude":33.91854,
+    "gn:longitude":64.77662,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharghatak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gargatak",
+        "Gharghatak",
+        "\u063a\u0631\u063a\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141374
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2341b6fac9a4459a6c7f1099a57d478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1193036815,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193036815,
+    "wof:lastmodified":1537581748,
+    "wof:name":"Gharghatak",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.77662,
+    33.91854,
+    64.77662,
+    33.91854
+],
+  "geometry": {"coordinates":[64.77661999999999,33.91854],"type":"Point"}
+}

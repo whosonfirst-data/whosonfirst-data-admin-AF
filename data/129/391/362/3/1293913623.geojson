@@ -1,0 +1,73 @@
+{
+  "id": 1293913623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.20328,37.34479,66.20328,37.34479",
+    "geom:latitude":37.34479,
+    "geom:longitude":66.20328,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1705",
+    "gn:asciiname":"Kowk",
+    "gn:country_code":"AF",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135580,
+    "gn:latitude":37.34479,
+    "gn:longitude":66.20328,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawk",
+        "Kowk",
+        "\u06a9\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135580
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f8f98b36585243322f19c640c38bd84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562395,
+            "locality_id":1293913623,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293913623,
+    "wof:lastmodified":1537581268,
+    "wof:name":"Kowk",
+    "wof:parent_id":1108562395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.20328,
+    37.34479,
+    66.20328,
+    37.34479
+],
+  "geometry": {"coordinates":[66.20328000000001,37.34479],"type":"Point"}
+}

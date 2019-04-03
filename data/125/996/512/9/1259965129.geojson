@@ -1,0 +1,77 @@
+{
+  "id": 1259965129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12575,33.49176,68.12575,33.49176",
+    "geom:latitude":33.49176,
+    "geom:longitude":68.12575,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"602.0",
+    "gn:asciiname":"Kodzhi",
+    "gn:country_code":"AF",
+    "gn:dem":2641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439151,
+    "gn:latitude":33.49176,
+    "gn:longitude":68.12575,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kodzhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u014dji",
+        "Kodzhi",
+        "K\u014dj\u012b",
+        "Kowj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439151
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91c304c7636f7c0f0957e3f9d52c2cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1259965129,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259965129,
+    "wof:lastmodified":1537582923,
+    "wof:name":"Kodzhi",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12575,
+    33.49176,
+    68.12575,
+    33.49176
+],
+  "geometry": {"coordinates":[68.12575,33.49176],"type":"Point"}
+}

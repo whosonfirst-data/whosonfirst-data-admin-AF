@@ -1,0 +1,68 @@
+{
+  "id": 1209561749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.11955,36.13101,67.11955,36.13101",
+    "geom:latitude":36.13101,
+    "geom:longitude":67.11955,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Band-e Shiram",
+    "gn:country_code":"AF",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1147161,
+    "gn:latitude":36.13101,
+    "gn:longitude":67.11955,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Band-e Shiram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Band-i-Sheram",
+        "Band-e Sheram",
+        "Band-e Shiram",
+        "\u0628\u0646\u062f \u0634\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147161
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"df0423cf6dcaea9dafdfc9c0639582ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209561749
+        }
+    ],
+    "wof:id":1209561749,
+    "wof:lastmodified":1537582245,
+    "wof:name":"Band-e Shiram",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.11955,
+    36.13101,
+    67.11955,
+    36.13101
+],
+  "geometry": {"coordinates":[67.11955,36.13101],"type":"Point"}
+}

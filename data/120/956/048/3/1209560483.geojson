@@ -1,0 +1,71 @@
+{
+  "id": 1209560483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24071,35.04334,71.24071,35.04334",
+    "geom:latitude":35.04334,
+    "geom:longitude":71.24071,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Menah",
+    "gn:country_code":"AF",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424073,
+    "gn:latitude":35.04334,
+    "gn:longitude":71.24071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0113nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u0113na",
+        "Mena",
+        "\u0645\u06d0\u0646\u0647",
+        "M\u0113nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424073
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1cd86f138c9d3ef9f02f96f884231b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209560483
+        }
+    ],
+    "wof:id":1209560483,
+    "wof:lastmodified":1537582596,
+    "wof:name":"Menah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24070999999998,
+    35.04334,
+    71.24070999999998,
+    35.04334
+],
+  "geometry": {"coordinates":[71.24070999999998,35.04334],"type":"Point"}
+}

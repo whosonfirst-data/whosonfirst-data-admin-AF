@@ -1,0 +1,74 @@
+{
+  "id": 1293578943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.79318,34.34467,64.79318,34.34467",
+    "geom:latitude":34.34467,
+    "geom:longitude":64.79318,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Kashkar",
+    "gn:country_code":"AF",
+    "gn:dem":2686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137752,
+    "gn:latitude":34.34467,
+    "gn:longitude":64.79318,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0161kar",
+        "Razvaliny Kashkar",
+        "Kashkar",
+        "\u06a9\u0634\u06a9\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137752
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6b30bcef2f5ea2eb3993cce36c62fdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1293578943,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293578943,
+    "wof:lastmodified":1537581439,
+    "wof:name":"Kashkar",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.79318,
+    34.34467,
+    64.79318,
+    34.34467
+],
+  "geometry": {"coordinates":[64.79318000000001,34.34467],"type":"Point"}
+}

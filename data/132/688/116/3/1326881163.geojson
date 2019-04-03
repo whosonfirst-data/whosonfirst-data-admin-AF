@@ -1,0 +1,79 @@
+{
+  "id": 1326881163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28468,32.01683,67.28468,32.01683",
+    "geom:latitude":32.01683,
+    "geom:longitude":67.28468,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Qaryah-ye Wusti",
+    "gn:country_code":"AF",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129482,
+    "gn:latitude":32.01683,
+    "gn:longitude":67.28468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Wus\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0648\u0633\u0637\u0649"
+    ],
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Vusti"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fya-i-Wus\u1e6fi",
+        "Qaryeh-ye Vos\u0163\u00e1",
+        "Qaryah-ye Wus\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129482
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"79ca23a35086b0b91801c4667fd9341c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1326881163,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1326881163,
+    "wof:lastmodified":1537580731,
+    "wof:name":"Qaryah-ye Wusti",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28468000000001,
+    32.01683,
+    67.28468000000001,
+    32.01683
+],
+  "geometry": {"coordinates":[67.28468000000001,32.01683],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209562799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45815,34.3847,68.45815,34.3847",
+    "geom:latitude":34.3847,
+    "geom:longitude":68.45815,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Barmak",
+    "gn:country_code":"AF",
+    "gn:dem":2991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1458771,
+    "gn:latitude":34.3847,
+    "gn:longitude":68.45815,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birmak",
+        "Bermak",
+        "Barmak",
+        "\u0628\u0631\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1458771
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"34e46ea7c40fe3f96fda763a0213f07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209562799
+        }
+    ],
+    "wof:id":1209562799,
+    "wof:lastmodified":1537583273,
+    "wof:name":"Barmak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45815,
+    34.3847,
+    68.45815,
+    34.3847
+],
+  "geometry": {"coordinates":[68.45815,34.3847],"type":"Point"}
+}

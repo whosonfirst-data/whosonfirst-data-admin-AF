@@ -1,0 +1,67 @@
+{
+  "id": 1209462033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55943,32.96386,68.55943,32.96386",
+    "geom:latitude":32.96386,
+    "geom:longitude":68.55943,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2919",
+    "gn:asciiname":"Mist",
+    "gn:country_code":"AF",
+    "gn:dem":2187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133490,
+    "gn:latitude":32.96386,
+    "gn:longitude":68.55943,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mist",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0633\u062a",
+        "Mest",
+        "Mist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00e1a4bd5e32c7683239974a47440645",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209462033
+        }
+    ],
+    "wof:id":1209462033,
+    "wof:lastmodified":1537581099,
+    "wof:name":"Mist",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55943,
+    32.96386,
+    68.55943,
+    32.96386
+],
+  "geometry": {"coordinates":[68.55943000000001,32.96386],"type":"Point"}
+}

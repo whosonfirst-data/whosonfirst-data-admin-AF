@@ -1,0 +1,77 @@
+{
+  "id": 1343733105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4125,35.115,69.4125,35.115",
+    "geom:latitude":35.115,
+    "geom:longitude":69.4125,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"203.0",
+    "gn:asciiname":"Bowlaghayn",
+    "gn:country_code":"AF",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146275,
+    "gn:latitude":35.115,
+    "gn:longitude":69.4125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bowlaghayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u063a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u014dl\u0101ghayn",
+        "Bolagh\u0101n",
+        "Bowlaghayn",
+        "\u0628\u0648\u0644\u063a\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146275
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2851636a0b579c2660e245d152c20a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562201,
+            "locality_id":1343733105,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1343733105,
+    "wof:lastmodified":1537582168,
+    "wof:name":"Bowlaghayn",
+    "wof:parent_id":1108562201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4125,
+    35.115,
+    69.4125,
+    35.115
+],
+  "geometry": {"coordinates":[69.41249999999999,35.115],"type":"Point"}
+}

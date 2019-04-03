@@ -1,0 +1,69 @@
+{
+  "id": 1209275447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41812,32.78722,68.41812,32.78722",
+    "geom:latitude":32.78722,
+    "geom:longitude":68.41812,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Chambaran",
+    "gn:country_code":"AF",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145487,
+    "gn:latitude":32.78722,
+    "gn:longitude":68.41812,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chambar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camba\u1e5f\u0101n",
+        "Chanbar\u0101n",
+        "\u0686\u0645\u0628\u0631\u0627\u0646",
+        "Tsambar\u0101n",
+        "Chambar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145487
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d9c38f42bd0ee7932854517fa092466",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209275447
+        }
+    ],
+    "wof:id":1209275447,
+    "wof:lastmodified":1537582107,
+    "wof:name":"Chambaran",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41812,
+    32.78722,
+    68.41812,
+    32.78722
+],
+  "geometry": {"coordinates":[68.41812,32.78722],"type":"Point"}
+}

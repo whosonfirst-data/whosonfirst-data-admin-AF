@@ -1,0 +1,76 @@
+{
+  "id": 1260009923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53034,36.84212,66.53034,36.84212",
+    "geom:latitude":36.84212,
+    "geom:longitude":66.53034,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1708",
+    "gn:asciiname":"Mamalik",
+    "gn:country_code":"AF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131824,
+    "gn:latitude":36.84212,
+    "gn:longitude":66.53034,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mamal\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamal\u012bk",
+        "N\u012bm L\u012bk",
+        "\u0645\u0645\u0644\u064a\u06a9",
+        "Mamalik",
+        "\u0645\u0645\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131824,
+        "wk:page":"Nim_Lik"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2cd3fba36434043619786d69279d266e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562011,
+            "locality_id":1260009923,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1260009923,
+    "wof:lastmodified":1537580957,
+    "wof:name":"Mamalik",
+    "wof:parent_id":1108562011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53034,
+    36.84212,
+    66.53034,
+    36.84212
+],
+  "geometry": {"coordinates":[66.53034,36.84212],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226496733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66098,33.89149,68.66098,33.89149",
+    "geom:latitude":33.89149,
+    "geom:longitude":68.66098,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407.0",
+    "gn:asciiname":"Patang Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7086534,
+    "gn:latitude":33.89149,
+    "gn:longitude":68.66098,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Patang Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7086534
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d28d5dc64fa8958f6dec0e8730362bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1226496733,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226496733,
+    "wof:lastmodified":1537065915,
+    "wof:name":"Patang Chinah",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66098000000001,
+    33.89149,
+    68.66098000000001,
+    33.89149
+],
+  "geometry": {"coordinates":[68.66098000000001,33.89149],"type":"Point"}
+}

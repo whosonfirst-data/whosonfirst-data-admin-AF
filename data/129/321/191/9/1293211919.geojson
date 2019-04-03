@@ -1,0 +1,74 @@
+{
+  "id": 1293211919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04941,36.08177,69.04941,36.08177",
+    "geom:latitude":36.08177,
+    "geom:longitude":69.04941,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Kuhnah Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410092,
+    "gn:latitude":36.08177,
+    "gn:longitude":69.04941,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kuhnah Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuhnaqal\u0101",
+        "Kohneh Qal\u2018eh",
+        "Kuhnah Qal\u2018ah",
+        "\u06a9\u0647\u0646\u0647 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"981b73fd25165c8762f291344459bb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1293211919,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293211919,
+    "wof:lastmodified":1537582536,
+    "wof:name":"Kuhnah Qal'ah",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04941,
+    36.08177,
+    69.04941,
+    36.08177
+],
+  "geometry": {"coordinates":[69.04940999999999,36.08177],"type":"Point"}
+}

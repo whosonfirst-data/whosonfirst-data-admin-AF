@@ -1,0 +1,73 @@
+{
+  "id": 1326461939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.5147,34.96699,66.5147,34.96699",
+    "geom:latitude":34.96699,
+    "geom:longitude":66.5147,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Sar-e Marghi",
+    "gn:country_code":"AF",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457656,
+    "gn:latitude":34.96699,
+    "gn:longitude":66.5147,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Margh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Margi",
+        "Sar-e Margh\u012b",
+        "\u0633\u0631 \u0645\u0631\u063a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457656
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae689b70420d47e605e1a397c4a96cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1326461939,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1326461939,
+    "wof:lastmodified":1537583232,
+    "wof:name":"Sar-e Marghi",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.5147,
+    34.96699,
+    66.5147,
+    34.96699
+],
+  "geometry": {"coordinates":[66.5147,34.96699],"type":"Point"}
+}

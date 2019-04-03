@@ -1,0 +1,73 @@
+{
+  "id": 1343439119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33308,33.90789,63.33308,33.90789",
+    "geom:latitude":33.90789,
+    "geom:longitude":63.33308,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013",
+    "gn:asciiname":"Jay-e Asman",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139242,
+    "gn:latitude":33.90789,
+    "gn:longitude":63.33308,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101y-e \u0100sm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhayi-Asman",
+        "J\u0101y-e \u0100sm\u0101n",
+        "\u062c\u0627\u06cc \u0622\u0633\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139242
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0405bbaeefd3b39894c368eced79f18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1343439119,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343439119,
+    "wof:lastmodified":1537581561,
+    "wof:name":"Jay-e Asman",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33308,
+    33.90789,
+    63.33308,
+    33.90789
+],
+  "geometry": {"coordinates":[63.33308,33.90789],"type":"Point"}
+}

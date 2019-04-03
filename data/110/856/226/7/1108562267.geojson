@@ -1,0 +1,91 @@
+{
+  "id": 1108562267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002769,
+    "geom:area_square_m":27446700.181705,
+    "geom:bbox":"67.0822059788,36.6825047177,67.1551139862,36.7394843528",
+    "geom:latitude":36.709799,
+    "geom:longitude":67.115846,
+    "iso:country":"AF",
+    "lbl:latitude":36.709396,
+    "lbl:longitude":67.107861,
+    "meso:admin1":"Balkh",
+    "meso:diss_me":"Mazari SharifBalkh",
+    "meso:gadm_admin":"Mazar-i-Sharif",
+    "meso:gadm_hasc2":"AF.BK.MS",
+    "meso:gaul_admin":"Mazar-e-Sharif",
+    "meso:local_id":"1601",
+    "meso:mps_x":67.107861,
+    "meso:mps_y":36.709396,
+    "meso:name_en":"Mazari Sharif",
+    "meso:source":"AOTM",
+    "mps:latitude":36.709396,
+    "mps:longitude":67.107861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mazari Sharif"
+    ],
+    "name:eng_x_variant":[
+        "Mazar-e-Sharif",
+        "Mazar-i-Sharif"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-01-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-01-01",
+    "statoids:capital":"Mazari Sharif",
+    "statoids:country":"AF",
+    "statoids:hasc":"AF.BK",
+    "statoids:name":"Mazari Sharif",
+    "statoids:population":"175344",
+    "statoids:statoid":"AF.BK.MS",
+    "statoids:timezone":"+4:30",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"AF.BK.MS"
+    },
+    "wof:country":"AF",
+    "wof:created":1474050125,
+    "wof:geomhash":"6940b277b8957348c8a679d4e24d5cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562267,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1108562267,
+    "wof:lastmodified":1536615183,
+    "wof:name":"Mazari Sharif",
+    "wof:parent_id":85667505,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":175344,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:shortcode":"MS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.08220597878362,
+    36.68250471769021,
+    67.155113986187,
+    36.7394843527534
+],
+  "geometry": {"coordinates":[[[67.08675115436426,36.69897626762896],[67.08538580895424,36.70782940769082],[67.08676568307834,36.70918481306071],[67.08567254217554,36.72235290002104],[67.09378347158622,36.72953606333304],[67.09373542648972,36.73251554101026],[67.09541322345925,36.73714310453202],[67.09566470262369,36.73745738288168],[67.10660543235556,36.7365444955236],[67.11361473043242,36.7394843527534],[67.11700177096903,36.73041563239428],[67.12304687772864,36.72536162944056],[67.13209692738215,36.73235907279112],[67.13518079278987,36.72976486487519],[67.14344748293499,36.72730151439688],[67.14616918301074,36.72305209814344],[67.1515260500147,36.72202793582848],[67.155113986187,36.70980521316644],[67.15061954724679,36.70306244365884],[67.14944217621056,36.70265049094106],[67.14894633877255,36.70199221060502],[67.14880820237377,36.70150332488594],[67.14153236164999,36.68991912964857],[67.12966689832514,36.69002082324126],[67.12291202099463,36.69532659967727],[67.11708255691281,36.68823042122229],[67.10552026189303,36.68529169238731],[67.10482107306258,36.68488549161337],[67.10352582604865,36.68348113167823],[67.09616887834127,36.6828622096946],[67.09513271867867,36.68250471769021],[67.08478692457773,36.68635315564406],[67.08220597878362,36.68844098538616],[67.08675115436426,36.69897626762896]]],"type":"Polygon"}
+}

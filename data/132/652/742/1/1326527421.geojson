@@ -1,0 +1,73 @@
+{
+  "id": 1326527421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.54351,32.51062,63.54351,32.51062",
+    "geom:latitude":32.51062,
+    "geom:longitude":63.54351,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2103.0",
+    "gn:asciiname":"Terikhay",
+    "gn:country_code":"AF",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1443997,
+    "gn:latitude":32.51062,
+    "gn:longitude":63.54351,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u00earikhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "T\u00earikhay",
+        "\u062a\u0631\u062e\u06cc",
+        "Terikhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443997
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"20ef940f93127b7b1f9a28488324ccef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562047,
+            "locality_id":1326527421,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1326527421,
+    "wof:lastmodified":1537582953,
+    "wof:name":"Terikhay",
+    "wof:parent_id":1108562047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.54351,
+    32.51062,
+    63.54351,
+    32.51062
+],
+  "geometry": {"coordinates":[63.54351,32.51062],"type":"Point"}
+}

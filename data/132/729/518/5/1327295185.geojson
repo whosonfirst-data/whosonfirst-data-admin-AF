@@ -1,0 +1,79 @@
+{
+  "id": 1327295185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.67275,32.4642,66.67275,32.4642",
+    "geom:latitude":32.4642,
+    "geom:longitude":66.67275,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Baluch Khune",
+    "gn:country_code":"AF",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147253,
+    "gn:latitude":32.4642,
+    "gn:longitude":66.67275,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bal\u016bch Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0686 \u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Bal\u016b\u010d Kh\u016bn\u0113",
+        "Balukhchune",
+        "Bal\u016bch Kh\u0101neh",
+        "Bal\u016bch Kh\u016bn\u0113",
+        "\u0628\u0644\u0648\u0686 \u062e\u0648\u0646\u06d0",
+        "\u0628\u0644\u0648\u0686 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147253
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b581b62c330c1631737862e891109d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1327295185,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327295185,
+    "wof:lastmodified":1537582250,
+    "wof:name":"Baluch Khune",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.67275,
+    32.4642,
+    66.67275,
+    32.4642
+],
+  "geometry": {"coordinates":[66.67274999999999,32.4642],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1327101685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30939,36.74097,69.30939,36.74097",
+    "geom:latitude":36.74097,
+    "geom:longitude":69.30939,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202.0",
+    "gn:asciiname":"Chin Zai",
+    "gn:country_code":"AF",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467699,
+    "gn:latitude":36.74097,
+    "gn:longitude":69.30939,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bn Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u064a\u0646 \u0632\u0627\u0626\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0437\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "Chinzai",
+        "Ch\u012bn Z\u0101y",
+        "\u010c\u012bn Z\u0101\u2019i",
+        "Ch\u012bn Z\u0101\u2019\u012b",
+        "Ch\u012bn Za\u012b",
+        "\u0686\u06cc\u0646 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467699
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"76ec70cde8f952985419e07503a860ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1327101685,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1327101685,
+    "wof:lastmodified":1537583501,
+    "wof:name":"Chin Zai",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30939000000001,
+    36.74097,
+    69.30939000000001,
+    36.74097
+],
+  "geometry": {"coordinates":[69.30939000000001,36.74097],"type":"Point"}
+}

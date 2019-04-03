@@ -1,0 +1,70 @@
+{
+  "id": 1209594391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.58392,31.81804,64.58392,31.81804",
+    "geom:latitude":31.81804,
+    "geom:longitude":64.58392,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Lwar Sa'idan",
+    "gn:country_code":"AF",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472879,
+    "gn:latitude":31.81804,
+    "gn:longitude":64.58392,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5f Sa\u2018\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "L\u2019varsaidan"
+    ],
+    "name:und_x_variant":[
+        "Lwa\u1e5f Sa\u2018\u012bd\u0101n",
+        "\u0644\u0648\u0693 \u0633\u0639\u06cc\u062f\u0627\u0646",
+        "Lwa\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472879
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"87d53ffc38d5d8fc99c81d9ad710a985",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209594391
+        }
+    ],
+    "wof:id":1209594391,
+    "wof:lastmodified":1537583721,
+    "wof:name":"Lwar Sa'idan",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.58391999999999,
+    31.81804,
+    64.58391999999999,
+    31.81804
+],
+  "geometry": {"coordinates":[64.58391999999999,31.81804],"type":"Point"}
+}

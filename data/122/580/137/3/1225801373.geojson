@@ -1,0 +1,76 @@
+{
+  "id": 1225801373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.50566,31.94773,65.50566,31.94773",
+    "geom:latitude":31.94773,
+    "geom:longitude":65.50566,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2405",
+    "gn:asciiname":"Sherghah",
+    "gn:country_code":"AF",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126350,
+    "gn:latitude":31.94773,
+    "gn:longitude":65.50566,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113rghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113rgha",
+        "Sh\u0113rgha",
+        "Sherga",
+        "Shayrghah",
+        "\u0634\u06cc\u0631\u063a\u0647",
+        "Sh\u0113rghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126350
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"058f4a9b256190c20c3528474cb2d7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562141,
+            "locality_id":1225801373,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1225801373,
+    "wof:lastmodified":1537580469,
+    "wof:name":"Sherghah",
+    "wof:parent_id":1108562141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.50565999999999,
+    31.94773,
+    65.50565999999999,
+    31.94773
+],
+  "geometry": {"coordinates":[65.50565999999999,31.94773],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1125865603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.3052,34.10738,64.3052,34.10738",
+    "geom:latitude":34.10738,
+    "geom:longitude":64.3052,
+    "gn:gn_country":"AF",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":15967,
+    "gn:population":15967,
+    "iso:country":"AF",
+    "lbl:latitude":34.10738,
+    "lbl:longitude":64.3052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Shahrak"
+    ],
+    "name:eng_x_preferred":[
+        "Shahrak"
+    ],
+    "name:unk_x_variant":[
+        "Qal\u2018eh Shah\u0101rak"
+    ],
+    "qs_pg:aaroncc":"AF",
+    "qs_pg:gn_country":"AF",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":1125896,
+    "qs_pg:gn_pop":15967,
+    "qs_pg:name":"Shahrak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130579,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125896,
+        "qs_pg:id":130579,
+        "wd:id":"Q27552608"
+    },
+    "wof:country":"AF",
+    "wof:created":1497294025,
+    "wof:geomhash":"0408f2611a0880f4dba3e09d711933e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1125865603,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1125865603,
+    "wof:lastmodified":1513888374,
+    "wof:name":"Shahrak",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:population":15967,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.3052,
+    34.10738,
+    64.3052,
+    34.10738
+],
+  "geometry": {"coordinates":[64.3052,34.10738],"type":"Point"}
+}

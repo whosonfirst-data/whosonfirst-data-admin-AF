@@ -1,0 +1,74 @@
+{
+  "id": 1209581823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86576,34.2609,69.86576,34.2609",
+    "geom:latitude":34.2609,
+    "geom:longitude":69.86576,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"803.0",
+    "gn:asciiname":"Duzala Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472031,
+    "gn:latitude":34.2609,
+    "gn:longitude":69.86576,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016bz\u0101l\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0632\u0627\u0644\u0627 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Duzalakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "D\u016bz\u0101l\u0101 Kh\u0113l",
+        "D\u014dz\u0101l\u0101 Kh\u0113l",
+        "D\u016bz\u0101l\u0101kheyl",
+        "\u062f\u0648\u0632\u0627\u0644\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472031
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c358eaf2f9fe12ad2b62d5e78a1c753e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209581823
+        }
+    ],
+    "wof:id":1209581823,
+    "wof:lastmodified":1537583668,
+    "wof:name":"Duzala Khel",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86576,
+    34.2609,
+    69.86576,
+    34.2609
+],
+  "geometry": {"coordinates":[69.86575999999999,34.2609],"type":"Point"}
+}

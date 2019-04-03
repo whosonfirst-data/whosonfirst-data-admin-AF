@@ -1,0 +1,75 @@
+{
+  "id": 1343408927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03046,34.66171,68.03046,34.66171",
+    "geom:latitude":34.66171,
+    "geom:longitude":68.03046,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Dasht Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":3038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143799,
+    "gn:latitude":34.66171,
+    "gn:longitude":68.03046,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eastqal\u2018a",
+        "Dashtkala",
+        "Dashtqal\u2018eh",
+        "Dasht Qal\u2018ah",
+        "\u062f\u0634\u062a \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143799
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eecab1bb78b86ffee9335677fcaad3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1343408927,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343408927,
+    "wof:lastmodified":1537581951,
+    "wof:name":"Dasht Qal'ah",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03045999999999,
+    34.66171,
+    68.03045999999999,
+    34.66171
+],
+  "geometry": {"coordinates":[68.03045999999999,34.66171],"type":"Point"}
+}

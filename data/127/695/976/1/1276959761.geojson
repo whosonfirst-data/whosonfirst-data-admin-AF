@@ -1,0 +1,76 @@
+{
+  "id": 1276959761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.02379,34.31277,62.02379,34.31277",
+    "geom:latitude":34.31277,
+    "geom:longitude":62.02379,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2001.0",
+    "gn:asciiname":"Chahar Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472187,
+    "gn:latitude":34.31277,
+    "gn:longitude":62.02379,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101r Kh\u0101na",
+        "Charkhana",
+        "Ch\u0101r Kh\u0101na",
+        "Chah\u0101r Kh\u0101nah",
+        "\u0686\u0647\u0627\u0631 \u062e\u0627\u0646\u0647",
+        "Chah\u0101r Kh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472187
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0ae3b4d8ad6e3a49edfa8b1a76a59135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562069,
+            "locality_id":1276959761,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276959761,
+    "wof:lastmodified":1537583675,
+    "wof:name":"Chahar Khanah",
+    "wof:parent_id":1108562069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.02379000000001,
+    34.31277,
+    62.02379000000001,
+    34.31277
+],
+  "geometry": {"coordinates":[62.02379000000001,34.31277],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293804961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.29556,37.00194,66.29556,37.00194",
+    "geom:latitude":37.00194,
+    "geom:longitude":66.29556,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mordian",
+    "gn:country_code":"AF",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425691,
+    "gn:latitude":37.00194,
+    "gn:longitude":66.29556,
+    "gn:modification_date":"2002-06-03",
+    "gn:name":"Mord\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95194fcea3c6c9b5212a12893a1e5cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562249,
+            "locality_id":1293804961,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293804961,
+    "wof:lastmodified":1536825605,
+    "wof:name":"Mordian",
+    "wof:parent_id":1108562249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.29556,
+    37.00194000000001,
+    66.29556,
+    37.00194000000001
+],
+  "geometry": {"coordinates":[66.29555999999999,37.00194000000001],"type":"Point"}
+}

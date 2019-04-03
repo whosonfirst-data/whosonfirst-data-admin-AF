@@ -1,0 +1,80 @@
+{
+  "id": 1327401137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.57506,36.67726,69.57506,36.67726",
+    "geom:latitude":36.67726,
+    "geom:longitude":69.57506,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Dibash",
+    "gn:country_code":"AF",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143100,
+    "gn:latitude":36.67726,
+    "gn:longitude":69.57506,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dib\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0628\u0627\u0634"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0431\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Dib\u0101\u0161",
+        "D\u012bb\u0101sh",
+        "Dib\u0101sh",
+        "\u062f\u0628\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143100
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d1dd292e32f9ef92c326e74bbf9ffff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1327401137,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1327401137,
+    "wof:lastmodified":1537581893,
+    "wof:name":"Dibash",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.57506,
+    36.67726,
+    69.57506,
+    36.67726
+],
+  "geometry": {"coordinates":[69.57505999999999,36.67726],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209829371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.45578,36.71573,70.45578,36.71573",
+    "geom:latitude":36.71573,
+    "geom:longitude":70.45578,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124.0",
+    "gn:asciiname":"Ilmich",
+    "gn:country_code":"AF",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467794,
+    "gn:latitude":36.71573,
+    "gn:longitude":70.45578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ilm\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elm\u012b\u010d",
+        "Elm\u012bch",
+        "Ilm\u012bch",
+        "\u0627\u0644\u0645\u06cc\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467794
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bee6f570a0e4c094d4c8e842f8c71414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1209829371,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209829371,
+    "wof:lastmodified":1537583512,
+    "wof:name":"Ilmich",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.45578,
+    36.71573,
+    70.45578,
+    36.71573
+],
+  "geometry": {"coordinates":[70.45578,36.71573],"type":"Point"}
+}

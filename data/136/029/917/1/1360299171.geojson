@@ -1,0 +1,76 @@
+{
+  "id": 1360299171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94984,36.94699,72.94984,36.94699",
+    "geom:latitude":36.94699,
+    "geom:longitude":72.94984,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106",
+    "gn:asciiname":"Kizgit",
+    "gn:country_code":"AF",
+    "gn:dem":3071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136773,
+    "gn:latitude":36.94699,
+    "gn:longitude":72.94984,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kizgit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kezget",
+        "Khazgit",
+        "Khazget",
+        "Kizgit",
+        "\u06a9\u0632\u06af\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136773,
+        "wk:page":"Khazget"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"643964f7bf3e720ab69f455ca63f3817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1360299171,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360299171,
+    "wof:lastmodified":1537581369,
+    "wof:name":"Kizgit",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94984000000002,
+    36.94699,
+    72.94984000000002,
+    36.94699
+],
+  "geometry": {"coordinates":[72.94984000000002,36.94699],"type":"Point"}
+}

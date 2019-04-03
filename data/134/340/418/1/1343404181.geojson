@@ -1,0 +1,80 @@
+{
+  "id": 1343404181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77189,33.25372,69.77189,33.25372",
+    "geom:latitude":33.25372,
+    "geom:longitude":69.77189,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203.0",
+    "gn:asciiname":"Migi Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434458,
+    "gn:latitude":33.25372,
+    "gn:longitude":69.77189,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mig\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u06af\u06cc \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0644\u0639\u06c0 \u0645\u0648\u0631\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "Migikala",
+        "M\u012bg\u012b Kal\u0101",
+        "Mig\u012b Kal\u0101",
+        "\u0645\u06af\u06cc \u0643\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434458
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d77d71b2e955c07ddb4222ca299c18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1343404181,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1343404181,
+    "wof:lastmodified":1537582719,
+    "wof:name":"Migi Kala",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77189,
+    33.25372,
+    69.77189,
+    33.25372
+],
+  "geometry": {"coordinates":[69.77189,33.25372],"type":"Point"}
+}

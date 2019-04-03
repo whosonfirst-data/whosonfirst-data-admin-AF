@@ -1,0 +1,68 @@
+{
+  "id": 1209529419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80807,38.25842,70.80807,38.25842",
+    "geom:latitude":38.25842,
+    "geom:longitude":70.80807,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110",
+    "gn:asciiname":"Durman",
+    "gn:country_code":"AF",
+    "gn:dem":2320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142656,
+    "gn:latitude":38.25842,
+    "gn:longitude":70.80807,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016brman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0648\u0631\u0645\u0646",
+        "D\u016brm\u0101n",
+        "D\u016brman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142656,
+        "wk:page":"Durman%2C_Afghanistan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf36db29898fb938a1bbfeb430fe66a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209529419
+        }
+    ],
+    "wof:id":1209529419,
+    "wof:lastmodified":1537581849,
+    "wof:name":"Durman",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80807,
+    38.25842,
+    70.80807,
+    38.25842
+],
+  "geometry": {"coordinates":[70.80807,38.25842],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360034499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35446,35.80398,67.35446,35.80398",
+    "geom:latitude":35.80398,
+    "geom:longitude":67.35446,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Gurg Kushtah",
+    "gn:country_code":"AF",
+    "gn:dem":1965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140666,
+    "gn:latitude":35.80398,
+    "gn:longitude":67.35446,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gurg Kushtah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u1e5fgkus\u0304ta",
+        "Gorgkeshteh",
+        "Gorgkoshteh",
+        "Gurg Kushtah",
+        "\u06af\u0631\u06af \u06a9\u0634\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140666
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08a98fd8f13e35448e8ad8de4d7b96a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1360034499,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1360034499,
+    "wof:lastmodified":1537581684,
+    "wof:name":"Gurg Kushtah",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35446,
+    35.80398,
+    67.35446,
+    35.80398
+],
+  "geometry": {"coordinates":[67.35446,35.80398],"type":"Point"}
+}

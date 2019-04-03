@@ -1,0 +1,74 @@
+{
+  "id": 1209072413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35232,34.46603,70.35232,34.46603",
+    "geom:latitude":34.46603,
+    "geom:longitude":70.35232,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802",
+    "gn:asciiname":"Nazrabad",
+    "gn:country_code":"AF",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131957,
+    "gn:latitude":34.46603,
+    "gn:longitude":70.35232,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naz\u0327r\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0638\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Na\u1e95\u1e5f\u0101b\u0101\u1e0f",
+        "Naz\u0327ar\u0101b\u0101d",
+        "\u0646\u0638\u0631\u0622\u0628\u0627\u062f",
+        "Naz\u0327r\u0101b\u0101d",
+        "\u0646\u0638\u0631 \u0622\u0628\u0627\u062f",
+        "Naz\u0304r\u0101b\u0101d",
+        "\u0646\u0630\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131957
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad9622e6a547592b242f5373ac07fb0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209072413
+        }
+    ],
+    "wof:id":1209072413,
+    "wof:lastmodified":1537580966,
+    "wof:name":"Nazrabad",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35231999999999,
+    34.46603,
+    70.35231999999999,
+    34.46603
+],
+  "geometry": {"coordinates":[70.35231999999999,34.46603],"type":"Point"}
+}

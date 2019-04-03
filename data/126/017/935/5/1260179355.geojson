@@ -1,0 +1,73 @@
+{
+  "id": 1260179355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.079,33.10248,64.079,33.10248",
+    "geom:latitude":33.10248,
+    "geom:longitude":64.079,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Bar Zari",
+    "gn:country_code":"AF",
+    "gn:dem":2101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146830,
+    "gn:latitude":33.10248,
+    "gn:longitude":64.079,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Zar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar-Zari",
+        "Bar Zar\u012b",
+        "\u0628\u0631 \u0632\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146830
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b34b29cf7120105726a3f8fdc2a529a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1260179355,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1260179355,
+    "wof:lastmodified":1537582216,
+    "wof:name":"Bar Zari",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.079,
+    33.10248,
+    64.079,
+    33.10248
+],
+  "geometry": {"coordinates":[64.07899999999999,33.10248],"type":"Point"}
+}

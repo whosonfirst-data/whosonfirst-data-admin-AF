@@ -1,0 +1,75 @@
+{
+  "id": 1276143401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59193,35.67233,64.59193,35.67233",
+    "geom:latitude":35.67233,
+    "geom:longitude":64.59193,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Mesh Mast",
+    "gn:country_code":"AF",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133162,
+    "gn:latitude":35.67233,
+    "gn:longitude":64.59193,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0113sh Mast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0113\u0161 Mast (1)",
+        "M\u0113s\u0304 Mast",
+        "M\u012bsh Mast",
+        "M\u0113sh Mast",
+        "\u0645\u06d0\u0634 \u0645\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133162
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ce7770cc6ef9e30385826151995b5aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1276143401,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1276143401,
+    "wof:lastmodified":1537581073,
+    "wof:name":"Mesh Mast",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59193,
+    35.67233,
+    64.59193,
+    35.67233
+],
+  "geometry": {"coordinates":[64.59193,35.67233],"type":"Point"}
+}

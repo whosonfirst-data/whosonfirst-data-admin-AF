@@ -1,0 +1,75 @@
+{
+  "id": 1209870293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.18827,35.13383,66.18827,35.13383",
+    "geom:latitude":35.13383,
+    "geom:longitude":66.18827,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Takhagird",
+    "gn:country_code":"AF",
+    "gn:dem":2368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123223,
+    "gn:latitude":35.13383,
+    "gn:longitude":66.18827,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takhagird",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar-i-Kaghan",
+        "Takhagird",
+        "Takhagerd",
+        "Takheh Gerd",
+        "\u062a\u062e\u06af\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123223
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f28ac73a06b8b7aa801bfa275514254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1209870293,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1209870293,
+    "wof:lastmodified":1537580211,
+    "wof:name":"Takhagird",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.18826999999999,
+    35.13383,
+    66.18826999999999,
+    35.13383
+],
+  "geometry": {"coordinates":[66.18826999999999,35.13383],"type":"Point"}
+}

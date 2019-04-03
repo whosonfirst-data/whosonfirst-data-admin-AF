@@ -1,0 +1,72 @@
+{
+  "id": 1226400623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65375,31.60917,65.65375,31.60917",
+    "geom:latitude":31.60917,
+    "geom:longitude":65.65375,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Mirbazar",
+    "gn:country_code":"AF",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407232,
+    "gn:latitude":31.60917,
+    "gn:longitude":65.65375,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012brb\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012brb\u0101z\u0101r",
+        "\u0645\u06cc\u0631 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407232
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"54933f94c19a91b9fd2242c7acd30d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1226400623,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226400623,
+    "wof:lastmodified":1537582511,
+    "wof:name":"Mirbazar",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65375,
+    31.60917,
+    65.65375,
+    31.60917
+],
+  "geometry": {"coordinates":[65.65375,31.60917],"type":"Point"}
+}

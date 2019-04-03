@@ -1,0 +1,74 @@
+{
+  "id": 1260029055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47637,35.97527,67.47637,35.97527",
+    "geom:latitude":35.97527,
+    "geom:longitude":67.47637,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Sang Katah",
+    "gn:country_code":"AF",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427367,
+    "gn:latitude":35.97527,
+    "gn:longitude":67.47637,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang Katah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangkata",
+        "Sang Kateh",
+        "Sang Katah",
+        "\u0633\u0646\u06af \u06a9\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427367
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"71e90e57b3640c0c02161e0d95fbd6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1260029055,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1260029055,
+    "wof:lastmodified":1537582641,
+    "wof:name":"Sang Katah",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47636999999999,
+    35.97527,
+    67.47636999999999,
+    35.97527
+],
+  "geometry": {"coordinates":[67.47636999999999,35.97527],"type":"Point"}
+}

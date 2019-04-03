@@ -1,0 +1,81 @@
+{
+  "id": 1343313499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92261,35.42064,70.92261,35.42064",
+    "geom:latitude":35.42064,
+    "geom:longitude":70.92261,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3001",
+    "gn:asciiname":"Parun",
+    "gn:country_code":"AF",
+    "gn:dem":2756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1130469,
+    "gn:latitude":35.42064,
+    "gn:longitude":70.92261,
+    "gn:modification_date":"2018-02-13",
+    "gn:name":"P\u0101r\u016bn",
+    "gn:population":1000,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puruns",
+        "\u067e\u0631\u0646\u0633",
+        "Poruns",
+        "P\u0101r\u016bn",
+        "\u067e\u0627\u0631\u0648\u0646",
+        "Prasungul",
+        "Pras\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130469,
+        "wk:page":"Parun"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9430002e29b51eb4f1ad358d32ffdfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562349,
+            "locality_id":1343313499,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1343313499,
+    "wof:lastmodified":1537580840,
+    "wof:name":"Parun",
+    "wof:parent_id":1108562349,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92260999999998,
+    35.42064,
+    70.92260999999998,
+    35.42064
+],
+  "geometry": {"coordinates":[70.92260999999998,35.42064],"type":"Point"}
+}

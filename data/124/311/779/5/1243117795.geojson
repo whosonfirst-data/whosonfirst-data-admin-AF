@@ -1,0 +1,73 @@
+{
+  "id": 1243117795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77471,35.83973,67.77471,35.83973",
+    "geom:latitude":35.83973,
+    "geom:longitude":67.77471,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Awqol",
+    "gn:country_code":"AF",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147973,
+    "gn:latitude":35.83973,
+    "gn:longitude":67.77471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awq\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awq\u014dl",
+        "Awqowl",
+        "\u0627\u0648\u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147973
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39fac9204b463afa14ce71138f076773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1243117795,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1243117795,
+    "wof:lastmodified":1537582308,
+    "wof:name":"Awqol",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77471,
+    35.83973,
+    67.77471,
+    35.83973
+],
+  "geometry": {"coordinates":[67.77471,35.83973],"type":"Point"}
+}

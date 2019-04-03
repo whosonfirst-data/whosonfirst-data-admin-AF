@@ -1,0 +1,72 @@
+{
+  "id": 1243359235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.93719,33.53219,63.93719,33.53219",
+    "geom:latitude":33.53219,
+    "geom:longitude":63.93719,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Dahan-e Zaghan",
+    "gn:country_code":"AF",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1144334,
+    "gn:latitude":33.53219,
+    "gn:longitude":63.93719,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Dah\u0101n-e Z\u0101gh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dah\u0101n-e Z\u0101gh\u0101n",
+        "\u062f\u0647\u0627\u0646 \u0632\u0627\u063a\u0627\u0646",
+        "\u1e0eahane Z\u0101gh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144334
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c27b58197cfbd1fd7ab8c96e1267168a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1243359235,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243359235,
+    "wof:lastmodified":1537581989,
+    "wof:name":"Dahan-e Zaghan",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.93719,
+    33.53219,
+    63.93719,
+    33.53219
+],
+  "geometry": {"coordinates":[63.93719,33.53219],"type":"Point"}
+}

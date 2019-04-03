@@ -1,0 +1,66 @@
+{
+  "id": 1209319169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.80956,34.20113,66.80956,34.20113",
+    "geom:latitude":34.20113,
+    "geom:longitude":66.80956,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Sarabi",
+    "gn:country_code":"AF",
+    "gn:dem":2722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127434,
+    "gn:latitude":34.20113,
+    "gn:longitude":66.80956,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u0101b\u012b",
+        "\u0633\u0631\u0627\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127434
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7b04fba71444a94c1c84698dd9662095",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209319169
+        }
+    ],
+    "wof:id":1209319169,
+    "wof:lastmodified":1537580556,
+    "wof:name":"Sarabi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.80956,
+    34.20113,
+    66.80956,
+    34.20113
+],
+  "geometry": {"coordinates":[66.80956,34.20113],"type":"Point"}
+}

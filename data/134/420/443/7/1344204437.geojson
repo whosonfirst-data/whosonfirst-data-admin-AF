@@ -1,0 +1,74 @@
+{
+  "id": 1344204437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43141,32.74323,68.43141,32.74323",
+    "geom:latitude":32.74323,
+    "geom:longitude":68.43141,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916.0",
+    "gn:asciiname":"Chamri",
+    "gn:country_code":"AF",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145504,
+    "gn:latitude":32.74323,
+    "gn:longitude":68.43141,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Cham\u1e5f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101mri",
+        "\u0686\u0645\u0693\u06cc",
+        "Ch\u0101mr\u012b",
+        "Cham\u1e5f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145504
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d4aa6254b7bececf86917bea99cf1c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1344204437,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1344204437,
+    "wof:lastmodified":1537582109,
+    "wof:name":"Chamri",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43141,
+    32.74323,
+    68.43141,
+    32.74323
+],
+  "geometry": {"coordinates":[68.43141,32.74323],"type":"Point"}
+}

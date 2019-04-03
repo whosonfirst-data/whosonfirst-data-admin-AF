@@ -1,0 +1,72 @@
+{
+  "id": 1293636667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.3741,32.65337,67.3741,32.65337",
+    "geom:latitude":32.65337,
+    "geom:longitude":67.3741,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502.0",
+    "gn:asciiname":"Amak",
+    "gn:country_code":"AF",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148807,
+    "gn:latitude":32.65337,
+    "gn:longitude":67.3741,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100mak",
+        "\u0622\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148807
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cc8b092bf37bcdd77cd29e23c9df376a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1293636667,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293636667,
+    "wof:lastmodified":1537582366,
+    "wof:name":"Amak",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.3741,
+    32.65337,
+    67.3741,
+    32.65337
+],
+  "geometry": {"coordinates":[67.3741,32.65337],"type":"Point"}
+}

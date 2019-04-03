@@ -1,0 +1,76 @@
+{
+  "id": 1243056813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88416,31.94727,64.88416,31.94727",
+    "geom:latitude":31.94727,
+    "geom:longitude":64.88416,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Afghani",
+    "gn:country_code":"AF",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148011,
+    "gn:latitude":31.94727,
+    "gn:longitude":64.88416,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Afgh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avgani",
+        "\u0100wgh\u0101n\u012b",
+        "\u0622\u0648\u063a\u0627\u0646\u06cc",
+        "\u0100wgh\u0101ni",
+        "Afgh\u0101n\u012b",
+        "\u0627\u0641\u063a\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148011
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f8a7351c71861e3abb6dc736c52f7d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1243056813,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243056813,
+    "wof:lastmodified":1537582311,
+    "wof:name":"Afghani",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88416,
+    31.94727,
+    64.88416,
+    31.94727
+],
+  "geometry": {"coordinates":[64.88415999999999,31.94727],"type":"Point"}
+}

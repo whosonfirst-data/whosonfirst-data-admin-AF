@@ -1,0 +1,75 @@
+{
+  "id": 1293465959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19128,34.15429,69.19128,34.15429",
+    "geom:latitude":34.15429,
+    "geom:longitude":69.19128,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505",
+    "gn:asciiname":"Ghowchi",
+    "gn:country_code":"AF",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141116,
+    "gn:latitude":34.15429,
+    "gn:longitude":69.19128,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghowch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gauchi",
+        "Ghwachi",
+        "Ghaw\u010di",
+        "Ghowch\u012b",
+        "\u063a\u0648\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"43f4f6473dc9a0cc9957956e97efbc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1293465959,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293465959,
+    "wof:lastmodified":1537581724,
+    "wof:name":"Ghowchi",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19128,
+    34.15429,
+    69.19128,
+    34.15429
+],
+  "geometry": {"coordinates":[69.19128000000001,34.15429],"type":"Point"}
+}

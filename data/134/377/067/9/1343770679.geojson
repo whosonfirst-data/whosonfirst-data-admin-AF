@@ -1,0 +1,76 @@
+{
+  "id": 1343770679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.63615,35.57949,63.63615,35.57949",
+    "geom:latitude":35.57949,
+    "geom:longitude":63.63615,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Bala Bokan",
+    "gn:country_code":"AF",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147371,
+    "gn:latitude":35.57949,
+    "gn:longitude":63.63615,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101l\u0101 B\u014dkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e29alleh",
+        "B\u0101l\u0101 B\u014dkan",
+        "Malla",
+        "\u0628\u0627\u0644\u0627 \u0628\u0648\u06a9\u0646",
+        "B\u0101l\u0101 Bowk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147371,
+        "wk:page":"Bala_Bowkan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f8a022f045b68d5a57762e317c678be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1343770679,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1343770679,
+    "wof:lastmodified":1537582261,
+    "wof:name":"Bala Bokan",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.63615,
+    35.57949,
+    63.63615,
+    35.57949
+],
+  "geometry": {"coordinates":[63.63615,35.57949],"type":"Point"}
+}

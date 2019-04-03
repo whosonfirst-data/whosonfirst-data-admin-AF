@@ -1,0 +1,76 @@
+{
+  "id": 1243080281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.85566,34.6913,63.85566,34.6913",
+    "geom:latitude":34.6913,
+    "geom:longitude":63.85566,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Nay-e Mulla Gaday",
+    "gn:country_code":"AF",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132009,
+    "gn:latitude":34.6913,
+    "gn:longitude":63.85566,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101y-e Mull\u0101 Gad\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101y-e Moll\u0101 Gad\u0101y",
+        "Nayi-Mulla-Gaday",
+        "N\u0101ye Mull\u0101 Ga\u1e0f\u0101y",
+        "N\u0101y-e Mull\u0101 Gad\u0101y",
+        "\u0646\u0627\u06cc \u0645\u0644\u0627 \u06af\u062f\u0627\u06cc",
+        "N\u0101y-e Moll\u0101 Ged\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132009
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"84a03be0acf9518aa677617f0a44bfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562371,
+            "locality_id":1243080281,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243080281,
+    "wof:lastmodified":1537580971,
+    "wof:name":"Nay-e Mulla Gaday",
+    "wof:parent_id":1108562371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.85566,
+    34.6913,
+    63.85566,
+    34.6913
+],
+  "geometry": {"coordinates":[63.85566,34.6913],"type":"Point"}
+}

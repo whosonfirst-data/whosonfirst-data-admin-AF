@@ -1,0 +1,73 @@
+{
+  "id": 1293014541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47469,37.55827,70.47469,37.55827",
+    "geom:latitude":37.55827,
+    "geom:longitude":70.47469,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1128.0",
+    "gn:asciiname":"Siri",
+    "gn:country_code":"AF",
+    "gn:dem":2127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467491,
+    "gn:latitude":37.55827,
+    "gn:longitude":70.47469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sir\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sir\u012b",
+        "\u0633\u0631\u06cc",
+        "Se\u1e5f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0963796c3154c86efd6cb6043ca72b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562595,
+            "locality_id":1293014541,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293014541,
+    "wof:lastmodified":1537583481,
+    "wof:name":"Siri",
+    "wof:parent_id":1108562595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47469,
+    37.55827,
+    70.47469,
+    37.55827
+],
+  "geometry": {"coordinates":[70.47469,37.55827],"type":"Point"}
+}

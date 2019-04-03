@@ -1,0 +1,74 @@
+{
+  "id": 1310590081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.22405,32.15438,64.22405,32.15438",
+    "geom:latitude":32.15438,
+    "geom:longitude":64.22405,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Nakhum Birah",
+    "gn:country_code":"AF",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132444,
+    "gn:latitude":32.15438,
+    "gn:longitude":64.22405,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101khum B\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101khum B\u012b\u1e5fa",
+        "Nakhumbira",
+        "N\u0101khum B\u012brah",
+        "\u0646\u0627\u062e\u0645 \u0628\u06cc\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132444
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"259b4a57afc2f573b592b6ac42010e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1310590081,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1310590081,
+    "wof:lastmodified":1537581007,
+    "wof:name":"Nakhum Birah",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.22405,
+    32.15438,
+    64.22405,
+    32.15438
+],
+  "geometry": {"coordinates":[64.22405000000001,32.15438],"type":"Point"}
+}

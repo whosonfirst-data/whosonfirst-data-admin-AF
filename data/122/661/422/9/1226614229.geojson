@@ -1,0 +1,81 @@
+{
+  "id": 1226614229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13598,31.54183,67.13598,31.54183",
+    "geom:latitude":31.54183,
+    "geom:longitude":67.13598,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Shah Tangay",
+    "gn:country_code":"AF",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436078,
+    "gn:latitude":31.54183,
+    "gn:longitude":67.13598,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Tangay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u062a\u0644\u0654 \u0634\u0627\u0647"
+    ],
+    "name:pus_x_preferred":[
+        "\u0634\u0627\u0647 \u062a\u0646\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Shakhtangay",
+        "\u0160\u0101h Tangay",
+        "Sh\u0101h Tanga\u012b",
+        "\u0634\u0627\u0647 \u062a\u0646\u06af\u06cc",
+        "Sh\u0101h Tangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436078
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5547d27aace10b75fab930a258c7c69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1226614229,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226614229,
+    "wof:lastmodified":1537582798,
+    "wof:name":"Shah Tangay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13598,
+    31.54183,
+    67.13598,
+    31.54183
+],
+  "geometry": {"coordinates":[67.13598,31.54183],"type":"Point"}
+}

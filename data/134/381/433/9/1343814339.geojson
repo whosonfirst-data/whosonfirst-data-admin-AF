@@ -1,0 +1,75 @@
+{
+  "id": 1343814339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32806,31.35667,67.32806,31.35667",
+    "geom:latitude":31.35667,
+    "geom:longitude":67.32806,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Iskhir",
+    "gn:country_code":"AF",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480437,
+    "gn:latitude":31.35667,
+    "gn:longitude":67.32806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Iskhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iskhar",
+        "Iskh\u00ear",
+        "Eskher",
+        "Iskhir",
+        "\u0627\u0634\u06a9\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480437
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be9d56434619ee405548d095b3cf798a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1343814339,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343814339,
+    "wof:lastmodified":1537583889,
+    "wof:name":"Iskhir",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32806,
+    31.35667,
+    67.32806,
+    31.35667
+],
+  "geometry": {"coordinates":[67.32805999999999,31.35667],"type":"Point"}
+}

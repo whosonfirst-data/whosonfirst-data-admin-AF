@@ -1,0 +1,76 @@
+{
+  "id": 1309974613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.06713,31.6833,65.06713,31.6833",
+    "geom:latitude":31.6833,
+    "geom:longitude":65.06713,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2407",
+    "gn:asciiname":"Gulojan",
+    "gn:country_code":"AF",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140770,
+    "gn:latitude":31.6833,
+    "gn:longitude":65.06713,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul\u014dj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galodzhan",
+        "Gol\u014dj\u0101h",
+        "Gol\u014dj\u0101n",
+        "Gul\u014dj\u0101n",
+        "\u06af\u0644\u0648\u062c\u0627\u0646",
+        "Golowj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140770
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e201fa630152b9cb3099ba3a19e34b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562263,
+            "locality_id":1309974613,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309974613,
+    "wof:lastmodified":1537581692,
+    "wof:name":"Gulojan",
+    "wof:parent_id":1108562263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.06713,
+    31.6833,
+    65.06713,
+    31.6833
+],
+  "geometry": {"coordinates":[65.06713000000001,31.6833],"type":"Point"}
+}

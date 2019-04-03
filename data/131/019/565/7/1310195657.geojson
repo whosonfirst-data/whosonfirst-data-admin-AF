@@ -1,0 +1,80 @@
+{
+  "id": 1310195657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.29228,33.08007,68.29228,33.08007",
+    "geom:latitude":33.08007,
+    "geom:longitude":68.29228,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"612",
+    "gn:asciiname":"Shorab",
+    "gn:country_code":"AF",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124845,
+    "gn:latitude":33.08007,
+    "gn:longitude":68.29228,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631 \u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sharab",
+        "\u0160or\u0101b",
+        "Sh\u014dr \u0100b",
+        "Sh\u016br \u0100b",
+        "Sh\u014dr\u0101b",
+        "\u0634\u0648\u0631\u0627\u0628",
+        "\u0634\u0648\u0631 \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124845
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e19d5a5370dba8adbb97ab334d9bcd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562037,
+            "locality_id":1310195657,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310195657,
+    "wof:lastmodified":1537580332,
+    "wof:name":"Shorab",
+    "wof:parent_id":1108562037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.29228,
+    33.08007,
+    68.29228,
+    33.08007
+],
+  "geometry": {"coordinates":[68.29228000000001,33.08007],"type":"Point"}
+}

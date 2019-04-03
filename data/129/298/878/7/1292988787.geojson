@@ -1,0 +1,72 @@
+{
+  "id": 1292988787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.30367,33.5664,62.30367,33.5664",
+    "geom:latitude":33.5664,
+    "geom:longitude":62.30367,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011.0",
+    "gn:asciiname":"Binoshak",
+    "gn:country_code":"AF",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304826,
+    "gn:latitude":33.5664,
+    "gn:longitude":62.30367,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bin\u014dshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bin\u014dshak",
+        "\u0628\u0646\u0648\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304826
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2a06087132df05506429dd90434d49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1292988787,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1292988787,
+    "wof:lastmodified":1537583941,
+    "wof:name":"Binoshak",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.30367,
+    33.5664,
+    62.30367,
+    33.5664
+],
+  "geometry": {"coordinates":[62.30367,33.5664],"type":"Point"}
+}

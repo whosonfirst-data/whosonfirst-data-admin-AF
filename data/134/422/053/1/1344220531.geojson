@@ -1,0 +1,75 @@
+{
+  "id": 1344220531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94726,33.94603,68.94726,33.94603",
+    "geom:latitude":33.94603,
+    "geom:longitude":68.94726,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Kashmiri Bala",
+    "gn:country_code":"AF",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438669,
+    "gn:latitude":33.94603,
+    "gn:longitude":68.94726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kashm\u012br\u012b B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u0161mir\u012b B\u0101l\u0101",
+        "Kashmiri-Bala",
+        "Kashmir\u012b B\u0101l\u0101",
+        "Kashm\u012br\u012b B\u0101l\u0101",
+        "\u06a9\u0634\u0645\u064a\u0631\u06cc \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438669
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"93f98f6d6060215372cc2156223e6130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561859,
+            "locality_id":1344220531,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1344220531,
+    "wof:lastmodified":1537582894,
+    "wof:name":"Kashmiri Bala",
+    "wof:parent_id":1108561859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94726,
+    33.94603,
+    68.94726,
+    33.94603
+],
+  "geometry": {"coordinates":[68.94726,33.94603],"type":"Point"}
+}

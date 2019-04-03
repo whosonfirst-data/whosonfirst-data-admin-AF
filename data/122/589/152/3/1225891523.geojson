@@ -1,0 +1,75 @@
+{
+  "id": 1225891523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91205,31.82536,68.91205,31.82536",
+    "geom:latitude":31.82536,
+    "geom:longitude":68.91205,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Shinkay Kor",
+    "gn:country_code":"AF",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125113,
+    "gn:latitude":31.82536,
+    "gn:longitude":68.91205,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shinkay K\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160inkay Kor",
+        "Shinkaykor",
+        "Sh\u012bnkay K\u016br",
+        "Shinkay K\u014dr",
+        "\u0634\u0646\u06a9\u06cc \u06a9\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125113
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"488e5dd5fc93d9c9828c1054a2c55e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1225891523,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1225891523,
+    "wof:lastmodified":1537580358,
+    "wof:name":"Shinkay Kor",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91205,
+    31.82536,
+    68.91205,
+    31.82536
+],
+  "geometry": {"coordinates":[68.91204999999999,31.82536],"type":"Point"}
+}

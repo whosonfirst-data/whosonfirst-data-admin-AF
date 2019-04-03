@@ -1,0 +1,75 @@
+{
+  "id": 1360140971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.06701,32.46779,66.06701,32.46779",
+    "geom:latitude":32.46779,
+    "geom:longitude":66.06701,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403.0",
+    "gn:asciiname":"Musa Khan Khune",
+    "gn:country_code":"AF",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427814,
+    "gn:latitude":32.46779,
+    "gn:longitude":66.06701,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bs\u00e1 Kh\u0101n Kh\u016bn\u0113",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u016bs\u0101kh\u0101n Kh\u016bn\u0113",
+        "Musakhankhune",
+        "M\u016bs\u00e1 Kh\u0101n Kh\u016bn\u0113",
+        "\u0645\u0648\u0633\u0649 \u062e\u0627\u0646 \u062e\u0648\u0646\u06d0",
+        "M\u016bs\u00e1 Kh\u0101n Kh\u016bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427814
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff6570ddfb956fddd21b4ff76810a134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1360140971,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360140971,
+    "wof:lastmodified":1537582642,
+    "wof:name":"Musa Khan Khune",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.06701,
+    32.46779,
+    66.06701,
+    32.46779
+],
+  "geometry": {"coordinates":[66.06701,32.46779],"type":"Point"}
+}

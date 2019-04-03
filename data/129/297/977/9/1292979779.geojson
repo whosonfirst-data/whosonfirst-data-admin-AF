@@ -1,0 +1,74 @@
+{
+  "id": 1292979779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.23493,33.22904,65.23493,33.22904",
+    "geom:latitude":33.22904,
+    "geom:longitude":65.23493,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Natay",
+    "gn:country_code":"AF",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132230,
+    "gn:latitude":33.22904,
+    "gn:longitude":65.23493,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Natay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0442\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132230
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c02a0d6bf82db07aaf3d9fb87d3d4fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1292979779,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1292979779,
+    "wof:lastmodified":1537580994,
+    "wof:name":"Natay",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.23493,
+    33.22904,
+    65.23493,
+    33.22904
+],
+  "geometry": {"coordinates":[65.23493000000001,33.22904],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209759961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3076,33.61669,69.3076,33.61669",
+    "geom:latitude":33.61669,
+    "geom:longitude":69.3076,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Duabah",
+    "gn:country_code":"AF",
+    "gn:dem":2389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7107539,
+    "gn:latitude":33.61669,
+    "gn:longitude":69.3076,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u016b\u0101bah",
+        "D\u014d\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107539
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"15cc16d4046cc888cbaff937cf80a31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1209759961,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1209759961,
+    "wof:lastmodified":1537583917,
+    "wof:name":"Duabah",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3076,
+    33.61669000000001,
+    69.3076,
+    33.61669000000001
+],
+  "geometry": {"coordinates":[69.30759999999999,33.61669000000001],"type":"Point"}
+}

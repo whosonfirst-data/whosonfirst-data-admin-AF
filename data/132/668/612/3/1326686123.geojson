@@ -1,0 +1,74 @@
+{
+  "id": 1326686123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88396,31.67184,66.88396,31.67184",
+    "geom:latitude":31.67184,
+    "geom:longitude":66.88396,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Nazarzai Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1476914,
+    "gn:latitude":31.67184,
+    "gn:longitude":66.88396,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naz\u0327arza\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nazarzaykalay",
+        "Naz\u0327arza\u012b K\u00ealay",
+        "\u0646\u0638\u0631\u0632\u06cc \u06a9\u0644\u06cc",
+        "Naz\u0327arzay Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476914
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4dce80698823941c1b75ae7126567bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1326686123,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326686123,
+    "wof:lastmodified":1537583858,
+    "wof:name":"Nazarzai Kelay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88396,
+    31.67184,
+    66.88396,
+    31.67184
+],
+  "geometry": {"coordinates":[66.88396,31.67184],"type":"Point"}
+}

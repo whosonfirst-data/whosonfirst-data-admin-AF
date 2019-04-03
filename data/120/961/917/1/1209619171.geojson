@@ -1,0 +1,65 @@
+{
+  "id": 1209619171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67982,38.34058,70.67982,38.34058",
+    "geom:latitude":38.34058,
+    "geom:longitude":70.67982,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Fark",
+    "gn:country_code":"AF",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1465954,
+    "gn:latitude":38.34058,
+    "gn:longitude":70.67982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0641\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465954
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d9c7b1c02e5bd1d5a1289b45b9ca33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209619171
+        }
+    ],
+    "wof:id":1209619171,
+    "wof:lastmodified":1537583410,
+    "wof:name":"Fark",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67981999999998,
+    38.34058,
+    70.67981999999998,
+    38.34058
+],
+  "geometry": {"coordinates":[70.67981999999998,38.34058],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259868549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.7699,32.23298,64.7699,32.23298",
+    "geom:latitude":32.23298,
+    "geom:longitude":64.7699,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Padlik",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473056,
+    "gn:latitude":32.23298,
+    "gn:longitude":64.7699,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Padlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u067e\u062f\u0644\u06a9",
+        "Pa\u1e0flek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473056
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"64a1dc91ea606929def4701cfe2a1824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1259868549,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1259868549,
+    "wof:lastmodified":1537583732,
+    "wof:name":"Padlik",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.7699,
+    32.23298,
+    64.7699,
+    32.23298
+],
+  "geometry": {"coordinates":[64.76990000000001,32.23298],"type":"Point"}
+}

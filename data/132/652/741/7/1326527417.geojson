@@ -1,0 +1,79 @@
+{
+  "id": 1326527417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.92531,32.16442,61.92531,32.16442",
+    "geom:latitude":32.16442,
+    "geom:longitude":61.92531,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Khzhyi",
+    "gn:country_code":"AF",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135901,
+    "gn:latitude":32.16442,
+    "gn:longitude":61.92531,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khzhyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kh\u014dz\u0332h\u0332y\u0101n\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0648\u0696\u06cc\u0627\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kho\u017ey\u0101ni",
+        "Kh\u016bz\u0332h\u0332y\u0101n\u012b",
+        "\u062e\u0648\u0696\u06cc\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135901
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c1f6a1cb67c554767613b6084ed7d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562485,
+            "locality_id":1326527417,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1326527417,
+    "wof:lastmodified":1537581297,
+    "wof:name":"Khzhyi",
+    "wof:parent_id":1108562485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.92531,
+    32.16442,
+    61.92531,
+    32.16442
+],
+  "geometry": {"coordinates":[61.92531,32.16442],"type":"Point"}
+}

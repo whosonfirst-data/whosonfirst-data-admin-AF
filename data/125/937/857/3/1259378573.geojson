@@ -1,0 +1,76 @@
+{
+  "id": 1259378573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.9929,33.3863,67.9929,33.3863",
+    "geom:latitude":33.3863,
+    "geom:longitude":67.9929,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Jamji",
+    "gn:country_code":"AF",
+    "gn:dem":2781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139627,
+    "gn:latitude":33.3863,
+    "gn:longitude":67.9929,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jamj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dzhamdzhi",
+        "Jamj\u012b",
+        "\u062c\u0645\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139627
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5598a1ee3230336727a49aee654f6a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1259378573,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259378573,
+    "wof:lastmodified":1537581593,
+    "wof:name":"Jamji",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.9929,
+    33.3863,
+    67.9929,
+    33.3863
+],
+  "geometry": {"coordinates":[67.99290000000001,33.3863],"type":"Point"}
+}

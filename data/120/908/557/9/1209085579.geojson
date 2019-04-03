@@ -1,0 +1,70 @@
+{
+  "id": 1209085579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11683,34.44675,69.11683,34.44675",
+    "geom:latitude":34.44675,
+    "geom:longitude":69.11683,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"101",
+    "gn:asciiname":"Qal'ah-ye Muslim",
+    "gn:country_code":"AF",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129884,
+    "gn:latitude":34.44675,
+    "gn:longitude":69.11683,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Muslim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-Muslem",
+        "Kalamuslim",
+        "Qal\u2018eh Muslem",
+        "Qal\u2018ah-ye Muslim",
+        "Qal\u2018eh-ye Moslem",
+        "\u0642\u0644\u0639\u0647 \u0645\u0633\u0644\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129884
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b348141257b70f06e0285e138eea2284",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209085579
+        }
+    ],
+    "wof:id":1209085579,
+    "wof:lastmodified":1537580778,
+    "wof:name":"Qal'ah-ye Muslim",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11683000000001,
+    34.44675,
+    69.11683000000001,
+    34.44675
+],
+  "geometry": {"coordinates":[69.11683000000001,34.44675],"type":"Point"}
+}

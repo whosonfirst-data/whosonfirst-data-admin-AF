@@ -1,0 +1,77 @@
+{
+  "id": 1209149167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.88618,33.88863,69.88618,33.88863",
+    "geom:latitude":33.88863,
+    "geom:longitude":69.88618,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"707",
+    "gn:asciiname":"Ghundey",
+    "gn:country_code":"AF",
+    "gn:dem":2050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141012,
+    "gn:latitude":33.88863,
+    "gn:longitude":69.88618,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghun\u1e0f\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar Istia",
+        "Gunday",
+        "Ghunday",
+        "Ghundai",
+        "Gh\u016bn\u1e0fey",
+        "Ghun\u1e0f\u00eay",
+        "\u063a\u0646\u0689\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141012
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"562ca66b8c06a21d637539b353e7a069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561927,
+            "locality_id":1209149167,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1209149167,
+    "wof:lastmodified":1543515485,
+    "wof:name":"Ghundey",
+    "wof:parent_id":1108561927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.88618000000001,
+    33.88863,
+    69.88618000000001,
+    33.88863
+],
+  "geometry": {"coordinates":[69.88618000000001,33.88863],"type":"Point"}
+}

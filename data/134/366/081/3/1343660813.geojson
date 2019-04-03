@@ -1,0 +1,75 @@
+{
+  "id": 1343660813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8709,35.33801,67.8709,35.33801",
+    "geom:latitude":35.33801,
+    "geom:longitude":67.8709,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2803.0",
+    "gn:asciiname":"Andaw",
+    "gn:country_code":"AF",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148681,
+    "gn:latitude":35.33801,
+    "gn:longitude":67.8709,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"And\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An\u1e0faw",
+        "And\u0101b",
+        "And\u0101w",
+        "\u0627\u0646\u062f\u0627\u0648",
+        "\u0627\u0646\u062f\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148681
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f96c6a9dec75ecb08af83eae176d07b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1343660813,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343660813,
+    "wof:lastmodified":1537582356,
+    "wof:name":"Andaw",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8709,
+    35.33801,
+    67.8709,
+    35.33801
+],
+  "geometry": {"coordinates":[67.87090000000001,35.33801],"type":"Point"}
+}

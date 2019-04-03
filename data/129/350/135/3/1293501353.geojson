@@ -1,0 +1,74 @@
+{
+  "id": 1293501353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28421,36.55791,70.28421,36.55791",
+    "geom:latitude":36.55791,
+    "geom:longitude":70.28421,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1123",
+    "gn:asciiname":"Kowri",
+    "gn:country_code":"AF",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135552,
+    "gn:latitude":36.55791,
+    "gn:longitude":70.28421,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kowr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaw\u1e5fi",
+        "Kowr\u012b",
+        "\u06a9\u0648\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135552,
+        "wk:page":"Kowri"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a880cf1ee04d3944b839ed93622a08d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562529,
+            "locality_id":1293501353,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293501353,
+    "wof:lastmodified":1537581265,
+    "wof:name":"Kowri",
+    "wof:parent_id":1108562529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28421,
+    36.55791,
+    70.28421,
+    36.55791
+],
+  "geometry": {"coordinates":[70.28421,36.55791],"type":"Point"}
+}

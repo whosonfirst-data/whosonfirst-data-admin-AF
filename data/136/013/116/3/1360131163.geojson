@@ -1,0 +1,72 @@
+{
+  "id": 1360131163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72562,35.89057,66.72562,35.89057",
+    "geom:latitude":35.89057,
+    "geom:longitude":66.72562,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Khun Ab",
+    "gn:country_code":"AF",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136408,
+    "gn:latitude":35.89057,
+    "gn:longitude":66.72562,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u016bn \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u016bn \u0100b",
+        "\u062e\u0648\u0646 \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136408
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2484703cb0af84de673ee7e8a11bc3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1360131163,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1360131163,
+    "wof:lastmodified":1537581339,
+    "wof:name":"Khun Ab",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72561999999999,
+    35.89057000000001,
+    66.72561999999999,
+    35.89057000000001
+],
+  "geometry": {"coordinates":[66.72561999999999,35.89057000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209144165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47625,34.78918,68.47625,34.78918",
+    "geom:latitude":34.78918,
+    "geom:longitude":68.47625,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307",
+    "gn:asciiname":"Qal'ah-ye Baghal",
+    "gn:country_code":"AF",
+    "gn:dem":2799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130032,
+    "gn:latitude":34.78918,
+    "gn:longitude":68.47625,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Baghal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kalabagal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018a Baghal",
+        "Qal\u2018a-i-Baghal",
+        "Qal\u2018eh-ye Baghal",
+        "Qal\u2018ah-ye Baghal",
+        "\u0642\u0639\u0644\u0647 \u0628\u063a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130032
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"195815fdae780c8fcf0a3b88db2972b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209144165
+        }
+    ],
+    "wof:id":1209144165,
+    "wof:lastmodified":1537580799,
+    "wof:name":"Qal'ah-ye Baghal",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47625,
+    34.78918,
+    68.47625,
+    34.78918
+],
+  "geometry": {"coordinates":[68.47624999999999,34.78918],"type":"Point"}
+}

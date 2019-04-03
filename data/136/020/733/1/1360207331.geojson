@@ -1,0 +1,77 @@
+{
+  "id": 1360207331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03736,34.68192,67.03736,34.68192",
+    "geom:latitude":34.68192,
+    "geom:longitude":67.03736,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Tay Now",
+    "gn:country_code":"AF",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122592,
+    "gn:latitude":34.68192,
+    "gn:longitude":67.03736,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tay Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439-\u041d\u0430\u0443"
+    ],
+    "name:und_x_variant":[
+        "Tay Naw",
+        "Tay-Nau",
+        "Tay Now",
+        "\u062a\u06cc \u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49467fa80025da49d5b0d3c67f4b953e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1360207331,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1360207331,
+    "wof:lastmodified":1537580171,
+    "wof:name":"Tay Now",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03735999999999,
+    34.68192,
+    67.03735999999999,
+    34.68192
+],
+  "geometry": {"coordinates":[67.03735999999999,34.68192],"type":"Point"}
+}

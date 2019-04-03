@@ -1,0 +1,79 @@
+{
+  "id": 1309974605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.63492,31.4289,65.63492,31.4289",
+    "geom:latitude":31.4289,
+    "geom:longitude":65.63492,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Mansur Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133907,
+    "gn:latitude":31.4289,
+    "gn:longitude":65.63492,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Man\u015f\u016br K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u06cc\u064e\u06c0 \u0645\u064e\u0646\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ghundi",
+        "Mansurkalay",
+        "Ghundi Mans\u016br",
+        "Man\u015f\u016br Kalay",
+        "Man\u015f\u016br K\u00ealay",
+        "\u0645\u0646\u0635\u0648\u0631 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133907
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"905eb91199ab1c1adb12bf56f16f2daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1309974605,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309974605,
+    "wof:lastmodified":1537581130,
+    "wof:name":"Mansur Kelay",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.63492,
+    31.4289,
+    65.63492,
+    31.4289
+],
+  "geometry": {"coordinates":[65.63491999999999,31.4289],"type":"Point"}
+}

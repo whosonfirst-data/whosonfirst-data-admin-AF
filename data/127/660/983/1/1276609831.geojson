@@ -1,0 +1,75 @@
+{
+  "id": 1276609831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.63863,31.55207,65.63863,31.55207",
+    "geom:latitude":31.55207,
+    "geom:longitude":65.63863,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Walakan",
+    "gn:country_code":"AF",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121786,
+    "gn:latitude":31.55207,
+    "gn:longitude":65.63863,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Walak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valakhan",
+        "Valakan",
+        "Walak\u0101n",
+        "\u0648\u0644\u06a9\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121786,
+        "wk:page":"Walakan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e80c33359e90777a7919ade78f184242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1276609831,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276609831,
+    "wof:lastmodified":1537580061,
+    "wof:name":"Walakan",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.63863,
+    31.55207,
+    65.63863,
+    31.55207
+],
+  "geometry": {"coordinates":[65.63863000000001,31.55207],"type":"Point"}
+}

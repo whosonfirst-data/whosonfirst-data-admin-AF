@@ -1,0 +1,75 @@
+{
+  "id": 1225997627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35066,33.50337,69.35066,33.50337",
+    "geom:latitude":33.50337,
+    "geom:longitude":69.35066,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701.0",
+    "gn:asciiname":"Ghelgay",
+    "gn:country_code":"AF",
+    "gn:dem":2698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438182,
+    "gn:latitude":33.50337,
+    "gn:longitude":69.35066,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u00ealgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gel\u2019gay"
+    ],
+    "name:und_x_variant":[
+        "Gh\u00ealgay",
+        "\u063a\u0644\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438182
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dc232eda2408eb135c1f8187c283a011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1225997627,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1225997627,
+    "wof:lastmodified":1537582882,
+    "wof:name":"Ghelgay",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35065999999999,
+    33.50337,
+    69.35065999999999,
+    33.50337
+],
+  "geometry": {"coordinates":[69.35065999999999,33.50337],"type":"Point"}
+}

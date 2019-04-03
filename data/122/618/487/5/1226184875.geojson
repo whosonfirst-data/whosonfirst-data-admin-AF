@@ -1,0 +1,75 @@
+{
+  "id": 1226184875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6333,34.81752,68.6333,34.81752",
+    "geom:latitude":34.81752,
+    "geom:longitude":68.6333,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"307.0",
+    "gn:asciiname":"Mutasham",
+    "gn:country_code":"AF",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454856,
+    "gn:latitude":34.81752,
+    "gn:longitude":68.6333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mutasham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mota\u0161am",
+        "Mutasham",
+        "Motasham",
+        "Mot\u2018ashim",
+        "\u0645\u062a\u0634\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454856
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e91f1c05264a6351b84209089f05a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562525,
+            "locality_id":1226184875,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1226184875,
+    "wof:lastmodified":1537583136,
+    "wof:name":"Mutasham",
+    "wof:parent_id":1108562525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6333,
+    34.81752,
+    68.6333,
+    34.81752
+],
+  "geometry": {"coordinates":[68.63330000000001,34.81752],"type":"Point"}
+}

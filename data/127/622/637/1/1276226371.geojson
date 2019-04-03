@@ -1,0 +1,78 @@
+{
+  "id": 1276226371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.14406,34.52309,67.14406,34.52309",
+    "geom:latitude":34.52309,
+    "geom:longitude":67.14406,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Pushtah-ye Guli",
+    "gn:country_code":"AF",
+    "gn:dem":3219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130450,
+    "gn:latitude":34.52309,
+    "gn:longitude":67.14406,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pushtah-ye Gul\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0448\u0442\u0430\u0439\u0438-\u0413\u0443\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pushtayi-Guli",
+        "Pu\u0161ta-i-Goli",
+        "Pushtah-ye Gul\u012b",
+        "Poshteh-ye Gol\u012b",
+        "\u067e\u0634\u062a\u0647 \u06af\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130450
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb85b16bbb7519ef328ade5f7f110efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1276226371,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276226371,
+    "wof:lastmodified":1537580838,
+    "wof:name":"Pushtah-ye Guli",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.14406,
+    34.52309,
+    67.14406,
+    34.52309
+],
+  "geometry": {"coordinates":[67.14406,34.52309],"type":"Point"}
+}

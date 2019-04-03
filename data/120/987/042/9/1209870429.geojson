@@ -1,0 +1,76 @@
+{
+  "id": 1209870429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.68426,33.94964,68.68426,33.94964",
+    "geom:latitude":33.94964,
+    "geom:longitude":68.68426,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"407",
+    "gn:asciiname":"Kuz Mamel",
+    "gn:country_code":"AF",
+    "gn:dem":2179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135088,
+    "gn:latitude":33.94964,
+    "gn:longitude":68.68426,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bz Mam\u00eal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kuz-Mamel\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u016bz Mam\u00eal",
+        "K\u016bz Mam\u011bl",
+        "\u06a9\u0648\u0632 \u0645\u0645\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135088
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0a0e851383967cf7bc4590093cb8486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562441,
+            "locality_id":1209870429,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209870429,
+    "wof:lastmodified":1537581223,
+    "wof:name":"Kuz Mamel",
+    "wof:parent_id":1108562441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.68426,
+    33.94964,
+    68.68426,
+    33.94964
+],
+  "geometry": {"coordinates":[68.68425999999999,33.94964],"type":"Point"}
+}

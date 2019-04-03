@@ -1,0 +1,66 @@
+{
+  "id": 1209526869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34701,35.61526,69.34701,35.61526",
+    "geom:latitude":35.61526,
+    "geom:longitude":69.34701,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307",
+    "gn:asciiname":"Khij",
+    "gn:country_code":"AF",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136757,
+    "gn:latitude":35.61526,
+    "gn:longitude":69.34701,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062e\u062c",
+        "Khej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c594cdae32baa4239265de80ec757b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209526869
+        }
+    ],
+    "wof:id":1209526869,
+    "wof:lastmodified":1537581367,
+    "wof:name":"Khij",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34701,
+    35.61526,
+    69.34701,
+    35.61526
+],
+  "geometry": {"coordinates":[69.34701,35.61526],"type":"Point"}
+}

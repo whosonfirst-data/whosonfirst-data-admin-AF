@@ -1,0 +1,73 @@
+{
+  "id": 1259624647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.26002,36.01078,66.26002,36.01078",
+    "geom:latitude":36.01078,
+    "geom:longitude":66.26002,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3105.0",
+    "gn:asciiname":"Gurg Ab",
+    "gn:country_code":"AF",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1408288,
+    "gn:latitude":36.01078,
+    "gn:longitude":66.26002,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gurg \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurg \u0100b",
+        "\u06af\u0631\u06af \u0622\u0628",
+        "Gorg \u0100b (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1408288
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c12bd9d73d4a1fbbe2347b74ea1b9130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562515,
+            "locality_id":1259624647,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1259624647,
+    "wof:lastmodified":1537582524,
+    "wof:name":"Gurg Ab",
+    "wof:parent_id":1108562515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.26002,
+    36.01078,
+    66.26002,
+    36.01078
+],
+  "geometry": {"coordinates":[66.26002,36.01078],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1292953721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21014,33.64355,69.21014,33.64355",
+    "geom:latitude":33.64355,
+    "geom:longitude":69.21014,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"701",
+    "gn:asciiname":"Niyazi Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131583,
+    "gn:latitude":33.64355,
+    "gn:longitude":69.21014,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Niy\u0101z\u012b Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0632\u06cc \u0643\u0644\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "N\u2019yazikala"
+    ],
+    "name:und_x_variant":[
+        "Ny\u0101zi Kal\u0101",
+        "N\u012b\u0101z\u012b Kal\u0101",
+        "Niy\u0101z\u012b Kal\u0101",
+        "\u0646\u06cc\u0627\u0632\u06cc \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        421166641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131583
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"38fe554b83dd6f9e03f10c6419ce91ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421166641,
+            "locality_id":1292953721,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1292953721,
+    "wof:lastmodified":1537580932,
+    "wof:name":"Niyazi Kala",
+    "wof:parent_id":421166641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21014,
+    33.64355,
+    69.21014,
+    33.64355
+],
+  "geometry": {"coordinates":[69.21014,33.64355],"type":"Point"}
+}

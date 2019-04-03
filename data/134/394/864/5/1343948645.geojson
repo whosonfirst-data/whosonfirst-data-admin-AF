@@ -1,0 +1,78 @@
+{
+  "id": 1343948645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87325,33.65413,67.87325,33.65413",
+    "geom:latitude":33.65413,
+    "geom:longitude":67.87325,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Qurban Murdah",
+    "gn:country_code":"AF",
+    "gn:dem":3173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128960,
+    "gn:latitude":33.65413,
+    "gn:longitude":67.87325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qurb\u0101n Murdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0431\u0430\u043d\u043c\u0443\u0440\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kurbanmurda",
+        "Qu\u1e5fb\u0101nmu\u1e5f\u1e0fa",
+        "Qorb\u0101nmordeh",
+        "Qurb\u0101n Murdah",
+        "\u0642\u0631\u0628\u0627\u0646 \u0645\u0631\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128960
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"802284781b431e7722996c7df92753b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1343948645,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343948645,
+    "wof:lastmodified":1537580671,
+    "wof:name":"Qurban Murdah",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87325,
+    33.65413,
+    67.87325,
+    33.65413
+],
+  "geometry": {"coordinates":[67.87325,33.65413],"type":"Point"}
+}

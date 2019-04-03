@@ -1,0 +1,78 @@
+{
+  "id": 1360036787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.54744,35.11713,70.54744,35.11713",
+    "geom:latitude":35.11713,
+    "geom:longitude":70.54744,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008",
+    "gn:asciiname":"Gulchah",
+    "gn:country_code":"AF",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140574,
+    "gn:latitude":35.11713,
+    "gn:longitude":70.54744,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u016blchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gul\u2019cha"
+    ],
+    "name:und_x_variant":[
+        "Gulcha",
+        "Gul\u010da",
+        "Golcheh",
+        "G\u016blchah",
+        "\u06af\u0648\u0644\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140574
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"080549ad75d3cb9c78ecd2a63c05abde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1360036787,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1360036787,
+    "wof:lastmodified":1537581675,
+    "wof:name":"Gulchah",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.54744000000002,
+    35.11713,
+    70.54744000000002,
+    35.11713
+],
+  "geometry": {"coordinates":[70.54744000000002,35.11713],"type":"Point"}
+}

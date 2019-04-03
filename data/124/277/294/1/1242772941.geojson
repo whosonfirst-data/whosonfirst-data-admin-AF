@@ -1,0 +1,81 @@
+{
+  "id": 1242772941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.01216,33.0588,65.01216,33.0588",
+    "geom:latitude":33.0588,
+    "geom:longitude":65.01216,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305",
+    "gn:asciiname":"Regay",
+    "gn:country_code":"AF",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128427,
+    "gn:latitude":33.0588,
+    "gn:longitude":65.01216,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0113gay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u064a\u06af\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u1e5e\u0113gay",
+        "R\u012bgay",
+        "Raygay",
+        "\u0631\u06d0\u06af\u06cc",
+        "R\u0113gay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128427
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d0dc7c3cee5171bc87fa4c202e35f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1242772941,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242772941,
+    "wof:lastmodified":1537580626,
+    "wof:name":"Regay",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.01216,
+    33.0588,
+    65.01216,
+    33.0588
+],
+  "geometry": {"coordinates":[65.01215999999999,33.0588],"type":"Point"}
+}

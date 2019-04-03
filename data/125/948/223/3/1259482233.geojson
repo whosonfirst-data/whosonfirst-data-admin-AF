@@ -1,0 +1,73 @@
+{
+  "id": 1259482233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01763,34.66355,68.01763,34.66355",
+    "geom:latitude":34.66355,
+    "geom:longitude":68.01763,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Tajak",
+    "gn:country_code":"AF",
+    "gn:dem":3103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455628,
+    "gn:latitude":34.66355,
+    "gn:longitude":68.01763,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Tajak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tadzhak",
+        "T\u0101jak",
+        "Tajak",
+        "\u062a\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455628
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"159ce3f1e9d9d1044ecb48ffd25e7240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1259482233,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1259482233,
+    "wof:lastmodified":1537583153,
+    "wof:name":"Tajak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01763000000001,
+    34.66355,
+    68.01763000000001,
+    34.66355
+],
+  "geometry": {"coordinates":[68.01763000000001,34.66355],"type":"Point"}
+}

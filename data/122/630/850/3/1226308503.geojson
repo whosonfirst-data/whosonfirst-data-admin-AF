@@ -1,0 +1,73 @@
+{
+  "id": 1226308503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.02083,31.68306,63.02083,31.68306",
+    "geom:latitude":31.68306,
+    "geom:longitude":63.02083,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2205.0",
+    "gn:asciiname":"Qamar od Din Nikeh",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439340,
+    "gn:latitude":31.68306,
+    "gn:longitude":63.02083,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qamar od D\u012bn N\u012bkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qama\u1e5fu\u1e0f\u1e0fin Nikeh",
+        "Qamar od D\u012bn N\u012bkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439340
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c95d8b7e8a6b5911e0173ac3e52bc261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562159,
+            "locality_id":1226308503,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1226308503,
+    "wof:lastmodified":1537582927,
+    "wof:name":"Qamar od Din Nikeh",
+    "wof:parent_id":1108562159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.02083,
+    31.68306,
+    63.02083,
+    31.68306
+],
+  "geometry": {"coordinates":[63.02083,31.68306],"type":"Point"}
+}

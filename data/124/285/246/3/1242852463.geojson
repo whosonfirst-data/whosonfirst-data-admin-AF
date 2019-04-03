@@ -1,0 +1,74 @@
+{
+  "id": 1242852463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.12578,33.72086,63.12578,33.72086",
+    "geom:latitude":33.72086,
+    "geom:longitude":63.12578,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2013.0",
+    "gn:asciiname":"Kajnow",
+    "gn:country_code":"AF",
+    "gn:dem":2133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459523,
+    "gn:latitude":33.72086,
+    "gn:longitude":63.12578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kajnow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kadzhnau",
+        "Kajnow",
+        "\u06a9\u062c\u0646\u0648",
+        "Kajn\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459523
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a6c9a237282a6b5d0ca49a0471a9e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562007,
+            "locality_id":1242852463,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242852463,
+    "wof:lastmodified":1537583297,
+    "wof:name":"Kajnow",
+    "wof:parent_id":1108562007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.12578000000001,
+    33.72085999999999,
+    63.12578000000001,
+    33.72085999999999
+],
+  "geometry": {"coordinates":[63.12578000000001,33.72085999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326963797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.06337,32.69556,66.06337,32.69556",
+    "geom:latitude":32.69556,
+    "geom:longitude":66.06337,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Now Joy",
+    "gn:country_code":"AF",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1480586,
+    "gn:latitude":32.69556,
+    "gn:longitude":66.06337,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now J\u014dy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naudzhoy",
+        "Nawj\u014dy",
+        "Now J\u014dy",
+        "\u0646\u0648 \u062c\u0648\u06cc",
+        "Now J\u016by"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1480586
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8676e5a8ff3a6c26e120b224d4e71706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1326963797,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1326963797,
+    "wof:lastmodified":1537583890,
+    "wof:name":"Now Joy",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.06336999999999,
+    32.69556,
+    66.06336999999999,
+    32.69556
+],
+  "geometry": {"coordinates":[66.06336999999999,32.69556],"type":"Point"}
+}

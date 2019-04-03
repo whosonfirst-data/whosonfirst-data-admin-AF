@@ -1,0 +1,74 @@
+{
+  "id": 1343417285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.42727,32.39639,66.42727,32.39639",
+    "geom:latitude":32.39639,
+    "geom:longitude":66.42727,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2414.0",
+    "gn:asciiname":"Khishkhatu",
+    "gn:country_code":"AF",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427834,
+    "gn:latitude":32.39639,
+    "gn:longitude":66.42727,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khishkh\u0101t\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khe\u0161kh\u0101tu",
+        "Khishkh\u0101t\u016b",
+        "\u062e\u0634\u062e\u0627\u062a\u0648",
+        "Kheshkh\u0101t\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427834
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2fc48450c4964d995112839b3e36074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562275,
+            "locality_id":1343417285,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343417285,
+    "wof:lastmodified":1537582643,
+    "wof:name":"Khishkhatu",
+    "wof:parent_id":1108562275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.42727,
+    32.39639,
+    66.42727,
+    32.39639
+],
+  "geometry": {"coordinates":[66.42726999999999,32.39639],"type":"Point"}
+}

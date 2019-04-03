@@ -1,0 +1,73 @@
+{
+  "id": 1260289217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.57817,34.02949,66.57817,34.02949",
+    "geom:latitude":34.02949,
+    "geom:longitude":66.57817,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Tangi Zardak",
+    "gn:country_code":"AF",
+    "gn:dem":2879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122859,
+    "gn:latitude":34.02949,
+    "gn:longitude":66.57817,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tang\u012b Zardak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangizardak",
+        "Tang\u012b Zardak",
+        "\u062a\u0646\u06af\u06cc \u0632\u0631\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122859
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f94f3f620f495d7ec073e7d90a1fad47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1260289217,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1260289217,
+    "wof:lastmodified":1537580191,
+    "wof:name":"Tangi Zardak",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.57817,
+    34.02949,
+    66.57817,
+    34.02949
+],
+  "geometry": {"coordinates":[66.57817,34.02949],"type":"Point"}
+}

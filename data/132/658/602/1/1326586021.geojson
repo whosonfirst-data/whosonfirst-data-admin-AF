@@ -1,0 +1,78 @@
+{
+  "id": 1326586021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.72506,31.51601,65.72506,31.51601",
+    "geom:latitude":31.51601,
+    "geom:longitude":65.72506,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Mard Kala",
+    "gn:country_code":"AF",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133854,
+    "gn:latitude":31.51601,
+    "gn:longitude":65.72506,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mard Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0645\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Murt Qala",
+        "Mardkala",
+        "Mart Khala",
+        "Mard Kal\u0101",
+        "\u0645\u0631\u062f \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133854
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0843f0f02c3f5ef3558545a048f046a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1326586021,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326586021,
+    "wof:lastmodified":1537581127,
+    "wof:name":"Mard Kala",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.72506,
+    31.51601,
+    65.72506,
+    31.51601
+],
+  "geometry": {"coordinates":[65.72506,31.51601],"type":"Point"}
+}

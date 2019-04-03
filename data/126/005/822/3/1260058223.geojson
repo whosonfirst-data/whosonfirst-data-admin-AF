@@ -1,0 +1,73 @@
+{
+  "id": 1260058223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.82222,34.95525,61.82222,34.95525",
+    "geom:latitude":34.95525,
+    "geom:longitude":61.82222,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Bagh",
+    "gn:country_code":"AF",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147111,
+    "gn:latitude":34.95525,
+    "gn:longitude":61.82222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101gh",
+        "\u0628\u0627\u063a",
+        "B\u0101qh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147111
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07255e605a5e3909eefcd9d2894500b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1260058223,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1260058223,
+    "wof:lastmodified":1537582241,
+    "wof:name":"Bagh",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.82222,
+    34.95525,
+    61.82222,
+    34.95525
+],
+  "geometry": {"coordinates":[61.82222,34.95525],"type":"Point"}
+}

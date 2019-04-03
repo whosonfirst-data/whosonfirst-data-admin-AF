@@ -1,0 +1,73 @@
+{
+  "id": 1343499843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1549,35.15821,70.1549,35.15821",
+    "geom:latitude":35.15821,
+    "geom:longitude":70.1549,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004",
+    "gn:asciiname":"Mumam",
+    "gn:country_code":"AF",
+    "gn:dem":2482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132664,
+    "gn:latitude":35.15821,
+    "gn:longitude":70.1549,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016bmam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muman",
+        "M\u016bmam",
+        "\u0645\u0648\u0645\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132664
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"942cf5dcff482c8dbafd873d17b30b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562241,
+            "locality_id":1343499843,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1343499843,
+    "wof:lastmodified":1537581025,
+    "wof:name":"Mumam",
+    "wof:parent_id":1108562241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1549,
+    35.15821,
+    70.1549,
+    35.15821
+],
+  "geometry": {"coordinates":[70.1549,35.15821],"type":"Point"}
+}

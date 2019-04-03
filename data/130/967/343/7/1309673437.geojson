@@ -1,0 +1,73 @@
+{
+  "id": 1309673437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.34429,31.82655,66.34429,31.82655",
+    "geom:latitude":31.82655,
+    "geom:longitude":66.34429,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Maryam",
+    "gn:country_code":"AF",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436978,
+    "gn:latitude":31.82655,
+    "gn:longitude":66.34429,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maryam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mariam",
+        "\u0645\u0631\u06cc\u0645",
+        "Maryam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436978
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"738b0d02990f4517561400d0ee399b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1309673437,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1309673437,
+    "wof:lastmodified":1537582825,
+    "wof:name":"Maryam",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.34429,
+    31.82655,
+    66.34429,
+    31.82655
+],
+  "geometry": {"coordinates":[66.34429,31.82655],"type":"Point"}
+}

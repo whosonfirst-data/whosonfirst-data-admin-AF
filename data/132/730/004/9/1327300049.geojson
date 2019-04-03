@@ -1,0 +1,77 @@
+{
+  "id": 1327300049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09005,34.23983,71.09005,34.23983",
+    "geom:latitude":34.23983,
+    "geom:longitude":71.09005,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"815.0",
+    "gn:asciiname":"Sayestabare",
+    "gn:country_code":"AF",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476355,
+    "gn:latitude":34.23983,
+    "gn:longitude":71.09005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayestabare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u06cc\u0633\u062a\u0647 \u0628\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101yesta B\u0101r\u0113",
+        "S\u0332h\u0332\u0101y\u00eastah B\u0101r\u0113",
+        "Sh\u0101yesteh B\u0101reh",
+        "\u069a\u0627\u06cc\u0633\u062a\u0647 \u0628\u0627\u0631\u06d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476355
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"392cc2d841c8cfdf9388a9f59f64eaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562227,
+            "locality_id":1327300049,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327300049,
+    "wof:lastmodified":1537583847,
+    "wof:name":"Sayestabare",
+    "wof:parent_id":1108562227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09005,
+    34.23983,
+    71.09005,
+    34.23983
+],
+  "geometry": {"coordinates":[71.09005000000001,34.23983],"type":"Point"}
+}

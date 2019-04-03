@@ -1,0 +1,75 @@
+{
+  "id": 1327124995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.45361,33.13306,67.45361,33.13306",
+    "geom:latitude":33.13306,
+    "geom:longitude":67.45361,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Jaghuri",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":2391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139757,
+    "gn:latitude":33.13306,
+    "gn:longitude":67.45361,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101gh\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaghowr\u012b",
+        "J\u0101ghori",
+        "J\u0101gh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139757,
+        "wk:page":"Jaghori_District"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f945d8ea1426f50f52555caa92f9f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1327124995,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327124995,
+    "wof:lastmodified":1537581604,
+    "wof:name":"Jaghuri",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.45361,
+    33.13306,
+    67.45361,
+    33.13306
+],
+  "geometry": {"coordinates":[67.45361,33.13306],"type":"Point"}
+}

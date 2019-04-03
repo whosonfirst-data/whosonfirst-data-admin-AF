@@ -1,0 +1,78 @@
+{
+  "id": 1242920813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78952,32.6504,66.78952,32.6504",
+    "geom:latitude":32.6504,
+    "geom:longitude":66.78952,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504.0",
+    "gn:asciiname":"Malik Husain",
+    "gn:country_code":"AF",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450061,
+    "gn:latitude":32.6504,
+    "gn:longitude":66.78952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Malik \u1e28usa\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0643 \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Malik-Khuseyn",
+        "Malek \u1e28osayn",
+        "Malik \u1e28usa\u012bn",
+        "\u0645\u0644\u06a9 \u062d\u0633\u06cc\u0646",
+        "Malek \u1e28oseyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450061
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c423143bc8a7f0b72aa9f57cd3984dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1242920813,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242920813,
+    "wof:lastmodified":1537583036,
+    "wof:name":"Malik Husain",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78952,
+    32.6504,
+    66.78952,
+    32.6504
+],
+  "geometry": {"coordinates":[66.78952,32.6504],"type":"Point"}
+}

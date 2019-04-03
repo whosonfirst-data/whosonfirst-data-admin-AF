@@ -1,0 +1,66 @@
+{
+  "id": 1209207061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.41094,32.14988,61.41094,32.14988",
+    "geom:latitude":32.14988,
+    "geom:longitude":61.41094,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2110",
+    "gn:asciiname":"Jurg",
+    "gn:country_code":"AF",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139092,
+    "gn:latitude":32.14988,
+    "gn:longitude":61.41094,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jurg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jorg",
+        "\u062c\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139092
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5f7c32c0627d4bfaa8424347415dc69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209207061
+        }
+    ],
+    "wof:id":1209207061,
+    "wof:lastmodified":1537581549,
+    "wof:name":"Jurg",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.41094,
+    32.14988,
+    61.41094,
+    32.14988
+],
+  "geometry": {"coordinates":[61.41094,32.14988],"type":"Point"}
+}

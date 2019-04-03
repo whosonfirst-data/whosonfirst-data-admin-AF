@@ -1,0 +1,81 @@
+{
+  "id": 1309962059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1571,31.61104,67.1571,31.61104",
+    "geom:latitude":31.61104,
+    "geom:longitude":67.1571,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Sikandarzai",
+    "gn:country_code":"AF",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126443,
+    "gn:latitude":31.61104,
+    "gn:longitude":67.1571,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sikandarza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0643\u0646\u062f\u0631\u0632\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u06a9\u0646\u062f\u0631\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sekan\u1e0fa\u1e5fzay",
+        "Sikandarzay",
+        "Sikandarza\u012b",
+        "\u0633\u06a9\u0646\u062f\u0631\u0632\u06cc",
+        "Eskandarz\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126443
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e71af39bb40d212ed5157eeee3e80f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1309962059,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309962059,
+    "wof:lastmodified":1537580478,
+    "wof:name":"Sikandarzai",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1571,
+    31.61104000000001,
+    67.1571,
+    31.61104000000001
+],
+  "geometry": {"coordinates":[67.1571,31.61104000000001],"type":"Point"}
+}

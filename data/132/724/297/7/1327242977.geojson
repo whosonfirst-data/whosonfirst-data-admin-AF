@@ -1,0 +1,74 @@
+{
+  "id": 1327242977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23675,35.14334,68.23675,35.14334",
+    "geom:latitude":35.14334,
+    "geom:longitude":68.23675,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Ghujur",
+    "gn:country_code":"AF",
+    "gn:dem":3039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141055,
+    "gn:latitude":35.14334,
+    "gn:longitude":68.23675,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghuj\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghoj\u016br",
+        "Gh\u016bj\u016br",
+        "Ghuj\u016br",
+        "\u063a\u062c\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141055
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f8f74e7effebb93a236a7e7e097785f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1327242977,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1327242977,
+    "wof:lastmodified":1537581716,
+    "wof:name":"Ghujur",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23675,
+    35.14334,
+    68.23675,
+    35.14334
+],
+  "geometry": {"coordinates":[68.23675,35.14334],"type":"Point"}
+}

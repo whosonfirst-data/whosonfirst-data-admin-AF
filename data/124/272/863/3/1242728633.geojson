@@ -1,0 +1,74 @@
+{
+  "id": 1242728633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.632,32.97305,68.632,32.97305",
+    "geom:latitude":32.97305,
+    "geom:longitude":68.632,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2918",
+    "gn:asciiname":"Mindzo Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133533,
+    "gn:latitude":32.97305,
+    "gn:longitude":68.632,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mindz\u014d Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mindzhukala",
+        "\u0645\u0646\u0681\u0648 \u06a9\u0644\u0627",
+        "Menjo Kal\u0101",
+        "Mindz\u014d Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133533
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4e1cff775f9859c448cee4a988cd86c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562585,
+            "locality_id":1242728633,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1242728633,
+    "wof:lastmodified":1537581103,
+    "wof:name":"Mindzo Kala",
+    "wof:parent_id":1108562585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.632,
+    32.97305,
+    68.632,
+    32.97305
+],
+  "geometry": {"coordinates":[68.63200000000001,32.97305],"type":"Point"}
+}

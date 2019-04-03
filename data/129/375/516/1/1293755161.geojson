@@ -1,0 +1,75 @@
+{
+  "id": 1293755161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.95506,33.82342,68.95506,33.82342",
+    "geom:latitude":33.82342,
+    "geom:longitude":68.95506,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"502",
+    "gn:asciiname":"Shash Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":2027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125307,
+    "gn:latitude":33.82342,
+    "gn:longitude":68.95506,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160a\u0161qal\u2018a",
+        "Shashkala",
+        "Shash Qal\u2018ah",
+        "Shesh Qal\u2018eh",
+        "\u0634\u0634 \u0642\u0644\u0639\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125307
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0b039b9fa272556bc85b7e06dc865610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561909,
+            "locality_id":1293755161,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293755161,
+    "wof:lastmodified":1537580377,
+    "wof:name":"Shash Qal'ah",
+    "wof:parent_id":1108561909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.95506,
+    33.82342,
+    68.95506,
+    33.82342
+],
+  "geometry": {"coordinates":[68.95506,33.82342],"type":"Point"}
+}

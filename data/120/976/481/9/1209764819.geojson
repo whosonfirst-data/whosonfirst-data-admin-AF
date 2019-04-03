@@ -1,0 +1,73 @@
+{
+  "id": 1209764819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.05942,35.52568,68.05942,35.52568",
+    "geom:latitude":35.52568,
+    "geom:longitude":68.05942,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1505.0",
+    "gn:asciiname":"Arpaqol",
+    "gn:country_code":"AF",
+    "gn:dem":2771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148353,
+    "gn:latitude":35.52568,
+    "gn:longitude":68.05942,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arpaq\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arpaq\u014dl",
+        "Arpaqowl",
+        "\u0627\u0631\u067e\u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148353
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"06becd019a5ff0349d176009fc0f28f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562419,
+            "locality_id":1209764819,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1209764819,
+    "wof:lastmodified":1537582335,
+    "wof:name":"Arpaqol",
+    "wof:parent_id":1108562419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.05941999999999,
+    35.52568,
+    68.05941999999999,
+    35.52568
+],
+  "geometry": {"coordinates":[68.05941999999999,35.52568],"type":"Point"}
+}

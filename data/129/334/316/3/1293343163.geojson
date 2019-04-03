@@ -1,0 +1,81 @@
+{
+  "id": 1293343163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63354,34.01122,69.63354,34.01122",
+    "geom:latitude":34.01122,
+    "geom:longitude":69.63354,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"711.0",
+    "gn:asciiname":"Hasan Algadah",
+    "gn:country_code":"AF",
+    "gn:dem":2412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471786,
+    "gn:latitude":34.01122,
+    "gn:longitude":69.63354,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28asan Alga\u1e0fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0644\u06c0 \u062d\u0633\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Khasanl\u2019gada"
+    ],
+    "name:und_x_variant":[
+        "Hasan Lgada",
+        "\u1e28asan Alga\u1e0fah",
+        "\u1e28asan Lgadah",
+        "\u0634\u064a\u0644\u06c0 \u062d\u0633\u0646",
+        "\u062d\u0633\u0646 \u0644\u06af\u0689\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471786
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77c86a80b73b33613ee7f051e649c4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561789,
+            "locality_id":1293343163,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1293343163,
+    "wof:lastmodified":1537583655,
+    "wof:name":"Hasan Algadah",
+    "wof:parent_id":1108561789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63354,
+    34.01122,
+    69.63354,
+    34.01122
+],
+  "geometry": {"coordinates":[69.63354,34.01122],"type":"Point"}
+}

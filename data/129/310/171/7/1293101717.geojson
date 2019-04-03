@@ -1,0 +1,74 @@
+{
+  "id": 1293101717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.91966,34.63568,63.91966,34.63568",
+    "geom:latitude":34.63568,
+    "geom:longitude":63.91966,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1903",
+    "gn:asciiname":"Ghurghuri",
+    "gn:country_code":"AF",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140976,
+    "gn:latitude":34.63568,
+    "gn:longitude":63.91966,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghurghur\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurguri",
+        "Ghurghur\u012b",
+        "\u063a\u0631\u063a\u0631\u06cc",
+        "Ghurghor\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140976
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eed468dd5bb721f25cd28b0fd6c15160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562371,
+            "locality_id":1293101717,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293101717,
+    "wof:lastmodified":1537581710,
+    "wof:name":"Ghurghuri",
+    "wof:parent_id":1108562371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.91966,
+    34.63568,
+    63.91966,
+    34.63568
+],
+  "geometry": {"coordinates":[63.91966,34.63568],"type":"Point"}
+}

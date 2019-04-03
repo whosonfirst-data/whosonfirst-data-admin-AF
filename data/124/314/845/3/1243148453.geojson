@@ -1,0 +1,78 @@
+{
+  "id": 1243148453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08106,33.8146,69.08106,33.8146",
+    "geom:latitude":33.8146,
+    "geom:longitude":69.08106,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"501",
+    "gn:asciiname":"Paraw Saray",
+    "gn:country_code":"AF",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1131111,
+    "gn:latitude":33.8146,
+    "gn:longitude":69.08106,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pa\u1e5f\u0101w Sa\u1e5fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u0648 \u0633\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Paraw",
+        "Parau",
+        "Pa\u1e5f\u0101w Sa\u1e5fay",
+        "\u067e\u0631\u0627\u0648 \u0633\u0631\u0627\u06cc",
+        "\u067e\u0693\u0627\u0648 \u0633\u0693\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131111
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a22201dcb04744566aacb7c28ae72722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562361,
+            "locality_id":1243148453,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243148453,
+    "wof:lastmodified":1537580896,
+    "wof:name":"Paraw Saray",
+    "wof:parent_id":1108562361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08106,
+    33.8146,
+    69.08106,
+    33.8146
+],
+  "geometry": {"coordinates":[69.08105999999999,33.8146],"type":"Point"}
+}

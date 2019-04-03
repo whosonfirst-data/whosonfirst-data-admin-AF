@@ -1,0 +1,82 @@
+{
+  "id": 1210011841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89676,33.14377,67.89676,33.14377",
+    "geom:latitude":33.14377,
+    "geom:longitude":67.89676,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Tirnawah",
+    "gn:country_code":"AF",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122497,
+    "gn:latitude":33.14377,
+    "gn:longitude":67.89676,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e6eirn\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0646\u0627\u0628\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tern\u0101wah",
+        "Tirnava",
+        "Te\u1e5fn\u0101wa",
+        "Tern\u0101beh",
+        "\u1e6eirn\u0101wah",
+        "\u067c\u0631\u0646\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122497
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e9180f6abaad330043fcc12ebfa34309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1210011841,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1210011841,
+    "wof:lastmodified":1537580119,
+    "wof:name":"Tirnawah",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89676,
+    33.14377,
+    67.89676,
+    33.14377
+],
+  "geometry": {"coordinates":[67.89676,33.14377],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242961265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.49062,35.27965,61.49062,35.27965",
+    "geom:latitude":35.27965,
+    "geom:longitude":61.49062,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Siyah Kamarak",
+    "gn:country_code":"AF",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124600,
+    "gn:latitude":35.27965,
+    "gn:longitude":61.49062,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siy\u0101h Kamarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sy\u0101h Kama\u1e5fak",
+        "S\u012b\u0101h Kamarak",
+        "\u0633\u064a\u0627\u0647 \u06a9\u0645\u0631\u06a9",
+        "Siy\u0101h Kamarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124600
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c13615b18fbe32238f27f518035652d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1242961265,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242961265,
+    "wof:lastmodified":1537580312,
+    "wof:name":"Siyah Kamarak",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.49061999999999,
+    35.27965,
+    61.49061999999999,
+    35.27965
+],
+  "geometry": {"coordinates":[61.49061999999999,35.27965],"type":"Point"}
+}

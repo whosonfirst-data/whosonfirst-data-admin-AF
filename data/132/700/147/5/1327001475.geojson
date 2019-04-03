@@ -1,0 +1,80 @@
+{
+  "id": 1327001475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31963,34.71122,69.31963,34.71122",
+    "geom:latitude":34.71122,
+    "geom:longitude":69.31963,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"102.0",
+    "gn:asciiname":"Aw Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148090,
+    "gn:latitude":34.71122,
+    "gn:longitude":69.31963,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aw Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u062f\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100vdarreh",
+        "Aw\u1e0fa\u1e5fa",
+        "Avdara",
+        "\u0100b Darah",
+        "\u0100bdarreh",
+        "Aw Darah",
+        "\u0627\u0648 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108561973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148090
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c9c9a45708d6453404a3f132f0b9dbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561973,
+            "locality_id":1327001475,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1327001475,
+    "wof:lastmodified":1537582316,
+    "wof:name":"Aw Darah",
+    "wof:parent_id":1108561973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31963,
+    34.71122,
+    69.31963,
+    34.71122
+],
+  "geometry": {"coordinates":[69.31963,34.71122],"type":"Point"}
+}

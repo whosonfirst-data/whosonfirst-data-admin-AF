@@ -1,0 +1,71 @@
+{
+  "id": 1259605921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0035,35.26369,68.0035,35.26369",
+    "geom:latitude":35.26369,
+    "geom:longitude":68.0035,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Gazar",
+    "gn:country_code":"AF",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141640,
+    "gn:latitude":35.26369,
+    "gn:longitude":68.0035,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141640
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"95e3bda76cf892e8159a68d85bb32be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1259605921,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259605921,
+    "wof:lastmodified":1537581766,
+    "wof:name":"Gazar",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0035,
+    35.26369000000001,
+    68.0035,
+    35.26369000000001
+],
+  "geometry": {"coordinates":[68.0035,35.26369000000001],"type":"Point"}
+}

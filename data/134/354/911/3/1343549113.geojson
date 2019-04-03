@@ -1,0 +1,78 @@
+{
+  "id": 1343549113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.12383,34.26135,62.12383,34.26135",
+    "geom:latitude":34.26135,
+    "geom:longitude":62.12383,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Gashim Chah",
+    "gn:country_code":"AF",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141754,
+    "gn:latitude":34.26135,
+    "gn:longitude":62.12383,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101shim Chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0634\u0645 \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "G\u0101\u0161em \u010cah",
+        "Gashimna",
+        "G\u0101shim Chah",
+        "\u06af\u0627\u0634\u0645 \u0686\u0647",
+        "G\u0101shem Ch\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141754
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51c536fa954912f73a04dbc28cea48c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1343549113,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343549113,
+    "wof:lastmodified":1537581773,
+    "wof:name":"Gashim Chah",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.12383000000001,
+    34.26135,
+    62.12383000000001,
+    34.26135
+],
+  "geometry": {"coordinates":[62.12383000000001,34.26135],"type":"Point"}
+}

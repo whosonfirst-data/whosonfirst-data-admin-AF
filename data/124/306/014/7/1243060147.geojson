@@ -1,0 +1,75 @@
+{
+  "id": 1243060147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.02935,33.43448,64.02935,33.43448",
+    "geom:latitude":33.43448,
+    "geom:longitude":64.02935,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2104.0",
+    "gn:asciiname":"Dahan-e Aw",
+    "gn:country_code":"AF",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144685,
+    "gn:latitude":33.43448,
+    "gn:longitude":64.02935,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dah\u0101n-e \u0100w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Av",
+        "\u1e0eahane \u0100w",
+        "Dah\u0101n-e \u0100w",
+        "\u062f\u0647\u0627\u0646 \u0622\u0648",
+        "Dahan-e \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144685
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ce173383aab578eb2f6d3382556a8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1243060147,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243060147,
+    "wof:lastmodified":1537582032,
+    "wof:name":"Dahan-e Aw",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.02935,
+    33.43448,
+    64.02935,
+    33.43448
+],
+  "geometry": {"coordinates":[64.02934999999999,33.43448],"type":"Point"}
+}

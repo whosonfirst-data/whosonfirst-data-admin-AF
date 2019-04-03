@@ -1,0 +1,77 @@
+{
+  "id": 1276718541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.41653,36.71165,69.41653,36.71165",
+    "geom:latitude":36.71165,
+    "geom:longitude":69.41653,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201.0",
+    "gn:asciiname":"Aq Masjid",
+    "gn:country_code":"AF",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467679,
+    "gn:latitude":36.71165,
+    "gn:longitude":69.41653,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Masjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043c\u0430\u0441\u0434\u0436\u0438\u0434"
+    ],
+    "name:und_x_variant":[
+        "Akmasdzhid",
+        "\u0100q Masjed",
+        "\u0100q Masjid",
+        "\u0622\u0642 \u0645\u0633\u062c\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467679
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0b4daf4d30e9358523a7025c3c872bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1276718541,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1276718541,
+    "wof:lastmodified":1537583499,
+    "wof:name":"Aq Masjid",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.41653000000001,
+    36.71165,
+    69.41653000000001,
+    36.71165
+],
+  "geometry": {"coordinates":[69.41653000000001,36.71165],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276175101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84111,31.86229,67.84111,31.86229",
+    "geom:latitude":31.86229,
+    "geom:longitude":67.84111,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Shinglanah",
+    "gn:country_code":"AF",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125367,
+    "gn:latitude":31.86229,
+    "gn:longitude":67.84111,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shingl\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304engl\u0101na",
+        "Shinglana",
+        "Sh\u00eangl\u0101nah",
+        "Shengl\u0101nah",
+        "Shingl\u0101nah",
+        "\u0634\u0646\u06af\u0644\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125367
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eefa29cdb1360ef2d474da01169d7b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1276175101,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276175101,
+    "wof:lastmodified":1537580383,
+    "wof:name":"Shinglanah",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84111,
+    31.86229,
+    67.84111,
+    31.86229
+],
+  "geometry": {"coordinates":[67.84111,31.86229],"type":"Point"}
+}

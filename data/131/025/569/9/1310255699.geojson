@@ -1,0 +1,73 @@
+{
+  "id": 1310255699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64996,32.45825,67.64996,32.45825",
+    "geom:latitude":32.45825,
+    "geom:longitude":67.64996,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Ziarat",
+    "gn:country_code":"AF",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442933,
+    "gn:latitude":32.45825,
+    "gn:longitude":67.64996,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u012b\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zy\u0101\u1e5fat",
+        "Z\u012b\u0101rat",
+        "\u0632\u06cc\u0627\u0631\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442933
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"adbac3ec1fabb553a59fdc3ac5ae21d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1310255699,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310255699,
+    "wof:lastmodified":1537582941,
+    "wof:name":"Ziarat",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64996,
+    32.45825,
+    67.64996,
+    32.45825
+],
+  "geometry": {"coordinates":[67.64995999999999,32.45825],"type":"Point"}
+}

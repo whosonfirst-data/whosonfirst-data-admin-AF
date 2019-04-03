@@ -1,0 +1,75 @@
+{
+  "id": 1310244997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62675,33.71483,69.62675,33.71483",
+    "geom:latitude":33.71483,
+    "geom:longitude":69.62675,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"709",
+    "gn:asciiname":"Tishnak",
+    "gn:country_code":"AF",
+    "gn:dem":2302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122482,
+    "gn:latitude":33.71483,
+    "gn:longitude":69.62675,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tishnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te\u0161nak",
+        "Tishnak",
+        "T\u00eashnak",
+        "Teshnak",
+        "\u062a\u0634\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122482
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7c84009f28cb5d811e12f54160197ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562225,
+            "locality_id":1310244997,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310244997,
+    "wof:lastmodified":1537580117,
+    "wof:name":"Tishnak",
+    "wof:parent_id":1108562225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62675,
+    33.71483,
+    69.62675,
+    33.71483
+],
+  "geometry": {"coordinates":[69.62675,33.71483],"type":"Point"}
+}

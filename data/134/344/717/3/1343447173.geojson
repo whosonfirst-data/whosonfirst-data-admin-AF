@@ -1,0 +1,79 @@
+{
+  "id": 1343447173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.81473,34.71378,69.81473,34.71378",
+    "geom:latitude":34.71378,
+    "geom:longitude":69.81473,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112.0",
+    "gn:asciiname":"Adam Tserey",
+    "gn:country_code":"AF",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472773,
+    "gn:latitude":34.71378,
+    "gn:longitude":69.81473,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100dam Ts\u0113\u1e5f\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u0645 \u0686\u064a\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0100\u1e0fam C\u0113ray",
+        "Adamcheray",
+        "\u0100dam Ts\u0113ray",
+        "\u0100dam Ch\u0113ray",
+        "\u0100dam Ts\u0113\u1e5f\u00eay",
+        "\u0622\u062f\u0645 \u0685\u06d0\u0693\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472773
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e2bf00214c86d8f195e888dbf8b9626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1343447173,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1343447173,
+    "wof:lastmodified":1537583714,
+    "wof:name":"Adam Tserey",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.81473000000001,
+    34.71378,
+    69.81473000000001,
+    34.71378
+],
+  "geometry": {"coordinates":[69.81473000000001,34.71378],"type":"Point"}
+}

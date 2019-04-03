@@ -1,0 +1,74 @@
+{
+  "id": 1360275053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.72083,34.66248,65.72083,34.66248",
+    "geom:latitude":34.66248,
+    "geom:longitude":65.72083,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2709",
+    "gn:asciiname":"Jar-e Tel",
+    "gn:country_code":"AF",
+    "gn:dem":2762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139405,
+    "gn:latitude":34.66248,
+    "gn:longitude":65.72083,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e T\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jar-e T\u0113l",
+        "\u062c\u0631 \u062a\u06d0\u0644",
+        "Jar-e Tal",
+        "\u062c\u0631\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139405
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0108f971abf235521582709085bfd02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1360275053,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1360275053,
+    "wof:lastmodified":1537581573,
+    "wof:name":"Jar-e Tel",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.72083,
+    34.66248,
+    65.72083,
+    34.66248
+],
+  "geometry": {"coordinates":[65.72083000000001,34.66248],"type":"Point"}
+}

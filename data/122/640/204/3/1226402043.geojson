@@ -1,0 +1,74 @@
+{
+  "id": 1226402043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.82004,36.14235,67.82004,36.14235",
+    "geom:latitude":36.14235,
+    "geom:longitude":67.82004,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1501",
+    "gn:asciiname":"Royanchah",
+    "gn:country_code":"AF",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128255,
+    "gn:latitude":36.14235,
+    "gn:longitude":67.82004,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u014dy\u0101nchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Royancha (2)",
+        "Royanchah",
+        "R\u014dy\u0101nchah",
+        "\u0631\u0648\u06cc\u0627\u0646\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128255
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a4cc84d419090448c208eb85ba614e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561827,
+            "locality_id":1226402043,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1226402043,
+    "wof:lastmodified":1537580612,
+    "wof:name":"Royanchah",
+    "wof:parent_id":1108561827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.82004,
+    36.14235,
+    67.82004,
+    36.14235
+],
+  "geometry": {"coordinates":[67.82004000000001,36.14235],"type":"Point"}
+}

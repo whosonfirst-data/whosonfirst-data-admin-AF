@@ -1,0 +1,69 @@
+{
+  "id": 1209026157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57471,33.65714,68.57471,33.65714",
+    "geom:latitude":33.65714,
+    "geom:longitude":68.57471,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"616",
+    "gn:asciiname":"Kodalay",
+    "gn:country_code":"AF",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135843,
+    "gn:latitude":33.65714,
+    "gn:longitude":68.57471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kodalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudale",
+        "K\u016b\u1e0fal\u0113",
+        "Ko\u1e0fal\u0113",
+        "Kodalay",
+        "\u06a9\u062f\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135843
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f2d31e50ec69eec7421b794393e04a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209026157
+        }
+    ],
+    "wof:id":1209026157,
+    "wof:lastmodified":1537581292,
+    "wof:name":"Kodalay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57471,
+    33.65714000000001,
+    68.57471,
+    33.65714000000001
+],
+  "geometry": {"coordinates":[68.57471,33.65714000000001],"type":"Point"}
+}

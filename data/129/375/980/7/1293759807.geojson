@@ -1,0 +1,76 @@
+{
+  "id": 1293759807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93353,33.83126,68.93353,33.83126",
+    "geom:latitude":33.83126,
+    "geom:longitude":68.93353,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"502",
+    "gn:asciiname":"Qal'ah-ye Sar Mu'alim",
+    "gn:country_code":"AF",
+    "gn:dem":2048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129820,
+    "gn:latitude":33.83126,
+    "gn:longitude":68.93353,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Sar Mu\u2018alim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-Sa\u1e5fmo\u2018allem",
+        "Kalasarmu-Allim",
+        "Qal\u2018a Sa\u1e5fmo\u2018allem",
+        "Qal\u2018ah-ye Sar Mu\u2018alim",
+        "Qal\u2018eh-ye Sar Mo\u2018allem",
+        "\u0642\u0644\u0639\u0647 \u0633\u0631 \u0645\u0639\u0644\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129820
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fabe040f94e8c6fdcf5d1253bafdc62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561909,
+            "locality_id":1293759807,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293759807,
+    "wof:lastmodified":1537580768,
+    "wof:name":"Qal'ah-ye Sar Mu'alim",
+    "wof:parent_id":1108561909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93353,
+    33.83126,
+    68.93353,
+    33.83126
+],
+  "geometry": {"coordinates":[68.93353,33.83126],"type":"Point"}
+}

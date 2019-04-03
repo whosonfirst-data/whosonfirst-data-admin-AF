@@ -1,0 +1,75 @@
+{
+  "id": 1242821307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36082,32.80325,69.36082,32.80325",
+    "geom:latitude":32.80325,
+    "geom:longitude":69.36082,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Baqi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147108,
+    "gn:latitude":32.80325,
+    "gn:longitude":69.36082,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101q\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101qirkh\u0113l",
+        "B\u0101qikh\u0113l",
+        "Bakikheyl\u2019",
+        "B\u0101qer Kheyl",
+        "B\u0101q\u012b Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147108
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5356b2f3e4de9b6a678af5596bfc2ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1242821307,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1242821307,
+    "wof:lastmodified":1537582241,
+    "wof:name":"Baqi Khel",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36081999999999,
+    32.80325,
+    69.36081999999999,
+    32.80325
+],
+  "geometry": {"coordinates":[69.36081999999999,32.80325],"type":"Point"}
+}

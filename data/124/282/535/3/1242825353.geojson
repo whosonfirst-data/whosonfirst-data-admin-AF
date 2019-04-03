@@ -1,0 +1,75 @@
+{
+  "id": 1242825353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77281,32.7356,66.77281,32.7356",
+    "geom:latitude":32.7356,
+    "geom:longitude":66.77281,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Jaiwal",
+    "gn:country_code":"AF",
+    "gn:dem":2676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139234,
+    "gn:latitude":32.7356,
+    "gn:longitude":66.77281,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101\u012bw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhayval\u2019"
+    ],
+    "name:und_x_variant":[
+        "J\u0101\u012bw\u0101l",
+        "\u062c\u0627\u06cc\u0648\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139234
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"445dcb101de42d4dbfcf90c291c36f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1242825353,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242825353,
+    "wof:lastmodified":1537581560,
+    "wof:name":"Jaiwal",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77280999999999,
+    32.7356,
+    66.77280999999999,
+    32.7356
+],
+  "geometry": {"coordinates":[66.77280999999999,32.7356],"type":"Point"}
+}

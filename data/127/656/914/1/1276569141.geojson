@@ -1,0 +1,76 @@
+{
+  "id": 1276569141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.82541,32.02079,64.82541,32.02079",
+    "geom:latitude":32.02079,
+    "geom:longitude":64.82541,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302.0",
+    "gn:asciiname":"Pan Kelah-ye Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473703,
+    "gn:latitude":32.02079,
+    "gn:longitude":64.82541,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101\u1e49 K\u0113lah-ye Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pankela-Dzhanubi",
+        "P\u0101n K\u0113lah Jan\u016bbi",
+        "P\u0101\u1e49 K\u0113lah-ye Jun\u016bb\u012b",
+        "\u067e\u0627\u06bc \u06a9\u06d0\u0644\u0647 \u062c\u0646\u0648\u0628\u06cc",
+        "P\u0101n K\u0113lah Jon\u016bb\u012b",
+        "P\u0101\u1e49 K\u0113lah Jun\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473703
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b72cb720a8a67198b53685f753d3610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1276569141,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1276569141,
+    "wof:lastmodified":1537583764,
+    "wof:name":"Pan Kelah-ye Junubi",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.82540999999999,
+    32.02079000000001,
+    64.82540999999999,
+    32.02079000000001
+],
+  "geometry": {"coordinates":[64.82540999999999,32.02079000000001],"type":"Point"}
+}

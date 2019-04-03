@@ -1,0 +1,79 @@
+{
+  "id": 1343230615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.51611,30.99056,66.51611,30.99056",
+    "geom:latitude":30.99056,
+    "geom:longitude":66.51611,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Khalifah Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137274,
+    "gn:latitude":30.99056,
+    "gn:longitude":66.51611,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khal\u012bfah K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0438\u0444\u0430\u043a\u0430\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Khaima Thana",
+        "Khalifa Kalay",
+        "Khalifakalay",
+        "Khal\u012bfah K\u00ealay",
+        "Khal\u012bfeh Kalay",
+        "\u062e\u0644\u06cc\u0641\u0647 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6022d8b6d005468769983d91084c5afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1343230615,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343230615,
+    "wof:lastmodified":1537581407,
+    "wof:name":"Khalifah Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.51611,
+    30.99056,
+    66.51611,
+    30.99056
+],
+  "geometry": {"coordinates":[66.51611,30.99056],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343846027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.13166,34.24463,62.13166,34.24463",
+    "geom:latitude":34.24463,
+    "geom:longitude":62.13166,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Tanghar Chan",
+    "gn:country_code":"AF",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472142,
+    "gn:latitude":34.24463,
+    "gn:longitude":62.13166,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tangh\u0101r Chan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tangarchan",
+        "Tangh\u0101r \u010can",
+        "Tangh\u0101r Chan",
+        "\u062a\u0646\u063a\u0627\u0631 \u0686\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472142
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5e9a50f0b555f49e586844ae28a6a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1343846027,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343846027,
+    "wof:lastmodified":1537583670,
+    "wof:name":"Tanghar Chan",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.13166,
+    34.24463,
+    62.13166,
+    34.24463
+],
+  "geometry": {"coordinates":[62.13166,34.24463],"type":"Point"}
+}

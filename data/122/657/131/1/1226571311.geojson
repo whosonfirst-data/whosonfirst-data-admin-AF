@@ -1,0 +1,78 @@
+{
+  "id": 1226571311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52563,32.89433,66.52563,32.89433",
+    "geom:latitude":32.89433,
+    "geom:longitude":66.52563,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Shnah Kala",
+    "gn:country_code":"AF",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124957,
+    "gn:latitude":32.89433,
+    "gn:longitude":66.52563,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shnah Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u0647 \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Shnakala",
+        "Shneh Kal\u0101",
+        "\u0160na Kal\u0101",
+        "Shnah Kal\u0101",
+        "\u0634\u0646\u0647 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124957
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a5d126a2871d00c3b85c1591958c8251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1226571311,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1226571311,
+    "wof:lastmodified":1537580341,
+    "wof:name":"Shnah Kala",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52563,
+    32.89433,
+    66.52563,
+    32.89433
+],
+  "geometry": {"coordinates":[66.52563000000001,32.89433],"type":"Point"}
+}

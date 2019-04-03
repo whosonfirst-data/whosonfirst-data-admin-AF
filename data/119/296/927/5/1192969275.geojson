@@ -1,0 +1,75 @@
+{
+  "id": 1192969275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37349,32.47942,67.37349,32.47942",
+    "geom:latitude":32.47942,
+    "geom:longitude":67.37349,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Qarah Baghi",
+    "gn:country_code":"AF",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129625,
+    "gn:latitude":32.47942,
+    "gn:longitude":67.37349,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah B\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karabagi",
+        "Qa\u1e5fab\u0101gh\u012b",
+        "Qarah B\u0101gh\u012b",
+        "\u0642\u0631\u0647 \u0628\u0627\u063a\u06cc",
+        "Qareh B\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129625
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d464e010edb04c23a7890dbae2a5dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1192969275,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1192969275,
+    "wof:lastmodified":1537580747,
+    "wof:name":"Qarah Baghi",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37349,
+    32.47942,
+    67.37349,
+    32.47942
+],
+  "geometry": {"coordinates":[67.37349,32.47942],"type":"Point"}
+}

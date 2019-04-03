@@ -1,0 +1,80 @@
+{
+  "id": 1326559793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86257,32.88455,66.86257,32.88455",
+    "geom:latitude":32.88455,
+    "geom:longitude":66.86257,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2603",
+    "gn:asciiname":"Qaryah-ye Ajah",
+    "gn:country_code":"AF",
+    "gn:dem":3170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129507,
+    "gn:latitude":32.88455,
+    "gn:longitude":66.86257,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye \u0100jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0622\u062c\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Adzha"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fya-i-\u0100ja",
+        "Qaryah-ye \u0100jah",
+        "\u0642\u0631\u06cc\u0647 \u0622\u062c\u0647",
+        "Qaryeh-ye \u0100jah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129507
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"427f1b6c783895ea3f714784a8484823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562155,
+            "locality_id":1326559793,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1326559793,
+    "wof:lastmodified":1537580737,
+    "wof:name":"Qaryah-ye Ajah",
+    "wof:parent_id":1108562155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86256999999999,
+    32.88455,
+    66.86256999999999,
+    32.88455
+],
+  "geometry": {"coordinates":[66.86256999999999,32.88455],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243609005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.44011,36.80184,69.44011,36.80184",
+    "geom:latitude":36.80184,
+    "geom:longitude":69.44011,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1213.0",
+    "gn:asciiname":"Chaylah",
+    "gn:country_code":"AF",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145221,
+    "gn:latitude":36.80184,
+    "gn:longitude":69.44011,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u064a\u0644\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0439\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chayla",
+        "\u010cayla",
+        "Chayl\u0101",
+        "Chaylah",
+        "\u0686\u06cc\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145221
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"18ae00647d0d14be7a991d4a514a3a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561837,
+            "locality_id":1243609005,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1243609005,
+    "wof:lastmodified":1537582085,
+    "wof:name":"Chaylah",
+    "wof:parent_id":1108561837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.44011,
+    36.80184000000001,
+    69.44011,
+    36.80184000000001
+],
+  "geometry": {"coordinates":[69.44011,36.80184000000001],"type":"Point"}
+}

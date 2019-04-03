@@ -1,0 +1,77 @@
+{
+  "id": 1309696585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.56355,33.47331,64.56355,33.47331",
+    "geom:latitude":33.47331,
+    "geom:longitude":64.56355,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Pushkuran",
+    "gn:country_code":"AF",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130337,
+    "gn:latitude":33.47331,
+    "gn:longitude":64.56355,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pushkur\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0634\u0643\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Pu\u0161kor\u0101n",
+        "Pushkur\u0101n",
+        "\u067e\u0634\u06a9\u0631\u0627\u0646",
+        "P\u016bshkor\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130337
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d71088525ba82b6fa2be89b670c1bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1309696585,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1309696585,
+    "wof:lastmodified":1537580830,
+    "wof:name":"Pushkuran",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.56355,
+    33.47331,
+    64.56355,
+    33.47331
+],
+  "geometry": {"coordinates":[64.56355000000001,33.47331],"type":"Point"}
+}

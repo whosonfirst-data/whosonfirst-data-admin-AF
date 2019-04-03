@@ -1,0 +1,74 @@
+{
+  "id": 1344165645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.44222,35.03601,64.44222,35.03601",
+    "geom:latitude":35.03601,
+    "geom:longitude":64.44222,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Murad Beg",
+    "gn:country_code":"AF",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132793,
+    "gn:latitude":35.03601,
+    "gn:longitude":64.44222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mur\u0101d B\u0113g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mo\u1e5f\u0101\u1e0fb\u0113g",
+        "Mor\u0101dbeyg",
+        "Mur\u0101d B\u0113g",
+        "\u0645\u0631\u0627\u062f \u0628\u06d0\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132793
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"45f582e6a48ca310ee5a30b817fb5a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1344165645,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1344165645,
+    "wof:lastmodified":1537581037,
+    "wof:name":"Murad Beg",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.44221999999999,
+    35.03601,
+    64.44221999999999,
+    35.03601
+],
+  "geometry": {"coordinates":[64.44221999999999,35.03601],"type":"Point"}
+}

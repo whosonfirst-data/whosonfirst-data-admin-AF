@@ -1,0 +1,80 @@
+{
+  "id": 1209867357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25533,35.1024,69.25533,35.1024",
+    "geom:latitude":35.1024,
+    "geom:longitude":69.25533,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"302.0",
+    "gn:asciiname":"Qadir Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423526,
+    "gn:latitude":35.1024,
+    "gn:longitude":69.25533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101dir Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u062f\u0631 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kadirkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101\u1e0fe\u1e5fkh\u0113l",
+        "Q\u0101derkheyl",
+        "Q\u0101dir Kh\u0113l",
+        "\u0642\u0627\u062f\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        421194001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423526
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be3fb8551f9f1e0038badc1a880d09e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194001,
+            "locality_id":1209867357,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1209867357,
+    "wof:lastmodified":1537582580,
+    "wof:name":"Qadir Khel",
+    "wof:parent_id":421194001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25533,
+    35.1024,
+    69.25533,
+    35.1024
+],
+  "geometry": {"coordinates":[69.25533,35.1024],"type":"Point"}
+}

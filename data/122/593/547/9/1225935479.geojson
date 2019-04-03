@@ -1,0 +1,74 @@
+{
+  "id": 1225935479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.36814,35.92817,64.36814,35.92817",
+    "geom:latitude":35.92817,
+    "geom:longitude":64.36814,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1803.0",
+    "gn:asciiname":"Hotaki",
+    "gn:country_code":"AF",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424407,
+    "gn:latitude":35.92817,
+    "gn:longitude":64.36814,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"H\u014dtak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u014dtaki",
+        "H\u016btak\u012b",
+        "H\u014dtak\u012b",
+        "\u0647\u0648\u062a\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424407
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b727507cf964e6fc7673a75886f7958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561799,
+            "locality_id":1225935479,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1225935479,
+    "wof:lastmodified":1537582611,
+    "wof:name":"Hotaki",
+    "wof:parent_id":1108561799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.36814,
+    35.92817,
+    64.36814,
+    35.92817
+],
+  "geometry": {"coordinates":[64.36814,35.92817],"type":"Point"}
+}

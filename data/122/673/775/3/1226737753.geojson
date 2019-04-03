@@ -1,0 +1,76 @@
+{
+  "id": 1226737753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.07608,34.11162,63.07608,34.11162",
+    "geom:latitude":34.11162,
+    "geom:longitude":63.07608,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2004",
+    "gn:asciiname":"Khidaj",
+    "gn:country_code":"AF",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136771,
+    "gn:latitude":34.11162,
+    "gn:longitude":63.07608,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khid\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ked\u0101j",
+        "Khed\u0101j",
+        "Khid\u0101j",
+        "\u062e\u062f\u0627\u062c",
+        "Kh\u012bd\u0101j",
+        "\u062e\u06cc\u062f\u0627\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136771
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a90cf7fec6547c6fd1a1293ec240caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562359,
+            "locality_id":1226737753,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226737753,
+    "wof:lastmodified":1537581368,
+    "wof:name":"Khidaj",
+    "wof:parent_id":1108562359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.07608000000001,
+    34.11162,
+    63.07608000000001,
+    34.11162
+],
+  "geometry": {"coordinates":[63.07608000000001,34.11162],"type":"Point"}
+}

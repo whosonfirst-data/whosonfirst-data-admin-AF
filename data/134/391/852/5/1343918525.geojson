@@ -1,0 +1,79 @@
+{
+  "id": 1343918525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.19574,36.7201,67.19574,36.7201",
+    "geom:latitude":36.7201,
+    "geom:longitude":67.19574,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1602",
+    "gn:asciiname":"Qizilabad",
+    "gn:country_code":"AF",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129070,
+    "gn:latitude":36.7201,
+    "gn:longitude":67.19574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Kyzylabad",
+        "Qizil\u0101b\u0101d",
+        "Qezel\u0101b\u0101d",
+        "\u0642\u0632\u0644 \u0622\u0628\u0627\u062f",
+        "Qal\u2018ah-ye Qul Mo\u1e29ammad",
+        "\u0642\u0644\u0639\u0647 \u0642\u0644 \u0645\u062d\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        421187945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129070
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8da29077318042f9c805875aa6412241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187945,
+            "locality_id":1343918525,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1343918525,
+    "wof:lastmodified":1537580679,
+    "wof:name":"Qizilabad",
+    "wof:parent_id":421187945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.19574,
+    36.7201,
+    67.19574,
+    36.7201
+],
+  "geometry": {"coordinates":[67.19574,36.7201],"type":"Point"}
+}

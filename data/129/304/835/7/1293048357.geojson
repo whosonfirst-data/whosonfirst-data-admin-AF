@@ -1,0 +1,73 @@
+{
+  "id": 1293048357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09833,32.93132,67.09833,32.93132",
+    "geom:latitude":32.93132,
+    "geom:longitude":67.09833,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Kadalak",
+    "gn:country_code":"AF",
+    "gn:dem":2766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138903,
+    "gn:latitude":32.93132,
+    "gn:longitude":67.09833,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ka\u1e0f\u0101lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e0f\u0101lak",
+        "\u06a9\u0689\u0627\u0644\u06a9",
+        "Kad\u0101lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138903
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"42c4b7685491e7a0c95808136af01758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1293048357,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293048357,
+    "wof:lastmodified":1537581530,
+    "wof:name":"Kadalak",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09833,
+    32.93132,
+    67.09833,
+    32.93132
+],
+  "geometry": {"coordinates":[67.09833,32.93132],"type":"Point"}
+}

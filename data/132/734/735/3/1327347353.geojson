@@ -1,0 +1,73 @@
+{
+  "id": 1327347353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58255,37.9783,70.58255,37.9783",
+    "geom:latitude":37.9783,
+    "geom:longitude":70.58255,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Karniw",
+    "gn:country_code":"AF",
+    "gn:dem":2515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467277,
+    "gn:latitude":37.9783,
+    "gn:longitude":70.58255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karniw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06a9\u0631\u0646\u0648",
+        "Ka\u1e5fniw",
+        "Karniw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467277
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99228ba5b415e2c4cc51d591075df151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1327347353,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1327347353,
+    "wof:lastmodified":1537583462,
+    "wof:name":"Karniw",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58255,
+    37.9783,
+    70.58255,
+    37.9783
+],
+  "geometry": {"coordinates":[70.58255,37.9783],"type":"Point"}
+}

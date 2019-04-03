@@ -1,0 +1,70 @@
+{
+  "id": 1209150827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2433,34.92322,69.2433,34.92322",
+    "geom:latitude":34.92322,
+    "geom:longitude":69.2433,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Qal'ah-ye Gulay",
+    "gn:country_code":"AF",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349668,
+    "gn:latitude":34.92322,
+    "gn:longitude":69.2433,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Gulay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalagulay",
+        "Qal\u2018a Golay",
+        "Qal\u2018ah-ye Gola\u012b",
+        "Qal\u2018eh-ye Golay",
+        "Qal\u2018ah-ye Gulay",
+        "\u0642\u0644\u0639\u06c0 \u06af\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8758125a2910c5da1c0510f7a5a048a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209150827
+        }
+    ],
+    "wof:id":1209150827,
+    "wof:lastmodified":1537582465,
+    "wof:name":"Qal'ah-ye Gulay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2433,
+    34.92322,
+    69.2433,
+    34.92322
+],
+  "geometry": {"coordinates":[69.2433,34.92322],"type":"Point"}
+}

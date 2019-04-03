@@ -1,0 +1,72 @@
+{
+  "id": 1209265231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80673,32.10749,68.80673,32.10749",
+    "geom:latitude":32.10749,
+    "geom:longitude":68.80673,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905.0",
+    "gn:asciiname":"Lahur Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433708,
+    "gn:latitude":32.10749,
+    "gn:longitude":68.80673,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101hur Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0647\u0631 \u062e\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "L\u0101hu\u1e5f Khona",
+        "Lakhurkhuna",
+        "\u0644\u0627\u0647\u0631 \u062e\u0627\u0646\u0647",
+        "L\u0101hor Khonah",
+        "L\u0101hur Kh\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433708
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6bdb66f5827e6feced9bdaa20ab7ea89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209265231
+        }
+    ],
+    "wof:id":1209265231,
+    "wof:lastmodified":1537582692,
+    "wof:name":"Lahur Khanah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80673,
+    32.10749000000001,
+    68.80673,
+    32.10749000000001
+],
+  "geometry": {"coordinates":[68.80673,32.10749000000001],"type":"Point"}
+}

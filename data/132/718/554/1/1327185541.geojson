@@ -1,0 +1,77 @@
+{
+  "id": 1327185541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1686,35.29919,69.1686,35.29919",
+    "geom:latitude":35.29919,
+    "geom:longitude":69.1686,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Wiwa",
+    "gn:country_code":"AF",
+    "gn:dem":2361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423152,
+    "gn:latitude":35.29919,
+    "gn:longitude":69.1686,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wiw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0648\u0627"
+    ],
+    "name:und_x_variant":[
+        "Viva",
+        "W\u012bw\u0101",
+        "Wiw\u0101",
+        "\u0648\u0648\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423152
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0fd0e4401a97c3a9deacf23f2dbb37d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1327185541,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1327185541,
+    "wof:lastmodified":1537582547,
+    "wof:name":"Wiwa",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1686,
+    35.29919,
+    69.1686,
+    35.29919
+],
+  "geometry": {"coordinates":[69.1686,35.29919],"type":"Point"}
+}

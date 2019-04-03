@@ -1,0 +1,74 @@
+{
+  "id": 1293840717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32765,36.1481,70.32765,36.1481",
+    "geom:latitude":36.1481,
+    "geom:longitude":70.32765,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Deh-e Zayr",
+    "gn:country_code":"AF",
+    "gn:dem":2895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143494,
+    "gn:latitude":36.1481,
+    "gn:longitude":70.32765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Zayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehe Z\u0113r",
+        "Deh-e Z\u012br",
+        "Deh-e Zayr",
+        "\u062f\u0647 \u0632\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143494
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b2e676de61fbd427fe3eddfc0ba4b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1293840717,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293840717,
+    "wof:lastmodified":1537581923,
+    "wof:name":"Deh-e Zayr",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32765,
+    36.1481,
+    70.32765,
+    36.1481
+],
+  "geometry": {"coordinates":[70.32765000000001,36.1481],"type":"Point"}
+}

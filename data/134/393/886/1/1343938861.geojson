@@ -1,0 +1,73 @@
+{
+  "id": 1343938861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.27531,34.2995,62.27531,34.2995",
+    "geom:latitude":34.2995,
+    "geom:longitude":62.27531,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2002.0",
+    "gn:asciiname":"Chungar",
+    "gn:country_code":"AF",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472205,
+    "gn:latitude":34.2995,
+    "gn:longitude":62.27531,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u016bngar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u016bngar",
+        "Ch\u016bngar",
+        "\u0686\u0648\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472205
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b40a659ec0f946654b74bf763f5367f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562079,
+            "locality_id":1343938861,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343938861,
+    "wof:lastmodified":1537583677,
+    "wof:name":"Chungar",
+    "wof:parent_id":1108562079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.27531,
+    34.2995,
+    62.27531,
+    34.2995
+],
+  "geometry": {"coordinates":[62.27531,34.2995],"type":"Point"}
+}

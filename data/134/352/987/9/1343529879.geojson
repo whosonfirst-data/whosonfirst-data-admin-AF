@@ -1,0 +1,78 @@
+{
+  "id": 1343529879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.5437,31.63155,65.5437,31.63155",
+    "geom:latitude":31.63155,
+    "geom:longitude":65.5437,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Pitaway",
+    "gn:country_code":"AF",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407245,
+    "gn:latitude":31.63155,
+    "gn:longitude":65.5437,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pit\u0101way",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u062a\u0627\u0648\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Petaway",
+        "Petavay",
+        "Pit\u0101way",
+        "\u067e\u062a\u0627\u0648\u06cc",
+        "P\u012bt\u0101way"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407245
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf2094a91b698782388363f0c4e21746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561811,
+            "locality_id":1343529879,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343529879,
+    "wof:lastmodified":1537582512,
+    "wof:name":"Pitaway",
+    "wof:parent_id":1108561811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.5437,
+    31.63155,
+    65.5437,
+    31.63155
+],
+  "geometry": {"coordinates":[65.5437,31.63155],"type":"Point"}
+}

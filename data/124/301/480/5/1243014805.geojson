@@ -1,0 +1,80 @@
+{
+  "id": 1243014805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96525,36.67122,66.96525,36.67122",
+    "geom:latitude":36.67122,
+    "geom:longitude":66.96525,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1612.0",
+    "gn:asciiname":"Baba Kuhnah",
+    "gn:country_code":"AF",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147819,
+    "gn:latitude":36.67122,
+    "gn:longitude":66.96525,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101b\u0101 Kuhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627 \u0643\u0647\u0646\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0430\u043a\u0443\u0445\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ba Kunna",
+        "Babakukhna",
+        "B\u0101ba Kuhna",
+        "B\u0101b\u0101 Kuhnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147819
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc48f91919dfe2ead73df00774b6b5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561981,
+            "locality_id":1243014805,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243014805,
+    "wof:lastmodified":1537582298,
+    "wof:name":"Baba Kuhnah",
+    "wof:parent_id":1108561981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96525,
+    36.67122,
+    66.96525,
+    36.67122
+],
+  "geometry": {"coordinates":[66.96525,36.67122],"type":"Point"}
+}

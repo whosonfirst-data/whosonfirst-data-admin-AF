@@ -1,0 +1,75 @@
+{
+  "id": 1209771829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35723,31.19804,66.35723,31.19804",
+    "geom:latitude":31.19804,
+    "geom:longitude":66.35723,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Chughak",
+    "gn:country_code":"AF",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477163,
+    "gn:latitude":31.19804,
+    "gn:longitude":66.35723,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u016bghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chugak",
+        "\u010c\u016bghak",
+        "Ch\u016bghak",
+        "\u0686\u0648\u063a\u06a9",
+        "Chowghak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477163
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0a3441cdad927bf255f5fee2d0edd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1209771829,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209771829,
+    "wof:lastmodified":1537583873,
+    "wof:name":"Chughak",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35723,
+    31.19804,
+    66.35723,
+    31.19804
+],
+  "geometry": {"coordinates":[66.35723,31.19804],"type":"Point"}
+}

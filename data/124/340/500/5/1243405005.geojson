@@ -1,0 +1,77 @@
+{
+  "id": 1243405005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44855,31.81902,68.44855,31.81902",
+    "geom:latitude":31.81902,
+    "geom:longitude":68.44855,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2917",
+    "gn:asciiname":"De Sarwar Khan Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143189,
+    "gn:latitude":31.81902,
+    "gn:longitude":68.44855,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Sarwar Kh\u0101n K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u062f \u0633\u0631\u0648\u0631 \u062e\u0627\u0646 \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sarvarkhankalay",
+        "\u062f \u0633\u0631\u0648\u0631 \u062e\u0627\u0646 \u06a9\u0644\u06cc",
+        "De Sarwar Kh\u0101n Kalay",
+        "D\u00ea Sarwar Kh\u0101n K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143189
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3bf8a07a59f0acfada405351ad522b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562551,
+            "locality_id":1243405005,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1243405005,
+    "wof:lastmodified":1537581897,
+    "wof:name":"De Sarwar Khan Kelay",
+    "wof:parent_id":1108562551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44855,
+    31.81902,
+    68.44855,
+    31.81902
+],
+  "geometry": {"coordinates":[68.44855,31.81902],"type":"Point"}
+}

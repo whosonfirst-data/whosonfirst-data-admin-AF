@@ -1,0 +1,74 @@
+{
+  "id": 1276214709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.29017,35.26153,61.29017,35.26153",
+    "geom:latitude":35.26153,
+    "geom:longitude":61.29017,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Shorow",
+    "gn:country_code":"AF",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124838,
+    "gn:latitude":35.26153,
+    "gn:longitude":61.29017,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014drow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014d\u1e5faw",
+        "Sh\u016br \u0100b",
+        "Sh\u014drow",
+        "\u0634\u0648\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"627f2311d4f420e13270ac6b9ba72dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1276214709,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276214709,
+    "wof:lastmodified":1537580331,
+    "wof:name":"Shorow",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.29017,
+    35.26153,
+    61.29017,
+    35.26153
+],
+  "geometry": {"coordinates":[61.29017,35.26153],"type":"Point"}
+}

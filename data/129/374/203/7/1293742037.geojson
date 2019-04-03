@@ -1,0 +1,75 @@
+{
+  "id": 1293742037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92943,31.5645,66.92943,31.5645",
+    "geom:latitude":31.5645,
+    "geom:longitude":66.92943,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Khidir Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136768,
+    "gn:latitude":31.5645,
+    "gn:longitude":66.92943,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khidir Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khidirkheyl\u2019",
+        "Khe\u1e0fe\u1e5fkh\u0113l",
+        "Khidir Kh\u0113l",
+        "\u062e\u062f\u0631 \u062e\u06d0\u0644",
+        "Kheder Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136768
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78d4c10081a7521a8e59ddeacddf5b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1293742037,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293742037,
+    "wof:lastmodified":1537581368,
+    "wof:name":"Khidir Khel",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92943000000001,
+    31.5645,
+    66.92943000000001,
+    31.5645
+],
+  "geometry": {"coordinates":[66.92943000000001,31.5645],"type":"Point"}
+}

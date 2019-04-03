@@ -1,0 +1,72 @@
+{
+  "id": 1193150657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63516,37.15393,70.63516,37.15393",
+    "geom:latitude":37.15393,
+    "geom:longitude":70.63516,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1101.0",
+    "gn:asciiname":"Gazan",
+    "gn:country_code":"AF",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468083,
+    "gn:latitude":37.15393,
+    "gn:longitude":70.63516,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gaz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaz\u0101n",
+        "\u06af\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421191409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468083
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d4159edbddfbaa0063fb0fde6832940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421191409,
+            "locality_id":1193150657,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1193150657,
+    "wof:lastmodified":1537583530,
+    "wof:name":"Gazan",
+    "wof:parent_id":421191409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63516,
+    37.15393,
+    70.63516,
+    37.15393
+],
+  "geometry": {"coordinates":[70.63516,37.15393],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226741339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.58087,35.33672,64.58087,35.33672",
+    "geom:latitude":35.33672,
+    "geom:longitude":64.58087,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Bandar-e 'Abdul Baqi",
+    "gn:country_code":"AF",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147215,
+    "gn:latitude":35.33672,
+    "gn:longitude":64.58087,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bandar-e \u2018Abdul B\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban\u1e0fa\u1e5f-i-\u2018Abdulb\u0101q\u012b (1)",
+        "Ban\u1e0fa\u1e5f-i-\u2018Abdulb\u0101q\u012b",
+        "Bandar-e \u2018Abd ol B\u0101q\u012b",
+        "Bandar-e \u2018Abdul B\u0101q\u012b",
+        "\u0628\u0646\u062f\u0631 \u0639\u0628\u062f\u0644 \u0628\u0627\u0642\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147215
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be30954e1cfcad74d307304715880d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1226741339,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1226741339,
+    "wof:lastmodified":1537582248,
+    "wof:name":"Bandar-e 'Abdul Baqi",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.58086999999999,
+    35.33672,
+    64.58086999999999,
+    35.33672
+],
+  "geometry": {"coordinates":[64.58086999999999,35.33672],"type":"Point"}
+}

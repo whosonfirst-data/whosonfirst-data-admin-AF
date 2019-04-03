@@ -1,0 +1,76 @@
+{
+  "id": 1360275061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.1713,33.4577,65.1713,33.4577",
+    "geom:latitude":33.4577,
+    "geom:longitude":65.1713,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Zuzi",
+    "gn:country_code":"AF",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120504,
+    "gn:latitude":33.4577,
+    "gn:longitude":65.1713,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "Z\u016bz\u012b",
+        "Zuzi",
+        "\u0632\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120504
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d496289ff41f60e7ad8c2b0a7b30ac4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1360275061,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1360275061,
+    "wof:lastmodified":1537579950,
+    "wof:name":"Zuzi",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.1713,
+    33.4577,
+    65.1713,
+    33.4577
+],
+  "geometry": {"coordinates":[65.1713,33.4577],"type":"Point"}
+}

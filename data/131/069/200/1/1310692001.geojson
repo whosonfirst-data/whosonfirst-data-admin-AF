@@ -1,0 +1,78 @@
+{
+  "id": 1310692001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.02557,33.3741,68.02557,33.3741",
+    "geom:latitude":33.3741,
+    "geom:longitude":68.02557,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Khar Toghay",
+    "gn:country_code":"AF",
+    "gn:dem":2610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136907,
+    "gn:latitude":33.3741,
+    "gn:longitude":68.02557,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khar T\u014dghay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u062a\u0648\u063a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khartogay",
+        "Kha\u1e5ft\u014dghay",
+        "Khar T\u014dghay",
+        "Khartowghay",
+        "\u062e\u0631 \u062a\u0648\u063a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136907
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bc6c28fd3978c34066782dd5faade96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1310692001,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310692001,
+    "wof:lastmodified":1537581378,
+    "wof:name":"Khar Toghay",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.02557,
+    33.3741,
+    68.02557,
+    33.3741
+],
+  "geometry": {"coordinates":[68.02557,33.3741],"type":"Point"}
+}

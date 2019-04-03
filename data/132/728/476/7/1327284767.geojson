@@ -1,0 +1,75 @@
+{
+  "id": 1327284767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6125,32.92002,68.6125,32.92002",
+    "geom:latitude":32.92002,
+    "geom:longitude":68.6125,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2918",
+    "gn:asciiname":"Gorayan",
+    "gn:country_code":"AF",
+    "gn:dem":2121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140524,
+    "gn:latitude":32.92002,
+    "gn:longitude":68.6125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gorayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u014dray\u0101n",
+        "Gorayan",
+        "\u06af\u0648\u0693\u06cc\u0627\u0646",
+        "Guray\u0101n",
+        "G\u014d\u1e5fay\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140524
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11197858af8db375a775b6c43bdda946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562585,
+            "locality_id":1327284767,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327284767,
+    "wof:lastmodified":1537581670,
+    "wof:name":"Gorayan",
+    "wof:parent_id":1108562585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6125,
+    32.92002,
+    68.6125,
+    32.92002
+],
+  "geometry": {"coordinates":[68.6125,32.92002],"type":"Point"}
+}

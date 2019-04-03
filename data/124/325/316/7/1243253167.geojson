@@ -1,0 +1,74 @@
+{
+  "id": 1243253167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.69168,34.41081,64.69168,34.41081",
+    "geom:latitude":34.41081,
+    "geom:longitude":64.69168,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Ruzqan",
+    "gn:country_code":"AF",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460073,
+    "gn:latitude":34.41081,
+    "gn:longitude":64.69168,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ruzq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruzkan",
+        "R\u016bzq\u0101n",
+        "Ruzq\u0101n",
+        "\u0631\u0632\u0642\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460073
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7b81123adc461df2ee0911bf732d07e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1243253167,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243253167,
+    "wof:lastmodified":1537583301,
+    "wof:name":"Ruzqan",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.69168,
+    34.41081,
+    64.69168,
+    34.41081
+],
+  "geometry": {"coordinates":[64.69168000000001,34.41081],"type":"Point"}
+}

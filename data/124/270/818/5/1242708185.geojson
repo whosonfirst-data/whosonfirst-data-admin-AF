@@ -1,0 +1,73 @@
+{
+  "id": 1242708185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77111,33.65236,66.77111,33.65236",
+    "geom:latitude":33.65236,
+    "geom:longitude":66.77111,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Kargataq",
+    "gn:country_code":"AF",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437626,
+    "gn:latitude":33.65236,
+    "gn:longitude":66.77111,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karga\u0163\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karga\u0163\u0101q",
+        "\u06a9\u0631\u06af\u0637\u0627\u0642",
+        "Ka\u1e5fgat\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437626
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6d80946b42f1f2e3daad84c7770368f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1242708185,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1242708185,
+    "wof:lastmodified":1537582849,
+    "wof:name":"Kargataq",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77111,
+    33.65235999999999,
+    66.77111,
+    33.65235999999999
+],
+  "geometry": {"coordinates":[66.77110999999999,33.65235999999999],"type":"Point"}
+}

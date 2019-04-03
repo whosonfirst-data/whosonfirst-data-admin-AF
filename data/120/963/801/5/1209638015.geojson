@@ -1,0 +1,67 @@
+{
+  "id": 1209638015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.80574,34.74041,67.80574,34.74041",
+    "geom:latitude":34.74041,
+    "geom:longitude":67.80574,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Rashak",
+    "gn:country_code":"AF",
+    "gn:dem":3039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128511,
+    "gn:latitude":34.74041,
+    "gn:longitude":67.80574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rashak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u0161ak",
+        "Rashak",
+        "\u0631\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128511
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f0da8defaf95434d92664cd21820c392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209638015
+        }
+    ],
+    "wof:id":1209638015,
+    "wof:lastmodified":1537580631,
+    "wof:name":"Rashak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.80574,
+    34.74041,
+    67.80574,
+    34.74041
+],
+  "geometry": {"coordinates":[67.80574,34.74041],"type":"Point"}
+}

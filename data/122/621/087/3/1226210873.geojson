@@ -1,0 +1,76 @@
+{
+  "id": 1226210873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.07759,32.46172,66.07759,32.46172",
+    "geom:latitude":32.46172,
+    "geom:longitude":66.07759,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Sabzil Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128111,
+    "gn:latitude":32.46172,
+    "gn:longitude":66.07759,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sabzil K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sabzil\u2019kalay"
+    ],
+    "name:und_x_variant":[
+        "Sabzil K\u00ealay",
+        "\u0633\u0628\u0632\u0644 \u06a9\u0644\u06cc",
+        "Sabzel Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128111
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"954f7b246f065ee2ddb768b5478b0ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1226210873,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226210873,
+    "wof:lastmodified":1537580604,
+    "wof:name":"Sabzil Kelay",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.07759,
+    32.46172,
+    66.07759,
+    32.46172
+],
+  "geometry": {"coordinates":[66.07759,32.46172],"type":"Point"}
+}

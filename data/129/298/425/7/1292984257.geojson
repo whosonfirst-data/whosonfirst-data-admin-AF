@@ -1,0 +1,78 @@
+{
+  "id": 1292984257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.71157,35.08082,69.71157,35.08082",
+    "geom:latitude":35.08082,
+    "geom:longitude":69.71157,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Qalachah",
+    "gn:country_code":"AF",
+    "gn:dem":2625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429600,
+    "gn:latitude":35.08082,
+    "gn:longitude":69.71157,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kalacha",
+        "Qal\u0101\u010da",
+        "Qal\u0101cheh",
+        "Qal\u0101chah",
+        "\u0642\u0644\u0627\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429600
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11cfd00108a3d2d21aac9604ec59f558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1292984257,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1292984257,
+    "wof:lastmodified":1537582682,
+    "wof:name":"Qalachah",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.71157,
+    35.08082,
+    69.71157,
+    35.08082
+],
+  "geometry": {"coordinates":[69.71156999999999,35.08082],"type":"Point"}
+}

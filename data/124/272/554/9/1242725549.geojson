@@ -1,0 +1,78 @@
+{
+  "id": 1242725549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.36441,33.78625,68.36441,33.78625",
+    "geom:latitude":33.78625,
+    "geom:longitude":68.36441,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409.0",
+    "gn:asciiname":"Ster Chopan",
+    "gn:country_code":"AF",
+    "gn:dem":2442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1447421,
+    "gn:latitude":33.78625,
+    "gn:longitude":68.36441,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"St\u00ear Ch\u014dp\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631 \u0686\u0648\u067e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Star \u010cop\u0101n",
+        "Star-Chopan",
+        "St\u00ear Ch\u014dp\u0101n",
+        "Star Ch\u016bp\u0101n",
+        "\u0633\u062a\u0631 \u0686\u0648\u067e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1447421
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17d2efac0d197d2ca9ea02e331e42148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1242725549,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242725549,
+    "wof:lastmodified":1537582972,
+    "wof:name":"Ster Chopan",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.36440999999999,
+    33.78625,
+    68.36440999999999,
+    33.78625
+],
+  "geometry": {"coordinates":[68.36440999999999,33.78625],"type":"Point"}
+}

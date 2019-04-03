@@ -1,0 +1,76 @@
+{
+  "id": 1243420507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61752,34.71186,70.61752,34.71186",
+    "geom:latitude":34.71186,
+    "geom:longitude":70.61752,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"820.0",
+    "gn:asciiname":"Sargalik",
+    "gn:country_code":"AF",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473999,
+    "gn:latitude":34.71186,
+    "gn:longitude":70.61752,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sargalik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631 \u06af\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "Sar Galek",
+        "Sargalik",
+        "\u0633\u0631\u06af\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473999
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dfd5e3b9efb384edf65946d7a75ff04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561931,
+            "locality_id":1243420507,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243420507,
+    "wof:lastmodified":1537583776,
+    "wof:name":"Sargalik",
+    "wof:parent_id":1108561931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61752,
+    34.71185999999999,
+    70.61752,
+    34.71185999999999
+],
+  "geometry": {"coordinates":[70.61752,34.71185999999999],"type":"Point"}
+}

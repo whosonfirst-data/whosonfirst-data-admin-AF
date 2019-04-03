@@ -1,0 +1,75 @@
+{
+  "id": 1344171059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82924,38.28541,70.82924,38.28541",
+    "geom:latitude":38.28541,
+    "geom:longitude":70.82924,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110",
+    "gn:asciiname":"Zer-e Pul",
+    "gn:country_code":"AF",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120580,
+    "gn:latitude":38.28541,
+    "gn:longitude":70.82924,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u0113r-e Pul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0113\u1e5f-i-Pul",
+        "\u0632\u06d0\u0631 \u067e\u0644",
+        "Z\u012br-e Pol-e J\u016by",
+        "Z\u0113r-e Pul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120580,
+        "wk:page":"Zir-e_Pol-e_Juy"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ee59e2f544189fe12e410bb94f918b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1344171059,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1344171059,
+    "wof:lastmodified":1537579954,
+    "wof:name":"Zer-e Pul",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82924,
+    38.28541,
+    70.82924,
+    38.28541
+],
+  "geometry": {"coordinates":[70.82924,38.28541],"type":"Point"}
+}

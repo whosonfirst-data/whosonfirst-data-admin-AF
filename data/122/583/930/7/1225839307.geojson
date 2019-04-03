@@ -1,0 +1,72 @@
+{
+  "id": 1225839307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.77296,35.39684,64.77296,35.39684",
+    "geom:latitude":35.39684,
+    "geom:longitude":64.77296,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1805.0",
+    "gn:asciiname":"Lash",
+    "gn:country_code":"AF",
+    "gn:dem":1977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424694,
+    "gn:latitude":35.39684,
+    "gn:longitude":64.77296,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101sh",
+        "\u0644\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424694
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c9ef15e41f706b8a777413e9f84604e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1225839307,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1225839307,
+    "wof:lastmodified":1537582612,
+    "wof:name":"Lash",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.77296,
+    35.39684000000001,
+    64.77296,
+    35.39684000000001
+],
+  "geometry": {"coordinates":[64.77296,35.39684000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277067343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72484,32.70225,67.72484,32.70225",
+    "geom:latitude":32.70225,
+    "geom:longitude":67.72484,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"609.0",
+    "gn:asciiname":"Miradzhan",
+    "gn:country_code":"AF",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435764,
+    "gn:latitude":32.70225,
+    "gn:longitude":67.72484,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Miradzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012br\u0101j\u0101n",
+        "\u0645\u06cc\u0631\u0627\u062c\u0627\u0646",
+        "Mer\u0101j\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435764
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98ecbbdc5b6299248e64a4e54f04b3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1277067343,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1277067343,
+    "wof:lastmodified":1537582784,
+    "wof:name":"Miradzhan",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72484,
+    32.70225,
+    67.72484,
+    32.70225
+],
+  "geometry": {"coordinates":[67.72484,32.70225],"type":"Point"}
+}

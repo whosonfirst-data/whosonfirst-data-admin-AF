@@ -1,0 +1,91 @@
+{
+  "id": 1108562095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002965,
+    "geom:area_square_m":30246953.283952,
+    "geom:bbox":"70.4011872265,34.3795765267,70.4892087276,34.4468640063",
+    "geom:latitude":34.417297,
+    "geom:longitude":70.448799,
+    "iso:country":"AF",
+    "lbl:latitude":34.420523,
+    "lbl:longitude":70.449462,
+    "meso:admin1":"Nangarhar",
+    "meso:diss_me":"JalalabadNangarhar",
+    "meso:gadm_admin":"Jalal abad",
+    "meso:gadm_hasc2":"AF.NG.JA",
+    "meso:gaul_admin":"Jalalabad",
+    "meso:local_id":"801",
+    "meso:mps_x":70.449462,
+    "meso:mps_y":34.420523,
+    "meso:name_en":"Jalalabad",
+    "meso:source":"AOTM",
+    "mps:latitude":34.420523,
+    "mps:longitude":70.449462,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jalal Abad"
+    ],
+    "name:eng_x_variant":[
+        "Jalalabad",
+        "Jalal abad"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2002-01-01",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2002-01-01",
+    "statoids:capital":"Jalal Abad",
+    "statoids:country":"AF",
+    "statoids:hasc":"AF.NG",
+    "statoids:name":"Jalal Abad",
+    "statoids:population":"177502",
+    "statoids:statoid":"AF.NG.JA",
+    "statoids:timezone":"+4:30",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"AF.NG.JA"
+    },
+    "wof:country":"AF",
+    "wof:created":1474050043,
+    "wof:geomhash":"e136b7cec6b808aa7f10cf337a38482e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562095,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1108562095,
+    "wof:lastmodified":1536615179,
+    "wof:name":"Jalalabad",
+    "wof:parent_id":85667591,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":177502,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:shortcode":"JA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4011872264756,
+    34.37957652670366,
+    70.48920872760428,
+    34.44686400630025
+],
+  "geometry": {"coordinates":[[[70.402256499869,34.42083863874166],[70.4167800711643,34.42146516725091],[70.42213991916522,34.43437505624881],[70.42722931491163,34.4370477914344],[70.42816338137123,34.43983292111735],[70.43010652591617,34.44197543432182],[70.43172250111847,34.44437644662579],[70.44613616720561,34.44686400630025],[70.45553915574564,34.44349331170551],[70.4569507064718,34.44065460850951],[70.45850628142573,34.43970496470727],[70.46129465567702,34.43713890640512],[70.46881259568974,34.43813488583035],[70.47926138238813,34.43108839446401],[70.48508797301524,34.43276539303512],[70.48920872760428,34.42304984642779],[70.4875491323744,34.41719624319219],[70.47798395970995,34.41364193661813],[70.47781669455441,34.41326167635425],[70.47500375303063,34.41164849480814],[70.46624169292903,34.39879594093272],[70.47082770973489,34.39434840612496],[70.47057790633482,34.38459024146175],[70.46813786955684,34.3803616288747],[70.46579016549067,34.37957652670366],[70.45467546737609,34.38410146713577],[70.45347809952888,34.38676918134855],[70.44580694072721,34.38792155767081],[70.44102083823662,34.39437117881553],[70.44336278866409,34.40122216051918],[70.42794051069856,34.40860244011186],[70.42607413638899,34.40793393805796],[70.42094735144897,34.40781422715384],[70.41955263580051,34.40653703388149],[70.40293533248075,34.4101311257069],[70.40193965081889,34.41158085579387],[70.4011872264756,34.41365912148157],[70.402256499869,34.42083863874166]]],"type":"Polygon"}
+}

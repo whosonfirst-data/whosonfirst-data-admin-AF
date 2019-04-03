@@ -1,0 +1,72 @@
+{
+  "id": 1225898239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79879,34.62594,70.79879,34.62594",
+    "geom:latitude":34.62594,
+    "geom:longitude":70.79879,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Patan",
+    "gn:country_code":"AF",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7571003,
+    "gn:latitude":34.62594,
+    "gn:longitude":70.79879,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pata\u1e49",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pata\u1e49",
+        "\u067e\u062a\u06bc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7571003
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8597287fe2a21cd0f6cf8631838a61ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1225898239,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1225898239,
+    "wof:lastmodified":1537583935,
+    "wof:name":"Patan",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79879,
+    34.62594,
+    70.79879,
+    34.62594
+],
+  "geometry": {"coordinates":[70.79879,34.62594],"type":"Point"}
+}

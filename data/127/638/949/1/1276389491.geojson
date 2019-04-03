@@ -1,0 +1,73 @@
+{
+  "id": 1276389491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06654,32.81785,67.06654,32.81785",
+    "geom:latitude":32.81785,
+    "geom:longitude":67.06654,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Naray Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443309,
+    "gn:latitude":32.81785,
+    "gn:longitude":67.06654,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naray K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naray K\u00ealay",
+        "\u0646\u0631\u06cc \u06a9\u0644\u06cc",
+        "Naray Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443309
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"97e34c095f8a27b9e145145a507d5a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1276389491,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276389491,
+    "wof:lastmodified":1537582950,
+    "wof:name":"Naray Kelay",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06654,
+    32.81785,
+    67.06654,
+    32.81785
+],
+  "geometry": {"coordinates":[67.06654,32.81785],"type":"Point"}
+}

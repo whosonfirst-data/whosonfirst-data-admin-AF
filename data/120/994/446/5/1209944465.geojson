@@ -1,0 +1,77 @@
+{
+  "id": 1209944465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.95886,32.64933,65.95886,32.64933",
+    "geom:latitude":32.64933,
+    "geom:longitude":65.95886,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Sar Regin",
+    "gn:country_code":"AF",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449880,
+    "gn:latitude":32.64933,
+    "gn:longitude":65.95886,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar \u1e5e\u0113g\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0631\u06cc\u06af\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sarregin",
+        "Sar \u1e5e\u0113g\u012bn",
+        "\u0633\u0631 \u0693\u06d0\u06af\u06cc\u0646",
+        "Sar R\u0113g\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"32705089561475b34656cbe069535d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1209944465,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1209944465,
+    "wof:lastmodified":1537583027,
+    "wof:name":"Sar Regin",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.95886,
+    32.64933,
+    65.95886,
+    32.64933
+],
+  "geometry": {"coordinates":[65.95886,32.64933],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225934553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29959,33.52543,67.29959,33.52543",
+    "geom:latitude":33.52543,
+    "geom:longitude":67.29959,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"605.0",
+    "gn:asciiname":"Hamzah",
+    "gn:country_code":"AF",
+    "gn:dem":2982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1442927,
+    "gn:latitude":33.52543,
+    "gn:longitude":67.29959,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28amzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0331amza",
+        "\u1e28amzeh",
+        "\u1e28amzah",
+        "\u062d\u0645\u0632\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1442927
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cba6cc19e90492ca703a19dbbf1a03a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561785,
+            "locality_id":1225934553,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225934553,
+    "wof:lastmodified":1537582941,
+    "wof:name":"Hamzah",
+    "wof:parent_id":1108561785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29959000000001,
+    33.52543,
+    67.29959000000001,
+    33.52543
+],
+  "geometry": {"coordinates":[67.29959000000001,33.52543],"type":"Point"}
+}

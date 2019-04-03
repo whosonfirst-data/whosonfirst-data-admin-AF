@@ -1,0 +1,78 @@
+{
+  "id": 1309702911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.14071,33.46964,68.14071,33.46964",
+    "geom:latitude":33.46964,
+    "geom:longitude":68.14071,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"618",
+    "gn:asciiname":"Qol-e Shadan",
+    "gn:country_code":"AF",
+    "gn:dem":2583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128840,
+    "gn:latitude":33.46964,
+    "gn:longitude":68.14071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl-e Sh\u0101d\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0644\u0654\u0654 \u0634\u0627\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kuli-Shadan",
+        "Qole \u0160\u0101d\u0101n",
+        "Q\u014dl-e Sh\u0101d\u0101n",
+        "Qowl-e Sh\u0101d\u0101n",
+        "\u0642\u0648\u0644 \u0634\u0627\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6eaead5182b93c7b6279f1d77b22309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562559,
+            "locality_id":1309702911,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309702911,
+    "wof:lastmodified":1537580657,
+    "wof:name":"Qol-e Shadan",
+    "wof:parent_id":1108562559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.14071,
+    33.46964000000001,
+    68.14071,
+    33.46964000000001
+],
+  "geometry": {"coordinates":[68.14071,33.46964000000001],"type":"Point"}
+}

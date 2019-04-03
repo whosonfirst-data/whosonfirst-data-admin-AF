@@ -1,0 +1,78 @@
+{
+  "id": 1260125147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78124,34.60745,70.78124,34.60745",
+    "geom:latitude":34.60745,
+    "geom:longitude":70.78124,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1013.0",
+    "gn:asciiname":"Kuzah Belah",
+    "gn:country_code":"AF",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474126,
+    "gn:latitude":34.60745,
+    "gn:longitude":70.78124,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bzah B\u0113lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0632\u0647 \u0628\u064a\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u016bza B\u0113la",
+        "Kuza-Bela",
+        "K\u016bzeh B\u012bleh",
+        "K\u016bzah B\u0113lah",
+        "\u06a9\u0648\u0632\u0647 \u0628\u06d0\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474126
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1875ff9641121a73ba0f353fbd308db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562333,
+            "locality_id":1260125147,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1260125147,
+    "wof:lastmodified":1537583783,
+    "wof:name":"Kuzah Belah",
+    "wof:parent_id":1108562333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78124,
+    34.60745,
+    70.78124,
+    34.60745
+],
+  "geometry": {"coordinates":[70.78124,34.60745],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1277020995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.76607,32.46975,66.76607,32.46975",
+    "geom:latitude":32.46975,
+    "geom:longitude":66.76607,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Kotanah",
+    "gn:country_code":"AF",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135608,
+    "gn:latitude":32.46975,
+    "gn:longitude":66.76607,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014d\u1e6fanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u062a\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u014dtana",
+        "K\u014d\u1e6fanah",
+        "\u06a9\u0648\u067c\u0646\u0647",
+        "Kowtanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135608
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca4a19414d981af60d05618d58c42e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1277020995,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1277020995,
+    "wof:lastmodified":1537581270,
+    "wof:name":"Kotanah",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.76607,
+    32.46975,
+    66.76607,
+    32.46975
+],
+  "geometry": {"coordinates":[66.76607,32.46975],"type":"Point"}
+}

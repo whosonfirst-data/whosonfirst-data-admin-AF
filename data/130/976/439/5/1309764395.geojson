@@ -1,0 +1,74 @@
+{
+  "id": 1309764395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.4574,31.3898,67.4574,31.3898",
+    "geom:latitude":31.3898,
+    "geom:longitude":67.4574,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Korum",
+    "gn:country_code":"AF",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135632,
+    "gn:latitude":31.3898,
+    "gn:longitude":67.4574,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ko\u1e5fum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurum",
+        "Ko\u1e5fum",
+        "Korum",
+        "\u06a9\u0693\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135632
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d8da313cf49b23d7d705b1b26791f746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1309764395,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1309764395,
+    "wof:lastmodified":1537581272,
+    "wof:name":"Korum",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.4574,
+    31.3898,
+    67.4574,
+    31.3898
+],
+  "geometry": {"coordinates":[67.45740000000001,31.3898],"type":"Point"}
+}

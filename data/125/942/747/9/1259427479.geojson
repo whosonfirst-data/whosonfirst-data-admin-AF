@@ -1,0 +1,75 @@
+{
+  "id": 1259427479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95,35.02,69.95,35.02",
+    "geom:latitude":35.02,
+    "geom:longitude":69.95,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"904",
+    "gn:asciiname":"Mangal'pur",
+    "gn:country_code":"AF",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133966,
+    "gn:latitude":35.02,
+    "gn:longitude":69.95,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mangal\u2019pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u043b\u044c\u043f\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Mangal\u2019pur",
+        "Mangalp\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133966
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f9ed212a54d2d06ab4c7015db69e5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561957,
+            "locality_id":1259427479,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259427479,
+    "wof:lastmodified":1537581135,
+    "wof:name":"Mangal'pur",
+    "wof:parent_id":1108561957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95,
+    35.02,
+    69.95,
+    35.02
+],
+  "geometry": {"coordinates":[69.95,35.02],"type":"Point"}
+}

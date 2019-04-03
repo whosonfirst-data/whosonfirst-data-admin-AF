@@ -1,0 +1,77 @@
+{
+  "id": 1326868567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.1607,35.14188,69.1607,35.14188",
+    "geom:latitude":35.14188,
+    "geom:longitude":69.1607,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303",
+    "gn:asciiname":"Toghak",
+    "gn:country_code":"AF",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122389,
+    "gn:latitude":35.14188,
+    "gn:longitude":69.1607,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014dghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u063a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Togak",
+        "Toghak",
+        "T\u014dghak",
+        "\u062a\u0648\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122389
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f750061bb978154df0d48148724fdbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1326868567,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1326868567,
+    "wof:lastmodified":1537580111,
+    "wof:name":"Toghak",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.1607,
+    35.14188,
+    69.1607,
+    35.14188
+],
+  "geometry": {"coordinates":[69.16070000000001,35.14188],"type":"Point"}
+}

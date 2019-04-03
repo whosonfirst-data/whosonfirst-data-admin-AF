@@ -1,0 +1,74 @@
+{
+  "id": 1193046527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11259,36.83277,66.11259,36.83277",
+    "geom:latitude":36.83277,
+    "geom:longitude":66.11259,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1710.0",
+    "gn:asciiname":"Alik Rubat",
+    "gn:country_code":"AF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1422285,
+    "gn:latitude":36.83277,
+    "gn:longitude":66.11259,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Alik Rub\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alik Rab\u0101\u0163",
+        "\u0627\u0644\u06a9 \u0631\u0628\u0627\u0637",
+        "Alek Rob\u0101\u0163",
+        "Alik Rub\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1422285
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c0a4aca2c85503f3be879c5af5839cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562149,
+            "locality_id":1193046527,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1193046527,
+    "wof:lastmodified":1537582541,
+    "wof:name":"Alik Rubat",
+    "wof:parent_id":1108562149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11259,
+    36.83277,
+    66.11259,
+    36.83277
+],
+  "geometry": {"coordinates":[66.11259,36.83277],"type":"Point"}
+}

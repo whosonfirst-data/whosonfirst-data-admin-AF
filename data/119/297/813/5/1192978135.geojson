@@ -1,0 +1,73 @@
+{
+  "id": 1192978135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00542,36.29645,68.00542,36.29645",
+    "geom:latitude":36.29645,
+    "geom:longitude":68.00542,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1501.0",
+    "gn:asciiname":"Larghan",
+    "gn:country_code":"AF",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466409,
+    "gn:latitude":36.29645,
+    "gn:longitude":68.00542,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Largh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Largh\u0101n",
+        "\u0644\u0631\u063a\u0627\u0646",
+        "Largh\u0101n (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466409
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"91b00ad54469733db799830c995b073e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561827,
+            "locality_id":1192978135,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1192978135,
+    "wof:lastmodified":1537583424,
+    "wof:name":"Larghan",
+    "wof:parent_id":1108561827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00542,
+    36.29645,
+    68.00542,
+    36.29645
+],
+  "geometry": {"coordinates":[68.00542,36.29645],"type":"Point"}
+}

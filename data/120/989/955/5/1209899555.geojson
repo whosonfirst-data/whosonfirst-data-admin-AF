@@ -1,0 +1,76 @@
+{
+  "id": 1209899555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.85172,34.89945,69.85172,34.89945",
+    "geom:latitude":34.89945,
+    "geom:longitude":69.85172,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"206",
+    "gn:asciiname":"Sabarjal",
+    "gn:country_code":"AF",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128165,
+    "gn:latitude":34.89945,
+    "gn:longitude":69.85172,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sabarjal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Sabardzhal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Saba\u1e5fjal",
+        "Sabarjal",
+        "\u0633\u0628\u0631\u062c\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108561787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128165
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b725a10e312c43bf9a9cc068f5b2c89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561787,
+            "locality_id":1209899555,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1209899555,
+    "wof:lastmodified":1537580606,
+    "wof:name":"Sabarjal",
+    "wof:parent_id":1108561787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.85172,
+    34.89945,
+    69.85172,
+    34.89945
+],
+  "geometry": {"coordinates":[69.85172,34.89945],"type":"Point"}
+}

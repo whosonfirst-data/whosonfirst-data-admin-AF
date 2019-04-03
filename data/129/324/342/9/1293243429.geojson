@@ -1,0 +1,74 @@
+{
+  "id": 1293243429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75695,31.67335,67.75695,31.67335",
+    "geom:latitude":31.67335,
+    "geom:longitude":67.75695,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509.0",
+    "gn:asciiname":"Spinkey",
+    "gn:country_code":"AF",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477955,
+    "gn:latitude":31.67335,
+    "gn:longitude":67.75695,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bnk\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sp\u012bnka\u012b",
+        "Sp\u012bnkay",
+        "Sp\u012bnk\u00eay",
+        "\u0633\u067e\u06cc\u0646\u06a9\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f5046ae6a5d8f02e5d91465e90b8c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1293243429,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293243429,
+    "wof:lastmodified":1537583885,
+    "wof:name":"Spinkey",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75695,
+    31.67335,
+    67.75695,
+    31.67335
+],
+  "geometry": {"coordinates":[67.75695,31.67335],"type":"Point"}
+}

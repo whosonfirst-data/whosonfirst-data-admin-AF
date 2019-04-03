@@ -1,0 +1,72 @@
+{
+  "id": 1225985937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28537,36.12148,66.28537,36.12148",
+    "geom:latitude":36.12148,
+    "geom:longitude":66.28537,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3105",
+    "gn:asciiname":"Qizil",
+    "gn:country_code":"AF",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129071,
+    "gn:latitude":36.12148,
+    "gn:longitude":66.28537,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qizil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Qezel",
+        "\u0642\u0632\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aef565f64967d55a00d98dfa87dcaa6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562515,
+            "locality_id":1225985937,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1225985937,
+    "wof:lastmodified":1537580679,
+    "wof:name":"Qizil",
+    "wof:parent_id":1108562515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28537,
+    36.12148,
+    66.28537,
+    36.12148
+],
+  "geometry": {"coordinates":[66.28537,36.12148],"type":"Point"}
+}

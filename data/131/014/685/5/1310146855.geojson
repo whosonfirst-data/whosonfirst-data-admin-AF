@@ -1,0 +1,76 @@
+{
+  "id": 1310146855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48925,35.16123,71.48925,35.16123",
+    "geom:latitude":35.16123,
+    "geom:longitude":71.48925,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1005",
+    "gn:asciiname":"Shangah",
+    "gn:country_code":"AF",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125593,
+    "gn:latitude":35.16123,
+    "gn:longitude":71.48925,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101ngah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0646\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101ngah",
+        "Shangakh",
+        "Sh\u0101ngah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125593
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2ad67381c41ee36c4acf05db87d4931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562307,
+            "locality_id":1310146855,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1310146855,
+    "wof:lastmodified":1537580402,
+    "wof:name":"Shangah",
+    "wof:parent_id":1108562307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48925,
+    35.16123,
+    71.48925,
+    35.16123
+],
+  "geometry": {"coordinates":[71.48925,35.16123],"type":"Point"}
+}

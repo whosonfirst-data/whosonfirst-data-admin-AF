@@ -1,0 +1,77 @@
+{
+  "id": 1226138037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.07008,33.12201,65.07008,33.12201",
+    "geom:latitude":33.12201,
+    "geom:longitude":65.07008,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Atanah",
+    "gn:country_code":"AF",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148127,
+    "gn:latitude":33.12201,
+    "gn:longitude":65.07008,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100tanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "\u0100tana",
+        "Atana",
+        "\u0100tanah",
+        "\u0622\u062a\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148127
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e3ce3357463be47b5cac64e6e2dec6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1226138037,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226138037,
+    "wof:lastmodified":1537582319,
+    "wof:name":"Atanah",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.07008,
+    33.12201,
+    65.07008,
+    33.12201
+],
+  "geometry": {"coordinates":[65.07008,33.12201],"type":"Point"}
+}

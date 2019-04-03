@@ -1,0 +1,75 @@
+{
+  "id": 1276466005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0005,32.99923,64.0005,32.99923",
+    "geom:latitude":32.99923,
+    "geom:longitude":64.0005,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Kushk",
+    "gn:country_code":"AF",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135627,
+    "gn:latitude":32.99923,
+    "gn:longitude":64.0005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kushk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u0161k",
+        "Ku\u0161k",
+        "Kushk",
+        "\u06a9\u0634\u06a9",
+        "K\u016bshk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135627
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"761ce7708d5d2835932148d43c46f7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1276466005,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1276466005,
+    "wof:lastmodified":1537581272,
+    "wof:name":"Kushk",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0005,
+    32.99923,
+    64.0005,
+    32.99923
+],
+  "geometry": {"coordinates":[64.0005,32.99923],"type":"Point"}
+}

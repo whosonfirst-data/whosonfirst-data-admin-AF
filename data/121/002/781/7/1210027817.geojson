@@ -1,0 +1,80 @@
+{
+  "id": 1210027817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59,36.06,68.59,36.06",
+    "geom:latitude":36.06,
+    "geom:longitude":68.59,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1301.0",
+    "gn:asciiname":"Chashmah-i-Sher",
+    "gn:country_code":"AF",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145016,
+    "gn:latitude":36.06,
+    "gn:longitude":68.59,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chashmah-i-Sher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0448\u043c\u0430\u0439\u0438-\u0428\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chashmayi-Sher",
+        "Chashma-i-Sher",
+        "Chashmah-i-Sher",
+        "\u010ca\u0161ma-i-\u0160\u0113r",
+        "Chashmeh-ye Sh\u012br",
+        "Cheshmeh-ye Sh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145016,
+        "wk:page":"Cheshmeh-ye_Shir"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86e2b4b1c420900130543ad27b4bd126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1210027817,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1210027817,
+    "wof:lastmodified":1537582065,
+    "wof:name":"Chashmah-i-Sher",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59,
+    36.06,
+    68.59,
+    36.06
+],
+  "geometry": {"coordinates":[68.59,36.06],"type":"Point"}
+}

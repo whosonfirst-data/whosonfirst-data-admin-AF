@@ -1,0 +1,75 @@
+{
+  "id": 1209983073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65888,34.41089,68.65888,34.41089",
+    "geom:latitude":34.41089,
+    "geom:longitude":68.65888,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"408.0",
+    "gn:asciiname":"Barah Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457179,
+    "gn:latitude":34.41089,
+    "gn:longitude":68.65888,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barah Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bara-Kala",
+        "Ba\u1e5fa Kal\u0101",
+        "Barah Kal\u0101",
+        "B\u0101reh Kal\u0101",
+        "\u0628\u0631\u0647 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457179
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d333e9e9b8e82c872eae31c0e7eb3b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562331,
+            "locality_id":1209983073,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1209983073,
+    "wof:lastmodified":1537583218,
+    "wof:name":"Barah Kala",
+    "wof:parent_id":1108562331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65888000000001,
+    34.41089,
+    68.65888000000001,
+    34.41089
+],
+  "geometry": {"coordinates":[68.65888000000001,34.41089],"type":"Point"}
+}

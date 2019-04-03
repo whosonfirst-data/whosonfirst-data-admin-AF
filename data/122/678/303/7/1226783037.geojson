@@ -1,0 +1,72 @@
+{
+  "id": 1226783037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47032,33.7029,66.47032,33.7029",
+    "geom:latitude":33.7029,
+    "geom:longitude":66.47032,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409.0",
+    "gn:asciiname":"Mazarqul",
+    "gn:country_code":"AF",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449376,
+    "gn:latitude":33.7029,
+    "gn:longitude":66.47032,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maz\u0101rqul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz\u0101rqul",
+        "\u0645\u0632\u0627\u0631\u0642\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449376
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2d612aac620e0f3fcc9fcf6906cb0ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1226783037,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1226783037,
+    "wof:lastmodified":1537583020,
+    "wof:name":"Mazarqul",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47032,
+    33.7029,
+    66.47032,
+    33.7029
+],
+  "geometry": {"coordinates":[66.47032,33.7029],"type":"Point"}
+}

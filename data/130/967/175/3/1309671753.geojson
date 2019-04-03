@@ -1,0 +1,73 @@
+{
+  "id": 1309671753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.24843,36.06,67.24843,36.06",
+    "geom:latitude":36.06,
+    "geom:longitude":67.24843,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Saiyad (2)",
+    "gn:country_code":"AF",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466250,
+    "gn:latitude":36.06,
+    "gn:longitude":67.24843,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Saiyad (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seyyed (2)",
+        "\u015ea\u012b\u0101d",
+        "\u0635\u06cc\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466250
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c953628d5dc4144d4495203cb920e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1309671753,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1309671753,
+    "wof:lastmodified":1537583417,
+    "wof:name":"Saiyad (2)",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.24843,
+    36.06,
+    67.24843,
+    36.06
+],
+  "geometry": {"coordinates":[67.24843,36.06],"type":"Point"}
+}

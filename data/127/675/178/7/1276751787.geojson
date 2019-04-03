@@ -1,0 +1,78 @@
+{
+  "id": 1276751787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.15581,33.17577,62.15581,33.17577",
+    "geom:latitude":33.17577,
+    "geom:longitude":62.15581,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2014.0",
+    "gn:asciiname":"Kushah",
+    "gn:country_code":"AF",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454381,
+    "gn:latitude":33.17577,
+    "gn:longitude":62.15581,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u016b\u0161a",
+        "Kusha",
+        "K\u016bshah",
+        "\u06a9\u0648\u0634\u0647",
+        "\u0643\u0648\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454381
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f9f086344c385d8d31c73962547cd343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198905,
+            "locality_id":1276751787,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1276751787,
+    "wof:lastmodified":1537583118,
+    "wof:name":"Kushah",
+    "wof:parent_id":421198905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.15581,
+    33.17577,
+    62.15581,
+    33.17577
+],
+  "geometry": {"coordinates":[62.15581,33.17577],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226156755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.52973,37.48323,70.52973,37.48323",
+    "geom:latitude":37.48323,
+    "geom:longitude":70.52973,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1119.0",
+    "gn:asciiname":"Ayshtatuk",
+    "gn:country_code":"AF",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468209,
+    "gn:latitude":37.48323,
+    "gn:longitude":70.52973,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ayshtat\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0112\u0161tat\u016bk",
+        "\u0627\u06d0\u0634\u062a\u0647 \u062a\u0648\u06a9",
+        "\u0112shtat\u016bk",
+        "Ayshtat\u016bk",
+        "\u0627\u064a\u0634\u062a\u0647 \u062a\u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468209
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e39c02ba5c13d72b4bc6f4ea1e89e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562207,
+            "locality_id":1226156755,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226156755,
+    "wof:lastmodified":1537583541,
+    "wof:name":"Ayshtatuk",
+    "wof:parent_id":1108562207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.52973,
+    37.48323,
+    70.52973,
+    37.48323
+],
+  "geometry": {"coordinates":[70.52973,37.48323],"type":"Point"}
+}

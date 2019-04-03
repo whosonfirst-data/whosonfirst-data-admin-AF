@@ -1,0 +1,80 @@
+{
+  "id": 1276239733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62955,36.0514,68.62955,36.0514",
+    "geom:latitude":36.0514,
+    "geom:longitude":68.62955,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1301.0",
+    "gn:asciiname":"Haft Ariq",
+    "gn:country_code":"AF",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409351,
+    "gn:latitude":36.0514,
+    "gn:longitude":68.62955,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haft \u0100r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0641\u062a \u0627\u0631\u063a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0444\u0442\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Khaftaryk",
+        "Haft Aregh",
+        "Haft \u0100r\u012bq",
+        "\u0647\u0641\u062a \u0622\u0631\u06cc\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409351
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"71973e97a1db05d9382903ab7e83dc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1276239733,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276239733,
+    "wof:lastmodified":1537582531,
+    "wof:name":"Haft Ariq",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62955,
+    36.0514,
+    68.62955,
+    36.0514
+],
+  "geometry": {"coordinates":[68.62954999999999,36.0514],"type":"Point"}
+}

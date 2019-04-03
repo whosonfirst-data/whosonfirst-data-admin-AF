@@ -1,0 +1,80 @@
+{
+  "id": 1243219863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.71902,31.73008,65.71902,31.73008",
+    "geom:latitude":31.73008,
+    "geom:longitude":65.71902,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"De Lawar Khan Kalachah",
+    "gn:country_code":"AF",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407305,
+    "gn:latitude":31.73008,
+    "gn:longitude":65.71902,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea L\u0101war Kh\u0101n Kal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0686\u0647\u0654 \u062f\u0644\u0627\u0648\u0631 \u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dilavarkhan-Kalacha",
+        "Del\u0101warkh\u0101n Kal\u0101\u010da",
+        "Del\u0101varkh\u0101n Kal\u0101cheh",
+        "Del\u0101warkh\u0101n Kal\u0101cha",
+        "D\u00ea L\u0101war Kh\u0101n Kal\u0101chah",
+        "\u062f \u0644\u0627\u0648\u0631 \u062e\u0627\u0646 \u06a9\u0644\u0627\u0686\u0647",
+        "Del\u0101varkh\u0101n Kal\u0101chah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff7a812b81a9c4a2f1b1eb0c5ae80330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561811,
+            "locality_id":1243219863,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243219863,
+    "wof:lastmodified":1537582516,
+    "wof:name":"De Lawar Khan Kalachah",
+    "wof:parent_id":1108561811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.71902,
+    31.73008,
+    65.71902,
+    31.73008
+],
+  "geometry": {"coordinates":[65.71902,31.73008],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326786601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.44405,31.73312,66.44405,31.73312",
+    "geom:latitude":31.73312,
+    "geom:longitude":66.44405,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Shah Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126069,
+    "gn:latitude":31.73312,
+    "gn:longitude":66.44405,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101hb\u0113d",
+        "Shakhbek",
+        "\u0634\u0627\u0647 \u0628\u06cc\u062f",
+        "Sh\u0101h B\u012bd",
+        "Sh\u0101h Bayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126069
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b468ee9ec93df0029a295c5746989e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1326786601,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1326786601,
+    "wof:lastmodified":1537580438,
+    "wof:name":"Shah Bayd",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.44405,
+    31.73312,
+    66.44405,
+    31.73312
+],
+  "geometry": {"coordinates":[66.44405,31.73312],"type":"Point"}
+}

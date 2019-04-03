@@ -1,0 +1,73 @@
+{
+  "id": 1242620121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.31776,35.85227,71.31776,35.85227",
+    "geom:latitude":35.85227,
+    "geom:longitude":71.31776,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005",
+    "gn:asciiname":"Samarigam",
+    "gn:country_code":"AF",
+    "gn:dem":2627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127761,
+    "gn:latitude":35.85227,
+    "gn:longitude":71.31776,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Samarig\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sama\u1e5fig\u0101m",
+        "Samarig\u0101m",
+        "\u0633\u0645\u0631\u06af\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127761
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"110334f82b6eef24e14281bfefd6be2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1242620121,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1242620121,
+    "wof:lastmodified":1537580577,
+    "wof:name":"Samarigam",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.31775999999998,
+    35.85227000000001,
+    71.31775999999998,
+    35.85227000000001
+],
+  "geometry": {"coordinates":[71.31775999999998,35.85227000000001],"type":"Point"}
+}

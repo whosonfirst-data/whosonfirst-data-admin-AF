@@ -1,0 +1,79 @@
+{
+  "id": 1226541599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80153,36.25237,68.80153,36.25237",
+    "geom:latitude":36.25237,
+    "geom:longitude":68.80153,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1311.0",
+    "gn:asciiname":"Wardak",
+    "gn:country_code":"AF",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409322,
+    "gn:latitude":36.25237,
+    "gn:longitude":68.80153,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wardak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062f\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "Quch\u012b"
+    ],
+    "name:und_x_variant":[
+        "Vardak",
+        "Wardak",
+        "\u0648\u0631\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409322
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d55597cd2f4a1364f0712485e2c38bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1226541599,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226541599,
+    "wof:lastmodified":1537582528,
+    "wof:name":"Wardak",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80153,
+    36.25237,
+    68.80153,
+    36.25237
+],
+  "geometry": {"coordinates":[68.80153,36.25237],"type":"Point"}
+}

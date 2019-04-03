@@ -1,0 +1,73 @@
+{
+  "id": 1225945911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5367,35.87309,69.5367,35.87309",
+    "geom:latitude":35.87309,
+    "geom:longitude":69.5367,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1308",
+    "gn:asciiname":"Khamkhati",
+    "gn:country_code":"AF",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137184,
+    "gn:latitude":35.87309,
+    "gn:longitude":69.5367,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khamkha\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khamkha\u0163\u012b",
+        "\u062e\u0645\u062e\u0637\u06cc",
+        "Khamkhati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137184
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"96c381991add84a495e170c34a9b64f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562171,
+            "locality_id":1225945911,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1225945911,
+    "wof:lastmodified":1537581401,
+    "wof:name":"Khamkhati",
+    "wof:parent_id":1108562171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5367,
+    35.87309000000001,
+    69.5367,
+    35.87309000000001
+],
+  "geometry": {"coordinates":[69.5367,35.87309000000001],"type":"Point"}
+}

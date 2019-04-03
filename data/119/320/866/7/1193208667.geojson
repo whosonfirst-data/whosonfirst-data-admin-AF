@@ -1,0 +1,72 @@
+{
+  "id": 1193208667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48575,34.6297,70.48575,34.6297",
+    "geom:latitude":34.6297,
+    "geom:longitude":70.48575,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Suskanar",
+    "gn:country_code":"AF",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7563986,
+    "gn:latitude":34.6297,
+    "gn:longitude":70.48575,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016bskana\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bskana\u1e5f",
+        "\u0633\u0648\u0633\u06a9\u0646\u0693"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7563986
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5209fee862272cb40365a575366caec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1193208667,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1193208667,
+    "wof:lastmodified":1537583933,
+    "wof:name":"Suskanar",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48575,
+    34.6297,
+    70.48575,
+    34.6297
+],
+  "geometry": {"coordinates":[70.48575,34.6297],"type":"Point"}
+}

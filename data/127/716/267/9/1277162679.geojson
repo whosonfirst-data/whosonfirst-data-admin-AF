@@ -1,0 +1,74 @@
+{
+  "id": 1277162679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48125,32.89055,67.48125,32.89055",
+    "geom:latitude":32.89055,
+    "geom:longitude":67.48125,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Qarshinah",
+    "gn:country_code":"AF",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129512,
+    "gn:latitude":32.89055,
+    "gn:longitude":67.48125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarsh\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karshina",
+        "Qar\u0161ina",
+        "Qarsh\u012bnah",
+        "\u0642\u0631\u0634\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129512
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"665d48cea143be28bfff0f79c7d7c0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1277162679,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1277162679,
+    "wof:lastmodified":1537580738,
+    "wof:name":"Qarshinah",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48125,
+    32.89055,
+    67.48125,
+    32.89055
+],
+  "geometry": {"coordinates":[67.48125,32.89055],"type":"Point"}
+}

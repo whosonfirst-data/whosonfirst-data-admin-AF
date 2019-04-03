@@ -1,0 +1,74 @@
+{
+  "id": 1260187085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42359,34.37022,67.42359,34.37022",
+    "geom:latitude":34.37022,
+    "geom:longitude":67.42359,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Dori",
+    "gn:country_code":"AF",
+    "gn:dem":2967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142840,
+    "gn:latitude":34.37022,
+    "gn:longitude":67.42359,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u014d\u1e5fi",
+        "D\u014dr\u012b",
+        "D\u016br\u012b",
+        "\u062f\u0648\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fa415d9ea671149e31784b4f3ebb0174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1260187085,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1260187085,
+    "wof:lastmodified":1537581865,
+    "wof:name":"Dori",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42359,
+    34.37022,
+    67.42359,
+    34.37022
+],
+  "geometry": {"coordinates":[67.42359,34.37022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193267815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.33384,34.0098,65.33384,34.0098",
+    "geom:latitude":34.0098,
+    "geom:longitude":65.33384,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2710.0",
+    "gn:asciiname":"Ab Paran",
+    "gn:country_code":"AF",
+    "gn:dem":2851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149491,
+    "gn:latitude":34.0098,
+    "gn:longitude":65.33384,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b Par\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100b Par\u0101n",
+        "\u0622\u0628\u067e\u0631\u0627\u0646",
+        "\u0100bpa\u1e5f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149491
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ebb3974177d64cc9a3889859f301377e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561993,
+            "locality_id":1193267815,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1193267815,
+    "wof:lastmodified":1537582422,
+    "wof:name":"Ab Paran",
+    "wof:parent_id":1108561993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.33384000000001,
+    34.0098,
+    65.33384000000001,
+    34.0098
+],
+  "geometry": {"coordinates":[65.33384000000001,34.0098],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360075789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.4393,33.5435,68.4393,33.5435",
+    "geom:latitude":33.5435,
+    "geom:longitude":68.4393,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Qal'ah-ye Arbaba",
+    "gn:country_code":"AF",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455407,
+    "gn:latitude":33.5435,
+    "gn:longitude":68.4393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Arb\u0101b\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaarbaba",
+        "Qa\u2018la A\u1e5fb\u0101b\u0101",
+        "Qal\u2018ah Arb\u0101b\u0101",
+        "Qa\u2018leh Arb\u0101b\u0101",
+        "Qal\u2018ah-ye Arb\u0101b\u0101",
+        "\u0642\u0644\u0639\u0647 \u0627\u0631\u0628\u0627\u0628\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455407
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e9d75c56f2fb53e1e47edfe9e563d452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1360075789,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360075789,
+    "wof:lastmodified":1537583145,
+    "wof:name":"Qal'ah-ye Arbaba",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.4393,
+    33.5435,
+    68.4393,
+    33.5435
+],
+  "geometry": {"coordinates":[68.4393,33.5435],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243568355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39393,37.49239,70.39393,37.49239",
+    "geom:latitude":37.49239,
+    "geom:longitude":70.39393,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1128.0",
+    "gn:asciiname":"Nushar",
+    "gn:country_code":"AF",
+    "gn:dem":2470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468191,
+    "gn:latitude":37.49239,
+    "gn:longitude":70.39393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u016bsh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u016bs\u0101\u1e5f",
+        "N\u016bsh\u0101r",
+        "\u0646\u0648\u0634\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468191
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e6a24e66921b2c67cd96233da8fd4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562595,
+            "locality_id":1243568355,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243568355,
+    "wof:lastmodified":1537583539,
+    "wof:name":"Nushar",
+    "wof:parent_id":1108562595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39393000000003,
+    37.49239,
+    70.39393000000003,
+    37.49239
+],
+  "geometry": {"coordinates":[70.39393000000003,37.49239],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209304111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02466,34.21781,65.02466,34.21781",
+    "geom:latitude":34.21781,
+    "geom:longitude":65.02466,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Galah Bayd",
+    "gn:country_code":"AF",
+    "gn:dem":2852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142059,
+    "gn:latitude":34.21781,
+    "gn:longitude":65.02466,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Galah Bayd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galab\u0113\u1e0f",
+        "Galah Bayd",
+        "\u06af\u0644\u0647 \u0628\u06cc\u062f",
+        "Galab\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142059
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"344ac9e91bacfe09796b4dc45448b958",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209304111
+        }
+    ],
+    "wof:id":1209304111,
+    "wof:lastmodified":1537581794,
+    "wof:name":"Galah Bayd",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02466,
+    34.21781,
+    65.02466,
+    34.21781
+],
+  "geometry": {"coordinates":[65.02466,34.21781],"type":"Point"}
+}

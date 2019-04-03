@@ -1,0 +1,72 @@
+{
+  "id": 1260013183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.69641,33.66976,65.69641,33.66976",
+    "geom:latitude":33.66976,
+    "geom:longitude":65.69641,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Panur",
+    "gn:country_code":"AF",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131129,
+    "gn:latitude":33.66976,
+    "gn:longitude":65.69641,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pan\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan\u016br",
+        "\u067e\u0646\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131129
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"775652d7f7f04bdf886fcc21f1b00f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1260013183,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1260013183,
+    "wof:lastmodified":1537580897,
+    "wof:name":"Panur",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.69641,
+    33.66976,
+    65.69641,
+    33.66976
+],
+  "geometry": {"coordinates":[65.69641,33.66976],"type":"Point"}
+}

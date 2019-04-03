@@ -1,0 +1,76 @@
+{
+  "id": 1293769119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.19398,33.93323,68.19398,33.93323",
+    "geom:latitude":33.93323,
+    "geom:longitude":68.19398,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Qarghah",
+    "gn:country_code":"AF",
+    "gn:dem":2812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129560,
+    "gn:latitude":33.93323,
+    "gn:longitude":68.19398,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u063a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Karga",
+        "Qa\u1e5fgha",
+        "Qarghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129560
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a328c89d582ccdf2cdb5720a0378b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1293769119,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293769119,
+    "wof:lastmodified":1537580742,
+    "wof:name":"Qarghah",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.19398000000001,
+    33.93323,
+    68.19398000000001,
+    33.93323
+],
+  "geometry": {"coordinates":[68.19398000000001,33.93323],"type":"Point"}
+}

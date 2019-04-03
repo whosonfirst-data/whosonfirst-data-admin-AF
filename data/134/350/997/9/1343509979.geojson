@@ -1,0 +1,73 @@
+{
+  "id": 1343509979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43903,35.45758,66.43903,35.45758",
+    "geom:latitude":35.45758,
+    "geom:longitude":66.43903,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104",
+    "gn:asciiname":"Tay-e Mazar",
+    "gn:country_code":"AF",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122609,
+    "gn:latitude":35.45758,
+    "gn:longitude":66.43903,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tay-e Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tay-e Maz\u0101r",
+        "\u062a\u06cc \u0645\u0632\u0627\u0631",
+        "Taye Maz\u0101\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122609
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a53ff35fa16085fc03aaa7c0dc86ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1343509979,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1343509979,
+    "wof:lastmodified":1537580172,
+    "wof:name":"Tay-e Mazar",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43903,
+    35.45758,
+    66.43903,
+    35.45758
+],
+  "geometry": {"coordinates":[66.43903,35.45758],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209667001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12415,33.44206,70.12415,33.44206",
+    "geom:latitude":33.44206,
+    "geom:longitude":70.12415,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3207",
+    "gn:asciiname":"Khoramay",
+    "gn:country_code":"AF",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135993,
+    "gn:latitude":33.44206,
+    "gn:longitude":70.12415,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dramay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kharamay",
+        "Kh\u014d\u1e5famay",
+        "Khvoramay",
+        "\u062e\u0648\u0631\u0645\u06cc",
+        "Kh\u014drmay",
+        "Kh\u014dramay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135993
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89bc13e9abd64499b10dd262c7c9d109",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209667001
+        }
+    ],
+    "wof:id":1209667001,
+    "wof:lastmodified":1537581306,
+    "wof:name":"Khoramay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12415,
+    33.44206,
+    70.12415,
+    33.44206
+],
+  "geometry": {"coordinates":[70.12415,33.44206],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343869675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.17914,36.11426,69.17914,36.11426",
+    "geom:latitude":36.11426,
+    "geom:longitude":69.17914,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1310",
+    "gn:asciiname":"Laghaki",
+    "gn:country_code":"AF",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135047,
+    "gn:latitude":36.11426,
+    "gn:longitude":69.17914,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Laghak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laghak\u012b",
+        "\u0644\u063a\u06a9\u06cc",
+        "Laghaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135047
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a614ecc65e37e031b5f5d52da2cedd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561875,
+            "locality_id":1343869675,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343869675,
+    "wof:lastmodified":1537581219,
+    "wof:name":"Laghaki",
+    "wof:parent_id":1108561875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.17914,
+    36.11426,
+    69.17914,
+    36.11426
+],
+  "geometry": {"coordinates":[69.17914,36.11426],"type":"Point"}
+}

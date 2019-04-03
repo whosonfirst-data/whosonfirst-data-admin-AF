@@ -1,0 +1,68 @@
+{
+  "id": 1209242615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.42684,32.9225,65.42684,32.9225",
+    "geom:latitude":32.9225,
+    "geom:longitude":65.42684,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604.0",
+    "gn:asciiname":"Shokhay",
+    "gn:country_code":"AF",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1444079,
+    "gn:latitude":32.9225,
+    "gn:longitude":65.42684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dkhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160okhay",
+        "Sh\u014dkhay",
+        "\u0634\u0648\u062e\u06cc",
+        "S\u016bkhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1444079
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8db44fd9f76ca993c8a1d6dab9a52799",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209242615
+        }
+    ],
+    "wof:id":1209242615,
+    "wof:lastmodified":1537582954,
+    "wof:name":"Shokhay",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.42684,
+    32.9225,
+    65.42684,
+    32.9225
+],
+  "geometry": {"coordinates":[65.42684,32.9225],"type":"Point"}
+}

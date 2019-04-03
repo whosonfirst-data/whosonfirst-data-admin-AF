@@ -1,0 +1,73 @@
+{
+  "id": 1326979393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23646,36.08445,67.23646,36.08445",
+    "geom:latitude":36.08445,
+    "geom:longitude":67.23646,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Kaligi",
+    "gn:country_code":"AF",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138511,
+    "gn:latitude":36.08445,
+    "gn:longitude":67.23646,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal\u012bg\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalligi",
+        "Kal\u012bg\u012b",
+        "\u06a9\u0644\u06cc\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138511
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6226ee2bc2f7b0dfb4e4ab9029d66557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1326979393,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1326979393,
+    "wof:lastmodified":1537581506,
+    "wof:name":"Kaligi",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23646,
+    36.08445,
+    67.23646,
+    36.08445
+],
+  "geometry": {"coordinates":[67.23645999999999,36.08445],"type":"Point"}
+}

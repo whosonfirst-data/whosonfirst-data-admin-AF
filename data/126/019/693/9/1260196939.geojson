@@ -1,0 +1,77 @@
+{
+  "id": 1260196939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26667,38.21667,71.26667,38.21667",
+    "geom:latitude":38.21667,
+    "geom:longitude":71.26667,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Rogh",
+    "gn:country_code":"AF",
+    "gn:dem":3963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1220704,
+    "gn:latitude":38.21667,
+    "gn:longitude":71.26667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rogh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tgk_x_preferred":[
+        "Rogh"
+    ],
+    "name:tgk_x_variant":[
+        "\u0420\u043e\u0493"
+    ],
+    "name:und_x_variant":[
+        "Rog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220704
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7e3fe3669483b5e847220962dea556f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1260196939,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260196939,
+    "wof:lastmodified":1537582439,
+    "wof:name":"Rogh",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26666999999998,
+    38.21667,
+    71.26666999999998,
+    38.21667
+],
+  "geometry": {"coordinates":[71.26666999999998,38.21667],"type":"Point"}
+}

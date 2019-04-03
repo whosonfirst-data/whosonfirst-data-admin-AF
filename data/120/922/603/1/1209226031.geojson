@@ -1,0 +1,67 @@
+{
+  "id": 1209226031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.35722,35.65819,69.35722,35.65819",
+    "geom:latitude":35.65819,
+    "geom:longitude":69.35722,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1302.0",
+    "gn:asciiname":"Khitian",
+    "gn:country_code":"AF",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464930,
+    "gn:latitude":35.65819,
+    "gn:longitude":69.35722,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khit\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khit\u012b\u0101n",
+        "\u062e\u062a\u06cc\u0627\u0646",
+        "Khety\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464930
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"00614a39a6091fefed41dabebe5c9b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209226031
+        }
+    ],
+    "wof:id":1209226031,
+    "wof:lastmodified":1537583387,
+    "wof:name":"Khitian",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.35722,
+    35.65819000000001,
+    69.35722,
+    35.65819000000001
+],
+  "geometry": {"coordinates":[69.35722,35.65819000000001],"type":"Point"}
+}

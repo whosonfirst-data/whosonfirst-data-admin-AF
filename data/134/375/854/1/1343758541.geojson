@@ -1,0 +1,71 @@
+{
+  "id": 1343758541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.114,35.15787,65.114,35.15787",
+    "geom:latitude":35.15787,
+    "geom:longitude":65.114,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2708",
+    "gn:asciiname":"Mang",
+    "gn:country_code":"AF",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133980,
+    "gn:latitude":35.15787,
+    "gn:longitude":65.114,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11e64780039b7ba962b1e799435495e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561911,
+            "locality_id":1343758541,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343758541,
+    "wof:lastmodified":1537581136,
+    "wof:name":"Mang",
+    "wof:parent_id":1108561911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.11399999999999,
+    35.15787,
+    65.11399999999999,
+    35.15787
+],
+  "geometry": {"coordinates":[65.11399999999999,35.15787],"type":"Point"}
+}

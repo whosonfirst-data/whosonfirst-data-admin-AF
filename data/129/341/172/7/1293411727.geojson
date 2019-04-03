@@ -1,0 +1,75 @@
+{
+  "id": 1293411727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.01125,33.00972,63.01125,33.00972",
+    "geom:latitude":33.00972,
+    "geom:longitude":63.01125,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2105",
+    "gn:asciiname":"Saynabad",
+    "gn:country_code":"AF",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126665,
+    "gn:latitude":33.00972,
+    "gn:longitude":63.01125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0304ayn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaynabad",
+        "S\u0304ayn\u0101b\u0101d",
+        "\u062b\u06cc\u0646 \u0622\u0628\u0627\u062f",
+        "Sayn\u0101b\u0101d",
+        "S\u0304ayn \u0100b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126665
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"96f3386689b36bba8286c504af64e433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561845,
+            "locality_id":1293411727,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293411727,
+    "wof:lastmodified":1537580493,
+    "wof:name":"Saynabad",
+    "wof:parent_id":1108561845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.01125,
+    33.00972,
+    63.01125,
+    33.00972
+],
+  "geometry": {"coordinates":[63.01125,33.00972],"type":"Point"}
+}

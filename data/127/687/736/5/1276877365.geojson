@@ -1,0 +1,75 @@
+{
+  "id": 1276877365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84903,34.75187,67.84903,34.75187",
+    "geom:latitude":34.75187,
+    "geom:longitude":67.84903,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2801.0",
+    "gn:asciiname":"Dum-e Dasht",
+    "gn:country_code":"AF",
+    "gn:dem":2733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457333,
+    "gn:latitude":34.75187,
+    "gn:longitude":67.84903,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dum-e Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dume Da\u0161t",
+        "Dumi-Dasht",
+        "Dum-e Dasht",
+        "Dom-e Dasht",
+        "\u062f\u0645 \u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457333
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7322baf41c5769ac70e6558190d18a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1276877365,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276877365,
+    "wof:lastmodified":1537583223,
+    "wof:name":"Dum-e Dasht",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84903,
+    34.75187,
+    67.84903,
+    34.75187
+],
+  "geometry": {"coordinates":[67.84903,34.75187],"type":"Point"}
+}

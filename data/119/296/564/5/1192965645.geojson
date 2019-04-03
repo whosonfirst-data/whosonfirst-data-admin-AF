@@ -1,0 +1,73 @@
+{
+  "id": 1192965645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.07377,32.8385,67.07377,32.8385",
+    "geom:latitude":32.8385,
+    "geom:longitude":67.07377,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Khakiran",
+    "gn:country_code":"AF",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1137359,
+    "gn:latitude":32.8385,
+    "gn:longitude":67.07377,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101kir\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101kir\u0101n",
+        "\u062e\u0627\u06a9\u0631\u0627\u0646",
+        "Kh\u0101ker\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137359
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37083b86b84764b05ec31dfc7bcc3af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1192965645,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1192965645,
+    "wof:lastmodified":1537581414,
+    "wof:name":"Khakiran",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.07377,
+    32.8385,
+    67.07377,
+    32.8385
+],
+  "geometry": {"coordinates":[67.07377,32.8385],"type":"Point"}
+}

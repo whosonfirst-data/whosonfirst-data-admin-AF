@@ -1,0 +1,74 @@
+{
+  "id": 1225798069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14015,33.50487,69.14015,33.50487",
+    "geom:latitude":33.50487,
+    "geom:longitude":69.14015,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702.0",
+    "gn:asciiname":"Mamuzai",
+    "gn:country_code":"AF",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1438146,
+    "gn:latitude":33.50487,
+    "gn:longitude":69.14015,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mam\u016bza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamuzi",
+        "Mam\u016bz\u012b",
+        "Mam\u016bza\u012b",
+        "\u0645\u0645\u0648\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1438146
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"644ed10896304481c35eedf5f8a98ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1225798069,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1225798069,
+    "wof:lastmodified":1537582881,
+    "wof:name":"Mamuzai",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14015,
+    33.50487,
+    69.14015,
+    33.50487
+],
+  "geometry": {"coordinates":[69.14015000000001,33.50487],"type":"Point"}
+}

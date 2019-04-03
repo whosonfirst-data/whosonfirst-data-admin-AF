@@ -1,0 +1,75 @@
+{
+  "id": 1242668189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48042,33.25895,68.48042,33.25895",
+    "geom:latitude":33.25895,
+    "geom:longitude":68.48042,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Sanginakah",
+    "gn:country_code":"AF",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127538,
+    "gn:latitude":33.25895,
+    "gn:longitude":68.48042,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang\u012bnakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u064a\u0646\u0643\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sang\u012bnakah",
+        "Sanginaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127538
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0ae4ff0091bc9a5022b3d72488008ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1242668189,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242668189,
+    "wof:lastmodified":1537580563,
+    "wof:name":"Sanginakah",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48042,
+    33.25895,
+    68.48042,
+    33.25895
+],
+  "geometry": {"coordinates":[68.48042,33.25895],"type":"Point"}
+}

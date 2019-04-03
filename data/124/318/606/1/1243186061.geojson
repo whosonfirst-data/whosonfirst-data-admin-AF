@@ -1,0 +1,72 @@
+{
+  "id": 1243186061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57952,36.70037,71.57952,36.70037",
+    "geom:latitude":36.70037,
+    "geom:longitude":71.57952,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1107.0",
+    "gn:asciiname":"Turbat",
+    "gn:country_code":"AF",
+    "gn:dem":2687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466148,
+    "gn:latitude":36.70037,
+    "gn:longitude":71.57952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Turbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torbat",
+        "\u062a\u0631\u0628\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421183887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466148
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3c9e4c451594e2528892475822b42dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421183887,
+            "locality_id":1243186061,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243186061,
+    "wof:lastmodified":1537583414,
+    "wof:name":"Turbat",
+    "wof:parent_id":421183887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57952,
+    36.70037,
+    71.57952,
+    36.70037
+],
+  "geometry": {"coordinates":[71.57952,36.70037],"type":"Point"}
+}

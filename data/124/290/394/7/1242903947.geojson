@@ -1,0 +1,73 @@
+{
+  "id": 1242903947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53466,33.08812,65.53466,33.08812",
+    "geom:latitude":33.08812,
+    "geom:longitude":65.53466,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2604",
+    "gn:asciiname":"Shakhtakah",
+    "gn:country_code":"AF",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127897,
+    "gn:latitude":33.08812,
+    "gn:longitude":65.53466,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101khtakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101khtaka",
+        "Sh\u0101khtakah",
+        "\u0634\u0627\u062e\u062a\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127897
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78bd6d253b7e4c3eaaf0891d3c4f99a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562455,
+            "locality_id":1242903947,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242903947,
+    "wof:lastmodified":1537580587,
+    "wof:name":"Shakhtakah",
+    "wof:parent_id":1108562455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53466,
+    33.08812,
+    65.53466,
+    33.08812
+],
+  "geometry": {"coordinates":[65.53466,33.08812],"type":"Point"}
+}

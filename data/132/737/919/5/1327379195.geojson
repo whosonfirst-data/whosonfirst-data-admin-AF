@@ -1,0 +1,77 @@
+{
+  "id": 1327379195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.2746,34.96597,71.2746,34.96597",
+    "geom:latitude":34.96597,
+    "geom:longitude":71.2746,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Karbori",
+    "gn:country_code":"AF",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1452109,
+    "gn:latitude":34.96597,
+    "gn:longitude":71.2746,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karbori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u0643\u0631\u0628\u0648\u0693\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ka\u1e5fb\u014dri",
+        "Karbori",
+        "Karb\u014d\u1e5f\u012b",
+        "Karb\u016bri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452109
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f85ae76ff38af5d42755d52ca828ef19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1327379195,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1327379195,
+    "wof:lastmodified":1537583086,
+    "wof:name":"Karbori",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.2746,
+    34.96597,
+    71.2746,
+    34.96597
+],
+  "geometry": {"coordinates":[71.27460000000001,34.96597],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360138937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.19738,34.58896,68.19738,34.58896",
+    "geom:latitude":34.58896,
+    "geom:longitude":68.19738,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Burjak",
+    "gn:country_code":"AF",
+    "gn:dem":3273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146311,
+    "gn:latitude":34.58896,
+    "gn:longitude":68.19738,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Burjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u1e5fjak",
+        "Burdzhak",
+        "Borjak",
+        "Burjak",
+        "\u0628\u0631\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146311
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a86280db11c831e7d05bccc13b8c286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1360138937,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1360138937,
+    "wof:lastmodified":1537582172,
+    "wof:name":"Burjak",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.19738000000001,
+    34.58896,
+    68.19738000000001,
+    34.58896
+],
+  "geometry": {"coordinates":[68.19738000000001,34.58896],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327095505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77463,33.22305,68.77463,33.22305",
+    "geom:latitude":33.22305,
+    "geom:longitude":68.77463,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901",
+    "gn:asciiname":"Qarah Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129599,
+    "gn:latitude":33.22305,
+    "gn:longitude":68.77463,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Karakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fakh\u0113l",
+        "\u0642\u0631\u0647 \u062e\u06d0\u0644",
+        "Qareh Kheyl",
+        "Qarah Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129599
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d868b9fc012175b2b2666b989fdd2ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1327095505,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1327095505,
+    "wof:lastmodified":1537580744,
+    "wof:name":"Qarah Khel",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77463,
+    33.22305,
+    68.77463,
+    33.22305
+],
+  "geometry": {"coordinates":[68.77463,33.22305],"type":"Point"}
+}

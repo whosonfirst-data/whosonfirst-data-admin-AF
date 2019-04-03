@@ -1,0 +1,68 @@
+{
+  "id": 1310289395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.60778,33.97611,63.60778,33.97611",
+    "geom:latitude":33.97611,
+    "geom:longitude":63.60778,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Marghzar",
+    "gn:country_code":"AF",
+    "gn:dem":2353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1448535,
+    "gn:latitude":33.97611,
+    "gn:longitude":63.60778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Marghz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1448535
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0deefe836f79a75dc8df30e7774a8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1310289395,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310289395,
+    "wof:lastmodified":1536731478,
+    "wof:name":"Marghzar",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.60778000000001,
+    33.97611,
+    63.60778000000001,
+    33.97611
+],
+  "geometry": {"coordinates":[63.60778000000001,33.97611],"type":"Point"}
+}

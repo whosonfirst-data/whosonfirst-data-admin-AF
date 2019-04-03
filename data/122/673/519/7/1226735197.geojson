@@ -1,0 +1,75 @@
+{
+  "id": 1226735197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.50868,34.02052,67.50868,34.02052",
+    "geom:latitude":34.02052,
+    "geom:longitude":67.50868,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Burughsan",
+    "gn:country_code":"AF",
+    "gn:dem":3125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460453,
+    "gn:latitude":34.02052,
+    "gn:longitude":67.50868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016brughs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burugsan",
+        "B\u016b\u1e5fughs\u0101n",
+        "Bowrughs\u0101n",
+        "B\u016brughs\u0101n",
+        "\u0628\u0648\u0631\u063a\u0633\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ccb2efb4886aecd25ac7ade70c712b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1226735197,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226735197,
+    "wof:lastmodified":1537583323,
+    "wof:name":"Burughsan",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.50868,
+    34.02052,
+    67.50868,
+    34.02052
+],
+  "geometry": {"coordinates":[67.50868,34.02052],"type":"Point"}
+}

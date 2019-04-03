@@ -1,0 +1,74 @@
+{
+  "id": 1326997243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.03071,37.0864,70.03071,37.0864",
+    "geom:latitude":37.0864,
+    "geom:longitude":70.03071,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1208",
+    "gn:asciiname":"Dewri",
+    "gn:country_code":"AF",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143120,
+    "gn:latitude":37.0864,
+    "gn:longitude":70.03071,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113wr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daywr\u012b",
+        "\u062f\u06cc\u0648\u0631\u06cc",
+        "D\u0113w\u1e5f\u012b",
+        "D\u0113wr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143120
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"076f33ad76fdd35ca664b51247bac86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562417,
+            "locality_id":1326997243,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1326997243,
+    "wof:lastmodified":1537581895,
+    "wof:name":"Dewri",
+    "wof:parent_id":1108562417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.03071,
+    37.0864,
+    70.03071,
+    37.0864
+],
+  "geometry": {"coordinates":[70.03071,37.0864],"type":"Point"}
+}

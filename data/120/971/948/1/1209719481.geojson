@@ -1,0 +1,73 @@
+{
+  "id": 1209719481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06849,36.79274,71.06849,36.79274",
+    "geom:latitude":36.79274,
+    "geom:longitude":71.06849,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1125",
+    "gn:asciiname":"Payzh",
+    "gn:country_code":"AF",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130784,
+    "gn:latitude":36.79274,
+    "gn:longitude":71.06849,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Payzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pay\u017e",
+        "\u067e\u06cc\u0698",
+        "Payzh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0803fb043b552dbf787494e7212d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562567,
+            "locality_id":1209719481,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209719481,
+    "wof:lastmodified":1537580867,
+    "wof:name":"Payzh",
+    "wof:parent_id":1108562567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06849,
+    36.79274,
+    71.06849,
+    36.79274
+],
+  "geometry": {"coordinates":[71.06849,36.79274],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310119679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83726,36.90103,70.83726,36.90103",
+    "geom:latitude":36.90103,
+    "geom:longitude":70.83726,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Now Jurm",
+    "gn:country_code":"AF",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131722,
+    "gn:latitude":36.90103,
+    "gn:longitude":70.83726,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Now Jurm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naw Ja\u1e5fm",
+        "Naw Jorm",
+        "\u0646\u0648 \u062c\u0631\u0645",
+        "Now Jarm",
+        "Now Jurm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131722
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bc8b50b691eab9fc4065b56ced7b45c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1310119679,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310119679,
+    "wof:lastmodified":1537580946,
+    "wof:name":"Now Jurm",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83726,
+    36.90103,
+    70.83726,
+    36.90103
+],
+  "geometry": {"coordinates":[70.83726,36.90103],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293530513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04629,34.81716,71.04629,34.81716",
+    "geom:latitude":34.81716,
+    "geom:longitude":71.04629,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Lachak",
+    "gn:country_code":"AF",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451926,
+    "gn:latitude":34.81716,
+    "gn:longitude":71.04629,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lachak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0686\u0643"
+    ],
+    "name:und_x_variant":[
+        "La\u010dak",
+        "Lachak",
+        "\u0644\u0686\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451926
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1c05a7ffdd5f057fe443db606b95ec1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1293530513,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293530513,
+    "wof:lastmodified":1537583080,
+    "wof:name":"Lachak",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04629,
+    34.81716,
+    71.04629,
+    34.81716
+],
+  "geometry": {"coordinates":[71.04629,34.81716],"type":"Point"}
+}

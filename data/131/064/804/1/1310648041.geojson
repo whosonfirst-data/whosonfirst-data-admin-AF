@@ -1,0 +1,75 @@
+{
+  "id": 1310648041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02805,32.75224,67.02805,32.75224",
+    "geom:latitude":32.75224,
+    "geom:longitude":67.02805,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510.0",
+    "gn:asciiname":"Khak-e Kuhnah",
+    "gn:country_code":"AF",
+    "gn:dem":2535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443212,
+    "gn:latitude":32.75224,
+    "gn:longitude":67.02805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101k-e Kuhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101ke Kuhna",
+        "Khaki-Kukhna",
+        "Kh\u0101k-e Kuhnah",
+        "\u062e\u0627\u06a9 \u06a9\u0647\u0646\u0647",
+        "Kh\u0101k-e Kohneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443212
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68fbe7367c75774dd762ce2a5db9b2d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1310648041,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310648041,
+    "wof:lastmodified":1537582947,
+    "wof:name":"Khak-e Kuhnah",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02805,
+    32.75224,
+    67.02805,
+    32.75224
+],
+  "geometry": {"coordinates":[67.02804999999999,32.75224],"type":"Point"}
+}

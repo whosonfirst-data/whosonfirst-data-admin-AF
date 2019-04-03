@@ -1,0 +1,75 @@
+{
+  "id": 1293905473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.04567,32.37976,62.04567,32.37976",
+    "geom:latitude":32.37976,
+    "geom:longitude":62.04567,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2101",
+    "gn:asciiname":"Ginakan",
+    "gn:country_code":"AF",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141592,
+    "gn:latitude":32.37976,
+    "gn:longitude":62.04567,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gin\u0101k\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gen\u0101k\u0101n",
+        "Gin\u0101k\u0101n",
+        "\u06af\u0646\u0627\u06a9\u0627\u0646",
+        "G\u012bn\u0101 G\u0101n",
+        "\u06af\u06cc\u0646\u0627\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141592
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5590e511f7807d7592785b7e7760bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562001,
+            "locality_id":1293905473,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293905473,
+    "wof:lastmodified":1537581764,
+    "wof:name":"Ginakan",
+    "wof:parent_id":1108562001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.04567,
+    32.37976,
+    62.04567,
+    32.37976
+],
+  "geometry": {"coordinates":[62.04567,32.37976],"type":"Point"}
+}

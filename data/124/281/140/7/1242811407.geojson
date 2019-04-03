@@ -1,0 +1,74 @@
+{
+  "id": 1242811407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.72499,33.89664,66.72499,33.89664",
+    "geom:latitude":33.89664,
+    "geom:longitude":66.72499,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Barg",
+    "gn:country_code":"AF",
+    "gn:dem":2764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146854,
+    "gn:latitude":33.89664,
+    "gn:longitude":66.72499,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Barg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u1e5fg",
+        "Barg",
+        "Ba\u1e5fq",
+        "\u0628\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146854
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6a487f746a591f2f13b9c7b6f0ab032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1242811407,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1242811407,
+    "wof:lastmodified":1537582218,
+    "wof:name":"Barg",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.72499,
+    33.89664,
+    66.72499,
+    33.89664
+],
+  "geometry": {"coordinates":[66.72499000000001,33.89664],"type":"Point"}
+}

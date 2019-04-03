@@ -1,0 +1,82 @@
+{
+  "id": 1259490745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99748,36.10526,68.99748,36.10526",
+    "geom:latitude":36.10526,
+    "geom:longitude":68.99748,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Bunah Zai",
+    "gn:country_code":"AF",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146135,
+    "gn:latitude":36.10526,
+    "gn:longitude":68.99748,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u016bnah Za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u0647\u0632\u0627\u0626\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u0430\u0437\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "B\u016bna Z\u0101\u2019i",
+        "B\u016bnazay",
+        "Bunazai",
+        "B\u016bneh Z\u0101\u2019\u012b",
+        "B\u016bnah Za\u012b",
+        "\u0628\u0648\u0646\u0647 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146135
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"72324297d9a377047590eb34fc655bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1259490745,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259490745,
+    "wof:lastmodified":1537582159,
+    "wof:name":"Bunah Zai",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99748000000001,
+    36.10526,
+    68.99748000000001,
+    36.10526
+],
+  "geometry": {"coordinates":[68.99748000000001,36.10526],"type":"Point"}
+}

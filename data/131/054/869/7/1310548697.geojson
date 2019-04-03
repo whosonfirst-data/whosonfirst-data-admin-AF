@@ -1,0 +1,73 @@
+{
+  "id": 1310548697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23757,32.63039,67.23757,32.63039",
+    "geom:latitude":32.63039,
+    "geom:longitude":67.23757,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Mir Agha",
+    "gn:country_code":"AF",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133300,
+    "gn:latitude":32.63039,
+    "gn:longitude":67.23757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miraga",
+        "M\u012br \u0100gh\u0101",
+        "\u0645\u06cc\u0631 \u0622\u063a\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"baeed05f542f1f2842c92dce78287463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1310548697,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310548697,
+    "wof:lastmodified":1537581084,
+    "wof:name":"Mir Agha",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23756999999999,
+    32.63039000000001,
+    67.23756999999999,
+    32.63039000000001
+],
+  "geometry": {"coordinates":[67.23756999999999,32.63039000000001],"type":"Point"}
+}

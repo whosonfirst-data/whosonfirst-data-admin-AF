@@ -1,0 +1,73 @@
+{
+  "id": 1276777355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25868,37.89213,70.25868,37.89213",
+    "geom:latitude":37.89213,
+    "geom:longitude":70.25868,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Pari Kham",
+    "gn:country_code":"AF",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467220,
+    "gn:latitude":37.89213,
+    "gn:longitude":70.25868,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Par\u012b Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Par\u012b Kham",
+        "\u067e\u0631\u06cc \u062e\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467220,
+        "wk:page":"Pari_Kham"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe0d4640edbc9ad3bbc0f8004d27524c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562181,
+            "locality_id":1276777355,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276777355,
+    "wof:lastmodified":1537583457,
+    "wof:name":"Pari Kham",
+    "wof:parent_id":1108562181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25868,
+    37.89213,
+    70.25868,
+    37.89213
+],
+  "geometry": {"coordinates":[70.25868,37.89213],"type":"Point"}
+}

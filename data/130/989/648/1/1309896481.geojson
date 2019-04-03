@@ -1,0 +1,77 @@
+{
+  "id": 1309896481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70019,32.66791,67.70019,32.66791",
+    "geom:latitude":32.66791,
+    "geom:longitude":67.70019,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"609",
+    "gn:asciiname":"Ghazi Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141272,
+    "gn:latitude":32.66791,
+    "gn:longitude":67.70019,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u0101z\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gazikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Gh\u0101zikh\u0113l",
+        "Gh\u0101z\u012b Kh\u0113l",
+        "\u063a\u0627\u0632\u06cc \u062e\u06d0\u0644",
+        "Gh\u0101z\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4b1271becaaa6a35ff1ac4fb9d87c0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1309896481,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1309896481,
+    "wof:lastmodified":1537581739,
+    "wof:name":"Ghazi Khel",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70019,
+    32.66791,
+    67.70019,
+    32.66791
+],
+  "geometry": {"coordinates":[67.70019000000001,32.66791],"type":"Point"}
+}

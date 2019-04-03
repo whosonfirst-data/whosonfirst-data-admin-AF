@@ -1,0 +1,74 @@
+{
+  "id": 1259410791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.08747,33.84785,66.08747,33.84785",
+    "geom:latitude":33.84785,
+    "geom:longitude":66.08747,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3401.0",
+    "gn:asciiname":"Kharabah",
+    "gn:country_code":"AF",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449204,
+    "gn:latitude":33.84785,
+    "gn:longitude":66.08747,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khar\u0101bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u1e5f\u0101ba",
+        "Khar\u0101bah",
+        "\u062e\u0631\u0627\u0628\u0647",
+        "Khar\u0101beh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449204
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a7be535a00cadeb1d8acc0b163d0069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562329,
+            "locality_id":1259410791,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1259410791,
+    "wof:lastmodified":1537583011,
+    "wof:name":"Kharabah",
+    "wof:parent_id":1108562329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.08747,
+    33.84785,
+    66.08747,
+    33.84785
+],
+  "geometry": {"coordinates":[66.08747,33.84785],"type":"Point"}
+}

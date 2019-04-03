@@ -1,0 +1,75 @@
+{
+  "id": 1243510597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.06383,32.21263,66.06383,32.21263",
+    "geom:latitude":32.21263,
+    "geom:longitude":66.06383,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403",
+    "gn:asciiname":"Surogh",
+    "gn:country_code":"AF",
+    "gn:dem":1899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123984,
+    "gn:latitude":32.21263,
+    "gn:longitude":66.06383,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br\u014dgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surog",
+        "Su\u1e5f\u014dgh",
+        "S\u016br\u014dgh",
+        "\u0633\u0648\u0631\u0648\u063a",
+        "Sor\u016bgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123984
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"544c2f0c7394a2c73d6a6ad62160b0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1243510597,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243510597,
+    "wof:lastmodified":1537580263,
+    "wof:name":"Surogh",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.06383000000001,
+    32.21263,
+    66.06383000000001,
+    32.21263
+],
+  "geometry": {"coordinates":[66.06383000000001,32.21263],"type":"Point"}
+}

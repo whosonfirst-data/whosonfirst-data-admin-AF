@@ -1,0 +1,72 @@
+{
+  "id": 1209793791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.91486,34.50464,60.91486,34.50464",
+    "geom:latitude":34.50464,
+    "geom:longitude":60.91486,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2008",
+    "gn:asciiname":"Waliabad",
+    "gn:country_code":"AF",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121875,
+    "gn:latitude":34.50464,
+    "gn:longitude":60.91486,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wal\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Val\u012b\u0101b\u0101d",
+        "Wal\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121875
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7bcfa55d3dc58d6f754c2b21638a6582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562213,
+            "locality_id":1209793791,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1209793791,
+    "wof:lastmodified":1537580068,
+    "wof:name":"Waliabad",
+    "wof:parent_id":1108562213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.91486,
+    34.50464,
+    60.91486,
+    34.50464
+],
+  "geometry": {"coordinates":[60.91486,34.50464],"type":"Point"}
+}

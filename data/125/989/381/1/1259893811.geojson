@@ -1,0 +1,72 @@
+{
+  "id": 1259893811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82451,38.28497,70.82451,38.28497",
+    "geom:latitude":38.28497,
+    "geom:longitude":70.82451,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1110.0",
+    "gn:asciiname":"Ur Gaz",
+    "gn:country_code":"AF",
+    "gn:dem":2199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467014,
+    "gn:latitude":38.28497,
+    "gn:longitude":70.82451,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016ar Gaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016ar Gaz",
+        "\u0627\u0648\u0631 \u06af\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467014
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d5c5887d08107f6cd57c47e15e9a2858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561947,
+            "locality_id":1259893811,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259893811,
+    "wof:lastmodified":1537583450,
+    "wof:name":"Ur Gaz",
+    "wof:parent_id":1108561947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82451,
+    38.28497,
+    70.82451,
+    38.28497
+],
+  "geometry": {"coordinates":[70.82451,38.28497],"type":"Point"}
+}

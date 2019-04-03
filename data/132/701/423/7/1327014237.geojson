@@ -1,0 +1,72 @@
+{
+  "id": 1327014237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.67769,33.935,63.67769,33.935",
+    "geom:latitude":33.935,
+    "geom:longitude":63.67769,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Talowak",
+    "gn:country_code":"AF",
+    "gn:dem":2285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123080,
+    "gn:latitude":33.935,
+    "gn:longitude":63.67769,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Talowak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062a\u0644\u0648\u06a9",
+        "Talawak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123080
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"946c50c00c9805043eb8fbeba70e3be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1327014237,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327014237,
+    "wof:lastmodified":1537580203,
+    "wof:name":"Talowak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.67769000000001,
+    33.935,
+    63.67769000000001,
+    33.935
+],
+  "geometry": {"coordinates":[63.67769000000001,33.935],"type":"Point"}
+}

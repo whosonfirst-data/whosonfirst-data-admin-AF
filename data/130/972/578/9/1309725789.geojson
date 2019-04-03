@@ -1,0 +1,73 @@
+{
+  "id": 1309725789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.231,36.9423,70.231,36.9423",
+    "geom:latitude":36.9423,
+    "geom:longitude":70.231,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1124",
+    "gn:asciiname":"Sang-e Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127613,
+    "gn:latitude":36.9423,
+    "gn:longitude":70.231,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Kal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sang-i-Kal\u0101n",
+        "Sang-e Kal\u0101n",
+        "\u0633\u0646\u06af \u06a9\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127613
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1bc0c6d897a7322d92581f4c2a8b263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562541,
+            "locality_id":1309725789,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309725789,
+    "wof:lastmodified":1537580567,
+    "wof:name":"Sang-e Kalan",
+    "wof:parent_id":1108562541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23100000000001,
+    36.9423,
+    70.23100000000001,
+    36.9423
+],
+  "geometry": {"coordinates":[70.23100000000001,36.9423],"type":"Point"}
+}

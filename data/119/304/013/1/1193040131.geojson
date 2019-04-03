@@ -1,0 +1,74 @@
+{
+  "id": 1193040131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.47475,31.50542,61.47475,31.50542",
+    "geom:latitude":31.50542,
+    "geom:longitude":61.47475,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Koh Gah",
+    "gn:country_code":"AF",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135375,
+    "gn:latitude":31.50542,
+    "gn:longitude":61.47475,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dh G\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khoga",
+        "K\u014dh G\u0101h",
+        "\u06a9\u0648\u0647 \u06af\u0627\u0647",
+        "K\u016bh G\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135375
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f989b91e0aa8909a0a220bbc4e8f7b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1193040131,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1193040131,
+    "wof:lastmodified":1537581246,
+    "wof:name":"Koh Gah",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.47475,
+    31.50542,
+    61.47475,
+    31.50542
+],
+  "geometry": {"coordinates":[61.47475,31.50542],"type":"Point"}
+}

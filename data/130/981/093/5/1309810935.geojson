@@ -1,0 +1,73 @@
+{
+  "id": 1309810935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.63625,35.64486,69.63625,35.64486",
+    "geom:latitude":35.64486,
+    "geom:longitude":69.63625,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1302.0",
+    "gn:asciiname":"Yaylaq-e Samandan",
+    "gn:country_code":"AF",
+    "gn:dem":2784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147921,
+    "gn:latitude":35.64486,
+    "gn:longitude":69.63625,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yayl\u0101q-e Samand\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yayl\u0101q-e Samand\u0101n",
+        "\u06cc\u06cc\u0644\u0627\u0642 \u0633\u0645\u0646\u062f\u0627\u0646",
+        "Ayl\u0101q-e Samand\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147921
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf70976e29aa0135cd3dbb09cad93792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562363,
+            "locality_id":1309810935,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1309810935,
+    "wof:lastmodified":1537582306,
+    "wof:name":"Yaylaq-e Samandan",
+    "wof:parent_id":1108562363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.63625,
+    35.64485999999999,
+    69.63625,
+    35.64485999999999
+],
+  "geometry": {"coordinates":[69.63625,35.64485999999999],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344207973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.44694,32.89222,69.44694,32.89222",
+    "geom:latitude":32.89222,
+    "geom:longitude":69.44694,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Paipali",
+    "gn:country_code":"AF",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452804,
+    "gn:latitude":32.89222,
+    "gn:longitude":69.44694,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Paip\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452804
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4cdcff93347e6ce3f97161bce65510f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1344207973,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1344207973,
+    "wof:lastmodified":1536662882,
+    "wof:name":"Paipali",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.44694,
+    32.89222,
+    69.44694,
+    32.89222
+],
+  "geometry": {"coordinates":[69.44694,32.89222],"type":"Point"}
+}

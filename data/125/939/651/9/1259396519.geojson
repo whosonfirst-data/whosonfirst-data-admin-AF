@@ -1,0 +1,72 @@
+{
+  "id": 1259396519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12852,38.37754,71.12852,38.37754",
+    "geom:latitude":38.37754,
+    "geom:longitude":71.12852,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Mirak",
+    "gn:country_code":"AF",
+    "gn:dem":2300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466784,
+    "gn:latitude":38.37754,
+    "gn:longitude":71.12852,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012brak",
+        "\u0645\u06cc\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466784
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"358193be7b976fe51b6dee9b110626ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1259396519,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259396519,
+    "wof:lastmodified":1537583440,
+    "wof:name":"Mirak",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12852,
+    38.37754,
+    71.12852,
+    38.37754
+],
+  "geometry": {"coordinates":[71.12851999999999,38.37754],"type":"Point"}
+}

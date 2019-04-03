@@ -1,0 +1,73 @@
+{
+  "id": 1243176065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06437,38.39568,71.06437,38.39568",
+    "geom:latitude":38.39568,
+    "geom:longitude":71.06437,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Shah Jagun",
+    "gn:country_code":"AF",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467094,
+    "gn:latitude":38.39568,
+    "gn:longitude":71.06437,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Jag\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160ah Jag\u016bn",
+        "Sh\u0101h Jag\u016bn",
+        "\u0634\u0627\u0647 \u062c\u06af\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467094
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ff5ee65c5a0cca3beaea8be15410095d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1243176065,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243176065,
+    "wof:lastmodified":1537583452,
+    "wof:name":"Shah Jagun",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06437,
+    38.39568,
+    71.06437,
+    38.39568
+],
+  "geometry": {"coordinates":[71.06437,38.39568],"type":"Point"}
+}

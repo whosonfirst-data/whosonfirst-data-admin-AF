@@ -1,0 +1,72 @@
+{
+  "id": 1243013853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27139,35.9111,68.27139,35.9111",
+    "geom:latitude":35.9111,
+    "geom:longitude":68.27139,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506.0",
+    "gn:asciiname":"Qghray Qol",
+    "gn:country_code":"AF",
+    "gn:dem":2280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519955,
+    "gn:latitude":35.9111,
+    "gn:longitude":68.27139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qghray Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qghray Q\u014dl",
+        "\u0642\u063a\u0631\u06cc \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e4616bfedddfc09804bd78a480100546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1243013853,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1243013853,
+    "wof:lastmodified":1537583923,
+    "wof:name":"Qghray Qol",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27139,
+    35.9111,
+    68.27139,
+    35.9111
+],
+  "geometry": {"coordinates":[68.27139,35.9111],"type":"Point"}
+}

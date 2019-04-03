@@ -1,0 +1,74 @@
+{
+  "id": 1344178221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.02428,35.44327,65.02428,35.44327",
+    "geom:latitude":35.44327,
+    "geom:longitude":65.02428,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1805",
+    "gn:asciiname":"Hashtumin",
+    "gn:country_code":"AF",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140178,
+    "gn:latitude":35.44327,
+    "gn:longitude":65.02428,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hashtum\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Has\u0304tom\u012bn",
+        "Hashtom\u012bn",
+        "Hashtum\u012bn",
+        "\u0647\u0634\u062a\u0645\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140178
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"15871bdfb4a8d782a759813d3bc391d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562209,
+            "locality_id":1344178221,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1344178221,
+    "wof:lastmodified":1537581637,
+    "wof:name":"Hashtumin",
+    "wof:parent_id":1108562209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.02428,
+    35.44327,
+    65.02428,
+    35.44327
+],
+  "geometry": {"coordinates":[65.02428,35.44327],"type":"Point"}
+}

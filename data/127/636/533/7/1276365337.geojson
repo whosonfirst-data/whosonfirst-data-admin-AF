@@ -1,0 +1,75 @@
+{
+  "id": 1276365337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.45892,32.68647,65.45892,32.68647",
+    "geom:latitude":32.68647,
+    "geom:longitude":65.45892,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605",
+    "gn:asciiname":"Shartughay",
+    "gn:country_code":"AF",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125524,
+    "gn:latitude":32.68647,
+    "gn:longitude":65.45892,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shartughay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160artoghay",
+        "Shartugay",
+        "Shartughay",
+        "\u0634\u0631\u062a\u063a\u06cc",
+        "Sha\u1e5ftoghay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125524
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4e7c26db3fb7e1848e0abba87caac14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561983,
+            "locality_id":1276365337,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1276365337,
+    "wof:lastmodified":1537580397,
+    "wof:name":"Shartughay",
+    "wof:parent_id":1108561983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.45891999999999,
+    32.68647,
+    65.45891999999999,
+    32.68647
+],
+  "geometry": {"coordinates":[65.45891999999999,32.68647],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209829373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1825,37.05328,71.1825,37.05328",
+    "geom:latitude":37.05328,
+    "geom:longitude":71.1825,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1122.0",
+    "gn:asciiname":"Unar",
+    "gn:country_code":"AF",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468324,
+    "gn:latitude":37.05328,
+    "gn:longitude":71.1825,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016anar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016anar",
+        "\u0627\u0648\u0646\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468324
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fe6d7f711b53f7fa0598b1cce9b635e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562453,
+            "locality_id":1209829373,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1209829373,
+    "wof:lastmodified":1537583549,
+    "wof:name":"Unar",
+    "wof:parent_id":1108562453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1825,
+    37.05328,
+    71.1825,
+    37.05328
+],
+  "geometry": {"coordinates":[71.1825,37.05328],"type":"Point"}
+}

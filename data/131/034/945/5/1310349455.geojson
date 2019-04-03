@@ -1,0 +1,77 @@
+{
+  "id": 1310349455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97386,33.36048,68.97386,33.36048",
+    "geom:latitude":33.36048,
+    "geom:longitude":68.97386,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Zutni Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120505,
+    "gn:latitude":33.36048,
+    "gn:longitude":68.97386,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Z\u016btn\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zutnikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Zutnikh\u0113l",
+        "Z\u016btn\u012b Kheyl",
+        "Z\u016btn\u012b Kh\u0113l",
+        "\u0632\u0648\u062a\u0646\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120505
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1d20e26baece354495b145e769a85aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1310349455,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1310349455,
+    "wof:lastmodified":1537579950,
+    "wof:name":"Zutni Khel",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97386,
+    33.36048,
+    68.97386,
+    33.36048
+],
+  "geometry": {"coordinates":[68.97386,33.36048],"type":"Point"}
+}

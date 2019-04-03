@@ -1,0 +1,73 @@
+{
+  "id": 1360289483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09081,37.82311,71.09081,37.82311",
+    "geom:latitude":37.82311,
+    "geom:longitude":71.09081,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1117.0",
+    "gn:asciiname":"Sharist",
+    "gn:country_code":"AF",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467864,
+    "gn:latitude":37.82311,
+    "gn:longitude":71.09081,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shar\u012bst",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sa\u1e5f\u012bst",
+        "Shar\u012bst",
+        "\u0634\u0631\u06cc\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467864
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11d8f52bb20487f6ba37ddbe1a4b9cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561949,
+            "locality_id":1360289483,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360289483,
+    "wof:lastmodified":1537583513,
+    "wof:name":"Sharist",
+    "wof:parent_id":1108561949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09081,
+    37.82311,
+    71.09081,
+    37.82311
+],
+  "geometry": {"coordinates":[71.09081,37.82311],"type":"Point"}
+}

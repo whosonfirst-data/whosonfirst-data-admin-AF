@@ -1,0 +1,74 @@
+{
+  "id": 1343948655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29882,33.07887,67.29882,33.07887",
+    "geom:latitude":33.07887,
+    "geom:longitude":67.29882,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Sayah Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450643,
+    "gn:latitude":33.07887,
+    "gn:longitude":67.29882,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0101yah Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101yakh\u0101na",
+        "S\u0101yeh Kh\u0101neh",
+        "S\u0101yah Kh\u0101nah",
+        "\u0633\u0627\u06cc\u0647 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450643
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25a4a1d6b9e8ca5a2a8f01d2207b7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343948655,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343948655,
+    "wof:lastmodified":1537583057,
+    "wof:name":"Sayah Khanah",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29881999999999,
+    33.07887,
+    67.29881999999999,
+    33.07887
+],
+  "geometry": {"coordinates":[67.29881999999999,33.07887],"type":"Point"}
+}

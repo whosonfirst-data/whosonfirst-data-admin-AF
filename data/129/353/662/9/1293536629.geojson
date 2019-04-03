@@ -1,0 +1,79 @@
+{
+  "id": 1293536629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56134,32.8189,68.56134,32.8189",
+    "geom:latitude":32.8189,
+    "geom:longitude":68.56134,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Baki Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147393,
+    "gn:latitude":32.8189,
+    "gn:longitude":68.56134,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bak\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bakikheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Bak Kheyl",
+        "Bakik\u0113l",
+        "Bak Khel",
+        "\u0628\u06a9\u06cc \u062e\u06d0\u0644",
+        "Bak\u012b Kheyl",
+        "Bak\u012b Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147393
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"53afc12433098908436f9c6ec53aeeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1293536629,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293536629,
+    "wof:lastmodified":1537582263,
+    "wof:name":"Baki Khel",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56134,
+    32.8189,
+    68.56134,
+    32.8189
+],
+  "geometry": {"coordinates":[68.56134,32.8189],"type":"Point"}
+}

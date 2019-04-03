@@ -1,0 +1,79 @@
+{
+  "id": 1343506471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74361,34.88313,70.74361,34.88313",
+    "geom:latitude":34.88313,
+    "geom:longitude":70.74361,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009",
+    "gn:asciiname":"Sleman Shah",
+    "gn:country_code":"AF",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124255,
+    "gn:latitude":34.88313,
+    "gn:longitude":70.74361,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sl\u0113m\u0101n Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0627\u0646 \u0634\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Suleymanshakh",
+        "Sol\u0113m\u0101ns\u0304ah",
+        "Sl\u0113m\u0101n\u0161\u0101h",
+        "Soleym\u0101n Sh\u0101h",
+        "Sl\u0113m\u0101n Sh\u0101h",
+        "\u0633\u0644\u06d0\u0645\u0627\u0646 \u0634\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124255
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a1d0b2add5f80f98d4d3481f949c71c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1343506471,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1343506471,
+    "wof:lastmodified":1537580285,
+    "wof:name":"Sleman Shah",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74361,
+    34.88313,
+    70.74361,
+    34.88313
+],
+  "geometry": {"coordinates":[70.74361,34.88313],"type":"Point"}
+}

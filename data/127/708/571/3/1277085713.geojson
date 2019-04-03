@@ -1,0 +1,74 @@
+{
+  "id": 1277085713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.39841,35.3854,68.39841,35.3854",
+    "geom:latitude":35.3854,
+    "geom:longitude":68.39841,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Kololah Sang",
+    "gn:country_code":"AF",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135719,
+    "gn:latitude":35.3854,
+    "gn:longitude":68.39841,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kol\u014dlah Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kol\u014dlasang",
+        "Kol\u016bleh Sang",
+        "Kol\u014dlah Sang",
+        "\u06a9\u0644\u0648\u0644\u0647 \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135719
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be31873cca0205422a4a3f2b2fa4ebd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1277085713,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1277085713,
+    "wof:lastmodified":1537581279,
+    "wof:name":"Kololah Sang",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.39841,
+    35.3854,
+    68.39841,
+    35.3854
+],
+  "geometry": {"coordinates":[68.39841,35.3854],"type":"Point"}
+}

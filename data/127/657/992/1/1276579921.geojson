@@ -1,0 +1,78 @@
+{
+  "id": 1276579921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.82396,32.65698,65.82396,32.65698",
+    "geom:latitude":32.65698,
+    "geom:longitude":65.82396,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Sowzabad",
+    "gn:country_code":"AF",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449859,
+    "gn:latitude":32.65698,
+    "gn:longitude":65.82396,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sowz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u0632\u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sauzabad",
+        "Sawz\u0101b\u0101\u1e0f",
+        "Sowz\u0101b\u0101d",
+        "\u0633\u0648\u0632 \u0622\u0628\u0627\u062f",
+        "Sabz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449859
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"62f16009e07835391d49514708de7ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1276579921,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1276579921,
+    "wof:lastmodified":1537583024,
+    "wof:name":"Sowzabad",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.82396,
+    32.65698,
+    65.82396,
+    32.65698
+],
+  "geometry": {"coordinates":[65.82396,32.65698],"type":"Point"}
+}

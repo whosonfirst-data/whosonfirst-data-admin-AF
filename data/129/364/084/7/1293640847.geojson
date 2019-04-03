@@ -1,0 +1,77 @@
+{
+  "id": 1293640847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9845,33.67493,69.9845,33.67493",
+    "geom:latitude":33.67493,
+    "geom:longitude":69.9845,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3202",
+    "gn:asciiname":"Ghundzay",
+    "gn:country_code":"AF",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141000,
+    "gn:latitude":33.67493,
+    "gn:longitude":69.9845,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghundzay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gundzhay",
+        "Ghunjay",
+        "Gh\u016bndza\u012b",
+        "Ghundzay",
+        "\u063a\u0646\u0681\u06cc",
+        "\u063a\u0646\u062c\u06cc",
+        "Gh\u016bndzay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141000
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99115613013bc77cbef9f0b155c42ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562093,
+            "locality_id":1293640847,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1293640847,
+    "wof:lastmodified":1537581712,
+    "wof:name":"Ghundzay",
+    "wof:parent_id":1108562093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9845,
+    33.67493,
+    69.9845,
+    33.67493
+],
+  "geometry": {"coordinates":[69.9845,33.67493],"type":"Point"}
+}

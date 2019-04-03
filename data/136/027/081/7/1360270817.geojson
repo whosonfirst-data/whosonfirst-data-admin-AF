@@ -1,0 +1,79 @@
+{
+  "id": 1360270817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.46952,33.46764,68.46952,33.46764",
+    "geom:latitude":33.46764,
+    "geom:longitude":68.46952,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"601",
+    "gn:asciiname":"Shalez",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125719,
+    "gn:latitude":33.46764,
+    "gn:longitude":68.46952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101l\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0644\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101l\u0113z",
+        "Shalez",
+        "Sh\u0101layz",
+        "Sh\u0101l\u012bz",
+        "Sh\u0101l\u0113z",
+        "\u0634\u0627\u0644\u06d0\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125719
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"acbff20499a416b6a455c5f028970fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1360270817,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360270817,
+    "wof:lastmodified":1537580411,
+    "wof:name":"Shalez",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.46951999999999,
+    33.46764,
+    68.46951999999999,
+    33.46764
+],
+  "geometry": {"coordinates":[68.46951999999999,33.46764],"type":"Point"}
+}

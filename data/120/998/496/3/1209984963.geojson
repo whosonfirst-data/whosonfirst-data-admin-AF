@@ -1,0 +1,78 @@
+{
+  "id": 1209984963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.62752,31.65224,65.62752,31.65224",
+    "geom:latitude":31.65224,
+    "geom:longitude":65.62752,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2404.0",
+    "gn:asciiname":"Kherisak",
+    "gn:country_code":"AF",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407258,
+    "gn:latitude":31.65224,
+    "gn:longitude":65.62752,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u00ea\u1e5fisak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0633\u0643"
+    ],
+    "name:und_x_variant":[
+        "Kh\u011bresak",
+        "Kherisak",
+        "Kh\u00ea\u1e5fisak",
+        "\u062e\u0693\u0633\u06a9",
+        "Khersak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407258
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d581e19af0db640bb68e4c86a06324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561811,
+            "locality_id":1209984963,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1209984963,
+    "wof:lastmodified":1537582512,
+    "wof:name":"Kherisak",
+    "wof:parent_id":1108561811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.62751999999999,
+    31.65224000000001,
+    65.62751999999999,
+    31.65224000000001
+],
+  "geometry": {"coordinates":[65.62751999999999,31.65224000000001],"type":"Point"}
+}

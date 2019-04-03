@@ -1,0 +1,75 @@
+{
+  "id": 1326875817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89439,36.42075,67.89439,36.42075",
+    "geom:latitude":36.42075,
+    "geom:longitude":67.89439,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1502",
+    "gn:asciiname":"Sharqiah-ye Uzbakiah",
+    "gn:country_code":"AF",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1126862,
+    "gn:latitude":36.42075,
+    "gn:longitude":67.89439,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sharq\u012bah-ye Uzbak\u012bah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sarq\u012ba-ye Ozbak\u012ba",
+        "Sarq\u012ba-i-Ozbak\u012ba",
+        "Sarq\u012byeh-ye Ozbak\u012byeh",
+        "Sharq\u012bah-ye Uzbak\u012bah",
+        "\u0634\u0631\u0642\u06cc\u06c0 \u0627\u0632\u0628\u06a9\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126862
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ba4768bb651e71537905f7766e132b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562063,
+            "locality_id":1326875817,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1326875817,
+    "wof:lastmodified":1537580508,
+    "wof:name":"Sharqiah-ye Uzbakiah",
+    "wof:parent_id":1108562063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89439,
+    36.42075,
+    67.89439,
+    36.42075
+],
+  "geometry": {"coordinates":[67.89439,36.42075],"type":"Point"}
+}

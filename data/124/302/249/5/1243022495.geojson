@@ -1,0 +1,74 @@
+{
+  "id": 1243022495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63909,34.50733,68.63909,34.50733",
+    "geom:latitude":34.50733,
+    "geom:longitude":68.63909,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402",
+    "gn:asciiname":"Sang-e Pulak",
+    "gn:country_code":"AF",
+    "gn:dem":2446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127597,
+    "gn:latitude":34.50733,
+    "gn:longitude":68.63909,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sang-e Pulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangi-Pulak",
+        "Sang-e Polak",
+        "Sang-e Pulak",
+        "\u0633\u0646\u06af \u067e\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127597
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"47fe76595b52ca8ec2377f699ae02955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1243022495,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1243022495,
+    "wof:lastmodified":1537580566,
+    "wof:name":"Sang-e Pulak",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63909,
+    34.50733,
+    68.63909,
+    34.50733
+],
+  "geometry": {"coordinates":[68.63909,34.50733],"type":"Point"}
+}

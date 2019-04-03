@@ -1,0 +1,72 @@
+{
+  "id": 1209368703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87769,34.73936,70.87769,34.73936",
+    "geom:latitude":34.73936,
+    "geom:longitude":70.87769,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1012.0",
+    "gn:asciiname":"Sulaimanzai",
+    "gn:country_code":"AF",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474250,
+    "gn:latitude":34.73936,
+    "gn:longitude":70.87769,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sula\u012bm\u0101nza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc\u0645\u0627\u0646\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Slaym\u0101nzi",
+        "Slaymanzi",
+        "Soleym\u0101nzi",
+        "Sula\u012bm\u0101nza\u012b",
+        "\u0633\u0644\u06cc\u0645\u0627\u0646 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474250
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7047dca4d059b8f4d45b4d62711a440f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209368703
+        }
+    ],
+    "wof:id":1209368703,
+    "wof:lastmodified":1537583791,
+    "wof:name":"Sulaimanzai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87769,
+    34.73936,
+    70.87769,
+    34.73936
+],
+  "geometry": {"coordinates":[70.87769,34.73936],"type":"Point"}
+}

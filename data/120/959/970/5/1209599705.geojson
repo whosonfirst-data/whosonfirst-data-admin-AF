@@ -1,0 +1,68 @@
+{
+  "id": 1209599705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88168,35.19165,64.88168,35.19165",
+    "geom:latitude":35.19165,
+    "geom:longitude":64.88168,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2708",
+    "gn:asciiname":"Payshi",
+    "gn:country_code":"AF",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130586,
+    "gn:latitude":35.19165,
+    "gn:longitude":64.88168,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Paysh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0113s\u0304i",
+        "P\u012bsh\u012b",
+        "Paysh\u012b",
+        "\u067e\u06cc\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130586
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99c190c945c4738739a19fbe4e37dccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209599705
+        }
+    ],
+    "wof:id":1209599705,
+    "wof:lastmodified":1537580851,
+    "wof:name":"Payshi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88168,
+    35.19165,
+    64.88168,
+    35.19165
+],
+  "geometry": {"coordinates":[64.88168,35.19165],"type":"Point"}
+}

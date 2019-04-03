@@ -1,0 +1,82 @@
+{
+  "id": 1327309601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47325,34.45276,70.47325,34.45276",
+    "geom:latitude":34.45276,
+    "geom:longitude":70.47325,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Abdian",
+    "gn:country_code":"AF",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473012,
+    "gn:latitude":34.45276,
+    "gn:longitude":70.47325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Abd\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u062f\u064a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Abd\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "Abdy\u0101n",
+        "\u0627\u0628\u062f\u064a\u0627\u0646",
+        "Abd\u012b\u0101n",
+        "\u0627\u0628\u062f\u06cc\u0627\u0646",
+        "\u2018Abd\u012b\u0101n",
+        "\u0639\u0628\u062f\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473012
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1dff612f2f0b318b84435f7f5d106d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1327309601,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327309601,
+    "wof:lastmodified":1537583730,
+    "wof:name":"Abdian",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47325,
+    34.45276,
+    70.47325,
+    34.45276
+],
+  "geometry": {"coordinates":[70.47324999999999,34.45276],"type":"Point"}
+}

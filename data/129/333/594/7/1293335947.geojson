@@ -1,0 +1,72 @@
+{
+  "id": 1293335947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39697,35.74172,67.39697,35.74172",
+    "geom:latitude":35.74172,
+    "geom:longitude":67.39697,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Garmak",
+    "gn:country_code":"AF",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141780,
+    "gn:latitude":35.74172,
+    "gn:longitude":67.39697,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Garmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06af\u0631\u0645\u06a9",
+        "Ga\u1e5fmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141780
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"61cb2b7f1e95a29bde4263f5ee591c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1293335947,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293335947,
+    "wof:lastmodified":1537581774,
+    "wof:name":"Garmak",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39697,
+    35.74172,
+    67.39697,
+    35.74172
+],
+  "geometry": {"coordinates":[67.39697,35.74172],"type":"Point"}
+}

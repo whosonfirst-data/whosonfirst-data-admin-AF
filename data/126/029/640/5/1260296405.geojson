@@ -1,0 +1,74 @@
+{
+  "id": 1260296405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36844,36.05667,69.36844,36.05667",
+    "geom:latitude":36.05667,
+    "geom:longitude":69.36844,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1315",
+    "gn:asciiname":"Shakhaymum",
+    "gn:country_code":"AF",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125771,
+    "gn:latitude":36.05667,
+    "gn:longitude":69.36844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakhaym\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160akhaym\u016bm",
+        "Shakhaymum",
+        "Shakhaym\u016bm",
+        "\u0634\u062e\u06cc\u0645\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125771
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e12b88d7ca928e1315c73fc734af5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562189,
+            "locality_id":1260296405,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1260296405,
+    "wof:lastmodified":1537580415,
+    "wof:name":"Shakhaymum",
+    "wof:parent_id":1108562189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36844,
+    36.05667,
+    69.36844,
+    36.05667
+],
+  "geometry": {"coordinates":[69.36844000000001,36.05667],"type":"Point"}
+}

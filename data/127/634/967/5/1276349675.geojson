@@ -1,0 +1,82 @@
+{
+  "id": 1276349675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1729,37.31091,70.1729,37.31091",
+    "geom:latitude":37.31091,
+    "geom:longitude":70.1729,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113",
+    "gn:asciiname":"Shahr-e Buzurg",
+    "gn:country_code":"AF",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125881,
+    "gn:latitude":37.31091,
+    "gn:longitude":70.1729,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr-e Buzurg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064e\u0647\u0631 \u0628\u064f\u0632\u064f\u0631\u06af"
+    ],
+    "name:pus_x_preferred":[
+        "Shahr-e Bozorg"
+    ],
+    "name:und_x_variant":[
+        "S\u0304ah\u1e5f-i-Buzu\u1e5fg",
+        "Shahr-i-Buzurg",
+        "S\u0304ah\u1e5fe Bozu\u1e5fg",
+        "Shahr-e Buzurg",
+        "\u0634\u0647\u0631 \u0628\u0632\u0631\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125881,
+        "wk:page":"Shahr-e_Bozorg"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a969aba6f90effe0fadf8001be512203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1276349675,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276349675,
+    "wof:lastmodified":1537580424,
+    "wof:name":"Shahr-e Buzurg",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1729,
+    37.31091,
+    70.1729,
+    37.31091
+],
+  "geometry": {"coordinates":[70.1729,37.31091],"type":"Point"}
+}

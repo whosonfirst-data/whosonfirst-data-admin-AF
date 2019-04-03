@@ -1,0 +1,74 @@
+{
+  "id": 1293134339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.96555,33.57372,65.96555,33.57372",
+    "geom:latitude":33.57372,
+    "geom:longitude":65.96555,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402",
+    "gn:asciiname":"Uqigan",
+    "gn:country_code":"AF",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121948,
+    "gn:latitude":33.57372,
+    "gn:longitude":65.96555,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016aqig\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016apeg\u0101n",
+        "\u016aqig\u0101n",
+        "\u0627\u0648\u0642\u06af\u0627\u0646",
+        "\u016aqeg\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121948
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c6ae34c449a9f97fda5cba09248c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562039,
+            "locality_id":1293134339,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1293134339,
+    "wof:lastmodified":1537580075,
+    "wof:name":"Uqigan",
+    "wof:parent_id":1108562039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.96555,
+    33.57372,
+    65.96555,
+    33.57372
+],
+  "geometry": {"coordinates":[65.96554999999999,33.57372],"type":"Point"}
+}

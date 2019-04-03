@@ -1,0 +1,73 @@
+{
+  "id": 1260147629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.87054,36.20125,69.87054,36.20125",
+    "geom:latitude":36.20125,
+    "geom:longitude":69.87054,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Injin",
+    "gn:country_code":"AF",
+    "gn:dem":2156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142516,
+    "gn:latitude":36.20125,
+    "gn:longitude":69.87054,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Inj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inj\u012bn",
+        "\u0627\u0646\u062c\u06cc\u0646",
+        "Enj\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142516
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49eeaac49a4047be054c11a5eec05d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1260147629,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1260147629,
+    "wof:lastmodified":1537581835,
+    "wof:name":"Injin",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.87054,
+    36.20125,
+    69.87054,
+    36.20125
+],
+  "geometry": {"coordinates":[69.87054000000001,36.20125],"type":"Point"}
+}

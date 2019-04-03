@@ -1,0 +1,73 @@
+{
+  "id": 1259981339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64927,35.98484,68.64927,35.98484",
+    "geom:latitude":35.98484,
+    "geom:longitude":68.64927,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1301.0",
+    "gn:asciiname":"Babar",
+    "gn:country_code":"AF",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1470112,
+    "gn:latitude":35.98484,
+    "gn:longitude":68.64927,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Babar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baba\u1e5f",
+        "Babar",
+        "\u0628\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1470112
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fd16b469d842229a19543717af67ae1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1259981339,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259981339,
+    "wof:lastmodified":1537583639,
+    "wof:name":"Babar",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64927,
+    35.98484000000001,
+    68.64927,
+    35.98484000000001
+],
+  "geometry": {"coordinates":[68.64927,35.98484000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259878737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48891,34.1212,66.48891,34.1212",
+    "geom:latitude":34.1212,
+    "geom:longitude":66.48891,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Kun-e Gaw",
+    "gn:country_code":"AF",
+    "gn:dem":2691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456242,
+    "gn:latitude":34.1212,
+    "gn:longitude":66.48891,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bn-e G\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuni-Gav",
+        "K\u016bne G\u0101w",
+        "K\u016bn-e G\u0101v",
+        "K\u016bn-e G\u0101w",
+        "\u06a9\u0648\u0646 \u06af\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456242
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"78e4b26376830c78ae9a198e41dc89fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1259878737,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259878737,
+    "wof:lastmodified":1537583174,
+    "wof:name":"Kun-e Gaw",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48891,
+    34.1212,
+    66.48891,
+    34.1212
+],
+  "geometry": {"coordinates":[66.48891,34.1212],"type":"Point"}
+}

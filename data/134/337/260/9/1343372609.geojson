@@ -1,0 +1,81 @@
+{
+  "id": 1343372609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.10436,36.80606,70.10436,36.80606",
+    "geom:latitude":36.80606,
+    "geom:longitude":70.10436,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102",
+    "gn:asciiname":"Kishim",
+    "gn:country_code":"AF",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137458,
+    "gn:latitude":36.80606,
+    "gn:longitude":70.10436,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kishim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "Keshem"
+    ],
+    "name:und_x_variant":[
+        "Kishm",
+        "Kes\u0304em",
+        "Kishma",
+        "\u06a9\u0650\u0634\u0650\u0645",
+        "Keshem",
+        "Kishim",
+        "\u06a9\u0634\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137458,
+        "wk:page":"Keshem"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ca4c49525d1e0c5fb439765bd85e9b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562197,
+            "locality_id":1343372609,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343372609,
+    "wof:lastmodified":1537581420,
+    "wof:name":"Kishim",
+    "wof:parent_id":1108562197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.10436,
+    36.80606,
+    70.10436,
+    36.80606
+],
+  "geometry": {"coordinates":[70.10436,36.80606],"type":"Point"}
+}

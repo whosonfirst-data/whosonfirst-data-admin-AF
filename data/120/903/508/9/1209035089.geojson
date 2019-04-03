@@ -1,0 +1,68 @@
+{
+  "id": 1209035089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.59638,33.53412,65.59638,33.53412",
+    "geom:latitude":33.53412,
+    "geom:longitude":65.59638,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Khairabad",
+    "gn:country_code":"AF",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136669,
+    "gn:latitude":33.53412,
+    "gn:longitude":65.59638,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khay\u1e5f\u0101b\u0101\u1e0f",
+        "Kha\u012br\u0101b\u0101d",
+        "\u062e\u06cc\u0631 \u0622\u0628\u0627\u062f",
+        "Kheyr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136669
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5ae4779760487d5ee04a1f44dd328773",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209035089
+        }
+    ],
+    "wof:id":1209035089,
+    "wof:lastmodified":1537581360,
+    "wof:name":"Khairabad",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.59638000000001,
+    33.53412,
+    65.59638000000001,
+    33.53412
+],
+  "geometry": {"coordinates":[65.59638000000001,33.53412],"type":"Point"}
+}

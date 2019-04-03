@@ -1,0 +1,74 @@
+{
+  "id": 1242821599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62311,32.30926,67.62311,32.30926",
+    "geom:latitude":32.30926,
+    "geom:longitude":67.62311,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511.0",
+    "gn:asciiname":"Loy Tangay",
+    "gn:country_code":"AF",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443020,
+    "gn:latitude":32.30926,
+    "gn:longitude":67.62311,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Tangay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u014dy Tangay",
+        "L\u014dy Tanga\u012b",
+        "\u0644\u0648\u06cc \u062a\u0646\u06af\u06cc",
+        "L\u016by Tangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"123f8b03afeaacdace82825688d8b823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1242821599,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242821599,
+    "wof:lastmodified":1537582944,
+    "wof:name":"Loy Tangay",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62311,
+    32.30925999999999,
+    67.62311,
+    32.30925999999999
+],
+  "geometry": {"coordinates":[67.62311,32.30925999999999],"type":"Point"}
+}

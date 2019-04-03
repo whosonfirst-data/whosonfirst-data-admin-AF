@@ -1,0 +1,70 @@
+{
+  "id": 1209571617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.18991,31.66725,67.18991,31.66725",
+    "geom:latitude":31.66725,
+    "geom:longitude":67.18991,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Shaykhzai",
+    "gn:country_code":"AF",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436104,
+    "gn:latitude":31.66725,
+    "gn:longitude":67.18991,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykhza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u0634\u064a\u062e\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0113khzay",
+        "Shaykhza\u012b",
+        "Sheykhz\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436104
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"35e7ecf4a21dce3d684dc534abf845f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209571617
+        }
+    ],
+    "wof:id":1209571617,
+    "wof:lastmodified":1537582801,
+    "wof:name":"Shaykhzai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.18991,
+    31.66725,
+    67.18991,
+    31.66725
+],
+  "geometry": {"coordinates":[67.18991,31.66725],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276841467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.03456,34.55135,69.03456,34.55135",
+    "geom:latitude":34.55135,
+    "geom:longitude":69.03456,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"108.0",
+    "gn:asciiname":"Purozhah-ye Mahi",
+    "gn:country_code":"AF",
+    "gn:dem":1970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9008365,
+    "gn:latitude":34.55135,
+    "gn:longitude":69.03456,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pur\u014dzhah-ye M\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pur\u014dzhah-ye M\u0101h\u012b",
+        "\u067e\u0631\u0648\u0698\u0647 \u0645\u0627\u0647\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9008365
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f205cc445fee81db1379efa7305519d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562345,
+            "locality_id":1276841467,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1276841467,
+    "wof:lastmodified":1537583949,
+    "wof:name":"Purozhah-ye Mahi",
+    "wof:parent_id":1108562345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.03456,
+    34.55135,
+    69.03456,
+    34.55135
+],
+  "geometry": {"coordinates":[69.03456,34.55135],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343349521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.41744,34.33431,63.41744,34.33431",
+    "geom:latitude":34.33431,
+    "geom:longitude":63.41744,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Washa",
+    "gn:country_code":"AF",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121679,
+    "gn:latitude":34.33431,
+    "gn:longitude":63.41744,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Washa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101\u0161a",
+        "Washa",
+        "W\u0101shah",
+        "\u0648\u0627\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121679
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f2e6b2aded4122a5f1f823ad11e4f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1343349521,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343349521,
+    "wof:lastmodified":1537580056,
+    "wof:name":"Washa",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.41744,
+    34.33431,
+    63.41744,
+    34.33431
+],
+  "geometry": {"coordinates":[63.41744,34.33431],"type":"Point"}
+}

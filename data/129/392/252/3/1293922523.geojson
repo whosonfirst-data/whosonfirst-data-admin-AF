@@ -1,0 +1,76 @@
+{
+  "id": 1293922523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.87511,33.63434,69.87511,33.63434",
+    "geom:latitude":33.63434,
+    "geom:longitude":69.87511,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3209.0",
+    "gn:asciiname":"Cheray",
+    "gn:country_code":"AF",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1145071,
+    "gn:latitude":33.63434,
+    "gn:longitude":69.87511,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u00earay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u010c\u011bray",
+        "Ch\u00earay",
+        "\u0686\u0631\u06cc",
+        "Ch\u012bray",
+        "\u0686\u06cc\u0631\u06cc",
+        "Cheray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf2c2dd4cbc5dfb63cfb7263d6c2446e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562421,
+            "locality_id":1293922523,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1293922523,
+    "wof:lastmodified":1537582071,
+    "wof:name":"Cheray",
+    "wof:parent_id":1108562421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.87510999999999,
+    33.63434,
+    69.87510999999999,
+    33.63434
+],
+  "geometry": {"coordinates":[69.87510999999999,33.63434],"type":"Point"}
+}

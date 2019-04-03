@@ -1,0 +1,81 @@
+{
+  "id": 1260091613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96194,36.09262,68.96194,36.09262",
+    "geom:latitude":36.09262,
+    "geom:longitude":68.96194,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Chahar Khabakah",
+    "gn:country_code":"AF",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145343,
+    "gn:latitude":36.09262,
+    "gn:longitude":68.96194,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Khabakah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631 \u062e\u0628\u0643\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0445\u0430\u0431\u0430\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Char Khabaka",
+        "\u010carkh\u0101baka",
+        "Charkhabaka",
+        "Chah\u0101r Khabakah",
+        "\u0686\u0647\u0627\u0631 \u062e\u0627\u0628\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145343
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b565d9aa8bc3772493c7c51958b70b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1260091613,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1260091613,
+    "wof:lastmodified":1537582094,
+    "wof:name":"Chahar Khabakah",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96194,
+    36.09262,
+    68.96194,
+    36.09262
+],
+  "geometry": {"coordinates":[68.96194,36.09262],"type":"Point"}
+}

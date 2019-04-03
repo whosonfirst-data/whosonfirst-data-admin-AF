@@ -1,0 +1,79 @@
+{
+  "id": 1209777031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.60811,32.18225,66.60811,32.18225",
+    "geom:latitude":32.18225,
+    "geom:longitude":66.60811,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2505",
+    "gn:asciiname":"De Sher Karez",
+    "gn:country_code":"AF",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143166,
+    "gn:latitude":32.18225,
+    "gn:longitude":66.60811,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Sh\u0113r K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f \u0634\u064a\u0631 \u0643\u0627\u0631\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Sherkarez",
+        "\u1e0ee S\u0113\u1e5f K\u0101\u1e5f\u0113z",
+        "D\u00ea Shayr K\u0101r\u0113z",
+        "\u062f \u0634\u06cc\u0631 \u06a9\u0627\u0631\u06d0\u0632",
+        "De Sh\u012br K\u0101r\u012bz",
+        "D\u00ea Sh\u0113r K\u0101r\u0113z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143166
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a9f5d8c5c55ab6183180df0fb9486822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562277,
+            "locality_id":1209777031,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209777031,
+    "wof:lastmodified":1537581896,
+    "wof:name":"De Sher Karez",
+    "wof:parent_id":1108562277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.60811,
+    32.18225,
+    66.60811,
+    32.18225
+],
+  "geometry": {"coordinates":[66.60811,32.18225],"type":"Point"}
+}

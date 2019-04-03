@@ -1,0 +1,76 @@
+{
+  "id": 1193141805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23958,34.28964,67.23958,34.28964",
+    "geom:latitude":34.28964,
+    "geom:longitude":67.23958,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806",
+    "gn:asciiname":"Fayzi",
+    "gn:country_code":"AF",
+    "gn:dem":2964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142164,
+    "gn:latitude":34.28964,
+    "gn:longitude":67.23958,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Fayzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fay\u1e0f\u1e95i",
+        "Fayzi",
+        "Fa\u012b\u1e95\u012b",
+        "Feyz\u0327\u012b",
+        "Fay\u1e95\u012b",
+        "\u0641\u06cc\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142164
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"49cc6c840a0e389c84388efce03dd9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1193141805,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1193141805,
+    "wof:lastmodified":1537581804,
+    "wof:name":"Fayzi",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23958,
+    34.28964000000001,
+    67.23958,
+    34.28964000000001
+],
+  "geometry": {"coordinates":[67.23958,34.28964000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293830879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.49662,32.79837,68.49662,32.79837",
+    "geom:latitude":32.79837,
+    "geom:longitude":68.49662,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902",
+    "gn:asciiname":"Malizai",
+    "gn:country_code":"AF",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134112,
+    "gn:latitude":32.79837,
+    "gn:longitude":68.49662,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maliza\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0644\u0632\u06cc",
+        "Mal\u012bz\u012b",
+        "Maliza\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134112
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d79fef6e8544c4cf45ae9354f3e120d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1293830879,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293830879,
+    "wof:lastmodified":1537581148,
+    "wof:name":"Malizai",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.49662,
+    32.79837,
+    68.49662,
+    32.79837
+],
+  "geometry": {"coordinates":[68.49661999999999,32.79837],"type":"Point"}
+}

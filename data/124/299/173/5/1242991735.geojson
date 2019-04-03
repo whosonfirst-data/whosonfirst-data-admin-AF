@@ -1,0 +1,71 @@
+{
+  "id": 1242991735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.69293,33.90975,63.69293,33.90975",
+    "geom:latitude":33.90975,
+    "geom:longitude":63.69293,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Haftanak",
+    "gn:country_code":"AF",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140424,
+    "gn:latitude":33.90975,
+    "gn:longitude":63.69293,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haftanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0647\u0641\u062a\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140424
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0e06f4dbff55f55a552e232a66b1c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1242991735,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242991735,
+    "wof:lastmodified":1537581662,
+    "wof:name":"Haftanak",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.69293,
+    33.90975,
+    63.69293,
+    33.90975
+],
+  "geometry": {"coordinates":[63.69293,33.90975],"type":"Point"}
+}

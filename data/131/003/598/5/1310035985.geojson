@@ -1,0 +1,79 @@
+{
+  "id": 1310035985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.8773,35.26672,69.8773,35.26672",
+    "geom:latitude":35.26672,
+    "geom:longitude":69.8773,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3302",
+    "gn:asciiname":"Elshafi",
+    "gn:country_code":"AF",
+    "gn:dem":3074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142556,
+    "gn:latitude":35.26672,
+    "gn:longitude":69.8773,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0112lshaf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c\u0448\u0430\u0444\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u0112l\u0161afi",
+        "El\u2019shafi",
+        "Elshafi",
+        "Eylshaf\u012b",
+        "\u0112lshaf\u012b",
+        "\u0627\u06cc\u0644\u0634\u0641\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142556
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f78b7300e408e72dc76b71e07d65cb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561939,
+            "locality_id":1310035985,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1310035985,
+    "wof:lastmodified":1537581839,
+    "wof:name":"Elshafi",
+    "wof:parent_id":1108561939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.8773,
+    35.26672,
+    69.8773,
+    35.26672
+],
+  "geometry": {"coordinates":[69.87730000000001,35.26672],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226203439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79698,32.15381,68.79698,32.15381",
+    "geom:latitude":32.15381,
+    "geom:longitude":68.79698,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2905",
+    "gn:asciiname":"Kazhah",
+    "gn:country_code":"AF",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137550,
+    "gn:latitude":32.15381,
+    "gn:longitude":68.79698,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kazhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0698\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ka\u017ea",
+        "Kaza",
+        "Kaz\u0332h\u0332ah",
+        "\u06a9\u0698\u0647",
+        "Kazhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137550
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"189a44152e265b4b2ae2d68a01dd159a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562581,
+            "locality_id":1226203439,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1226203439,
+    "wof:lastmodified":1537581426,
+    "wof:name":"Kazhah",
+    "wof:parent_id":1108562581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79698,
+    32.15381,
+    68.79698,
+    32.15381
+],
+  "geometry": {"coordinates":[68.79698,32.15381],"type":"Point"}
+}

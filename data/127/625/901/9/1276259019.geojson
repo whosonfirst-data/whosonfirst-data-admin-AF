@@ -1,0 +1,73 @@
+{
+  "id": 1276259019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.28316,33.74266,66.28316,33.74266",
+    "geom:latitude":33.74266,
+    "geom:longitude":66.28316,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3409",
+    "gn:asciiname":"Yalazar",
+    "gn:country_code":"AF",
+    "gn:dem":2474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121304,
+    "gn:latitude":33.74266,
+    "gn:longitude":66.28316,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yalaz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalaz\u0101r",
+        "\u06cc\u0644\u0632\u0627\u0631",
+        "Yalaz\u0101\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121304
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a6fc06c9b979270cfe50832f6afb152c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":1276259019,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1276259019,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yalazar",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.28316,
+    33.74266,
+    66.28316,
+    33.74266
+],
+  "geometry": {"coordinates":[66.28316,33.74266],"type":"Point"}
+}

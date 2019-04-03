@@ -1,0 +1,72 @@
+{
+  "id": 1310028321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05802,34.48078,67.05802,34.48078",
+    "geom:latitude":34.48078,
+    "geom:longitude":67.05802,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Damabak",
+    "gn:country_code":"AF",
+    "gn:dem":2917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462268,
+    "gn:latitude":34.48078,
+    "gn:longitude":67.05802,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dam\u0101bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dam\u0101bak",
+        "\u062f\u0645\u0627\u0628\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462268
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a26610b054cd593e7e4f92e511e9cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1310028321,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310028321,
+    "wof:lastmodified":1537583356,
+    "wof:name":"Damabak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05802,
+    34.48078,
+    67.05802,
+    34.48078
+],
+  "geometry": {"coordinates":[67.05802,34.48078],"type":"Point"}
+}

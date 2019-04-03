@@ -1,0 +1,73 @@
+{
+  "id": 1226737761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.18764,34.23429,62.18764,34.23429",
+    "geom:latitude":34.23429,
+    "geom:longitude":62.18764,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003.0",
+    "gn:asciiname":"Ghaslambar",
+    "gn:country_code":"AF",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472146,
+    "gn:latitude":34.23429,
+    "gn:longitude":62.18764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghaslamb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaslambar",
+        "Ghaslamb\u0101r",
+        "\u063a\u0633\u0644\u0645\u0628\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472146
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3fdbfd20cb4d5eb8235586807817818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1226737761,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226737761,
+    "wof:lastmodified":1537583671,
+    "wof:name":"Ghaslambar",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.18764,
+    34.23429,
+    62.18764,
+    34.23429
+],
+  "geometry": {"coordinates":[62.18764,34.23429],"type":"Point"}
+}

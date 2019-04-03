@@ -1,0 +1,74 @@
+{
+  "id": 1193046535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.89261,33.916,66.89261,33.916",
+    "geom:latitude":33.916,
+    "geom:longitude":66.89261,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3407.0",
+    "gn:asciiname":"Soltali",
+    "gn:country_code":"AF",
+    "gn:dem":2694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1437926,
+    "gn:latitude":33.916,
+    "gn:longitude":66.89261,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dl\u0163\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u014dl\u1e6f\u0101li",
+        "S\u014dl\u0163\u0101l\u012b",
+        "Sowl\u0163\u0101l\u012b",
+        "\u0633\u0648\u0644\u0637\u0627\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1437926
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d10952bf9d6c3200c1bfaa0a9c82152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562273,
+            "locality_id":1193046535,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1193046535,
+    "wof:lastmodified":1537582868,
+    "wof:name":"Soltali",
+    "wof:parent_id":1108562273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.89260999999999,
+    33.916,
+    66.89260999999999,
+    33.916
+],
+  "geometry": {"coordinates":[66.89260999999999,33.916],"type":"Point"}
+}

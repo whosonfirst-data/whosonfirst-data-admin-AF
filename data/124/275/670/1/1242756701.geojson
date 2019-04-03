@@ -1,0 +1,77 @@
+{
+  "id": 1242756701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.05475,32.34135,64.05475,32.34135",
+    "geom:latitude":32.34135,
+    "geom:longitude":64.05475,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2307",
+    "gn:asciiname":"Qaryah-ye Sar Folad",
+    "gn:country_code":"AF",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129309,
+    "gn:latitude":32.34135,
+    "gn:longitude":64.05475,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Sar F\u014dl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Sarfulad"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e5fya-i-Sa\u1e5f F\u014dl\u0101\u1e0f",
+        "Qaryah-ye Sar F\u014dl\u0101d",
+        "\u0642\u0631\u06cc\u0647 \u0633\u0631 \u0641\u0648\u0644\u0627\u062f",
+        "Qaryeh-ye Sar F\u016bl\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129309
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f51a69ac560abb15ae6b32051d956fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562573,
+            "locality_id":1242756701,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1242756701,
+    "wof:lastmodified":1537580705,
+    "wof:name":"Qaryah-ye Sar Folad",
+    "wof:parent_id":1108562573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.05475,
+    32.34135,
+    64.05475,
+    32.34135
+],
+  "geometry": {"coordinates":[64.05475,32.34135],"type":"Point"}
+}

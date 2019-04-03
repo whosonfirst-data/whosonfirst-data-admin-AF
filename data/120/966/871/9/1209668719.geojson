@@ -1,0 +1,73 @@
+{
+  "id": 1209668719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96021,34.728,69.96021,34.728",
+    "geom:latitude":34.728,
+    "geom:longitude":69.96021,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905",
+    "gn:asciiname":"Maymol",
+    "gn:country_code":"AF",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133656,
+    "gn:latitude":34.728,
+    "gn:longitude":69.96021,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maym\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0645\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Maymol\u2019"
+    ],
+    "name:und_x_variant":[
+        "Maym\u014dl",
+        "Maymowl",
+        "\u0645\u06cc\u0645\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133656
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"60acb7ac12ab25b9d095a3ee3f6f3f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209668719
+        }
+    ],
+    "wof:id":1209668719,
+    "wof:lastmodified":1537581111,
+    "wof:name":"Maymol",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96021,
+    34.728,
+    69.96021,
+    34.728
+],
+  "geometry": {"coordinates":[69.96021,34.728],"type":"Point"}
+}

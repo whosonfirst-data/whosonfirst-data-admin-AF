@@ -1,0 +1,75 @@
+{
+  "id": 1209781223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.88238,31.21268,61.88238,31.21268",
+    "geom:latitude":31.21268,
+    "geom:longitude":61.88238,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"2202",
+    "gn:asciiname":"Rustam",
+    "gn:country_code":"AF",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128272,
+    "gn:latitude":31.21268,
+    "gn:longitude":61.88238,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rustam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u062a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rostam",
+        "\u0631\u0633\u062a\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667537,
+        1108562129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1b04ffd60387be3a32cea36100728a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562129,
+            "locality_id":1209781223,
+            "region_id":85667537
+        }
+    ],
+    "wof:id":1209781223,
+    "wof:lastmodified":1537580614,
+    "wof:name":"Rustam",
+    "wof:parent_id":1108562129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.88238000000001,
+    31.21268,
+    61.88238000000001,
+    31.21268
+],
+  "geometry": {"coordinates":[61.88238000000001,31.21268],"type":"Point"}
+}

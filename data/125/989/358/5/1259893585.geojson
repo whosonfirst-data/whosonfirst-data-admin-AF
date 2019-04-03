@@ -1,0 +1,77 @@
+{
+  "id": 1259893585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07145,36.81117,71.07145,36.81117",
+    "geom:latitude":36.81117,
+    "geom:longitude":71.07145,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1125",
+    "gn:asciiname":"Yomul",
+    "gn:country_code":"AF",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121951,
+    "gn:latitude":36.81117,
+    "gn:longitude":71.07145,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yomul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Om\u014dl",
+        "Yomul",
+        "Omowl",
+        "\u0627\u0648\u0645\u0648\u0644",
+        "\u016amowl",
+        "\u016am\u014dl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121951,
+        "wk:page":"Umowl"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4698c38f870049acc4b71aef9f6d5fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562567,
+            "locality_id":1259893585,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1259893585,
+    "wof:lastmodified":1537580075,
+    "wof:name":"Yomul",
+    "wof:parent_id":1108562567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07145,
+    36.81117,
+    71.07145,
+    36.81117
+],
+  "geometry": {"coordinates":[71.07145,36.81117],"type":"Point"}
+}

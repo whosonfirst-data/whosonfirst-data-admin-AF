@@ -1,0 +1,79 @@
+{
+  "id": 1360015867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.37651,33.3435,65.37651,33.3435",
+    "geom:latitude":33.3435,
+    "geom:longitude":65.37651,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Takalghu",
+    "gn:country_code":"AF",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123260,
+    "gn:latitude":33.3435,
+    "gn:longitude":65.37651,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takalgh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0643\u0644\u063a\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u0430\u043b\u044c\u0433\u0443"
+    ],
+    "name:und_x_variant":[
+        "Takal\u2019gu",
+        "Takalgh\u016b",
+        "\u062a\u06a9\u0644\u063a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123260
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c400dc8bfa8cdf53ae83dcf315b24821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1360015867,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1360015867,
+    "wof:lastmodified":1537580212,
+    "wof:name":"Takalghu",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.37651,
+    33.3435,
+    65.37651,
+    33.3435
+],
+  "geometry": {"coordinates":[65.37651,33.3435],"type":"Point"}
+}

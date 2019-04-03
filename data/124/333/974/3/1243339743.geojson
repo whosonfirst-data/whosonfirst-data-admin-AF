@@ -1,0 +1,76 @@
+{
+  "id": 1243339743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.7503,34.20601,69.7503,34.20601",
+    "geom:latitude":34.20601,
+    "geom:longitude":69.7503,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"506.0",
+    "gn:asciiname":"Baghak",
+    "gn:country_code":"AF",
+    "gn:dem":1995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471943,
+    "gn:latitude":34.20601,
+    "gn:longitude":69.7503,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101ghak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Bagak",
+        "B\u0101ghak",
+        "\u0628\u0627\u063a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471943
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f86cfc35cb30f60a7d333ff692cb1376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561829,
+            "locality_id":1243339743,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243339743,
+    "wof:lastmodified":1537583662,
+    "wof:name":"Baghak",
+    "wof:parent_id":1108561829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.7503,
+    34.20601,
+    69.7503,
+    34.20601
+],
+  "geometry": {"coordinates":[69.7503,34.20601],"type":"Point"}
+}

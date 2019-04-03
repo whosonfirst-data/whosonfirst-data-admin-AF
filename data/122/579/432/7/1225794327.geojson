@@ -1,0 +1,74 @@
+{
+  "id": 1225794327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21735,35.84407,68.21735,35.84407",
+    "geom:latitude":35.84407,
+    "geom:longitude":68.21735,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1506",
+    "gn:asciiname":"Junjushkah",
+    "gn:country_code":"AF",
+    "gn:dem":2586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139035,
+    "gn:latitude":35.84407,
+    "gn:longitude":68.21735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Junjushkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junju\u0161ka",
+        "Junjushka",
+        "Junjushkah",
+        "\u062c\u0646\u062c\u0634\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108562179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139035
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"650b95a57caf652b742cd197cef34fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562179,
+            "locality_id":1225794327,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1225794327,
+    "wof:lastmodified":1537581544,
+    "wof:name":"Junjushkah",
+    "wof:parent_id":1108562179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21735,
+    35.84407,
+    68.21735,
+    35.84407
+],
+  "geometry": {"coordinates":[68.21735,35.84407],"type":"Point"}
+}

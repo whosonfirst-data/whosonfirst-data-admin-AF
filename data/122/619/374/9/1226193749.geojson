@@ -1,0 +1,73 @@
+{
+  "id": 1226193749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14348,35.35598,70.14348,35.35598",
+    "geom:latitude":35.35598,
+    "geom:longitude":70.14348,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004",
+    "gn:asciiname":"Linar",
+    "gn:country_code":"AF",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134626,
+    "gn:latitude":35.35598,
+    "gn:longitude":70.14348,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Linar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lin\u0101r",
+        "\u0644\u0646\u0631",
+        "Linar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134626
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b14d749900ec1f4df8ec7e314dd7c693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562241,
+            "locality_id":1226193749,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1226193749,
+    "wof:lastmodified":1537581190,
+    "wof:name":"Linar",
+    "wof:parent_id":1108562241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14348000000001,
+    35.35597999999999,
+    70.14348000000001,
+    35.35597999999999
+],
+  "geometry": {"coordinates":[70.14348000000001,35.35597999999999],"type":"Point"}
+}

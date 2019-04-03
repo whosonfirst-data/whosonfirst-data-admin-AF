@@ -1,0 +1,73 @@
+{
+  "id": 1326608093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.79082,33.54986,62.79082,33.54986",
+    "geom:latitude":33.54986,
+    "geom:longitude":62.79082,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Kargasi",
+    "gn:country_code":"AF",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1138153,
+    "gn:latitude":33.54986,
+    "gn:longitude":62.79082,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kargas\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kargas\u012b",
+        "\u06a9\u0631\u06af\u0633\u06cc",
+        "Ka\u1e5fgas\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138153
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07ace1c4aec59d093179cc6b940c68e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1326608093,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1326608093,
+    "wof:lastmodified":1537581483,
+    "wof:name":"Kargasi",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.79082,
+    33.54986,
+    62.79082,
+    33.54986
+],
+  "geometry": {"coordinates":[62.79082,33.54986],"type":"Point"}
+}

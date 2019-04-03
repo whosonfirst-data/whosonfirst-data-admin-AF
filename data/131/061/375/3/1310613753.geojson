@@ -1,0 +1,74 @@
+{
+  "id": 1310613753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.2147,34.93731,64.2147,34.93731",
+    "geom:latitude":34.93731,
+    "geom:longitude":64.2147,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Tahtayghah",
+    "gn:country_code":"AF",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123313,
+    "gn:latitude":34.93731,
+    "gn:longitude":64.2147,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tahtayghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taht\u0113gha",
+        "Tahtayghah",
+        "\u062a\u0647\u062a\u06cc\u063a\u0647",
+        "Taht\u0113ghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d870e5ee719ac45ad8bbe462fb590aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1310613753,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310613753,
+    "wof:lastmodified":1537580217,
+    "wof:name":"Tahtayghah",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.2147,
+    34.93731,
+    64.2147,
+    34.93731
+],
+  "geometry": {"coordinates":[64.21469999999999,34.93731],"type":"Point"}
+}

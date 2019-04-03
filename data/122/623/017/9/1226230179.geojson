@@ -1,0 +1,79 @@
+{
+  "id": 1226230179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.34696,34.96786,62.34696,34.96786",
+    "geom:latitude":34.96786,
+    "geom:longitude":62.34696,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2006",
+    "gn:asciiname":"Khosh Asya",
+    "gn:country_code":"AF",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135979,
+    "gn:latitude":34.96786,
+    "gn:longitude":62.34696,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh \u0100sy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kush Asia",
+        "Kh\u016bsh \u0100s\u012ba",
+        "Khushasia",
+        "Khu\u0161 \u0100sy\u0101",
+        "Khvosh \u0100s\u012b\u0101",
+        "Kh\u014dsh \u0100s\u012b\u0101",
+        "\u062e\u0648\u0634 \u0622\u0633\u06cc\u0627",
+        "Kh\u014dsh \u0100sy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135979,
+        "wk:page":"Khvosh_Asia"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a25126b8a93f9b656ca6413f50e5f921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562215,
+            "locality_id":1226230179,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226230179,
+    "wof:lastmodified":1537581304,
+    "wof:name":"Khosh Asya",
+    "wof:parent_id":1108562215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.34696,
+    34.96785999999999,
+    62.34696,
+    34.96785999999999
+],
+  "geometry": {"coordinates":[62.34696,34.96785999999999],"type":"Point"}
+}

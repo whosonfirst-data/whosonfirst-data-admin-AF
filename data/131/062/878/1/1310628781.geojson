@@ -1,0 +1,77 @@
+{
+  "id": 1310628781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12817,37.0279,66.12817,37.0279",
+    "geom:latitude":37.0279,
+    "geom:longitude":66.12817,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1704",
+    "gn:asciiname":"Mingajik",
+    "gn:country_code":"AF",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1133544,
+    "gn:latitude":37.0279,
+    "gn:longitude":66.12817,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mingajik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mungajik",
+        "Mingajek",
+        "Mengeh Jek",
+        "Mengaj\u012bk",
+        "Mingajik",
+        "\u0645\u0646\u06af\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133544,
+        "wk:page":"Mingajik"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"65267fb5d0f36653db63ceb8ea84c652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562243,
+            "locality_id":1310628781,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1310628781,
+    "wof:lastmodified":1537581104,
+    "wof:name":"Mingajik",
+    "wof:parent_id":1108562243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12817,
+    37.0279,
+    66.12817,
+    37.0279
+],
+  "geometry": {"coordinates":[66.12817,37.0279],"type":"Point"}
+}

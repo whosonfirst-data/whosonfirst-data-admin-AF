@@ -1,0 +1,75 @@
+{
+  "id": 1209978089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.28813,32.79297,67.28813,32.79297",
+    "geom:latitude":32.79297,
+    "geom:longitude":67.28813,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Shaykh Habib",
+    "gn:country_code":"AF",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125244,
+    "gn:latitude":32.79297,
+    "gn:longitude":67.28813,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykh \u1e28ab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160aykh Hab\u012bb",
+        "Sheykh-Khabib",
+        "Shaykh \u1e28ab\u012bb",
+        "\u0634\u06cc\u062e \u062d\u0628\u06cc\u0628",
+        "Sheykh \u1e28ab\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125244
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"58de74faf1b925397f44c2860e479d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1209978089,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1209978089,
+    "wof:lastmodified":1537580370,
+    "wof:name":"Shaykh Habib",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.28813000000001,
+    32.79297,
+    67.28813000000001,
+    32.79297
+],
+  "geometry": {"coordinates":[67.28813000000001,32.79297],"type":"Point"}
+}

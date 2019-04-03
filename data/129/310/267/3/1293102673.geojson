@@ -1,0 +1,74 @@
+{
+  "id": 1293102673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.18604,37.24126,70.18604,37.24126",
+    "geom:latitude":37.24126,
+    "geom:longitude":70.18604,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1113.0",
+    "gn:asciiname":"Rabat-e Gulak",
+    "gn:country_code":"AF",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467409,
+    "gn:latitude":37.24126,
+    "gn:longitude":70.18604,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rab\u0101\u0163-e Gulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eab\u0101\u1e6f-i-Gulak",
+        "Rob\u0101\u0163-e Golak",
+        "Rab\u0101\u0163-e Gulak",
+        "\u0631\u0628\u0627\u0637 \u06af\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467409
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cde25411ebbcf473d0ace51a696ed388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562459,
+            "locality_id":1293102673,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293102673,
+    "wof:lastmodified":1537583474,
+    "wof:name":"Rabat-e Gulak",
+    "wof:parent_id":1108562459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.18604,
+    37.24126,
+    70.18604,
+    37.24126
+],
+  "geometry": {"coordinates":[70.18604000000001,37.24126],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277035331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8953,35.81735,66.8953,35.81735",
+    "geom:latitude":35.81735,
+    "geom:longitude":66.8953,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Yarghan",
+    "gn:country_code":"AF",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121255,
+    "gn:latitude":35.81735,
+    "gn:longitude":66.8953,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yargh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yargh\u0101n",
+        "\u06cc\u0631\u063a\u0627\u0646",
+        "Ya\u1e5fgh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121255
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"101865bbc3f3f1acafba52e5ba5643ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1277035331,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1277035331,
+    "wof:lastmodified":1537580032,
+    "wof:name":"Yarghan",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8953,
+    35.81735,
+    66.8953,
+    35.81735
+],
+  "geometry": {"coordinates":[66.89530000000001,35.81735],"type":"Point"}
+}

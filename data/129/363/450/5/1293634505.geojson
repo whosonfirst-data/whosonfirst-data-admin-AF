@@ -1,0 +1,79 @@
+{
+  "id": 1293634505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.94399,34.88408,70.94399,34.88408",
+    "geom:latitude":34.88408,
+    "geom:longitude":70.94399,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1010.0",
+    "gn:asciiname":"Chichal",
+    "gn:country_code":"AF",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474168,
+    "gn:latitude":34.88408,
+    "gn:longitude":70.94399,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bchal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0686\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Chichal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u010ci\u010dal",
+        "Ch\u012bchal",
+        "\u0686\u06cc\u0686\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474168
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"147ee1701e7cc3b43a4609664aabba3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561933,
+            "locality_id":1293634505,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1293634505,
+    "wof:lastmodified":1537583786,
+    "wof:name":"Chichal",
+    "wof:parent_id":1108561933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.94399,
+    34.88408,
+    70.94399,
+    34.88408
+],
+  "geometry": {"coordinates":[70.94399,34.88408],"type":"Point"}
+}

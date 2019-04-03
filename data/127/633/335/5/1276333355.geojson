@@ -1,0 +1,74 @@
+{
+  "id": 1276333355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7865,35.37324,67.7865,35.37324",
+    "geom:latitude":35.37324,
+    "geom:longitude":67.7865,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Du Shakh",
+    "gn:country_code":"AF",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142802,
+    "gn:latitude":35.37324,
+    "gn:longitude":67.7865,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u016b Sh\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u014ds\u0101kh",
+        "Do Sh\u0101kh",
+        "D\u016b Sh\u0101kh",
+        "\u062f\u0648 \u0634\u0627\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142802
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6593bc37b8e0b269b7edaae2390c9e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1276333355,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1276333355,
+    "wof:lastmodified":1537581861,
+    "wof:name":"Du Shakh",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7865,
+    35.37324,
+    67.7865,
+    35.37324
+],
+  "geometry": {"coordinates":[67.7865,35.37324],"type":"Point"}
+}

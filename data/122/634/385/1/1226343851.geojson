@@ -1,0 +1,72 @@
+{
+  "id": 1226343851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.06658,35.61399,69.06658,35.61399",
+    "geom:latitude":35.61399,
+    "geom:longitude":69.06658,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1307.0",
+    "gn:asciiname":"Inal",
+    "gn:country_code":"AF",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465014,
+    "gn:latitude":35.61399,
+    "gn:longitude":69.06658,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Inal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u0646\u0644",
+        "Enal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465014
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f89d0cfac105a6bb39b643fb42f63056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1226343851,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226343851,
+    "wof:lastmodified":1537583388,
+    "wof:name":"Inal",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.06658,
+    35.61399,
+    69.06658,
+    35.61399
+],
+  "geometry": {"coordinates":[69.06658,35.61399],"type":"Point"}
+}

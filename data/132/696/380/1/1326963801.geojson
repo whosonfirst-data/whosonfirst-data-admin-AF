@@ -1,0 +1,68 @@
+{
+  "id": 1326963801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.0,32.66667,66.0,32.66667",
+    "geom:latitude":32.66667,
+    "geom:longitude":66.0,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601",
+    "gn:asciiname":"Mirabad",
+    "gn:country_code":"AF",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133308,
+    "gn:latitude":32.66667,
+    "gn:longitude":66.0,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133308
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f99f5ecd418b26f4db7221cfcb63e9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1326963801,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1326963801,
+    "wof:lastmodified":1536858104,
+    "wof:name":"Mirabad",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.0,
+    32.66667,
+    66.0,
+    32.66667
+],
+  "geometry": {"coordinates":[66.0,32.66667],"type":"Point"}
+}

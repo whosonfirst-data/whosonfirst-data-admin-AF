@@ -1,0 +1,75 @@
+{
+  "id": 1243430641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34676,34.16807,69.34676,34.16807",
+    "geom:latitude":34.16807,
+    "geom:longitude":69.34676,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Chino Sar",
+    "gn:country_code":"AF",
+    "gn:dem":2501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144840,
+    "gn:latitude":34.16807,
+    "gn:longitude":69.34676,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u012bn\u014d Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cino Sar",
+        "Chinusar",
+        "Ch\u012bn\u014d Sar",
+        "Chino Sar",
+        "\u0686\u06cc\u0646\u0648 \u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144840
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02211a314874ac54de2189c1b527ab37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1243430641,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1243430641,
+    "wof:lastmodified":1537582046,
+    "wof:name":"Chino Sar",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34676,
+    34.16807,
+    69.34676,
+    34.16807
+],
+  "geometry": {"coordinates":[69.34676,34.16807],"type":"Point"}
+}

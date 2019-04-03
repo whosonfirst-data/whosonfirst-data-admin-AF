@@ -1,0 +1,74 @@
+{
+  "id": 1360234131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25492,35.8315,67.25492,35.8315",
+    "geom:latitude":35.8315,
+    "geom:longitude":67.25492,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503",
+    "gn:asciiname":"Shorab",
+    "gn:country_code":"AF",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124191,
+    "gn:latitude":35.8315,
+    "gn:longitude":67.25492,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304\u014d\u1e5f\u0101b",
+        "Sh\u016br\u0101b",
+        "Sh\u014dr\u0101b",
+        "\u0634\u0648\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124191
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c5a0a4d7abca27c6d461cab892e55062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1360234131,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1360234131,
+    "wof:lastmodified":1537580280,
+    "wof:name":"Shorab",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25492,
+    35.8315,
+    67.25492,
+    35.8315
+],
+  "geometry": {"coordinates":[67.25492,35.8315],"type":"Point"}
+}

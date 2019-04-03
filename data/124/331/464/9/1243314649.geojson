@@ -1,0 +1,84 @@
+{
+  "id": 1243314649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11358,35.27799,69.11358,35.27799",
+    "geom:latitude":35.27799,
+    "geom:longitude":69.11358,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303",
+    "gn:asciiname":"Qal'ah-ye Wulang",
+    "gn:country_code":"AF",
+    "gn:dem":2567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121548,
+    "gn:latitude":35.27799,
+    "gn:longitude":69.11358,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Wulang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Walang",
+        "Awlang",
+        "Kalavulang",
+        "Qal\u2018eh-ye Volang",
+        "Qal\u2018a Wolang",
+        "Qal\u2018a-i-Wolang",
+        "Qal\u2018ah-ye Volang",
+        "Wolang",
+        "\u0648\u0644\u0646\u06af",
+        "Qal\u2018ah-ye Wulang",
+        "\u0642\u0644\u0639\u06c0 \u0648\u0644\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121548
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f289e2d1fcb7788f114f232814205da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1243314649,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1243314649,
+    "wof:lastmodified":1537580047,
+    "wof:name":"Qal'ah-ye Wulang",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11358,
+    35.27799,
+    69.11358,
+    35.27799
+],
+  "geometry": {"coordinates":[69.11358,35.27799],"type":"Point"}
+}

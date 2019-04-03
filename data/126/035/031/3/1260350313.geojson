@@ -1,0 +1,74 @@
+{
+  "id": 1260350313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.978,32.69026,66.978,32.69026",
+    "geom:latitude":32.69026,
+    "geom:longitude":66.978,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Karkarak",
+    "gn:country_code":"AF",
+    "gn:dem":2253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137835,
+    "gn:latitude":32.69026,
+    "gn:longitude":66.978,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karkarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u0643\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0631\u06a9\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137835
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ae23bda4a6903a87a809cb214c25ce41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1260350313,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1260350313,
+    "wof:lastmodified":1537581445,
+    "wof:name":"Karkarak",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.97800000000001,
+    32.69025999999999,
+    66.97800000000001,
+    32.69025999999999
+],
+  "geometry": {"coordinates":[66.97800000000001,32.69025999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243448023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.93409,32.99403,64.93409,32.99403",
+    "geom:latitude":32.99403,
+    "geom:longitude":64.93409,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Shaligar",
+    "gn:country_code":"AF",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477093,
+    "gn:latitude":32.99403,
+    "gn:longitude":64.93409,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101ligar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101ligar",
+        "Shaligar",
+        "Sh\u0101ligar",
+        "\u0634\u0627\u0644\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477093
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5832a671dcf78b35f4383095d091be7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1243448023,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1243448023,
+    "wof:lastmodified":1537583870,
+    "wof:name":"Shaligar",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.93409,
+    32.99403,
+    64.93409,
+    32.99403
+],
+  "geometry": {"coordinates":[64.93409,32.99403],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259926667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.67704,37.32063,66.67704,37.32063",
+    "geom:latitude":37.32063,
+    "geom:longitude":66.67704,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1604.0",
+    "gn:asciiname":"Pas Ariq",
+    "gn:country_code":"AF",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146246,
+    "gn:latitude":37.32063,
+    "gn:longitude":66.67704,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pas \u0100r\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pas Aregh",
+        "Bowz Ar\u012bgh",
+        "Pas \u0100r\u012bq",
+        "\u067e\u0633 \u0622\u0631\u06cc\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146246,
+        "wk:page":"Bowz_Arigh"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51c395fcc62432f7ad11c267c0a780a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562509,
+            "locality_id":1259926667,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1259926667,
+    "wof:lastmodified":1537582167,
+    "wof:name":"Pas Ariq",
+    "wof:parent_id":1108562509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.67704,
+    37.32063,
+    66.67704,
+    37.32063
+],
+  "geometry": {"coordinates":[66.67704000000001,37.32063],"type":"Point"}
+}

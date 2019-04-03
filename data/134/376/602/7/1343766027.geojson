@@ -1,0 +1,75 @@
+{
+  "id": 1343766027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51284,38.17668,70.51284,38.17668",
+    "geom:latitude":38.17668,
+    "geom:longitude":70.51284,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Rowanak",
+    "gn:country_code":"AF",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466158,
+    "gn:latitude":38.17668,
+    "gn:longitude":70.51284,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Row\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e5eaw\u0101nak",
+        "Rav\u0101nak",
+        "Raw\u0101nak",
+        "\u0631\u0648\u0627\u0646\u06a9",
+        "Row\u0101nak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466158
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4c3d62358107b3b47e3bcf94dc38a5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1343766027,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1343766027,
+    "wof:lastmodified":1537583414,
+    "wof:name":"Rowanak",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51284,
+    38.17668,
+    70.51284,
+    38.17668
+],
+  "geometry": {"coordinates":[70.51284,38.17668],"type":"Point"}
+}

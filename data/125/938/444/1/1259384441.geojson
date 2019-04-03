@@ -1,0 +1,73 @@
+{
+  "id": 1259384441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04748,35.69103,69.04748,35.69103",
+    "geom:latitude":35.69103,
+    "geom:longitude":69.04748,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1307.0",
+    "gn:asciiname":"Band-e Aspan",
+    "gn:country_code":"AF",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147208,
+    "gn:latitude":35.69103,
+    "gn:longitude":69.04748,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Band-e Asp\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Band-e Asp\u0101n",
+        "\u0628\u0646\u062f \u0627\u0633\u067e\u0627\u0646",
+        "Bandasp\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147208
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"340da4531a5c8f6d5cce6799de4b3ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1259384441,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1259384441,
+    "wof:lastmodified":1537582247,
+    "wof:name":"Band-e Aspan",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04748000000001,
+    35.69103,
+    69.04748000000001,
+    35.69103
+],
+  "geometry": {"coordinates":[69.04748000000001,35.69103],"type":"Point"}
+}

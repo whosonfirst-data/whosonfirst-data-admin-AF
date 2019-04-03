@@ -1,0 +1,75 @@
+{
+  "id": 1293627947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46836,33.13254,69.46836,33.13254",
+    "geom:latitude":33.13254,
+    "geom:longitude":69.46836,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3204.0",
+    "gn:asciiname":"Asar Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148300,
+    "gn:latitude":33.13254,
+    "gn:longitude":69.46836,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Asa\u1e5f Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asarkheyl\u2019",
+        "Asarkh\u0113l",
+        "\u0627\u0633\u0693 \u062e\u06d0\u0644",
+        "Asar Kheyl",
+        "Asa\u1e5f Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"192b4a6fc43f5ca67aeb75c7a71a577d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562521,
+            "locality_id":1293627947,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1293627947,
+    "wof:lastmodified":1537582332,
+    "wof:name":"Asar Khel",
+    "wof:parent_id":1108562521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46836,
+    33.13254000000001,
+    69.46836,
+    33.13254000000001
+],
+  "geometry": {"coordinates":[69.46836,33.13254000000001],"type":"Point"}
+}

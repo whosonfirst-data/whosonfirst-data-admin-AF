@@ -1,0 +1,75 @@
+{
+  "id": 1343812389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90468,34.3355,67.90468,34.3355",
+    "geom:latitude":34.3355,
+    "geom:longitude":67.90468,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Chahar Burjah",
+    "gn:country_code":"AF",
+    "gn:dem":2948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460204,
+    "gn:latitude":34.3355,
+    "gn:longitude":67.90468,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r Burjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cah\u0101rburja",
+        "Chakharburdzha",
+        "Chah\u0101r Burjah",
+        "Chah\u0101rborjeh",
+        "\u0686\u0647\u0627\u0631 \u0628\u0631\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460204
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0c84bb2bc90409194dd9a839f11bf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1343812389,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343812389,
+    "wof:lastmodified":1537583307,
+    "wof:name":"Chahar Burjah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90468,
+    34.3355,
+    67.90468,
+    34.3355
+],
+  "geometry": {"coordinates":[67.90468,34.3355],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225943201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2139,34.33062,67.2139,34.33062",
+    "geom:latitude":34.33062,
+    "geom:longitude":67.2139,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Gardan-e Safed",
+    "gn:country_code":"AF",
+    "gn:dem":3259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067097,
+    "gn:latitude":34.33062,
+    "gn:longitude":67.2139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gardan-e Saf\u0113d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gardan-e Saf\u0113d",
+        "Gardan-e Safayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067097
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c3f0fa5627077469e4db86607c634729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1225943201,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1225943201,
+    "wof:lastmodified":1537583909,
+    "wof:name":"Gardan-e Safed",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2139,
+    34.33062,
+    67.2139,
+    34.33062
+],
+  "geometry": {"coordinates":[67.2139,34.33062],"type":"Point"}
+}

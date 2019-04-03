@@ -1,0 +1,78 @@
+{
+  "id": 1226322057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.79004,34.67178,69.79004,34.67178",
+    "geom:latitude":34.67178,
+    "geom:longitude":69.79004,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112.0",
+    "gn:asciiname":"Shirab Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472943,
+    "gn:latitude":34.67178,
+    "gn:longitude":69.79004,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012br\u0101b Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0631\u0627\u0628 \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u012br\u0101b \u010cah",
+        "Shirabchashma",
+        "Sh\u012br\u0101b Ch\u0101h",
+        "Sh\u012br\u0101b Ch\u012bnah",
+        "\u0634\u06cc\u0631\u0627\u0628 \u0686\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472943
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2d553b8833bd86d0a5958786728afef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1226322057,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1226322057,
+    "wof:lastmodified":1537583726,
+    "wof:name":"Shirab Chinah",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.79004,
+    34.67178,
+    69.79004,
+    34.67178
+],
+  "geometry": {"coordinates":[69.79004,34.67178],"type":"Point"}
+}

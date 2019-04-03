@@ -1,0 +1,75 @@
+{
+  "id": 1293930853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.42256,32.50517,67.42256,32.50517",
+    "geom:latitude":32.50517,
+    "geom:longitude":67.42256,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2502",
+    "gn:asciiname":"Haji Kajir",
+    "gn:country_code":"AF",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140348,
+    "gn:latitude":32.50517,
+    "gn:longitude":67.42256,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b Kaj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u0101ji Kaj\u012b\u1e5f",
+        "Khadzhi-Kadzhir",
+        "\u1e28\u0101j\u012b Kaj\u012br",
+        "\u062d\u0627\u062c\u06cc \u06a9\u0627\u062c\u06cc\u0631",
+        "\u1e28\u0101jj\u012b Kaj\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140348
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a8c769fdf53d4674884058bc96d8140d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562457,
+            "locality_id":1293930853,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293930853,
+    "wof:lastmodified":1537581654,
+    "wof:name":"Haji Kajir",
+    "wof:parent_id":1108562457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.42256,
+    32.50517,
+    67.42256,
+    32.50517
+],
+  "geometry": {"coordinates":[67.42256,32.50517],"type":"Point"}
+}

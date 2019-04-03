@@ -1,0 +1,73 @@
+{
+  "id": 1344153039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4003,33.60792,63.4003,33.60792",
+    "geom:latitude":33.60792,
+    "geom:longitude":63.4003,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2704.0",
+    "gn:asciiname":"Agij",
+    "gn:country_code":"AF",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149344,
+    "gn:latitude":33.60792,
+    "gn:longitude":63.4003,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Agij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agidzh",
+        "\u0627\u06af\u062c",
+        "Agej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3811441f932f1cfae3ba48b1f6b4493d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1344153039,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344153039,
+    "wof:lastmodified":1537582409,
+    "wof:name":"Agij",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4003,
+    33.60792,
+    63.4003,
+    33.60792
+],
+  "geometry": {"coordinates":[63.4003,33.60792],"type":"Point"}
+}

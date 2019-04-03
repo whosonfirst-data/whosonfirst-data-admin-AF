@@ -1,0 +1,76 @@
+{
+  "id": 1259378569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.38849,33.47302,68.38849,33.47302",
+    "geom:latitude":33.47302,
+    "geom:longitude":68.38849,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"601.0",
+    "gn:asciiname":"Jabar",
+    "gn:country_code":"AF",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439123,
+    "gn:latitude":33.47302,
+    "gn:longitude":68.38849,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dzhabar",
+        "Jabar",
+        "Jaba\u1e5f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439123
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3f243dc2b143cc4b0e013672ad54b19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1259378569,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1259378569,
+    "wof:lastmodified":1537582921,
+    "wof:name":"Jabar",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.38849,
+    33.47302,
+    68.38849,
+    33.47302
+],
+  "geometry": {"coordinates":[68.38849,33.47302],"type":"Point"}
+}

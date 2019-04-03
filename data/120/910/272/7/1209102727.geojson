@@ -1,0 +1,68 @@
+{
+  "id": 1209102727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37573,33.23564,67.37573,33.23564",
+    "geom:latitude":33.23564,
+    "geom:longitude":67.37573,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Goshah",
+    "gn:country_code":"AF",
+    "gn:dem":2734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450570,
+    "gn:latitude":33.23564,
+    "gn:longitude":67.37573,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u014dshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u014dsa",
+        "Gowshah",
+        "G\u014dshah",
+        "\u06af\u0648\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450570
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f855b9141edde6373aac9970c0506c96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209102727
+        }
+    ],
+    "wof:id":1209102727,
+    "wof:lastmodified":1537583052,
+    "wof:name":"Goshah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37573,
+    33.23564,
+    67.37573,
+    33.23564
+],
+  "geometry": {"coordinates":[67.37573,33.23564],"type":"Point"}
+}

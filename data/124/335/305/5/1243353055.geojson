@@ -1,0 +1,75 @@
+{
+  "id": 1243353055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.37921,33.41454,64.37921,33.41454",
+    "geom:latitude":33.41454,
+    "geom:longitude":64.37921,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Korab-e Sangi",
+    "gn:country_code":"AF",
+    "gn:dem":2547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135674,
+    "gn:latitude":33.41454,
+    "gn:longitude":64.37921,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dr\u0101b-e Sang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korabsangi",
+        "K\u014d\u1e5f\u0101b Sangi",
+        "K\u014dr\u0101b-e Sang\u012b",
+        "\u06a9\u0648\u0631\u0627\u0628 \u0633\u0646\u06af\u06cc",
+        "K\u016br\u0101b Sang\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135674
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fc67c35021fd57d2d84a9e8252bd139a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1243353055,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243353055,
+    "wof:lastmodified":1537581276,
+    "wof:name":"Korab-e Sangi",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.37921,
+    33.41454,
+    64.37921,
+    33.41454
+],
+  "geometry": {"coordinates":[64.37921,33.41454],"type":"Point"}
+}

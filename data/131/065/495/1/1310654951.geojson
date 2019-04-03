@@ -1,0 +1,75 @@
+{
+  "id": 1310654951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.70305,34.47929,67.70305,34.47929",
+    "geom:latitude":34.47929,
+    "geom:longitude":67.70305,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Gholah Kadah",
+    "gn:country_code":"AF",
+    "gn:dem":2911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141104,
+    "gn:latitude":34.47929,
+    "gn:longitude":67.70305,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014dlah Kadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u014dlaka\u1e0fa",
+        "Golakada",
+        "Gh\u014dlah Kadah",
+        "Ghowlahkadah",
+        "\u063a\u0648\u0644\u0647 \u06a9\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141104
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d1cd91ce54e4826a9e1932b38bd7f68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1310654951,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1310654951,
+    "wof:lastmodified":1537581722,
+    "wof:name":"Gholah Kadah",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.70305,
+    34.47929,
+    67.70305,
+    34.47929
+],
+  "geometry": {"coordinates":[67.70305,34.47929],"type":"Point"}
+}

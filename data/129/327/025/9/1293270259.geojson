@@ -1,0 +1,73 @@
+{
+  "id": 1293270259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.84141,34.35655,63.84141,34.35655",
+    "geom:latitude":34.35655,
+    "geom:longitude":63.84141,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Salmah",
+    "gn:country_code":"AF",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127810,
+    "gn:latitude":34.35655,
+    "gn:longitude":63.84141,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Salmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salma",
+        "\u0633\u0644\u0645\u0647",
+        "Salmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127810
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e614d477d1d89e542b965717a9dfd5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1293270259,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293270259,
+    "wof:lastmodified":1537580580,
+    "wof:name":"Salmah",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.84141,
+    34.35655,
+    63.84141,
+    34.35655
+],
+  "geometry": {"coordinates":[63.84141,34.35655],"type":"Point"}
+}

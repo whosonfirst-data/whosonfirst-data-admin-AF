@@ -1,0 +1,82 @@
+{
+  "id": 1276808311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86698,34.59651,69.86698,34.59651",
+    "geom:latitude":34.59651,
+    "geom:longitude":69.86698,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"901",
+    "gn:asciiname":"Karam Kol",
+    "gn:country_code":"AF",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138221,
+    "gn:latitude":34.59651,
+    "gn:longitude":69.86698,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karam K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Karamkul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Margha \u010cina",
+        "Margha China",
+        "Ka\u1e5famk\u014dl",
+        "Karamk\u014dl",
+        "Karamkowl",
+        "Karam K\u014dl",
+        "\u06a9\u0631\u0645 \u06a9\u0648\u0644",
+        "Marghah Ch\u012bnah",
+        "\u0645\u0631\u063a\u0647 \u0686\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138221
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"511c2d5f1bf1d805c8631e8168773013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562269,
+            "locality_id":1276808311,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276808311,
+    "wof:lastmodified":1537581488,
+    "wof:name":"Karam Kol",
+    "wof:parent_id":1108562269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86698,
+    34.59650999999999,
+    69.86698,
+    34.59650999999999
+],
+  "geometry": {"coordinates":[69.86698,34.59650999999999],"type":"Point"}
+}

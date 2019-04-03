@@ -1,0 +1,73 @@
+{
+  "id": 1209353069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21925,34.95763,69.21925,34.95763",
+    "geom:latitude":34.95763,
+    "geom:longitude":69.21925,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"308.0",
+    "gn:asciiname":"Qal'ah-ye Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1349517,
+    "gn:latitude":34.95763,
+    "gn:longitude":69.21925,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u06c0 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kala-Pain",
+        "Qal\u2018a P\u0101\u2018\u012bn",
+        "Qal\u2018eh-ye P\u0101\u2018\u012bn",
+        "\u0642\u0644\u0639\u06c0 \u067e\u0627\u0626\u064a\u0646",
+        "\u0642\u0644\u0639\u06c0 \u067e\u0627\u0626\u06cc\u0646",
+        "Qal\u2018ah-ye P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1349517
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"07be9a897fd5abf4db0f6c3b3310f65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209353069
+        }
+    ],
+    "wof:id":1209353069,
+    "wof:lastmodified":1537582456,
+    "wof:name":"Qal'ah-ye Pa'in",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21925,
+    34.95763,
+    69.21925,
+    34.95763
+],
+  "geometry": {"coordinates":[69.21925,34.95763],"type":"Point"}
+}

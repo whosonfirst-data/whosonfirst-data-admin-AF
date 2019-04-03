@@ -1,0 +1,74 @@
+{
+  "id": 1260378917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.62275,34.32164,63.62275,34.32164",
+    "geom:latitude":34.32164,
+    "geom:longitude":63.62275,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015",
+    "gn:asciiname":"Tanorah",
+    "gn:country_code":"AF",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122836,
+    "gn:latitude":34.32164,
+    "gn:longitude":63.62275,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tan\u014drah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan\u014dra",
+        "Tan\u016breh",
+        "Tan\u014drah",
+        "\u062a\u0646\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122836
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"610f497410f2fd2cf6240ffb13c98f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1260378917,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1260378917,
+    "wof:lastmodified":1537580189,
+    "wof:name":"Tanorah",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.62275,
+    34.32164,
+    63.62275,
+    34.32164
+],
+  "geometry": {"coordinates":[63.62275,34.32164],"type":"Point"}
+}

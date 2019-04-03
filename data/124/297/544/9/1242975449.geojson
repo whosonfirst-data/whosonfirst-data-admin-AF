@@ -1,0 +1,76 @@
+{
+  "id": 1242975449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01423,34.67272,68.01423,34.67272",
+    "geom:latitude":34.67272,
+    "geom:longitude":68.01423,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2802",
+    "gn:asciiname":"Shash Burjah",
+    "gn:country_code":"AF",
+    "gn:dem":2956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125323,
+    "gn:latitude":34.67272,
+    "gn:longitude":68.01423,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shash Burjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160a\u0161burja",
+        "Shash Burja",
+        "Shashburdzha",
+        "Sheshborjeh",
+        "Shash Burjah",
+        "\u0634\u0634 \u0628\u0631\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125323
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"23adad1ed1dc83c4a4ae934aa851882d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1242975449,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242975449,
+    "wof:lastmodified":1537580378,
+    "wof:name":"Shash Burjah",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01423,
+    34.67272,
+    68.01423,
+    34.67272
+],
+  "geometry": {"coordinates":[68.01423,34.67272],"type":"Point"}
+}

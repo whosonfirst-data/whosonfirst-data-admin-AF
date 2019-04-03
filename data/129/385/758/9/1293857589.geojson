@@ -1,0 +1,81 @@
+{
+  "id": 1293857589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59738,35.08592,69.59738,35.08592",
+    "geom:latitude":35.08592,
+    "geom:longitude":69.59738,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204.0",
+    "gn:asciiname":"Chaha",
+    "gn:country_code":"AF",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1429470,
+    "gn:latitude":35.08592,
+    "gn:longitude":69.59738,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u200c\u0647\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0445\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chakha",
+        "\u010cah\u0101",
+        "Ch\u0101h\u0101",
+        "Chah\u0101",
+        "\u0686\u0647\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429470
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02cf735ef62192830ea4eb0adec1cc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1293857589,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1293857589,
+    "wof:lastmodified":1537582673,
+    "wof:name":"Chaha",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59738,
+    35.08592,
+    69.59738,
+    35.08592
+],
+  "geometry": {"coordinates":[69.59738,35.08592],"type":"Point"}
+}

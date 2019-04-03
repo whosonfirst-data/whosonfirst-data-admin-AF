@@ -1,0 +1,72 @@
+{
+  "id": 1242724525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46334,36.52674,66.46334,36.52674",
+    "geom:latitude":36.52674,
+    "geom:longitude":66.46334,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608",
+    "gn:asciiname":"Haji 'Abdullah",
+    "gn:country_code":"AF",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140391,
+    "gn:latitude":36.52674,
+    "gn:longitude":66.46334,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b \u2018Abdull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haji Abdullah",
+        "\u1e28\u0101j\u012b \u2018Abdull\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140391
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"437b1ba214ea09b95dd2030ac216e9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1242724525,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1242724525,
+    "wof:lastmodified":1537581659,
+    "wof:name":"Haji 'Abdullah",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46334,
+    36.52674,
+    66.46334,
+    36.52674
+],
+  "geometry": {"coordinates":[66.46334,36.52674],"type":"Point"}
+}

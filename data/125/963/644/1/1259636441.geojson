@@ -1,0 +1,80 @@
+{
+  "id": 1259636441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88748,33.45389,68.88748,33.45389",
+    "geom:latitude":33.45389,
+    "geom:longitude":68.88748,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"702",
+    "gn:asciiname":"Kulal Gu",
+    "gn:country_code":"AF",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135757,
+    "gn:latitude":33.45389,
+    "gn:longitude":68.88748,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kul\u0101l G\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kulal\u2019gu"
+    ],
+    "name:und_x_variant":[
+        "Kol\u0101lgu",
+        "Kowl\u0101l G\u016b",
+        "Kalalgu",
+        "Kul\u0101lg\u016b",
+        "Kol\u0101g\u016b",
+        "Kul\u0101l G\u016b",
+        "\u06a9\u0644\u0627\u0644 \u06af\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffda2294516f86f5833b28fad08723b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562617,
+            "locality_id":1259636441,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1259636441,
+    "wof:lastmodified":1537581283,
+    "wof:name":"Kulal Gu",
+    "wof:parent_id":1108562617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88748000000001,
+    33.45389,
+    68.88748000000001,
+    33.45389
+],
+  "geometry": {"coordinates":[68.88748000000001,33.45389],"type":"Point"}
+}

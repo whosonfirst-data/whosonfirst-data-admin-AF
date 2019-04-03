@@ -1,0 +1,74 @@
+{
+  "id": 1259960865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.5,34.3,63.5,34.3",
+    "geom:latitude":34.3,
+    "geom:longitude":63.5,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2015.0",
+    "gn:asciiname":"Arwich",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":2425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148335,
+    "gn:latitude":34.3,
+    "gn:longitude":63.5,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arw\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aw\u1e5f\u012bj",
+        "A\u1e5fw\u012bj",
+        "Arw\u012bch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148335
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4bf1a13650d9843cd9da8827766c91b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561917,
+            "locality_id":1259960865,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1259960865,
+    "wof:lastmodified":1537582334,
+    "wof:name":"Arwich",
+    "wof:parent_id":1108561917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.5,
+    34.3,
+    63.5,
+    34.3
+],
+  "geometry": {"coordinates":[63.5,34.3],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310159021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.11479,34.88452,70.11479,34.88452",
+    "geom:latitude":34.88452,
+    "geom:longitude":70.11479,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905.0",
+    "gn:asciiname":"Galwatah",
+    "gn:country_code":"AF",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474315,
+    "gn:latitude":34.88452,
+    "gn:longitude":70.11479,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Galwatah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gal\u2019vata"
+    ],
+    "name:und_x_variant":[
+        "Galwata",
+        "Galwatah",
+        "\u06af\u0644\u0648\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474315
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"190ad8be4a6baafc1f83850cce9976ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1310159021,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1310159021,
+    "wof:lastmodified":1537583796,
+    "wof:name":"Galwatah",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.11479,
+    34.88452,
+    70.11479,
+    34.88452
+],
+  "geometry": {"coordinates":[70.11479,34.88452],"type":"Point"}
+}

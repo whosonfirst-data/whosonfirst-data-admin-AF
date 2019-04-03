@@ -1,0 +1,81 @@
+{
+  "id": 1226196577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42092,33.89397,68.42092,33.89397",
+    "geom:latitude":33.89397,
+    "geom:longitude":68.42092,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409",
+    "gn:asciiname":"Salih Baba Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127839,
+    "gn:latitude":33.89397,
+    "gn:longitude":68.42092,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015e\u0101li\u1e29 B\u0101b\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u0628\u0627\u0628\u0627 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Salababakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u0101le\u1e29 B\u0101b\u0101 Kh\u0113l",
+        "\u015e\u0101le\u1e29 B\u0101b\u0101 Kheyl",
+        "\u0635\u0627\u0644\u062d \u0628\u0627\u0628\u0627 \u062e\u064a\u0644",
+        "\u015e\u0101li\u1e29 B\u0101b\u0101 Kh\u0113l",
+        "\u0635\u0627\u0644\u062d \u0628\u0627\u0628\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127839
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d3196814bad8d072e99e433add72a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1226196577,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226196577,
+    "wof:lastmodified":1537580582,
+    "wof:name":"Salih Baba Khel",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42092,
+    33.89397,
+    68.42092,
+    33.89397
+],
+  "geometry": {"coordinates":[68.42092,33.89397],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293161339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.80325,36.67818,66.80325,36.67818",
+    "geom:latitude":36.67818,
+    "geom:longitude":66.80325,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608.0",
+    "gn:asciiname":"Chimtal",
+    "gn:country_code":"AF",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1145128,
+    "gn:latitude":36.67818,
+    "gn:longitude":66.80325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chimt\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043c\u0442\u0430\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Cemt\u0101l",
+        "Chimtal",
+        "\u0100han Qal\u2018eh",
+        "Chemt\u0101l",
+        "\u0686\u0645\u062a\u0644",
+        "Chimt\u0101l",
+        "\u0686\u0645\u062a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145128,
+        "wk:page":"Chemtal"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e9bf926bcac55a55dce57923948d92a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1293161339,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293161339,
+    "wof:lastmodified":1537582077,
+    "wof:name":"Chimtal",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.80325,
+    36.67818,
+    66.80325,
+    36.67818
+],
+  "geometry": {"coordinates":[66.80325000000001,36.67818],"type":"Point"}
+}

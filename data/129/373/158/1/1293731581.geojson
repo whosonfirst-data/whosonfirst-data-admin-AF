@@ -1,0 +1,73 @@
+{
+  "id": 1293731581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.82009,34.45343,67.82009,34.45343",
+    "geom:latitude":34.45343,
+    "geom:longitude":67.82009,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Barusanak",
+    "gn:country_code":"AF",
+    "gn:dem":2836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460140,
+    "gn:latitude":34.45343,
+    "gn:longitude":67.82009,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101\u1e5f\u016bsanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101r\u016bsanak",
+        "B\u0101\u1e5f\u016bsanak",
+        "\u0628\u0627\u0693\u0648\u0633\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460140
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"985dcd6a08ad1246d8df78eedfe9af23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1293731581,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293731581,
+    "wof:lastmodified":1537583303,
+    "wof:name":"Barusanak",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.82009000000001,
+    34.45343,
+    67.82009000000001,
+    34.45343
+],
+  "geometry": {"coordinates":[67.82009000000001,34.45343],"type":"Point"}
+}

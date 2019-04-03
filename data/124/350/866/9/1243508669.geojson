@@ -1,0 +1,75 @@
+{
+  "id": 1243508669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30074,34.73415,68.30074,34.73415",
+    "geom:latitude":34.73415,
+    "geom:longitude":68.30074,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Surkh Guli",
+    "gn:country_code":"AF",
+    "gn:dem":3062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124090,
+    "gn:latitude":34.73415,
+    "gn:longitude":68.30074,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh Gul\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surkhguli",
+        "Su\u1e5fkhgoli",
+        "Sorkhgol\u012b",
+        "Surkh Gul\u012b",
+        "\u0633\u0631\u062e \u06af\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124090
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0884251310b9887733b7df4d8b955b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1243508669,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1243508669,
+    "wof:lastmodified":1537580272,
+    "wof:name":"Surkh Guli",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30074,
+    34.73415,
+    68.30074,
+    34.73415
+],
+  "geometry": {"coordinates":[68.30074,34.73415],"type":"Point"}
+}

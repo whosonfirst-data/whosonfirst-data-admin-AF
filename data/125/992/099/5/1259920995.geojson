@@ -1,0 +1,77 @@
+{
+  "id": 1259920995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26514,35.01429,71.26514,35.01429",
+    "geom:latitude":35.01429,
+    "geom:longitude":71.26514,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1007.0",
+    "gn:asciiname":"Shingirgal",
+    "gn:country_code":"AF",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424090,
+    "gn:latitude":35.01429,
+    "gn:longitude":71.26514,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shing\u012brgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shingirgal\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0160eng\u012brgal",
+        "\u0634\u0646\u06af\u06cc\u0631\u06af\u0644",
+        "Sheng\u012brgal",
+        "Shing\u012brgal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424090
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d22f02b9267f14fccccf4498e90709a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562479,
+            "locality_id":1259920995,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1259920995,
+    "wof:lastmodified":1537582597,
+    "wof:name":"Shingirgal",
+    "wof:parent_id":1108562479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26514,
+    35.01429,
+    71.26514,
+    35.01429
+],
+  "geometry": {"coordinates":[71.26514,35.01429],"type":"Point"}
+}

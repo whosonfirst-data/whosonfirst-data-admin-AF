@@ -1,0 +1,75 @@
+{
+  "id": 1293678019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.58534,32.11729,64.58534,32.11729",
+    "geom:latitude":32.11729,
+    "geom:longitude":64.58534,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"Spighal",
+    "gn:country_code":"AF",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473735,
+    "gn:latitude":32.11729,
+    "gn:longitude":64.58534,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Spigh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Spigal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Spigh\u0101l",
+        "\u0633\u067e\u063a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473735
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"28c6915639426a873181ef361ba6bc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1293678019,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293678019,
+    "wof:lastmodified":1537583764,
+    "wof:name":"Spighal",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.58534,
+    32.11729,
+    64.58534,
+    32.11729
+],
+  "geometry": {"coordinates":[64.58534,32.11729],"type":"Point"}
+}

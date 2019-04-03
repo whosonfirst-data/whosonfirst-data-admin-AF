@@ -1,0 +1,72 @@
+{
+  "id": 1259377583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.78104,33.94863,63.78104,33.94863",
+    "geom:latitude":33.94863,
+    "geom:longitude":63.78104,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Jar-e Sang-e Khul",
+    "gn:country_code":"AF",
+    "gn:dem":2412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139412,
+    "gn:latitude":33.94863,
+    "gn:longitude":63.78104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e Sang-e Khul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0631 \u0633\u0646\u06af \u062e\u0644",
+        "Jar-e Sang Khul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139412
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e439e2eb63a1ab74dc7d841c23bc0b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1259377583,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259377583,
+    "wof:lastmodified":1537581574,
+    "wof:name":"Jar-e Sang-e Khul",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.78104,
+    33.94863,
+    63.78104,
+    33.94863
+],
+  "geometry": {"coordinates":[63.78104,33.94863],"type":"Point"}
+}

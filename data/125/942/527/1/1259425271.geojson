@@ -1,0 +1,77 @@
+{
+  "id": 1259425271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80692,34.93665,68.80692,34.93665",
+    "geom:latitude":34.93665,
+    "geom:longitude":68.80692,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305",
+    "gn:asciiname":"Qadir Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130226,
+    "gn:latitude":34.93665,
+    "gn:longitude":68.80692,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qad\u012br Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kadirkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qa\u1e0f\u012b\u1e5fkh\u0113l",
+        "Qad\u012brkheyl",
+        "Qad\u012br Kh\u0113l",
+        "\u0642\u062f\u06cc\u0631 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130226
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bba5f6c21e4b7b0e5135186a1be24d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1259425271,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1259425271,
+    "wof:lastmodified":1537580822,
+    "wof:name":"Qadir Khel",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80691999999999,
+    34.93665,
+    68.80691999999999,
+    34.93665
+],
+  "geometry": {"coordinates":[68.80691999999999,34.93665],"type":"Point"}
+}

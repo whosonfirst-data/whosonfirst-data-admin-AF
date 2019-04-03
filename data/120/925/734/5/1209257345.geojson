@@ -1,0 +1,69 @@
+{
+  "id": 1209257345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.17298,35.21736,70.17298,35.21736",
+    "geom:latitude":35.21736,
+    "geom:longitude":70.17298,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3004",
+    "gn:asciiname":"Doni",
+    "gn:country_code":"AF",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142855,
+    "gn:latitude":35.21736,
+    "gn:longitude":70.17298,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Doni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u014dni",
+        "Doni",
+        "D\u016bn\u012b",
+        "D\u014dn\u012b",
+        "\u062f\u0648\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142855
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4304275e558a94f71ffae6e3a2f82fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209257345
+        }
+    ],
+    "wof:id":1209257345,
+    "wof:lastmodified":1537581866,
+    "wof:name":"Doni",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.17298000000001,
+    35.21736,
+    70.17298000000001,
+    35.21736
+],
+  "geometry": {"coordinates":[70.17298000000001,35.21736],"type":"Point"}
+}

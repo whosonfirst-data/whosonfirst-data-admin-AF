@@ -1,0 +1,74 @@
+{
+  "id": 1192997193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40326,32.51384,64.40326,32.51384",
+    "geom:latitude":32.51384,
+    "geom:longitude":64.40326,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306.0",
+    "gn:asciiname":"'Ali Khafah",
+    "gn:country_code":"AF",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148947,
+    "gn:latitude":32.51384,
+    "gn:longitude":64.40326,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u2018Al\u012b Khafah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alikhafa",
+        "\u2018Ali Khafa",
+        "\u2018Al\u012b Khafah",
+        "\u0639\u0644\u06cc \u062e\u0641\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148947
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3fd0f4b686bb61f91accd7fb8322980a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562311,
+            "locality_id":1192997193,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1192997193,
+    "wof:lastmodified":1537582379,
+    "wof:name":"'Ali Khafah",
+    "wof:parent_id":1108562311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40326,
+    32.51384,
+    64.40326,
+    32.51384
+],
+  "geometry": {"coordinates":[64.40326,32.51384],"type":"Point"}
+}

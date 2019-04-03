@@ -1,0 +1,72 @@
+{
+  "id": 1226439923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.06318,32.15449,63.06318,32.15449",
+    "geom:latitude":32.15449,
+    "geom:longitude":63.06318,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Gash",
+    "gn:country_code":"AF",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541375,
+    "gn:latitude":32.15449,
+    "gn:longitude":63.06318,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u0101sh",
+        "\u06af\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541375
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b54c6ebcba81baaf0a793465f2bbef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561843,
+            "locality_id":1226439923,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226439923,
+    "wof:lastmodified":1537583930,
+    "wof:name":"Gash",
+    "wof:parent_id":1108561843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.06318,
+    32.15449,
+    63.06318,
+    32.15449
+],
+  "geometry": {"coordinates":[63.06318,32.15449],"type":"Point"}
+}

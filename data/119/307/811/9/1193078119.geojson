@@ -1,0 +1,74 @@
+{
+  "id": 1193078119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37197,35.97039,66.37197,35.97039",
+    "geom:latitude":35.97039,
+    "geom:longitude":66.37197,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3102",
+    "gn:asciiname":"Taghay-e Khwajah Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123360,
+    "gn:latitude":35.97039,
+    "gn:longitude":66.37197,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0101gh\u0101y-e Khw\u0101jah Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101gh\u0101ye Khw\u0101jasufl\u0101",
+        "T\u0101gh\u0101ye Khv\u0101jeh Sofl\u00e1",
+        "T\u0101gh\u0101y-e Khw\u0101jah Sufl\u00e1",
+        "\u062a\u0627\u063a\u0627\u06cc \u062e\u0648\u0627\u062c\u0647 \u0635\u0641\u0644\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123360
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d9579c93caef202aeec301c565471ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562429,
+            "locality_id":1193078119,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1193078119,
+    "wof:lastmodified":1537580220,
+    "wof:name":"Taghay-e Khwajah Sufla",
+    "wof:parent_id":1108562429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37196999999999,
+    35.97039,
+    66.37196999999999,
+    35.97039
+],
+  "geometry": {"coordinates":[66.37196999999999,35.97039],"type":"Point"}
+}

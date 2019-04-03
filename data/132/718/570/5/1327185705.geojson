@@ -1,0 +1,75 @@
+{
+  "id": 1327185705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.32885,35.87525,71.32885,35.87525",
+    "geom:latitude":35.87525,
+    "geom:longitude":71.32885,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3005.0",
+    "gn:asciiname":"Ateti",
+    "gn:country_code":"AF",
+    "gn:dem":2638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148115,
+    "gn:latitude":35.87525,
+    "gn:longitude":71.32885,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ateti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Atiti",
+        "Ateti",
+        "A\u1e6fah\u1e6f\u012b",
+        "A\u1e6fe\u1e6f\u012b",
+        "\u0627\u0637\u0637\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148115
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e2f17f10113fb17cdc97fefe64e79ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561861,
+            "locality_id":1327185705,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1327185705,
+    "wof:lastmodified":1537582318,
+    "wof:name":"Ateti",
+    "wof:parent_id":1108561861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.32885,
+    35.87525,
+    71.32885,
+    35.87525
+],
+  "geometry": {"coordinates":[71.32885,35.87525],"type":"Point"}
+}

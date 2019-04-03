@@ -1,0 +1,78 @@
+{
+  "id": 1327013531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.9378,32.33488,64.9378,32.33488",
+    "geom:latitude":32.33488,
+    "geom:longitude":64.9378,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Karez-e Yidil",
+    "gn:country_code":"AF",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472798,
+    "gn:latitude":32.33488,
+    "gn:longitude":64.9378,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Yidil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Karezi-Yidil\u2019"
+    ],
+    "name:und_x_variant":[
+        "K\u0101r\u012bz Ye\u1e0fel",
+        "K\u0101\u1e5f\u0113ze Ye\u1e0fel",
+        "K\u0101r\u0113z-e Yidil",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u06cc\u062f\u0644",
+        "K\u0101r\u012bz-e Yedel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472798
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"83fb367121844ce3ada3c504feeb0506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1327013531,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1327013531,
+    "wof:lastmodified":1537583716,
+    "wof:name":"Karez-e Yidil",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.9378,
+    32.33488,
+    64.9378,
+    32.33488
+],
+  "geometry": {"coordinates":[64.9378,32.33488],"type":"Point"}
+}

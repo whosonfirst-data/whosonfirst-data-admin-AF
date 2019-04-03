@@ -1,0 +1,76 @@
+{
+  "id": 1344195817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11156,34.92568,69.11156,34.92568",
+    "geom:latitude":34.92568,
+    "geom:longitude":69.11156,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"301",
+    "gn:asciiname":"Rah Isht",
+    "gn:country_code":"AF",
+    "gn:dem":1772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128624,
+    "gn:latitude":34.92568,
+    "gn:longitude":69.11156,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101h Isht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rakhisht",
+        "R\u0101h-e\u0161t",
+        "R\u0101h Isht",
+        "R\u0101h Esht",
+        "R\u0101h-Isht",
+        "\u0631\u0627\u0647 \u0627\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108561893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128624
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a50d296665f7a9a2f534c06d37fd5803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561893,
+            "locality_id":1344195817,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1344195817,
+    "wof:lastmodified":1537580640,
+    "wof:name":"Rah Isht",
+    "wof:parent_id":1108561893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11156,
+    34.92568,
+    69.11156,
+    34.92568
+],
+  "geometry": {"coordinates":[69.11156,34.92568],"type":"Point"}
+}

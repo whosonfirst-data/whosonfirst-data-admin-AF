@@ -1,0 +1,79 @@
+{
+  "id": 1327164027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.93387,32.61461,65.93387,32.61461",
+    "geom:latitude":32.61461,
+    "geom:longitude":65.93387,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2601.0",
+    "gn:asciiname":"Solah-ye Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1449909,
+    "gn:latitude":32.61461,
+    "gn:longitude":65.93387,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dlah-ye Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u06c0 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "S\u014dla-i-Jon\u016bbi",
+        "S\u014dla-i- Jan\u016bbi",
+        "Solayi-Dzhanubi",
+        "S\u014dlah-ye Jun\u016bb\u012b",
+        "\u0633\u0648\u0644\u0647 \u062c\u0646\u0648\u0628\u06cc",
+        "S\u016bleh-ye Jon\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449909
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"45e4a8008cb1b3431d8b222809b09f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":1327164027,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1327164027,
+    "wof:lastmodified":1537583031,
+    "wof:name":"Solah-ye Junubi",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.93387,
+    32.61461,
+    65.93387,
+    32.61461
+],
+  "geometry": {"coordinates":[65.93387,32.61461],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242734113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.6397,31.53847,65.6397,31.53847",
+    "geom:latitude":31.53847,
+    "geom:longitude":65.6397,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401",
+    "gn:asciiname":"Rumbasi",
+    "gn:country_code":"AF",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128203,
+    "gn:latitude":31.53847,
+    "gn:longitude":65.6397,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rumb\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rumb\u0101s\u012b",
+        "\u0631\u0645\u0628\u0627\u0633\u06cc",
+        "\u1e5eumb\u0101si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128203
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c0eba5635a66999fae3334fb66f7313b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1242734113,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242734113,
+    "wof:lastmodified":1537580609,
+    "wof:name":"Rumbasi",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.6397,
+    31.53847,
+    65.6397,
+    31.53847
+],
+  "geometry": {"coordinates":[65.6397,31.53847],"type":"Point"}
+}

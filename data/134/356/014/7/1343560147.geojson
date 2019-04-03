@@ -1,0 +1,81 @@
+{
+  "id": 1343560147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26342,34.52717,67.26342,34.52717",
+    "geom:latitude":34.52717,
+    "geom:longitude":67.26342,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Lolah Deh",
+    "gn:country_code":"AF",
+    "gn:dem":3237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134582,
+    "gn:latitude":34.52717,
+    "gn:longitude":67.26342,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dlah Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0644\u0648\u0644\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043b\u0430\u0434\u0435\u0445"
+    ],
+    "name:und_x_variant":[
+        "L\u014dla\u1e0feh",
+        "Loladekh",
+        "L\u014dlah Deh",
+        "L\u016blehdeh",
+        "\u0644\u0648\u0644\u0647 \u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134582
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2f369d8095dfd5ae60009644a41d5ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1343560147,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343560147,
+    "wof:lastmodified":1537581186,
+    "wof:name":"Lolah Deh",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26342,
+    34.52717,
+    67.26342,
+    34.52717
+],
+  "geometry": {"coordinates":[67.26342,34.52717],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293191413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31547,32.9735,67.31547,32.9735",
+    "geom:latitude":32.9735,
+    "geom:longitude":67.31547,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Imad",
+    "gn:country_code":"AF",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1443324,
+    "gn:latitude":32.9735,
+    "gn:longitude":67.31547,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Imad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u0645\u062f",
+        "Emad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1443324
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e8ac38426e3ada69341f699963a85c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1293191413,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293191413,
+    "wof:lastmodified":1537582950,
+    "wof:name":"Imad",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31546999999999,
+    32.9735,
+    67.31546999999999,
+    32.9735
+],
+  "geometry": {"coordinates":[67.31546999999999,32.9735],"type":"Point"}
+}

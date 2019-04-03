@@ -1,0 +1,75 @@
+{
+  "id": 1310238475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.14961,32.69278,66.14961,32.69278",
+    "geom:latitude":32.69278,
+    "geom:longitude":66.14961,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602.0",
+    "gn:asciiname":"Charmistan",
+    "gn:country_code":"AF",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1428031,
+    "gn:latitude":32.69278,
+    "gn:longitude":66.14961,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Charmist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010carmest\u0101n",
+        "Charmistan",
+        "Charmist\u0101n",
+        "\u0686\u0631\u0645\u0633\u062a\u0627\u0646",
+        "Charmest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1428031
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8b07d0b0fdb9422171d5552a44669f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1310238475,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1310238475,
+    "wof:lastmodified":1537582648,
+    "wof:name":"Charmistan",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.14961,
+    32.69278,
+    66.14961,
+    32.69278
+],
+  "geometry": {"coordinates":[66.14961,32.69278],"type":"Point"}
+}

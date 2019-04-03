@@ -1,0 +1,72 @@
+{
+  "id": 1209922895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.78562,35.19595,62.78562,35.19595",
+    "geom:latitude":35.19595,
+    "geom:longitude":62.78562,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1902.0",
+    "gn:asciiname":"Sahib Khan",
+    "gn:country_code":"AF",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7492019,
+    "gn:latitude":35.19595,
+    "gn:longitude":62.78562,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015e\u0101\u1e29ib Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u015e\u0101\u1e29ib Kh\u0101n",
+        "\u0635\u0627\u062d\u0628 \u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7492019
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ab340b944dbbd825123da4b5d1db024b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561775,
+            "locality_id":1209922895,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1209922895,
+    "wof:lastmodified":1537583920,
+    "wof:name":"Sahib Khan",
+    "wof:parent_id":1108561775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.78562,
+    35.19595,
+    62.78562,
+    35.19595
+],
+  "geometry": {"coordinates":[62.78562,35.19595],"type":"Point"}
+}

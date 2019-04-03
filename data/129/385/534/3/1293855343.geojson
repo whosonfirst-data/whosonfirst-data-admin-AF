@@ -1,0 +1,71 @@
+{
+  "id": 1293855343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92896,33.95021,68.92896,33.95021",
+    "geom:latitude":33.95021,
+    "geom:longitude":68.92896,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"503.0",
+    "gn:asciiname":"Qaryah-ye Gul Muhammad",
+    "gn:country_code":"AF",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8453567,
+    "gn:latitude":33.95021,
+    "gn:longitude":68.92896,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Gul Muhammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0631\u064a\u0647 \u06af\u0644 \u0645\u062d\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108561859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8453567
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a8afdc9278f71c80748e04e323eebbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561859,
+            "locality_id":1293855343,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1293855343,
+    "wof:lastmodified":1537583943,
+    "wof:name":"Qaryah-ye Gul Muhammad",
+    "wof:parent_id":1108561859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92896,
+    33.95021,
+    68.92896,
+    33.95021
+],
+  "geometry": {"coordinates":[68.92896,33.95021],"type":"Point"}
+}

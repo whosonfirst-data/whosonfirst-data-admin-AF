@@ -1,0 +1,76 @@
+{
+  "id": 1260109979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2656,35.1694,69.2656,35.1694",
+    "geom:latitude":35.1694,
+    "geom:longitude":69.2656,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3305.0",
+    "gn:asciiname":"Chilanah",
+    "gn:country_code":"AF",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145148,
+    "gn:latitude":35.1694,
+    "gn:longitude":69.2656,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chil\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010cel\u0101na",
+        "Chilana",
+        "Chel\u0101na",
+        "Chel\u0101nah",
+        "Chil\u0101nah",
+        "\u0686\u0644\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108562511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145148
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"12cd11d3823599c6cf66c70bc39e8225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562511,
+            "locality_id":1260109979,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1260109979,
+    "wof:lastmodified":1537582079,
+    "wof:name":"Chilanah",
+    "wof:parent_id":1108562511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2656,
+    35.1694,
+    69.2656,
+    35.1694
+],
+  "geometry": {"coordinates":[69.26560000000001,35.1694],"type":"Point"}
+}

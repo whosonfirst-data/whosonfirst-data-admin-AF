@@ -1,0 +1,77 @@
+{
+  "id": 1344213421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35578,31.21133,66.35578,31.21133",
+    "geom:latitude":31.21133,
+    "geom:longitude":66.35578,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Spin Karez",
+    "gn:country_code":"AF",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477164,
+    "gn:latitude":31.21133,
+    "gn:longitude":66.35578,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sp\u012bn K\u0101r\u0113z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u0646 \u06a9\u0627\u0631\u06cc\u0632"
+    ],
+    "name:und_x_variant":[
+        "Sp\u012bn K\u0101\u1e5f\u0113z",
+        "Sp\u012bn K\u0101r\u0113z",
+        "\u0633\u067e\u06cc\u0646 \u06a9\u0627\u0631\u06d0\u0632",
+        "Sp\u012bn K\u0101r\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477164
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0ee82642ee9cab6788c3b6fa6a422ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1344213421,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1344213421,
+    "wof:lastmodified":1537583873,
+    "wof:name":"Spin Karez",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35578000000001,
+    31.21133,
+    66.35578000000001,
+    31.21133
+],
+  "geometry": {"coordinates":[66.35578000000001,31.21133],"type":"Point"}
+}

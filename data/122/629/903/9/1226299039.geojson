@@ -1,0 +1,75 @@
+{
+  "id": 1226299039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74778,31.29139,66.74778,31.29139",
+    "geom:latitude":31.29139,
+    "geom:longitude":66.74778,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Pangay",
+    "gn:country_code":"AF",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1466126,
+    "gn:latitude":31.29139,
+    "gn:longitude":66.74778,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101ngay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pangai",
+        "P\u0101ngay",
+        "P\u0101\u1e49gay",
+        "\u067e\u0627\u0646\u06af\u06cc",
+        "Pangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466126
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"faec675b6f94de8c67a92afcf3b5aaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1226299039,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226299039,
+    "wof:lastmodified":1537583413,
+    "wof:name":"Pangay",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74778,
+    31.29139,
+    66.74778,
+    31.29139
+],
+  "geometry": {"coordinates":[66.74778000000001,31.29139],"type":"Point"}
+}

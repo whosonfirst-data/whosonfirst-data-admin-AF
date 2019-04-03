@@ -1,0 +1,74 @@
+{
+  "id": 1310316511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.51762,36.11024,69.51762,36.11024",
+    "geom:latitude":36.11024,
+    "geom:longitude":69.51762,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1308",
+    "gn:asciiname":"Yakhah",
+    "gn:country_code":"AF",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121378,
+    "gn:latitude":36.11024,
+    "gn:longitude":69.51762,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakha",
+        "Yakheh",
+        "Yakhah",
+        "\u06cc\u062e\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121378
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cc7ec2992a62d9bb5e6aa138e605a618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562171,
+            "locality_id":1310316511,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310316511,
+    "wof:lastmodified":1537580038,
+    "wof:name":"Yakhah",
+    "wof:parent_id":1108562171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.51762,
+    36.11024000000001,
+    69.51762,
+    36.11024000000001
+],
+  "geometry": {"coordinates":[69.51761999999999,36.11024000000001],"type":"Point"}
+}

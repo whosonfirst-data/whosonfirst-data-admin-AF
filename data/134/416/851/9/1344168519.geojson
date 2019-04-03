@@ -1,0 +1,82 @@
+{
+  "id": 1344168519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80484,36.21423,68.80484,36.21423",
+    "geom:latitude":36.21423,
+    "geom:longitude":68.80484,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Zayr-e Nahr",
+    "gn:country_code":"AF",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120696,
+    "gn:latitude":36.21423,
+    "gn:longitude":68.80484,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zayr-e Nahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631\u0654 \u0646\u0647\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0440\u0438-\u041d\u0430\u0445\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Zer-e Nahr",
+        "Zeri-Nakhar",
+        "Z\u0113\u1e5f-i-Nah\u1e5f",
+        "Z\u012br-e Nahr",
+        "Zayr-e Nahr",
+        "\u0632\u06cc\u0631 \u0646\u0647\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120696
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1f322386ef53b3e8afb7595825e35cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1344168519,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1344168519,
+    "wof:lastmodified":1537579959,
+    "wof:name":"Zayr-e Nahr",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80484,
+    36.21423,
+    68.80484,
+    36.21423
+],
+  "geometry": {"coordinates":[68.80484,36.21423],"type":"Point"}
+}

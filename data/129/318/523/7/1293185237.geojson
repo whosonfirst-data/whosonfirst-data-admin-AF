@@ -1,0 +1,75 @@
+{
+  "id": 1293185237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.6256,33.44472,64.6256,33.44472",
+    "geom:latitude":33.44472,
+    "geom:longitude":64.6256,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Khatif",
+    "gn:country_code":"AF",
+    "gn:dem":2635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136839,
+    "gn:latitude":33.44472,
+    "gn:longitude":64.6256,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kha\u0163\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0637\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Kha\u0163\u012bf",
+        "\u062e\u0637\u06cc\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136839
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd325fce35f6cce3f4b691a7be0e7ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1293185237,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293185237,
+    "wof:lastmodified":1537581373,
+    "wof:name":"Khatif",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.6256,
+    33.44472,
+    64.6256,
+    33.44472
+],
+  "geometry": {"coordinates":[64.62560000000001,33.44472],"type":"Point"}
+}

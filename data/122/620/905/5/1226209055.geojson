@@ -1,0 +1,75 @@
+{
+  "id": 1226209055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73351,34.1461,68.73351,34.1461",
+    "geom:latitude":34.1461,
+    "geom:longitude":68.73351,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406.0",
+    "gn:asciiname":"Ambo Khak",
+    "gn:country_code":"AF",
+    "gn:dem":2102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148683,
+    "gn:latitude":34.1461,
+    "gn:longitude":68.73351,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Amb\u014d Kh\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amb\u014dkh\u0101k",
+        "Ambokhak",
+        "Amb\u014d Kh\u0101k",
+        "Anb\u016bhkh\u0101k",
+        "\u0627\u0645\u0628\u0648 \u062e\u0627\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148683
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6ee41914eb96893c2d1110aaa5945c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1226209055,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226209055,
+    "wof:lastmodified":1537582357,
+    "wof:name":"Ambo Khak",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73351,
+    34.1461,
+    68.73351,
+    34.1461
+],
+  "geometry": {"coordinates":[68.73351,34.1461],"type":"Point"}
+}

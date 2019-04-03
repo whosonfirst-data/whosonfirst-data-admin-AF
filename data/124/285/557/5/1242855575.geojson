@@ -1,0 +1,77 @@
+{
+  "id": 1242855575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.16926,34.2778,62.16926,34.2778",
+    "geom:latitude":34.2778,
+    "geom:longitude":62.16926,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2003",
+    "gn:asciiname":"Gul Wafa",
+    "gn:country_code":"AF",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140756,
+    "gn:latitude":34.2778,
+    "gn:longitude":62.16926,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gul Waf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gul\u2019vafa"
+    ],
+    "name:und_x_variant":[
+        "Gulb\u0101f\u0101n",
+        "Gul Waf\u0101",
+        "Gol Vaf\u0101",
+        "\u06af\u0644 \u0648\u0641\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140756
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"600b4de56ae5ad145f07af1da4dfefbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562057,
+            "locality_id":1242855575,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1242855575,
+    "wof:lastmodified":1537581691,
+    "wof:name":"Gul Wafa",
+    "wof:parent_id":1108562057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.16926,
+    34.2778,
+    62.16926,
+    34.2778
+],
+  "geometry": {"coordinates":[62.16926,34.2778],"type":"Point"}
+}

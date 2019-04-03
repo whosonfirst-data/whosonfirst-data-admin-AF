@@ -1,0 +1,74 @@
+{
+  "id": 1326491407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34234,32.79074,69.34234,32.79074",
+    "geom:latitude":32.79074,
+    "geom:longitude":69.34234,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2909.0",
+    "gn:asciiname":"Sharif Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434066,
+    "gn:latitude":32.79074,
+    "gn:longitude":69.34234,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shar\u012bf Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharifkheyl\u2019",
+        "\u0160ar\u012bfkh\u0113l",
+        "Sar\u012bf Kheyl",
+        "Shar\u012bf Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434066
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ec079ea03bc8662c67d4472871d649d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561863,
+            "locality_id":1326491407,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1326491407,
+    "wof:lastmodified":1537582703,
+    "wof:name":"Sharif Khel",
+    "wof:parent_id":1108561863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34234000000001,
+    32.79074,
+    69.34234000000001,
+    32.79074
+],
+  "geometry": {"coordinates":[69.34234000000001,32.79074],"type":"Point"}
+}

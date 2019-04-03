@@ -1,0 +1,78 @@
+{
+  "id": 1309856719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37289,31.7537,67.37289,31.7537",
+    "geom:latitude":31.7537,
+    "geom:longitude":67.37289,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Qaryah-ye Wardak Ha",
+    "gn:country_code":"AF",
+    "gn:dem":1833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436164,
+    "gn:latitude":31.7537,
+    "gn:longitude":67.37289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Wardak H\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kar\u2019yayi-Vardakkha"
+    ],
+    "name:und_x_variant":[
+        "Qarya-i-Wa\u1e5f\u1e0fak-h\u0101",
+        "Qaryah-ye Wardak H\u0101",
+        "\u0642\u0631\u06cc\u0647 \u0648\u0631\u062f\u06a9 \u0647\u0627",
+        "Qar\u012byeh-e Wardak-h\u0101",
+        "Kar\u2019yayi-Vardakkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436164
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7d8203d458387c7a9fe6909690f7a7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1309856719,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1309856719,
+    "wof:lastmodified":1537582808,
+    "wof:name":"Qaryah-ye Wardak Ha",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37289,
+    31.7537,
+    67.37289,
+    31.7537
+],
+  "geometry": {"coordinates":[67.37289,31.7537],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226694795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.11033,34.74204,70.11033,34.74204",
+    "geom:latitude":34.74204,
+    "geom:longitude":70.11033,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"905",
+    "gn:asciiname":"Sabrabad",
+    "gn:country_code":"AF",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128154,
+    "gn:latitude":34.74204,
+    "gn:longitude":70.11033,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015eabr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sab\u1e5f\u0101b\u0101\u1e0f",
+        "\u015eabr\u0101b\u0101d",
+        "\u0635\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128154
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"37b47b48bdb1231b8434c921280e9688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561795,
+            "locality_id":1226694795,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1226694795,
+    "wof:lastmodified":1537580605,
+    "wof:name":"Sabrabad",
+    "wof:parent_id":1108561795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.11033,
+    34.74204,
+    70.11033,
+    34.74204
+],
+  "geometry": {"coordinates":[70.11033,34.74204],"type":"Point"}
+}

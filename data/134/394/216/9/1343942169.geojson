@@ -1,0 +1,73 @@
+{
+  "id": 1343942169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0368,34.47562,65.0368,34.47562",
+    "geom:latitude":34.47562,
+    "geom:longitude":65.0368,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Jarmatu",
+    "gn:country_code":"AF",
+    "gn:dem":2206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139376,
+    "gn:latitude":34.47562,
+    "gn:longitude":65.0368,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jarmat\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jarmat\u016b",
+        "\u062c\u0631\u0645\u062a\u0648",
+        "Ja\u1e5fmatu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139376
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"daea23bc4ea63dbc60ebb84fdbff2506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1343942169,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343942169,
+    "wof:lastmodified":1537581571,
+    "wof:name":"Jarmatu",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0368,
+    34.47562,
+    65.0368,
+    34.47562
+],
+  "geometry": {"coordinates":[65.0368,34.47562],"type":"Point"}
+}

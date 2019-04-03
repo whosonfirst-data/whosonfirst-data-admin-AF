@@ -1,0 +1,72 @@
+{
+  "id": 1343954595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.9241,33.65499,63.9241,33.65499",
+    "geom:latitude":33.65499,
+    "geom:longitude":63.9241,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2704",
+    "gn:asciiname":"Jarf",
+    "gn:country_code":"AF",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139403,
+    "gn:latitude":33.65499,
+    "gn:longitude":63.9241,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jarf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062c\u0631\u0641",
+        "Ja\u1e5ff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139403
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eee19c40f20652f1c2012c74422d0ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562423,
+            "locality_id":1343954595,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1343954595,
+    "wof:lastmodified":1537581573,
+    "wof:name":"Jarf",
+    "wof:parent_id":1108562423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.9241,
+    33.65499000000001,
+    63.9241,
+    33.65499000000001
+],
+  "geometry": {"coordinates":[63.9241,33.65499000000001],"type":"Point"}
+}

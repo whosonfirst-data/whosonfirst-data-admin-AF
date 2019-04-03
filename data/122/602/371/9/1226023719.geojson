@@ -1,0 +1,79 @@
+{
+  "id": 1226023719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.16632,33.0211,65.16632,33.0211",
+    "geom:latitude":33.0211,
+    "geom:longitude":65.16632,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2305.0",
+    "gn:asciiname":"Bedak",
+    "gn:country_code":"AF",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146483,
+    "gn:latitude":33.0211,
+    "gn:longitude":65.16632,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bedak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0434\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "B\u0113\u1e0fak",
+        "Bedak",
+        "B\u012bdak",
+        "Baydak",
+        "\u0628\u06cc\u062f\u06a9",
+        "\u0628\u064a\u062f\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146483
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4df7bc23e9114fd7789d01c26ff8f719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":1226023719,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226023719,
+    "wof:lastmodified":1537582188,
+    "wof:name":"Bedak",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.16632,
+    33.0211,
+    65.16632,
+    33.0211
+],
+  "geometry": {"coordinates":[65.16632,33.0211],"type":"Point"}
+}

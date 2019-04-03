@@ -1,0 +1,74 @@
+{
+  "id": 1327085315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61781,32.44558,67.61781,32.44558",
+    "geom:latitude":32.44558,
+    "geom:longitude":67.61781,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2511",
+    "gn:asciiname":"Habib Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":2274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140451,
+    "gn:latitude":32.44558,
+    "gn:longitude":67.61781,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ab\u012bb K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khabibkalay",
+        "\u1e28ab\u012bb K\u00ealay",
+        "\u062d\u0628\u06cc\u0628 \u06a9\u0644\u06cc",
+        "\u1e28ab\u012bb Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140451
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"17deed2329e4f589d9cfe37224b27cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562309,
+            "locality_id":1327085315,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327085315,
+    "wof:lastmodified":1537581664,
+    "wof:name":"Habib Kelay",
+    "wof:parent_id":1108562309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61780999999999,
+    32.44558,
+    67.61780999999999,
+    32.44558
+],
+  "geometry": {"coordinates":[67.61780999999999,32.44558],"type":"Point"}
+}

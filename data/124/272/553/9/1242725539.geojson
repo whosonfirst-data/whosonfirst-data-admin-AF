@@ -1,0 +1,79 @@
+{
+  "id": 1242725539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16239,34.59276,68.16239,34.59276",
+    "geom:latitude":34.59276,
+    "geom:longitude":68.16239,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Qal'ah-ye Jamil",
+    "gn:country_code":"AF",
+    "gn:dem":3101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455668,
+    "gn:latitude":34.59276,
+    "gn:longitude":68.16239,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Jam\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kalayi-Dzhamil\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qal\u0101-i-Jam\u012bl",
+        "H\u0101ji K\u0101ka",
+        "Khodzhikaka",
+        "Qal\u2018eh-ye-Jam\u012bl",
+        "Qal\u2018ah-ye Jam\u012bl",
+        "\u0642\u0644\u0639\u0647 \u062c\u0645\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ce742217f8e1a80c75ef7ae79e4113c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1242725539,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242725539,
+    "wof:lastmodified":1537583155,
+    "wof:name":"Qal'ah-ye Jamil",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16239,
+    34.59276,
+    68.16239,
+    34.59276
+],
+  "geometry": {"coordinates":[68.16239,34.59276],"type":"Point"}
+}

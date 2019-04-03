@@ -1,0 +1,77 @@
+{
+  "id": 1293199625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.23376,34.76956,67.23376,34.76956",
+    "geom:latitude":34.76956,
+    "geom:longitude":67.23376,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Koy Kenak",
+    "gn:country_code":"AF",
+    "gn:dem":2983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471820,
+    "gn:latitude":34.76956,
+    "gn:longitude":67.23376,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dy K\u0113nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0439\u043a\u0435\u043d\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Koykenak",
+        "K\u014dy K\u0113nak",
+        "K\u016by K\u0113nak",
+        "\u06a9\u0648\u06cc \u06a9\u064a\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471820
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"41ad3bee5042160861e52cec68bd7b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1293199625,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293199625,
+    "wof:lastmodified":1537583657,
+    "wof:name":"Koy Kenak",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.23376,
+    34.76956,
+    67.23376,
+    34.76956
+],
+  "geometry": {"coordinates":[67.23376,34.76956],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360198479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89916,35.98245,70.89916,35.98245",
+    "geom:latitude":35.98245,
+    "geom:longitude":70.89916,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1104",
+    "gn:asciiname":"Shahran",
+    "gn:country_code":"AF",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125891,
+    "gn:latitude":35.98245,
+    "gn:longitude":70.89916,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304ah\u1e5f\u0101n",
+        "Shakhran",
+        "\u0634\u0647\u0631\u0627\u0646",
+        "Shahr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125891
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b19bac6c48c0c51826762521fa895ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562221,
+            "locality_id":1360198479,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360198479,
+    "wof:lastmodified":1537580425,
+    "wof:name":"Shahran",
+    "wof:parent_id":1108562221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89916,
+    35.98245,
+    70.89916,
+    35.98245
+],
+  "geometry": {"coordinates":[70.89915999999999,35.98245],"type":"Point"}
+}

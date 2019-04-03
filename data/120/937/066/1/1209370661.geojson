@@ -1,0 +1,75 @@
+{
+  "id": 1209370661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96952,36.73132,68.96952,36.73132",
+    "geom:latitude":36.73132,
+    "geom:longitude":68.96952,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1406",
+    "gn:asciiname":"Kubai",
+    "gn:country_code":"AF",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135866,
+    "gn:latitude":36.73132,
+    "gn:longitude":68.96952,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kubai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0430\u0438"
+    ],
+    "name:und_x_variant":[
+        "K\u014dba\u2019i",
+        "Kubai",
+        "Kowba\u2019i",
+        "K\u014dba\u2019\u012b",
+        "\u06a9\u0648\u0628\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135866
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8d3efdb9bc52fbab59ec6e2334587ce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209370661
+        }
+    ],
+    "wof:id":1209370661,
+    "wof:lastmodified":1537581295,
+    "wof:name":"Kubai",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96951999999999,
+    36.73132,
+    68.96951999999999,
+    36.73132
+],
+  "geometry": {"coordinates":[68.96951999999999,36.73132],"type":"Point"}
+}

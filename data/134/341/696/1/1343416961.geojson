@@ -1,0 +1,72 @@
+{
+  "id": 1343416961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.19249,36.99638,68.19249,36.99638",
+    "geom:latitude":36.99638,
+    "geom:longitude":68.19249,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1403.0",
+    "gn:asciiname":"Baghri Kol",
+    "gn:country_code":"AF",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147522,
+    "gn:latitude":36.99638,
+    "gn:longitude":68.19249,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baghr\u012b K\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baghr\u012b K\u014dl",
+        "\u0628\u063a\u0631\u06cc \u06a9\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"360a49254aedd5cb07dc546bd3ccdc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562383,
+            "locality_id":1343416961,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1343416961,
+    "wof:lastmodified":1537582273,
+    "wof:name":"Baghri Kol",
+    "wof:parent_id":1108562383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.19249,
+    36.99638,
+    68.19249,
+    36.99638
+],
+  "geometry": {"coordinates":[68.19249000000001,36.99638],"type":"Point"}
+}

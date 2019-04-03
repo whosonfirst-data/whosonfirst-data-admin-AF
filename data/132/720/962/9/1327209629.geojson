@@ -1,0 +1,77 @@
+{
+  "id": 1327209629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.40292,34.43022,70.40292,34.43022",
+    "geom:latitude":34.43022,
+    "geom:longitude":70.40292,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Lolan",
+    "gn:country_code":"AF",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473165,
+    "gn:latitude":34.43022,
+    "gn:longitude":70.40292,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0646"
+    ],
+    "name:und_x_variant":[
+        "L\u014dl\u0101n",
+        "Lowlan",
+        "\u0644\u0648\u0644\u0646",
+        "\u0644\u0648\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473165
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63d88a1a1ca456b39a9c75920af7edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1327209629,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1327209629,
+    "wof:lastmodified":1537583742,
+    "wof:name":"Lolan",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.40292,
+    34.43022,
+    70.40292,
+    34.43022
+],
+  "geometry": {"coordinates":[70.40291999999999,34.43022],"type":"Point"}
+}

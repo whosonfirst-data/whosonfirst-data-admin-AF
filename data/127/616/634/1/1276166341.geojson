@@ -1,0 +1,76 @@
+{
+  "id": 1276166341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2752,35.12013,70.2752,35.12013",
+    "geom:latitude":35.12013,
+    "geom:longitude":70.2752,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3007",
+    "gn:asciiname":"Junia",
+    "gn:country_code":"AF",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139033,
+    "gn:latitude":35.12013,
+    "gn:longitude":70.2752,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u016bn\u012b\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Dzhun\u2019ya"
+    ],
+    "name:und_x_variant":[
+        "Juny\u0101",
+        "J\u016bn\u012b\u0101",
+        "\u062c\u0648\u0646\u06cc\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108561991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139033
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4d0bcf2e45e4c77e7fc071a24d9f9efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561991,
+            "locality_id":1276166341,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1276166341,
+    "wof:lastmodified":1537581544,
+    "wof:name":"Junia",
+    "wof:parent_id":1108561991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2752,
+    35.12013,
+    70.2752,
+    35.12013
+],
+  "geometry": {"coordinates":[70.2752,35.12013],"type":"Point"}
+}

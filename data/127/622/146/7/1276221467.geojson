@@ -1,0 +1,74 @@
+{
+  "id": 1276221467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.20161,34.34225,64.20161,34.34225",
+    "geom:latitude":34.34225,
+    "geom:longitude":64.20161,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2702",
+    "gn:asciiname":"Nalbast",
+    "gn:country_code":"AF",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132411,
+    "gn:latitude":34.34225,
+    "gn:longitude":64.20161,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nalbast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Nal\u2019bast"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0644\u0628\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        421177081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132411
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"52b95e4e89c64c7a10f127297b3c609c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421177081,
+            "locality_id":1276221467,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276221467,
+    "wof:lastmodified":1537581005,
+    "wof:name":"Nalbast",
+    "wof:parent_id":421177081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.20161,
+    34.34225,
+    64.20161,
+    34.34225
+],
+  "geometry": {"coordinates":[64.20161,34.34225],"type":"Point"}
+}

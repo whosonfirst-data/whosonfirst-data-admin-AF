@@ -1,0 +1,67 @@
+{
+  "id": 1209208775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.71999,32.91057,64.71999,32.91057",
+    "geom:latitude":32.91057,
+    "geom:longitude":64.71999,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2306",
+    "gn:asciiname":"Sar Akhtak",
+    "gn:country_code":"AF",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127415,
+    "gn:latitude":32.91057,
+    "gn:longitude":64.71999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Akhtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarakhtak",
+        "Sar Akhtak",
+        "\u0633\u0631 \u0627\u062e\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127415
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"81ca386176c31fe8a0f37cdd9a75e987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209208775
+        }
+    ],
+    "wof:id":1209208775,
+    "wof:lastmodified":1537580555,
+    "wof:name":"Sar Akhtak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.71999,
+    32.91057,
+    64.71999,
+    32.91057
+],
+  "geometry": {"coordinates":[64.71999,32.91057],"type":"Point"}
+}

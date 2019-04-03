@@ -1,0 +1,76 @@
+{
+  "id": 1243430225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46458,34.17244,70.46458,34.17244",
+    "geom:latitude":34.17244,
+    "geom:longitude":70.46458,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"808",
+    "gn:asciiname":"Sar Miran",
+    "gn:country_code":"AF",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126894,
+    "gn:latitude":34.17244,
+    "gn:longitude":70.46458,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar M\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0645\u064a\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sarmiran",
+        "Sar M\u012br\u0101n",
+        "\u0633\u0631 \u0645\u06cc\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126894
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"002394e636fd809ba081d2615fc00302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561971,
+            "locality_id":1243430225,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1243430225,
+    "wof:lastmodified":1537580511,
+    "wof:name":"Sar Miran",
+    "wof:parent_id":1108561971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46458,
+    34.17244,
+    70.46458,
+    34.17244
+],
+  "geometry": {"coordinates":[70.46458,34.17244],"type":"Point"}
+}

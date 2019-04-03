@@ -1,0 +1,78 @@
+{
+  "id": 1226589153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12484,34.82548,71.12484,34.82548",
+    "geom:latitude":34.82548,
+    "geom:longitude":71.12484,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1001.0",
+    "gn:asciiname":"Teshah",
+    "gn:country_code":"AF",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451925,
+    "gn:latitude":34.82548,
+    "gn:longitude":71.12484,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u0113shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tesha",
+        "T\u0113\u0161a",
+        "T\u0113shah",
+        "T\u012bshah",
+        "\u062a\u06d0\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451925
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e4a6b87eaff0377b822277b9a0147398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561823,
+            "locality_id":1226589153,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1226589153,
+    "wof:lastmodified":1537583080,
+    "wof:name":"Teshah",
+    "wof:parent_id":1108561823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12484,
+    34.82548,
+    71.12484,
+    34.82548
+],
+  "geometry": {"coordinates":[71.12484000000001,34.82548],"type":"Point"}
+}

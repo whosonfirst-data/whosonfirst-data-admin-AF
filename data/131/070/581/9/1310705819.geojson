@@ -1,0 +1,73 @@
+{
+  "id": 1310705819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.5589,37.57113,70.5589,37.57113",
+    "geom:latitude":37.57113,
+    "geom:longitude":70.5589,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Ahmad Dur",
+    "gn:country_code":"AF",
+    "gn:dem":2528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467515,
+    "gn:latitude":37.57113,
+    "gn:longitude":70.5589,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"A\u1e29mad Dur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u062d\u0645\u062f \u062f\u0631",
+        "A\u1e29mad \u1e0eu\u1e5f",
+        "A\u1e29mad Dur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467515
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"602e1086193f1113578d1db6eab15bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1310705819,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1310705819,
+    "wof:lastmodified":1537583483,
+    "wof:name":"Ahmad Dur",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.5589,
+    37.57113,
+    70.5589,
+    37.57113
+],
+  "geometry": {"coordinates":[70.55889999999999,37.57113],"type":"Point"}
+}

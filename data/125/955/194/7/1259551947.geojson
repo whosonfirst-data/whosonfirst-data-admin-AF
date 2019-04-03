@@ -1,0 +1,77 @@
+{
+  "id": 1259551947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.65639,32.4213,65.65639,32.4213",
+    "geom:latitude":32.4213,
+    "geom:longitude":65.65639,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2415.0",
+    "gn:asciiname":"Ghoymatan",
+    "gn:country_code":"AF",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424749,
+    "gn:latitude":32.4213,
+    "gn:longitude":65.65639,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014dymat\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0648\u064a\u0645\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Gh\u014dymat\u0101n",
+        "Goymatan",
+        "\u063a\u0648\u06cc\u0645\u062a\u0627\u0646",
+        "Ghowymat\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424749
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eaf0cb8c0cec1c01240481c1ec5d57e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562323,
+            "locality_id":1259551947,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1259551947,
+    "wof:lastmodified":1537582615,
+    "wof:name":"Ghoymatan",
+    "wof:parent_id":1108562323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.65639,
+    32.4213,
+    65.65639,
+    32.4213
+],
+  "geometry": {"coordinates":[65.65639,32.4213],"type":"Point"}
+}

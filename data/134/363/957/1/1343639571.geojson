@@ -1,0 +1,74 @@
+{
+  "id": 1343639571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.01228,34.83371,62.01228,34.83371",
+    "geom:latitude":34.83371,
+    "geom:longitude":62.01228,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Mulla Kajir",
+    "gn:country_code":"AF",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1132926,
+    "gn:latitude":34.83371,
+    "gn:longitude":62.01228,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Kaj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mulla-Kadzhir",
+        "Mull\u0101 Kaj\u012br",
+        "\u0645\u0644\u0627 \u06a9\u062c\u06cc\u0631",
+        "Moll\u0101 Kaj\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132926
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db310d46be9372d5868125f3c60fe28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1343639571,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343639571,
+    "wof:lastmodified":1537581049,
+    "wof:name":"Mulla Kajir",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.01228,
+    34.83371,
+    62.01228,
+    34.83371
+],
+  "geometry": {"coordinates":[62.01228,34.83371],"type":"Point"}
+}

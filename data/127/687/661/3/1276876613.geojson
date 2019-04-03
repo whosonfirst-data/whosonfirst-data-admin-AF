@@ -1,0 +1,71 @@
+{
+  "id": 1276876613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4232,37.62612,70.4232,37.62612",
+    "geom:latitude":37.62612,
+    "geom:longitude":70.4232,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Gharm",
+    "gn:country_code":"AF",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467379,
+    "gn:latitude":37.62612,
+    "gn:longitude":70.4232,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gharm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u063a\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467379
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d2e0c10f05eb851646e6b58233799f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1276876613,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276876613,
+    "wof:lastmodified":1537583471,
+    "wof:name":"Gharm",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4232,
+    37.62612,
+    70.4232,
+    37.62612
+],
+  "geometry": {"coordinates":[70.42319999999999,37.62612],"type":"Point"}
+}

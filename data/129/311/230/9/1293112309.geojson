@@ -1,0 +1,68 @@
+{
+  "id": 1293112309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88712,36.97091,72.88712,36.97091",
+    "geom:latitude":36.97091,
+    "geom:longitude":72.88712,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106.0",
+    "gn:asciiname":"Maorabar",
+    "gn:country_code":"AF",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11047483,
+    "gn:latitude":36.97091,
+    "gn:longitude":72.88712,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Maorabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047483
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"571576e0a61827a4fc2a18e0d3f99783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1293112309,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293112309,
+    "wof:lastmodified":1536829928,
+    "wof:name":"Maorabar",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88712,
+    36.97091,
+    72.88712,
+    36.97091
+],
+  "geometry": {"coordinates":[72.88712,36.97091],"type":"Point"}
+}

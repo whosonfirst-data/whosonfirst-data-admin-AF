@@ -1,0 +1,74 @@
+{
+  "id": 1310114417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.05443,34.95283,63.05443,34.95283",
+    "geom:latitude":34.95283,
+    "geom:longitude":63.05443,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1902",
+    "gn:asciiname":"Deh-e Zangi",
+    "gn:country_code":"AF",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143499,
+    "gn:latitude":34.95283,
+    "gn:longitude":63.05443,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e Zang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dekhi-Zangi",
+        "\u1e0eeh-i-Zangi",
+        "Deh-e Zang\u012b",
+        "\u062f\u0647 \u0632\u0646\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143499
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8dc682aeee5b10abd580f95c7b2499cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561775,
+            "locality_id":1310114417,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1310114417,
+    "wof:lastmodified":1537581923,
+    "wof:name":"Deh-e Zangi",
+    "wof:parent_id":1108561775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.05443,
+    34.95283,
+    63.05443,
+    34.95283
+],
+  "geometry": {"coordinates":[63.05443,34.95283],"type":"Point"}
+}

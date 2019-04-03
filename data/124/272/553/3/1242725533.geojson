@@ -1,0 +1,75 @@
+{
+  "id": 1242725533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53764,34.09075,68.53764,34.09075",
+    "geom:latitude":34.09075,
+    "geom:longitude":68.53764,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406",
+    "gn:asciiname":"Faqiray",
+    "gn:country_code":"AF",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142274,
+    "gn:latitude":34.09075,
+    "gn:longitude":68.53764,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Faq\u012bray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faqi\u1e5fay",
+        "Fakiray",
+        "Faq\u012br\u012b",
+        "Faq\u012bray",
+        "\u0641\u0642\u06cc\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"de4fca9d01c6a1a2db45f523f9377a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1242725533,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1242725533,
+    "wof:lastmodified":1537581814,
+    "wof:name":"Faqiray",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53764,
+    34.09075,
+    68.53764,
+    34.09075
+],
+  "geometry": {"coordinates":[68.53764,34.09075],"type":"Point"}
+}

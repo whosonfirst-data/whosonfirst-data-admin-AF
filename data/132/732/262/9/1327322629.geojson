@@ -1,0 +1,73 @@
+{
+  "id": 1327322629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.8655,32.33586,64.8655,32.33586",
+    "geom:latitude":32.33586,
+    "geom:longitude":64.8655,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Lwar Jiljay",
+    "gn:country_code":"AF",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472703,
+    "gn:latitude":32.33586,
+    "gn:longitude":64.8655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5f Jiljay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lwa\u1e5f Jiljay",
+        "\u0644\u0648\u0693 \u062c\u0644\u062c\u06cc",
+        "Lwa\u1e5f Jeljay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472703
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2dcba1f87f1f5e86ad4f9e678e3b32c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1327322629,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1327322629,
+    "wof:lastmodified":1537583708,
+    "wof:name":"Lwar Jiljay",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.8655,
+    32.33586,
+    64.8655,
+    32.33586
+],
+  "geometry": {"coordinates":[64.8655,32.33586],"type":"Point"}
+}

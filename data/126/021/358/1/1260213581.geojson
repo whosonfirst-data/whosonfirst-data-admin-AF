@@ -1,0 +1,76 @@
+{
+  "id": 1260213581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.68125,35.2973,69.68125,35.2973",
+    "geom:latitude":35.2973,
+    "geom:longitude":69.68125,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3302.0",
+    "gn:asciiname":"Kiraman",
+    "gn:country_code":"AF",
+    "gn:dem":2527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1429521,
+    "gn:latitude":35.2973,
+    "gn:longitude":69.68125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kir\u0101m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0430\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ker\u0101m\u0101n",
+        "Kir\u0101m\u0101n",
+        "\u06a9\u0631\u0627\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1429521
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"dd16f51ed10e9fb1553bfe99ab1198fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561939,
+            "locality_id":1260213581,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1260213581,
+    "wof:lastmodified":1537582679,
+    "wof:name":"Kiraman",
+    "wof:parent_id":1108561939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.68125,
+    35.2973,
+    69.68125,
+    35.2973
+],
+  "geometry": {"coordinates":[69.68125000000001,35.2973],"type":"Point"}
+}

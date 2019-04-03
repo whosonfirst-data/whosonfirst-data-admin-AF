@@ -1,0 +1,75 @@
+{
+  "id": 1310389045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.07909,32.12058,65.07909,32.12058",
+    "geom:latitude":32.12058,
+    "geom:longitude":65.07909,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Bay Khosh",
+    "gn:country_code":"AF",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146732,
+    "gn:latitude":32.12058,
+    "gn:longitude":65.07909,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101y Kh\u014dsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101ykhu\u0161",
+        "Baykhush",
+        "B\u0101y Kh\u014dsh",
+        "\u0628\u0627\u06cc \u062e\u0648\u0634",
+        "B\u0101ykhvosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146732
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86919cd7979b96c68e2dd7d831633092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1310389045,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1310389045,
+    "wof:lastmodified":1537582209,
+    "wof:name":"Bay Khosh",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.07909000000001,
+    32.12058,
+    65.07909000000001,
+    32.12058
+],
+  "geometry": {"coordinates":[65.07909000000001,32.12058],"type":"Point"}
+}

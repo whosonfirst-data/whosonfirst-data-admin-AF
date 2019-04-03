@@ -1,0 +1,74 @@
+{
+  "id": 1344104239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.68803,31.94975,66.68803,31.94975",
+    "geom:latitude":31.94975,
+    "geom:longitude":66.68803,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Kharanukotay",
+    "gn:country_code":"AF",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477024,
+    "gn:latitude":31.94975,
+    "gn:longitude":66.68803,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kharanukotay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101\u1e5f\u0101no K\u014dtey",
+        "\u062e\u0627\u0631\u0627\u0646\u0648 \u06a9\u0648\u067c\u06cd",
+        "Kh\u0101r\u0101no K\u016btey",
+        "Kh\u0101r\u0101n\u014d K\u014d\u1e6f\u00eay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477024
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e7126bf4a02b698fb923ba8b2b0603a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1344104239,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1344104239,
+    "wof:lastmodified":1537583865,
+    "wof:name":"Kharanukotay",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.68803,
+    31.94975,
+    66.68803,
+    31.94975
+],
+  "geometry": {"coordinates":[66.68803,31.94975],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242780847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.40729,35.04781,64.40729,35.04781",
+    "geom:latitude":35.04781,
+    "geom:longitude":64.40729,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Kazak",
+    "gn:country_code":"AF",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137560,
+    "gn:latitude":35.04781,
+    "gn:longitude":64.40729,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101zak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101zak",
+        "\u06a9\u0627\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137560
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5bf80cd1aa31a929ae07d61fd925fdf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1242780847,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1242780847,
+    "wof:lastmodified":1537581427,
+    "wof:name":"Kazak",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.40729,
+    35.04781,
+    64.40729,
+    35.04781
+],
+  "geometry": {"coordinates":[64.40729,35.04781],"type":"Point"}
+}

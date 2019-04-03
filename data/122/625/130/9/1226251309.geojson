@@ -1,0 +1,73 @@
+{
+  "id": 1226251309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33375,35.59093,63.33375,35.59093",
+    "geom:latitude":35.59093,
+    "geom:longitude":63.33375,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1906",
+    "gn:asciiname":"Kabuli Farari",
+    "gn:country_code":"AF",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138941,
+    "gn:latitude":35.59093,
+    "gn:longitude":63.33375,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101bul\u012b Far\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101bul\u012b Far\u0101r\u012b",
+        "\u06a9\u0627\u0628\u0644\u06cc \u0641\u0631\u0627\u0631\u06cc",
+        "K\u0101buli Fa\u1e5f\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138941
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d2052f9c1341349d931e2333fee82794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1226251309,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1226251309,
+    "wof:lastmodified":1537581534,
+    "wof:name":"Kabuli Farari",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33375,
+    35.59093,
+    63.33375,
+    35.59093
+],
+  "geometry": {"coordinates":[63.33375,35.59093],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209353071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.52393,34.93817,68.52393,34.93817",
+    "geom:latitude":34.93817,
+    "geom:longitude":68.52393,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306",
+    "gn:asciiname":"Shor Khanah",
+    "gn:country_code":"AF",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124740,
+    "gn:latitude":34.93817,
+    "gn:longitude":68.52393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr Kh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shorkhana",
+        "\u0160orkh\u0101na",
+        "Shorkh\u0101na",
+        "Sh\u016brkh\u0101neh",
+        "Sh\u014dr Kh\u0101nah",
+        "\u0634\u0648\u0631 \u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124740
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c1a7a2413f56c0f1b984a9d44bcc7b9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209353071
+        }
+    ],
+    "wof:id":1209353071,
+    "wof:lastmodified":1537580324,
+    "wof:name":"Shor Khanah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.52393000000001,
+    34.93817,
+    68.52393000000001,
+    34.93817
+],
+  "geometry": {"coordinates":[68.52393000000001,34.93817],"type":"Point"}
+}

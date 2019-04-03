@@ -1,0 +1,73 @@
+{
+  "id": 1360206697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.22787,32.9928,64.22787,32.9928",
+    "geom:latitude":32.9928,
+    "geom:longitude":64.22787,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Istarbuz",
+    "gn:country_code":"AF",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142325,
+    "gn:latitude":32.9928,
+    "gn:longitude":64.22787,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Istarb\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Istarb\u016bz",
+        "\u0627\u0633\u062a\u0631\u0628\u0648\u0632",
+        "Estarb\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142325
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"85ec3dd68e68d4c0fbee5606fc89f247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1360206697,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360206697,
+    "wof:lastmodified":1537581819,
+    "wof:name":"Istarbuz",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.22787,
+    32.9928,
+    64.22787,
+    32.9928
+],
+  "geometry": {"coordinates":[64.22787,32.9928],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243568127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49076,38.01475,70.49076,38.01475",
+    "geom:latitude":38.01475,
+    "geom:longitude":70.49076,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Imj",
+    "gn:country_code":"AF",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466201,
+    "gn:latitude":38.01475,
+    "gn:longitude":70.49076,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u012amj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u012amj",
+        "\u0627\u06cc\u0645\u062c",
+        "Imj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466201
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"38182cc7b55cb75ff7e5e0a12ab3c537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1243568127,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243568127,
+    "wof:lastmodified":1537583416,
+    "wof:name":"Imj",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49076,
+    38.01475,
+    70.49076,
+    38.01475
+],
+  "geometry": {"coordinates":[70.49075999999999,38.01475],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193051615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.48302,35.27546,69.48302,35.27546",
+    "geom:latitude":35.27546,
+    "geom:longitude":69.48302,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3301.0",
+    "gn:asciiname":"Forubal",
+    "gn:country_code":"AF",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423211,
+    "gn:latitude":35.27546,
+    "gn:longitude":69.48302,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"F\u014drubal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Forubal\u2019"
+    ],
+    "name:und_x_variant":[
+        "F\u014d\u1e5fobal",
+        "Fowrobal",
+        "F\u014drubal",
+        "\u0641\u0648\u0631\u0628\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423211
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"707224330efcffd458beb9e53dbebe55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561867,
+            "locality_id":1193051615,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1193051615,
+    "wof:lastmodified":1537582551,
+    "wof:name":"Forubal",
+    "wof:parent_id":1108561867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.48302,
+    35.27545999999999,
+    69.48302,
+    35.27545999999999
+],
+  "geometry": {"coordinates":[69.48302,35.27545999999999],"type":"Point"}
+}

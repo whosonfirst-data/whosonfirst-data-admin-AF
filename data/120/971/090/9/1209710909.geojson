@@ -1,0 +1,77 @@
+{
+  "id": 1209710909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41125,33.54554,68.41125,33.54554",
+    "geom:latitude":33.54554,
+    "geom:longitude":68.41125,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"601",
+    "gn:asciiname":"Khwajah Ahmad",
+    "gn:country_code":"AF",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136329,
+    "gn:latitude":33.54554,
+    "gn:longitude":68.41125,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u0647 \u0627\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khw\u0101ja A\u1e29ma\u1e0f",
+        "Khodzha-Akhmad",
+        "Khw\u0101jah A\u1e29mad",
+        "Khv\u0101jeh A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136329
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8122483198104cd0258e5d164ef4564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562027,
+            "locality_id":1209710909,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209710909,
+    "wof:lastmodified":1537581334,
+    "wof:name":"Khwajah Ahmad",
+    "wof:parent_id":1108562027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41125,
+    33.54554,
+    68.41125,
+    33.54554
+],
+  "geometry": {"coordinates":[68.41125,33.54554],"type":"Point"}
+}

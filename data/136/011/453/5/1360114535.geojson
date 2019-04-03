@@ -1,0 +1,72 @@
+{
+  "id": 1360114535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.29999,33.9186,66.29999,33.9186",
+    "geom:latitude":33.9186,
+    "geom:longitude":66.29999,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3403",
+    "gn:asciiname":"Sinjitak",
+    "gn:country_code":"AF",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126395,
+    "gn:latitude":33.9186,
+    "gn:longitude":66.29999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sinjitak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0646\u062c\u062a\u06a9",
+        "Senjetak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126395
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a59ded8ba8b93a8a4200528d7712628c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562083,
+            "locality_id":1360114535,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1360114535,
+    "wof:lastmodified":1537580474,
+    "wof:name":"Sinjitak",
+    "wof:parent_id":1108562083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.29999000000001,
+    33.9186,
+    66.29999000000001,
+    33.9186
+],
+  "geometry": {"coordinates":[66.29999000000001,33.9186],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293110085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75,36.36,68.75,36.36",
+    "geom:latitude":36.36,
+    "geom:longitude":68.75,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Kandakhari",
+    "gn:country_code":"AF",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129716,
+    "gn:latitude":36.36,
+    "gn:longitude":68.75,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kandakhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0434\u0430\u0445\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Qandah\u0101r\u012bh\u0101",
+        "Qandah\u0101r\u012bh\u0101-ye Jarr Khoshk\u2019",
+        "Qandah\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129716,
+        "wk:page":"Qandahari"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"539d5ddee5d0c1e16b2e3321c6d008d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561831,
+            "locality_id":1293110085,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293110085,
+    "wof:lastmodified":1537580755,
+    "wof:name":"Kandakhari",
+    "wof:parent_id":1108561831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75,
+    36.36,
+    68.75,
+    36.36
+],
+  "geometry": {"coordinates":[68.75,36.36],"type":"Point"}
+}

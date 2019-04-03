@@ -1,0 +1,80 @@
+{
+  "id": 1276595399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42411,35.40014,71.42411,35.40014",
+    "geom:latitude":35.40014,
+    "geom:longitude":71.42411,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3002",
+    "gn:asciiname":"Kamu",
+    "gn:country_code":"AF",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138358,
+    "gn:latitude":35.40014,
+    "gn:longitude":71.42411,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kam\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kamar",
+        "Kamu",
+        "Kamaw",
+        "Kamow",
+        "K\u0101m\u016b",
+        "\u06a9\u0645\u0648",
+        "Kam\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138358
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"25c0ab62c8dd5e1ef5b17f30168014d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562127,
+            "locality_id":1276595399,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1276595399,
+    "wof:lastmodified":1537581496,
+    "wof:name":"Kamu",
+    "wof:parent_id":1108562127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42411,
+    35.40014,
+    71.42411,
+    35.40014
+],
+  "geometry": {"coordinates":[71.42411,35.40014],"type":"Point"}
+}

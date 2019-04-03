@@ -1,0 +1,74 @@
+{
+  "id": 1310648045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46569,32.58019,66.46569,32.58019",
+    "geom:latitude":32.58019,
+    "geom:longitude":66.46569,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2504",
+    "gn:asciiname":"Witi",
+    "gn:country_code":"AF",
+    "gn:dem":2611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121587,
+    "gn:latitude":32.58019,
+    "gn:longitude":66.46569,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wit\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viti",
+        "Wit\u012b",
+        "\u0648\u062a\u06cc",
+        "Weti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121587
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1762e9f017fdcf55178e3cdc96af1114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561969,
+            "locality_id":1310648045,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310648045,
+    "wof:lastmodified":1537580050,
+    "wof:name":"Witi",
+    "wof:parent_id":1108561969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46569000000001,
+    32.58019,
+    66.46569000000001,
+    32.58019
+],
+  "geometry": {"coordinates":[66.46569000000001,32.58019],"type":"Point"}
+}

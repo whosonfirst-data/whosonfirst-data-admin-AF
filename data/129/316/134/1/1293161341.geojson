@@ -1,0 +1,80 @@
+{
+  "id": 1293161341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01972,36.98573,67.01972,36.98573",
+    "geom:latitude":36.98573,
+    "geom:longitude":67.01972,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1605",
+    "gn:asciiname":"Qarah Ghuchah",
+    "gn:country_code":"AF",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129685,
+    "gn:latitude":36.98573,
+    "gn:longitude":67.01972,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Ghuchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u043e\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kangrad",
+        "Karagocha",
+        "Qara Ghocha",
+        "Qareh Ghochah",
+        "Qarah Ghuchah",
+        "\u06a9\u0646\u06af\u0631\u062f",
+        "\u0642\u0631\u0647 \u063a\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129685
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c1a6d262e8e7bf3cf499efcd971f6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561963,
+            "locality_id":1293161341,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1293161341,
+    "wof:lastmodified":1537580752,
+    "wof:name":"Qarah Ghuchah",
+    "wof:parent_id":1108561963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01971999999999,
+    36.98573,
+    67.01971999999999,
+    36.98573
+],
+  "geometry": {"coordinates":[67.01971999999999,36.98573],"type":"Point"}
+}

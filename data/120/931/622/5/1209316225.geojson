@@ -1,0 +1,66 @@
+{
+  "id": 1209316225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23795,35.57088,68.23795,35.57088",
+    "geom:latitude":35.57088,
+    "geom:longitude":68.23795,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Marghaw",
+    "gn:country_code":"AF",
+    "gn:dem":2691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1133833,
+    "gn:latitude":35.57088,
+    "gn:longitude":68.23795,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Margh\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Margh\u0101w",
+        "\u0645\u0631\u063a\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133833
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"399608f445dccf507f3a86b738ded022",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209316225
+        }
+    ],
+    "wof:id":1209316225,
+    "wof:lastmodified":1537581125,
+    "wof:name":"Marghaw",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23795,
+    35.57087999999999,
+    68.23795,
+    35.57087999999999
+],
+  "geometry": {"coordinates":[68.23795,35.57087999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310373593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70635,36.73208,68.70635,36.73208",
+    "geom:latitude":36.73208,
+    "geom:longitude":68.70635,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1404",
+    "gn:asciiname":"Mama Khel",
+    "gn:country_code":"AF",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134073,
+    "gn:latitude":36.73208,
+    "gn:longitude":68.70635,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101m\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0645\u0627 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0430\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "M\u0101m\u0101 Kh\u0113l",
+        "Mamakheyl\u2019",
+        "M\u0101m\u0101 Kheyl",
+        "\u0645\u0627\u0645\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108561889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134073
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"be2df8d97fc06ac6e46f09adad6cc5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561889,
+            "locality_id":1310373593,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1310373593,
+    "wof:lastmodified":1537581144,
+    "wof:name":"Mama Khel",
+    "wof:parent_id":1108561889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70635,
+    36.73208,
+    68.70635,
+    36.73208
+],
+  "geometry": {"coordinates":[68.70635,36.73208],"type":"Point"}
+}

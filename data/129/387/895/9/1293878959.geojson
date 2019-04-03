@@ -1,0 +1,74 @@
+{
+  "id": 1293878959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.71538,32.66322,67.71538,32.66322",
+    "geom:latitude":32.66322,
+    "geom:longitude":67.71538,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"609.0",
+    "gn:asciiname":"Patishi",
+    "gn:country_code":"AF",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435775,
+    "gn:latitude":32.66322,
+    "gn:longitude":67.71538,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Patish\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pati\u0161i",
+        "Patish\u012b",
+        "\u067e\u062a\u0634\u06cc",
+        "Pat\u012bsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435775
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"82e7f37d9ae1140f6e939bc8ef77592d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1293878959,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293878959,
+    "wof:lastmodified":1537582785,
+    "wof:name":"Patishi",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.71538000000001,
+    32.66322,
+    67.71538000000001,
+    32.66322
+],
+  "geometry": {"coordinates":[67.71538000000001,32.66322],"type":"Point"}
+}

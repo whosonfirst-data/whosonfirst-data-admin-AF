@@ -1,0 +1,67 @@
+{
+  "id": 1209545939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.48647,32.81323,65.48647,32.81323",
+    "geom:latitude":32.81323,
+    "geom:longitude":65.48647,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2605",
+    "gn:asciiname":"Khisar",
+    "gn:country_code":"AF",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140021,
+    "gn:latitude":32.81323,
+    "gn:longitude":65.48647,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khisar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28i\u015f\u0101r",
+        "\u062d\u0635\u0627\u0631",
+        "\u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140021
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8051da567b84ca04015451b77beffdd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209545939
+        }
+    ],
+    "wof:id":1209545939,
+    "wof:lastmodified":1537581625,
+    "wof:name":"Khisar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.48647,
+    32.81323,
+    65.48647,
+    32.81323
+],
+  "geometry": {"coordinates":[65.48647,32.81323],"type":"Point"}
+}

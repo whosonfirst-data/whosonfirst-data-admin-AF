@@ -1,0 +1,81 @@
+{
+  "id": 1310460315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26228,31.67695,67.26228,31.67695",
+    "geom:latitude":31.67695,
+    "geom:longitude":67.26228,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Shah Khel Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125948,
+    "gn:latitude":31.67695,
+    "gn:longitude":67.26228,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101h Kh\u0113l K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u062e\u064a\u0644 \u0643\u0644\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "Shakhkheyl\u2019kalay"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101h Kh\u0113l Kalay",
+        "Sh\u0101h Kh\u0113l K\u00ealay",
+        "\u0634\u0627\u0647 \u062e\u06d0\u0644 \u06a9\u0644\u06cc",
+        "Sh\u0101h Kheyl Kalay",
+        "Shakhkheyl\u2019kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125948
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4b19577bc9ee45a86f2e5577e9e0a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1310460315,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1310460315,
+    "wof:lastmodified":1537580430,
+    "wof:name":"Shah Khel Kelay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26228,
+    31.67695,
+    67.26228,
+    31.67695
+],
+  "geometry": {"coordinates":[67.26228,31.67695],"type":"Point"}
+}

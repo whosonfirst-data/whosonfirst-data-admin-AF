@@ -1,0 +1,73 @@
+{
+  "id": 1243514987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56509,36.94982,66.56509,36.94982",
+    "geom:latitude":36.94982,
+    "geom:longitude":66.56509,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1607",
+    "gn:asciiname":"Kakahabad",
+    "gn:country_code":"AF",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138708,
+    "gn:latitude":36.94982,
+    "gn:longitude":66.56509,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kakah\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakah\u0101b\u0101d",
+        "\u06a9\u06a9\u0647 \u0622\u0628\u0627\u062f",
+        "Kaka\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138708
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"86d32442b2269a1c0cb5e44371d9ec42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561883,
+            "locality_id":1243514987,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243514987,
+    "wof:lastmodified":1537581519,
+    "wof:name":"Kakahabad",
+    "wof:parent_id":1108561883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56509,
+    36.94982,
+    66.56509,
+    36.94982
+],
+  "geometry": {"coordinates":[66.56509,36.94982],"type":"Point"}
+}

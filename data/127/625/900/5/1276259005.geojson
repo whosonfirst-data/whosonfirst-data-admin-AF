@@ -1,0 +1,73 @@
+{
+  "id": 1276259005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.07119,36.83723,66.07119,36.83723",
+    "geom:latitude":36.83723,
+    "geom:longitude":66.07119,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1710",
+    "gn:asciiname":"Surkh Khanabad",
+    "gn:country_code":"AF",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124061,
+    "gn:latitude":36.83723,
+    "gn:longitude":66.07119,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh Kh\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surkh Kh\u0101n\u0101b\u0101d",
+        "Sorkh Kh\u0101n\u0101b\u0101d",
+        "\u0633\u0631\u062e \u062e\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124061
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a597c53844c75107c2c047055e7f4713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562149,
+            "locality_id":1276259005,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1276259005,
+    "wof:lastmodified":1537580269,
+    "wof:name":"Surkh Khanabad",
+    "wof:parent_id":1108562149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.07119,
+    36.83723,
+    66.07119,
+    36.83723
+],
+  "geometry": {"coordinates":[66.07119,36.83723],"type":"Point"}
+}

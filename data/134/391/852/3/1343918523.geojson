@@ -1,0 +1,80 @@
+{
+  "id": 1343918523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88022,36.6871,66.88022,36.6871",
+    "geom:latitude":36.6871,
+    "geom:longitude":66.88022,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1606",
+    "gn:asciiname":"Ufmalik",
+    "gn:country_code":"AF",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121900,
+    "gn:latitude":36.6871,
+    "gn:longitude":66.88022,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ufmalik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0641\u0645\u0644\u06cc\u06a9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0444\u043c\u0430\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Utmalik",
+        "Ufmalik",
+        "Ufmal\u012bk",
+        "\u0627\u0641\u0645\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121900
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7ba5a235513da761c8c420beabd7e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561853,
+            "locality_id":1343918523,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1343918523,
+    "wof:lastmodified":1537580070,
+    "wof:name":"Ufmalik",
+    "wof:parent_id":1108561853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88022,
+    36.6871,
+    66.88022,
+    36.6871
+],
+  "geometry": {"coordinates":[66.88021999999999,36.6871],"type":"Point"}
+}

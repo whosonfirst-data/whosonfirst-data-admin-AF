@@ -1,0 +1,73 @@
+{
+  "id": 1293761693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.82805,34.55318,62.82805,34.55318",
+    "geom:latitude":34.55318,
+    "geom:longitude":62.82805,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2005.0",
+    "gn:asciiname":"Armalik",
+    "gn:country_code":"AF",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148363,
+    "gn:latitude":34.55318,
+    "gn:longitude":62.82805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arm\u0101lik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arm\u0101lek",
+        "Arm\u0101lik",
+        "\u0627\u0631\u0645\u0627\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148363
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"635fac301b5a43d1367a865d80a87e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562131,
+            "locality_id":1293761693,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293761693,
+    "wof:lastmodified":1537582335,
+    "wof:name":"Armalik",
+    "wof:parent_id":1108562131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.82805,
+    34.55318,
+    62.82805,
+    34.55318
+],
+  "geometry": {"coordinates":[62.82805,34.55318],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259839113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.10568,35.73541,67.10568,35.73541",
+    "geom:latitude":35.73541,
+    "geom:longitude":67.10568,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Chaharmaghzak",
+    "gn:country_code":"AF",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145813,
+    "gn:latitude":35.73541,
+    "gn:longitude":67.10568,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101rmaghzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cah\u0101\u1e5fmaghzak",
+        "Chah\u0101rmaghzak",
+        "\u0686\u0647\u0627\u0631\u0645\u063a\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145813
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d26a2ca0ecabbb53011e63a345f7412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1259839113,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1259839113,
+    "wof:lastmodified":1537582131,
+    "wof:name":"Chaharmaghzak",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.10568,
+    35.73540999999999,
+    67.10568,
+    35.73540999999999
+],
+  "geometry": {"coordinates":[67.10568000000001,35.73540999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293556439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54775,36.46613,69.54775,36.46613",
+    "geom:latitude":36.46613,
+    "geom:longitude":69.54775,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1204.0",
+    "gn:asciiname":"Bazarak",
+    "gn:country_code":"AF",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355838,
+    "gn:latitude":36.46613,
+    "gn:longitude":69.54775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101z\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101z\u0101rak",
+        "\u0628\u0627\u0632\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355838
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3696096927e606425bb5957217dcbecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561899,
+            "locality_id":1293556439,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1293556439,
+    "wof:lastmodified":1537583942,
+    "wof:name":"Bazarak",
+    "wof:parent_id":1108561899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54775,
+    36.46613,
+    69.54775,
+    36.46613
+],
+  "geometry": {"coordinates":[69.54774999999999,36.46613],"type":"Point"}
+}

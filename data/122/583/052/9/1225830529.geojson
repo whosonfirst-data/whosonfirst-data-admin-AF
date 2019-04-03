@@ -1,0 +1,74 @@
+{
+  "id": 1225830529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44993,33.20152,67.44993,33.20152",
+    "geom:latitude":33.20152,
+    "geom:longitude":67.44993,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Ishkari",
+    "gn:country_code":"AF",
+    "gn:dem":2849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450596,
+    "gn:latitude":33.20152,
+    "gn:longitude":67.44993,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ishk\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "E\u0161k\u0101ri",
+        "Eshk\u0101ri",
+        "Ishk\u0101r\u012b",
+        "\u0627\u0634\u06a9\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450596
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c64177a1996f8dcccd38dae049219350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1225830529,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225830529,
+    "wof:lastmodified":1537583054,
+    "wof:name":"Ishkari",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44993000000001,
+    33.20152,
+    67.44993000000001,
+    33.20152
+],
+  "geometry": {"coordinates":[67.44993000000001,33.20152],"type":"Point"}
+}

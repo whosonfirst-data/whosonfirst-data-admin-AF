@@ -1,0 +1,65 @@
+{
+  "id": 1209522793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43572,35.84633,68.43572,35.84633",
+    "geom:latitude":35.84633,
+    "geom:longitude":68.43572,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1303.0",
+    "gn:asciiname":"Aytak",
+    "gn:country_code":"AF",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147902,
+    "gn:latitude":35.84633,
+    "gn:longitude":68.43572,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aytak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0627\u06cc\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147902
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a6b64be79c8d0b0e00827f220ec30c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209522793
+        }
+    ],
+    "wof:id":1209522793,
+    "wof:lastmodified":1537582304,
+    "wof:name":"Aytak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43571999999999,
+    35.84633,
+    68.43571999999999,
+    35.84633
+],
+  "geometry": {"coordinates":[68.43571999999999,35.84633],"type":"Point"}
+}

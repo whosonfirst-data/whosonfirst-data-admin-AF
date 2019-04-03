@@ -1,0 +1,74 @@
+{
+  "id": 1327292093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53806,31.07917,66.53806,31.07917",
+    "geom:latitude":31.07917,
+    "geom:longitude":66.53806,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"De Jalat Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465554,
+    "gn:latitude":31.07917,
+    "gn:longitude":66.53806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u00ea Jal\u0101t K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzhalatkalay",
+        "D\u00ea Jal\u0101t K\u00ealay",
+        "De Jal\u0101t Kalay",
+        "\u062f \u062c\u0644\u0627\u062a \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465554
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"817779fc59a4b0c03d6b69d5d5fb55a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1327292093,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327292093,
+    "wof:lastmodified":1537583403,
+    "wof:name":"De Jalat Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53806,
+    31.07917,
+    66.53806,
+    31.07917
+],
+  "geometry": {"coordinates":[66.53806,31.07917],"type":"Point"}
+}

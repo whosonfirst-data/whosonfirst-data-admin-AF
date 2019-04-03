@@ -1,0 +1,73 @@
+{
+  "id": 1310061517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08862,37.1393,69.08862,37.1393",
+    "geom:latitude":37.1393,
+    "geom:longitude":69.08862,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Baykah",
+    "gn:country_code":"AF",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465495,
+    "gn:latitude":37.1393,
+    "gn:longitude":69.08862,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101ykah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101yka",
+        "B\u0101ykah",
+        "\u0628\u0627\u06cc\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465495
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a66da962888259aba62f71aa11ad196a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1310061517,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1310061517,
+    "wof:lastmodified":1537583399,
+    "wof:name":"Baykah",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08861999999999,
+    37.1393,
+    69.08861999999999,
+    37.1393
+],
+  "geometry": {"coordinates":[69.08861999999999,37.1393],"type":"Point"}
+}

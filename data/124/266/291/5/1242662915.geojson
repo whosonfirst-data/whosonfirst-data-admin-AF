@@ -1,0 +1,77 @@
+{
+  "id": 1242662915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43393,33.30573,68.43393,33.30573",
+    "geom:latitude":33.30573,
+    "geom:longitude":68.43393,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Gholah",
+    "gn:country_code":"AF",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141192,
+    "gn:latitude":33.30573,
+    "gn:longitude":68.43393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gh\u014dlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0648\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gala",
+        "Gh\u014dla",
+        "Gh\u014dlah",
+        "Ghowlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141192
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d33cf899a7ebc9e1f6f9d278c37dc82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1242662915,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242662915,
+    "wof:lastmodified":1537581733,
+    "wof:name":"Gholah",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43393,
+    33.30573,
+    68.43393,
+    33.30573
+],
+  "geometry": {"coordinates":[68.43393,33.30573],"type":"Point"}
+}

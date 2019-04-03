@@ -1,0 +1,72 @@
+{
+  "id": 1226439925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.58572,32.81849,63.58572,32.81849",
+    "geom:latitude":32.81849,
+    "geom:longitude":63.58572,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Deh-e Hayat",
+    "gn:country_code":"AF",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143590,
+    "gn:latitude":32.81849,
+    "gn:longitude":63.58572,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e \u1e28ay\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh-e \u1e28ay\u0101t",
+        "\u062f\u0647 \u062d\u06cc\u0627\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143590
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"412ff1e283b2e39407046ad45db157b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562047,
+            "locality_id":1226439925,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226439925,
+    "wof:lastmodified":1537581933,
+    "wof:name":"Deh-e Hayat",
+    "wof:parent_id":1108562047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.58572,
+    32.81849,
+    63.58572,
+    32.81849
+],
+  "geometry": {"coordinates":[63.58572,32.81849],"type":"Point"}
+}

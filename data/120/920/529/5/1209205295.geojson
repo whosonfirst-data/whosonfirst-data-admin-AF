@@ -1,0 +1,70 @@
+{
+  "id": 1209205295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15,33.48002,68.15,33.48002",
+    "geom:latitude":33.48002,
+    "geom:longitude":68.15,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"618.0",
+    "gn:asciiname":"Deh-e Kaka",
+    "gn:country_code":"AF",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439147,
+    "gn:latitude":33.48002,
+    "gn:longitude":68.15,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-e K\u0101k\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0654\u0654 \u0643\u0627\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dekhi-Kaka",
+        "Deh-e K\u0101k\u0101",
+        "\u062f\u0647 \u06a9\u0627\u06a9\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439147
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f66cdf350421efb40773cc801056e548",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209205295
+        }
+    ],
+    "wof:id":1209205295,
+    "wof:lastmodified":1537582922,
+    "wof:name":"Deh-e Kaka",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15,
+    33.48002,
+    68.15,
+    33.48002
+],
+  "geometry": {"coordinates":[68.15000000000001,33.48002],"type":"Point"}
+}

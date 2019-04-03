@@ -1,0 +1,77 @@
+{
+  "id": 1259845671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36322,34.04108,70.36322,34.04108",
+    "geom:latitude":34.04108,
+    "geom:longitude":70.36322,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"807.0",
+    "gn:asciiname":"Tsamtsay",
+    "gn:country_code":"AF",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1146018,
+    "gn:latitude":34.04108,
+    "gn:longitude":70.36322,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tsamtsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Chamchay",
+        "Camcay",
+        "Tsamtsay",
+        "\u0685\u0645\u0685\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146018
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"da84c8f7e6d3cba24745cc1b6acd6e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562343,
+            "locality_id":1259845671,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1259845671,
+    "wof:lastmodified":1537582150,
+    "wof:name":"Tsamtsay",
+    "wof:parent_id":1108562343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36322,
+    34.04108,
+    70.36322,
+    34.04108
+],
+  "geometry": {"coordinates":[70.36322,34.04108],"type":"Point"}
+}

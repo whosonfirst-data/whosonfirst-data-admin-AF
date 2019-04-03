@@ -1,0 +1,79 @@
+{
+  "id": 1243317333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71384,34.95115,70.71384,34.95115",
+    "geom:latitude":34.95115,
+    "geom:longitude":70.71384,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Awrahgal",
+    "gn:country_code":"AF",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474044,
+    "gn:latitude":34.95115,
+    "gn:longitude":70.71384,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Awrahgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u06af\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Auragal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Aw\u1e5fagal",
+        "Awrahgal",
+        "\u0627\u0648\u0631\u0647 \u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474044
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09e38834f5dda6f2645db0e38cfc69a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1243317333,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1243317333,
+    "wof:lastmodified":1537583778,
+    "wof:name":"Awrahgal",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71384,
+    34.95115,
+    70.71384,
+    34.95115
+],
+  "geometry": {"coordinates":[70.71384,34.95115],"type":"Point"}
+}

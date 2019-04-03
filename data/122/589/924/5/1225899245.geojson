@@ -1,0 +1,75 @@
+{
+  "id": 1225899245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.17714,36.24795,70.17714,36.24795",
+    "geom:latitude":36.24795,
+    "geom:longitude":70.17714,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1205",
+    "gn:asciiname":"Shahr-e Firing",
+    "gn:country_code":"AF",
+    "gn:dem":2733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125880,
+    "gn:latitude":36.24795,
+    "gn:longitude":70.17714,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shahr-e Firing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sah\u1e5fe Fereng",
+        "Sh\u0101hr-e Fe\u1e5feng",
+        "Shahr-e Farang",
+        "Shahr-e Firing",
+        "\u0634\u0647\u0631 \u0641\u0631\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125880
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ad614f247b7c2b4823731c1b89e921a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562569,
+            "locality_id":1225899245,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1225899245,
+    "wof:lastmodified":1537580424,
+    "wof:name":"Shahr-e Firing",
+    "wof:parent_id":1108562569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.17714000000001,
+    36.24795,
+    70.17714000000001,
+    36.24795
+],
+  "geometry": {"coordinates":[70.17714000000001,36.24795],"type":"Point"}
+}

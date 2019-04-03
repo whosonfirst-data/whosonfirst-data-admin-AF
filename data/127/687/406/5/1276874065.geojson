@@ -1,0 +1,74 @@
+{
+  "id": 1276874065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4154,35.72568,69.4154,35.72568",
+    "geom:latitude":35.72568,
+    "geom:longitude":69.4154,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1312",
+    "gn:asciiname":"Kasterash",
+    "gn:country_code":"AF",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137730,
+    "gn:latitude":35.72568,
+    "gn:longitude":69.4154,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kast\u00ear\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaste\u1e5f\u0101s",
+        "Kastar\u0101sh",
+        "Kast\u00ear\u0101sh",
+        "\u06a9\u0633\u062a\u0631\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137730
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b98ab6ce9a4d2006389f408875cbb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561975,
+            "locality_id":1276874065,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276874065,
+    "wof:lastmodified":1537581438,
+    "wof:name":"Kasterash",
+    "wof:parent_id":1108561975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4154,
+    35.72568,
+    69.4154,
+    35.72568
+],
+  "geometry": {"coordinates":[69.41540000000001,35.72568],"type":"Point"}
+}

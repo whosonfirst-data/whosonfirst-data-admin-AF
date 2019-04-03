@@ -1,0 +1,73 @@
+{
+  "id": 1243562011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26465,35.48807,68.26465,35.48807",
+    "geom:latitude":35.48807,
+    "geom:longitude":68.26465,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1305",
+    "gn:asciiname":"Wado",
+    "gn:country_code":"AF",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121828,
+    "gn:latitude":35.48807,
+    "gn:longitude":68.26465,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"W\u0101d\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u014d",
+        "\u0648\u0627\u062f\u0648",
+        "W\u0101do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121828
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9064195c770adb73cf88a5aa82d1a11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562533,
+            "locality_id":1243562011,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1243562011,
+    "wof:lastmodified":1537580064,
+    "wof:name":"Wado",
+    "wof:parent_id":1108562533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26465,
+    35.48807,
+    68.26465,
+    35.48807
+],
+  "geometry": {"coordinates":[68.26465,35.48807],"type":"Point"}
+}

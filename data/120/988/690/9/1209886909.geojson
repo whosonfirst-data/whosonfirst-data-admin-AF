@@ -1,0 +1,80 @@
+{
+  "id": 1209886909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29533,35.04381,69.29533,35.04381",
+    "geom:latitude":35.04381,
+    "geom:longitude":69.29533,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"207.0",
+    "gn:asciiname":"Kishiktan",
+    "gn:country_code":"AF",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423467,
+    "gn:latitude":35.04381,
+    "gn:longitude":69.29533,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kishikt\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064a\u0634\u064a\u0643\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ke\u0161ekt\u0101n",
+        "Kishiktan",
+        "Keshekt\u0101n",
+        "K\u012bsh\u012bkt\u0101n",
+        "Kishikt\u0101n",
+        "\u06a9\u0634\u06a9\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423467,
+        "wk:page":"Kesektan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ebafa49f96133b7bae8c864cbe625a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562075,
+            "locality_id":1209886909,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1209886909,
+    "wof:lastmodified":1537582575,
+    "wof:name":"Kishiktan",
+    "wof:parent_id":1108562075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29533,
+    35.04381,
+    69.29533,
+    35.04381
+],
+  "geometry": {"coordinates":[69.29533000000001,35.04381],"type":"Point"}
+}

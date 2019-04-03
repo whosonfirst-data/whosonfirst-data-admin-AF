@@ -1,0 +1,79 @@
+{
+  "id": 1343725217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22484,34.29082,70.22484,34.29082",
+    "geom:latitude":34.29082,
+    "geom:longitude":70.22484,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805",
+    "gn:asciiname":"Janbaz Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139606,
+    "gn:latitude":34.29082,
+    "gn:longitude":70.22484,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"J\u0101nb\u0101z Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0646\u0628\u0627\u0632\u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhanbazkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "J\u0101nb\u0101z Kh\u0113l",
+        "J\u0101nb\u0101zkheyl",
+        "\u062c\u0627\u0646\u0628\u0627\u0632 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139606
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6eb2aec947ea1d89922344abd477d725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1343725217,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343725217,
+    "wof:lastmodified":1537581591,
+    "wof:name":"Janbaz Khel",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22484,
+    34.29082,
+    70.22484,
+    34.29082
+],
+  "geometry": {"coordinates":[70.22484,34.29082],"type":"Point"}
+}

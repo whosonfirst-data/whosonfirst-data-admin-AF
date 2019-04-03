@@ -1,0 +1,73 @@
+{
+  "id": 1259777761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.68333,34.11667,63.68333,34.11667",
+    "geom:latitude":34.11667,
+    "geom:longitude":63.68333,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Dahaneh",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144709,
+    "gn:latitude":34.11667,
+    "gn:longitude":63.68333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahaneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dahane",
+        "Dahaneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144709
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ffb45fc46adba9f549081feb5ae4fe82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1259777761,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259777761,
+    "wof:lastmodified":1537582035,
+    "wof:name":"Dahaneh",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.68333000000001,
+    34.11667,
+    63.68333000000001,
+    34.11667
+],
+  "geometry": {"coordinates":[63.68333000000001,34.11667],"type":"Point"}
+}

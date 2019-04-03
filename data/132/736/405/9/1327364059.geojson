@@ -1,0 +1,74 @@
+{
+  "id": 1327364059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87153,33.79618,65.87153,33.79618",
+    "geom:latitude":33.79618,
+    "geom:longitude":65.87153,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405.0",
+    "gn:asciiname":"Asmurdah",
+    "gn:country_code":"AF",
+    "gn:dem":2574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148204,
+    "gn:latitude":33.79618,
+    "gn:longitude":65.87153,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100smurdah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100smu\u1e5f\u1e0fa",
+        "\u0100smurdah",
+        "\u0622\u0633\u0645\u0631\u062f\u0647",
+        "\u0100smordeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148204
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"672619ce5208bb625a22a2bf26a2ad1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1327364059,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1327364059,
+    "wof:lastmodified":1537582326,
+    "wof:name":"Asmurdah",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87153,
+    33.79618,
+    65.87153,
+    33.79618
+],
+  "geometry": {"coordinates":[65.87153000000001,33.79618],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243193477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.16667,37.11667,65.16667,37.11667",
+    "geom:latitude":37.11667,
+    "geom:longitude":65.16667,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1811.0",
+    "gn:asciiname":"Aqineh",
+    "gn:cc2":"AF",
+    "gn:country_code":"AF",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148541,
+    "gn:latitude":37.11667,
+    "gn:longitude":65.16667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aq\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akkina",
+        "Aq\u012bna",
+        "Aq\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148541
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b37dcb14ce9487c0c913a58b30ee0bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562147,
+            "locality_id":1243193477,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1243193477,
+    "wof:lastmodified":1537582347,
+    "wof:name":"Aqineh",
+    "wof:parent_id":1108562147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.16667,
+    37.11667,
+    65.16667,
+    37.11667
+],
+  "geometry": {"coordinates":[65.16667,37.11667],"type":"Point"}
+}

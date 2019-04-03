@@ -1,0 +1,75 @@
+{
+  "id": 1310089863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.37984,34.64605,66.37984,34.64605",
+    "geom:latitude":34.64605,
+    "geom:longitude":66.37984,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2707",
+    "gn:asciiname":"Talib Kushtah-ye Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":2773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123070,
+    "gn:latitude":34.64605,
+    "gn:longitude":66.37984,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0162\u0101lib Kushtah-ye Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Talibkushtayi-Sufla",
+        "\u0162\u0101lebku\u0161ta-i-Sufl\u0101",
+        "\u0162\u0101lib Kushtah-ye Sufl\u00e1",
+        "\u0162\u0101leb Koshteh-ye Sofl\u00e1",
+        "\u0637\u0627\u0644\u0628 \u06a9\u0634\u062a\u06c0 \u0633\u0641\u0644\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123070
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db29278ea5cc242c7c2c84cbdaa82777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1310089863,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1310089863,
+    "wof:lastmodified":1537580203,
+    "wof:name":"Talib Kushtah-ye Sufla",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.37984,
+    34.64605,
+    66.37984,
+    34.64605
+],
+  "geometry": {"coordinates":[66.37984,34.64605],"type":"Point"}
+}

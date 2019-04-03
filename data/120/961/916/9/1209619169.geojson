@@ -1,0 +1,66 @@
+{
+  "id": 1209619169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55061,38.17923,70.55061,38.17923",
+    "geom:latitude":38.17923,
+    "geom:longitude":70.55061,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Dur Ab",
+    "gn:country_code":"AF",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466160,
+    "gn:latitude":38.17923,
+    "gn:longitude":70.55061,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dur \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dur \u0100b",
+        "\u062f\u0631 \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466160
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c7cd0bd52de175ca3d4b9f6dca541f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209619169
+        }
+    ],
+    "wof:id":1209619169,
+    "wof:lastmodified":1537583414,
+    "wof:name":"Dur Ab",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55060999999998,
+    38.17923,
+    70.55060999999998,
+    38.17923
+],
+  "geometry": {"coordinates":[70.55060999999998,38.17923],"type":"Point"}
+}

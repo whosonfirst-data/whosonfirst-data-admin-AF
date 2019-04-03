@@ -1,0 +1,73 @@
+{
+  "id": 1276457457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1799,36.82725,70.1799,36.82725",
+    "geom:latitude":36.82725,
+    "geom:longitude":70.1799,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102",
+    "gn:asciiname":"Wakhshi",
+    "gn:country_code":"AF",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121797,
+    "gn:latitude":36.82725,
+    "gn:longitude":70.1799,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wakhsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wakh\u0161i",
+        "Wakhsh\u012b",
+        "\u0648\u062e\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121797
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"97b0e95eca56c03d7ba611f44c1ec46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562197,
+            "locality_id":1276457457,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276457457,
+    "wof:lastmodified":1537580062,
+    "wof:name":"Wakhshi",
+    "wof:parent_id":1108562197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1799,
+    36.82725,
+    70.1799,
+    36.82725
+],
+  "geometry": {"coordinates":[70.1799,36.82725],"type":"Point"}
+}

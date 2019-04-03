@@ -1,0 +1,74 @@
+{
+  "id": 1226697577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35399,34.50697,68.35399,34.50697",
+    "geom:latitude":34.50697,
+    "geom:longitude":68.35399,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Sar-e 'Ulum",
+    "gn:country_code":"AF",
+    "gn:dem":3052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127122,
+    "gn:latitude":34.50697,
+    "gn:longitude":68.35399,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e \u2018Ul\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Ulum",
+        "Sar-e \u2018Ol\u016bm",
+        "Sar-e \u2018Ul\u016bm",
+        "\u0633\u0631 \u0639\u0627\u0648\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127122
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d00ebab725e54bb6ca2dc4fc9a3e2748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1226697577,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226697577,
+    "wof:lastmodified":1537580531,
+    "wof:name":"Sar-e 'Ulum",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35399,
+    34.50697,
+    68.35399,
+    34.50697
+],
+  "geometry": {"coordinates":[68.35399,34.50697],"type":"Point"}
+}

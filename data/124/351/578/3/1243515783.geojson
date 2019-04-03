@@ -1,0 +1,77 @@
+{
+  "id": 1243515783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2629,31.73784,67.2629,31.73784",
+    "geom:latitude":31.73784,
+    "geom:longitude":67.2629,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2508.0",
+    "gn:asciiname":"Rasul Khel Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436170,
+    "gn:latitude":31.73784,
+    "gn:longitude":67.2629,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ras\u016bl Kh\u0113l K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0648\u0644 \u062e\u064a\u0644 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u1e5eas\u016blkh\u0113l Kalay",
+        "Ras\u016bl Kh\u0113l K\u00ealay",
+        "\u0631\u0633\u0648\u0644 \u062e\u06d0\u0644 \u06a9\u0644\u06cc",
+        "Ras\u016bl Kheyl Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436170
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e1bb3a336f231952424f36541f88ce33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561825,
+            "locality_id":1243515783,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1243515783,
+    "wof:lastmodified":1537582808,
+    "wof:name":"Rasul Khel Kelay",
+    "wof:parent_id":1108561825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2629,
+    31.73784,
+    67.2629,
+    31.73784
+],
+  "geometry": {"coordinates":[67.2629,31.73784],"type":"Point"}
+}

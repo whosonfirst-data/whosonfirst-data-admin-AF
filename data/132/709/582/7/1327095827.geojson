@@ -1,0 +1,77 @@
+{
+  "id": 1327095827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.05003,32.06556,68.05003,32.06556",
+    "geom:latitude":32.06556,
+    "geom:longitude":68.05003,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Nakhil Junubi",
+    "gn:country_code":"AF",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132452,
+    "gn:latitude":32.06556,
+    "gn:longitude":68.05003,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"N\u0101kh\u012bl Jun\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Nakhil\u2019-Dzhanubi"
+    ],
+    "name:und_x_variant":[
+        "N\u0101kh\u012bl Jan\u016bbi",
+        "\u0646\u0627\u062e\u06cc\u0644 \u062c\u0646\u0648\u0628\u06cc",
+        "N\u0101kh\u012bl Jon\u016bb\u012b",
+        "N\u0101kh\u012bl Jun\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132452
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb18507344c0e088ca973bd54098cfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1327095827,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1327095827,
+    "wof:lastmodified":1537581008,
+    "wof:name":"Nakhil Junubi",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.05003,
+    32.06556,
+    68.05003,
+    32.06556
+],
+  "geometry": {"coordinates":[68.05003000000001,32.06556],"type":"Point"}
+}

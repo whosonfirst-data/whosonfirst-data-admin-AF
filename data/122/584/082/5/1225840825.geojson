@@ -1,0 +1,76 @@
+{
+  "id": 1225840825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.88172,34.03096,63.88172,34.03096",
+    "geom:latitude":34.03096,
+    "geom:longitude":63.88172,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Chashmah-ye Daraz",
+    "gn:country_code":"AF",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145684,
+    "gn:latitude":34.03096,
+    "gn:longitude":63.88172,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chashmah-ye Dar\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casma-i-\u1e0ea\u1e5f\u0101z",
+        "Chashma-i-\u1e0ea\u1e5f\u0101z",
+        "Chahma-el-\u1e0ea\u1e5f\u0101z",
+        "Chashmah-ye Dar\u0101z",
+        "\u0686\u0634\u0645\u06c0 \u062f\u0631\u0627\u0632",
+        "Cheshmeh-ye Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145684
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bf892a3e17b6ec75c6f81b71a07c8e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1225840825,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1225840825,
+    "wof:lastmodified":1537582122,
+    "wof:name":"Chashmah-ye Daraz",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.88172,
+    34.03096,
+    63.88172,
+    34.03096
+],
+  "geometry": {"coordinates":[63.88172,34.03096],"type":"Point"}
+}

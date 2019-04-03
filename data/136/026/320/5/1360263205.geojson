@@ -1,0 +1,76 @@
+{
+  "id": 1360263205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.01452,34.33649,63.01452,34.33649",
+    "geom:latitude":34.33649,
+    "geom:longitude":63.01452,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2012",
+    "gn:asciiname":"Karez-e Baluch",
+    "gn:country_code":"AF",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138041,
+    "gn:latitude":34.33649,
+    "gn:longitude":63.01452,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Bal\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101r\u012bz Bul\u016bch",
+        "K\u0101r\u012bz Bal\u016bch",
+        "K\u0101r\u0113z-e Bal\u016bch",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0628\u0644\u0648\u0686",
+        "K\u0101\u1e5f\u0113ze Bal\u016bc",
+        "K\u0101r\u012bz-e Bal\u016bch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138041
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8569ccbc5340375b0fea7c3e497167ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562339,
+            "locality_id":1360263205,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1360263205,
+    "wof:lastmodified":1537581473,
+    "wof:name":"Karez-e Baluch",
+    "wof:parent_id":1108562339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.01452,
+    34.33649,
+    63.01452,
+    34.33649
+],
+  "geometry": {"coordinates":[63.01452,34.33649],"type":"Point"}
+}

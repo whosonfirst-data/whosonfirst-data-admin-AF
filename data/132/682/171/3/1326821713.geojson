@@ -1,0 +1,75 @@
+{
+  "id": 1326821713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.36537,35.66039,65.36537,35.66039",
+    "geom:latitude":35.66039,
+    "geom:longitude":65.36537,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1807",
+    "gn:asciiname":"Deh-Jowz",
+    "gn:country_code":"AF",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143471,
+    "gn:latitude":35.66039,
+    "gn:longitude":65.36537,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh-Jowz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deh Joaz",
+        "\u1e0eeh-Jawz",
+        "Deh J\u0101oz",
+        "Deh-Jowz",
+        "\u062f\u0647 \u062c\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143471
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b4fa5d1ed0a026df97f582a16e0710c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562055,
+            "locality_id":1326821713,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1326821713,
+    "wof:lastmodified":1537581919,
+    "wof:name":"Deh-Jowz",
+    "wof:parent_id":1108562055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.36537,
+    35.66039,
+    65.36537,
+    35.66039
+],
+  "geometry": {"coordinates":[65.36537,35.66039],"type":"Point"}
+}

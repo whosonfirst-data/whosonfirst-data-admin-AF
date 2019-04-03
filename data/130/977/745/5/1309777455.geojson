@@ -1,0 +1,78 @@
+{
+  "id": 1309777455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6993,34.47088,69.6993,34.47088",
+    "geom:latitude":34.47088,
+    "geom:longitude":69.6993,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112",
+    "gn:asciiname":"Patay",
+    "gn:country_code":"AF",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130945,
+    "gn:latitude":34.47088,
+    "gn:longitude":69.6993,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pa\u1e6fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Pa\u1e6fa\u012b",
+        "\u067e\u062a\u06cc",
+        "Pa\u1e6fay",
+        "\u067e\u067c\u06cc",
+        "Patay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130945
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"47017d0eb57d951b680825a0914b6c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1309777455,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1309777455,
+    "wof:lastmodified":1537580883,
+    "wof:name":"Patay",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6993,
+    34.47088,
+    69.6993,
+    34.47088
+],
+  "geometry": {"coordinates":[69.69929999999999,34.47088],"type":"Point"}
+}

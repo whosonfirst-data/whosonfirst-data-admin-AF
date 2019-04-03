@@ -1,0 +1,73 @@
+{
+  "id": 1259817177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.46169,36.20656,65.46169,36.20656",
+    "geom:latitude":36.20656,
+    "geom:longitude":65.46169,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1711",
+    "gn:asciiname":"Maimanah Yoly",
+    "gn:country_code":"AF",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133333,
+    "gn:latitude":36.20656,
+    "gn:longitude":65.46169,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ma\u012bmanah Y\u014dly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u012bmanah Y\u014dly",
+        "\u0645\u06cc\u0645\u0646\u0647 \u06cc\u0648\u0644\u06cc",
+        "Mimana Yolie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133333
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"829a19908891f21934b8a78e9eee3664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562401,
+            "locality_id":1259817177,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1259817177,
+    "wof:lastmodified":1537581086,
+    "wof:name":"Maimanah Yoly",
+    "wof:parent_id":1108562401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.46169,
+    36.20656,
+    65.46169,
+    36.20656
+],
+  "geometry": {"coordinates":[65.46169,36.20656],"type":"Point"}
+}

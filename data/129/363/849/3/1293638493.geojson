@@ -1,0 +1,73 @@
+{
+  "id": 1293638493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52338,36.24367,67.52338,36.24367",
+    "geom:latitude":36.24367,
+    "geom:longitude":67.52338,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Chochman Qutan",
+    "gn:country_code":"AF",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144939,
+    "gn:latitude":36.24367,
+    "gn:longitude":67.52338,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u014dchman Qutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u014dchman Qutan",
+        "\u0686\u0648\u0686\u0645\u0646 \u0642\u062a\u0646",
+        "Chochman Qotan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9b8449356ab6820e65db1fdd7a6ba2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1293638493,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293638493,
+    "wof:lastmodified":1537582056,
+    "wof:name":"Chochman Qutan",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52338,
+    36.24367,
+    67.52338,
+    36.24367
+],
+  "geometry": {"coordinates":[67.52338,36.24367],"type":"Point"}
+}

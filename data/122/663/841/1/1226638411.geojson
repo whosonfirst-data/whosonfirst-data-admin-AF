@@ -1,0 +1,72 @@
+{
+  "id": 1226638411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.51519,32.88278,63.51519,32.88278",
+    "geom:latitude":32.88278,
+    "geom:longitude":63.51519,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Laman",
+    "gn:country_code":"AF",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134882,
+    "gn:latitude":32.88278,
+    "gn:longitude":63.51519,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101m\u0101n",
+        "\u0644\u0627\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134882
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7749dbc185793d3c10d8e71ef714a5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562047,
+            "locality_id":1226638411,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1226638411,
+    "wof:lastmodified":1537581209,
+    "wof:name":"Laman",
+    "wof:parent_id":1108562047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.51519,
+    32.88278,
+    63.51519,
+    32.88278
+],
+  "geometry": {"coordinates":[63.51519,32.88278],"type":"Point"}
+}

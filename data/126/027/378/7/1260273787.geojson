@@ -1,0 +1,83 @@
+{
+  "id": 1260273787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.96437,33.30714,67.96437,33.30714",
+    "geom:latitude":33.30714,
+    "geom:longitude":67.96437,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Ermah",
+    "gn:country_code":"AF",
+    "gn:dem":2498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142487,
+    "gn:latitude":33.30714,
+    "gn:longitude":67.96437,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0112rmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0645\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "Erma",
+        "\u0112\u1e5fma",
+        "\u0112\u1e5fma T\u0101khmak",
+        "\u0112rmah T\u0101khmak",
+        "\u0112rmah",
+        "\u0627\u06d0\u0631\u0645\u0647",
+        "\u0627\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142487
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"387f2225a5d39023772bc76d55435acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1260273787,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260273787,
+    "wof:lastmodified":1537581833,
+    "wof:name":"Ermah",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.96437,
+    33.30714,
+    67.96437,
+    33.30714
+],
+  "geometry": {"coordinates":[67.96437,33.30714],"type":"Point"}
+}

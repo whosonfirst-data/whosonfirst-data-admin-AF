@@ -1,0 +1,84 @@
+{
+  "id": 1276600427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31058,34.51019,67.31058,34.51019",
+    "geom:latitude":34.51019,
+    "geom:longitude":67.31058,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404",
+    "gn:asciiname":"Olyad",
+    "gn:country_code":"AF",
+    "gn:dem":3158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131539,
+    "gn:latitude":34.51019,
+    "gn:longitude":67.31058,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u014cly\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u064a\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "Ol\u2019yad"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043b\u044c\u044f\u0434"
+    ],
+    "name:und_x_variant":[
+        "\u014cly\u0101\u1e0f",
+        "\u014cly\u0101d",
+        "\u016aly\u0101d",
+        "\u0648\u0644\u064a\u0627\u062f",
+        "\u0627\u0648\u0644\u064a\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131539
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"79e74b2eab4ec78127050c59e4e4bf7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1276600427,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1276600427,
+    "wof:lastmodified":1537580928,
+    "wof:name":"Olyad",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31058,
+    34.51019,
+    67.31058,
+    34.51019
+],
+  "geometry": {"coordinates":[67.31058,34.51019],"type":"Point"}
+}

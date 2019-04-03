@@ -1,0 +1,77 @@
+{
+  "id": 1343959639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57761,35.82039,68.57761,35.82039",
+    "geom:latitude":35.82039,
+    "geom:longitude":68.57761,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Qaltah Qol",
+    "gn:country_code":"AF",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129744,
+    "gn:latitude":35.82039,
+    "gn:longitude":68.57761,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaltah Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "Kal\u2019takul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qaltaq\u014dl",
+        "Qaltaqowl",
+        "Qaltah Q\u014dl",
+        "\u0642\u0644\u062a\u0647 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129744
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6bb4dd534144e353dff397ee563db4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1343959639,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1343959639,
+    "wof:lastmodified":1537580758,
+    "wof:name":"Qaltah Qol",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57760999999999,
+    35.82039,
+    68.57760999999999,
+    35.82039
+],
+  "geometry": {"coordinates":[68.57760999999999,35.82039],"type":"Point"}
+}

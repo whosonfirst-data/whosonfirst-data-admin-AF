@@ -1,0 +1,75 @@
+{
+  "id": 1344046891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.56642,34.06498,63.56642,34.06498",
+    "geom:latitude":34.06498,
+    "geom:longitude":63.56642,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Rubat Sufiha",
+    "gn:country_code":"AF",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474915,
+    "gn:latitude":34.06498,
+    "gn:longitude":63.56642,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Rub\u0101\u0163 \u015e\u016bf\u012bh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rab\u0101t-s\u016bfih\u0101",
+        "Rob\u0101\u0163-\u015e\u016bf\u012b\u1e29\u0101",
+        "Rab\u0101\u0163 \u015e\u016bf\u012bh\u0101",
+        "\u0631\u0628\u0627\u0637 \u0635\u0648\u0641\u06cc \u0647\u0627",
+        "Rub\u0101\u0163 \u015e\u016bf\u012bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474915
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d774858365d58050df05e69e3af209a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1344046891,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344046891,
+    "wof:lastmodified":1537583831,
+    "wof:name":"Rubat Sufiha",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.56642,
+    34.06498,
+    63.56642,
+    34.06498
+],
+  "geometry": {"coordinates":[63.56642,34.06498],"type":"Point"}
+}

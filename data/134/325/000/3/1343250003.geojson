@@ -1,0 +1,75 @@
+{
+  "id": 1343250003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.30363,34.34999,62.30363,34.34999",
+    "geom:latitude":34.34999,
+    "geom:longitude":62.30363,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2002",
+    "gn:asciiname":"Kahdistan",
+    "gn:country_code":"AF",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138802,
+    "gn:latitude":34.34999,
+    "gn:longitude":62.30363,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kahdist\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaidast\u0101n",
+        "Kakhdestan",
+        "Kahdest\u0101n",
+        "Kahdist\u0101n",
+        "\u06a9\u0647\u062f\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138802
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"876057240d0bbe6f980816254fc06707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562079,
+            "locality_id":1343250003,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1343250003,
+    "wof:lastmodified":1537581525,
+    "wof:name":"Kahdistan",
+    "wof:parent_id":1108562079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.30363000000001,
+    34.34999000000001,
+    62.30363000000001,
+    34.34999000000001
+],
+  "geometry": {"coordinates":[62.30363000000001,34.34999000000001],"type":"Point"}
+}

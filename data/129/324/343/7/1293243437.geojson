@@ -1,0 +1,73 @@
+{
+  "id": 1293243437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.68815,31.85633,66.68815,31.85633",
+    "geom:latitude":31.85633,
+    "geom:longitude":66.68815,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Kujay",
+    "gn:country_code":"AF",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476962,
+    "gn:latitude":31.85633,
+    "gn:longitude":66.68815,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bjay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudzhay",
+        "\u06a9\u0648\u062c\u06cc",
+        "K\u016bjay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476962
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"157ced0ea3c6ee3f210a6c1d29dcafe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1293243437,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293243437,
+    "wof:lastmodified":1537583861,
+    "wof:name":"Kujay",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.68815,
+    31.85633,
+    66.68815,
+    31.85633
+],
+  "geometry": {"coordinates":[66.68814999999999,31.85633],"type":"Point"}
+}

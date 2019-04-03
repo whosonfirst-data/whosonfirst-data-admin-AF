@@ -1,0 +1,75 @@
+{
+  "id": 1343346905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47029,33.25565,68.47029,33.25565",
+    "geom:latitude":33.25565,
+    "geom:longitude":68.47029,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Adin",
+    "gn:country_code":"AF",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149404,
+    "gn:latitude":33.25565,
+    "gn:longitude":68.47029,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ad\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ad\u012bn",
+        "A\u1e0f\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149404
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6f3005b9a8b6baf6668ef85b7ec107f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1343346905,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343346905,
+    "wof:lastmodified":1537582415,
+    "wof:name":"Adin",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47029,
+    33.25565,
+    68.47029,
+    33.25565
+],
+  "geometry": {"coordinates":[68.47029000000001,33.25565],"type":"Point"}
+}

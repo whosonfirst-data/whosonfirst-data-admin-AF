@@ -1,0 +1,75 @@
+{
+  "id": 1243568135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07848,36.87519,71.07848,36.87519",
+    "geom:latitude":36.87519,
+    "geom:longitude":71.07848,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1125.0",
+    "gn:asciiname":"Aqshirah",
+    "gn:country_code":"AF",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148510,
+    "gn:latitude":36.87519,
+    "gn:longitude":71.07848,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Aqsh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aqsh\u012bra",
+        "Aqs\u012b\u1e5fa",
+        "\u0627\u0642\u0634\u06cc\u0631\u0647",
+        "Aqsh\u012breh",
+        "Aqsh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148510
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51cf7693dfce9e341a7be0fbc24b2c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562567,
+            "locality_id":1243568135,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243568135,
+    "wof:lastmodified":1537582345,
+    "wof:name":"Aqshirah",
+    "wof:parent_id":1108562567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07848,
+    36.87519,
+    71.07848,
+    36.87519
+],
+  "geometry": {"coordinates":[71.07848,36.87519],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343943231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06877,33.62191,68.06877,33.62191",
+    "geom:latitude":33.62191,
+    "geom:longitude":68.06877,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"617",
+    "gn:asciiname":"Shashi",
+    "gn:country_code":"AF",
+    "gn:dem":2740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125518,
+    "gn:latitude":33.62191,
+    "gn:longitude":68.06877,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101sh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0101\u0161i",
+        "Shashi",
+        "Sh\u0101sh\u012b",
+        "\u0634\u0627\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125518
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a89a083e1414706363324012d28ded24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562405,
+            "locality_id":1343943231,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343943231,
+    "wof:lastmodified":1537580396,
+    "wof:name":"Shashi",
+    "wof:parent_id":1108562405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06877,
+    33.62191,
+    68.06877,
+    33.62191
+],
+  "geometry": {"coordinates":[68.06877,33.62191],"type":"Point"}
+}

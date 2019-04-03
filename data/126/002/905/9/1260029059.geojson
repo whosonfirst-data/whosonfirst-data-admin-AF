@@ -1,0 +1,74 @@
+{
+  "id": 1260029059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15792,35.92049,67.15792,35.92049",
+    "geom:latitude":35.92049,
+    "geom:longitude":67.15792,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Yosufi",
+    "gn:country_code":"AF",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1121159,
+    "gn:latitude":35.92049,
+    "gn:longitude":67.15792,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Y\u014dsuf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Y\u014dsufi",
+        "Y\u016bsof\u012b",
+        "Y\u014dsuf\u012b",
+        "\u06cc\u0648\u0633\u0641\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121159
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0d78add7d7ab7c4177bc4449b19b9378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1260029059,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1260029059,
+    "wof:lastmodified":1537580026,
+    "wof:name":"Yosufi",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15791999999999,
+    35.92049,
+    67.15791999999999,
+    35.92049
+],
+  "geometry": {"coordinates":[67.15791999999999,35.92049],"type":"Point"}
+}

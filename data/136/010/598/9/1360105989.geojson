@@ -1,0 +1,73 @@
+{
+  "id": 1360105989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.80276,35.89149,64.80276,35.89149",
+    "geom:latitude":35.89149,
+    "geom:longitude":64.80276,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Imam Sahib",
+    "gn:country_code":"AF",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142548,
+    "gn:latitude":35.89149,
+    "gn:longitude":64.80276,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Im\u0101m \u015e\u0101\u1e29ib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Im\u0101m \u015e\u0101\u1e29ib",
+        "\u0627\u0645\u0627\u0645 \u0635\u0627\u062d\u0628",
+        "Em\u0101m \u015e\u0101\u1e29eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142548
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6157edb38897a5390e4120f2a4426e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1360105989,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1360105989,
+    "wof:lastmodified":1537581839,
+    "wof:name":"Imam Sahib",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.80275999999999,
+    35.89149000000001,
+    64.80275999999999,
+    35.89149000000001
+],
+  "geometry": {"coordinates":[64.80275999999999,35.89149000000001],"type":"Point"}
+}

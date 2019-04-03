@@ -1,0 +1,73 @@
+{
+  "id": 1242698933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.68042,35.7984,64.68042,35.7984",
+    "geom:latitude":35.7984,
+    "geom:longitude":64.68042,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1802",
+    "gn:asciiname":"Mokhurdtarak",
+    "gn:country_code":"AF",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132984,
+    "gn:latitude":35.7984,
+    "gn:longitude":64.68042,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u014dkhurdtarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u014dkhurdtarak",
+        "\u0645\u0648\u062e\u0631\u062f\u062a\u0631\u06a9",
+        "M\u014dkhu\u1e5f\u1e0fta\u1e5fak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132984
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a14bf34e4ddd5b77cf0f40cd4d44b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1242698933,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1242698933,
+    "wof:lastmodified":1537581055,
+    "wof:name":"Mokhurdtarak",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.68042,
+    35.7984,
+    64.68042,
+    35.7984
+],
+  "geometry": {"coordinates":[64.68042,35.7984],"type":"Point"}
+}

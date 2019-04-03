@@ -1,0 +1,74 @@
+{
+  "id": 1293295701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.57516,35.12516,64.57516,35.12516",
+    "geom:latitude":35.12516,
+    "geom:longitude":64.57516,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Lakh Daraz",
+    "gn:country_code":"AF",
+    "gn:dem":2017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134975,
+    "gn:latitude":35.12516,
+    "gn:longitude":64.57516,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101kh Dar\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101kh\u1e0fa\u1e5f\u0101z",
+        "L\u0101khder\u0101z",
+        "L\u0101kh Dar\u0101z",
+        "\u0644\u0627\u062e \u062f\u0631\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134975
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"99271dda274f51139f04ecd6b5e9b63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1293295701,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293295701,
+    "wof:lastmodified":1537581215,
+    "wof:name":"Lakh Daraz",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.57516,
+    35.12516,
+    64.57516,
+    35.12516
+],
+  "geometry": {"coordinates":[64.57516,35.12516],"type":"Point"}
+}

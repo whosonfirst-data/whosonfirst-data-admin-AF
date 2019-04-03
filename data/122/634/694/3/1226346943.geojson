@@ -1,0 +1,73 @@
+{
+  "id": 1226346943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.12417,34.4134,67.12417,34.4134",
+    "geom:latitude":34.4134,
+    "geom:longitude":67.12417,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805.0",
+    "gn:asciiname":"Khak Badak",
+    "gn:country_code":"AF",
+    "gn:dem":3054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462406,
+    "gn:latitude":34.4134,
+    "gn:longitude":67.12417,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u0101k B\u0101dak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101kb\u0101dak",
+        "Kh\u0101k B\u0101dak",
+        "\u062e\u0627\u06a9 \u0628\u0627\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c969b5bbc7c21eac19668a9ff584a7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1226346943,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1226346943,
+    "wof:lastmodified":1537583367,
+    "wof:name":"Khak Badak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.12416999999999,
+    34.4134,
+    67.12416999999999,
+    34.4134
+],
+  "geometry": {"coordinates":[67.12416999999999,34.4134],"type":"Point"}
+}

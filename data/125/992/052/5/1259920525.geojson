@@ -1,0 +1,75 @@
+{
+  "id": 1259920525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29695,34.49409,70.29695,34.49409",
+    "geom:latitude":34.49409,
+    "geom:longitude":70.29695,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Gandah Ghar",
+    "gn:country_code":"AF",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473104,
+    "gn:latitude":34.49409,
+    "gn:longitude":70.29695,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gandah Ghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gandagar",
+        "Gan\u1e0fa Gha\u1e5f",
+        "Gandeh Ghar",
+        "Gandah Ghar",
+        "\u06af\u0646\u062f\u0647 \u063a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473104
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ffeccefcbb2a0272b56694e79a7b386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1259920525,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1259920525,
+    "wof:lastmodified":1537583737,
+    "wof:name":"Gandah Ghar",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29695,
+    34.49409,
+    70.29695,
+    34.49409
+],
+  "geometry": {"coordinates":[70.29695,34.49409],"type":"Point"}
+}

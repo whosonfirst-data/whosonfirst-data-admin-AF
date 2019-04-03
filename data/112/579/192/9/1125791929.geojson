@@ -1,0 +1,81 @@
+{
+  "id": 1125791929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.26895,34.59431,61.26895,34.59431",
+    "geom:latitude":34.59431,
+    "geom:longitude":61.26895,
+    "gn:gn_country":"AF",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6979,
+    "gn:population":6979,
+    "iso:country":"AF",
+    "lbl:latitude":34.59431,
+    "lbl:longitude":61.26895,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tirpul"
+    ],
+    "qs_pg:aaroncc":"AF",
+    "qs_pg:gn_country":"AF",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1122408,
+    "qs_pg:gn_pop":6979,
+    "qs_pg:name":"T\u012br Pul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":130577,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122408,
+        "qs_pg:id":130577
+    },
+    "wof:country":"AF",
+    "wof:created":1497290897,
+    "wof:geomhash":"b48980688f779fcde679c0ada1536085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562213,
+            "locality_id":1125791929,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1125791929,
+    "wof:lastmodified":1509392402,
+    "wof:name":"T\u012br Pul",
+    "wof:parent_id":1108562213,
+    "wof:placetype":"locality",
+    "wof:population":6979,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.26895,
+    34.59431,
+    61.26895,
+    34.59431
+],
+  "geometry": {"coordinates":[61.26895,34.59431],"type":"Point"}
+}

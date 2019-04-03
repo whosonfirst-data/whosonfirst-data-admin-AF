@@ -1,0 +1,74 @@
+{
+  "id": 1226190959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.118,35.85475,66.118,35.85475",
+    "geom:latitude":35.85475,
+    "geom:longitude":66.118,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3103",
+    "gn:asciiname":"Ikhtiar",
+    "gn:country_code":"AF",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142583,
+    "gn:latitude":35.85475,
+    "gn:longitude":66.118,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ikht\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekhty\u0101\u1e5f",
+        "Ekht\u012b\u0101r",
+        "Ikht\u012b\u0101r",
+        "\u0627\u062e\u062a\u06cc\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142583
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2e3cfdf5f211ba94668351c937980f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562205,
+            "locality_id":1226190959,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1226190959,
+    "wof:lastmodified":1537581842,
+    "wof:name":"Ikhtiar",
+    "wof:parent_id":1108562205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.118,
+    35.85475,
+    66.118,
+    35.85475
+],
+  "geometry": {"coordinates":[66.11799999999999,35.85475],"type":"Point"}
+}

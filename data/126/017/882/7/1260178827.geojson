@@ -1,0 +1,77 @@
+{
+  "id": 1260178827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.75655,33.16655,67.75655,33.16655",
+    "geom:latitude":33.16655,
+    "geom:longitude":67.75655,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Qol",
+    "gn:country_code":"AF",
+    "gn:dem":2551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128908,
+    "gn:latitude":33.16655,
+    "gn:longitude":67.75655,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Q\u014dl",
+        "Kol\u2019",
+        "Qowl",
+        "\u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128908
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5b7ae3916f563bad2ff00ec384407986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1260178827,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1260178827,
+    "wof:lastmodified":1537580665,
+    "wof:name":"Qol",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.75655,
+    33.16655,
+    67.75655,
+    33.16655
+],
+  "geometry": {"coordinates":[67.75655,33.16655],"type":"Point"}
+}

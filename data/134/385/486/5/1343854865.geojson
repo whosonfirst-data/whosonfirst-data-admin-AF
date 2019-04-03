@@ -1,0 +1,76 @@
+{
+  "id": 1343854865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73707,33.39554,68.73707,33.39554",
+    "geom:latitude":33.39554,
+    "geom:longitude":68.73707,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"615",
+    "gn:asciiname":"Tapor",
+    "gn:country_code":"AF",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122820,
+    "gn:latitude":33.39554,
+    "gn:longitude":68.73707,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e6eap\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tap\u014d\u1e5f",
+        "Tapor",
+        "Tap\u014dr",
+        "Tap\u016br",
+        "\u1e6eap\u014dr",
+        "\u067c\u067e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122820
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"216d15fa8548d3efa2ad11ada8f83a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561979,
+            "locality_id":1343854865,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343854865,
+    "wof:lastmodified":1537580188,
+    "wof:name":"Tapor",
+    "wof:parent_id":1108561979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73706999999999,
+    33.39554,
+    68.73706999999999,
+    33.39554
+],
+  "geometry": {"coordinates":[68.73706999999999,33.39554],"type":"Point"}
+}

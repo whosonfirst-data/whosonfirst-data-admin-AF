@@ -1,0 +1,74 @@
+{
+  "id": 1243247847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.96005,34.60013,64.96005,34.60013",
+    "geom:latitude":34.60013,
+    "geom:longitude":64.96005,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2701",
+    "gn:asciiname":"Jar-e Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":2424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139406,
+    "gn:latitude":34.60013,
+    "gn:longitude":64.96005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jar-e Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ja\u1e5fe Su\u1e5fkh",
+        "J\u0101r-e Sorkh",
+        "Jar-e Surkh",
+        "\u062c\u0631 \u0633\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1cfa7b9cbabf9a68fb8f0bc09195be49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1243247847,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1243247847,
+    "wof:lastmodified":1537581573,
+    "wof:name":"Jar-e Surkh",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.96005,
+    34.60013,
+    64.96005,
+    34.60013
+],
+  "geometry": {"coordinates":[64.96005,34.60013],"type":"Point"}
+}

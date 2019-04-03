@@ -1,0 +1,75 @@
+{
+  "id": 1242633533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98587,31.51279,66.98587,31.51279",
+    "geom:latitude":31.51279,
+    "geom:longitude":66.98587,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Pakhoray",
+    "gn:country_code":"AF",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476902,
+    "gn:latitude":31.51279,
+    "gn:longitude":66.98587,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pakh\u014d\u1e5fay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pakh\u014dray",
+        "Pakhoray",
+        "Pakh\u014d\u1e5fay",
+        "\u067e\u062e\u0648\u0693\u06cc",
+        "Pakh\u016bray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476902
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f75d6f5032c395994b704768b7598122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1242633533,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242633533,
+    "wof:lastmodified":1537583858,
+    "wof:name":"Pakhoray",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98586999999999,
+    31.51279000000001,
+    66.98586999999999,
+    31.51279000000001
+],
+  "geometry": {"coordinates":[66.98586999999999,31.51279000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293783041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8406,34.79108,67.8406,34.79108",
+    "geom:latitude":34.79108,
+    "geom:longitude":67.8406,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2801",
+    "gn:asciiname":"Haidarabad",
+    "gn:country_code":"AF",
+    "gn:dem":2618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139989,
+    "gn:latitude":34.79108,
+    "gn:longitude":67.8406,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28a\u012bdar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaydarabad",
+        "\u1e28ay\u1e0fa\u1e5f\u0101b\u0101\u1e0f",
+        "\u1e28a\u012bdar\u0101b\u0101d",
+        "\u1e28eydar\u0101b\u0101d",
+        "\u062d\u06cc\u062f\u0631\u0627\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139989
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"16fd32397a47409870eb930c1b1398cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1293783041,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293783041,
+    "wof:lastmodified":1537581623,
+    "wof:name":"Haidarabad",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8406,
+    34.79108,
+    67.8406,
+    34.79108
+],
+  "geometry": {"coordinates":[67.84059999999999,34.79108],"type":"Point"}
+}

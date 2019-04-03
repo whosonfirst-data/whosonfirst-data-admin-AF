@@ -1,0 +1,76 @@
+{
+  "id": 1293814105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.15284,36.88642,66.15284,36.88642",
+    "geom:latitude":36.88642,
+    "geom:longitude":66.15284,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1706",
+    "gn:asciiname":"Surkh",
+    "gn:country_code":"AF",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124181,
+    "gn:latitude":36.88642,
+    "gn:longitude":66.15284,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Surkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baysh Kapa-i-Sorkh",
+        "Surkh",
+        "Sorkh",
+        "\u0633\u0631\u062e",
+        "Baysh Kapah-ye Surkh",
+        "\u0628\u06cc\u0634 \u06a9\u067e\u06c0 \u0633\u0631\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108561809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124181
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2232aa003b3a04af1f723fe61acfff58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561809,
+            "locality_id":1293814105,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1293814105,
+    "wof:lastmodified":1537580279,
+    "wof:name":"Surkh",
+    "wof:parent_id":1108561809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.15284,
+    36.88642,
+    66.15284,
+    36.88642
+],
+  "geometry": {"coordinates":[66.15284,36.88642],"type":"Point"}
+}

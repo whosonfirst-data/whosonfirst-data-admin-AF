@@ -1,0 +1,81 @@
+{
+  "id": 1226527733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44068,33.32462,68.44068,33.32462",
+    "geom:latitude":33.32462,
+    "geom:longitude":68.44068,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"614",
+    "gn:asciiname":"Miray",
+    "gn:country_code":"AF",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1120500,
+    "gn:latitude":33.32462,
+    "gn:longitude":68.44068,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "S\u0304alga\u1e5f",
+        "Shalgar",
+        "Mi\u1e5fay",
+        "Miray",
+        "M\u012br\u012b",
+        "\u0645\u064a\u0631\u06cc",
+        "M\u012bray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120500,
+        "wk:page":"Miray"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1d9bb920c07ef35b5bd94460a6a0d3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1226527733,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226527733,
+    "wof:lastmodified":1537579950,
+    "wof:name":"Miray",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44068,
+    33.32462,
+    68.44068,
+    33.32462
+],
+  "geometry": {"coordinates":[68.44068,33.32462],"type":"Point"}
+}

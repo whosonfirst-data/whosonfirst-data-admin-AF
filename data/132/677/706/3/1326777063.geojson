@@ -1,0 +1,72 @@
+{
+  "id": 1326777063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78299,35.93254,66.78299,35.93254",
+    "geom:latitude":35.93254,
+    "geom:longitude":66.78299,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1603",
+    "gn:asciiname":"Mirbak",
+    "gn:country_code":"AF",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133524,
+    "gn:latitude":35.93254,
+    "gn:longitude":66.78299,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mirbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0631\u0628\u06a9",
+        "Me\u1e5fbak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133524
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4bedc6f1b66f8a8398072c19f4c7ead7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562609,
+            "locality_id":1326777063,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1326777063,
+    "wof:lastmodified":1537581102,
+    "wof:name":"Mirbak",
+    "wof:parent_id":1108562609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78299,
+    35.93254,
+    66.78299,
+    35.93254
+],
+  "geometry": {"coordinates":[66.78299,35.93254],"type":"Point"}
+}

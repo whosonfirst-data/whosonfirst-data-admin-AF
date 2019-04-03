@@ -1,0 +1,72 @@
+{
+  "id": 1310035973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78918,33.65996,65.78918,33.65996",
+    "geom:latitude":33.65996,
+    "geom:longitude":65.78918,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406.0",
+    "gn:asciiname":"Chinarak",
+    "gn:country_code":"AF",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304467,
+    "gn:latitude":33.65996,
+    "gn:longitude":65.78918,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chin\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin\u0101rak",
+        "\u0686\u0646\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304467
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e8c3122932471147a7085a7cf074caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1310035973,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1310035973,
+    "wof:lastmodified":1537583940,
+    "wof:name":"Chinarak",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78918,
+    33.65996,
+    65.78918,
+    33.65996
+],
+  "geometry": {"coordinates":[65.78918,33.65996],"type":"Point"}
+}

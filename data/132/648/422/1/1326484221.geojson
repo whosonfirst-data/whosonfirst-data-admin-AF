@@ -1,0 +1,78 @@
+{
+  "id": 1326484221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74322,34.96425,70.74322,34.96425",
+    "geom:latitude":34.96425,
+    "geom:longitude":70.74322,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Qala Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474041,
+    "gn:latitude":34.96425,
+    "gn:longitude":70.74322,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u0101 K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0627 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kalakalay",
+        "Qal\u0101 Kalay",
+        "\u0642\u0644\u0627 \u0643\u0644\u06cc",
+        "Qal\u0101 K\u00ealay",
+        "\u0642\u0644\u0627 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474041
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bbb62ad24bf2fd76bd5e5ea2c256251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1326484221,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1326484221,
+    "wof:lastmodified":1537583778,
+    "wof:name":"Qala Kelay",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74322,
+    34.96425,
+    70.74322,
+    34.96425
+],
+  "geometry": {"coordinates":[70.74321999999999,34.96425],"type":"Point"}
+}

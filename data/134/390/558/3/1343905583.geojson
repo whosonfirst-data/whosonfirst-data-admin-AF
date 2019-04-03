@@ -1,0 +1,73 @@
+{
+  "id": 1343905583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67121,34.37769,67.67121,34.37769",
+    "geom:latitude":34.37769,
+    "geom:longitude":67.67121,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"404.0",
+    "gn:asciiname":"Dahan-e Khukha",
+    "gn:country_code":"AF",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460568,
+    "gn:latitude":34.37769,
+    "gn:longitude":67.67121,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dahan-e Kh\u016bkh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Khukha",
+        "Dahan-e Kh\u016bkh\u0101",
+        "\u062f\u0647\u0627\u0646 \u062e\u0648\u062e\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460568
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"948ba6bbb014d0cb91117fb1eeec4c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562251,
+            "locality_id":1343905583,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343905583,
+    "wof:lastmodified":1537583328,
+    "wof:name":"Dahan-e Khukha",
+    "wof:parent_id":1108562251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67121,
+    34.37769,
+    67.67121,
+    34.37769
+],
+  "geometry": {"coordinates":[67.67121,34.37769],"type":"Point"}
+}

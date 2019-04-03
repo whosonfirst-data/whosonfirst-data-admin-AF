@@ -1,0 +1,77 @@
+{
+  "id": 1226013333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.94763,31.30055,65.94763,31.30055",
+    "geom:latitude":31.30055,
+    "geom:longitude":65.94763,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411",
+    "gn:asciiname":"Ghulam Nabi Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141159,
+    "gn:latitude":31.30055,
+    "gn:longitude":65.94763,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghul\u0101m Nab\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u06cc\u064e\u06c0 \u063a\u064f\u0644\u0627\u0645 \u0646\u064e\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gulyamnabi-Kalay",
+        "Ghul\u0101m Nab\u012b K\u00ealay",
+        "\u063a\u0644\u0627\u0645 \u0646\u0628\u06cc \u06a9\u0644\u06cc",
+        "Ghol\u0101m Nabi Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141159
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eb32a1562c2faaa0b2b8a27ee4438887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1226013333,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226013333,
+    "wof:lastmodified":1537581730,
+    "wof:name":"Ghulam Nabi Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.94763,
+    31.30055,
+    65.94763,
+    31.30055
+],
+  "geometry": {"coordinates":[65.94763,31.30055],"type":"Point"}
+}

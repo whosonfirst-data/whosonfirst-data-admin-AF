@@ -1,0 +1,74 @@
+{
+  "id": 1260288461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93404,36.67665,70.93404,36.67665",
+    "geom:latitude":36.67665,
+    "geom:longitude":70.93404,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"1103.0",
+    "gn:asciiname":"Arwat",
+    "gn:country_code":"AF",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148337,
+    "gn:latitude":36.67665,
+    "gn:longitude":70.93404,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Arwat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e5fwat",
+        "\u0627\u0631\u0648\u062a",
+        "Arwal",
+        "Arwat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148337
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bd23f6755ed1f167ee8800fee3431b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1260288461,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260288461,
+    "wof:lastmodified":1537582334,
+    "wof:name":"Arwat",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93404,
+    36.67665,
+    70.93404,
+    36.67665
+],
+  "geometry": {"coordinates":[70.93404,36.67665],"type":"Point"}
+}

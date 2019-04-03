@@ -1,0 +1,77 @@
+{
+  "id": 1276416097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78381,34.10159,70.78381,34.10159",
+    "geom:latitude":34.10159,
+    "geom:longitude":70.78381,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Indzeray",
+    "gn:country_code":"AF",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469936,
+    "gn:latitude":34.10159,
+    "gn:longitude":70.78381,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Indz\u00earay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Indzharay",
+        "Enjaray",
+        "Indz\u00earay",
+        "\u0627\u0646\u0681\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469936
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e6ae7c9213534d204a17428071c0a34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1276416097,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276416097,
+    "wof:lastmodified":1537583634,
+    "wof:name":"Indzeray",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78381,
+    34.10159,
+    70.78381,
+    34.10159
+],
+  "geometry": {"coordinates":[70.78381,34.10159],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1242661871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.78378,33.566,64.78378,33.566",
+    "geom:latitude":33.566,
+    "geom:longitude":64.78378,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2706",
+    "gn:asciiname":"Tah-ye Khwajah",
+    "gn:country_code":"AF",
+    "gn:dem":2533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123319,
+    "gn:latitude":33.566,
+    "gn:longitude":64.78378,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tah-ye Khw\u0101jah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0eehe Khw\u0101ja",
+        "Takhkhodzha",
+        "Dekhi-Khodzha",
+        "Tah Khw\u0101ja",
+        "Tah Khwja",
+        "Tah-ye Khw\u0101jah",
+        "\u062a\u06c0 \u062e\u0648\u0627\u062c\u0647",
+        "Tah Khv\u0101jeh",
+        "Deh-e Khw\u0101jah",
+        "\u062f\u0647 \u062e\u0648\u0627\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123319
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2cdbe2d9d35417a014f4265591b4d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562353,
+            "locality_id":1242661871,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242661871,
+    "wof:lastmodified":1537580217,
+    "wof:name":"Tah-ye Khwajah",
+    "wof:parent_id":1108562353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.78378000000001,
+    33.566,
+    64.78378000000001,
+    33.566
+],
+  "geometry": {"coordinates":[64.78378000000001,33.566],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326784539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74222,35.46528,66.74222,35.46528",
+    "geom:latitude":35.46528,
+    "geom:longitude":66.74222,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104",
+    "gn:asciiname":"Nawor-e Gali",
+    "gn:country_code":"AF",
+    "gn:dem":2758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132052,
+    "gn:latitude":35.46528,
+    "gn:longitude":66.74222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nawor-e Gal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawu\u1e5fe Gali",
+        "Nawor-e Gal\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132052
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0cb74e141db4161cbbfaf7863407f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1326784539,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1326784539,
+    "wof:lastmodified":1537580973,
+    "wof:name":"Nawor-e Gali",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74221999999999,
+    35.46528,
+    66.74221999999999,
+    35.46528
+],
+  "geometry": {"coordinates":[66.74221999999999,35.46528],"type":"Point"}
+}

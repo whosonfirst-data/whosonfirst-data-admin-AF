@@ -1,0 +1,81 @@
+{
+  "id": 1276748995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47612,33.30203,68.47612,33.30203",
+    "geom:latitude":33.30203,
+    "geom:longitude":68.47612,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Bila Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439013,
+    "gn:latitude":33.30203,
+    "gn:longitude":68.47612,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bil\u0101 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627 \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Belokhel\u2019"
+    ],
+    "name:und_x_variant":[
+        "Bel\u0101kh\u0113l",
+        "B\u00eal\u0101 Kh\u0113l",
+        "Bel\u0101 Kheyl",
+        "Bil\u0101 Kh\u0113l",
+        "\u0628\u0644\u0627 \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439013
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fdeb36eb26157656fcb316f268b6d2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1276748995,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1276748995,
+    "wof:lastmodified":1537582911,
+    "wof:name":"Bila Khel",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47612,
+    33.30203,
+    68.47612,
+    33.30203
+],
+  "geometry": {"coordinates":[68.47611999999999,33.30203],"type":"Point"}
+}

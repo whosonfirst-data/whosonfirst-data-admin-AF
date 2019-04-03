@@ -1,0 +1,75 @@
+{
+  "id": 1309751245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88482,34.65739,70.88482,34.65739",
+    "geom:latitude":34.65739,
+    "geom:longitude":70.88482,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1014.0",
+    "gn:asciiname":"Bar Arazi",
+    "gn:country_code":"AF",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474300,
+    "gn:latitude":34.65739,
+    "gn:longitude":70.88482,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bar Ar\u0101\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bar-Arazi",
+        "Ba\u1e5f A\u1e5f\u0101\u1e0f\u1e95i",
+        "Ba\u1e5f Ar\u0101\u1e95\u012b",
+        "Bar Ar\u0101\u1e95\u012b",
+        "\u0628\u0631 \u0627\u0631\u0627\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474300
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5156755df220eaa67d3abb5bfd780aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562153,
+            "locality_id":1309751245,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1309751245,
+    "wof:lastmodified":1537583794,
+    "wof:name":"Bar Arazi",
+    "wof:parent_id":1108562153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88481999999998,
+    34.65739,
+    70.88481999999998,
+    34.65739
+],
+  "geometry": {"coordinates":[70.88481999999998,34.65739],"type":"Point"}
+}

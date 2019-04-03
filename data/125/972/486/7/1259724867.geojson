@@ -1,0 +1,73 @@
+{
+  "id": 1259724867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85288,35.65499,66.85288,35.65499",
+    "geom:latitude":35.65499,
+    "geom:longitude":66.85288,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3104",
+    "gn:asciiname":"Gich",
+    "gn:country_code":"AF",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140928,
+    "gn:latitude":35.65499,
+    "gn:longitude":66.85288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u012bc",
+        "G\u012bch",
+        "\u06af\u06cc\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108561849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140928
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"46947f731d89788cccb81d52d60a9504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561849,
+            "locality_id":1259724867,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1259724867,
+    "wof:lastmodified":1537581706,
+    "wof:name":"Gich",
+    "wof:parent_id":1108561849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85288,
+    35.65499000000001,
+    66.85288,
+    35.65499000000001
+],
+  "geometry": {"coordinates":[66.85288,35.65499000000001],"type":"Point"}
+}

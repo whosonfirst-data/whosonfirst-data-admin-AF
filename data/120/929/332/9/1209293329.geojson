@@ -1,0 +1,66 @@
+{
+  "id": 1209293329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.08665,32.34772,65.08665,32.34772",
+    "geom:latitude":32.34772,
+    "geom:longitude":65.08665,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Mazdurak",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474743,
+    "gn:latitude":32.34772,
+    "gn:longitude":65.08665,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mazd\u016brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazd\u016brak",
+        "\u0645\u0632\u062f\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474743
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"46da943547d51520bc43fb55b84a3095",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209293329
+        }
+    ],
+    "wof:id":1209293329,
+    "wof:lastmodified":1537583824,
+    "wof:name":"Mazdurak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.08665,
+    32.34772,
+    65.08665,
+    32.34772
+],
+  "geometry": {"coordinates":[65.08665000000001,32.34772],"type":"Point"}
+}

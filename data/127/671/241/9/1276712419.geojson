@@ -1,0 +1,75 @@
+{
+  "id": 1276712419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30469,35.03755,70.30469,35.03755",
+    "geom:latitude":35.03755,
+    "geom:longitude":70.30469,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008.0",
+    "gn:asciiname":"Gandow",
+    "gn:country_code":"AF",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423851,
+    "gn:latitude":35.03755,
+    "gn:longitude":70.30469,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gandow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gandavu",
+        "Gandow\u014d",
+        "Gan\u1e0fawo",
+        "Gandow",
+        "\u06af\u0646\u062f\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423851
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2ba3c90933d8207763df2e5f297d62f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1276712419,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1276712419,
+    "wof:lastmodified":1537582588,
+    "wof:name":"Gandow",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30469000000001,
+    35.03755,
+    70.30469000000001,
+    35.03755
+],
+  "geometry": {"coordinates":[70.30469000000001,35.03755],"type":"Point"}
+}

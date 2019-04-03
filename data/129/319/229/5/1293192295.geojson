@@ -1,0 +1,76 @@
+{
+  "id": 1293192295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.81943,35.88831,64.81943,35.88831",
+    "geom:latitude":35.88831,
+    "geom:longitude":64.81943,
+    "gn:admin1_code":"7",
+    "gn:admin2_code":"1802.0",
+    "gn:asciiname":"Aq Machit",
+    "gn:country_code":"AF",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148531,
+    "gn:latitude":35.88831,
+    "gn:longitude":64.81943,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Mach\u012b\u1e6f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100q Mac\u012bt",
+        "\u0100q Mach\u012bt",
+        "\u0100q Mach\u012b\u1e6f",
+        "\u0622\u0642 \u0645\u0686\u06cc\u067c",
+        "\u0100q Masjid",
+        "\u0622\u0642 \u0645\u0633\u062c\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148531
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"df0b2e2de4d14f70796c548dfea188f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562357,
+            "locality_id":1293192295,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1293192295,
+    "wof:lastmodified":1537582347,
+    "wof:name":"Aq Machit",
+    "wof:parent_id":1108562357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.81943000000001,
+    35.88831,
+    64.81943000000001,
+    35.88831
+],
+  "geometry": {"coordinates":[64.81943000000001,35.88831],"type":"Point"}
+}

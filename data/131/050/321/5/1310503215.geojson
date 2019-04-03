@@ -1,0 +1,75 @@
+{
+  "id": 1310503215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.49572,35.82094,68.49572,35.82094",
+    "geom:latitude":35.82094,
+    "geom:longitude":68.49572,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1303",
+    "gn:asciiname":"Tund Darah",
+    "gn:country_code":"AF",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122167,
+    "gn:latitude":35.82094,
+    "gn:longitude":68.49572,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tund Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tun\u1e0f\u1e0fa\u1e5fa",
+        "Tund Darreh",
+        "Tund Darah",
+        "\u062a\u0646\u062f \u062f\u0631\u0647",
+        "Tonddarreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122167
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"536ec552804ebd7b6c03d6398e1a6ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561921,
+            "locality_id":1310503215,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1310503215,
+    "wof:lastmodified":1537580091,
+    "wof:name":"Tund Darah",
+    "wof:parent_id":1108561921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.49571999999999,
+    35.82094,
+    68.49571999999999,
+    35.82094
+],
+  "geometry": {"coordinates":[68.49571999999999,35.82094],"type":"Point"}
+}

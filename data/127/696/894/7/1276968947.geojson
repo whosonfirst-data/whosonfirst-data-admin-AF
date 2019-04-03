@@ -1,0 +1,73 @@
+{
+  "id": 1276968947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.60147,33.85829,63.60147,33.85829",
+    "geom:latitude":33.85829,
+    "geom:longitude":63.60147,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2703.0",
+    "gn:asciiname":"Azowjah",
+    "gn:country_code":"AF",
+    "gn:dem":2432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147876,
+    "gn:latitude":33.85829,
+    "gn:longitude":63.60147,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Azowjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azawja",
+        "Azowjah",
+        "\u0627\u0632\u0648\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147876
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8939fe13668dbb5e1682e78ba495a262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1276968947,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1276968947,
+    "wof:lastmodified":1537582302,
+    "wof:name":"Azowjah",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.60146999999999,
+    33.85829,
+    63.60146999999999,
+    33.85829
+],
+  "geometry": {"coordinates":[63.60146999999999,33.85829],"type":"Point"}
+}

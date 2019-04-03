@@ -1,0 +1,78 @@
+{
+  "id": 1293930857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7391,32.0443,67.7391,32.0443",
+    "geom:latitude":32.0443,
+    "geom:longitude":67.7391,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Sur Ragheh",
+    "gn:country_code":"AF",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123521,
+    "gn:latitude":32.0443,
+    "gn:longitude":67.7391,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u016br R\u0101gh\u00eah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016b\u1e5f Ghat\u0101",
+        "S\u016b\u1e5f \u1e5e\u0101gheh",
+        "Surraga",
+        "S\u016br R\u0101gh\u00eah",
+        "\u0633\u0648\u0631 \u0631\u0627\u063a\u0647",
+        "Sowr R\u0101gheh",
+        "S\u016br Gha\u1e6fah",
+        "\u0633\u0648\u0631 \u063a\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123521
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"20535a110f6120c3412ad5a4d7f29519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1293930857,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1293930857,
+    "wof:lastmodified":1537580230,
+    "wof:name":"Sur Ragheh",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7391,
+    32.0443,
+    67.7391,
+    32.0443
+],
+  "geometry": {"coordinates":[67.73909999999999,32.0443],"type":"Point"}
+}

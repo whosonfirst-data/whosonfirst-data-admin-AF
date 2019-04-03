@@ -1,0 +1,73 @@
+{
+  "id": 1293239395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.684,33.27262,68.684,33.27262",
+    "geom:latitude":33.27262,
+    "geom:longitude":68.684,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901.0",
+    "gn:asciiname":"Baz Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146668,
+    "gn:latitude":33.27262,
+    "gn:longitude":68.684,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101z Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazkala",
+        "B\u0101z Kal\u0101",
+        "\u0628\u0627\u0632 \u06a9\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5c1fdf26c667961be24b635b27e49745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1293239395,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293239395,
+    "wof:lastmodified":1537582204,
+    "wof:name":"Baz Kala",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.684,
+    33.27262,
+    68.684,
+    33.27262
+],
+  "geometry": {"coordinates":[68.684,33.27262],"type":"Point"}
+}

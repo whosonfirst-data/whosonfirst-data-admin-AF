@@ -1,0 +1,75 @@
+{
+  "id": 1193179753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44737,34.90837,68.44737,34.90837",
+    "geom:latitude":34.90837,
+    "geom:longitude":68.44737,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"306.0",
+    "gn:asciiname":"Degtor",
+    "gn:country_code":"AF",
+    "gn:dem":2494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1455498,
+    "gn:latitude":34.90837,
+    "gn:longitude":68.44737,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113gt\u014dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0e\u0113gt\u014d\u1e5f",
+        "D\u0113gt\u016br",
+        "Daygt\u014dr",
+        "D\u0113gt\u014dr",
+        "\u062f\u064a\u06af\u062a\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1455498
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6da1d4febc2f3877ffb642669f01efd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562483,
+            "locality_id":1193179753,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1193179753,
+    "wof:lastmodified":1537583148,
+    "wof:name":"Degtor",
+    "wof:parent_id":1108562483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44736999999999,
+    34.90837,
+    68.44736999999999,
+    34.90837
+],
+  "geometry": {"coordinates":[68.44736999999999,34.90837],"type":"Point"}
+}

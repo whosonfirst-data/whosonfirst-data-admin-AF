@@ -1,0 +1,71 @@
+{
+  "id": 1310628787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.40041,36.04704,65.40041,36.04704",
+    "geom:latitude":36.04704,
+    "geom:longitude":65.40041,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"1711.0",
+    "gn:asciiname":"Gardan",
+    "gn:country_code":"AF",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1475344,
+    "gn:latitude":36.04704,
+    "gn:longitude":65.40041,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gardan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u06af\u0631\u062f\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667513,
+        1108562401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"52b425c829e22bea3e97a9c28c1daced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562401,
+            "locality_id":1310628787,
+            "region_id":85667513
+        }
+    ],
+    "wof:id":1310628787,
+    "wof:lastmodified":1537583833,
+    "wof:name":"Gardan",
+    "wof:parent_id":1108562401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.40041,
+    36.04704,
+    65.40041,
+    36.04704
+],
+  "geometry": {"coordinates":[65.40040999999999,36.04704],"type":"Point"}
+}

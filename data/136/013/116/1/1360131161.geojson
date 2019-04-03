@@ -1,0 +1,79 @@
+{
+  "id": 1360131161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.77391,36.70804,66.77391,36.70804",
+    "geom:latitude":36.70804,
+    "geom:longitude":66.77391,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608.0",
+    "gn:asciiname":"Shor Abi",
+    "gn:country_code":"AF",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405881,
+    "gn:latitude":36.70804,
+    "gn:longitude":66.77391,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u014dr \u0100b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631 \u0622\u0628\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u0430\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shorabi",
+        "Shor \u0100bi",
+        "Sh\u014dr \u0100b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405881
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"062d79b7ebad2b3e68a9af0881d2942b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1360131161,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1360131161,
+    "wof:lastmodified":1537582499,
+    "wof:name":"Shor Abi",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.77391,
+    36.70804,
+    66.77391,
+    36.70804
+],
+  "geometry": {"coordinates":[66.77391,36.70804],"type":"Point"}
+}

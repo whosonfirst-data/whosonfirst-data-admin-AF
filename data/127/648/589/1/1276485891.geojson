@@ -1,0 +1,75 @@
+{
+  "id": 1276485891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36916,34.88131,70.36916,34.88131",
+    "geom:latitude":34.88131,
+    "geom:longitude":70.36916,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"903.0",
+    "gn:asciiname":"Warnatah",
+    "gn:country_code":"AF",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474283,
+    "gn:latitude":34.88131,
+    "gn:longitude":70.36916,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Warna\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varnata",
+        "Wa\u1e5fnata",
+        "Warnatah",
+        "Warna\u1e6fah",
+        "\u0648\u0631\u0646\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108561793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474283
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d58c442a49201fd689c21b746d738329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561793,
+            "locality_id":1276485891,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1276485891,
+    "wof:lastmodified":1537583793,
+    "wof:name":"Warnatah",
+    "wof:parent_id":1108561793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36916,
+    34.88131,
+    70.36916,
+    34.88131
+],
+  "geometry": {"coordinates":[70.36915999999999,34.88131],"type":"Point"}
+}

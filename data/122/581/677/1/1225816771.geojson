@@ -1,0 +1,68 @@
+{
+  "id": 1225816771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33771,34.32887,69.33771,34.32887",
+    "geom:latitude":34.32887,
+    "geom:longitude":69.33771,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"111.0",
+    "gn:asciiname":"Chaharwazagi",
+    "gn:country_code":"AF",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7094597,
+    "gn:latitude":34.32887,
+    "gn:longitude":69.33771,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101rw\u0101zag\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7094597
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f67629fd72bed24b7269d18f4a452017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562135,
+            "locality_id":1225816771,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1225816771,
+    "wof:lastmodified":1537053288,
+    "wof:name":"Chaharwazagi",
+    "wof:parent_id":1108562135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33771,
+    34.32887,
+    69.33771,
+    34.32887
+],
+  "geometry": {"coordinates":[69.33771,34.32887],"type":"Point"}
+}

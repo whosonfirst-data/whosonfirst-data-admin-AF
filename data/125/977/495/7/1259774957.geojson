@@ -1,0 +1,74 @@
+{
+  "id": 1259774957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0582,36.99488,65.0582,36.99488",
+    "geom:latitude":36.99488,
+    "geom:longitude":65.0582,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1814",
+    "gn:asciiname":"Yakah Patah",
+    "gn:country_code":"AF",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121394,
+    "gn:latitude":36.99488,
+    "gn:longitude":65.0582,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakah Patah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaka Pata",
+        "Yakah Patah",
+        "\u06cc\u06a9\u0647 \u067e\u062a\u0647",
+        "Yekkeh Pateh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121394
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9f7eb42ea248268a10fa33ae9c5257a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562399,
+            "locality_id":1259774957,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1259774957,
+    "wof:lastmodified":1537580039,
+    "wof:name":"Yakah Patah",
+    "wof:parent_id":1108562399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0582,
+    36.99488,
+    65.0582,
+    36.99488
+],
+  "geometry": {"coordinates":[65.0582,36.99488],"type":"Point"}
+}

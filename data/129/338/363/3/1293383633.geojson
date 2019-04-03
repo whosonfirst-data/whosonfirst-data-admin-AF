@@ -1,0 +1,75 @@
+{
+  "id": 1293383633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.95086,32.1542,64.95086,32.1542",
+    "geom:latitude":32.1542,
+    "geom:longitude":64.95086,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2312.0",
+    "gn:asciiname":"Potay",
+    "gn:country_code":"AF",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473664,
+    "gn:latitude":32.1542,
+    "gn:longitude":64.95086,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Potay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u014dtay",
+        "Potay",
+        "P\u014d\u1e6fa\u012b",
+        "\u067e\u0648\u067c\u06cc",
+        "P\u016btay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421197035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473664
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a2754f80a3beb534599a68cd7a852c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421197035,
+            "locality_id":1293383633,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1293383633,
+    "wof:lastmodified":1537583761,
+    "wof:name":"Potay",
+    "wof:parent_id":421197035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.95085999999999,
+    32.1542,
+    64.95085999999999,
+    32.1542
+],
+  "geometry": {"coordinates":[64.95085999999999,32.1542],"type":"Point"}
+}

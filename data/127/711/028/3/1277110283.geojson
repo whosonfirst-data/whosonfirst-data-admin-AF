@@ -1,0 +1,74 @@
+{
+  "id": 1277110283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.68619,33.50025,65.68619,33.50025",
+    "geom:latitude":33.50025,
+    "geom:longitude":65.68619,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3406",
+    "gn:asciiname":"Zarkanak",
+    "gn:country_code":"AF",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120841,
+    "gn:latitude":33.50025,
+    "gn:longitude":65.68619,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zarkanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0632\u0631\u06a9\u0646\u06a9",
+        "Zarkanak",
+        "Za\u1e5fkanak",
+        "Zar Khanak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120841
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3490f015cf6e8026cd4e1f82f8c9caae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562017,
+            "locality_id":1277110283,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1277110283,
+    "wof:lastmodified":1537579966,
+    "wof:name":"Zarkanak",
+    "wof:parent_id":1108562017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.68619,
+    33.50025,
+    65.68619,
+    33.50025
+],
+  "geometry": {"coordinates":[65.68619,33.50025],"type":"Point"}
+}

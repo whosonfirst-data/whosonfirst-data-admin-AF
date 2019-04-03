@@ -1,0 +1,71 @@
+{
+  "id": 1310368925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25542,34.08336,69.25542,34.08336",
+    "geom:latitude":34.08336,
+    "geom:longitude":69.25542,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505.0",
+    "gn:asciiname":"Burk",
+    "gn:country_code":"AF",
+    "gn:dem":2287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451749,
+    "gn:latitude":34.08336,
+    "gn:longitude":69.25542,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Burk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451749
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6b9f9768af2eaf97a2eaa3084d557646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1310368925,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1310368925,
+    "wof:lastmodified":1537583072,
+    "wof:name":"Burk",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25542,
+    34.08336,
+    69.25542,
+    34.08336
+],
+  "geometry": {"coordinates":[69.25542,34.08336],"type":"Point"}
+}

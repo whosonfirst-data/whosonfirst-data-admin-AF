@@ -1,0 +1,74 @@
+{
+  "id": 1344146575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76765,34.52446,65.76765,34.52446",
+    "geom:latitude":34.52446,
+    "geom:longitude":65.76765,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Siyah Sang",
+    "gn:country_code":"AF",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475887,
+    "gn:latitude":34.52446,
+    "gn:longitude":65.76765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Siy\u0101h Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sy\u0101hsang",
+        "S\u012b\u0101h Sang",
+        "\u0633\u06cc\u0627\u0647 \u0633\u0646\u06af",
+        "Siy\u0101h Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475887
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2e5076de99cf9cc159967f6c1923d3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1344146575,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1344146575,
+    "wof:lastmodified":1537583839,
+    "wof:name":"Siyah Sang",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76765,
+    34.52446,
+    65.76765,
+    34.52446
+],
+  "geometry": {"coordinates":[65.76765,34.52446],"type":"Point"}
+}

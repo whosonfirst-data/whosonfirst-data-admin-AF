@@ -1,0 +1,77 @@
+{
+  "id": 1293655889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25556,34.4225,68.25556,34.4225",
+    "geom:latitude":34.4225,
+    "geom:longitude":68.25556,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403.0",
+    "gn:asciiname":"Ban Qol",
+    "gn:country_code":"AF",
+    "gn:dem":3300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1459161,
+    "gn:latitude":34.4225,
+    "gn:longitude":68.25556,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ban Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bankul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Banqul",
+        "Ban Q\u014dl",
+        "Banqol",
+        "\u0628\u0646 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1459161
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d425b5276d637fc04877378d54e5e1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1293655889,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293655889,
+    "wof:lastmodified":1537583293,
+    "wof:name":"Ban Qol",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25556,
+    34.4225,
+    68.25556,
+    34.4225
+],
+  "geometry": {"coordinates":[68.25556,34.4225],"type":"Point"}
+}

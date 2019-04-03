@@ -1,0 +1,73 @@
+{
+  "id": 1225830525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78678,32.78987,67.78678,32.78987",
+    "geom:latitude":32.78987,
+    "geom:longitude":67.78678,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Hasti",
+    "gn:country_code":"AF",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435733,
+    "gn:latitude":32.78987,
+    "gn:longitude":67.78678,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Hast\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasti",
+        "Hast\u012b",
+        "\u0647\u0633\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435733
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a21d736f39813f667ff6a1a8abef8348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1225830525,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225830525,
+    "wof:lastmodified":1537582781,
+    "wof:name":"Hasti",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78678000000001,
+    32.78987,
+    67.78678000000001,
+    32.78987
+],
+  "geometry": {"coordinates":[67.78678000000001,32.78987],"type":"Point"}
+}

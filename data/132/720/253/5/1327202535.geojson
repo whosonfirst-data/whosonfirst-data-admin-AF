@@ -1,0 +1,76 @@
+{
+  "id": 1327202535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.94497,32.01105,65.94497,32.01105",
+    "geom:latitude":32.01105,
+    "geom:longitude":65.94497,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403.0",
+    "gn:asciiname":"Nimakai",
+    "gn:country_code":"AF",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424924,
+    "gn:latitude":32.01105,
+    "gn:longitude":65.94497,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nimaka\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0645\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Nimaka\u012b",
+        "\u0646\u0645\u06a9\u06cc",
+        "Nimak\u00e1-e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424924
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3ab93925a624c61bdab4096bab245137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1327202535,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1327202535,
+    "wof:lastmodified":1537582621,
+    "wof:name":"Nimakai",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.94497,
+    32.01105,
+    65.94497,
+    32.01105
+],
+  "geometry": {"coordinates":[65.94497,32.01105],"type":"Point"}
+}

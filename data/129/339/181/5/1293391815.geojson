@@ -1,0 +1,76 @@
+{
+  "id": 1293391815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26019,35.63348,69.26019,35.63348",
+    "geom:latitude":35.63348,
+    "geom:longitude":69.26019,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1307.0",
+    "gn:asciiname":"Banu",
+    "gn:country_code":"AF",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1147118,
+    "gn:latitude":35.63348,
+    "gn:longitude":69.26019,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ban\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andar\u0101b",
+        "Banu",
+        "Banow",
+        "Ban\u016b",
+        "\u0628\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108561803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147118,
+        "wk:page":"Banow"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f30afed24bf0a149bd2e1ca411f0fcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561803,
+            "locality_id":1293391815,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1293391815,
+    "wof:lastmodified":1537582242,
+    "wof:name":"Banu",
+    "wof:parent_id":1108561803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26019000000001,
+    35.63348,
+    69.26019000000001,
+    35.63348
+],
+  "geometry": {"coordinates":[69.26019000000001,35.63348],"type":"Point"}
+}

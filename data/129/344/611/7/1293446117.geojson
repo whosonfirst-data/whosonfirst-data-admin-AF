@@ -1,0 +1,80 @@
+{
+  "id": 1293446117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.18253,31.70557,67.18253,31.70557",
+    "geom:latitude":31.70557,
+    "geom:longitude":67.18253,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Loy Kangar Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436099,
+    "gn:latitude":31.70557,
+    "gn:longitude":67.18253,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Kangar K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u064a\u06c0 \u0643\u0646\u06af\u0631\u0654 \u0643\u0644\u0627\u0646"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u06cc \u06a9\u0646\u06af\u0631 \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u014dy Kanga\u1e5f Kalay",
+        "L\u014dy Kangar K\u00ealay",
+        "\u0644\u0648\u06cc \u06a9\u0646\u06af\u0631 \u06a9\u0644\u06cc",
+        "L\u016by Kangar Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436099
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5e443d1c2389f7335b2ce28b1e3006b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1293446117,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293446117,
+    "wof:lastmodified":1537582800,
+    "wof:name":"Loy Kangar Kelay",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.18253,
+    31.70557,
+    67.18253,
+    31.70557
+],
+  "geometry": {"coordinates":[67.18253,31.70557],"type":"Point"}
+}

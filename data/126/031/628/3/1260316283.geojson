@@ -1,0 +1,73 @@
+{
+  "id": 1260316283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.63277,33.19334,65.63277,33.19334",
+    "geom:latitude":33.19334,
+    "geom:longitude":65.63277,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3404",
+    "gn:asciiname":"Zan Talaq",
+    "gn:country_code":"AF",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121010,
+    "gn:latitude":33.19334,
+    "gn:longitude":65.63277,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zan \u0162al\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zan \u0162al\u0101q",
+        "\u0632\u0646 \u0637\u0644\u0627\u0642",
+        "Zan\u1e6fal\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121010
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"029f4d609613851f5eaabd3fab7a1ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562113,
+            "locality_id":1260316283,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1260316283,
+    "wof:lastmodified":1537580019,
+    "wof:name":"Zan Talaq",
+    "wof:parent_id":1108562113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.63277,
+    33.19334,
+    65.63277,
+    33.19334
+],
+  "geometry": {"coordinates":[65.63276999999999,33.19334],"type":"Point"}
+}

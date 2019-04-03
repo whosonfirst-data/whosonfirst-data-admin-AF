@@ -1,0 +1,79 @@
+{
+  "id": 1343812381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.4349,33.75364,68.4349,33.75364",
+    "geom:latitude":33.75364,
+    "geom:longitude":68.4349,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409",
+    "gn:asciiname":"Loyah Chinah",
+    "gn:country_code":"AF",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134442,
+    "gn:latitude":33.75364,
+    "gn:longitude":68.4349,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dyah Ch\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u06c0 \u0644\u0648\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Loya-China",
+        "Loya \u010cina",
+        "L\u014dyah Ch\u012bnah",
+        "L\u016byah Ch\u012bneh",
+        "\u0686\u0634\u0645\u06c0 \u0644\u0648\u064a\u0647",
+        "\u0644\u0648\u064a\u0647 \u0686\u064a\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134442
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4721d4079ddf888dd0670b2087644892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1343812381,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1343812381,
+    "wof:lastmodified":1537581176,
+    "wof:name":"Loyah Chinah",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.4349,
+    33.75364,
+    68.4349,
+    33.75364
+],
+  "geometry": {"coordinates":[68.4349,33.75364],"type":"Point"}
+}

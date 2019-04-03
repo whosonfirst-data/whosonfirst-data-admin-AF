@@ -1,0 +1,73 @@
+{
+  "id": 1226372897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36844,33.35164,66.36844,33.35164",
+    "geom:latitude":33.35164,
+    "geom:longitude":66.36844,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3402.0",
+    "gn:asciiname":"Chashmak",
+    "gn:country_code":"AF",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1145064,
+    "gn:latitude":33.35164,
+    "gn:longitude":66.36844,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chashmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010ca\u0161mak",
+        "Cheshmak",
+        "\u0686\u0634\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1145064
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"724860735c0aadc89c54da150f1a6a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562039,
+            "locality_id":1226372897,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1226372897,
+    "wof:lastmodified":1537582070,
+    "wof:name":"Chashmak",
+    "wof:parent_id":1108562039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36844,
+    33.35164,
+    66.36844,
+    33.35164
+],
+  "geometry": {"coordinates":[66.36844000000001,33.35164],"type":"Point"}
+}

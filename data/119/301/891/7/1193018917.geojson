@@ -1,0 +1,75 @@
+{
+  "id": 1193018917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.39288,35.11763,64.39288,35.11763",
+    "geom:latitude":35.11763,
+    "geom:longitude":64.39288,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Hazarmaysh",
+    "gn:country_code":"AF",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140086,
+    "gn:latitude":35.11763,
+    "gn:longitude":64.39288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rmaysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haz\u0101rm\u012bsh",
+        "Haz\u0101\u1e5fm\u0113s\u0304",
+        "Hez\u0101rm\u012bsh",
+        "Haz\u0101rmaysh",
+        "\u0647\u0632\u0627\u0631\u0645\u064a\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140086
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9c0c182c90dbcf45d6a24c6625595b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1193018917,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1193018917,
+    "wof:lastmodified":1537581630,
+    "wof:name":"Hazarmaysh",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.39288,
+    35.11763,
+    64.39288,
+    35.11763
+],
+  "geometry": {"coordinates":[64.39288000000001,35.11763],"type":"Point"}
+}

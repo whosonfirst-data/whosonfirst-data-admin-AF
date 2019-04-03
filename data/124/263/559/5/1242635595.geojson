@@ -1,0 +1,76 @@
+{
+  "id": 1242635595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97324,30.05128,65.97324,30.05128",
+    "geom:latitude":30.05128,
+    "geom:longitude":65.97324,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2410",
+    "gn:asciiname":"Mandozi",
+    "gn:country_code":"AF",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1133992,
+    "gn:latitude":30.05128,
+    "gn:longitude":65.97324,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mand\u014dz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mandozai",
+        "Man\u1e0f\u014dz",
+        "Man\u1e0f\u014dzi",
+        "Mand\u014dz\u012b",
+        "\u0645\u0646\u062f\u0648\u0632\u06cc",
+        "Mandowz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133992
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3996217539f6791203805cb74ccfed30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562507,
+            "locality_id":1242635595,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1242635595,
+    "wof:lastmodified":1537581137,
+    "wof:name":"Mandozi",
+    "wof:parent_id":1108562507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97324,
+    30.05128,
+    65.97324,
+    30.05128
+],
+  "geometry": {"coordinates":[65.97324,30.05128],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226525997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.11745,32.36789,65.11745,32.36789",
+    "geom:latitude":32.36789,
+    "geom:longitude":65.11745,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2303.0",
+    "gn:asciiname":"Akhund Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149205,
+    "gn:latitude":32.36789,
+    "gn:longitude":65.11745,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100kh\u016bnd Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Akhundkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u0100khun\u1e0fkh\u0113l",
+        "\u0100khond Kheyl",
+        "\u0100kh\u016bnd Kh\u0113l",
+        "\u0622\u062e\u0648\u0646\u062f \u062e\u06cc\u0644",
+        "\u0100khvond Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149205
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"73c51624cbdcdf20dbbb215ae07ac363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562111,
+            "locality_id":1226525997,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226525997,
+    "wof:lastmodified":1537582399,
+    "wof:name":"Akhund Khel",
+    "wof:parent_id":1108562111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.11745,
+    32.36789,
+    65.11745,
+    32.36789
+],
+  "geometry": {"coordinates":[65.11745000000001,32.36789],"type":"Point"}
+}

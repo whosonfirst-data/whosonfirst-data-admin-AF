@@ -1,0 +1,73 @@
+{
+  "id": 1293186311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.44411,34.1018,67.44411,34.1018",
+    "geom:latitude":34.1018,
+    "geom:longitude":67.44411,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Qurghanak",
+    "gn:country_code":"AF",
+    "gn:dem":2967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128753,
+    "gn:latitude":34.1018,
+    "gn:longitude":67.44411,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u016brgh\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurganak",
+        "Q\u016brgh\u0101nak",
+        "\u0642\u0648\u0631\u063a\u0627\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128753
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"770873d253b0660af154f2ff958e7e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1293186311,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1293186311,
+    "wof:lastmodified":1537580650,
+    "wof:name":"Qurghanak",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.44411,
+    34.1018,
+    67.44411,
+    34.1018
+],
+  "geometry": {"coordinates":[67.44410999999999,34.1018],"type":"Point"}
+}

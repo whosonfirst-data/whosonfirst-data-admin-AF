@@ -1,0 +1,77 @@
+{
+  "id": 1242920821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.61725,31.94606,66.61725,31.94606",
+    "geom:latitude":31.94606,
+    "geom:longitude":66.61725,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506",
+    "gn:asciiname":"Junubi Ilmay",
+    "gn:country_code":"AF",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1139483,
+    "gn:latitude":31.94606,
+    "gn:longitude":66.61725,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jun\u016bb\u012b Ilmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "Dzhanubi-Il\u2019may"
+    ],
+    "name:und_x_variant":[
+        "Jan\u016bbi Elmay",
+        "\u062c\u0646\u0648\u0628\u06cc \u0627\u0644\u0645\u06cc",
+        "Jon\u016bbi Elmay",
+        "Jun\u016bb\u012b Ilmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139483
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3111f8a56bbdfb0ade3d3313049f9766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1242920821,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242920821,
+    "wof:lastmodified":1537581581,
+    "wof:name":"Junubi Ilmay",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.61725,
+    31.94606,
+    66.61725,
+    31.94606
+],
+  "geometry": {"coordinates":[66.61725,31.94606],"type":"Point"}
+}

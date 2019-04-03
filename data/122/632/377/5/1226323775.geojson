@@ -1,0 +1,76 @@
+{
+  "id": 1226323775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.27117,35.26706,61.27117,35.26706",
+    "geom:latitude":35.26706,
+    "geom:longitude":61.27117,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007.0",
+    "gn:asciiname":"Karez-e Masjid",
+    "gn:country_code":"AF",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378344,
+    "gn:latitude":35.26706,
+    "gn:longitude":61.27117,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e Masjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113z-i-Masje\u1e0f",
+        "K\u0101r\u012bz-e Masjed",
+        "K\u0101rayz-e Masjed",
+        "K\u0101r\u0113z-e Masjid",
+        "\u06a9\u0627\u0631\u06cc\u0632 \u0645\u0633\u062c\u062f",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0645\u0633\u062c\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378344
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"235554a28c6d2421452474bc6526e906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1226323775,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1226323775,
+    "wof:lastmodified":1537582495,
+    "wof:name":"Karez-e Masjid",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.27117,
+    35.26706,
+    61.27117,
+    35.26706
+],
+  "geometry": {"coordinates":[61.27117,35.26706],"type":"Point"}
+}

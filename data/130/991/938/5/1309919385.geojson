@@ -1,0 +1,73 @@
+{
+  "id": 1309919385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.17848,37.91938,70.17848,37.91938",
+    "geom:latitude":37.91938,
+    "geom:longitude":70.17848,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Darbandak",
+    "gn:country_code":"AF",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475432,
+    "gn:latitude":37.91938,
+    "gn:longitude":70.17848,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darbandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0631\u0628\u0646\u062f\u06a9",
+        "\u1e0eanan\u1e0fak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475432,
+        "wk:page":"Darbandak"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a256465a8578ef7eebb9495b5aa78eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562181,
+            "locality_id":1309919385,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309919385,
+    "wof:lastmodified":1537583835,
+    "wof:name":"Darbandak",
+    "wof:parent_id":1108562181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.17848000000001,
+    37.91938,
+    70.17848000000001,
+    37.91938
+],
+  "geometry": {"coordinates":[70.17848000000001,37.91938],"type":"Point"}
+}

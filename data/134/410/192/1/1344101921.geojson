@@ -1,0 +1,76 @@
+{
+  "id": 1344101921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37503,34.96859,71.37503,34.96859",
+    "geom:latitude":34.96859,
+    "geom:longitude":71.37503,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1004.0",
+    "gn:asciiname":"Ghuzan",
+    "gn:country_code":"AF",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452142,
+    "gn:latitude":34.96859,
+    "gn:longitude":71.37503,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghuz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Gozan",
+        "Ghuz\u0101n",
+        "Ghoz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452142
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf35987b4670370bd92c86d8713f0460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561929,
+            "locality_id":1344101921,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1344101921,
+    "wof:lastmodified":1537583089,
+    "wof:name":"Ghuzan",
+    "wof:parent_id":1108561929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37503000000002,
+    34.96859,
+    71.37503000000002,
+    34.96859
+],
+  "geometry": {"coordinates":[71.37503000000002,34.96859],"type":"Point"}
+}

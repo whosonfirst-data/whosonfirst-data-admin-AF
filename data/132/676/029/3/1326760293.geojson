@@ -1,0 +1,78 @@
+{
+  "id": 1326760293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.52631,35.28446,69.52631,35.28446",
+    "geom:latitude":35.28446,
+    "geom:longitude":69.52631,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"3301",
+    "gn:asciiname":"Talkhanah",
+    "gn:country_code":"AF",
+    "gn:dem":2280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123020,
+    "gn:latitude":35.28446,
+    "gn:longitude":69.52631,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Talkh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u0445\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tal\u2019khana",
+        "Talkh\u0101na",
+        "Talkh\u0101neh",
+        "Talkh\u0101nah",
+        "\u062a\u0644\u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803081,
+        1108561867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123020
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1ff21ec5c856f6f096f679810f2c1834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561867,
+            "locality_id":1326760293,
+            "region_id":1108803081
+        }
+    ],
+    "wof:id":1326760293,
+    "wof:lastmodified":1537580201,
+    "wof:name":"Talkhanah",
+    "wof:parent_id":1108561867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.52631,
+    35.28446,
+    69.52631,
+    35.28446
+],
+  "geometry": {"coordinates":[69.52631,35.28446],"type":"Point"}
+}

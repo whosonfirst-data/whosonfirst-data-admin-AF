@@ -1,0 +1,74 @@
+{
+  "id": 1276500485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.27309,36.25675,66.27309,36.25675",
+    "geom:latitude":36.25675,
+    "geom:longitude":66.27309,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"3101.0",
+    "gn:asciiname":"Chahar Say",
+    "gn:country_code":"AF",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1475389,
+    "gn:latitude":36.25675,
+    "gn:longitude":66.27309,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chah\u0101r S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u0101r Sai (4)",
+        "Chah\u0101r S\u0101y (4)",
+        "Chah\u0101r S\u0101y",
+        "\u0686\u0647\u0627\u0631 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667523,
+        1108562435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475389
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a007c1ec674530c441399756b6c21c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562435,
+            "locality_id":1276500485,
+            "region_id":85667523
+        }
+    ],
+    "wof:id":1276500485,
+    "wof:lastmodified":1537583834,
+    "wof:name":"Chahar Say",
+    "wof:parent_id":1108562435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.27309,
+    36.25675,
+    66.27309,
+    36.25675
+],
+  "geometry": {"coordinates":[66.27309,36.25675],"type":"Point"}
+}

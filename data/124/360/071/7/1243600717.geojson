@@ -1,0 +1,73 @@
+{
+  "id": 1243600717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.5276,36.46437,66.5276,36.46437",
+    "geom:latitude":36.46437,
+    "geom:longitude":66.5276,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1608",
+    "gn:asciiname":"Garmali",
+    "gn:country_code":"AF",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141777,
+    "gn:latitude":36.46437,
+    "gn:longitude":66.5276,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Garmal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garmal\u012b",
+        "\u06af\u0631\u0645\u0644\u06cc",
+        "Garmali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108561915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141777
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9845509680a01fce85a66e77fe6d601c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561915,
+            "locality_id":1243600717,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243600717,
+    "wof:lastmodified":1537581774,
+    "wof:name":"Garmali",
+    "wof:parent_id":1108561915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.5276,
+    36.46437,
+    66.5276,
+    36.46437
+],
+  "geometry": {"coordinates":[66.52760000000001,36.46437],"type":"Point"}
+}

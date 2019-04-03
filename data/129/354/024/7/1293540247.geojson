@@ -1,0 +1,73 @@
+{
+  "id": 1293540247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3193,32.33698,68.3193,32.33698",
+    "geom:latitude":32.33698,
+    "geom:longitude":68.3193,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904.0",
+    "gn:asciiname":"Balauri",
+    "gn:country_code":"AF",
+    "gn:dem":2227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147319,
+    "gn:latitude":32.33698,
+    "gn:longitude":68.3193,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Balauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0644\u0627\u0648\u0693\u06cc",
+        "Bal\u0101wri",
+        "Bal\u0101w\u1e5f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147319
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"185e55f66fa3f85263c5a43a5a563c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1293540247,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293540247,
+    "wof:lastmodified":1537582255,
+    "wof:name":"Balauri",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3193,
+    32.33698,
+    68.3193,
+    32.33698
+],
+  "geometry": {"coordinates":[68.3193,32.33698],"type":"Point"}
+}

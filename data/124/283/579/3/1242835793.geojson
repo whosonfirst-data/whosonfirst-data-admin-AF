@@ -1,0 +1,75 @@
+{
+  "id": 1242835793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96286,32.51734,66.96286,32.51734",
+    "geom:latitude":32.51734,
+    "geom:longitude":66.96286,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2503",
+    "gn:asciiname":"Khwajah Zangi",
+    "gn:country_code":"AF",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136027,
+    "gn:latitude":32.51734,
+    "gn:longitude":66.96286,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Zang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khodzha-Zangi",
+        "Khw\u0101ja Zangi",
+        "Khw\u0101jah Zang\u012b",
+        "\u062e\u0648\u0627\u062c\u0647 \u0632\u0646\u06af\u06cc",
+        "Khv\u0101jeh Zang\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108561813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136027
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b2e8e05caecc00b3be84193c58093e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561813,
+            "locality_id":1242835793,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242835793,
+    "wof:lastmodified":1537581309,
+    "wof:name":"Khwajah Zangi",
+    "wof:parent_id":1108561813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96285999999999,
+    32.51734,
+    66.96285999999999,
+    32.51734
+],
+  "geometry": {"coordinates":[66.96285999999999,32.51734],"type":"Point"}
+}

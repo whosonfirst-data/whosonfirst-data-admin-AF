@@ -1,0 +1,79 @@
+{
+  "id": 1277029115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.34148,36.54845,69.34148,36.54845",
+    "geom:latitude":36.54845,
+    "geom:longitude":69.34148,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1202",
+    "gn:asciiname":"Tir Man Say",
+    "gn:country_code":"AF",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122409,
+    "gn:latitude":36.54845,
+    "gn:longitude":69.34148,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u012br M\u0101n S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u0631 \u0645\u0627\u0646 \u0633\u0627\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0440\u043c\u0430\u043d\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Tirmansay",
+        "T\u012br M\u0101n S\u0101y",
+        "\u062a\u06cc\u0631 \u0645\u0627\u0646 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108561855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122409
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8c5dd36463126cad32270c9c830b2b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561855,
+            "locality_id":1277029115,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1277029115,
+    "wof:lastmodified":1537580112,
+    "wof:name":"Tir Man Say",
+    "wof:parent_id":1108561855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.34148,
+    36.54845,
+    69.34148,
+    36.54845
+],
+  "geometry": {"coordinates":[69.34148,36.54845],"type":"Point"}
+}

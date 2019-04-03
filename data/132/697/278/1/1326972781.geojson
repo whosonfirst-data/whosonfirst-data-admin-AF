@@ -1,0 +1,75 @@
+{
+  "id": 1326972781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37897,34.939,70.37897,34.939",
+    "geom:latitude":34.939,
+    "geom:longitude":70.37897,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"3008",
+    "gn:asciiname":"Ningarach",
+    "gn:country_code":"AF",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131922,
+    "gn:latitude":34.939,
+    "gn:longitude":70.37897,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ningar\u0101ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nengar\u0101\u010d",
+        "Ningarach",
+        "Nengar\u0101ch",
+        "Ningar\u0101ch",
+        "\u0646\u0646\u06af\u0631\u0627\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667577,
+        1108562335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131922
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"01620e6450c58dbd01dfb043cf7137aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562335,
+            "locality_id":1326972781,
+            "region_id":85667577
+        }
+    ],
+    "wof:id":1326972781,
+    "wof:lastmodified":1537580963,
+    "wof:name":"Ningarach",
+    "wof:parent_id":1108562335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37897,
+    34.939,
+    70.37897,
+    34.939
+],
+  "geometry": {"coordinates":[70.37897,34.939],"type":"Point"}
+}

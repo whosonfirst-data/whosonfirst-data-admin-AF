@@ -1,0 +1,72 @@
+{
+  "id": 1360179699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.46831,32.34383,61.46831,32.34383",
+    "geom:latitude":32.34383,
+    "geom:longitude":61.46831,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2108",
+    "gn:asciiname":"Deh Yak",
+    "gn:country_code":"AF",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143375,
+    "gn:latitude":32.34383,
+    "gn:longitude":61.46831,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Deh Yak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u062f\u0647 \u06cc\u06a9",
+        "Deh Yek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143375
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"154617da86b13bb50883139065433783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562375,
+            "locality_id":1360179699,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1360179699,
+    "wof:lastmodified":1537581909,
+    "wof:name":"Deh Yak",
+    "wof:parent_id":1108562375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.46831,
+    32.34383,
+    61.46831,
+    32.34383
+],
+  "geometry": {"coordinates":[61.46831,32.34383],"type":"Point"}
+}

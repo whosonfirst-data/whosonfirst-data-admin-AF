@@ -1,0 +1,73 @@
+{
+  "id": 1343230599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.34667,29.62139,65.34667,29.62139",
+    "geom:latitude":29.62139,
+    "geom:longitude":65.34667,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2409.0",
+    "gn:asciiname":"Sershah",
+    "gn:country_code":"AF",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1439380,
+    "gn:latitude":29.62139,
+    "gn:longitude":65.34667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u00earsh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "S\u0113\u1e5fsa",
+        "S\u00earsh\u0101h",
+        "S\u012brshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439380
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2688ff47c69e1db65ca19e824281c332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562411,
+            "locality_id":1343230599,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343230599,
+    "wof:lastmodified":1537582927,
+    "wof:name":"Sershah",
+    "wof:parent_id":1108562411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.34666999999999,
+    29.62139,
+    65.34666999999999,
+    29.62139
+],
+  "geometry": {"coordinates":[65.34666999999999,29.62139],"type":"Point"}
+}

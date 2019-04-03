@@ -1,0 +1,74 @@
+{
+  "id": 1309817535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57768,37.55792,70.57768,37.55792",
+    "geom:latitude":37.55792,
+    "geom:longitude":70.57768,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Lishti",
+    "gn:country_code":"AF",
+    "gn:dem":2381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467518,
+    "gn:latitude":37.55792,
+    "gn:longitude":70.57768,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lisht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le\u0161ti",
+        "\u0644\u0634\u062a\u06cc",
+        "Lesht\u012b",
+        "Lisht\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467518
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"094c71116285b756692f37b98a98ca2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1309817535,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1309817535,
+    "wof:lastmodified":1537583483,
+    "wof:name":"Lishti",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57768,
+    37.55792,
+    70.57768,
+    37.55792
+],
+  "geometry": {"coordinates":[70.57768,37.55792],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1192972283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07152,34.84597,71.07152,34.84597",
+    "geom:latitude":34.84597,
+    "geom:longitude":71.07152,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1011.0",
+    "gn:asciiname":"Kherich",
+    "gn:country_code":"AF",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451908,
+    "gn:latitude":34.84597,
+    "gn:longitude":71.07152,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kherich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0686"
+    ],
+    "name:und_x_variant":[
+        "Kh\u011bri\u010d",
+        "Kh\u00ea\u1e5f\u012bch",
+        "\u062e\u0693\u06cc\u0686",
+        "Kherich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108562305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451908
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9ef76f982ea01cbd885535a03660095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562305,
+            "locality_id":1192972283,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1192972283,
+    "wof:lastmodified":1537583079,
+    "wof:name":"Kherich",
+    "wof:parent_id":1108562305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07151999999998,
+    34.84597,
+    71.07151999999998,
+    34.84597
+],
+  "geometry": {"coordinates":[71.07151999999998,34.84597],"type":"Point"}
+}

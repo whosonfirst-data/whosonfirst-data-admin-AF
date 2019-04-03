@@ -1,0 +1,75 @@
+{
+  "id": 1360182185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78239,32.7895,67.78239,32.7895",
+    "geom:latitude":32.7895,
+    "geom:longitude":67.78239,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Badur Chambar",
+    "gn:country_code":"AF",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435734,
+    "gn:latitude":32.7895,
+    "gn:longitude":67.78239,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101dur Chambar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badurchambar",
+        "B\u0101dur \u010cambar",
+        "B\u0101d\u016br Chanbar",
+        "B\u0101dur Chambar",
+        "\u0628\u0627\u062f\u0631 \u0686\u0645\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435734
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"60bdba8cb952b140bee92cf839969dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1360182185,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1360182185,
+    "wof:lastmodified":1537582782,
+    "wof:name":"Badur Chambar",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78239,
+    32.7895,
+    67.78239,
+    32.7895
+],
+  "geometry": {"coordinates":[67.78239000000001,32.7895],"type":"Point"}
+}

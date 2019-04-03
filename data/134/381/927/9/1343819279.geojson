@@ -1,0 +1,72 @@
+{
+  "id": 1343819279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05047,32.01303,67.05047,32.01303",
+    "geom:latitude":32.01303,
+    "geom:longitude":67.05047,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Khunay",
+    "gn:country_code":"AF",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1439272,
+    "gn:latitude":32.01303,
+    "gn:longitude":67.05047,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u016bnay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u016bnay",
+        "\u062e\u0648\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1439272
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"601f20ab94afd9590ce32d8e05848167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1343819279,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1343819279,
+    "wof:lastmodified":1537582926,
+    "wof:name":"Khunay",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05046999999999,
+    32.01303,
+    67.05046999999999,
+    32.01303
+],
+  "geometry": {"coordinates":[67.05046999999999,32.01303],"type":"Point"}
+}

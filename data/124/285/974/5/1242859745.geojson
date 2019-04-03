@@ -1,0 +1,77 @@
+{
+  "id": 1242859745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.96116,33.51195,67.96116,33.51195",
+    "geom:latitude":33.51195,
+    "geom:longitude":67.96116,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"602",
+    "gn:asciiname":"Mamah",
+    "gn:country_code":"AF",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134084,
+    "gn:latitude":33.51195,
+    "gn:longitude":67.96116,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043c\u0430"
+    ],
+    "name:und_x_variant":[
+        "M\u0101ma",
+        "Mama",
+        "M\u0101mah",
+        "\u0645\u0627\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"754b07538531a33054a4e0fb46e8230a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561839,
+            "locality_id":1242859745,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242859745,
+    "wof:lastmodified":1537581145,
+    "wof:name":"Mamah",
+    "wof:parent_id":1108561839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.96115999999999,
+    33.51195,
+    67.96115999999999,
+    33.51195
+],
+  "geometry": {"coordinates":[67.96115999999999,33.51195],"type":"Point"}
+}

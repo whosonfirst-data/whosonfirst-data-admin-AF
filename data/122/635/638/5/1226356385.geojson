@@ -1,0 +1,75 @@
+{
+  "id": 1226356385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53232,37.05459,70.53232,37.05459",
+    "geom:latitude":37.05459,
+    "geom:longitude":70.53232,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1115",
+    "gn:asciiname":"Qarah Mughul",
+    "gn:country_code":"AF",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129656,
+    "gn:latitude":37.05459,
+    "gn:longitude":70.53232,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qarah Mughul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u1e5fa Mughul",
+        "\u0642\u0631\u0647 \u0645\u063a\u0644",
+        "Qareh Moghol",
+        "Qarah Moghul",
+        "Qarah Mughul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108561821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129656
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"39e2e3a799c6ba3a456d34a504de88d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561821,
+            "locality_id":1226356385,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226356385,
+    "wof:lastmodified":1537580749,
+    "wof:name":"Qarah Mughul",
+    "wof:parent_id":1108561821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53232,
+    37.05459000000001,
+    70.53232,
+    37.05459000000001
+],
+  "geometry": {"coordinates":[70.53232,37.05459000000001],"type":"Point"}
+}

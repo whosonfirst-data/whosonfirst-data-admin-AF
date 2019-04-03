@@ -1,0 +1,75 @@
+{
+  "id": 1343657683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.82514,32.29722,64.82514,32.29722",
+    "geom:latitude":32.29722,
+    "geom:longitude":64.82514,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2304.0",
+    "gn:asciiname":"Karez Qeran",
+    "gn:country_code":"AF",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473030,
+    "gn:latitude":32.29722,
+    "gn:longitude":64.82514,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z Q\u0113r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101\u1e5f\u0113z Q\u0113\u1e5f\u0101n",
+        "Karezkeran",
+        "K\u0101r\u0113z Q\u0113r\u0101n",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u0642\u06d0\u0631\u0627\u0646",
+        "K\u0101r\u012bz Q\u0113\u1e5f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473030
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"22a1fd1296c7a42459f72f76eef561eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562291,
+            "locality_id":1343657683,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1343657683,
+    "wof:lastmodified":1537583731,
+    "wof:name":"Karez Qeran",
+    "wof:parent_id":1108562291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.82514,
+    32.29722,
+    64.82514,
+    32.29722
+],
+  "geometry": {"coordinates":[64.82514,32.29722],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276326313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.589,31.82317,61.589,31.82317",
+    "geom:latitude":31.82317,
+    "geom:longitude":61.589,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2109",
+    "gn:asciiname":"Parkhah-ye Bala",
+    "gn:country_code":"AF",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131085,
+    "gn:latitude":31.82317,
+    "gn:longitude":61.589,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101rkhah-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101rkhah-ye B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0631\u062e\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "P\u0101rkha-i-B\u0101la",
+        "P\u0101rkheh-ye B\u0101l\u0101",
+        "\u067e\u0627\u0631\u062e\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131085
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"040a3e1959569eaa645e1d3b7a75a833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562233,
+            "locality_id":1276326313,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1276326313,
+    "wof:lastmodified":1537580894,
+    "wof:name":"Parkhah-ye Bala",
+    "wof:parent_id":1108562233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.589,
+    31.82317,
+    61.589,
+    31.82317
+],
+  "geometry": {"coordinates":[61.589,31.82317],"type":"Point"}
+}

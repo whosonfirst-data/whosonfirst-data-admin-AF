@@ -1,0 +1,76 @@
+{
+  "id": 1327124989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79,33.03,67.79,33.03",
+    "geom:latitude":33.03,
+    "geom:longitude":67.79,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"608",
+    "gn:asciiname":"Naurozi",
+    "gn:country_code":"AF",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131662,
+    "gn:latitude":33.03,
+    "gn:longitude":67.79,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Naurozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u0440\u043e\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "Naw\u1e5f\u014dzi",
+        "Naurozi",
+        "Nowr\u016bz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131662
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"afd8d2db87e07039011211403dc80f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1327124989,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1327124989,
+    "wof:lastmodified":1537580939,
+    "wof:name":"Naurozi",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79,
+    33.03,
+    67.79,
+    33.03
+],
+  "geometry": {"coordinates":[67.79000000000001,33.03],"type":"Point"}
+}

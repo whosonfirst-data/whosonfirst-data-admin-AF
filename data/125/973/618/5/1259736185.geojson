@@ -1,0 +1,75 @@
+{
+  "id": 1259736185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69365,33.90692,69.69365,33.90692",
+    "geom:latitude":33.90692,
+    "geom:longitude":69.69365,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"711",
+    "gn:asciiname":"Khermanah",
+    "gn:country_code":"AF",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1136711,
+    "gn:latitude":33.90692,
+    "gn:longitude":69.69365,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u00earmanah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khermana",
+        "Khe\u1e5fmana",
+        "Khermanah",
+        "Kh\u00earmanah",
+        "\u062e\u0631\u0645\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108561789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1136711
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"596c7f44fc97fc1a819f65ca360ffe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561789,
+            "locality_id":1259736185,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1259736185,
+    "wof:lastmodified":1537581363,
+    "wof:name":"Khermanah",
+    "wof:parent_id":1108561789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69365,
+    33.90692,
+    69.69365,
+    33.90692
+],
+  "geometry": {"coordinates":[69.69365000000001,33.90692],"type":"Point"}
+}

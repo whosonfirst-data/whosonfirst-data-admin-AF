@@ -1,0 +1,71 @@
+{
+  "id": 1276814591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06227,35.92648,67.06227,35.92648",
+    "geom:latitude":35.92648,
+    "geom:longitude":67.06227,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Halkak",
+    "gn:country_code":"AF",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140276,
+    "gn:latitude":35.92648,
+    "gn:longitude":67.06227,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Halkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0647\u0644\u06a9\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140276
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2b7096fad5b3d11977effcd15838a1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1276814591,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1276814591,
+    "wof:lastmodified":1537581646,
+    "wof:name":"Halkak",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06227,
+    35.92648,
+    67.06227,
+    35.92648
+],
+  "geometry": {"coordinates":[67.06227,35.92648],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242808187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.19195,32.68563,66.19195,32.68563",
+    "geom:latitude":32.68563,
+    "geom:longitude":66.19195,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"2602",
+    "gn:asciiname":"Shpeligh",
+    "gn:country_code":"AF",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124890,
+    "gn:latitude":32.68563,
+    "gn:longitude":66.19195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shp\u0113ligh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u067e\u064a\u0644\u063a"
+    ],
+    "name:und_x_variant":[
+        "Shpelig",
+        "\u0160p\u0113legh",
+        "Shp\u0113ligh",
+        "\u0634\u067e\u06d0\u0644\u063a",
+        "Shp\u0113legh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667541,
+        1108561919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124890
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2c35ed9e5ba0e519785a3baa825aa7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561919,
+            "locality_id":1242808187,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":1242808187,
+    "wof:lastmodified":1537580336,
+    "wof:name":"Shpeligh",
+    "wof:parent_id":1108561919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.19195,
+    32.68563,
+    66.19195,
+    32.68563
+],
+  "geometry": {"coordinates":[66.19195000000001,32.68563],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209409237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.88863,36.41649,64.88863,36.41649",
+    "geom:latitude":36.41649,
+    "geom:longitude":64.88863,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1809",
+    "gn:asciiname":"Quzi Bay Qal'ah",
+    "gn:country_code":"AF",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128806,
+    "gn:latitude":36.41649,
+    "gn:longitude":64.88863,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Quz\u012b B\u0101y Qal\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qozi Bai Qala",
+        "Quz\u012b B\u0101y Qal\u2018ah",
+        "\u0642\u0632\u06cc \u0628\u0627\u06cc \u0642\u0644\u0639\u0647",
+        "Qozi Bai Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128806
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"44e7cb45b09e4c9693400e429587786e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209409237
+        }
+    ],
+    "wof:id":1209409237,
+    "wof:lastmodified":1537580654,
+    "wof:name":"Quzi Bay Qal'ah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.88863,
+    36.41649,
+    64.88863,
+    36.41649
+],
+  "geometry": {"coordinates":[64.88863000000001,36.41649],"type":"Point"}
+}

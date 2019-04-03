@@ -1,0 +1,79 @@
+{
+  "id": 1310290399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40205,33.68847,68.40205,33.68847",
+    "geom:latitude":33.68847,
+    "geom:longitude":68.40205,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"603",
+    "gn:asciiname":"Tormay",
+    "gn:country_code":"AF",
+    "gn:dem":2296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1122068,
+    "gn:latitude":33.68847,
+    "gn:longitude":68.40205,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"T\u014drmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "T\u014d\u1e5fmay",
+        "Tormay",
+        "T\u014drmay",
+        "T\u016brmay",
+        "Qal\u2019ah-ye T\u014drmay",
+        "\u0642\u0644\u0639\u0647 \u062a\u0648\u0631\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122068
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"63ef4f47a6c9920d1ce8f5d81c9f9a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562195,
+            "locality_id":1310290399,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310290399,
+    "wof:lastmodified":1537580084,
+    "wof:name":"Tormay",
+    "wof:parent_id":1108562195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40205,
+    33.68847,
+    68.40205,
+    33.68847
+],
+  "geometry": {"coordinates":[68.40205,33.68847],"type":"Point"}
+}

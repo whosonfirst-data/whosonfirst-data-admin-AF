@@ -1,0 +1,70 @@
+{
+  "id": 1209671623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.38944,31.59178,66.38944,31.59178",
+    "geom:latitude":31.59178,
+    "geom:longitude":66.38944,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412",
+    "gn:asciiname":"Loy Deh",
+    "gn:country_code":"AF",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134522,
+    "gn:latitude":31.59178,
+    "gn:longitude":66.38944,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014dy Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lowy Deh",
+        "L\u014dy \u1e0eeh",
+        "Loy-Dekh",
+        "L\u014dy Deh",
+        "\u0644\u0648\u06cc \u062f\u0647",
+        "L\u016by Deh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f01d3d10943f0ffb8a8b2984ca4bfe0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209671623
+        }
+    ],
+    "wof:id":1209671623,
+    "wof:lastmodified":1537581182,
+    "wof:name":"Loy Deh",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.38944000000001,
+    31.59178,
+    66.38944000000001,
+    31.59178
+],
+  "geometry": {"coordinates":[66.38944000000001,31.59178],"type":"Point"}
+}

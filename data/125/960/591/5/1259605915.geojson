@@ -1,0 +1,78 @@
+{
+  "id": 1259605915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06757,34.67933,67.06757,34.67933",
+    "geom:latitude":34.67933,
+    "geom:longitude":67.06757,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Nishar",
+    "gn:country_code":"AF",
+    "gn:dem":2799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1471520,
+    "gn:latitude":34.67933,
+    "gn:longitude":67.06757,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nishar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0634\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0448\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Ne\u0161ar",
+        "Neshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1471520
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e21e5ee545ce00b9c29d0d681eea440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1259605915,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259605915,
+    "wof:lastmodified":1537583651,
+    "wof:name":"Nishar",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06756999999999,
+    34.67933,
+    67.06756999999999,
+    34.67933
+],
+  "geometry": {"coordinates":[67.06756999999999,34.67933],"type":"Point"}
+}

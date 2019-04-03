@@ -1,0 +1,71 @@
+{
+  "id": 1243065203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.97693,32.99306,63.97693,32.99306",
+    "geom:latitude":32.99306,
+    "geom:longitude":63.97693,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Nasar",
+    "gn:country_code":"AF",
+    "gn:dem":2210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1132268,
+    "gn:latitude":32.99306,
+    "gn:longitude":63.97693,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nasar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u0646\u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132268
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09e2f607979c20b934581418a12e214b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1243065203,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1243065203,
+    "wof:lastmodified":1537580997,
+    "wof:name":"Nasar",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.97693,
+    32.99306,
+    63.97693,
+    32.99306
+],
+  "geometry": {"coordinates":[63.97693,32.99306],"type":"Point"}
+}

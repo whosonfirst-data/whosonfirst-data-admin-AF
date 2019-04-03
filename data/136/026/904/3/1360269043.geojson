@@ -1,0 +1,73 @@
+{
+  "id": 1360269043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.12414,30.81137,64.12414,30.81137",
+    "geom:latitude":30.81137,
+    "geom:longitude":64.12414,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2311",
+    "gn:asciiname":"Yasinzai Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121225,
+    "gn:latitude":30.81137,
+    "gn:longitude":64.12414,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Y\u0101s\u012bnza\u012b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101s\u012bnza\u012b K\u00ealay",
+        "\u06cc\u0627\u0633\u06cc\u0646\u0632\u06cc \u06a9\u0644\u06cc",
+        "Y\u0101s\u012bnz\u0101\u2019\u012b Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        1108562019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121225
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"acd3885b68af285d9e9853b89f74102f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562019,
+            "locality_id":1360269043,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1360269043,
+    "wof:lastmodified":1537580030,
+    "wof:name":"Yasinzai Kelay",
+    "wof:parent_id":1108562019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.12414,
+    30.81137,
+    64.12414,
+    30.81137
+],
+  "geometry": {"coordinates":[64.12414,30.81137],"type":"Point"}
+}

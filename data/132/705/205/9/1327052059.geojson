@@ -1,0 +1,74 @@
+{
+  "id": 1327052059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.58325,32.69234,63.58325,32.69234",
+    "geom:latitude":32.69234,
+    "geom:longitude":63.58325,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Sayyid Dawud",
+    "gn:country_code":"AF",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1126226,
+    "gn:latitude":32.69234,
+    "gn:longitude":63.58325,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sayyid D\u0101w\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sayed \u1e0e\u0101\u2019\u016b\u1e0f",
+        "Seyyed D\u0101\u2019owd",
+        "Sayyid D\u0101w\u016bd",
+        "\u0633\u06cc\u062f \u062f\u0627\u0648\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126226
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"911448d2ca376f010c25e9f88d38f3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562047,
+            "locality_id":1327052059,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1327052059,
+    "wof:lastmodified":1537580454,
+    "wof:name":"Sayyid Dawud",
+    "wof:parent_id":1108562047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.58325,
+    32.69234,
+    63.58325,
+    32.69234
+],
+  "geometry": {"coordinates":[63.58325,32.69234],"type":"Point"}
+}

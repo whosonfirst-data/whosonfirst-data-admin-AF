@@ -1,0 +1,68 @@
+{
+  "id": 1209448655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.99258,34.04105,65.99258,34.04105",
+    "geom:latitude":34.04105,
+    "geom:longitude":65.99258,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405",
+    "gn:asciiname":"Sar-e Lisak",
+    "gn:country_code":"AF",
+    "gn:dem":2722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127143,
+    "gn:latitude":34.04105,
+    "gn:longitude":65.99258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar-e Lisak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari-Lisak",
+        "Sar-e Lisak",
+        "\u0633\u0631 \u0644\u0633\u06a9",
+        "Sar-e Lesak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127143
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0234cd9b648ba7394c432dd300222428",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209448655
+        }
+    ],
+    "wof:id":1209448655,
+    "wof:lastmodified":1537580533,
+    "wof:name":"Sar-e Lisak",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.99258,
+    34.04105,
+    65.99258,
+    34.04105
+],
+  "geometry": {"coordinates":[65.99258,34.04105],"type":"Point"}
+}

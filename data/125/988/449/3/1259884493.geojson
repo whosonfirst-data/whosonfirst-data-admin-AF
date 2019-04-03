@@ -1,0 +1,74 @@
+{
+  "id": 1259884493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95735,34.39282,66.95735,34.39282",
+    "geom:latitude":34.39282,
+    "geom:longitude":66.95735,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2805",
+    "gn:asciiname":"Nowrak",
+    "gn:country_code":"AF",
+    "gn:dem":2875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1131679,
+    "gn:latitude":34.39282,
+    "gn:longitude":66.95735,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Nowrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naurak",
+        "Naw\u1e5fak",
+        "Nowrak",
+        "\u0646\u0648\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1131679
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b7125b5f396a9c0bfb9b4b769057e378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562347,
+            "locality_id":1259884493,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1259884493,
+    "wof:lastmodified":1537580941,
+    "wof:name":"Nowrak",
+    "wof:parent_id":1108562347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95735,
+    34.39282,
+    66.95735,
+    34.39282
+],
+  "geometry": {"coordinates":[66.95735000000001,34.39282],"type":"Point"}
+}

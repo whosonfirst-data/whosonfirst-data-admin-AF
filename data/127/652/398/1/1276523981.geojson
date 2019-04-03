@@ -1,0 +1,76 @@
+{
+  "id": 1276523981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26,34.13473,69.26,34.13473",
+    "geom:latitude":34.13473,
+    "geom:longitude":69.26,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"505",
+    "gn:asciiname":"Shukur",
+    "gn:country_code":"AF",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1124958,
+    "gn:latitude":34.13473,
+    "gn:longitude":69.26,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shuk\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160kor",
+        "Shk\u014dr",
+        "Shkor",
+        "Shuk\u016br",
+        "Shk\u016br",
+        "\u0634\u06a9\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667623,
+        1108562279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1124958
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d56dded8c5d5c66255b9920c35b3029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562279,
+            "locality_id":1276523981,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":1276523981,
+    "wof:lastmodified":1537580341,
+    "wof:name":"Shukur",
+    "wof:parent_id":1108562279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26,
+    34.13473,
+    69.26,
+    34.13473
+],
+  "geometry": {"coordinates":[69.26000000000001,34.13473],"type":"Point"}
+}

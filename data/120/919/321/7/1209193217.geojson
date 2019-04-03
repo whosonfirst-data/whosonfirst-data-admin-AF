@@ -1,0 +1,66 @@
+{
+  "id": 1209193217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59033,31.67344,64.59033,31.67344",
+    "geom:latitude":31.67344,
+    "geom:longitude":64.59033,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Yaklang",
+    "gn:country_code":"AF",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121320,
+    "gn:latitude":31.67344,
+    "gn:longitude":64.59033,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yaklang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u06cc\u06a9\u0644\u0646\u06af",
+        "Yaklang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121320
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e8b3a75163efbcc88796923eb0c8c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209193217
+        }
+    ],
+    "wof:id":1209193217,
+    "wof:lastmodified":1537580035,
+    "wof:name":"Yaklang",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59033000000001,
+    31.67344000000001,
+    64.59033000000001,
+    31.67344000000001
+],
+  "geometry": {"coordinates":[64.59033000000001,31.67344000000001],"type":"Point"}
+}

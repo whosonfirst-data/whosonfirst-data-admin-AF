@@ -1,0 +1,74 @@
+{
+  "id": 1344235035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.69747,34.38703,61.69747,34.38703",
+    "geom:latitude":34.38703,
+    "geom:longitude":61.69747,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2010",
+    "gn:asciiname":"Ughah",
+    "gn:country_code":"AF",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121989,
+    "gn:latitude":34.38703,
+    "gn:longitude":61.69747,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u016aghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u016agha",
+        "\u016agheh",
+        "\u016aghah",
+        "\u0627\u0648\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        421198931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121989
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11a9d11f761d27e30369bd7b8d0122cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421198931,
+            "locality_id":1344235035,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1344235035,
+    "wof:lastmodified":1537580078,
+    "wof:name":"Ughah",
+    "wof:parent_id":421198931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.69747,
+    34.38703,
+    61.69747,
+    34.38703
+],
+  "geometry": {"coordinates":[61.69747,34.38703],"type":"Point"}
+}

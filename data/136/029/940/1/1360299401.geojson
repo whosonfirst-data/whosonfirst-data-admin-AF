@@ -1,0 +1,74 @@
+{
+  "id": 1360299401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.4496,37.75567,70.4496,37.75567",
+    "geom:latitude":37.75567,
+    "geom:longitude":70.4496,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1111.0",
+    "gn:asciiname":"Zarich",
+    "gn:country_code":"AF",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467262,
+    "gn:latitude":37.75567,
+    "gn:longitude":70.4496,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zar\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Za\u1e5f\u012bc",
+        "Za\u1e5f\u012bch",
+        "Zar\u012bch",
+        "\u0632\u0631\u06cc\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467262
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a768aac7235eb79b88b579cac28767af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562181,
+            "locality_id":1360299401,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1360299401,
+    "wof:lastmodified":1537583460,
+    "wof:name":"Zarich",
+    "wof:parent_id":1108562181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.4496,
+    37.75567,
+    70.4496,
+    37.75567
+],
+  "geometry": {"coordinates":[70.4496,37.75567],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226631565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81451,32.80784,67.81451,32.80784",
+    "geom:latitude":32.80784,
+    "geom:longitude":67.81451,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"608.0",
+    "gn:asciiname":"Bayranah",
+    "gn:country_code":"AF",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146554,
+    "gn:latitude":32.80784,
+    "gn:longitude":67.81451,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayr\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0113r\u0101na",
+        "B\u0113r\u0101nah",
+        "Bayr\u0101nah",
+        "\u0628\u06cc\u0631\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146554
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"09baa81dd5d5df92cac5c0a8f6c6bf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562289,
+            "locality_id":1226631565,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1226631565,
+    "wof:lastmodified":1537582195,
+    "wof:name":"Bayranah",
+    "wof:parent_id":1108562289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81451,
+    32.80784,
+    67.81451,
+    32.80784
+],
+  "geometry": {"coordinates":[67.81451,32.80784],"type":"Point"}
+}

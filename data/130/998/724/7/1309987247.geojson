@@ -1,0 +1,73 @@
+{
+  "id": 1309987247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.9651,34.52816,62.9651,34.52816",
+    "geom:latitude":34.52816,
+    "geom:longitude":62.9651,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2005",
+    "gn:asciiname":"Kushast",
+    "gn:country_code":"AF",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135170,
+    "gn:latitude":34.52816,
+    "gn:longitude":62.9651,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016bshast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bs\u0304ast",
+        "K\u016bshast",
+        "\u06a9\u0648\u0634\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135170
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b249fce5d409c3731800b8a84524781e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562131,
+            "locality_id":1309987247,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1309987247,
+    "wof:lastmodified":1537581232,
+    "wof:name":"Kushast",
+    "wof:parent_id":1108562131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.9651,
+    34.52816,
+    62.9651,
+    34.52816
+],
+  "geometry": {"coordinates":[62.9651,34.52816],"type":"Point"}
+}

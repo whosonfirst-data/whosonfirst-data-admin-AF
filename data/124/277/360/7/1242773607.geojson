@@ -1,0 +1,76 @@
+{
+  "id": 1242773607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33466,34.50455,66.33466,34.50455",
+    "geom:latitude":34.50455,
+    "geom:longitude":66.33466,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Khosh Now",
+    "gn:country_code":"AF",
+    "gn:dem":2822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456668,
+    "gn:latitude":34.50455,
+    "gn:longitude":66.33466,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khushnau",
+        "Khu\u0161naw",
+        "Khush Now",
+        "Khvoshn\u0101w",
+        "Kh\u014dsh Now",
+        "\u062e\u0648\u0634\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456668
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c70f238d71ec4f0df14285def222bcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1242773607,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242773607,
+    "wof:lastmodified":1537583193,
+    "wof:name":"Khosh Now",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33466,
+    34.50455,
+    66.33466,
+    34.50455
+],
+  "geometry": {"coordinates":[66.33466,34.50455],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225858893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.3441,36.52947,71.3441,36.52947",
+    "geom:latitude":36.52947,
+    "geom:longitude":71.3441,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1105",
+    "gn:asciiname":"Zaybak",
+    "gn:country_code":"AF",
+    "gn:dem":2616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1120616,
+    "gn:latitude":36.52947,
+    "gn:longitude":71.3441,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zayb\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "Z\u012bb\u0101k"
+    ],
+    "name:und_x_variant":[
+        "Z\u012bb\u0101k",
+        "Zeyb\u0101k",
+        "Z\u0113b\u0101k",
+        "Zayb\u0101k",
+        "\u0632\u06cc\u0628\u0627\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120616
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0b2d69ecb56866cefa67b2bd6193dd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562611,
+            "locality_id":1225858893,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1225858893,
+    "wof:lastmodified":1537579956,
+    "wof:name":"Zaybak",
+    "wof:parent_id":1108562611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.3441,
+    36.52947,
+    71.3441,
+    36.52947
+],
+  "geometry": {"coordinates":[71.3441,36.52947],"type":"Point"}
+}

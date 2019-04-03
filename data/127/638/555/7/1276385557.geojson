@@ -1,0 +1,73 @@
+{
+  "id": 1276385557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62762,31.77145,67.62762,31.77145",
+    "geom:latitude":31.77145,
+    "geom:longitude":67.62762,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2509",
+    "gn:asciiname":"Lakarai",
+    "gn:country_code":"AF",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134996,
+    "gn:latitude":31.77145,
+    "gn:longitude":67.62762,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Laka\u1e5fa\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laka\u1e5fa\u012b",
+        "Lakaray",
+        "\u0644\u06a9\u0693\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134996
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f4ecd2873457bd603c7b8634ca31f55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562471,
+            "locality_id":1276385557,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276385557,
+    "wof:lastmodified":1537581217,
+    "wof:name":"Lakarai",
+    "wof:parent_id":1108562471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62762,
+    31.77145,
+    67.62762,
+    31.77145
+],
+  "geometry": {"coordinates":[67.62761999999999,31.77145],"type":"Point"}
+}

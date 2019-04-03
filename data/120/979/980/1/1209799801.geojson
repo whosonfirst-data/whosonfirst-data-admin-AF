@@ -1,0 +1,73 @@
+{
+  "id": 1209799801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.1341,34.65932,65.1341,34.65932",
+    "geom:latitude":34.65932,
+    "geom:longitude":65.1341,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2701.0",
+    "gn:asciiname":"Bandar Ghunak",
+    "gn:country_code":"AF",
+    "gn:dem":2659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147210,
+    "gn:latitude":34.65932,
+    "gn:longitude":65.1341,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bandar Gh\u016bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandar Gh\u016bnak",
+        "\u0628\u0646\u062f\u0631\u063a\u0648\u0646\u06a9",
+        "Ban\u1e0fa\u1e5fgh\u016bnak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147210
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e561b52acac6ee7be82c442e8059b9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561877,
+            "locality_id":1209799801,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1209799801,
+    "wof:lastmodified":1537582247,
+    "wof:name":"Bandar Ghunak",
+    "wof:parent_id":1108561877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.1341,
+    34.65932,
+    65.1341,
+    34.65932
+],
+  "geometry": {"coordinates":[65.1341,34.65932],"type":"Point"}
+}

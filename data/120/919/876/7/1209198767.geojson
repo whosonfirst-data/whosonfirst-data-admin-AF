@@ -1,0 +1,68 @@
+{
+  "id": 1209198767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.27621,33.96114,65.27621,33.96114",
+    "geom:latitude":33.96114,
+    "geom:longitude":65.27621,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2710",
+    "gn:asciiname":"Shibar",
+    "gn:country_code":"AF",
+    "gn:dem":2847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1125455,
+    "gn:latitude":33.96114,
+    "gn:longitude":65.27621,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shibar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "\u1e62ebar",
+        "Shibar",
+        "\u0634\u0628\u0631",
+        "Shebar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125455
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9e5dda95a4e11f131873a98d522b29c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209198767
+        }
+    ],
+    "wof:id":1209198767,
+    "wof:lastmodified":1537580390,
+    "wof:name":"Shibar",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.27620999999999,
+    33.96114,
+    65.27620999999999,
+    33.96114
+],
+  "geometry": {"coordinates":[65.27620999999999,33.96114],"type":"Point"}
+}

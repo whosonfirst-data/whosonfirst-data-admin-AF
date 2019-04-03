@@ -1,0 +1,84 @@
+{
+  "id": 1310190565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99667,33.71942,67.99667,33.71942",
+    "geom:latitude":33.71942,
+    "geom:longitude":67.99667,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"604",
+    "gn:asciiname":"Qashkhal Beg",
+    "gn:country_code":"AF",
+    "gn:dem":3326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129225,
+    "gn:latitude":33.71942,
+    "gn:longitude":67.99667,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Q\u0101shkh\u0101l B\u0113g",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0634\u062e\u0627\u0644 \u0628\u064a\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0627\u0634 \u062e\u0627\u0644 \u0628\u064a\u06af"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0445\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kashkhal\u2019bek",
+        "Q\u0101\u0161kh\u0101lb\u0113g",
+        "Q\u0101shkh\u0101lbeyg",
+        "Q\u0101shkh\u0101l B\u0113g",
+        "\u0642\u0627\u0634\u062e\u0627\u0644 \u0628\u06d0\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129225
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e467749ec2bf7c142f74f3f3b1daff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1310190565,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310190565,
+    "wof:lastmodified":1537580695,
+    "wof:name":"Qashkhal Beg",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99667,
+    33.71942,
+    67.99667,
+    33.71942
+],
+  "geometry": {"coordinates":[67.99666999999999,33.71942],"type":"Point"}
+}

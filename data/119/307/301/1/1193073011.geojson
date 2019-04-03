@@ -1,0 +1,77 @@
+{
+  "id": 1193073011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.73682,34.99871,70.73682,34.99871",
+    "geom:latitude":34.99871,
+    "geom:longitude":70.73682,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"1009.0",
+    "gn:asciiname":"Murchal",
+    "gn:country_code":"AF",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474035,
+    "gn:latitude":34.99871,
+    "gn:longitude":70.73682,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u016brchal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Murchal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Mur\u010dal",
+        "M\u016b\u1e5fchal",
+        "M\u016brchal",
+        "\u0645\u0648\u0631\u0686\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667581,
+        1108561903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474035
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"afc5165ca2f2fad433f2bcd616eabd82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561903,
+            "locality_id":1193073011,
+            "region_id":85667581
+        }
+    ],
+    "wof:id":1193073011,
+    "wof:lastmodified":1537583777,
+    "wof:name":"Murchal",
+    "wof:parent_id":1108561903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.73682,
+    34.99871,
+    70.73682,
+    34.99871
+],
+  "geometry": {"coordinates":[70.73681999999999,34.99871],"type":"Point"}
+}

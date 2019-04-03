@@ -1,0 +1,77 @@
+{
+  "id": 1326715725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78262,32.68724,67.78262,32.68724",
+    "geom:latitude":32.68724,
+    "geom:longitude":67.78262,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"609.0",
+    "gn:asciiname":"Shimulzi",
+    "gn:country_code":"AF",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435757,
+    "gn:latitude":32.68724,
+    "gn:longitude":67.78262,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shimulz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shimul\u2019zi"
+    ],
+    "name:und_x_variant":[
+        "\u0160emulzi",
+        "Shemolz\u012b",
+        "Shimulz\u012b",
+        "\u0634\u0645\u0644 \u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435757
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f1259b0386f26463084b0f1e748fd448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562023,
+            "locality_id":1326715725,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1326715725,
+    "wof:lastmodified":1537582784,
+    "wof:name":"Shimulzi",
+    "wof:parent_id":1108562023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78262,
+    32.68724,
+    67.78262,
+    32.68724
+],
+  "geometry": {"coordinates":[67.78261999999999,32.68724],"type":"Point"}
+}

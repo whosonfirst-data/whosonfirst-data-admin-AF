@@ -1,0 +1,74 @@
+{
+  "id": 1293677107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.85453,34.80858,61.85453,34.80858",
+    "geom:latitude":34.80858,
+    "geom:longitude":61.85453,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2007",
+    "gn:asciiname":"Shakar Ab",
+    "gn:country_code":"AF",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125808,
+    "gn:latitude":34.80858,
+    "gn:longitude":61.85453,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shakar \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0304aka\u1e5f\u0101b",
+        "Shakar \u0100b",
+        "\u0634\u06a9\u0631 \u0622\u0628",
+        "Shekar\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108562051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125808
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"386e8f4d644578bb8c6f78a04f189347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562051,
+            "locality_id":1293677107,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1293677107,
+    "wof:lastmodified":1537580418,
+    "wof:name":"Shakar Ab",
+    "wof:parent_id":1108562051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.85453,
+    34.80858,
+    61.85453,
+    34.80858
+],
+  "geometry": {"coordinates":[61.85453,34.80858],"type":"Point"}
+}

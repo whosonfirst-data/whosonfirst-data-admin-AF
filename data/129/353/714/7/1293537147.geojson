@@ -1,0 +1,75 @@
+{
+  "id": 1293537147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47999,34.07151,68.47999,34.07151",
+    "geom:latitude":34.07151,
+    "geom:longitude":68.47999,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"406",
+    "gn:asciiname":"Ginigar",
+    "gn:country_code":"AF",
+    "gn:dem":2358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140904,
+    "gn:latitude":34.07151,
+    "gn:longitude":68.47999,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ginigar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gun\u012bgar",
+        "Ginigar",
+        "Gen\u012bgar",
+        "G\u012bn\u012bgar",
+        "\u06af\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108561897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140904
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"696f82bca151bed4613334e5a12abdab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561897,
+            "locality_id":1293537147,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293537147,
+    "wof:lastmodified":1537581704,
+    "wof:name":"Ginigar",
+    "wof:parent_id":1108561897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47999,
+    34.07151,
+    68.47999,
+    34.07151
+],
+  "geometry": {"coordinates":[68.47999,34.07151],"type":"Point"}
+}

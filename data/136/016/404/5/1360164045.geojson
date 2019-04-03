@@ -1,0 +1,79 @@
+{
+  "id": 1360164045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86348,34.74946,69.86348,34.74946",
+    "geom:latitude":34.74946,
+    "geom:longitude":69.86348,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112.0",
+    "gn:asciiname":"Lewaniyan",
+    "gn:country_code":"AF",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472761,
+    "gn:latitude":34.74946,
+    "gn:longitude":69.86348,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0113waniy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u064a\u0648\u0627\u0646\u064a\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "Levan\u2019yan"
+    ],
+    "name:und_x_variant":[
+        "L\u0113wany\u0101n",
+        "L\u0113waniy\u0101n",
+        "\u0644\u06d0\u0648\u0646\u06cc\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472761
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7a29db020d568d808679db7f80142a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1360164045,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1360164045,
+    "wof:lastmodified":1537583713,
+    "wof:name":"Lewaniyan",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86348000000001,
+    34.74946,
+    69.86348000000001,
+    34.74946
+],
+  "geometry": {"coordinates":[69.86348000000001,34.74946],"type":"Point"}
+}

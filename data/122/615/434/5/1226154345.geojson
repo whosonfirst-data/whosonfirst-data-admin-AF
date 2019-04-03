@@ -1,0 +1,82 @@
+{
+  "id": 1226154345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97,36.04,68.97,36.04",
+    "geom:latitude":36.04,
+    "geom:longitude":68.97,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"1309.0",
+    "gn:asciiname":"Baraki",
+    "gn:country_code":"AF",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147035,
+    "gn:latitude":36.04,
+    "gn:longitude":68.97,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Baraki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0430\u0434\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0440\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kukadi",
+        "Barag\u012b",
+        "K\u016bka\u1e0fi",
+        "Baraq\u012b",
+        "Baraki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147035,
+        "wk:page":"Baraqi"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"eee002f248a9980a0b59f4f946d9f9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1226154345,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1226154345,
+    "wof:lastmodified":1537582233,
+    "wof:name":"Baraki",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97,
+    36.04,
+    68.97,
+    36.04
+],
+  "geometry": {"coordinates":[68.97,36.04],"type":"Point"}
+}

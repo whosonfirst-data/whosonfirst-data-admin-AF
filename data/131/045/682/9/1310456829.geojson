@@ -1,0 +1,79 @@
+{
+  "id": 1310456829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.55531,36.8583,69.55531,36.8583",
+    "geom:latitude":36.8583,
+    "geom:longitude":69.55531,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1215",
+    "gn:asciiname":"Hazarah Chiwah",
+    "gn:country_code":"AF",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140132,
+    "gn:latitude":36.8583,
+    "gn:longitude":69.55531,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Haz\u0101rah Ch\u012bwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0437\u0430\u0440\u0430\u0447\u0438\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Haz\u0101ra \u010c\u012bwa",
+        "Haz\u0101ra Ch\u012bwa",
+        "Khazarachiva",
+        "Hez\u0101reh Ch\u012bwah",
+        "Haz\u0101rah Ch\u012bwah",
+        "\u0647\u0632\u0627\u0631\u0647 \u0686\u06cc\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140132
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a380dccab3019ffdbf2beb5e140c5055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562061,
+            "locality_id":1310456829,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1310456829,
+    "wof:lastmodified":1537581633,
+    "wof:name":"Hazarah Chiwah",
+    "wof:parent_id":1108562061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.55530999999999,
+    36.8583,
+    69.55530999999999,
+    36.8583
+],
+  "geometry": {"coordinates":[69.55530999999999,36.8583],"type":"Point"}
+}

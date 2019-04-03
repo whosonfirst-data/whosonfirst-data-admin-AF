@@ -1,0 +1,72 @@
+{
+  "id": 1343616357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.39369,36.40093,69.39369,36.40093",
+    "geom:latitude":36.40093,
+    "geom:longitude":69.39369,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203",
+    "gn:asciiname":"Zarmukh",
+    "gn:country_code":"AF",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1120829,
+    "gn:latitude":36.40093,
+    "gn:longitude":69.39369,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Zarm\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarm\u016bkh",
+        "\u0632\u0631\u0645\u0648\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1120829
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cc1da313cf835db32127a198403dea02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1343616357,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1343616357,
+    "wof:lastmodified":1537579966,
+    "wof:name":"Zarmukh",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.39369,
+    36.40093,
+    69.39369,
+    36.40093
+],
+  "geometry": {"coordinates":[69.39369000000001,36.40093],"type":"Point"}
+}

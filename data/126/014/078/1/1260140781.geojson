@@ -1,0 +1,74 @@
+{
+  "id": 1260140781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.06767,36.00345,67.06767,36.00345",
+    "geom:latitude":36.00345,
+    "geom:longitude":67.06767,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1610",
+    "gn:asciiname":"Seh Darah",
+    "gn:country_code":"AF",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126512,
+    "gn:latitude":36.00345,
+    "gn:longitude":67.06767,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Seh Darah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sehdara",
+        "Seh Darreh",
+        "Seh Darah",
+        "\u0633\u0647 \u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126512
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"5d823d025218b4d6f42ab962c2ec8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562199,
+            "locality_id":1260140781,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1260140781,
+    "wof:lastmodified":1537580483,
+    "wof:name":"Seh Darah",
+    "wof:parent_id":1108562199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.06766999999999,
+    36.00345,
+    67.06766999999999,
+    36.00345
+],
+  "geometry": {"coordinates":[67.06766999999999,36.00345],"type":"Point"}
+}

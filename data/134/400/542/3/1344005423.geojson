@@ -1,0 +1,77 @@
+{
+  "id": 1344005423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33104,31.9583,67.33104,31.9583",
+    "geom:latitude":31.9583,
+    "geom:longitude":67.33104,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507.0",
+    "gn:asciiname":"Ashraf Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148243,
+    "gn:latitude":31.9583,
+    "gn:longitude":67.33104,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ashraf Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0631\u0641 \u062e\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u0161rafkh\u0113l",
+        "Ashraf Kh\u0113l",
+        "\u0627\u0634\u0631\u0641 \u062e\u06d0\u0644",
+        "Ashraf Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148243
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"404e241ff8c8276e6473551167e56d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1344005423,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1344005423,
+    "wof:lastmodified":1537582328,
+    "wof:name":"Ashraf Khel",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33104,
+    31.9583,
+    67.33104,
+    31.9583
+],
+  "geometry": {"coordinates":[67.33104,31.9583],"type":"Point"}
+}

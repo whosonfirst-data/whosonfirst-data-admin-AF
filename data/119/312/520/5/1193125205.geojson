@@ -1,0 +1,75 @@
+{
+  "id": 1193125205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.93278,33.56651,62.93278,33.56651",
+    "geom:latitude":33.56651,
+    "geom:longitude":62.93278,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Qaryah-ye Chashmah-ye Aqa",
+    "gn:country_code":"AF",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1129453,
+    "gn:latitude":33.56651,
+    "gn:longitude":62.93278,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qaryah-ye Chashmah-ye \u0100q\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qaryeh-ye Chashmeh-ye \u0100q\u0101",
+        "Qarya-i-\u010ca\u0161ma-i-\u0100q\u0101",
+        "Qaryah-ye Chashmah-ye \u0100q\u0101",
+        "\u0642\u0631\u06cc\u06c0 \u0686\u0634\u0645\u06c0 \u0622\u0642\u0627",
+        "Qaryeh-ye Cheshmeh-ye \u0100q\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129453
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2eb7f27a3834a8bf260407da787e8a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1193125205,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1193125205,
+    "wof:lastmodified":1537580726,
+    "wof:name":"Qaryah-ye Chashmah-ye Aqa",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.93278000000001,
+    33.56651,
+    62.93278000000001,
+    33.56651
+],
+  "geometry": {"coordinates":[62.93278000000001,33.56651],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1192985689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28045,36.4794,69.28045,36.4794",
+    "geom:latitude":36.4794,
+    "geom:longitude":69.28045,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1203.0",
+    "gn:asciiname":"Aq Jar",
+    "gn:country_code":"AF",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1148540,
+    "gn:latitude":36.4794,
+    "gn:longitude":69.28045,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Jar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100q Jar",
+        "\u0622\u0642 \u062c\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148540
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51e5b072b45d9bfa5f87562b763222b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562081,
+            "locality_id":1192985689,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1192985689,
+    "wof:lastmodified":1537582347,
+    "wof:name":"Aq Jar",
+    "wof:parent_id":1108562081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28045,
+    36.4794,
+    69.28045,
+    36.4794
+],
+  "geometry": {"coordinates":[69.28045,36.4794],"type":"Point"}
+}

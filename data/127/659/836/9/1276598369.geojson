@@ -1,0 +1,76 @@
+{
+  "id": 1276598369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.39822,36.0089,67.39822,36.0089",
+    "geom:latitude":36.0089,
+    "geom:longitude":67.39822,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504",
+    "gn:asciiname":"Sonjitak",
+    "gn:country_code":"AF",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126377,
+    "gn:latitude":36.0089,
+    "gn:longitude":67.39822,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u014dnj\u012btak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sonjeetak (1)",
+        "Senjitak",
+        "S\u014dnjeetak",
+        "Senjetak",
+        "S\u014dnj\u012btak",
+        "\u0633\u0648\u0646\u062c\u06cc\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126377
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"123ab3a77233cadb694b739cf50df903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1276598369,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1276598369,
+    "wof:lastmodified":1537580472,
+    "wof:name":"Sonjitak",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.39822,
+    36.0089,
+    67.39822,
+    36.0089
+],
+  "geometry": {"coordinates":[67.39821999999999,36.0089],"type":"Point"}
+}

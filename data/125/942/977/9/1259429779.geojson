@@ -1,0 +1,73 @@
+{
+  "id": 1259429779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22138,32.17385,68.22138,32.17385",
+    "geom:latitude":32.17385,
+    "geom:longitude":68.22138,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Wrabanay",
+    "gn:country_code":"AF",
+    "gn:dem":2271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121489,
+    "gn:latitude":32.17385,
+    "gn:longitude":68.22138,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Wr\u0101banay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vrabanay",
+        "\u0648\u0631\u0627\u0628\u0646\u06cc",
+        "Wr\u0101banay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121489
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"673aa0fbc6d0be5495a23debd31ed00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1259429779,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1259429779,
+    "wof:lastmodified":1537580043,
+    "wof:name":"Wrabanay",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22138000000001,
+    32.17385,
+    68.22138000000001,
+    32.17385
+],
+  "geometry": {"coordinates":[68.22138000000001,32.17385],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1326968947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09195,33.26991,70.09195,33.26991",
+    "geom:latitude":33.26991,
+    "geom:longitude":70.09195,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201",
+    "gn:asciiname":"Prekaray Khartsin",
+    "gn:country_code":"AF",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130406,
+    "gn:latitude":33.26991,
+    "gn:longitude":70.09195,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pr\u0113ka\u1e5fay Kharts\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u064a\u0643\u0631\u06cc \u062e\u0631\u0686\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "P\u1e5f\u0113karay Kha\u1e5fc\u012bn",
+        "Prekaraykharkin",
+        "Pr\u0113ka\u1e5fay Kharts\u012bn",
+        "\u067e\u0631\u06d0\u06a9\u0693\u06cc \u062e\u0631\u0685\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130406
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b4be97385ea0a0cf89ac1d4c775ff529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1326968947,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1326968947,
+    "wof:lastmodified":1537580834,
+    "wof:name":"Prekaray Khartsin",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09195,
+    33.26991,
+    70.09195,
+    33.26991
+],
+  "geometry": {"coordinates":[70.09195,33.26991],"type":"Point"}
+}

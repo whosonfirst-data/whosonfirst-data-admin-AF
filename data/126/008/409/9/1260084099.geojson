@@ -1,0 +1,72 @@
+{
+  "id": 1260084099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68922,38.41441,70.68922,38.41441",
+    "geom:latitude":38.41441,
+    "geom:longitude":70.68922,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1121.0",
+    "gn:asciiname":"Narghow",
+    "gn:country_code":"AF",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465884,
+    "gn:latitude":38.41441,
+    "gn:longitude":70.68922,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Narghow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0646\u0631\u063a\u0648",
+        "Narghaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465884
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"51de70aa509286b32a53493526d076be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562467,
+            "locality_id":1260084099,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1260084099,
+    "wof:lastmodified":1537583409,
+    "wof:name":"Narghow",
+    "wof:parent_id":1108562467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68921999999998,
+    38.41441,
+    70.68921999999998,
+    38.41441
+],
+  "geometry": {"coordinates":[70.68921999999998,38.41441],"type":"Point"}
+}

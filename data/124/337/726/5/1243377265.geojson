@@ -1,0 +1,73 @@
+{
+  "id": 1243377265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09457,36.92755,70.09457,36.92755",
+    "geom:latitude":36.92755,
+    "geom:longitude":70.09457,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Samar Qandi",
+    "gn:country_code":"AF",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467695,
+    "gn:latitude":36.92755,
+    "gn:longitude":70.09457,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Samar Qand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samar Qand\u012b",
+        "\u0633\u0645\u0631 \u0642\u0646\u062f\u06cc",
+        "S\u0304amar Qand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467695
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"927dc00c07cc602eebe862000b252e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562197,
+            "locality_id":1243377265,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1243377265,
+    "wof:lastmodified":1537583500,
+    "wof:name":"Samar Qandi",
+    "wof:parent_id":1108562197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09456999999999,
+    36.92755,
+    70.09456999999999,
+    36.92755
+],
+  "geometry": {"coordinates":[70.09456999999999,36.92755],"type":"Point"}
+}

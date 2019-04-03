@@ -1,0 +1,75 @@
+{
+  "id": 1309936103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.25747,34.30691,66.25747,34.30691",
+    "geom:latitude":34.30691,
+    "geom:longitude":66.25747,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3408.0",
+    "gn:asciiname":"Bayd-e Naw-e Sufla",
+    "gn:country_code":"AF",
+    "gn:dem":2618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146451,
+    "gn:latitude":34.30691,
+    "gn:longitude":66.25747,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayd-e N\u0101w-e Sufl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedi-Nave-Sufla",
+        "B\u0113\u1e0fe Naw\u0113 Sulfl\u0101",
+        "Bayd-e N\u0101w-e Sufl\u00e1",
+        "B\u012bd-e Now-e Sofl\u00e1",
+        "\u0628\u064a\u062f \u0646\u0627\u0648 \u0633\u0641\u0644\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146451
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2a771f676fbff4a621527ec9427b7e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":1309936103,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1309936103,
+    "wof:lastmodified":1537582185,
+    "wof:name":"Bayd-e Naw-e Sufla",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.25747,
+    34.30690999999999,
+    66.25747,
+    34.30690999999999
+],
+  "geometry": {"coordinates":[66.25747,34.30690999999999],"type":"Point"}
+}

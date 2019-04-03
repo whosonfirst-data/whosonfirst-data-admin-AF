@@ -1,0 +1,79 @@
+{
+  "id": 1344196329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47026,33.2928,69.47026,33.2928",
+    "geom:latitude":33.2928,
+    "geom:longitude":69.47026,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3213",
+    "gn:asciiname":"Ster Kats",
+    "gn:country_code":"AF",
+    "gn:dem":2123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123770,
+    "gn:latitude":33.2928,
+    "gn:longitude":69.47026,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"St\u00ear Kats",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631 \u0643\u0686"
+    ],
+    "name:und_x_variant":[
+        "Sta\u1e5f Kac",
+        "Starkak",
+        "Sta\u1e5f Kats",
+        "\u0633\u062a\u0631 \u0643\u0686",
+        "St\u00ear Kats",
+        "\u0633\u062a\u0631 \u06a9\u0685"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123770
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"02eb88d3536e28729d37538714300bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562469,
+            "locality_id":1344196329,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1344196329,
+    "wof:lastmodified":1537580250,
+    "wof:name":"Ster Kats",
+    "wof:parent_id":1108562469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47026,
+    33.2928,
+    69.47026,
+    33.2928
+],
+  "geometry": {"coordinates":[69.47026,33.2928],"type":"Point"}
+}

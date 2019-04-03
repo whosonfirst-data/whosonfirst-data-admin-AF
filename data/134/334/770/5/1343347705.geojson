@@ -1,0 +1,76 @@
+{
+  "id": 1343347705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0958,34.70104,69.0958,34.70104",
+    "geom:latitude":34.70104,
+    "geom:longitude":69.0958,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"103.0",
+    "gn:asciiname":"Sufian",
+    "gn:country_code":"AF",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347108,
+    "gn:latitude":34.70104,
+    "gn:longitude":69.0958,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sufian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u016bfl\u0101h",
+        "Sufian",
+        "S\u016bf\u012b\u0101n",
+        "\u0635\u0648\u0641\u06cc\u0627\u0646",
+        "\u015e\u016bf\u012b\u0101n",
+        "\u015e\u016bfiy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347108
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89b0afc40d9323dcc0334a5df71d2cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562465,
+            "locality_id":1343347705,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1343347705,
+    "wof:lastmodified":1537582448,
+    "wof:name":"Sufian",
+    "wof:parent_id":1108562465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0958,
+    34.70104,
+    69.0958,
+    34.70104
+],
+  "geometry": {"coordinates":[69.0958,34.70104],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343358183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.74887,35.33434,67.74887,35.33434",
+    "geom:latitude":35.33434,
+    "geom:longitude":67.74887,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2803",
+    "gn:asciiname":"Larmush",
+    "gn:country_code":"AF",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134740,
+    "gn:latitude":35.33434,
+    "gn:longitude":67.74887,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Larmush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La\u1e5fmus",
+        "Larmush",
+        "\u0644\u0631\u0645\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134740
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1e7475f7865dba0c8cd7cab849c85922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562109,
+            "locality_id":1343358183,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1343358183,
+    "wof:lastmodified":1537581198,
+    "wof:name":"Larmush",
+    "wof:parent_id":1108562109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.74887,
+    35.33434000000001,
+    67.74887,
+    35.33434000000001
+],
+  "geometry": {"coordinates":[67.74887,35.33434000000001],"type":"Point"}
+}

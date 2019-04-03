@@ -1,0 +1,75 @@
+{
+  "id": 1343824043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.16765,34.3845,70.16765,34.3845",
+    "geom:latitude":34.3845,
+    "geom:longitude":70.16765,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"802.0",
+    "gn:asciiname":"Kalatah",
+    "gn:country_code":"AF",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473280,
+    "gn:latitude":34.3845,
+    "gn:longitude":70.16765,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalatah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u062a\u0647",
+        "Kalata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473280
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d69c349be3b58da73ca8ce3a54871e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562523,
+            "locality_id":1343824043,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343824043,
+    "wof:lastmodified":1537583748,
+    "wof:name":"Kalatah",
+    "wof:parent_id":1108562523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.16765,
+    34.3845,
+    70.16765,
+    34.3845
+],
+  "geometry": {"coordinates":[70.16764999999999,34.3845],"type":"Point"}
+}

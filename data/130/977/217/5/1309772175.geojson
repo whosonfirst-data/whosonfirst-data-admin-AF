@@ -1,0 +1,80 @@
+{
+  "id": 1309772175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51107,34.46238,70.51107,34.46238",
+    "geom:latitude":34.46238,
+    "geom:longitude":70.51107,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"821.0",
+    "gn:asciiname":"Qal'ah-ye Maslakh",
+    "gn:country_code":"AF",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453084,
+    "gn:latitude":34.46238,
+    "gn:longitude":70.51107,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Maslakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647\u0654 \u0645\u0633\u0644\u062e"
+    ],
+    "name:und_x_variant":[
+        "Kalamaslakh",
+        "Qal\u2018a Maslakh",
+        "Qal\u2018ah Maslakh",
+        "Qal\u2018eh Maslakh",
+        "Qal\u2018ah Malakh",
+        "Qal\u2018ah-ye Maslakh",
+        "\u0642\u0644\u0639\u06c0 \u0645\u0633\u0644\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453084
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b068130fe690b218abcf432c6e9053ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561871,
+            "locality_id":1309772175,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1309772175,
+    "wof:lastmodified":1537583102,
+    "wof:name":"Qal'ah-ye Maslakh",
+    "wof:parent_id":1108561871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51106999999998,
+    34.46238,
+    70.51106999999998,
+    34.46238
+],
+  "geometry": {"coordinates":[70.51106999999998,34.46238],"type":"Point"}
+}

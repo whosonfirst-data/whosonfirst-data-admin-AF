@@ -1,0 +1,75 @@
+{
+  "id": 1276835945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.20982,34.289,70.20982,34.289",
+    "geom:latitude":34.289,
+    "geom:longitude":70.20982,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"805.0",
+    "gn:asciiname":"Degan",
+    "gn:country_code":"AF",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1473356,
+    "gn:latitude":34.289,
+    "gn:longitude":70.20982,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0113g\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u06af\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u0113g\u0101n",
+        "\u062f\u06d0\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1473356
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"360fb622656df0ad71981fa049cb6c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562167,
+            "locality_id":1276835945,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1276835945,
+    "wof:lastmodified":1537583751,
+    "wof:name":"Degan",
+    "wof:parent_id":1108562167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.20982,
+    34.289,
+    70.20982,
+    34.289
+],
+  "geometry": {"coordinates":[70.20981999999999,34.289],"type":"Point"}
+}

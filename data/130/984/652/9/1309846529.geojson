@@ -1,0 +1,76 @@
+{
+  "id": 1309846529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29489,34.5046,70.29489,34.5046",
+    "geom:latitude":34.5046,
+    "geom:longitude":70.29489,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"902.0",
+    "gn:asciiname":"Perozabad",
+    "gn:country_code":"AF",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1474670,
+    "gn:latitude":34.5046,
+    "gn:longitude":70.29489,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Perozabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0113\u1e5f\u014dz\u0101b\u0101\u1e0f",
+        "P\u012br\u016bz\u0101b\u0101d",
+        "P\u0113r\u014dz\u0101b\u0101d",
+        "\u067e\u06d0\u0631\u0648\u0632 \u0622\u0628\u0627\u062f",
+        "Fayr\u014dz\u0101b\u0101d",
+        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667617,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1474670
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cfcf459bc28ead4139b0cbebca2843c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":1309846529,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":1309846529,
+    "wof:lastmodified":1537583822,
+    "wof:name":"Perozabad",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29489000000001,
+    34.5046,
+    70.29489000000001,
+    34.5046
+],
+  "geometry": {"coordinates":[70.29489000000001,34.5046],"type":"Point"}
+}

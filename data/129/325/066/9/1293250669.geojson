@@ -1,0 +1,78 @@
+{
+  "id": 1293250669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.87564,31.94555,65.87564,31.94555",
+    "geom:latitude":31.94555,
+    "geom:longitude":65.87564,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2403.0",
+    "gn:asciiname":"Laghar",
+    "gn:country_code":"AF",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407389,
+    "gn:latitude":31.94555,
+    "gn:longitude":65.87564,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lagha\u1e5f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "Lagar",
+        "Laghar",
+        "Lagha\u1e5f",
+        "\u0644\u063a\u0693",
+        "Langar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407389
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8ea58f69e5c55f2f6e1172d52ca45212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562451,
+            "locality_id":1293250669,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293250669,
+    "wof:lastmodified":1537582521,
+    "wof:name":"Laghar",
+    "wof:parent_id":1108562451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.87564,
+    31.94555,
+    65.87564,
+    31.94555
+],
+  "geometry": {"coordinates":[65.87564,31.94555],"type":"Point"}
+}

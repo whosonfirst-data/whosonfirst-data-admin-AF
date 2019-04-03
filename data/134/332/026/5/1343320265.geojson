@@ -1,0 +1,75 @@
+{
+  "id": 1343320265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41611,30.96306,66.41611,30.96306",
+    "geom:latitude":30.96306,
+    "geom:longitude":66.41611,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Khadzhi-Balo-Gumbad",
+    "gn:country_code":"AF",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367340,
+    "gn:latitude":30.96306,
+    "gn:longitude":66.41611,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khadzhi-Balo-Gumbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438-\u0411\u0430\u043b\u043e-\u0413\u0443\u043c\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Khadzh\u012b Bal\u014d Gumbad",
+        "\u062e\u062f\u0698\u06cc \u0628\u0644\u0648 \u06af\u0645\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367340
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a4107e9b76641493ec3c3d46c25598f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1343320265,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1343320265,
+    "wof:lastmodified":1537583905,
+    "wof:name":"Khadzhi-Balo-Gumbad",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41611,
+    30.96306,
+    66.41611,
+    30.96306
+],
+  "geometry": {"coordinates":[66.41611,30.96306],"type":"Point"}
+}

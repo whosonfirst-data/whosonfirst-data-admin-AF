@@ -1,0 +1,77 @@
+{
+  "id": 1309998425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.02839,32.19132,63.02839,32.19132",
+    "geom:latitude":32.19132,
+    "geom:longitude":63.02839,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2102.0",
+    "gn:asciiname":"Gewurz",
+    "gn:country_code":"AF",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1461305,
+    "gn:latitude":32.19132,
+    "gn:longitude":63.02839,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u00eawurz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gewu\u1e5fz",
+        "Razvaliny Givurz",
+        "Gorz",
+        "G\u00eawurz",
+        "\u06af\u0648\u0631\u0632",
+        "K\u0101wurz",
+        "\u06a9\u0627\u0648\u0631\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1461305
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"df1342411b60cf5775005df627d365c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561843,
+            "locality_id":1309998425,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1309998425,
+    "wof:lastmodified":1537583338,
+    "wof:name":"Gewurz",
+    "wof:parent_id":1108561843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.02839,
+    32.19132,
+    63.02839,
+    32.19132
+],
+  "geometry": {"coordinates":[63.02839,32.19132],"type":"Point"}
+}

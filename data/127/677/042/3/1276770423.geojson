@@ -1,0 +1,75 @@
+{
+  "id": 1276770423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.99246,36.09819,68.99246,36.09819",
+    "geom:latitude":36.09819,
+    "geom:longitude":68.99246,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1309",
+    "gn:asciiname":"Kubi",
+    "gn:country_code":"AF",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128804,
+    "gn:latitude":36.09819,
+    "gn:longitude":68.99246,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kubi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Q\u016bb\u012b",
+        "\u0642\u0648\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128804
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"64a3961ebcbdb8898175e11e230df22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562299,
+            "locality_id":1276770423,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1276770423,
+    "wof:lastmodified":1537580654,
+    "wof:name":"Kubi",
+    "wof:parent_id":1108562299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.99246,
+    36.09819,
+    68.99246,
+    36.09819
+],
+  "geometry": {"coordinates":[68.99245999999999,36.09819],"type":"Point"}
+}

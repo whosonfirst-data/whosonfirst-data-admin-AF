@@ -1,0 +1,67 @@
+{
+  "id": 1209228529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.24077,36.76972,70.24077,36.76972",
+    "geom:latitude":36.76972,
+    "geom:longitude":70.24077,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1102.0",
+    "gn:asciiname":"Khumbuk-e Pa'in",
+    "gn:country_code":"AF",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467798,
+    "gn:latitude":36.76972,
+    "gn:longitude":70.24077,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khumbuk-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khumbuk-i-P\u0101\u2019\u012bn",
+        "Khumbuk-e P\u0101\u2019\u012bn",
+        "\u062e\u0645\u0628\u06a9 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467798
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6063ded21eec9cf4267b295a354a9114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209228529
+        }
+    ],
+    "wof:id":1209228529,
+    "wof:lastmodified":1537583512,
+    "wof:name":"Khumbuk-e Pa'in",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.24077,
+    36.76972,
+    70.24077,
+    36.76972
+],
+  "geometry": {"coordinates":[70.24077,36.76972],"type":"Point"}
+}

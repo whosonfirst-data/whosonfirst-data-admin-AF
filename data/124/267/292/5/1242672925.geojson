@@ -1,0 +1,77 @@
+{
+  "id": 1242672925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61986,33.26662,67.61986,33.26662",
+    "geom:latitude":33.26662,
+    "geom:longitude":67.61986,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Tumqul",
+    "gn:country_code":"AF",
+    "gn:dem":2975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122170,
+    "gn:latitude":33.26662,
+    "gn:longitude":67.61986,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Tumqul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043c\u043a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Tumkul\u2019",
+        "Tumqul",
+        "Tomqol",
+        "\u062a\u0645\u0642\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122170
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a5eeb1379371fb0fc7a3cda0b8b24e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1242672925,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1242672925,
+    "wof:lastmodified":1537580091,
+    "wof:name":"Tumqul",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61986,
+    33.26662,
+    67.61986,
+    33.26662
+],
+  "geometry": {"coordinates":[67.61986,33.26662],"type":"Point"}
+}

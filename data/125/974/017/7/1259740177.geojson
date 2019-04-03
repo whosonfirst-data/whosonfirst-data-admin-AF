@@ -1,0 +1,74 @@
+{
+  "id": 1259740177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40777,37.08483,69.40777,37.08483",
+    "geom:latitude":37.08483,
+    "geom:longitude":69.40777,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1212.0",
+    "gn:asciiname":"Khosh Gildi",
+    "gn:country_code":"AF",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465513,
+    "gn:latitude":37.08483,
+    "gn:longitude":69.40777,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u014dsh Gild\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khus Gel\u1e0fi",
+        "Khvosh Geldi",
+        "Kh\u014dsh Gild\u012b",
+        "\u062e\u0648\u0634 \u06af\u0644\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465513
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"08cd493bf884be849051a40aa1d50146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562187,
+            "locality_id":1259740177,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1259740177,
+    "wof:lastmodified":1537583401,
+    "wof:name":"Khosh Gildi",
+    "wof:parent_id":1108562187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40777,
+    37.08483,
+    69.40777,
+    37.08483
+],
+  "geometry": {"coordinates":[69.40777,37.08483],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1242616375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82953,33.24136,69.82953,33.24136",
+    "geom:latitude":33.24136,
+    "geom:longitude":69.82953,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3203",
+    "gn:asciiname":"Derogeh",
+    "gn:country_code":"AF",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1122850,
+    "gn:latitude":33.24136,
+    "gn:longitude":69.82953,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Derogeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u0101rahg\u012b",
+        "Derogeh",
+        "Dah Rahg\u012b",
+        "Tani",
+        "Daragi",
+        "Qaryeh-ye Dah Rag\u012b",
+        "Tan\u012b",
+        "\u062a\u0646\u06cc",
+        "Ta\u1e49\u012b",
+        "\u062a\u06bc\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1122850,
+        "wk:page":"Tani%2C_Khost_Province"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b98753831f30cc6c8cc5e99274fe1118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562537,
+            "locality_id":1242616375,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1242616375,
+    "wof:lastmodified":1537580190,
+    "wof:name":"Derogeh",
+    "wof:parent_id":1108562537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82953,
+    33.24136,
+    69.82953,
+    33.24136
+],
+  "geometry": {"coordinates":[69.82953000000001,33.24136],"type":"Point"}
+}

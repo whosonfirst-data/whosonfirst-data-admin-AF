@@ -1,0 +1,74 @@
+{
+  "id": 1293214501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42393,37.6822,70.42393,37.6822",
+    "geom:latitude":37.6822,
+    "geom:longitude":70.42393,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1112.0",
+    "gn:asciiname":"Chigrin",
+    "gn:country_code":"AF",
+    "gn:dem":2793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467369,
+    "gn:latitude":37.6822,
+    "gn:longitude":70.42393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chigr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ceg\u1e5fin",
+        "Cheg\u1e5fin",
+        "Chigr\u012bn",
+        "\u0686\u06af\u0631\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467369
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7ee70981cb13070b705ad8c633b6b13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562403,
+            "locality_id":1293214501,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293214501,
+    "wof:lastmodified":1537583470,
+    "wof:name":"Chigrin",
+    "wof:parent_id":1108562403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42393,
+    37.6822,
+    70.42393,
+    37.6822
+],
+  "geometry": {"coordinates":[70.42393,37.6822],"type":"Point"}
+}

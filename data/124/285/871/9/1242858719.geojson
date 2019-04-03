@@ -1,0 +1,72 @@
+{
+  "id": 1242858719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.75454,33.79962,63.75454,33.79962",
+    "geom:latitude":33.79962,
+    "geom:longitude":63.75454,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Jangjay",
+    "gn:country_code":"AF",
+    "gn:dem":2374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139516,
+    "gn:latitude":33.79962,
+    "gn:longitude":63.75454,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Jangj\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jangj\u0101y",
+        "\u062c\u0646\u06af\u062c\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139516
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cf5a9ce2ba1ed87e355d8b2cc3305334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1242858719,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1242858719,
+    "wof:lastmodified":1537581584,
+    "wof:name":"Jangjay",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.75454000000001,
+    33.79962,
+    63.75454000000001,
+    33.79962
+],
+  "geometry": {"coordinates":[63.75454000000001,33.79962],"type":"Point"}
+}

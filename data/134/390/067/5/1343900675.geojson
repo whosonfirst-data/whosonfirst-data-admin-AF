@@ -1,0 +1,74 @@
+{
+  "id": 1343900675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62487,34.99332,68.62487,34.99332",
+    "geom:latitude":34.99332,
+    "geom:longitude":68.62487,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"305",
+    "gn:asciiname":"Mazanah",
+    "gn:country_code":"AF",
+    "gn:dem":2287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133644,
+    "gn:latitude":34.99332,
+    "gn:longitude":68.62487,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101z\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101z\u0101na",
+        "Mazana",
+        "M\u0101z\u0101nah",
+        "\u0645\u0627\u0632\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133644
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fb7fad0a5542550a464d3dff821dd347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562513,
+            "locality_id":1343900675,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1343900675,
+    "wof:lastmodified":1537581111,
+    "wof:name":"Mazanah",
+    "wof:parent_id":1108562513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62487,
+    34.99332,
+    68.62487,
+    34.99332
+],
+  "geometry": {"coordinates":[68.62487,34.99332],"type":"Point"}
+}

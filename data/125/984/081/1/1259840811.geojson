@@ -1,0 +1,78 @@
+{
+  "id": 1259840811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.93295,32.15531,66.93295,32.15531",
+    "geom:latitude":32.15531,
+    "geom:longitude":66.93295,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2501",
+    "gn:asciiname":"Mulla Baluch Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132951,
+    "gn:latitude":32.15531,
+    "gn:longitude":66.93295,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mull\u0101 Bal\u016bch K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0628\u0644\u0648\u0686 \u0643\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mullabaluch-Kalay",
+        "Mol\u0101-bal\u016b\u010d Kalay",
+        "Mull\u0101 Bal\u016bch K\u00ealay",
+        "\u0645\u0644\u0627 \u0628\u0644\u0648\u0686 \u06a9\u0644\u06cc",
+        "Moll\u0101 Bal\u016bch Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132951
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0302716666588edadea223c792497bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562381,
+            "locality_id":1259840811,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1259840811,
+    "wof:lastmodified":1537581052,
+    "wof:name":"Mulla Baluch Kelay",
+    "wof:parent_id":1108562381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.93295,
+    32.15531,
+    66.93295,
+    32.15531
+],
+  "geometry": {"coordinates":[66.93295000000001,32.15531],"type":"Point"}
+}

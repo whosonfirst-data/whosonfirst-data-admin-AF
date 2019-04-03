@@ -1,0 +1,73 @@
+{
+  "id": 1293602833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78585,37.96003,70.78585,37.96003",
+    "geom:latitude":37.96003,
+    "geom:longitude":70.78585,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1120.0",
+    "gn:asciiname":"Mandiz",
+    "gn:country_code":"AF",
+    "gn:dem":2662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467293,
+    "gn:latitude":37.96003,
+    "gn:longitude":70.78585,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u0101nd\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0645\u0627\u0646\u062f\u06cc\u0632",
+        "M\u0101n\u1e0f\u012bz",
+        "M\u0101nd\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467293
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4a0284040d2bb09519f54727536d11a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562219,
+            "locality_id":1293602833,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1293602833,
+    "wof:lastmodified":1537583463,
+    "wof:name":"Mandiz",
+    "wof:parent_id":1108562219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78585,
+    37.96003,
+    70.78585,
+    37.96003
+],
+  "geometry": {"coordinates":[70.78585,37.96003],"type":"Point"}
+}

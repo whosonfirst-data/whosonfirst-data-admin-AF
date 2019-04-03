@@ -1,0 +1,75 @@
+{
+  "id": 1260335125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87754,32.76688,67.87754,32.76688",
+    "geom:latitude":32.76688,
+    "geom:longitude":67.87754,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903",
+    "gn:asciiname":"Qal'ah-ye Khushk",
+    "gn:country_code":"AF",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1129939,
+    "gn:latitude":32.76688,
+    "gn:longitude":67.87754,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Khushk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-Khusk",
+        "Kalayi-Khushk",
+        "Qal\u2018eh-ye Khoshk",
+        "Qal\u2018ah-ye Khushk",
+        "\u0642\u0644\u0639\u06c0 \u062e\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108561985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1129939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ed915591c1b26f2266c6d30dd6bfb892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561985,
+            "locality_id":1260335125,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1260335125,
+    "wof:lastmodified":1537580786,
+    "wof:name":"Qal'ah-ye Khushk",
+    "wof:parent_id":1108561985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87754,
+    32.76688,
+    67.87754,
+    32.76688
+],
+  "geometry": {"coordinates":[67.87754,32.76688],"type":"Point"}
+}

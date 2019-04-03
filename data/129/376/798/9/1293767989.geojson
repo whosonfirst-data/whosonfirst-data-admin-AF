@@ -1,0 +1,74 @@
+{
+  "id": 1293767989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.67775,34.54295,65.67775,34.54295",
+    "geom:latitude":34.54295,
+    "geom:longitude":65.67775,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2709.0",
+    "gn:asciiname":"Bariki",
+    "gn:country_code":"AF",
+    "gn:dem":2424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146953,
+    "gn:latitude":34.54295,
+    "gn:longitude":65.67775,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101r\u012bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101fik",
+        "B\u0101\u1e5fik",
+        "B\u0101r\u012bk\u012b",
+        "\u0628\u0627\u0631\u06cc\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108561961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146953
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7071c229ceb7a37cb09c6d39d42f1a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561961,
+            "locality_id":1293767989,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1293767989,
+    "wof:lastmodified":1537582226,
+    "wof:name":"Bariki",
+    "wof:parent_id":1108561961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.67775,
+    34.54295,
+    65.67775,
+    34.54295
+],
+  "geometry": {"coordinates":[65.67775,34.54295],"type":"Point"}
+}

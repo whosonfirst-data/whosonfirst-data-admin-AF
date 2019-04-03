@@ -1,0 +1,75 @@
+{
+  "id": 1243064721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00064,33.37683,68.00064,33.37683",
+    "geom:latitude":33.37683,
+    "geom:longitude":68.00064,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"613",
+    "gn:asciiname":"Sarshar",
+    "gn:country_code":"AF",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1126827,
+    "gn:latitude":33.37683,
+    "gn:longitude":68.00064,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sarsh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0634\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0161\u0101r",
+        "Sarsh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1126827
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e7ccc50536cf4d67d83240b5b8aaf82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562385,
+            "locality_id":1243064721,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1243064721,
+    "wof:lastmodified":1537580506,
+    "wof:name":"Sarshar",
+    "wof:parent_id":1108562385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00064,
+    33.37683,
+    68.00064,
+    33.37683
+],
+  "geometry": {"coordinates":[68.00064,33.37683],"type":"Point"}
+}

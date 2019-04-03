@@ -1,0 +1,79 @@
+{
+  "id": 1310655549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56024,36.82868,69.56024,36.82868",
+    "geom:latitude":36.82868,
+    "geom:longitude":69.56024,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1215",
+    "gn:asciiname":"Muskin",
+    "gn:country_code":"AF",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132722,
+    "gn:latitude":36.82868,
+    "gn:longitude":69.56024,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Musk\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0643\u064a\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u043a\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Musk\u012bn",
+        "Mosk\u012bn",
+        "\u0645\u0633\u06a9\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        1108562061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132722
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bad94fb543ff68380dc8e70cb8bd7140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562061,
+            "locality_id":1310655549,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1310655549,
+    "wof:lastmodified":1537581031,
+    "wof:name":"Muskin",
+    "wof:parent_id":1108562061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56024000000001,
+    36.82868,
+    69.56024000000001,
+    36.82868
+],
+  "geometry": {"coordinates":[69.56024000000001,36.82868],"type":"Point"}
+}

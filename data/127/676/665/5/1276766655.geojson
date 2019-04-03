@@ -1,0 +1,77 @@
+{
+  "id": 1276766655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96443,36.94832,72.96443,36.94832",
+    "geom:latitude":36.94832,
+    "geom:longitude":72.96443,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1106",
+    "gn:asciiname":"Kret",
+    "gn:country_code":"AF",
+    "gn:dem":3110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1137041,
+    "gn:latitude":36.94832,
+    "gn:longitude":72.96443,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u1e5fet",
+        "Khar\u0101t",
+        "Khret",
+        "Kret",
+        "\u06a9\u0631\u062a",
+        "Kharat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        421187941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1137041,
+        "wk:page":"Kharat"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d0d6c47e8327ccad1a70e46613742a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421187941,
+            "locality_id":1276766655,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1276766655,
+    "wof:lastmodified":1537581388,
+    "wof:name":"Kret",
+    "wof:parent_id":421187941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96443000000002,
+    36.94832,
+    72.96443000000002,
+    36.94832
+],
+  "geometry": {"coordinates":[72.96443000000002,36.94832],"type":"Point"}
+}

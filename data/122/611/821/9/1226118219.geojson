@@ -1,0 +1,74 @@
+{
+  "id": 1226118219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68942,34.05759,70.68942,34.05759",
+    "geom:latitude":34.05759,
+    "geom:longitude":70.68942,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Nargosay",
+    "gn:country_code":"AF",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1469746,
+    "gn:latitude":34.05759,
+    "gn:longitude":70.68942,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Narg\u014dsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nargusay",
+        "Nargosay",
+        "Narg\u014dsay",
+        "\u0646\u0631\u06af\u0648\u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1469746
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e39f363c14318fae5ed7695408b1a240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1226118219,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1226118219,
+    "wof:lastmodified":1537583629,
+    "wof:name":"Nargosay",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68942,
+    34.05759,
+    70.68942,
+    34.05759
+],
+  "geometry": {"coordinates":[70.68942,34.05759],"type":"Point"}
+}

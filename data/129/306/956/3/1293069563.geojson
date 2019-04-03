@@ -1,0 +1,79 @@
+{
+  "id": 1293069563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.74668,31.61428,65.74668,31.61428",
+    "geom:latitude":31.61428,
+    "geom:longitude":65.74668,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2401.0",
+    "gn:asciiname":"Piro Kalachah",
+    "gn:country_code":"AF",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407209,
+    "gn:latitude":31.61428,
+    "gn:longitude":65.74668,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u012br\u014d Kal\u0101chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0686\u0647\u0654 \u067e\u064a\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Piro Kal\u0101\u010da",
+        "P\u012br\u016b Kal\u0101cheh",
+        "Piro Kal\u0101cha",
+        "P\u012br\u014d Kal\u0101chah",
+        "\u067e\u06cc\u0631\u0648 \u06a9\u0644\u0627\u0686\u0647",
+        "P\u012br\u016b Kal\u0101chah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        421194803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407209
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b35cf116e2b26b7610e62c2f6c49fbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421194803,
+            "locality_id":1293069563,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293069563,
+    "wof:lastmodified":1537582508,
+    "wof:name":"Piro Kalachah",
+    "wof:parent_id":421194803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.74668,
+    31.61428,
+    65.74668,
+    31.61428
+],
+  "geometry": {"coordinates":[65.74668,31.61428],"type":"Point"}
+}

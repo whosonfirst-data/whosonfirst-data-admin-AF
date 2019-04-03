@@ -1,0 +1,72 @@
+{
+  "id": 1360256519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.73819,34.57482,69.73819,34.57482",
+    "geom:latitude":34.57482,
+    "geom:longitude":69.73819,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"112.0",
+    "gn:asciiname":"Kochiyanu Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7582710,
+    "gn:latitude":34.57482,
+    "gn:longitude":69.73819,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u014dchiy\u0101n\u016b K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u014dchiy\u0101n\u016b K\u00ealay",
+        "\u06a9\u0648\u0686\u06cc\u0627\u0646\u0648 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667603,
+        1108562527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582710
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"89ab9d4766bc7cb30a7c9013b9594fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562527,
+            "locality_id":1360256519,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":1360256519,
+    "wof:lastmodified":1537583938,
+    "wof:name":"Kochiyanu Kelay",
+    "wof:parent_id":1108562527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.73819,
+    34.57482,
+    69.73819,
+    34.57482
+],
+  "geometry": {"coordinates":[69.73819,34.57482],"type":"Point"}
+}

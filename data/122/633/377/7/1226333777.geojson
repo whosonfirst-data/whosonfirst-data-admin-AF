@@ -1,0 +1,74 @@
+{
+  "id": 1226333777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.15536,35.90993,65.15536,35.90993",
+    "geom:latitude":35.90993,
+    "geom:longitude":65.15536,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1806",
+    "gn:asciiname":"Karam Qol",
+    "gn:country_code":"AF",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138218,
+    "gn:latitude":35.90993,
+    "gn:longitude":65.15536,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Karam Q\u014dl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka\u1e5fam Q\u014dl",
+        "Karam Qowl",
+        "Karam Q\u014dl",
+        "\u06a9\u0631\u0645 \u0642\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108561873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138218
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7af197a71ebfab58e2199314e451819f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561873,
+            "locality_id":1226333777,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1226333777,
+    "wof:lastmodified":1537581488,
+    "wof:name":"Karam Qol",
+    "wof:parent_id":1108561873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.15536,
+    35.90993,
+    65.15536,
+    35.90993
+],
+  "geometry": {"coordinates":[65.15536,35.90993],"type":"Point"}
+}

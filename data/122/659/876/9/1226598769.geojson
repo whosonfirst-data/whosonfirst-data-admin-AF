@@ -1,0 +1,73 @@
+{
+  "id": 1226598769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.67319,34.55469,68.67319,34.55469",
+    "geom:latitude":34.55469,
+    "geom:longitude":68.67319,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"402.0",
+    "gn:asciiname":"Dar-e Saray",
+    "gn:country_code":"AF",
+    "gn:dem":2581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1454691,
+    "gn:latitude":34.55469,
+    "gn:longitude":68.67319,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dar-e Sar\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dari-Saray",
+        "Dar-e Sar\u0101y",
+        "\u062f\u0631 \u0633\u0631\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1454691
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"d9d34bd20a11c961cf46063da2a7c98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562097,
+            "locality_id":1226598769,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1226598769,
+    "wof:lastmodified":1537583130,
+    "wof:name":"Dar-e Saray",
+    "wof:parent_id":1108562097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.67319,
+    34.55469,
+    68.67319,
+    34.55469
+],
+  "geometry": {"coordinates":[68.67319000000001,34.55469],"type":"Point"}
+}

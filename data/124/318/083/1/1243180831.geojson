@@ -1,0 +1,74 @@
+{
+  "id": 1243180831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.00587,35.43557,64.00587,35.43557",
+    "geom:latitude":35.43557,
+    "geom:longitude":64.00587,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1906.0",
+    "gn:asciiname":"Khwajah Yakhdan",
+    "gn:country_code":"AF",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476258,
+    "gn:latitude":35.43557,
+    "gn:longitude":64.00587,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khw\u0101jah Yakhd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khwaja Yakhd\u0101n",
+        "Khw\u0101jah Yakhd\u0101n",
+        "\u062e\u0648\u0627\u062c\u0647 \u06cc\u062e\u062f\u0627\u0646",
+        "Khv\u0101jeh Yakhd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476258
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"77ab529f2da1fed6ed2cf4c5ecd63bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":1243180831,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1243180831,
+    "wof:lastmodified":1537583844,
+    "wof:name":"Khwajah Yakhdan",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.00587,
+    35.43557,
+    64.00587,
+    35.43557
+],
+  "geometry": {"coordinates":[64.00587,35.43557],"type":"Point"}
+}

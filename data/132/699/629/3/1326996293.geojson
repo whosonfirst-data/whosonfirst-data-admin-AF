@@ -1,0 +1,77 @@
+{
+  "id": 1326996293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76014,33.99933,70.76014,33.99933",
+    "geom:latitude":33.99933,
+    "geom:longitude":70.76014,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"810.0",
+    "gn:asciiname":"Kats",
+    "gn:country_code":"AF",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1452055,
+    "gn:latitude":33.99933,
+    "gn:longitude":70.76014,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kats",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0686"
+    ],
+    "name:und_x_variant":[
+        "Kac",
+        "Kas",
+        "Kats",
+        "\u06a9\u0685"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108561777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1452055
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bcf0b69abf0849fb66debbb5b91b698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561777,
+            "locality_id":1326996293,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1326996293,
+    "wof:lastmodified":1537583085,
+    "wof:name":"Kats",
+    "wof:parent_id":1108561777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76014,
+    33.99933,
+    70.76014,
+    33.99933
+],
+  "geometry": {"coordinates":[70.76014000000001,33.99933],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276730933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.77875,29.85399,65.77875,29.85399",
+    "geom:latitude":29.85399,
+    "geom:longitude":65.77875,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2409",
+    "gn:asciiname":"Sar Sarak Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127077,
+    "gn:latitude":29.85399,
+    "gn:longitude":65.77875,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sar Sarak K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u0633\u0631\u0633\u0631\u06a9 \u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sa\u1e5fsa\u1e5fak Kalay",
+        "Sarak",
+        "Sar-e Sarak Kalay",
+        "Sar Sarak K\u00ealay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127077
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"aa6ec448ba8e0aef0fd4ae24a8bae319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562411,
+            "locality_id":1276730933,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1276730933,
+    "wof:lastmodified":1537580527,
+    "wof:name":"Sar Sarak Kelay",
+    "wof:parent_id":1108562411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.77875,
+    29.85399,
+    65.77875,
+    29.85399
+],
+  "geometry": {"coordinates":[65.77875,29.85399],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243024433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.20282,31.61573,67.20282,31.61573",
+    "geom:latitude":31.61573,
+    "geom:longitude":67.20282,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413.0",
+    "gn:asciiname":"Shaykhayinah",
+    "gn:country_code":"AF",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436062,
+    "gn:latitude":31.61573,
+    "gn:longitude":67.20282,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shaykhayinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062e\u064a\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sheykhayina",
+        "\u0160ekhayena",
+        "Shaykhayinah",
+        "\u0634\u06cc\u062e\u06cc\u0646\u0647",
+        "Sekhayenah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436062
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8e61c0d806e0482cf20f85586224d4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1243024433,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1243024433,
+    "wof:lastmodified":1537582795,
+    "wof:name":"Shaykhayinah",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.20281999999999,
+    31.61573,
+    67.20281999999999,
+    31.61573
+],
+  "geometry": {"coordinates":[67.20281999999999,31.61573],"type":"Point"}
+}

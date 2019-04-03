@@ -1,0 +1,78 @@
+{
+  "id": 1225803349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.29444,30.91056,66.29444,30.91056",
+    "geom:latitude":30.91056,
+    "geom:longitude":66.29444,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2411.0",
+    "gn:asciiname":"Bakaray Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147437,
+    "gn:latitude":30.91056,
+    "gn:longitude":66.29444,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101karay K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043a\u0430\u0440\u0430\u0439\u043a\u0430\u043b\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Bakaraykalay",
+        "Bakaray Kalay",
+        "Bakar\u012b K\u00ealay",
+        "B\u0101karay K\u00ealay",
+        "\u0628\u0627\u06a9\u0631\u06cc \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147437
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"68cb5b8fedcf189ba0f7b34971267957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1225803349,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1225803349,
+    "wof:lastmodified":1537582266,
+    "wof:name":"Bakaray Kelay",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.29444000000001,
+    30.91056,
+    66.29444000000001,
+    30.91056
+],
+  "geometry": {"coordinates":[66.29444000000001,30.91056],"type":"Point"}
+}

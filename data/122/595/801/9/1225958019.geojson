@@ -1,0 +1,76 @@
+{
+  "id": 1225958019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78729,36.84388,70.78729,36.84388",
+    "geom:latitude":36.84388,
+    "geom:longitude":70.78729,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1103",
+    "gn:asciiname":"Darah-ye Peshkan",
+    "gn:country_code":"AF",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143969,
+    "gn:latitude":36.84388,
+    "gn:longitude":70.78729,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darah-ye P\u0113shk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e0ea\u1e5f\u1e5fah-i-P\u0113sk\u0101n",
+        "Darrah-ye P\u0113shk\u0101n",
+        "\u062f\u0631\u0647 \u067e\u06d0\u0634\u06a9\u0627\u0646",
+        "Darreh-ye P\u012bshk\u0101n",
+        "Darah-ye P\u0113shk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143969,
+        "wk:page":"Darreh-ye_Pishkan"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"db3e0fdfb69b9c3837e4dd2247d90eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562107,
+            "locality_id":1225958019,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1225958019,
+    "wof:lastmodified":1537581963,
+    "wof:name":"Darah-ye Peshkan",
+    "wof:parent_id":1108562107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78729,
+    36.84388,
+    70.78729,
+    36.84388
+],
+  "geometry": {"coordinates":[70.78729,36.84388],"type":"Point"}
+}

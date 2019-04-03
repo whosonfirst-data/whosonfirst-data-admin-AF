@@ -1,0 +1,73 @@
+{
+  "id": 1226701387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.16464,34.97699,69.16464,34.97699",
+    "geom:latitude":34.97699,
+    "geom:longitude":69.16464,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"301.0",
+    "gn:asciiname":"Laghmani",
+    "gn:country_code":"AF",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453956,
+    "gn:latitude":34.97699,
+    "gn:longitude":69.16464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Laghm\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagmani",
+        "Laghm\u0101n\u012b",
+        "\u0644\u063a\u0645\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108561893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453956
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3b4ec573baf2f7171f3bfa0c937c27f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561893,
+            "locality_id":1226701387,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1226701387,
+    "wof:lastmodified":1537583112,
+    "wof:name":"Laghmani",
+    "wof:parent_id":1108561893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.16464,
+    34.97699,
+    69.16464,
+    34.97699
+],
+  "geometry": {"coordinates":[69.16464000000001,34.97699],"type":"Point"}
+}

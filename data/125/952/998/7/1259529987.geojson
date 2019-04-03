@@ -1,0 +1,77 @@
+{
+  "id": 1259529987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77553,36.70908,67.77553,36.70908",
+    "geom:latitude":36.70908,
+    "geom:longitude":67.77553,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614.0",
+    "gn:asciiname":"Khadzhi-Ali",
+    "gn:country_code":"AF",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1464626,
+    "gn:latitude":36.70908,
+    "gn:longitude":67.77553,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Khadzhi-Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438-\u0410\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "H\u0101ji Ali",
+        "\u1e28\u0101jj\u012b \u2018Al\u012b",
+        "\u1e28\u0101j\u012b \u2018Al\u012b",
+        "\u062d\u0627\u062c\u06cc \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464626
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"256e74dd65dbe756c066386fce223ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562177,
+            "locality_id":1259529987,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1259529987,
+    "wof:lastmodified":1537583381,
+    "wof:name":"Khadzhi-Ali",
+    "wof:parent_id":1108562177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77553,
+    36.70908,
+    67.77553,
+    36.70908
+],
+  "geometry": {"coordinates":[67.77553,36.70908],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310700701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.1309,34.76499,67.1309,34.76499",
+    "geom:latitude":34.76499,
+    "geom:longitude":67.1309,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2804",
+    "gn:asciiname":"Howz-e Shah",
+    "gn:country_code":"AF",
+    "gn:dem":3017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1139892,
+    "gn:latitude":34.76499,
+    "gn:longitude":67.1309,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28ow\u1e95-e Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u0636\u0654 \u0634\u0627\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0443\u0437\u0438-\u0428\u0430\u0445"
+    ],
+    "name:und_x_variant":[
+        "Hawdze \u0160\u0101h",
+        "Khauzi-Shakh",
+        "\u1e28ow\u1e95-e Sh\u0101h",
+        "\u062d\u0648\u0636 \u0634\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139892
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"887292164d6a9d22ff6c99e514e4a18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1310700701,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310700701,
+    "wof:lastmodified":1537581614,
+    "wof:name":"Howz-e Shah",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.1309,
+    34.76499,
+    67.1309,
+    34.76499
+],
+  "geometry": {"coordinates":[67.1309,34.76499],"type":"Point"}
+}

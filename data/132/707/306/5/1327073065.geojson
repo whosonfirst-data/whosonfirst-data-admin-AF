@@ -1,0 +1,80 @@
+{
+  "id": 1327073065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06789,33.33171,70.06789,33.33171",
+    "geom:latitude":33.33171,
+    "geom:longitude":70.06789,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"3201.0",
+    "gn:asciiname":"Mari Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345599,
+    "gn:latitude":33.33171,
+    "gn:longitude":70.06789,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mar\u012b Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06cc \u062e\u06cc\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Kandakheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e5fikh\u0113l",
+        "Mar\u012b Kh\u0113l",
+        "Mar\u012b Kheyl",
+        "\u0645\u0631\u06cc \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667563,
+        1108562173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345599
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c10348f12550c1e439c63595e4e9906b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562173,
+            "locality_id":1327073065,
+            "region_id":85667563
+        }
+    ],
+    "wof:id":1327073065,
+    "wof:lastmodified":1537582443,
+    "wof:name":"Mari Khel",
+    "wof:parent_id":1108562173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06789,
+    33.33171,
+    70.06789,
+    33.33171
+],
+  "geometry": {"coordinates":[70.06789000000001,33.33171],"type":"Point"}
+}

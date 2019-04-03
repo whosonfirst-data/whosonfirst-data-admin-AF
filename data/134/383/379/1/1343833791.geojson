@@ -1,0 +1,78 @@
+{
+  "id": 1343833791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62301,34.4358,70.62301,34.4358",
+    "geom:latitude":34.4358,
+    "geom:longitude":70.62301,
+    "gn:admin1_code":"18",
+    "gn:admin2_code":"818.0",
+    "gn:asciiname":"Ghat Sar",
+    "gn:country_code":"AF",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1468894,
+    "gn:latitude":34.4358,
+    "gn:longitude":70.62301,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gha\u1e6f Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0654 \u063a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Gatsar",
+        "Gha\u1e6f Sar",
+        "Ghat Sar",
+        "\u063a\u062a \u0633\u0631",
+        "\u063a\u067c \u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667591,
+        1108562125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1468894
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f760a82ff99816686222d1956668ae5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562125,
+            "locality_id":1343833791,
+            "region_id":85667591
+        }
+    ],
+    "wof:id":1343833791,
+    "wof:lastmodified":1537583574,
+    "wof:name":"Ghat Sar",
+    "wof:parent_id":1108562125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62301,
+    34.4358,
+    70.62301,
+    34.4358
+],
+  "geometry": {"coordinates":[70.62300999999999,34.4358],"type":"Point"}
+}

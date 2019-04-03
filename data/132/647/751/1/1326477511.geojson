@@ -1,0 +1,78 @@
+{
+  "id": 1326477511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79584,33.18203,68.79584,33.18203",
+    "geom:latitude":33.18203,
+    "geom:longitude":68.79584,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2901",
+    "gn:asciiname":"Batan",
+    "gn:country_code":"AF",
+    "gn:dem":2141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130955,
+    "gn:latitude":33.18203,
+    "gn:longitude":68.79584,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ba\u1e6fan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pattana",
+        "Patana",
+        "Pat\u0101neh",
+        "Patanna",
+        "\u0628\u0640\u067c\u0646",
+        "Ba\u1e6fan",
+        "Patanah",
+        "Batan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130955
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"587b41f7654ae10f1ee9d782a029b275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":1326477511,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1326477511,
+    "wof:lastmodified":1537580884,
+    "wof:name":"Batan",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79584,
+    33.18203,
+    68.79584,
+    33.18203
+],
+  "geometry": {"coordinates":[68.79584,33.18203],"type":"Point"}
+}

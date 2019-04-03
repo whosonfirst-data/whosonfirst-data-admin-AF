@@ -1,0 +1,80 @@
+{
+  "id": 1225835687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6151,33.11945,67.6151,33.11945",
+    "geom:latitude":33.11945,
+    "geom:longitude":67.6151,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Giruy Luman",
+    "gn:country_code":"AF",
+    "gn:dem":2614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140883,
+    "gn:latitude":33.11945,
+    "gn:longitude":67.6151,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u012br\u016by L\u016bm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064a\u0631\u0648\u06cc \u0644\u0648\u0645\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0440\u0443\u0438\u043b\u0443\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Giruiluman",
+        "G\u012br\u016by L\u016bm\u0101n",
+        "\u06af\u06cc\u0631\u0648\u06cc \u0644\u0648\u0645\u0627\u0646",
+        "\u06af\u064a\u0631\u0648\u06cc \u0644\u0648\u0645\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140883
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6251345639882e4a2f36aef2dd52a880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1225835687,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1225835687,
+    "wof:lastmodified":1537581702,
+    "wof:name":"Giruy Luman",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6151,
+    33.11945,
+    67.6151,
+    33.11945
+],
+  "geometry": {"coordinates":[67.6151,33.11945],"type":"Point"}
+}

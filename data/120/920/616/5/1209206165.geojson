@@ -1,0 +1,67 @@
+{
+  "id": 1209206165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.19005,36.22478,65.19005,36.22478",
+    "geom:latitude":36.22478,
+    "geom:longitude":65.19005,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1808.0",
+    "gn:asciiname":"Choluktu",
+    "gn:country_code":"AF",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1475324,
+    "gn:latitude":36.22478,
+    "gn:longitude":65.19005,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ch\u014dlukt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ch\u014dlukt\u016b",
+        "\u0686\u0648\u0644\u06a9\u062a\u0648",
+        "Choloktu (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1475324
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e2586b1e85ec78471b194fc86fde0318",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209206165
+        }
+    ],
+    "wof:id":1209206165,
+    "wof:lastmodified":1537583832,
+    "wof:name":"Choluktu",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.19005,
+    36.22478,
+    65.19005,
+    36.22478
+],
+  "geometry": {"coordinates":[65.19005,36.22478],"type":"Point"}
+}

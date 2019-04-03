@@ -1,0 +1,78 @@
+{
+  "id": 1327085545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21887,35.16253,69.21887,35.16253",
+    "geom:latitude":35.16253,
+    "geom:longitude":69.21887,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Sumt-e Shah Mir",
+    "gn:country_code":"AF",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423274,
+    "gn:latitude":35.16253,
+    "gn:longitude":69.21887,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sumt-e Sh\u0101h M\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u062a\u0654 \u0634\u0627\u0647\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sumte \u0160\u0101hmir",
+        "Sumti-Shakhmir",
+        "Sumt-e Sh\u0101hm\u012br",
+        "Sumt-e Sh\u0101h M\u012br",
+        "\u0633\u0645\u062a \u0634\u0627\u0647 \u0645\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423274
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bc61ab09fcad1766de679461a142d87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1327085545,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1327085545,
+    "wof:lastmodified":1537582555,
+    "wof:name":"Sumt-e Shah Mir",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21887,
+    35.16253,
+    69.21887,
+    35.16253
+],
+  "geometry": {"coordinates":[69.21887,35.16253],"type":"Point"}
+}

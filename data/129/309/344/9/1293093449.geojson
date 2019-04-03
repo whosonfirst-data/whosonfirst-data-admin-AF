@@ -1,0 +1,75 @@
+{
+  "id": 1293093449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.00464,32.41467,62.00464,32.41467",
+    "geom:latitude":32.41467,
+    "geom:longitude":62.00464,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2111",
+    "gn:asciiname":"Rokin",
+    "gn:country_code":"AF",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128209,
+    "gn:latitude":32.41467,
+    "gn:longitude":62.00464,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u014dkin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u014dken",
+        "\u1e5e\u016bken",
+        "R\u014dkin",
+        "R\u016bkin",
+        "\u0631\u0648\u06a9\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128209
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0375e592dfa2df8655368c3837067fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562369,
+            "locality_id":1293093449,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1293093449,
+    "wof:lastmodified":1537580609,
+    "wof:name":"Rokin",
+    "wof:parent_id":1108562369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.00464,
+    32.41467,
+    62.00464,
+    32.41467
+],
+  "geometry": {"coordinates":[62.00464,32.41467],"type":"Point"}
+}

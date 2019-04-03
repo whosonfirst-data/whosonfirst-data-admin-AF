@@ -1,0 +1,75 @@
+{
+  "id": 1310056607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39258,31.84677,66.39258,31.84677",
+    "geom:latitude":31.84677,
+    "geom:longitude":66.39258,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2506.0",
+    "gn:asciiname":"Haji 'Abdullah",
+    "gn:country_code":"AF",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436981,
+    "gn:latitude":31.84677,
+    "gn:longitude":66.39258,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b \u2018Abdull\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhi-Abdulla",
+        "\u1e28\u0101ji \u2019Ab\u1e0full\u0101h",
+        "\u062d\u0627\u062c\u06cc \u0639\u0628\u062f\u0627\u0644\u0644\u0640\u0647",
+        "\u1e28\u0101jj\u012b \u2018Abdoll\u0101h",
+        "\u1e28\u0101j\u012b \u2018Abdull\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436981
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1ccf72bacc4142a99d651ab2db19c87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562539,
+            "locality_id":1310056607,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1310056607,
+    "wof:lastmodified":1537582826,
+    "wof:name":"Haji 'Abdullah",
+    "wof:parent_id":1108562539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39258000000001,
+    31.84677000000001,
+    66.39258000000001,
+    31.84677000000001
+],
+  "geometry": {"coordinates":[66.39258000000001,31.84677000000001],"type":"Point"}
+}

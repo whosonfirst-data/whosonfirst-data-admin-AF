@@ -1,0 +1,74 @@
+{
+  "id": 1360193243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.77474,35.75514,63.77474,35.75514",
+    "geom:latitude":35.75514,
+    "geom:longitude":63.77474,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"1905.0",
+    "gn:asciiname":"Qal'ah-ye Wali",
+    "gn:country_code":"AF",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1424261,
+    "gn:latitude":35.75514,
+    "gn:longitude":63.77474,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Qal\u2018ah-ye Wal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018a-i-Wali",
+        "Qal\u2018ah-ye Wal\u012b",
+        "\u0642\u0644\u0639\u06c0 \u0648\u0644\u06cc",
+        "Qal\u2018eh-ye Val\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1424261
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3d89204b86b39ddaef3e68eb940349ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562033,
+            "locality_id":1360193243,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1360193243,
+    "wof:lastmodified":1537582604,
+    "wof:name":"Qal'ah-ye Wali",
+    "wof:parent_id":1108562033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.77474,
+    35.75514000000001,
+    63.77474,
+    35.75514000000001
+],
+  "geometry": {"coordinates":[63.77474,35.75514000000001],"type":"Point"}
+}

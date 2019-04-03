@@ -1,0 +1,76 @@
+{
+  "id": 1260058211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.60136,33.46996,62.60136,33.46996",
+    "geom:latitude":33.46996,
+    "geom:longitude":62.60136,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"2011",
+    "gn:asciiname":"Karez-e Dashak",
+    "gn:country_code":"AF",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138040,
+    "gn:latitude":33.46996,
+    "gn:longitude":62.60136,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u0101r\u0113z-e D\u0101shak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101shak",
+        "K\u0101\u1e5f\u0113z \u1e0e\u0101s\u0304ak",
+        "K\u0101r\u012bz-e D\u0101shak",
+        "K\u0101r\u012bz D\u0101shak",
+        "K\u0101r\u0113z-e D\u0101shak",
+        "\u06a9\u0627\u0631\u06d0\u0632 \u062f\u0627\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667497,
+        1108561781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138040
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b12e14c3f862429462033c033e42d911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561781,
+            "locality_id":1260058211,
+            "region_id":85667497
+        }
+    ],
+    "wof:id":1260058211,
+    "wof:lastmodified":1537581473,
+    "wof:name":"Karez-e Dashak",
+    "wof:parent_id":1108561781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.60136,
+    33.46996,
+    62.60136,
+    33.46996
+],
+  "geometry": {"coordinates":[62.60136,33.46996],"type":"Point"}
+}

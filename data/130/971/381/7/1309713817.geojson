@@ -1,0 +1,76 @@
+{
+  "id": 1309713817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64382,36.07337,68.64382,36.07337",
+    "geom:latitude":36.07337,
+    "geom:longitude":68.64382,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1301.0",
+    "gn:asciiname":"Gaji",
+    "gn:country_code":"AF",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6252317,
+    "gn:latitude":36.07337,
+    "gn:longitude":68.64382,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gaj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0434\u0436\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gadzhi",
+        "Gaj\u012b",
+        "\u06af\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667601,
+        1108562365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6252317
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"11a94771558269ec1576b5dcf59f83d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562365,
+            "locality_id":1309713817,
+            "region_id":85667601
+        }
+    ],
+    "wof:id":1309713817,
+    "wof:lastmodified":1537583904,
+    "wof:name":"Gaji",
+    "wof:parent_id":1108562365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64381999999999,
+    36.07337,
+    68.64381999999999,
+    36.07337
+],
+  "geometry": {"coordinates":[68.64381999999999,36.07337],"type":"Point"}
+}

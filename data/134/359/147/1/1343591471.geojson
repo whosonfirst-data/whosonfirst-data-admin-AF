@@ -1,0 +1,74 @@
+{
+  "id": 1343591471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.80991,33.96802,65.80991,33.96802",
+    "geom:latitude":33.96802,
+    "geom:longitude":65.80991,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"3405",
+    "gn:asciiname":"Pul Band",
+    "gn:country_code":"AF",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130498,
+    "gn:latitude":33.96802,
+    "gn:longitude":65.80991,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Pul Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pulban\u1e0f",
+        "Pul Band",
+        "\u067e\u0644 \u0628\u0646\u062f",
+        "Pol Band"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        1108803083,
+        1108562133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130498
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4267394018cadc7ca00546dc2e4cfff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":1343591471,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":1343591471,
+    "wof:lastmodified":1537580843,
+    "wof:name":"Pul Band",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.80991,
+    33.96802,
+    65.80991,
+    33.96802
+],
+  "geometry": {"coordinates":[65.80991,33.96802],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293689689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.101,34.85528,64.101,34.85528",
+    "geom:latitude":34.85528,
+    "geom:longitude":64.101,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"1904",
+    "gn:asciiname":"Takhkuf",
+    "gn:country_code":"AF",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1123220,
+    "gn:latitude":34.85528,
+    "gn:longitude":64.101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Takhk\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takhk\u016bf",
+        "\u062a\u062e\u06a9\u0648\u0641",
+        "Takhk\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667493,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1123220
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"800a8a43f9a4a5fec56d0df7a7a351d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":1293689689,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":1293689689,
+    "wof:lastmodified":1537580210,
+    "wof:name":"Takhkuf",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.101,
+    34.85528,
+    64.101,
+    34.85528
+],
+  "geometry": {"coordinates":[64.101,34.85528],"type":"Point"}
+}

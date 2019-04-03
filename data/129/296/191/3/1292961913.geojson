@@ -1,0 +1,75 @@
+{
+  "id": 1292961913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30642,32.35585,68.30642,32.35585",
+    "geom:latitude":32.35585,
+    "geom:longitude":68.30642,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2904",
+    "gn:asciiname":"Laswandey",
+    "gn:country_code":"AF",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134705,
+    "gn:latitude":32.35585,
+    "gn:longitude":68.30642,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101swand\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lasvanday",
+        "L\u0101swan\u1e0f\u0259y",
+        "\u0644\u0627\u0633\u0648\u0646\u062f\u06cd",
+        "L\u0101swanday",
+        "L\u0101swand\u00eay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134705
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"03f775dc073886c8d9d32f65a631e291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562579,
+            "locality_id":1292961913,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1292961913,
+    "wof:lastmodified":1537581196,
+    "wof:name":"Laswandey",
+    "wof:parent_id":1108562579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30641999999999,
+    32.35585,
+    68.30641999999999,
+    32.35585
+],
+  "geometry": {"coordinates":[68.30641999999999,32.35585],"type":"Point"}
+}

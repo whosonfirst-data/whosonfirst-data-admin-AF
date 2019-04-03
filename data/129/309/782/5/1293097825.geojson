@@ -1,0 +1,74 @@
+{
+  "id": 1293097825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81067,34.70637,66.81067,34.70637",
+    "geom:latitude":34.70637,
+    "geom:longitude":66.81067,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2804.0",
+    "gn:asciiname":"Bayano",
+    "gn:country_code":"AF",
+    "gn:dem":2714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457765,
+    "gn:latitude":34.70637,
+    "gn:longitude":66.81067,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Bayan\u014d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayanu",
+        "Bayan\u014d",
+        "Bayano",
+        "\u0628\u064a\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457765
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2049a07eccc1c43c2c947af8dc1a3e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562587,
+            "locality_id":1293097825,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1293097825,
+    "wof:lastmodified":1537583235,
+    "wof:name":"Bayano",
+    "wof:parent_id":1108562587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81067,
+    34.70637,
+    66.81067,
+    34.70637
+],
+  "geometry": {"coordinates":[66.81067,34.70637],"type":"Point"}
+}

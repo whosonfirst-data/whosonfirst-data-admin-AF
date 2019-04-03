@@ -1,0 +1,75 @@
+{
+  "id": 1276815235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56339,32.84225,68.56339,32.84225",
+    "geom:latitude":32.84225,
+    "geom:longitude":68.56339,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2902.0",
+    "gn:asciiname":"Haji Haidar Kala",
+    "gn:country_code":"AF",
+    "gn:dem":2102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433396,
+    "gn:latitude":32.84225,
+    "gn:longitude":68.56339,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b \u1e28a\u012bdar Kal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadzhi-Khaydar-Kala",
+        "\u1e28\u0101ji \u1e28ay\u1e0fa\u1e5f Kal\u0101",
+        "\u062d\u0627\u062c\u06cc \u062d\u06cc\u062f\u0631 \u06a9\u0644\u0627",
+        "\u1e28\u0101jj\u012b \u1e28eydar Kal\u0101",
+        "\u1e28\u0101j\u012b \u1e28a\u012bdar Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433396
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a2e6391392dcb411a4f266102d1b22ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562605,
+            "locality_id":1276815235,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1276815235,
+    "wof:lastmodified":1537582685,
+    "wof:name":"Haji Haidar Kala",
+    "wof:parent_id":1108562605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56339,
+    32.84225,
+    68.56339,
+    32.84225
+],
+  "geometry": {"coordinates":[68.56339,32.84225],"type":"Point"}
+}

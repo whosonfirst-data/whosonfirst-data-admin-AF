@@ -1,0 +1,66 @@
+{
+  "id": 1209318545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37517,37.32346,70.37517,37.32346",
+    "geom:latitude":37.32346,
+    "geom:longitude":70.37517,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1126.0",
+    "gn:asciiname":"Khugawah",
+    "gn:country_code":"AF",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526515,
+    "gn:latitude":37.32346,
+    "gn:longitude":70.37517,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kh\u016bg\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u016bg\u0101wah",
+        "\u062e\u0648\u06af\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526515
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b5aa35ab03c1da0d379c25404c6fd51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209318545
+        }
+    ],
+    "wof:id":1209318545,
+    "wof:lastmodified":1537583925,
+    "wof:name":"Khugawah",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37517,
+    37.32346,
+    70.37517,
+    37.32346
+],
+  "geometry": {"coordinates":[70.37517,37.32346],"type":"Point"}
+}

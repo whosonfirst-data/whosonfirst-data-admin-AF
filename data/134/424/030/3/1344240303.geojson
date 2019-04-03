@@ -1,0 +1,76 @@
+{
+  "id": 1344240303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.84769,34.88847,69.84769,34.88847",
+    "geom:latitude":34.88847,
+    "geom:longitude":69.84769,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"206.0",
+    "gn:asciiname":"Darata",
+    "gn:country_code":"AF",
+    "gn:dem":2476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1472384,
+    "gn:latitude":34.88847,
+    "gn:longitude":69.84769,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Darata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "D\u0101rat\u0101",
+        "D\u0101rah\u1e6f\u0101",
+        "\u062f\u0627\u0631\u0647 \u067c\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108561787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1472384
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"65a00b02a322fae179c99592dab40a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561787,
+            "locality_id":1344240303,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1344240303,
+    "wof:lastmodified":1537583687,
+    "wof:name":"Darata",
+    "wof:parent_id":1108561787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.84769,
+    34.88847,
+    69.84769,
+    34.88847
+],
+  "geometry": {"coordinates":[69.84769,34.88847],"type":"Point"}
+}

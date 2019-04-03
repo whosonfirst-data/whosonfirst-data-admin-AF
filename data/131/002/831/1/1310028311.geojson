@@ -1,0 +1,72 @@
+{
+  "id": 1310028311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.8899,34.23297,66.8899,34.23297",
+    "geom:latitude":34.23297,
+    "geom:longitude":66.8899,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2806.0",
+    "gn:asciiname":"Sewak-e Dahan Waras",
+    "gn:country_code":"AF",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264257,
+    "gn:latitude":34.23297,
+    "gn:longitude":66.8899,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"S\u0113wak-e Dahan Waras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0113wak-e Dahan Waras",
+        "\u0633\u06d0\u0648\u06a9 \u062f\u0647\u0646 \u0648\u0631\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264257
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b3fa9bd6f3d7551931c473a92046078d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562565,
+            "locality_id":1310028311,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1310028311,
+    "wof:lastmodified":1537583939,
+    "wof:name":"Sewak-e Dahan Waras",
+    "wof:parent_id":1108562565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.8899,
+    34.23297,
+    66.8899,
+    34.23297
+],
+  "geometry": {"coordinates":[66.8899,34.23297],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343380857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.57648,33.25267,67.57648,33.25267",
+    "geom:latitude":33.25267,
+    "geom:longitude":67.57648,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Pay Tangi",
+    "gn:country_code":"AF",
+    "gn:dem":2815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130789,
+    "gn:latitude":33.25267,
+    "gn:longitude":67.57648,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y Tang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u0442\u0430\u043d\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Paytangi",
+        "P\u0101y Tang\u012b",
+        "\u067e\u0627\u06cc \u062a\u0646\u06af\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130789
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"808b39ddea17d3344da1b3b3ad1df298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343380857,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343380857,
+    "wof:lastmodified":1537580868,
+    "wof:name":"Pay Tangi",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.57648,
+    33.25267,
+    67.57648,
+    33.25267
+],
+  "geometry": {"coordinates":[67.57648,33.25267],"type":"Point"}
+}

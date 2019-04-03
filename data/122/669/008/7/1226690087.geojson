@@ -1,0 +1,79 @@
+{
+  "id": 1226690087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45255,33.37029,69.45255,33.37029",
+    "geom:latitude":33.37029,
+    "geom:longitude":69.45255,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"704.0",
+    "gn:asciiname":"Lotah",
+    "gn:country_code":"AF",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1434915,
+    "gn:latitude":33.37029,
+    "gn:longitude":69.45255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u014d\u1e6fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Lota",
+        "L\u014dta",
+        "L\u016b\u1e6fah",
+        "Low\u1e6fah",
+        "L\u014d\u1e6fah",
+        "\u0644\u0648\u067c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667641,
+        1108562599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1434915
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0fe32d85f75a5d4894a590712d5b2bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562599,
+            "locality_id":1226690087,
+            "region_id":85667641
+        }
+    ],
+    "wof:id":1226690087,
+    "wof:lastmodified":1537582746,
+    "wof:name":"Lotah",
+    "wof:parent_id":1108562599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45255,
+    33.37029,
+    69.45255,
+    33.37029
+],
+  "geometry": {"coordinates":[69.45255,33.37029],"type":"Point"}
+}

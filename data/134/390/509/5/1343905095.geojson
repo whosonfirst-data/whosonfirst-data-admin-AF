@@ -1,0 +1,76 @@
+{
+  "id": 1343905095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85769,33.22438,68.85769,33.22438",
+    "geom:latitude":33.22438,
+    "geom:longitude":68.85769,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915.0",
+    "gn:asciiname":"Chowney",
+    "gn:country_code":"AF",
+    "gn:dem":2129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1435198,
+    "gn:latitude":33.22438,
+    "gn:longitude":68.85769,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Chow\u1e49\u00eay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u010c\u0101wnay",
+        "Chaunay",
+        "\u0686\u0627\u0648\u06bc\u06cc",
+        "Ch\u0101w\u1e49ay",
+        "Chow\u1e49\u00eay",
+        "\u0686\u0648\u06bc\u06cd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1435198
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"260859cf5c89838a5d44e502d682c891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1343905095,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1343905095,
+    "wof:lastmodified":1537582762,
+    "wof:name":"Chowney",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85769,
+    33.22438,
+    68.85769,
+    33.22438
+],
+  "geometry": {"coordinates":[68.85769000000001,33.22438],"type":"Point"}
+}

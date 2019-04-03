@@ -1,0 +1,76 @@
+{
+  "id": 1243553591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81026,34.80763,67.81026,34.80763",
+    "geom:latitude":34.80763,
+    "geom:longitude":67.81026,
+    "gn:admin1_code":"5",
+    "gn:admin2_code":"2801.0",
+    "gn:asciiname":"Sheray",
+    "gn:country_code":"AF",
+    "gn:dem":2579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1457315,
+    "gn:latitude":34.80763,
+    "gn:longitude":67.81026,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0113ray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u0113ray",
+        "Sheray",
+        "Shayray",
+        "Sh\u012bray",
+        "Sh\u0113ray",
+        "\u0634\u06d0\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        421182251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1457315
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"abc9f3701b4f715a9594fe26eda00b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421182251,
+            "locality_id":1243553591,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1243553591,
+    "wof:lastmodified":1537583223,
+    "wof:name":"Sheray",
+    "wof:parent_id":421182251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81026,
+    34.80763,
+    67.81026,
+    34.80763
+],
+  "geometry": {"coordinates":[67.81026,34.80763],"type":"Point"}
+}

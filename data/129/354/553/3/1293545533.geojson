@@ -1,0 +1,75 @@
+{
+  "id": 1293545533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6078,31.67946,66.6078,31.67946",
+    "geom:latitude":31.67946,
+    "geom:longitude":66.6078,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Momo Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1476939,
+    "gn:latitude":31.67946,
+    "gn:longitude":66.6078,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u014dm\u014d Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u014dm\u014dkh\u0113l",
+        "Momokhol\u2019",
+        "M\u014dm\u014d Kh\u0113l",
+        "\u0645\u0648\u0645\u0648 \u062e\u06d0\u0644",
+        "M\u016bm\u016bkheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476939
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1978f3439cdc093dee352cf2fbf0cea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1293545533,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293545533,
+    "wof:lastmodified":1537583860,
+    "wof:name":"Momo Khel",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6078,
+    31.67946,
+    66.6078,
+    31.67946
+],
+  "geometry": {"coordinates":[66.6078,31.67946],"type":"Point"}
+}

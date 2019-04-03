@@ -1,0 +1,75 @@
+{
+  "id": 1327230587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.07455,34.93331,68.07455,34.93331",
+    "geom:latitude":34.93331,
+    "geom:longitude":68.07455,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2802",
+    "gn:asciiname":"Or",
+    "gn:country_code":"AF",
+    "gn:dem":3521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121944,
+    "gn:latitude":34.93331,
+    "gn:longitude":68.07455,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Or",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u014c\u1e5f",
+        "Or",
+        "\u016ar",
+        "\u014cr",
+        "\u0627\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667503,
+        1108562487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121944
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a842d24df9dcc039a930eb8b98b665d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562487,
+            "locality_id":1327230587,
+            "region_id":85667503
+        }
+    ],
+    "wof:id":1327230587,
+    "wof:lastmodified":1537580075,
+    "wof:name":"Or",
+    "wof:parent_id":1108562487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.07455,
+    34.93331,
+    68.07455,
+    34.93331
+],
+  "geometry": {"coordinates":[68.07455,34.93331],"type":"Point"}
+}

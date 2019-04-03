@@ -1,0 +1,74 @@
+{
+  "id": 1327291709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91347,37.25827,68.91347,37.25827",
+    "geom:latitude":37.25827,
+    "geom:longitude":68.91347,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"1402.0",
+    "gn:asciiname":"Aq Masjid",
+    "gn:country_code":"AF",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465242,
+    "gn:latitude":37.25827,
+    "gn:longitude":68.91347,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100q Masjid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akmasdzhid",
+        "\u0100q Masjed",
+        "\u0100q Masjid",
+        "\u0622\u0642 \u0645\u0633\u062c\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667585,
+        1108562077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465242
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"c2c1ab38120c92f4b988111878bc4a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562077,
+            "locality_id":1327291709,
+            "region_id":85667585
+        }
+    ],
+    "wof:id":1327291709,
+    "wof:lastmodified":1537583390,
+    "wof:name":"Aq Masjid",
+    "wof:parent_id":1108562077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91346999999999,
+    37.25827,
+    68.91346999999999,
+    37.25827
+],
+  "geometry": {"coordinates":[68.91346999999999,37.25827],"type":"Point"}
+}

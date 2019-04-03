@@ -1,0 +1,72 @@
+{
+  "id": 1243210421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.9143,36.40622,66.9143,36.40622",
+    "geom:latitude":36.40622,
+    "geom:longitude":66.9143,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1609.0",
+    "gn:asciiname":"Quland",
+    "gn:country_code":"AF",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465178,
+    "gn:latitude":36.40622,
+    "gn:longitude":66.9143,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Quland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0642\u0644\u0646\u062f",
+        "Qowland (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465178
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3cac5264b45c40200e46d8d778f5bc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562505,
+            "locality_id":1243210421,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1243210421,
+    "wof:lastmodified":1537583389,
+    "wof:name":"Quland",
+    "wof:parent_id":1108562505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.9143,
+    36.40622000000001,
+    66.9143,
+    36.40622000000001
+],
+  "geometry": {"coordinates":[66.9143,36.40622000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309967051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.3458,32.70721,68.3458,32.70721",
+    "geom:latitude":32.70721,
+    "geom:longitude":68.3458,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2916",
+    "gn:asciiname":"Shah Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125949,
+    "gn:latitude":32.70721,
+    "gn:longitude":68.3458,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Shah Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Shakhkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "Qalan\u1e0fa\u1e5fkh\u0113l",
+        "\u0160ahkh\u0113l",
+        "\u0634\u0647 \u062e\u06d0\u0644",
+        "Sh\u0101h Kheyl",
+        "Shah Kh\u0113l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125949
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b0c95c68537a4ea6ca1e8a2e87231130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562101,
+            "locality_id":1309967051,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1309967051,
+    "wof:lastmodified":1537580430,
+    "wof:name":"Shah Khel",
+    "wof:parent_id":1108562101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.3458,
+    32.70721,
+    68.3458,
+    32.70721
+],
+  "geometry": {"coordinates":[68.3458,32.70721],"type":"Point"}
+}

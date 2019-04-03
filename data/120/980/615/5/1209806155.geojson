@@ -1,0 +1,80 @@
+{
+  "id": 1209806155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.50255,34.06599,67.50255,34.06599",
+    "geom:latitude":34.06599,
+    "geom:longitude":67.50255,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"604.0",
+    "gn:asciiname":"Biland Dewal",
+    "gn:country_code":"AF",
+    "gn:dem":2863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1146347,
+    "gn:latitude":34.06599,
+    "gn:longitude":67.50255,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Biland D\u0113w\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Bilanddeval\u2019"
+    ],
+    "name:und_x_variant":[
+        "Boland D\u012bv\u0101l",
+        "Belan\u1e0f\u1e0f\u0113w\u0101l",
+        "Bolandd\u012bv\u0101r",
+        "Biland Dayw\u0101l",
+        "\u0628\u0644\u0646\u062f \u062f\u06cc\u0648\u0627\u0644",
+        "Biland D\u0113w\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1146347,
+        "wk:page":"Boland_Dival"
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f33fc6064492e66ae103485beb649fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562317,
+            "locality_id":1209806155,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1209806155,
+    "wof:lastmodified":1537582176,
+    "wof:name":"Biland Dewal",
+    "wof:parent_id":1108562317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.50255,
+    34.06599,
+    67.50255,
+    34.06599
+],
+  "geometry": {"coordinates":[67.50255,34.06599],"type":"Point"}
+}

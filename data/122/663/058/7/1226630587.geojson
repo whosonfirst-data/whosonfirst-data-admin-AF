@@ -1,0 +1,74 @@
+{
+  "id": 1226630587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.2586,33.63948,64.2586,33.63948",
+    "geom:latitude":33.63948,
+    "geom:longitude":64.2586,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2705",
+    "gn:asciiname":"Shakhzak",
+    "gn:country_code":"AF",
+    "gn:dem":2406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125738,
+    "gn:latitude":33.63948,
+    "gn:longitude":64.2586,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101khzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160akhzak",
+        "Shakhzak",
+        "Sh\u0101khzak",
+        "\u0634\u0627\u062e\u0632\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125738
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"80856c35f1767cbea9250b75e392f82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562543,
+            "locality_id":1226630587,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1226630587,
+    "wof:lastmodified":1537580412,
+    "wof:name":"Shakhzak",
+    "wof:parent_id":1108562543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.2586,
+    33.63948,
+    64.2586,
+    33.63948
+],
+  "geometry": {"coordinates":[64.2586,33.63948],"type":"Point"}
+}

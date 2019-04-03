@@ -1,0 +1,78 @@
+{
+  "id": 1293540241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00777,32.9055,69.00777,32.9055",
+    "geom:latitude":32.9055,
+    "geom:longitude":69.00777,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2914.0",
+    "gn:asciiname":"Haji Gul Menah",
+    "gn:country_code":"AF",
+    "gn:dem":2590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453276,
+    "gn:latitude":32.9055,
+    "gn:longitude":69.00777,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u1e28\u0101j\u012b Gul M\u0113nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Khadzhigul\u2019mena"
+    ],
+    "name:und_x_variant":[
+        "Khadzhigul\u2019mena",
+        "\u1e28\u0101jigul M\u0113na",
+        "\u1e28\u0101jj\u012bgol M\u0113nah",
+        "\u1e28\u0101j\u012b Gul M\u0113nah",
+        "\u062d\u0627\u062c\u06cc \u06af\u0644 \u0645\u06d0\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453276
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"3061903c630ca71bccec73c74431f1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562433,
+            "locality_id":1293540241,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1293540241,
+    "wof:lastmodified":1537583107,
+    "wof:name":"Haji Gul Menah",
+    "wof:parent_id":1108562433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00777,
+    32.9055,
+    69.00777,
+    32.9055
+],
+  "geometry": {"coordinates":[69.00776999999999,32.9055],"type":"Point"}
+}

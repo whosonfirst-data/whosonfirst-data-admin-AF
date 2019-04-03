@@ -1,0 +1,73 @@
+{
+  "id": 1310301651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.58412,35.61467,64.58412,35.61467",
+    "geom:latitude":35.61467,
+    "geom:longitude":64.58412,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"1804",
+    "gn:asciiname":"Kalishli",
+    "gn:country_code":"AF",
+    "gn:dem":1930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138522,
+    "gn:latitude":35.61467,
+    "gn:longitude":64.58412,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kal\u012bshl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u012bs\u0304li",
+        "Kal\u012bshl\u012b",
+        "\u06a9\u0644\u064a\u0634\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667509,
+        1108562397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138522
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bb7181d28242b8bfbc24d601c42b754d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562397,
+            "locality_id":1310301651,
+            "region_id":85667509
+        }
+    ],
+    "wof:id":1310301651,
+    "wof:lastmodified":1537581506,
+    "wof:name":"Kalishli",
+    "wof:parent_id":1108562397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.58412,
+    35.61467000000001,
+    64.58412,
+    35.61467000000001
+],
+  "geometry": {"coordinates":[64.58412,35.61467000000001],"type":"Point"}
+}

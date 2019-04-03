@@ -1,0 +1,75 @@
+{
+  "id": 1226000947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78029,31.27649,66.78029,31.27649",
+    "geom:latitude":31.27649,
+    "geom:longitude":66.78029,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2412.0",
+    "gn:asciiname":"Shin Narai",
+    "gn:country_code":"AF",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466159,
+    "gn:latitude":31.27649,
+    "gn:longitude":66.78029,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u012bn Nara\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0160\u012bn Naray",
+        "Shinkaray",
+        "Sh\u012bn Nara\u012b",
+        "Sh\u012bn Na\u1e5fay",
+        "\u0634\u06cc\u0646 \u0646\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108561819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466159
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e62e88801f29767275b6975d9664fb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561819,
+            "locality_id":1226000947,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1226000947,
+    "wof:lastmodified":1537583414,
+    "wof:name":"Shin Narai",
+    "wof:parent_id":1108561819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78029000000001,
+    31.27649000000001,
+    66.78029000000001,
+    31.27649000000001
+],
+  "geometry": {"coordinates":[66.78029000000001,31.27649000000001],"type":"Point"}
+}

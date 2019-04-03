@@ -1,0 +1,71 @@
+{
+  "id": 1209057099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.04227,32.62466,68.04227,32.62466",
+    "geom:latitude":32.62466,
+    "geom:longitude":68.04227,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2903",
+    "gn:asciiname":"Gilut",
+    "gn:country_code":"AF",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1140915,
+    "gn:latitude":32.62466,
+    "gn:longitude":68.04227,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"G\u012bl\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u012bl\u016bt"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u06cc\u0644\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u06cc\u0644\u0648\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1140915
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7f99ffba224076c4d06e8a2ea3b82e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209057099
+        }
+    ],
+    "wof:id":1209057099,
+    "wof:lastmodified":1537581705,
+    "wof:name":"Gilut",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.04227,
+    32.62466,
+    68.04227,
+    32.62466
+],
+  "geometry": {"coordinates":[68.04227,32.62466],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343752471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.41115,33.11121,67.41115,33.11121",
+    "geom:latitude":33.11121,
+    "geom:longitude":67.41115,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"607.0",
+    "gn:asciiname":"Rah-e Kalan",
+    "gn:country_code":"AF",
+    "gn:dem":2429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450630,
+    "gn:latitude":33.11121,
+    "gn:longitude":67.41115,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"R\u0101h-e Kal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101h-e Kal\u0101n",
+        "\u0631\u0627\u0647 \u06a9\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450630
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"bbeebf7fc4b75ba5e06d0820663eff7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343752471,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343752471,
+    "wof:lastmodified":1537583056,
+    "wof:name":"Rah-e Kalan",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.41115,
+    33.11121,
+    67.41115,
+    33.11121
+],
+  "geometry": {"coordinates":[67.41115000000001,33.11121],"type":"Point"}
+}

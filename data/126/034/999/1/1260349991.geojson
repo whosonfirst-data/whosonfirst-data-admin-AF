@@ -1,0 +1,74 @@
+{
+  "id": 1260349991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85806,33.39017,68.85806,33.39017",
+    "geom:latitude":33.39017,
+    "geom:longitude":68.85806,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"2915",
+    "gn:asciiname":"Ibrahim",
+    "gn:country_code":"AF",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142613,
+    "gn:latitude":33.39017,
+    "gn:longitude":68.85806,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibrakhim",
+        "Ebr\u0101h\u012bm",
+        "Ibr\u0101h\u012bm",
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667567,
+        1108562257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142613
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"9057075e2b9088408b4cd31d726c981c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562257,
+            "locality_id":1260349991,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":1260349991,
+    "wof:lastmodified":1537581845,
+    "wof:name":"Ibrahim",
+    "wof:parent_id":1108562257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85806,
+    33.39017,
+    68.85806,
+    33.39017
+],
+  "geometry": {"coordinates":[68.85805999999999,33.39017],"type":"Point"}
+}

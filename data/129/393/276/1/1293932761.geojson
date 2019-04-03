@@ -1,0 +1,74 @@
+{
+  "id": 1293932761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.26101,36.08306,67.26101,36.08306",
+    "geom:latitude":36.08306,
+    "geom:longitude":67.26101,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1504.0",
+    "gn:asciiname":"Pay Tawah",
+    "gn:country_code":"AF",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1466248,
+    "gn:latitude":36.08306,
+    "gn:longitude":67.26101,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"P\u0101y T\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai T\u0101wa (4)",
+        "P\u0101y T\u0101veh (4)",
+        "P\u0101y T\u0101wah",
+        "\u067e\u0627\u06cc \u062a\u0627\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1466248
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2d5c40832b1626ec6d345b75157a46cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561937,
+            "locality_id":1293932761,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1293932761,
+    "wof:lastmodified":1537583417,
+    "wof:name":"Pay Tawah",
+    "wof:parent_id":1108561937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.26101,
+    36.08306,
+    67.26101,
+    36.08306
+],
+  "geometry": {"coordinates":[67.26101,36.08306],"type":"Point"}
+}

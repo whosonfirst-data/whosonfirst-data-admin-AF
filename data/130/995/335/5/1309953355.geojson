@@ -1,0 +1,78 @@
+{
+  "id": 1309953355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18288,34.57491,68.18288,34.57491",
+    "geom:latitude":34.57491,
+    "geom:longitude":68.18288,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"403",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"AF",
+    "gn:dem":3064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1143860,
+    "gn:latitude":34.57491,
+    "gn:longitude":68.18288,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhani-Dzhaudarak",
+        "Da\u0161t",
+        "\u1e0eahane Jaw\u1e0fa\u1e5fak",
+        "Dahan-e Jow Darak",
+        "Das\u0304te Qal\u2018a",
+        "Dasht",
+        "Dasht (Dahan-e Jow Darak)",
+        "\u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143860
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"acf17502422f8ff73eda12ca5fce425c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562071,
+            "locality_id":1309953355,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1309953355,
+    "wof:lastmodified":1537581956,
+    "wof:name":"Dasht",
+    "wof:parent_id":1108562071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18288000000001,
+    34.57491,
+    68.18288000000001,
+    34.57491
+],
+  "geometry": {"coordinates":[68.18288000000001,34.57491],"type":"Point"}
+}

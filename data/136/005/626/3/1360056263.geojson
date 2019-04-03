@@ -1,0 +1,81 @@
+{
+  "id": 1360056263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.61595,35.01479,69.61595,35.01479",
+    "geom:latitude":35.01479,
+    "geom:longitude":69.61595,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"204",
+    "gn:asciiname":"Dowlat Khel",
+    "gn:country_code":"AF",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1142766,
+    "gn:latitude":35.01479,
+    "gn:longitude":69.61595,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Dowlat Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u062a \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0443\u043b\u0430\u0442\u0445\u0435\u0439\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u1e0eawlatkh\u0113l",
+        "Daulatkheyl\u2019",
+        "Dowlatkheyl",
+        "Dowlat Kh\u0113l",
+        "\u062f\u0648\u0644\u062a \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667609,
+        1108562325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1142766
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"90644ba9c6fa269693de953cc3ab8b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562325,
+            "locality_id":1360056263,
+            "region_id":85667609
+        }
+    ],
+    "wof:id":1360056263,
+    "wof:lastmodified":1537581858,
+    "wof:name":"Dowlat Khel",
+    "wof:parent_id":1108562325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.61595,
+    35.01479,
+    69.61595,
+    35.01479
+],
+  "geometry": {"coordinates":[69.61595,35.01479],"type":"Point"}
+}

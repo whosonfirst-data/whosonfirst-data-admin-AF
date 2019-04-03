@@ -1,0 +1,73 @@
+{
+  "id": 1242624795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98139,31.94672,66.98139,31.94672",
+    "geom:latitude":31.94672,
+    "geom:longitude":66.98139,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2507",
+    "gn:asciiname":"Gazak Kelay",
+    "gn:country_code":"AF",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141643,
+    "gn:latitude":31.94672,
+    "gn:longitude":66.98139,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Gazak K\u00ealay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gazak K\u00ealay",
+        "\u06af\u0632\u06a9 \u06a9\u0644\u06cc",
+        "Gazak Kalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141643
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"cd0513d38bbe4883d22d161f8ee715d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562493,
+            "locality_id":1242624795,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1242624795,
+    "wof:lastmodified":1537581766,
+    "wof:name":"Gazak Kelay",
+    "wof:parent_id":1108562493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98139,
+    31.94672000000001,
+    66.98139,
+    31.94672000000001
+],
+  "geometry": {"coordinates":[66.98139,31.94672000000001],"type":"Point"}
+}

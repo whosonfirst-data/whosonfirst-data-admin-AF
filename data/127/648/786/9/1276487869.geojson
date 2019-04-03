@@ -1,0 +1,72 @@
+{
+  "id": 1276487869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19486,35.159,69.19486,35.159",
+    "geom:latitude":35.159,
+    "geom:longitude":69.19486,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"303.0",
+    "gn:asciiname":"Anarzar",
+    "gn:country_code":"AF",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1423281,
+    "gn:latitude":35.159,
+    "gn:longitude":69.19486,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"An\u0101rz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An\u0101rz\u0101r",
+        "\u0627\u0646\u0627\u0631\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667627,
+        1108562425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1423281
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"4f10e73dd30d133952e0d601678124a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562425,
+            "locality_id":1276487869,
+            "region_id":85667627
+        }
+    ],
+    "wof:id":1276487869,
+    "wof:lastmodified":1537582555,
+    "wof:name":"Anarzar",
+    "wof:parent_id":1108562425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19485999999999,
+    35.159,
+    69.19485999999999,
+    35.159
+],
+  "geometry": {"coordinates":[69.19485999999999,35.159],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259668073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.35957,34.58754,66.35957,34.58754",
+    "geom:latitude":34.58754,
+    "geom:longitude":66.35957,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"2707.0",
+    "gn:asciiname":"Ab Regak",
+    "gn:country_code":"AF",
+    "gn:dem":3018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1456625,
+    "gn:latitude":34.58754,
+    "gn:longitude":66.35957,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100b R\u0113gak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aurigak",
+        "Aw\u1e5f\u0113gak",
+        "Aw Raygak",
+        "\u0100br\u012bgak",
+        "\u0100b Raygak",
+        "\u0622\u0628 \u0631\u06cc\u06af\u06a9",
+        "\u0100b R\u0113gak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456625
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"2d68b3771a9a39612e498fead48eca52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562231,
+            "locality_id":1259668073,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1259668073,
+    "wof:lastmodified":1537583192,
+    "wof:name":"Ab Regak",
+    "wof:parent_id":1108562231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.35956999999999,
+    34.58754,
+    66.35956999999999,
+    34.58754
+],
+  "geometry": {"coordinates":[66.35956999999999,34.58754],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209407243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.63471,32.57477,63.63471,32.57477",
+    "geom:latitude":32.57477,
+    "geom:longitude":63.63471,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2103",
+    "gn:asciiname":"Ghalarway",
+    "gn:country_code":"AF",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1141502,
+    "gn:latitude":32.57477,
+    "gn:longitude":63.63471,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Ghalarway",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u063a\u0644\u0631\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1141502
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"1bdd05e4faba801be318cbaf0d5534eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209407243
+        }
+    ],
+    "wof:id":1209407243,
+    "wof:lastmodified":1537581757,
+    "wof:name":"Ghalarway",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.63471,
+    32.57477,
+    63.63471,
+    32.57477
+],
+  "geometry": {"coordinates":[63.63471,32.57477],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310096045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.40333,33.355,68.40333,33.355",
+    "geom:latitude":33.355,
+    "geom:longitude":68.40333,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"614.0",
+    "gn:asciiname":"Bagha",
+    "gn:country_code":"AF",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1147642,
+    "gn:latitude":33.355,
+    "gn:longitude":68.40333,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"B\u0101gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Baga",
+        "B\u0101gh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1147642
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ecaef0928721f06d0d705498526c6344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":1310096045,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1310096045,
+    "wof:lastmodified":1537582283,
+    "wof:name":"Bagha",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.40333000000001,
+    33.355,
+    68.40333000000001,
+    33.355
+],
+  "geometry": {"coordinates":[68.40333000000001,33.355],"type":"Point"}
+}

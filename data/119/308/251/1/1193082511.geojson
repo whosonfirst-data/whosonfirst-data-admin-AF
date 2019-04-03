@@ -1,0 +1,73 @@
+{
+  "id": 1193082511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.15438,35.48427,67.15438,35.48427",
+    "geom:latitude":35.48427,
+    "geom:longitude":67.15438,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"1503.0",
+    "gn:asciiname":"Ahangaran",
+    "gn:country_code":"AF",
+    "gn:dem":2501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1149299,
+    "gn:latitude":35.48427,
+    "gn:longitude":67.15438,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u0100hangar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100hangar\u0101n",
+        "\u0622\u0647\u0646\u06af\u0631\u0627\u0646",
+        "\u0100hanga\u1e5f\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667631,
+        1108561935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1149299
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"825c3469a482d530713f2f43f5743c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561935,
+            "locality_id":1193082511,
+            "region_id":85667631
+        }
+    ],
+    "wof:id":1193082511,
+    "wof:lastmodified":1537582406,
+    "wof:name":"Ahangaran",
+    "wof:parent_id":1108561935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.15438,
+    35.48427,
+    67.15438,
+    35.48427
+],
+  "geometry": {"coordinates":[67.15438,35.48427],"type":"Point"}
+}

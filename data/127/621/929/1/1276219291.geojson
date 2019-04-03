@@ -1,0 +1,79 @@
+{
+  "id": 1276219291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.60666,32.80563,61.60666,32.80563",
+    "geom:latitude":32.80563,
+    "geom:longitude":61.60666,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"2107.0",
+    "gn:asciiname":"Dalghah",
+    "gn:country_code":"AF",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1144263,
+    "gn:latitude":32.80563,
+    "gn:longitude":61.60666,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"D\u0101lghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101lghah"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0644\u063a\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u1e0e\u0101lgha",
+        "D\u0101lghah",
+        "\u062f\u0627\u0644\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108561801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1144263
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b219f10714545a974cf0c40883835e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561801,
+            "locality_id":1276219291,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1276219291,
+    "wof:lastmodified":1537581984,
+    "wof:name":"Dalghah",
+    "wof:parent_id":1108561801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.60666,
+    32.80563,
+    61.60666,
+    32.80563
+],
+  "geometry": {"coordinates":[61.60666,32.80563],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343254319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.15856,33.24358,64.15856,33.24358",
+    "geom:latitude":33.24358,
+    "geom:longitude":64.15856,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"2104",
+    "gn:asciiname":"Lakh Sang",
+    "gn:country_code":"AF",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134971,
+    "gn:latitude":33.24358,
+    "gn:longitude":64.15856,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"L\u0101kh Sang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lakhsang",
+        "L\u0101kh Sang",
+        "\u0644\u0627\u062e \u0633\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667527,
+        1108562367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134971
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6e3c5a5a6cd73662f725ae3f7129e900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562367,
+            "locality_id":1343254319,
+            "region_id":85667527
+        }
+    ],
+    "wof:id":1343254319,
+    "wof:lastmodified":1537581215,
+    "wof:name":"Lakh Sang",
+    "wof:parent_id":1108562367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.15856,
+    33.24358,
+    64.15856,
+    33.24358
+],
+  "geometry": {"coordinates":[64.15855999999999,33.24358],"type":"Point"}
+}

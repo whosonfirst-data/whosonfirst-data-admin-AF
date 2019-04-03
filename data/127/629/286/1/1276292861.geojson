@@ -1,0 +1,73 @@
+{
+  "id": 1276292861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29095,32.93705,67.29095,32.93705",
+    "geom:latitude":32.93705,
+    "geom:longitude":67.29095,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"2510",
+    "gn:asciiname":"Kutikar",
+    "gn:country_code":"AF",
+    "gn:dem":1984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1135114,
+    "gn:latitude":32.93705,
+    "gn:longitude":67.29095,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"K\u016b\u1e6fik\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016b\u1e6fik\u0101r",
+        "\u06a9\u0648\u067c\u06a9\u0627\u0631",
+        "K\u016btik\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667555,
+        1108562115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1135114
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"36f7f82c21d55fd022ea72f8032fdcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562115,
+            "locality_id":1276292861,
+            "region_id":85667555
+        }
+    ],
+    "wof:id":1276292861,
+    "wof:lastmodified":1537581227,
+    "wof:name":"Kutikar",
+    "wof:parent_id":1108562115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29095,
+    32.93705,
+    67.29095,
+    32.93705
+],
+  "geometry": {"coordinates":[67.29095,32.93705],"type":"Point"}
+}

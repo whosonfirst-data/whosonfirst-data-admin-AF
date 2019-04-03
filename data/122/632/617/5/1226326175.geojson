@@ -1,0 +1,78 @@
+{
+  "id": 1226326175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.68289,31.79001,64.68289,31.79001",
+    "geom:latitude":31.79001,
+    "geom:longitude":64.68289,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"2302",
+    "gn:asciiname":"Yakhchal",
+    "gn:country_code":"AF",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1121354,
+    "gn:latitude":31.79001,
+    "gn:longitude":64.68289,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Yakhch\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Yakhchal\u2019"
+    ],
+    "name:und_x_variant":[
+        "Yakh\u010d\u0101l",
+        "Yakhc\u014dl",
+        "Yakh\u010d\u0101",
+        "Yakhch\u0101l",
+        "\u06cc\u062e\u0686\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667531,
+        421202037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1121354
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e58bb2b6e1d1e29b87accf1d3ab60664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421202037,
+            "locality_id":1226326175,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":1226326175,
+    "wof:lastmodified":1537580037,
+    "wof:name":"Yakhchal",
+    "wof:parent_id":421202037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.68289,
+    31.79001,
+    64.68289,
+    31.79001
+],
+  "geometry": {"coordinates":[64.68289,31.79001],"type":"Point"}
+}

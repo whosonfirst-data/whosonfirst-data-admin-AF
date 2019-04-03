@@ -1,0 +1,73 @@
+{
+  "id": 1226356189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42231,37.52546,70.42231,37.52546",
+    "geom:latitude":37.52546,
+    "geom:longitude":70.42231,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"1128.0",
+    "gn:asciiname":"Kham-e Elchah",
+    "gn:country_code":"AF",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1467436,
+    "gn:latitude":37.52546,
+    "gn:longitude":70.42231,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kham-e \u0112lchah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kham-i-\u0112l\u010da",
+        "Kham-e \u0112lchah",
+        "\u062e\u0645 \u0627\u06d0\u0644\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667573,
+        1108562595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1467436
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6055294f9870a5c570d83a8f141f4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562595,
+            "locality_id":1226356189,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":1226356189,
+    "wof:lastmodified":1537583476,
+    "wof:name":"Kham-e Elchah",
+    "wof:parent_id":1108562595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42231,
+    37.52546,
+    70.42231,
+    37.52546
+],
+  "geometry": {"coordinates":[70.42231,37.52546],"type":"Point"}
+}

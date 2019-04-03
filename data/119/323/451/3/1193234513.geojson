@@ -1,0 +1,84 @@
+{
+  "id": 1193234513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.17222,31.5256,67.17222,31.5256",
+    "geom:latitude":31.5256,
+    "geom:longitude":67.17222,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Lwar Changazai",
+    "gn:country_code":"AF",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1134401,
+    "gn:latitude":31.5256,
+    "gn:longitude":67.17222,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Lwa\u1e5f Chang\u0101za\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0631 \u0686\u0646\u06af\u0627\u0632\u06cc"
+    ],
+    "name:pus_x_preferred":[
+        "\u0644\u0648\u0693 \u0686\u0646\u06af\u0627\u0632\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "L\u2019varchangazay"
+    ],
+    "name:und_x_variant":[
+        "Lwar \u010cang\u0101zay",
+        "Lwa\u1e5f Chang\u0101za\u012b",
+        "\u0644\u0648\u0693 \u0686\u0646\u06af\u0627\u0632\u06cc",
+        "Lwar Chang\u0101z\u0101y",
+        "L\u2019varchangazay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1134401
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"54383754b74b6fb16ad96175d216e4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1193234513,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1193234513,
+    "wof:lastmodified":1537581172,
+    "wof:name":"Lwar Changazai",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.17222,
+    31.5256,
+    67.17222,
+    31.5256
+],
+  "geometry": {"coordinates":[67.17222,31.5256],"type":"Point"}
+}

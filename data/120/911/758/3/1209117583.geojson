@@ -1,0 +1,71 @@
+{
+  "id": 1209117583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73094,36.16817,68.73094,36.16817",
+    "geom:latitude":36.16817,
+    "geom:longitude":68.73094,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"1311",
+    "gn:asciiname":"Kazi",
+    "gn:country_code":"AF",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1130221,
+    "gn:latitude":36.16817,
+    "gn:longitude":68.73094,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0438"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101\u1e0f\u1e95i",
+        "Kazi",
+        "Q\u0101\u1e95\u012b",
+        "\u0642\u0627\u0636\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1130221
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0f707ed76a15d55b42d42a369d3dddc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632229,
+            "locality_id":1209117583
+        }
+    ],
+    "wof:id":1209117583,
+    "wof:lastmodified":1537580821,
+    "wof:name":"Kazi",
+    "wof:parent_id":85632229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73094,
+    36.16817,
+    68.73094,
+    36.16817
+],
+  "geometry": {"coordinates":[68.73094,36.16817],"type":"Point"}
+}

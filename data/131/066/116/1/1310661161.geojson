@@ -1,0 +1,78 @@
+{
+  "id": 1310661161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.78805,36.70925,67.78805,36.70925",
+    "geom:latitude":36.70925,
+    "geom:longitude":67.78805,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"1614",
+    "gn:asciiname":"Sad Dawa'i",
+    "gn:country_code":"AF",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1128071,
+    "gn:latitude":36.70925,
+    "gn:longitude":67.78805,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015ead Daw\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u0434\u0430\u0432\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Sad Daw\u0101\u2019\u012b",
+        "Saddavay",
+        "\u015ead Dav\u0101\u2019\u012b",
+        "\u015ead Daw\u0101\u2019\u012b",
+        "\u0635\u062f \u062f\u0648\u0627\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667505,
+        1108562177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1128071
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"21920dbe8dc69be51e50a5c9b7512b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562177,
+            "locality_id":1310661161,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":1310661161,
+    "wof:lastmodified":1537580600,
+    "wof:name":"Sad Dawa'i",
+    "wof:parent_id":1108562177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.78805,
+    36.70925,
+    67.78805,
+    36.70925
+],
+  "geometry": {"coordinates":[67.78805,36.70925],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343480801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.60175,33.12329,67.60175,33.12329",
+    "geom:latitude":33.12329,
+    "geom:longitude":67.60175,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"607",
+    "gn:asciiname":"Shakhtu",
+    "gn:country_code":"AF",
+    "gn:dem":2579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1125741,
+    "gn:latitude":33.12329,
+    "gn:longitude":67.60175,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Sh\u0101kht\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0442\u0443"
+    ],
+    "name:und_x_variant":[
+        "\u0160\u0101khtu",
+        "Shakhtu",
+        "Sh\u0101kht\u016b",
+        "\u0634\u0627\u062e\u062a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667561,
+        1108562091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1125741
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"fcc46ec9f02055f6f1d4be5631975909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562091,
+            "locality_id":1343480801,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":1343480801,
+    "wof:lastmodified":1537580413,
+    "wof:name":"Shakhtu",
+    "wof:parent_id":1108562091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.60175,
+    33.12329,
+    67.60175,
+    33.12329
+],
+  "geometry": {"coordinates":[67.60175,33.12329],"type":"Point"}
+}

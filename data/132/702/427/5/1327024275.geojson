@@ -1,0 +1,74 @@
+{
+  "id": 1327024275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.96393,34.16067,63.96393,34.16067",
+    "geom:latitude":34.16067,
+    "geom:longitude":63.96393,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"2703",
+    "gn:asciiname":"Minarah",
+    "gn:country_code":"AF",
+    "gn:dem":2122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1133327,
+    "gn:latitude":34.16067,
+    "gn:longitude":63.96393,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"M\u012bn\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012bnara",
+        "M\u012bn\u0101rah",
+        "\u0645\u06cc\u0646\u0627\u0631\u0647",
+        "M\u012bnarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667519,
+        1108562549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133327
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"af11bd5547209f9c0780089cc4c07945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562549,
+            "locality_id":1327024275,
+            "region_id":85667519
+        }
+    ],
+    "wof:id":1327024275,
+    "wof:lastmodified":1537581086,
+    "wof:name":"Minarah",
+    "wof:parent_id":1108562549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.96393000000001,
+    34.16067,
+    63.96393000000001,
+    34.16067
+],
+  "geometry": {"coordinates":[63.96393000000001,34.16067],"type":"Point"}
+}

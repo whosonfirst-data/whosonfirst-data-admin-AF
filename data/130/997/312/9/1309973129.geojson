@@ -1,0 +1,76 @@
+{
+  "id": 1309973129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.49707,36.61256,69.49707,36.61256",
+    "geom:latitude":36.61256,
+    "geom:longitude":69.49707,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"1201",
+    "gn:asciiname":"Kalak Say",
+    "gn:country_code":"AF",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1138620,
+    "gn:latitude":36.61256,
+    "gn:longitude":69.49707,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Kalak S\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kalaksay",
+        "Kalak S\u0101y",
+        "\u06a9\u0644\u06a9 \u0633\u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667595,
+        421188911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1138620
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7d07d42c20cd764b5376a279149499c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421188911,
+            "locality_id":1309973129,
+            "region_id":85667595
+        }
+    ],
+    "wof:id":1309973129,
+    "wof:lastmodified":1537581512,
+    "wof:name":"Kalak Say",
+    "wof:parent_id":421188911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.49707,
+    36.61256,
+    69.49707,
+    36.61256
+],
+  "geometry": {"coordinates":[69.49706999999999,36.61256],"type":"Point"}
+}

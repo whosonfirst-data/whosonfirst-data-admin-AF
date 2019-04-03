@@ -1,0 +1,73 @@
+{
+  "id": 1360243163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.33385,31.54121,67.33385,31.54121",
+    "geom:latitude":31.54121,
+    "geom:longitude":67.33385,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"2413",
+    "gn:asciiname":"Murid",
+    "gn:country_code":"AF",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1132751,
+    "gn:latitude":31.54121,
+    "gn:longitude":67.33385,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"Mur\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mur\u012bd",
+        "\u0645\u0631\u06cc\u062f",
+        "Mo\u1e5f\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132751
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e6250c538664a7899a331bb6349155fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562255,
+            "locality_id":1360243163,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1360243163,
+    "wof:lastmodified":1537581033,
+    "wof:name":"Murid",
+    "wof:parent_id":1108562255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.33385,
+    31.54121,
+    67.33385,
+    31.54121
+],
+  "geometry": {"coordinates":[67.33385,31.54121],"type":"Point"}
+}

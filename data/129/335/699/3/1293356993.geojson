@@ -1,0 +1,81 @@
+{
+  "id": 1293356993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33311,33.74717,68.33311,33.74717",
+    "geom:latitude":33.74717,
+    "geom:longitude":68.33311,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"409",
+    "gn:asciiname":"Salih Khel",
+    "gn:country_code":"AF",
+    "gn:dem":2442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1127837,
+    "gn:latitude":33.74717,
+    "gn:longitude":68.33311,
+    "gn:modification_date":"2018-02-17",
+    "gn:name":"\u015e\u0101li\u1e29 Kh\u0113l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"AF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u062e\u064a\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "Salekhkheyl\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u0101le\u1e29kh\u0113l",
+        "\u015e\u0101li\u1e29 Kh\u0113l",
+        "\u015e\u0101le\u1e29 Kheyl",
+        "\u0635\u0627\u0644\u062d \u062e\u064a\u0644",
+        "\u0635\u0627\u0644\u062d \u062e\u06d0\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667635,
+        1108562089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1127837
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"6a7f13a048a9903ee74224e8f6087f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562089,
+            "locality_id":1293356993,
+            "region_id":85667635
+        }
+    ],
+    "wof:id":1293356993,
+    "wof:lastmodified":1537580582,
+    "wof:name":"Salih Khel",
+    "wof:parent_id":1108562089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33310999999999,
+    33.74717,
+    68.33310999999999,
+    33.74717
+],
+  "geometry": {"coordinates":[68.33310999999999,33.74717],"type":"Point"}
+}
