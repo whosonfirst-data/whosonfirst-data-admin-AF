@@ -34,9 +34,6 @@
     "name:aze_x_preferred":[
         "L\u00f6vg\u0259r vilay\u0259ti"
     ],
-    "name:baq_x_preferred":[
-        "Logar probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041b\u0430\u0433\u0430\u0440"
     ],
@@ -49,20 +46,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Lowgar"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u52a0\u5c14\u7701"
+    "name:ces_x_preferred":[
+        "L\u00f3gar"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0644\u06c6\u06af\u06d5\u0631"
     ],
-    "name:cze_x_preferred":[
-        "L\u00f3gar"
-    ],
     "name:dan_x_preferred":[
         "Lowgar"
     ],
-    "name:dut_x_preferred":[
-        "Logar"
+    "name:deu_x_preferred":[
+        "Lugar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03b3\u03ba\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Lowgar"
@@ -76,20 +73,17 @@
     "name:est_x_preferred":[
         "Lowgari provints"
     ],
+    "name:eus_x_preferred":[
+        "Logar probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u0644\u0648\u06af\u0631"
+    ],
     "name:fin_x_preferred":[
         "Logarin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00f4gar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10d2\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Lugar"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03b3\u03ba\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acb\u0a97\u0ab0"
@@ -112,6 +106,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0ccb\u0c97\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10d2\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub85c\uac00\ub974 \uc8fc"
     ],
@@ -127,20 +124,20 @@
     "name:mar_x_preferred":[
         "\u0932\u094b\u0902\u0917\u0930"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Logar"
-    ],
     "name:mon_x_preferred":[
         "\u041b\u043e\u0433\u0430\u0440 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Logar"
     ],
     "name:new_x_preferred":[
         "\u0932\u094b\u0917\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Logar"
+    ],
     "name:nob_x_preferred":[
         "Lowgar"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u062a \u0644\u0648\u06af\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0644\u0648\u06af\u0691"
@@ -154,7 +151,7 @@
     "name:pus_x_preferred":[
         "\u0644\u0648\u06ab\u0631 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Logar"
     ],
     "name:rus_x_preferred":[
@@ -213,6 +210,9 @@
     ],
     "name:war_x_preferred":[
         "Logar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u52a0\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AFG",
@@ -343,7 +343,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1553550291,
+    "wof:lastmodified":1561775740,
     "wof:name":"Logar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

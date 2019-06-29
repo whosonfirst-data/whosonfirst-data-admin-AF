@@ -28,14 +28,8 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u062a\u062e\u0627\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u056d\u0561\u0580"
-    ],
     "name:aze_x_preferred":[
         "T\u0259xar"
-    ],
-    "name:baq_x_preferred":[
-        "Takhar probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u0430\u0445\u0430\u0440"
@@ -49,23 +43,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Takhar"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u54c8\u5c14\u7701"
+    "name:ces_x_preferred":[
+        "Tach\u00e1r"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062a\u06d5\u062e\u0627\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Tach\u00e1r"
-    ],
     "name:dan_x_preferred":[
         "Takhar"
+    ],
+    "name:deu_x_preferred":[
+        "Tachar"
     ],
     "name:diq_x_preferred":[
         "Texar"
     ],
-    "name:dut_x_preferred":[
-        "Tachar"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c7\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Takhar"
@@ -76,26 +70,26 @@
     "name:est_x_preferred":[
         "Takh\u0101ri provints"
     ],
+    "name:eus_x_preferred":[
+        "Takhar probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u062a\u062e\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Takharin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Takh\u00e2r"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d0\u10ee\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tachar"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c7\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0a96\u0abe\u0ab0"
     ],
     "name:hin_x_preferred":[
         "\u0924\u0916\u093c\u093e\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u056d\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "Takhar"
@@ -108,6 +102,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0c96\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10ee\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ud558\ub974 \uc8fc"
@@ -124,23 +121,23 @@
     "name:mar_x_preferred":[
         "\u0924\u0916\u093e\u0930"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Takhar"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0445\u0430\u0440 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Takhar"
+    ],
     "name:new_x_preferred":[
         "\u0924\u0916\u093e\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Tachar"
     ],
     "name:nob_x_preferred":[
         "Takhar"
     ],
     "name:pan_x_preferred":[
         "\u0a24\u0a16\u0a3e\u0a30 \u0a38\u0a42\u0a2c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u062a \u062a\u062e\u0627\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u062e\u0627\u0631"
@@ -154,7 +151,7 @@
     "name:pus_x_preferred":[
         "\u062a\u062e\u0627\u0631 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Takhar"
     ],
     "name:rus_x_preferred":[
@@ -210,6 +207,9 @@
     ],
     "name:war_x_preferred":[
         "Takhar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u54c8\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AFG",
@@ -340,7 +340,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1553550306,
+    "wof:lastmodified":1561775731,
     "wof:name":"Takhar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

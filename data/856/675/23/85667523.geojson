@@ -31,9 +31,6 @@
     "name:aze_x_preferred":[
         "S\u0259ri-Pul"
     ],
-    "name:baq_x_preferred":[
-        "Sar-e Pol probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u0440\u044b-\u041f\u0443\u043b\u044c"
     ],
@@ -46,23 +43,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Sar-e Pol"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u723e\u666e\u52d2\u7701"
+    "name:ces_x_preferred":[
+        "Sar-e Pol"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u06d5\u0631\u067e\u0648\u0644"
     ],
-    "name:cze_x_preferred":[
-        "Sar-e Pol"
-    ],
     "name:dan_x_preferred":[
         "Sar-e Pol"
+    ],
+    "name:deu_x_preferred":[
+        "Sar-i Pul"
     ],
     "name:diq_x_preferred":[
         "Ser\u00ea Puli"
     ],
-    "name:dut_x_preferred":[
-        "Sar-e Pol"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1-\u03b5 \u03a0\u03bf\u03bb"
     ],
     "name:eng_x_preferred":[
         "Sare Pol"
@@ -77,20 +74,17 @@
     "name:est_x_preferred":[
         "Sar-e Poli provints"
     ],
+    "name:eus_x_preferred":[
+        "Sar-e Pol probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u0633\u0631\u067e\u0644"
+    ],
     "name:fin_x_preferred":[
         "Sar-e Polin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sar-\u00e9 Pol"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d8\u10de\u10e3\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sar-i Pul"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c1-\u03b5 \u03a0\u03bf\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab0-\u0a8f \u0aaa\u0acb\u0ab2"
@@ -110,6 +104,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cb0\u0ccd-\u0c87 \u0caa\u0ccb\u0cb2\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d8\u10de\u10e3\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\ub974\uc774\ud3f4 \uc8fc"
     ],
@@ -122,23 +119,23 @@
     "name:mar_x_preferred":[
         "\u0938\u0930-\u090f \u092a\u094b\u0932"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Sar-e Pol"
-    ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0440\u0438-\u041f\u0443\u043b\u044c \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Sar-e Pol"
+    ],
     "name:new_x_preferred":[
         "\u0938\u0930\u094d\u092a\u093f\u0932 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Sar-e Pol"
     ],
     "name:nob_x_preferred":[
         "Sar-e Pol"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a30\u0a47 \u0a2a\u0a4b\u0a32"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u062a \u0633\u0631\u067e\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0631 \u0627\u06d2 \u067e\u0648\u0644"
@@ -152,7 +149,7 @@
     "name:pus_x_preferred":[
         "\u0633\u0631\u067e\u0644 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Sar-e Pol"
     ],
     "name:rus_x_preferred":[
@@ -208,6 +205,9 @@
     ],
     "name:war_x_preferred":[
         "Sar-e Pol"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u723e\u666e\u52d2\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AFG",
@@ -334,7 +334,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1553550293,
+    "wof:lastmodified":1561775735,
     "wof:name":"Sari Pul",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

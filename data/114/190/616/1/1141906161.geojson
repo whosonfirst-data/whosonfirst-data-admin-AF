@@ -29,14 +29,14 @@
     "name:cat_x_preferred":[
         "Zarang"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u5170\u5b63"
-    ],
     "name:dan_x_preferred":[
         "Zaranj"
     ],
-    "name:dut_x_preferred":[
-        "Zaranj"
+    "name:deu_x_preferred":[
+        "Sarandsch"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03c1\u03ac\u03bd\u03b6"
     ],
     "name:eng_x_preferred":[
         "Zaranj"
@@ -47,17 +47,14 @@
     "name:est_x_preferred":[
         "Zaranj"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0646\u062c"
+    ],
     "name:fin_x_preferred":[
         "Zaranj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zarandj"
-    ],
-    "name:ger_x_preferred":[
-        "Sarandsch"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03c1\u03ac\u03bd\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0ab0\u0a82\u0a9c"
@@ -89,14 +86,14 @@
     "name:mar_x_preferred":[
         "\u091d\u093e\u0930\u0902\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Zaranj"
+    ],
+    "name:nld_x_preferred":[
         "Zaranj"
     ],
     "name:nob_x_preferred":[
         "Zaranj"
-    ],
-    "name:per_x_preferred":[
-        "\u0632\u0631\u0646\u062c"
     ],
     "name:pol_x_preferred":[
         "Zarand\u017c"
@@ -107,7 +104,7 @@
     "name:pus_x_preferred":[
         "\u0632\u0631\u0646\u062c"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sarandsch"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     ],
     "name:war_x_preferred":[
         "Zaranj"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5170\u5b63"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1141906161,
-    "wof:lastmodified":1513888410,
+    "wof:lastmodified":1561776026,
     "wof:name":"Zaranj",
     "wof:parent_id":1108562129,
     "wof:placetype":"locality",

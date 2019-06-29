@@ -23,14 +23,14 @@
     "name:cat_x_preferred":[
         "Kalat-i-Ghilzai"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u7279"
-    ],
     "name:dan_x_preferred":[
         "Qalat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qalat"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Qalat"
@@ -47,14 +47,8 @@
     "name:fin_x_preferred":[
         "Qalat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Qal\u00e2t"
-    ],
-    "name:ger_x_preferred":[
-        "Qalat"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abe\u0ab2\u0abe\u0aa4"
@@ -86,7 +80,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0942\u0932\u093e\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Qalat"
+    ],
+    "name:nld_x_preferred":[
         "Qalat"
     ],
     "name:nno_x_preferred":[
@@ -94,9 +91,6 @@
     ],
     "name:nob_x_preferred":[
         "Qalat"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0644\u0627\u062a"
     ],
     "name:pol_x_preferred":[
         "Kalat"
@@ -142,6 +136,9 @@
     ],
     "name:war_x_preferred":[
         "Qalat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -282,7 +279,7 @@
         }
     ],
     "wof:id":421175753,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561775928,
     "wof:name":"Kal\u0101t-i-Ghilzai",
     "wof:parent_id":1108562381,
     "wof:placetype":"locality",

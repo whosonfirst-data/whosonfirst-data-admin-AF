@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0627\u0631 \u0634\u0631\u064a\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
-    ],
     "name:ast_x_preferred":[
         "Mazar-e Sharif"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0438-\u0428\u04d9\u0440\u0438\u0444"
-    ],
-    "name:baq_x_preferred":[
-        "Mazar-e Sharif"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u044b-\u0428\u0430\u0440\u044b\u0444"
@@ -46,14 +40,11 @@
     "name:cat_x_preferred":[
         "Mazar-e Xarif"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u624e\u91cc\u6c99\u91cc\u592b"
+    "name:ces_x_preferred":[
+        "Maz\u00e1r-e \u0160ar\u00edf"
     ],
     "name:cos_x_preferred":[
         "Mazar-i Sharif"
-    ],
-    "name:cze_x_preferred":[
-        "Maz\u00e1r-e \u0160ar\u00edf"
     ],
     "name:dan_x_preferred":[
         "Mazar-e Sharif"
@@ -61,8 +52,8 @@
     "name:deu_x_preferred":[
         "Masar-e Scharif"
     ],
-    "name:dut_x_preferred":[
-        "Mazar-e Sjarif"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b6\u03ac\u03c1\u03b9 \u03a3\u03b1\u03c1\u03af\u03c6"
     ],
     "name:eng_x_preferred":[
         "Mazari Sharif"
@@ -73,26 +64,20 @@
     "name:est_x_preferred":[
         "Maz\u0101r-e Shar\u012bf"
     ],
+    "name:eus_x_preferred":[
+        "Mazar-e Sharif"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0632\u0627\u0631 \u0634\u0631\u06cc\u0641"
     ],
     "name:fin_x_preferred":[
         "Mazar-e-Sharif"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Maz\u00e2r-e Char\u00eef"
     ],
     "name:fry_x_preferred":[
         "Mazar-e-Sharif"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d6\u10d0\u10e0-\u10d8-\u10e8\u10d0\u10e0\u10d8\u10e4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Masar-e Scharif"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b6\u03ac\u03c1\u03b9 \u03a3\u03b1\u03c1\u03af\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9d\u0abe\u0ab0-\u0a8f-\u0ab6\u0ab0\u0ac0\u0aab"
@@ -109,6 +94,9 @@
     "name:hun_x_preferred":[
         "Maz\u00e1r-e Sarif"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
+    ],
     "name:ind_x_preferred":[
         "Mazari Sharif"
     ],
@@ -124,6 +112,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0c9d\u0cbe\u0cb0\u0ccd-\u0c87-\u0cb6\u0cb0\u0cc0\u0cab\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d6\u10d0\u10e0-\u10d8-\u10e8\u10d0\u10e0\u10d8\u10e4\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0438-\u0428\u0430\u0440\u0438\u0444"
     ],
@@ -136,17 +127,17 @@
     "name:lit_x_preferred":[
         "Mazari \u0160arifas"
     ],
-    "name:mao_x_preferred":[
-        "Mazar-i-Sharif"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u091d\u093e\u0930-\u090f-\u0936\u0930\u0940\u092b"
     ],
-    "name:may_x_preferred":[
-        "Mazari Sharif"
-    ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440-\u0438-\u0428\u0430\u0440\u0438\u0444"
+    ],
+    "name:mri_x_preferred":[
+        "Mazar-i-Sharif"
+    ],
+    "name:msa_x_preferred":[
+        "Mazari Sharif"
     ],
     "name:nau_x_preferred":[
         "Mazar-e Sharif"
@@ -156,6 +147,9 @@
     ],
     "name:nld_x_preferred":[
         "Mazar-e Sharif"
+    ],
+    "name:nld_x_variant":[
+        "Mazar-e Sjarif"
     ],
     "name:nno_x_preferred":[
         "Mazar-e Sharif"
@@ -172,9 +166,6 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a1c\u0a3c\u0a3e\u0a30-\u0a0f-\u0a38\u0a3c\u0a30\u0a40\u0a2b"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0632\u0627\u0631 \u0634\u0631\u06cc\u0641"
-    ],
     "name:pms_x_preferred":[
         "Mazar-i Sharif"
     ],
@@ -190,7 +181,7 @@
     "name:pus_x_preferred":[
         "\u0645\u0632\u0627\u0631 \u0634\u0631\u064a\u0641"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Masar-e Scharif"
     ],
     "name:rus_x_preferred":[
@@ -202,7 +193,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dc3\u0dbb\u0dca -\u0d85\u0dba\u0dd2 -\u0dc2\u0dbb\u0dd2\u0dc6\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Maz\u00e1r-e \u0160ar\u00edf"
     ],
     "name:slv_x_preferred":[
@@ -249,6 +240,9 @@
     ],
     "name:war_x_preferred":[
         "Mazari Sharif"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u624e\u91cc\u6c99\u91cc\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -377,7 +371,7 @@
         }
     ],
     "wof:id":890443559,
-    "wof:lastmodified":1527787057,
+    "wof:lastmodified":1561775930,
     "wof:name":"Maz\u0101r-e Shar\u012bf",
     "wof:parent_id":1108562267,
     "wof:placetype":"locality",

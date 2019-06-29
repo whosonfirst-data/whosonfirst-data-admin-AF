@@ -27,9 +27,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Fayzabad"
-    ],
     "name:eng_x_preferred":[
         "Fayz Abad"
     ],
@@ -37,7 +34,10 @@
         "Fayzabad",
         "Fayz abad"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
         "Fayzabad"
     ],
     "name:ind_x_preferred":[
@@ -46,11 +46,11 @@
     "name:ita_x_preferred":[
         "distretto di Fayzabad"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Fayzabad"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    "name:nld_x_preferred":[
+        "Fayzabad"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0641\u06cc\u0636 \u0622\u0628\u0627\u062f"
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":421191409,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1561775929,
     "wof:name":"Fayzabad",
     "wof:parent_id":85667573,
     "wof:placetype":"county",
