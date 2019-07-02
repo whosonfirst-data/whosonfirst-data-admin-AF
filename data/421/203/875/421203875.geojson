@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062e"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u056d"
-    ],
     "name:ast_x_preferred":[
         "Balkh"
     ],
@@ -47,14 +44,8 @@
     "name:ces_x_preferred":[
         "Balch"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5c14\u8d6b"
-    ],
     "name:cym_x_preferred":[
         "Balkh"
-    ],
-    "name:cze_x_preferred":[
-        "Balch"
     ],
     "name:dan_x_preferred":[
         "Balkh"
@@ -62,11 +53,11 @@
     "name:deu_x_preferred":[
         "Balch"
     ],
-    "name:dut_x_preferred":[
-        "Balch"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bb\u03c7"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03c1\u03af\u03b1\u03c3\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Balkh"
@@ -86,17 +77,8 @@
     "name:fra_x_preferred":[
         "Balkh"
     ],
-    "name:fre_x_preferred":[
-        "Balkh"
-    ],
     "name:fry_x_preferred":[
         "Balch"
-    ],
-    "name:ger_x_preferred":[
-        "Balch"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03c1\u03af\u03b1\u03c3\u03c0\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Balch"
@@ -134,9 +116,6 @@
     "name:mal_x_preferred":[
         "\u0d2c\u0d7d\u0d16\u0d4d"
     ],
-    "name:may_x_preferred":[
-        "Daerah Balkh"
-    ],
     "name:msa_x_preferred":[
         "Daerah Balkh"
     ],
@@ -148,9 +127,6 @@
     ],
     "name:nor_x_preferred":[
         "Balkh"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u062e"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u062e"
@@ -167,9 +143,6 @@
     "name:ron_x_preferred":[
         "Balch"
     ],
-    "name:rum_x_preferred":[
-        "Balch"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0445"
     ],
@@ -180,9 +153,6 @@
         "Balkh"
     ],
     "name:slk_x_preferred":[
-        "Balch"
-    ],
-    "name:slo_x_preferred":[
         "Balch"
     ],
     "name:slv_x_preferred":[
@@ -217,9 +187,6 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Balkh"
-    ],
-    "name:wel_x_preferred":[
-        "Balkh"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u8d6b"
@@ -368,7 +335,7 @@
         }
     ],
     "wof:id":421203875,
-    "wof:lastmodified":1527716191,
+    "wof:lastmodified":1561775928,
     "wof:name":"Balkh",
     "wof:parent_id":1108561853,
     "wof:placetype":"locality",

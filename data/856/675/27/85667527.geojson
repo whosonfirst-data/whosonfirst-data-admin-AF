@@ -46,23 +46,26 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Farah"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u62c9\u7701"
+    "name:ces_x_preferred":[
+        "Far\u00e1h"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0641\u06d5\u0631\u0627\u06be"
     ],
-    "name:cze_x_preferred":[
-        "Far\u00e1h"
+    "name:cym_x_preferred":[
+        "Farah"
     ],
     "name:dan_x_preferred":[
+        "Farah"
+    ],
+    "name:deu_x_preferred":[
         "Farah"
     ],
     "name:diq_x_preferred":[
         "Ferah"
     ],
-    "name:dut_x_preferred":[
-        "Farah"
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c1\u03ac\u03c7"
     ],
     "name:eng_x_preferred":[
         "Farah"
@@ -73,20 +76,14 @@
     "name:est_x_preferred":[
         "Far\u0101hi provints"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u0641\u0631\u0627\u0647"
+    ],
     "name:fin_x_preferred":[
         "Farahin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Far\u00e2h"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10e0\u10d0\u10f0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Farah"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03c1\u03ac\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab0\u0abe\u0ab9"
@@ -106,6 +103,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cb0\u0cbe\u0cb9\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e0\u10d0\u10f0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ub77c \uc8fc"
     ],
@@ -121,20 +121,20 @@
     "name:mar_x_preferred":[
         "\u092b\u0930\u093e\u0939"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Farah"
-    ],
     "name:mon_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0445 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Farah"
     ],
     "name:new_x_preferred":[
         "\u092b\u0930\u093e\u090f \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Farah"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0627\u06cc\u062a \u0641\u0631\u0627\u0647"
+    "name:nob_x_preferred":[
+        "Farah"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u0631\u0627\u06c1"
@@ -148,7 +148,7 @@
     "name:pus_x_preferred":[
         "\u0641\u0631\u0627\u0647 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Farah"
     ],
     "name:rus_x_preferred":[
@@ -160,7 +160,7 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0dcf\u0dbb\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Far\u00e1h"
     ],
     "name:spa_x_preferred":[
@@ -208,8 +208,8 @@
     "name:war_x_preferred":[
         "Farah"
     ],
-    "name:wel_x_preferred":[
-        "Farah"
+    "name:zho_x_preferred":[
+        "\u6cd5\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AFG",
@@ -340,7 +340,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1553550294,
+    "wof:lastmodified":1561775732,
     "wof:name":"Farah",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

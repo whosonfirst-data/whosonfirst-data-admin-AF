@@ -31,14 +31,14 @@
     "name:cat_x_preferred":[
         "Qala-e Naw"
     ],
-    "name:chi_x_preferred":[
-        "\u7459\u5821"
-    ],
     "name:dan_x_preferred":[
         "Qala i Naw"
     ],
-    "name:dut_x_preferred":[
-        "Qala-e-Now"
+    "name:deu_x_preferred":[
+        "Qala-i-Naw"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb-\u03ad\u03b3\u03c7\u03b9\u03b5-\u039d\u03cc\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Qala i Naw"
@@ -52,20 +52,17 @@
     "name:fas_x_preferred":[
         "\u0642\u0644\u0639\u06c0 \u0646\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0644\u0639\u0647 \u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Qal'eh-ye Naw"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Qala-I-Naw"
-    ],
-    "name:ger_x_preferred":[
-        "Qala-i-Naw"
     ],
     "name:glg_x_preferred":[
         "Qal'eh-ye Now"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb-\u03ad\u03b3\u03c7\u03b9\u03b5-\u039d\u03cc\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab2\u0abe \u0a86\u0a88 \u0aa8\u0abe\u0ab5"
@@ -97,14 +94,14 @@
     "name:mar_x_preferred":[
         "\u0915\u0932\u093e \u0906\u092f \u0928\u093e\u0935"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Qala i Naw"
+    ],
+    "name:nld_x_preferred":[
+        "Qala-e-Now"
     ],
     "name:nob_x_preferred":[
         "Qala i Naw"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0644\u0639\u0647 \u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Kala-je Nau"
@@ -115,7 +112,7 @@
     "name:pus_x_preferred":[
         "\u0642\u0644\u0639\u0647 \u0646\u0648"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Qala-i-Naw"
     ],
     "name:rus_x_preferred":[
@@ -156,6 +153,9 @@
     ],
     "name:war_x_preferred":[
         "Qala i Naw"
+    ],
+    "name:zho_x_preferred":[
+        "\u7459\u5821"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -287,7 +287,7 @@
         }
     ],
     "wof:id":890443561,
-    "wof:lastmodified":1534379076,
+    "wof:lastmodified":1561775930,
     "wof:name":"Qala i Naw",
     "wof:parent_id":1108562377,
     "wof:placetype":"locality",

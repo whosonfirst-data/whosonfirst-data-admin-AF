@@ -26,26 +26,23 @@
     "mps:longitude":70.671098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e9e\u6b3d\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "A\u010din"
+    ],
+    "name:deu_x_preferred":[
+        "Atschin"
     ],
     "name:eng_x_preferred":[
         "Achin"
     ],
-    "name:ger_x_preferred":[
-        "Atschin"
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0627\u0686\u06cc\u0646"
     ],
     "name:ita_x_preferred":[
         "distretto di Achin"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Achin"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0627\u0686\u06cc\u0646"
     ],
     "name:pus_x_preferred":[
         "\u0627\u0686\u064a\u0646 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Achin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u6b3d\u5340"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1108561777,
-    "wof:lastmodified":1536615172,
+    "wof:lastmodified":1561775872,
     "wof:name":"Acheen",
     "wof:parent_id":85667591,
     "wof:placetype":"county",

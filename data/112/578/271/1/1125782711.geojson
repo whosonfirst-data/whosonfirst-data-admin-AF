@@ -34,14 +34,17 @@
     "name:cat_x_preferred":[
         "Fayzabad"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u624e\u5df4\u5fb7"
+    "name:cym_x_preferred":[
+        "Fayzabad"
     ],
     "name:dan_x_preferred":[
         "Feyzabad"
     ],
-    "name:dut_x_preferred":[
-        "Fayzabad"
+    "name:deu_x_preferred":[
+        "Faizabad"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b5\u03cb\u03b6\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Fayzabad"
@@ -55,20 +58,14 @@
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0636 \u0622\u0628\u0627\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Faizabad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fayzabad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10d8\u10d6\u10d0\u10d1\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Faizabad"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b5\u03cb\u03b6\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
     "name:gsw_x_preferred":[
         "Faizabad z Afghanistan"
@@ -94,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0cbe\u0caf\u0c9d\u0cbe\u0cac\u0cbe\u0ca6\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10d8\u10d6\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\uc774\uc790\ubc14\ub4dc"
     ],
@@ -106,17 +106,17 @@
     "name:mar_x_preferred":[
         "\u092b\u0948\u091d\u093e\u092c\u093e\u0926"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Fayzabad"
     ],
     "name:nep_x_preferred":[
         "\u092b\u093e\u092f\u091c\u093e\u092c\u093e\u0926"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Fayzabad"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u06cc\u0636\u200c\u0622\u0628\u0627\u062f"
+    "name:nob_x_preferred":[
+        "Fayzabad"
     ],
     "name:pol_x_preferred":[
         "Fajzabad"
@@ -127,7 +127,7 @@
     "name:pus_x_preferred":[
         "Fey\u1e95\u0101b\u0101d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Faizabad"
     ],
     "name:rus_x_preferred":[
@@ -172,8 +172,8 @@
     "name:war_x_preferred":[
         "Fayzabad"
     ],
-    "name:wel_x_preferred":[
-        "Fayzabad"
+    "name:zho_x_preferred":[
+        "\u6cd5\u624e\u5df4\u5fb7"
     ],
     "qs_pg:aaroncc":"AF",
     "qs_pg:gn_country":"AF",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":1125782711,
-    "wof:lastmodified":1513888183,
+    "wof:lastmodified":1561775931,
     "wof:name":"Fayzabad",
     "wof:parent_id":421191409,
     "wof:placetype":"locality",

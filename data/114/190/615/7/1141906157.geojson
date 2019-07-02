@@ -26,17 +26,17 @@
     "name:cat_x_preferred":[
         "Tshaghtsharan"
     ],
-    "name:chi_x_preferred":[
-        "\u6070\u8d6b\u6070\u5170"
-    ],
     "name:dan_x_preferred":[
         "Chaghcharan"
+    ],
+    "name:deu_x_preferred":[
+        "Tschaghtscharan"
     ],
     "name:diq_x_preferred":[
         "\u00c7a\u011f\u00e7eran"
     ],
-    "name:dut_x_preferred":[
-        "Chaghcharan"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03c7\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Chaghcharan"
@@ -47,20 +47,14 @@
     "name:est_x_preferred":[
         "Chaghchar\u0101n"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u063a\u0686\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Chaghcharan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chaghcharan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10f0\u10e9\u10d0\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tschaghtscharan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b1\u03c7\u03b1\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a98\u0a9a\u0ab0\u0aa3"
@@ -80,6 +74,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0c98\u0ccd\u0c9a\u0cb0\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10f0\u10e9\u10d0\u10e0\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ucc2c\uce74\ub780"
     ],
@@ -92,7 +89,10 @@
     "name:mar_x_preferred":[
         "\u091a\u093e\u0917\u091a\u0930\u0923"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Chaghcharan"
+    ],
+    "name:nld_x_preferred":[
         "Chaghcharan"
     ],
     "name:nno_x_preferred":[
@@ -103,9 +103,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a1a\u0a17\u0a3c\u0a1a\u0a30\u0a3e\u0a28"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u063a\u0686\u0631\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u063a\u0686\u0631\u0627\u0646"
@@ -154,6 +151,9 @@
     ],
     "name:war_x_preferred":[
         "Chaghcharan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6070\u8d6b\u6070\u5170"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -274,7 +274,7 @@
         }
     ],
     "wof:id":1141906157,
-    "wof:lastmodified":1513888153,
+    "wof:lastmodified":1561776027,
     "wof:name":"Chaghcharan",
     "wof:parent_id":1108561877,
     "wof:placetype":"locality",
