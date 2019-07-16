@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Farah"
     ],
+    "name:azb_x_preferred":[
+        "\u0641\u0631\u0627\u0647 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "F\u0259rah"
     ],
@@ -40,11 +43,17 @@
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09b9 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09ab\u09be\u09b0\u09be\u09b9 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0445"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Farah"
+    ],
+    "name:ceb_x_preferred":[
+        "Far\u0101h"
     ],
     "name:ces_x_preferred":[
         "Far\u00e1h"
@@ -109,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ud30c\ub77c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ub77c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Far\u0101ha"
     ],
@@ -126,6 +138,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Farah"
+    ],
+    "name:nan_x_preferred":[
+        "Farah S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u092b\u0930\u093e\u090f \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -166,6 +181,9 @@
     "name:spa_x_preferred":[
         "Provincia de Far\u0101h"
     ],
+    "name:spa_x_variant":[
+        "Far\u0101h"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0424\u0430\u0440\u0430\u0445"
     ],
@@ -193,6 +211,9 @@
     "name:tur_x_preferred":[
         "Ferah Vilayeti"
     ],
+    "name:uig_x_preferred":[
+        "\u0641\u06d5\u0631\u0627\u06be \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0445"
     ],
@@ -207,6 +228,9 @@
     ],
     "name:war_x_preferred":[
         "Farah"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cd5\u62c9\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u62c9\u7701"
@@ -340,7 +364,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775732,
+    "wof:lastmodified":1563285351,
     "wof:name":"Farah",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

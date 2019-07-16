@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Lagm\u00e1n"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u063a\u0645\u0627\u0646 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "L\u0259\u011fman"
     ],
@@ -40,11 +43,17 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0997\u09ae\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u0998\u09ae\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0433\u043c\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Laghman"
+    ],
+    "name:ceb_x_preferred":[
+        "Wil\u0101yat-e Laghm\u0101n"
     ],
     "name:ces_x_preferred":[
         "Laghm\u00e1n"
@@ -109,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ub77c\uadf8\ub9cc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uadf8\ub9cc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Lagm\u0101na"
     ],
@@ -126,6 +138,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Laghman"
+    ],
+    "name:nan_x_preferred":[
+        "Laghman S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0932\u0917\u092e\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -166,6 +181,9 @@
     "name:spa_x_preferred":[
         "Provincia de La\u0121m\u0101n"
     ],
+    "name:spa_x_variant":[
+        "La\u0121m\u0101n"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u041b\u0430\u043d\u0433\u043c\u0430\u0440"
     ],
@@ -192,6 +210,9 @@
     ],
     "name:tur_x_preferred":[
         "Lagman Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0644\u0627\u063a\u0645\u0627\u0646 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0433\u043c\u0430\u043d"
@@ -340,7 +361,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775739,
+    "wof:lastmodified":1563285386,
     "wof:name":"Laghman",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

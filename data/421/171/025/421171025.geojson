@@ -27,15 +27,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u0998\u09ae\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:eng_x_preferred":[
         "Baghran"
     ],
     "name:eng_x_variant":[
-        "Baghran",
-        "Bughran"
+        "Bughran",
+        "Paghman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u067e\u063a\u0645\u0627\u0646"
+    ],
+    "name:ind_x_preferred":[
+        "Paghman"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Paghman"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u067e\u063a\u0645\u0627\u0646"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0443\u043b\u0443\u0441\u0432\u043e\u043b\u0438\u0438 \u041f\u0430\u0493\u043c\u043e\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Pagman il\u00e7esi"
     ],
     "name:unk_x_variant":[
         "Paghm\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u063a\u0645\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Paghman"
     ],
     "qs:gn_country":"AF",
     "qs:gn_fcode":"ADM2",
@@ -98,7 +125,7 @@
         }
     ],
     "wof:id":421171025,
-    "wof:lastmodified":1536615923,
+    "wof:lastmodified":1563287909,
     "wof:name":"Baghran",
     "wof:parent_id":85667531,
     "wof:placetype":"county",

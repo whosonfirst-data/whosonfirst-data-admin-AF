@@ -26,11 +26,16 @@
     "mps:longitude":67.475525,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099c\u0998\u09b0\u09bf \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "J\u0101gh\u016br\u012b"
+    ],
     "name:eng_x_preferred":[
         "Jaghuri"
     ],
     "name:eng_x_variant":[
-        "Jaghuri",
         "Jaghori District"
     ],
     "name:fas_x_preferred":[
@@ -65,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u063a\u0648\u0631\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Jaghuri"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +110,7 @@
         }
     ],
     "wof:id":1108562091,
-    "wof:lastmodified":1561775870,
+    "wof:lastmodified":1563287220,
     "wof:name":"Jaghuri",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

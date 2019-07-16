@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Orusg\u00e1n"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u0648\u0632\u0642\u0627\u0646 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Uruzgan"
     ],
@@ -40,11 +43,20 @@
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09c1\u099c\u09cd\u200c\u0997\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09b0\u09c1\u099c\u0997\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0443\u0437\u0433\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Oruzgan"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Oruzgan"
+    ],
+    "name:ceb_x_preferred":[
+        "Uruzg\u0101n"
     ],
     "name:ces_x_preferred":[
         "Or\u00fazg\u00e1n"
@@ -118,6 +130,9 @@
     "name:kor_x_preferred":[
         "\uc6b0\ub8e8\uc988\uac04 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc6b0\ub8e8\uc988\uac04\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Or\u016bzg\u0101nas province"
     ],
@@ -127,6 +142,9 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0646 \u0627\u0631\u0648\u0632\u06af\u0627\u0646"
     ],
+    "name:mal_x_preferred":[
+        "\u0d09\u0d31\u0d4b\u0d38\u0d4d\u0d17\u0d3e\u0d7b \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0909\u0930\u094b\u091c\u0917\u0923"
     ],
@@ -135,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "Urozgan"
+    ],
+    "name:nan_x_preferred":[
+        "Urozgan S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0905\u0930\u094b\u091c\u0917\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -169,6 +190,9 @@
     "name:pus_x_preferred":[
         "\u062f \u0627\u0631\u0632\u06af\u0627\u0646 \u0648\u0644\u0627\u064a\u062a"
     ],
+    "name:pus_x_variant":[
+        "\u0627\u0631\u0648\u0632\u06af\u0627\u0646 \u0648\u0644\u0627\u064a\u062a"
+    ],
     "name:ron_x_preferred":[
         "Provincia Urozgan"
     ],
@@ -183,6 +207,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Ur\u016bzg\u0101n"
+    ],
+    "name:spa_x_variant":[
+        "Ur\u016bzg\u0101n"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u041e\u0440\u0443\u0437\u0433\u0430\u043d"
@@ -210,6 +237,12 @@
     ],
     "name:tur_x_preferred":[
         "Uruzgan"
+    ],
+    "name:tur_x_variant":[
+        "Uruzgan Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06c7\u0631\u06c7\u0632\u06af\u0627\u0646 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0443\u0437\u0433\u0430\u043d"
@@ -356,7 +389,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775735,
+    "wof:lastmodified":1563285365,
     "wof:name":"Uruzgan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

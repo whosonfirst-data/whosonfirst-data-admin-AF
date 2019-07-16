@@ -29,11 +29,13 @@
     "name:aze_x_preferred":[
         "Qaraba\u011f rayonu"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b0\u09ac\u09be\u0997 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:eng_x_preferred":[
         "Qarabagh"
     ],
     "name:eng_x_variant":[
-        "Qarabagh",
         "Qarabagh District"
     ],
     "name:fas_x_preferred":[
@@ -53,6 +55,9 @@
     ],
     "name:tur_x_preferred":[
         "Karaba\u011f il\u00e7esi"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Qarabagh"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +95,7 @@
         }
     ],
     "wof:id":1108562385,
-    "wof:lastmodified":1561775870,
+    "wof:lastmodified":1563287225,
     "wof:name":"Qarabagh",
     "wof:parent_id":85667561,
     "wof:placetype":"county",
