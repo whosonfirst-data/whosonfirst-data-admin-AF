@@ -28,14 +28,23 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0641\u0627\u0631\u06cc\u0627\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0641\u0627\u0631\u064a\u0627\u0628"
+    ],
     "name:ast_x_preferred":[
         "Faryab"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u0631\u06cc\u0627\u0628 \u0648\u06cc\u0644\u0627\u06cc\u062a"
     ],
     "name:aze_x_preferred":[
         "F\u0259ryab"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0424\u0430\u0440'\u044f\u0431"
+    ],
+    "name:bel_x_variant":[
+        "\u0424\u0430\u0440'\u044f\u0431"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b0\u09bf\u09af\u09bc\u09ac \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -45,6 +54,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Faryab"
+    ],
+    "name:ceb_x_preferred":[
+        "Faryab Province"
     ],
     "name:ces_x_preferred":[
         "F\u00e1rj\u00e1b"
@@ -94,6 +106,9 @@
     "name:guj_x_preferred":[
         "\u0aab\u0ab0\u0acd\u0aaf\u0abe\u0aac"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d9\u05d0\u05d1"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u093e\u0930\u092f\u093e\u092c \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -115,6 +130,9 @@
     "name:kor_x_preferred":[
         "\ud30c\ub974\uc57c\ube0c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ub974\uc57c\ube0c\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Farjaba"
     ],
@@ -129,6 +147,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Faryab"
+    ],
+    "name:nan_x_preferred":[
+        "Faryab S\u00e9ng"
     ],
     "name:nep_x_preferred":[
         "\u092b\u0930\u094d\u092f\u093e\u092c"
@@ -154,6 +175,9 @@
     "name:por_x_preferred":[
         "Fariab"
     ],
+    "name:por_x_variant":[
+        "Faryab"
+    ],
     "name:pus_x_preferred":[
         "\u0641\u0627\u0631\u064a\u0627\u0628 \u0648\u0644\u0627\u064a\u062a"
     ],
@@ -174,6 +198,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de F\u0101ry\u0101b"
+    ],
+    "name:spa_x_variant":[
+        "F\u0101ry\u0101b"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0424\u0430\u0440\u0458\u0430\u0431"
@@ -202,6 +229,9 @@
     "name:tur_x_preferred":[
         "Faryab Vilayeti"
     ],
+    "name:uig_x_preferred":[
+        "\u0641\u0627\u0631\u064a\u0627\u0628 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440'\u044f\u0431"
     ],
@@ -211,11 +241,17 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0641\u0627\u0631\u06cc\u0627\u0628"
     ],
+    "name:uzb_x_preferred":[
+        "Foryob"
+    ],
     "name:vie_x_preferred":[
         "Faryab"
     ],
     "name:war_x_preferred":[
         "Faryab"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cd5\u91cc\u4e9a\u5e03\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u91cc\u4e9a\u5e03\u7701"
@@ -352,7 +388,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775733,
+    "wof:lastmodified":1563285357,
     "wof:name":"Faryab",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

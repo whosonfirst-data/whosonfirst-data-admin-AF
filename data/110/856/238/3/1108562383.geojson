@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "Qalayi Zal vulusvalisi"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b2\u09c7-\u0987-\u099c\u09be\u09b2 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:eng_x_preferred":[
         "Qalay-i-Zal"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:pus_x_preferred":[
         "\u0642\u0644\u0627 \u0632\u0627\u0644 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u0630\u0627\u0644 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Qalay-i-Zal"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1108562383,
-    "wof:lastmodified":1561775870,
+    "wof:lastmodified":1563287225,
     "wof:name":"Qalay-I- Zal",
     "wof:parent_id":85667585,
     "wof:placetype":"county",

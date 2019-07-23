@@ -25,15 +25,208 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u063a\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Gor"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u0648\u0631 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Q\u00f6vr"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u043e\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u0998\u09cb\u09b0 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Ghur"
+    ],
+    "name:ceb_x_preferred":[
+        "Wil\u0101yat-e Gh\u014dr"
+    ],
+    "name:ces_x_preferred":[
+        "Gh\u00f3r"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u063a\u06c6\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Ghor"
+    ],
+    "name:dan_x_preferred":[
+        "Ghowr"
+    ],
+    "name:deu_x_preferred":[
+        "Ghor"
+    ],
+    "name:diq_x_preferred":[
+        "Qewr"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bf\u03cd\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Ghowr"
     ],
     "name:eng_x_variant":[
         "Ghor",
-        "Ghur"
+        "Ghur",
+        "Gh\u014dr"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Gor"
+    ],
+    "name:est_x_preferred":[
+        "Ghowri provints"
+    ],
+    "name:eus_x_preferred":[
+        "Ghor probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Ghowrin maakunta"
+    ],
+    "name:fra_x_preferred":[
+        "Gh\u00f4r"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2\u0acd\u0aae\u0abe\u0a9f\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093c\u094b\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Gh\u014dr"
+    ],
+    "name:ita_x_preferred":[
+        "Ghowr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30fc\u30eb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c98\u0ccb\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e6\u10dd\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\ub974\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Gouras province"
+    ],
+    "name:lit_x_preferred":[
+        "Goro provincija"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0622\u0633\u062a\u0648\u0646 \u063a\u0648\u0631"
+    ],
+    "name:mar_x_preferred":[
+        "\u0918\u094b\u0930"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u043e\u0440 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Ghor"
+    ],
+    "name:nan_x_preferred":[
+        "Ghor S\u00e9ng"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094c\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Ghowr"
+    ],
+    "name:nob_x_preferred":[
+        "Ghowr"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a17\u0a3c\u0a4b\u0a30 \u0a38\u0a42\u0a2c\u0a3e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u063a\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Ghor"
+    ],
+    "name:por_x_preferred":[
+        "Ghowr"
+    ],
+    "name:pus_x_preferred":[
+        "\u063a\u0648\u0631 \u0648\u0644\u0627\u064a\u062a"
+    ],
+    "name:ron_x_preferred":[
+        "Provincia Ghur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Ghor Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9d\u0ddd\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "\u0120awr"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0413\u043e\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Propinsi Ghor"
+    ],
+    "name:swe_x_preferred":[
+        "Ghor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbf\u0bb9\u0bbe\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c18\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0492\u0443\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e2d\u0e2e\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Gur Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u063a\u0648\u0631 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440"
     ],
     "name:unk_x_variant":[
         "Thorat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u063a\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Ghor"
+    ],
+    "name:war_x_preferred":[
+        "Ghor"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u723e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"AFG",
@@ -164,7 +357,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1553550304,
+    "wof:lastmodified":1563285354,
     "wof:name":"Ghor",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

@@ -26,6 +26,9 @@
     "mps:longitude":68.63737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09af\u09bc\u09a6\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:deu_x_preferred":[
         "Sajedabad"
     ],
@@ -54,8 +57,14 @@
     "name:pus_x_preferred":[
         "\u0633\u064a\u062f \u0622\u0628\u0627\u062f \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439\u0434\u0430\u0431\u0430\u0434"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Sayd Abad"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u8036\u9054\u5df4\u5fb7\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1108562441,
-    "wof:lastmodified":1561775860,
+    "wof:lastmodified":1563287172,
     "wof:name":"Saydabad",
     "wof:parent_id":85667635,
     "wof:placetype":"county",

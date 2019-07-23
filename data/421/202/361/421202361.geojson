@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Mazar-e Sharif"
     ],
+    "name:cat_x_variant":[
+        "Mazar-e Xarif"
+    ],
     "name:ceb_x_preferred":[
         "Maz\u0101r-e Shar\u012bf"
     ],
@@ -98,6 +101,9 @@
         "Maz\u00e1r-e Sarif"
     ],
     "name:hye_x_preferred":[
+        "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
+    ],
+    "name:hyw_x_preferred":[
         "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
     ],
     "name:ind_x_preferred":[
@@ -169,6 +175,9 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a1c\u0a3c\u0a3e\u0a30-\u0a0f-\u0a38\u0a3c\u0a30\u0a40\u0a2b\u0a3c"
     ],
+    "name:pan_x_variant":[
+        "\u0a2e\u0a1c\u0a3c\u0a3e\u0a30-\u0a0f-\u0a38\u0a3c\u0a30\u0a40\u0a2b"
+    ],
     "name:pms_x_preferred":[
         "Mazar-i Sharif"
     ],
@@ -205,6 +214,9 @@
     "name:spa_x_preferred":[
         "Mazar-e Sarif"
     ],
+    "name:spa_x_variant":[
+        "Mazari Sharif"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0438 \u0428\u0430\u0440\u0438\u0444"
     ],
@@ -213,6 +225,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b9a\u0bbe\u0bb0\u0bcd \u0b88 \u0b9a\u0bb0\u0bc0\u0baa\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u044b-\u0428\u04d9\u0440\u0438\u0444"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c1c\u0c3e\u0c30\u0c4d-\u0c10-\u0c37\u0c30\u0c40\u0c2b\u0c4d"
@@ -234,6 +249,9 @@
     ],
     "name:uzb_x_preferred":[
         "Mozori-Sharif"
+    ],
+    "name:uzb_x_variant":[
+        "Mozori sharif"
     ],
     "name:vie_x_preferred":[
         "Mazar-i-Sharif"
@@ -291,7 +309,7 @@
         }
     ],
     "wof:id":421202361,
-    "wof:lastmodified":1561775928,
+    "wof:lastmodified":1563287889,
     "wof:name":"Mazar-i-Sharif",
     "wof:parent_id":1108562267,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Mazar-e Xarif"
     ],
+    "name:ceb_x_preferred":[
+        "Maz\u0101r-e Shar\u012bf"
+    ],
     "name:ces_x_preferred":[
         "Maz\u00e1r-e \u0160ar\u00edf"
     ],
@@ -58,6 +61,9 @@
     "name:eng_x_preferred":[
         "Mazari Sharif"
     ],
+    "name:eng_x_variant":[
+        "Mazar-i-Sharif"
+    ],
     "name:epo_x_preferred":[
         "Mazar-i \u015carif"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:fin_x_preferred":[
         "Mazar-e-Sharif"
+    ],
+    "name:fin_x_variant":[
+        "Mazar-i-Sharif"
     ],
     "name:fra_x_preferred":[
         "Maz\u00e2r-e Char\u00eef"
@@ -95,6 +104,9 @@
         "Maz\u00e1r-e Sarif"
     ],
     "name:hye_x_preferred":[
+        "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
+    ],
+    "name:hyw_x_preferred":[
         "\u0544\u0561\u0566\u0561\u0580\u056b \u0547\u0561\u0580\u056b\u0586"
     ],
     "name:ind_x_preferred":[
@@ -202,6 +214,9 @@
     "name:spa_x_preferred":[
         "Maz\u0101r-e \u0160ar\u012bf"
     ],
+    "name:spa_x_variant":[
+        "Mazari Sharif"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0438 \u0428\u0430\u0440\u0438\u0444"
     ],
@@ -210,6 +225,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b9a\u0bbe\u0bb0\u0bcd \u0b88 \u0b9a\u0bb0\u0bc0\u0baa\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u044b-\u0428\u04d9\u0440\u0438\u0444"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c1c\u0c3e\u0c30\u0c4d-\u0c10-\u0c37\u0c30\u0c40\u0c2b\u0c4d"
@@ -371,7 +389,7 @@
         }
     ],
     "wof:id":890443559,
-    "wof:lastmodified":1561775930,
+    "wof:lastmodified":1563287924,
     "wof:name":"Maz\u0101r-e Shar\u012bf",
     "wof:parent_id":1108562267,
     "wof:placetype":"locality",

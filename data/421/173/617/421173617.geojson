@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u0642\u0627\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u043b\u0443\u043a\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b2\u09cb\u0995\u09c1\u09af\u09bc\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043b\u0443\u043a\u0430\u043d"
     ],
@@ -29,8 +35,14 @@
     "name:ceb_x_preferred":[
         "Taloqan"
     ],
+    "name:dan_x_preferred":[
+        "Taloqan"
+    ],
     "name:deu_x_preferred":[
         "Taloqan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03bb\u03bf\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Taloqan"
@@ -50,8 +62,20 @@
     "name:fra_x_preferred":[
         "T\u00e2loq\u00e2n"
     ],
+    "name:gsw_x_preferred":[
+        "Taloqan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0ab2\u0acb\u0a95\u0abe\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05ea\u05dc\u05d0\u05e7\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0932\u094b\u0915\u093c\u093e\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Taloqan"
     ],
     "name:ita_x_preferred":[
         "Taloqan"
@@ -59,19 +83,43 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30fc\u30eb\u30ab\u30fc\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30ed\u30ab\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cbe\u0cb2\u0ccb\u0c95\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d7\u10d0\u10da\u10d8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c8\ub85c\uce78"
+    ],
+    "name:lav_x_preferred":[
+        "Talukana"
     ],
     "name:lit_x_preferred":[
         "Talukanas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d32\u0d4b\u0d16\u0d3e\u0d7b"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0932\u094b\u0915\u093e\u0928"
+    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u043b\u0443\u043a\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Taloqan"
     ],
     "name:nep_x_preferred":[
         "\u0924\u093e\u0932\u094b\u0915\u093e\u0902"
     ],
     "name:nld_x_preferred":[
+        "Taloqan"
+    ],
+    "name:nob_x_preferred":[
         "Taloqan"
     ],
     "name:nor_x_preferred":[
@@ -89,6 +137,9 @@
     "name:por_x_preferred":[
         "Talocan"
     ],
+    "name:por_x_variant":[
+        "Taloqan"
+    ],
     "name:pus_x_preferred":[
         "\u062a\u0627\u0644\u0642\u0627\u0646"
     ],
@@ -101,6 +152,9 @@
     "name:rus_x_variant":[
         "\u0422\u0430\u043b\u0438\u043a\u0430\u043d"
     ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbd\u0ddc\u0d9a\u0dcf\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Taloqan"
     ],
@@ -109,6 +163,15 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bb2\u0bcb\u0b95\u0bc1\u0bb5\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043b\u0443\u043a\u0430\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c3e\u0c32\u0c4b\u0c15\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e42\u0e23\u0e01\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Talukan"
@@ -121,6 +184,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0644\u0642\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Taloqan"
     ],
     "name:war_x_preferred":[
         "Taloqan"
@@ -270,7 +336,7 @@
         }
     ],
     "wof:id":421173617,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1563287892,
     "wof:name":"Taloqan",
     "wof:parent_id":421188911,
     "wof:placetype":"locality",

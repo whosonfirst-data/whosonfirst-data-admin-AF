@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Khost"
     ],
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u0633\u062a \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Xust"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Khost"
+    ],
+    "name:ceb_x_preferred":[
+        "Vel\u0101yat-e Khowst"
     ],
     "name:ces_x_preferred":[
         "Ch\u00f3st"
@@ -115,8 +121,14 @@
     "name:kor_x_preferred":[
         "\ud638\uc2a4\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud638\uc2a4\ud2b8\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Hostas province"
+    ],
+    "name:lav_x_variant":[
+        "Houstas province"
     ],
     "name:lit_x_preferred":[
         "Chosto provincija"
@@ -132,6 +144,9 @@
     ],
     "name:msa_x_preferred":[
         "Khost"
+    ],
+    "name:nan_x_preferred":[
+        "Khost S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0916\u094b\u0938\u094d\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -172,6 +187,9 @@
     "name:spa_x_preferred":[
         "Provincia de Jost"
     ],
+    "name:spa_x_variant":[
+        "Jost"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u041a\u043e\u0443\u0441\u0442"
     ],
@@ -183,6 +201,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb9\u0bcb\u0bb8\u0bcd\u0b9f"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bcb\u0b9a\u0bc1\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c16\u0c4b\u0c38\u0c4d\u0c1f\u0c4d"
@@ -198,6 +219,9 @@
     ],
     "name:tur_x_preferred":[
         "Host Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u062e\u0648\u0633\u062a \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0441\u0442"
@@ -345,7 +369,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775734,
+    "wof:lastmodified":1563285364,
     "wof:name":"Khost",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

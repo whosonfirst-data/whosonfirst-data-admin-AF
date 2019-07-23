@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Baglan"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u063a\u0644\u0627\u0646 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "B\u0259\u011flan"
     ],
@@ -40,11 +43,17 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09b2\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u0997\u09b2\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u043b\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Baghlan"
+    ],
+    "name:ceb_x_preferred":[
+        "Wil\u0101yat-e Baghl\u0101n"
     ],
     "name:ces_x_preferred":[
         "Baghl\u00e1n"
@@ -115,6 +124,9 @@
     "name:kor_x_preferred":[
         "\ubc14\uae00\ub780 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uae00\ub780\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Bagl\u0101na"
     ],
@@ -132,6 +144,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Baghlan"
+    ],
+    "name:nan_x_preferred":[
+        "Baghlan S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u092c\u0917\u0932\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -169,6 +184,9 @@
     "name:spa_x_preferred":[
         "Provincia de Baghlan"
     ],
+    "name:spa_x_variant":[
+        "Baghlan"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0411\u0430\u0433\u043b\u0430\u043d"
     ],
@@ -196,6 +214,9 @@
     "name:tur_x_preferred":[
         "Baglan Vilayeti"
     ],
+    "name:uig_x_preferred":[
+        "\u0628\u0627\u063a\u0644\u0627\u0646 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0433\u043b\u0430\u043d"
     ],
@@ -210,6 +231,9 @@
     ],
     "name:war_x_preferred":[
         "Baghlan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u683c\u5170\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u683c\u5170\u7701"
@@ -343,7 +367,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775740,
+    "wof:lastmodified":1563285389,
     "wof:name":"Baghlan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

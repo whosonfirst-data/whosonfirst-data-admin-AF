@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Nurest\u00e1n"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Nuristan"
     ],
@@ -40,11 +43,17 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09b0\u09c7\u09b8\u09cd\u09a4\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0443\u0440\u0438\u0441\u0442\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nuristan"
+    ],
+    "name:ceb_x_preferred":[
+        "Vel\u0101yat-e N\u016brest\u0101n"
     ],
     "name:ces_x_preferred":[
         "N\u00farist\u00e1n"
@@ -97,8 +106,17 @@
     "name:ind_x_preferred":[
         "Nurestan"
     ],
+    "name:isl_x_preferred":[
+        "N\u00faristan"
+    ],
     "name:ita_x_preferred":[
         "provincia di Nurestan"
+    ],
+    "name:ita_x_variant":[
+        "Nurestan"
+    ],
+    "name:jav_x_preferred":[
+        "Nuristan"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30fc\u30ea\u30b9\u30bf\u30fc\u30f3\u5dde"
@@ -111,6 +129,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub204\ub9ac\uc2a4\ud0c4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub204\ub9ac\uc2a4\ud0c4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "N\u016brest\u0101na"
@@ -132,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "Nurestan"
+    ],
+    "name:nan_x_preferred":[
+        "Nuristan S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0928\u0942\u0930\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -172,6 +196,9 @@
     "name:spa_x_preferred":[
         "Provincia de N\u016brist\u0101n"
     ],
+    "name:spa_x_variant":[
+        "N\u016brist\u0101n"
+    ],
     "name:sqi_x_preferred":[
         "Nuristani"
     ],
@@ -201,6 +228,9 @@
     ],
     "name:tur_x_preferred":[
         "Nuristan Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u0646\u06c7\u0631\u0649\u0633\u062a\u0627\u0646 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0440\u0438\u0441\u0442\u0430\u043d"
@@ -351,7 +381,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775735,
+    "wof:lastmodified":1563285366,
     "wof:name":"Nuristan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

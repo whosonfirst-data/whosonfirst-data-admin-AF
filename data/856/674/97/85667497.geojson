@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Herat"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0631\u0627\u062a \u0648\u06cc\u0644\u0627\u06cc\u062a"
+    ],
     "name:aze_x_preferred":[
         "Herat vilay\u0259ti"
     ],
@@ -40,11 +43,20 @@
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09b0\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b9\u09c7\u09b0\u09be\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0435\u0440\u0430\u0442"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Herat"
+    ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Herat"
+    ],
+    "name:ceb_x_preferred":[
+        "Her\u0101t"
     ],
     "name:ces_x_preferred":[
         "Her\u00e1t"
@@ -119,6 +131,9 @@
     "name:kor_x_preferred":[
         "\ud5e4\ub77c\ud2b8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud5e4\ub77c\ud2b8\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Aria"
     ],
@@ -140,6 +155,9 @@
     "name:msa_x_preferred":[
         "Herat"
     ],
+    "name:nan_x_preferred":[
+        "Herat S\u00e9ng"
+    ],
     "name:new_x_preferred":[
         "\u0939\u0930\u093e\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -157,6 +175,9 @@
     ],
     "name:pol_x_preferred":[
         "Her\u0101t"
+    ],
+    "name:pol_x_variant":[
+        "Herat"
     ],
     "name:por_x_preferred":[
         "Herat"
@@ -178,6 +199,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Her\u0101t"
+    ],
+    "name:spa_x_variant":[
+        "Her\u0101t"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0425\u0435\u0440\u0430\u0442"
@@ -205,6 +229,9 @@
     ],
     "name:tur_x_preferred":[
         "Herat Vilayeti"
+    ],
+    "name:uig_x_preferred":[
+        "\u06be\u0649\u0631\u0627\u062a \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0430\u0442"
@@ -353,7 +380,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1561775736,
+    "wof:lastmodified":1563285374,
     "wof:name":"Hirat",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
