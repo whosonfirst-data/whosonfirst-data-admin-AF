@@ -26,10 +26,16 @@
     "iso:country":"AF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pnb_x_preferred":[
+        "\u0642\u0627\u0636\u064a\u0627\u06ba"
+    ],
     "name:und_x_variant":[
         "Q\u0101\u1e95\u012b\u0101n",
         "\u0642\u0627\u0636\u06cc\u0627\u0646",
         "Q\u0101dzy\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0627\u0636\u06cc\u0627\u06ba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293202309,
-    "wof:lastmodified":1537580820,
+    "wof:lastmodified":1564142263,
     "wof:name":"Qazian",
     "wof:parent_id":1108562171,
     "wof:placetype":"locality",

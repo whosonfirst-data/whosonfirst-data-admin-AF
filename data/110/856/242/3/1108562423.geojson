@@ -32,6 +32,15 @@
     "name:eng_x_variant":[
         "Saghar"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06af\u0647\u0631"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0918\u0930"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u06be\u0631"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1108562423,
-    "wof:lastmodified":1536615186,
+    "wof:lastmodified":1564143922,
     "wof:name":"Saghar",
     "wof:parent_id":85667519,
     "wof:placetype":"county",

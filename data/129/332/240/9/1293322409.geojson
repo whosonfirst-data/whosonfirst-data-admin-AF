@@ -26,12 +26,21 @@
     "iso:country":"AF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u091a\u0941\u092e\u093e\u0930"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a41\u0a2e\u0a3e\u0a30"
+    ],
     "name:und_x_variant":[
         "\u010com\u0101r",
         "Chumar",
         "Chom\u0101r",
         "Chum\u0101r",
         "\u0686\u0645\u0627\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u695a\u9a6c\u8981\u585e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293322409,
-    "wof:lastmodified":1537583166,
+    "wof:lastmodified":1564142144,
     "wof:name":"Chumar",
     "wof:parent_id":1108562351,
     "wof:placetype":"locality",

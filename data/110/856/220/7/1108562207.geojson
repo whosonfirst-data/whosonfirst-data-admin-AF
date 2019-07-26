@@ -26,12 +26,27 @@
     "mps:longitude":70.712019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kohistan"
+    ],
+    "name:ceb_x_preferred":[
+        "Kohistan"
+    ],
     "name:eng_x_preferred":[
         "Kohistan"
     ],
     "name:eng_x_variant":[
         "Kohestan",
         "Ragh"
+    ],
+    "name:pol_x_preferred":[
+        "Kohistan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kohistan"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +83,7 @@
         }
     ],
     "wof:id":1108562207,
-    "wof:lastmodified":1536615181,
+    "wof:lastmodified":1564143920,
     "wof:name":"Kohistan",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

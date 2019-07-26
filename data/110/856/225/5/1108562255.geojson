@@ -32,6 +32,15 @@
     "name:eng_x_variant":[
         "Maruf"
     ],
+    "name:fra_x_preferred":[
+        "Maruf"
+    ],
+    "name:nld_x_preferred":[
+        "Maruf"
+    ],
+    "name:tur_x_preferred":[
+        "Maruf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1108562255,
-    "wof:lastmodified":1536615182,
+    "wof:lastmodified":1564143961,
     "wof:name":"Maruf",
     "wof:parent_id":85667549,
     "wof:placetype":"county",
