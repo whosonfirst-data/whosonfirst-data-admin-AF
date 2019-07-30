@@ -26,12 +26,18 @@
     "mps:longitude":69.336705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0631\u0648\u0643"
+    ],
     "name:eng_x_preferred":[
         "Ziruk"
     ],
     "name:eng_x_variant":[
         "Ziruk",
         "Ziluk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0631\u0648\u06a9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108562615,
-    "wof:lastmodified":1536615190,
+    "wof:lastmodified":1564143930,
     "wof:name":"Ziruk",
     "wof:parent_id":85667567,
     "wof:placetype":"county",

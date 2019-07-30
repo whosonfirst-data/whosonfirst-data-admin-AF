@@ -26,12 +26,45 @@
     "mps:longitude":69.111601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "Xanabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Khanabad"
+    ],
+    "name:deu_x_preferred":[
+        "Chanabad"
+    ],
     "name:eng_x_preferred":[
         "Khan Abad"
     ],
     "name:eng_x_variant":[
         "Khanabad",
         "Khan Abad"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Khanabad"
+    ],
+    "name:ita_x_preferred":[
+        "Xanabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10dc\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Khanabad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Xonobod"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +101,7 @@
         }
     ],
     "wof:id":1108562145,
-    "wof:lastmodified":1536615180,
+    "wof:lastmodified":1564143963,
     "wof:name":"Khanabad",
     "wof:parent_id":85667585,
     "wof:placetype":"county",

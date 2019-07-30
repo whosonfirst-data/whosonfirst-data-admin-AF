@@ -29,12 +29,24 @@
     "name:fas_x_preferred":[
         "\u0634\u0646\u0643\u06cc"
     ],
+    "name:ita_x_preferred":[
+        "Shinkai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6df1\u6d77"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2ec\ud574"
+    ],
     "name:und_x_variant":[
         "\u0160inkay",
         "Shinkay",
         "Sh\u012bnka\u012b",
         "Shenkay",
         "\u0634\u064a\u0646\u0643\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u6df1\u6d77"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1243306765,
-    "wof:lastmodified":1537582738,
+    "wof:lastmodified":1564144823,
     "wof:name":"Shinkai",
     "wof:parent_id":1108562379,
     "wof:placetype":"locality",

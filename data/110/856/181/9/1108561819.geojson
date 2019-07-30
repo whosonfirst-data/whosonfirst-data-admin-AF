@@ -33,6 +33,15 @@
         "Arghestan",
         "Arghistan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u063a\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Arghistan"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0631\u063a\u0633\u062a\u0627\u0646"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -68,7 +77,7 @@
         }
     ],
     "wof:id":1108561819,
-    "wof:lastmodified":1536615173,
+    "wof:lastmodified":1564143945,
     "wof:name":"Arghistan",
     "wof:parent_id":85667549,
     "wof:placetype":"county",

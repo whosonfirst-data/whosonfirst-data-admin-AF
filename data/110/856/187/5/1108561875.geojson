@@ -26,11 +26,29 @@
     "mps:longitude":69.154475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Burka"
+    ],
     "name:eng_x_preferred":[
         "Burka"
     ],
     "name:eng_x_variant":[
         "Burka"
+    ],
+    "name:fra_x_preferred":[
+        "Burka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30ab"
+    ],
+    "name:nld_x_preferred":[
+        "Boerka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u043a\u0430"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1108561875,
-    "wof:lastmodified":1536615174,
+    "wof:lastmodified":1564143942,
     "wof:name":"Burka",
     "wof:parent_id":85667601,
     "wof:placetype":"county",

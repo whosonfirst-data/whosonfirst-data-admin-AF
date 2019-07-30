@@ -29,10 +29,16 @@
     "name:fas_x_preferred":[
         "\u062e\u0631\u06a9\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u0631\u06a9\u06cc\u06cc"
+    ],
     "name:und_x_variant":[
         "Kharkay",
         "Kharka\u012b",
         "Kha\u1e5fkay"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0631\u06a9\u0626\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242717009,
-    "wof:lastmodified":1537581383,
+    "wof:lastmodified":1564145204,
     "wof:name":"Kharkai",
     "wof:parent_id":1108562379,
     "wof:placetype":"locality",

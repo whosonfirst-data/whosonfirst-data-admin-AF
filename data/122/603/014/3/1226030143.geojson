@@ -26,14 +26,38 @@
     "iso:country":"AF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Schubat"
+    ],
+    "name:fra_x_preferred":[
+        "Chal"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u04b1\u0431\u0430\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc30"
+    ],
+    "name:por_x_preferred":[
+        "Chal"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0443\u0431\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043b"
     ],
     "name:und_x_variant":[
         "\u010c\u0101l",
         "Chal\u2019",
         "Ch\u0101l",
         "\u0686\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Chal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226030143,
-    "wof:lastmodified":1537582114,
+    "wof:lastmodified":1564145903,
     "wof:name":"Chal",
     "wof:parent_id":1108562317,
     "wof:placetype":"locality",
