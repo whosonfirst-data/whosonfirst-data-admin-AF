@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PV"
+    ],
     "lbl:latitude":35.01109,
     "lbl:longitude":68.82569,
     "mps:latitude":35.008722,
@@ -334,9 +337,6 @@
         }
     ],
     "wof:id":85667627,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fas",
         "pus"
@@ -348,7 +348,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1563285385,
+    "wof:lastmodified":1565634339,
     "wof:name":"Parwan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PT"
+    ],
     "lbl:latitude":33.555903,
     "lbl:longitude":69.275376,
     "mps:latitude":33.5311,
@@ -346,9 +349,6 @@
         }
     ],
     "wof:id":85667641,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fas",
         "pus"
@@ -360,7 +360,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1563285391,
+    "wof:lastmodified":1565634339,
     "wof:name":"Paktya",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
