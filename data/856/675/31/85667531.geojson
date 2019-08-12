@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HM"
+    ],
     "lbl:latitude":31.123807,
     "lbl:longitude":64.010782,
     "mps:latitude":31.116802,
@@ -378,9 +381,6 @@
         }
     ],
     "wof:id":85667531,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fas",
         "pus"
@@ -392,7 +392,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1563285358,
+    "wof:lastmodified":1565634334,
     "wof:name":"Hilmand",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

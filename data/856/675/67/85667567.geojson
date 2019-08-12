@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PK"
+    ],
     "lbl:latitude":32.428256,
     "lbl:longitude":68.6846,
     "mps:latitude":32.379678,
@@ -329,9 +332,6 @@
         }
     ],
     "wof:id":85667567,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "fas",
         "pus"
@@ -343,7 +343,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1563285348,
+    "wof:lastmodified":1565634332,
     "wof:name":"Paktika",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
