@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.105376,
     "lbl:longitude":67.024009,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Bamyan",
     "meso:diss_me":"WarasBamyan",
     "meso:gadm_admin":"Waras",
@@ -26,6 +28,7 @@
     "mps:longitude":67.024009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09b0\u09be\u09b8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -78,9 +81,9 @@
         "Qu\u1eadn Waras"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Waras",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108562565,
-    "wof:lastmodified":1563287185,
+    "wof:lastmodified":1566583063,
     "wof:name":"Waras",
     "wof:parent_id":85667503,
     "wof:placetype":"county",

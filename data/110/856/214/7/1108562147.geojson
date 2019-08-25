@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.106855,
     "lbl:longitude":65.219157,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Faryab",
     "meso:diss_me":"Khani Chahar BaghFaryab",
     "meso:gadm_admin":"Khan Char Bagh",
@@ -26,6 +28,7 @@
     "mps:longitude":65.219157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Xani \u00c7arba\u011f vulusvalisi"
     ],
@@ -70,9 +73,9 @@
         "Qu\u1eadn Khani Chahar Bagh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khani Chahar Bagh",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108562147,
-    "wof:lastmodified":1563287216,
+    "wof:lastmodified":1566583077,
     "wof:name":"Khani Chahar Bagh",
     "wof:parent_id":85667509,
     "wof:placetype":"county",

@@ -11,14 +11,18 @@
     "geom:longitude":68.01551,
     "gn:country":"AF",
     "gn:fcode":"PPLA",
-    "gn:pop":47823,
+    "gn:population":47823,
     "iso:country":"AF",
+    "lbl:bbox":"67.99551,36.24468,68.03551,36.28468",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u043d\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eybak"
     ],
     "qs:name":"A\u012bbak",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1127768,
         "gp:id":1930523,
-        "qs:id":130586
+        "qs_pg:id":130586
     },
     "wof:country":"AF",
     "wof:created":1469051987,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890433609,
-    "wof:lastmodified":1505343536,
+    "wof:lastmodified":1566583537,
     "wof:name":"A\u012bbak",
     "wof:parent_id":1108561827,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"65.47309,32.63989,65.51309,32.67989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Darah-ye Kakrak"
     ],
@@ -38,7 +42,6 @@
     "name:und_x_variant":[
         "Gha\u1e5fbi",
         "Kakrak",
-        "\u06a9\u06a9\u0631\u06a9",
         "Kak\u1e5fak"
     ],
     "src:geom":"geonames",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243393169,
-    "wof:lastmodified":1564144851,
+    "wof:lastmodified":1566583594,
     "wof:name":"Kakrak",
     "wof:parent_id":1108561983,
     "wof:placetype":"locality",

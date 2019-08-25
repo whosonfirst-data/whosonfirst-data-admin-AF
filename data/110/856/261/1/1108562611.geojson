@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.418046,
     "lbl:longitude":71.351347,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"ZebakBadakhshan",
     "meso:gadm_admin":"Zebak",
@@ -26,6 +28,7 @@
     "mps:longitude":71.351347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09ac\u09be\u0995 \u099c\u09c7\u09b2\u09be"
     ],
@@ -81,9 +84,9 @@
         "Qu\u1eadn Zebak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Zebak",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108562611,
-    "wof:lastmodified":1563287176,
+    "wof:lastmodified":1566583058,
     "wof:name":"Zebak",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

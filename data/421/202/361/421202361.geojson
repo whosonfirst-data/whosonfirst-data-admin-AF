@@ -10,8 +10,12 @@
     "geom:latitude":36.708063,
     "geom:longitude":67.107067,
     "iso:country":"AF",
+    "lbl:bbox":"67.087067,36.688063,67.127067,36.728063",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0632\u0627\u0631 \u0634\u0631\u064a\u0641"
@@ -293,7 +297,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1935342,
-        "qs:id":221492,
+        "qs_pg:id":221492,
         "wd:id":"Q130469"
     },
     "wof:country":"AF",
@@ -309,7 +313,7 @@
         }
     ],
     "wof:id":421202361,
-    "wof:lastmodified":1563287889,
+    "wof:lastmodified":1566583518,
     "wof:name":"Mazar-i-Sharif",
     "wof:parent_id":1108562267,
     "wof:placetype":"locality",

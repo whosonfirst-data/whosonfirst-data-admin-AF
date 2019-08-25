@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"70.15595,34.63629,70.19595,34.67629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wardak"
     ],
@@ -41,7 +45,6 @@
     "name:und_x_variant":[
         "Vardag",
         "Wardag",
-        "Wardak",
         "\u0648\u0631\u062f\u06a9"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276270665,
-    "wof:lastmodified":1564142550,
+    "wof:lastmodified":1566582530,
     "wof:name":"Wardak",
     "wof:parent_id":1108562269,
     "wof:placetype":"locality",

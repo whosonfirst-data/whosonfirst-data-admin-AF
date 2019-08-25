@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.47596,34.54728,67.51596,34.58728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0645\u0642\u064a\u0645"
     ],
@@ -35,7 +39,6 @@
     "name:und_x_variant":[
         "Mukim",
         "Moq\u012bm",
-        "\u0645\u0642\u064a\u0645",
         "Muq\u012bm"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1242631657,
-    "wof:lastmodified":1537581039,
+    "wof:lastmodified":1566583880,
     "wof:name":"Muqim",
     "wof:parent_id":1108562251,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.65807,
     "lbl:longitude":67.335393,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Balkh",
     "meso:diss_me":"MarmulBalkh",
     "meso:gadm_admin":"Marmul",
@@ -26,6 +28,7 @@
     "mps:longitude":67.335393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Marmul"
     ],
@@ -33,9 +36,9 @@
         "Marmul"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Marmul",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108562253,
-    "wof:lastmodified":1536615182,
+    "wof:lastmodified":1566583076,
     "wof:name":"Marmul",
     "wof:parent_id":85667505,
     "wof:placetype":"county",

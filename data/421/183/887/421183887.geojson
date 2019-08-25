@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.831997,
     "lbl:longitude":71.444159,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"IshkashiemBadakhshan",
     "meso:gadm_admin":"Ishkashim",
@@ -26,6 +28,7 @@
     "mps:longitude":71.444159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u0987\u09b6\u0995\u09be\u09b6\u09bf\u09ae \u099c\u09c7\u09b2\u09be"
@@ -78,9 +81,6 @@
     "name:tur_x_preferred":[
         "\u0130\u015fka\u015fim il\u00e7esi"
     ],
-    "name:unk_x_variant":[
-        "Ishk\u0101shim"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0634\u06a9\u0627\u0634\u0645 \u0636\u0644\u0639"
     ],
@@ -109,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Ishkashim",
@@ -132,7 +132,7 @@
         "gn:id":7052669,
         "gp:id":56000476,
         "hasc:id":"AF.BD.IK",
-        "qs:id":985873,
+        "qs_pg:id":985873,
         "wd:id":"Q2670884",
         "wk:page":"Ishkashim District"
     },
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":421183887,
-    "wof:lastmodified":1563287906,
+    "wof:lastmodified":1566583526,
     "wof:name":"Ishkashiem",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

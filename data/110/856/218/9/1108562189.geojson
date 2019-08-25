@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.972452,
     "lbl:longitude":69.291413,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Baghlan",
     "meso:diss_me":"Khwaja Hijran (Jilga Nahrin)Baghlan",
     "meso:gadm_admin":"Nahrin",
@@ -26,6 +28,7 @@
     "mps:longitude":69.291413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0996\u09be\u099c\u09be \u09b9\u09bf\u09af\u09b0\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -70,9 +73,9 @@
         "Qu\u1eadn Khwaja Hijran"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khwaja Hijran",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108562189,
-    "wof:lastmodified":1563287158,
+    "wof:lastmodified":1566583050,
     "wof:name":"Khwaja Hijran (Jilga Nahrin)",
     "wof:parent_id":85667601,
     "wof:placetype":"county",

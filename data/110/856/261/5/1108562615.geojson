@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.15527,
     "lbl:longitude":69.336705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Paktika",
     "meso:diss_me":"ZirukPaktika",
     "meso:gadm_admin":"Ziluk",
@@ -26,6 +28,7 @@
     "mps:longitude":69.336705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0632\u064a\u0631\u0648\u0643"
     ],
@@ -40,9 +43,9 @@
         "\u0632\u06cc\u0631\u0648\u06a9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Ziruk",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108562615,
-    "wof:lastmodified":1564143930,
+    "wof:lastmodified":1566583058,
     "wof:name":"Ziruk",
     "wof:parent_id":85667567,
     "wof:placetype":"county",

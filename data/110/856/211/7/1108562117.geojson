@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.775613,
     "lbl:longitude":69.171631,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kabul",
     "meso:diss_me":"KalakanKabul",
     "meso:gadm_admin":"Kalakan",
@@ -26,6 +28,7 @@
     "mps:longitude":69.171631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kalakan"
     ],
@@ -39,9 +42,9 @@
         "\u06a9\u0644\u06a9\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kalakan",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108562117,
-    "wof:lastmodified":1564143918,
+    "wof:lastmodified":1566583050,
     "wof:name":"Kalakan",
     "wof:parent_id":85667603,
     "wof:placetype":"county",

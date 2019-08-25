@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.210916,
     "lbl:longitude":70.622518,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"FayzabadBadakhshan",
     "meso:gadm_admin":"Fayz abad",
@@ -26,6 +28,7 @@
     "mps:longitude":70.622518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ab\u09af\u09bc\u099c\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Fayz Abad",
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gp:id":56000474,
         "hasc:id":"AF.JW.FA",
-        "qs:id":1136791,
+        "qs_pg:id":1136791,
         "wd:id":"Q2887829"
     },
     "wof:country":"AF",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421191409,
-    "wof:lastmodified":1563287901,
+    "wof:lastmodified":1566583524,
     "wof:name":"Fayzabad",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

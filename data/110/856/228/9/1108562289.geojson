@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.964128,
     "lbl:longitude":67.769688,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghazni",
     "meso:diss_me":"MuqurGhazni",
     "meso:gadm_admin":"Muqur",
@@ -26,6 +28,7 @@
     "mps:longitude":67.769688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0995\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -60,9 +63,9 @@
         "Qu\u1eadn Muqur"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Muqur",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108562289,
-    "wof:lastmodified":1563287169,
+    "wof:lastmodified":1566583055,
     "wof:name":"Muqur",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

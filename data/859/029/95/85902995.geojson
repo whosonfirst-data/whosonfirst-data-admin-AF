@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5749029.650339,
+    "geom:area_square_m":0.0,
     "geom:bbox":"69.172275,34.534526,69.172275,34.534526",
     "geom:latitude":34.534526,
     "geom:longitude":69.172275,
     "gn:latitude":34.53638,
     "gn:longitude":69.1678,
     "iso:country":"AF",
+    "lbl:bbox":"69.167275,34.529526,69.177275,34.539526",
     "lbl:latitude":34.534526,
     "lbl:longitude":69.172275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.532581,
     "mps:longitude":69.16164,
     "mz:hierarchy_label":0,
@@ -31,12 +33,9 @@
     "name:eng_x_preferred":[
         "Shahr-e Now"
     ],
-    "name:und_x_preferred":[
-        "S\u0305ahre Naw"
-    ],
-    "name:unk_x_variant":[
-        "\u0160ahre Naw",
-        "Shahr-e Now"
+    "name:und_x_variant":[
+        "S\u0305ahre Naw",
+        "\u0160ahre Naw"
     ],
     "qs:gn_adm0_cc":"AF",
     "qs:gn_fcode":"PPLX",
@@ -67,18 +66,17 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667603,
         102191569,
         85632229,
-        421171977,
-        85667603
+        421171977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1125870,
         "gp:id":1931790,
-        "qs:id":493084,
         "qs_pg:id":493084
     },
     "wof:country":"AF",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935980,
+    "wof:lastmodified":1566582219,
     "wof:name":"Shahr-e Now",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

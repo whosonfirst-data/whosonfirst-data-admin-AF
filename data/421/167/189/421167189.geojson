@@ -10,10 +10,14 @@
     "geom:latitude":37.46572,
     "geom:longitude":69.61131,
     "iso:country":"AF",
+    "lbl:bbox":"69.59131,37.44572,69.63131,37.48572",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yangi Qala"
     ],
     "qs:gn_country":"AF",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1121271,
         "gp:id":1934691,
-        "qs:id":130576
+        "qs_pg:id":130576
     },
     "wof:country":"AF",
     "wof:created":1459008722,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421167189,
-    "wof:lastmodified":1527716156,
+    "wof:lastmodified":1566583518,
     "wof:name":"Yangi Kala",
     "wof:parent_id":1108562593,
     "wof:placetype":"locality",

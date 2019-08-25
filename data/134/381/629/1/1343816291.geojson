@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.17159,31.64963,67.21159,31.68963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0642\u0631\u064a\u06c0 \u0633\u064a\u064a\u062f\u0627\u0646"
     ],
@@ -38,10 +42,7 @@
     "name:und_x_variant":[
         "Qa\u1e5fya-i-Saye\u1e0f\u0101n",
         "Qaryah-ye Sayyid\u0101n",
-        "\u0642\u0631\u06cc\u0647 \u0633\u06cc\u062f\u0627\u0646",
-        "Qar\u012byeh-e Seyyed\u0101n",
-        "Kar\u2019yayi-Seyidan",
-        "\u0642\u0631\u064a\u06c0 \u0633\u064a\u064a\u062f\u0627\u0646"
+        "Qar\u012byeh-e Seyyed\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1343816291,
-    "wof:lastmodified":1537582801,
+    "wof:lastmodified":1566582207,
     "wof:name":"Qaryah-ye Sayyidan",
     "wof:parent_id":1108562255,
     "wof:placetype":"locality",

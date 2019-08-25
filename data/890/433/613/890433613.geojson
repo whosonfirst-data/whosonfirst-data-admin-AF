@@ -11,11 +11,15 @@
     "geom:longitude":69.83045,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":25636,
+    "gn:population":25636,
     "iso:country":"AF",
+    "lbl:bbox":"69.81045,37.10604,69.85045,37.14604",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Rustak"
     ],
     "qs:name":"Rust\u0101q",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1128265,
         "gp:id":1917930,
-        "qs:id":130588
+        "qs_pg:id":130588
     },
     "wof:country":"AF",
     "wof:created":1469051987,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433613,
-    "wof:lastmodified":1505343536,
+    "wof:lastmodified":1566583537,
     "wof:name":"Rust\u0101q",
     "wof:parent_id":1108562417,
     "wof:placetype":"locality",

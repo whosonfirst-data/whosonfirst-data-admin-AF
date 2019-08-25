@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.470546,
     "lbl:longitude":68.654605,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghazni",
     "meso:diss_me":"Dih YakGhazni",
     "meso:gadm_admin":"Dihyak",
@@ -26,6 +28,7 @@
     "mps:longitude":68.654605,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dih Yak"
     ],
@@ -34,9 +37,9 @@
         "Dihyak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Ramak",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108561979,
-    "wof:lastmodified":1536615176,
+    "wof:lastmodified":1566583070,
     "wof:name":"Dih Yak",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

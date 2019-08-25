@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"63.44382,35.2622,63.48382,35.3022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0645\u0627\u0646"
     ],
@@ -63,8 +67,7 @@
         "Zaman"
     ],
     "name:und_x_variant":[
-        "Zam\u0101n",
-        "\u0632\u0645\u0627\u0646"
+        "Zam\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209317543,
-    "wof:lastmodified":1564142979,
+    "wof:lastmodified":1566582690,
     "wof:name":"Zaman",
     "wof:parent_id":85632229,
     "wof:placetype":"locality",

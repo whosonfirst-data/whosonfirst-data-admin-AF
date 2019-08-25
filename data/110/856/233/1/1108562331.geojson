@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.344078,
     "lbl:longitude":68.72351,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Maydan Wardak",
     "meso:diss_me":"NirkhMaydan Wardak",
     "meso:gadm_admin":"Nirkh",
@@ -26,6 +28,7 @@
     "mps:longitude":68.72351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nirkh"
     ],
@@ -34,9 +37,9 @@
         "Nirkh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Nirkh",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562331,
-    "wof:lastmodified":1536615184,
+    "wof:lastmodified":1566583064,
     "wof:name":"Nirkh",
     "wof:parent_id":85667635,
     "wof:placetype":"county",

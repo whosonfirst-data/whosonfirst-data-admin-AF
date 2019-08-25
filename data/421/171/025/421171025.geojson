@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.027123,
     "lbl:longitude":65.010913,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Hilmand",
     "meso:diss_me":"BaghranHilmand",
     "meso:gadm_admin":"Bughran",
@@ -26,6 +28,7 @@
     "mps:longitude":65.010913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0998\u09ae\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
@@ -55,7 +58,7 @@
     "name:tur_x_preferred":[
         "Pagman il\u00e7esi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paghm\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Baghran",
@@ -109,7 +112,7 @@
         "gn:id":7053080,
         "gp:id":56000583,
         "hasc:id":"AF.HM.BU",
-        "qs:id":1205790,
+        "qs_pg:id":1205790,
         "wd:id":"Q3696078",
         "wk:page":"Paghman District"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421171025,
-    "wof:lastmodified":1563287909,
+    "wof:lastmodified":1566583527,
     "wof:name":"Baghran",
     "wof:parent_id":85667531,
     "wof:placetype":"county",

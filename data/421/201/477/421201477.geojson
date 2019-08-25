@@ -10,8 +10,12 @@
     "geom:latitude":34.82156,
     "geom:longitude":67.82734,
     "iso:country":"AF",
+    "lbl:bbox":"67.80734,34.80156,67.84734,34.84156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0645\u064a\u0627\u0646"
@@ -172,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043c\u0456\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kala Sarkari"
     ],
     "name:urd_x_preferred":[
@@ -222,7 +226,7 @@
     "wof:concordances":{
         "gn:id":1147242,
         "gp:id":1935214,
-        "qs:id":211608,
+        "qs_pg:id":211608,
         "wd:id":"Q214495",
         "wk:page":"Bamyan"
     },
@@ -239,7 +243,7 @@
         }
     ],
     "wof:id":421201477,
-    "wof:lastmodified":1563287904,
+    "wof:lastmodified":1566583525,
     "wof:name":"B\u0101m\u012b\u0101n",
     "wof:parent_id":421182251,
     "wof:placetype":"locality",

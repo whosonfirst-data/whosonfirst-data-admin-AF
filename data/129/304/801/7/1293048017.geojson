@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"68.54969,32.95842,68.58969,32.99842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0632\u0627\u0646"
     ],
@@ -36,10 +40,6 @@
         "\u062e\u0632\u0627\u0646"
     ],
     "name:swe_x_preferred":[
-        "Khaz\u0101n"
-    ],
-    "name:und_x_variant":[
-        "\u062e\u0632\u0627\u0646",
         "Khaz\u0101n"
     ],
     "src:geom":"geonames",
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1293048017,
-    "wof:lastmodified":1564142140,
+    "wof:lastmodified":1566582365,
     "wof:name":"Khazan",
     "wof:parent_id":1108562597,
     "wof:placetype":"locality",

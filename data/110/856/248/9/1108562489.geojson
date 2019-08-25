@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.552327,
     "lbl:longitude":65.695079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Jawzjan",
     "meso:diss_me":"ShibirghanJawzjan",
     "meso:gadm_admin":"Shibirghan",
@@ -26,6 +28,7 @@
     "mps:longitude":65.695079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Shibirghan"
     ],
@@ -34,9 +37,9 @@
         "Shibirghan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Shibirghan",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562489,
-    "wof:lastmodified":1536615188,
+    "wof:lastmodified":1566583071,
     "wof:name":"Shibirghan",
     "wof:parent_id":85667513,
     "wof:placetype":"county",

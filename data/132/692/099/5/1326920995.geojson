@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.75419,33.25219,67.79419,33.29219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kushk"
     ],
@@ -49,10 +53,8 @@
     ],
     "name:und_x_variant":[
         "Ku\u0161k",
-        "Kushk",
         "K\u016bshk",
-        "\u06a9\u0634\u06a9",
-        "\u0643\u0648\u0634\u0643"
+        "\u06a9\u0634\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1326920995,
-    "wof:lastmodified":1564140835,
+    "wof:lastmodified":1566581726,
     "wof:name":"Kushk",
     "wof:parent_id":1108562385,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.349518,
     "lbl:longitude":69.824158,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.344982,
     "mps:longitude":69.840425,
     "mz:hierarchy_label":1,
@@ -229,9 +230,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Khowst"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062e\u0648\u0633\u062a"
     ],
@@ -316,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"4,152",
     "statoids:area_mi":"1,603",
     "statoids:as_of_date":"2006-01-01",
@@ -343,7 +341,7 @@
         "gp:id":24550741,
         "hasc:id":"AF.KT",
         "iso:id":"AF-KHO",
-        "qs:id":502949,
+        "qs_pg:id":502949,
         "unlc:id":"AF-KHO",
         "wd:id":"Q185752",
         "wk:page":"Khost Province"
@@ -369,11 +367,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634334,
+    "wof:lastmodified":1566582227,
     "wof:name":"Khost",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":487400,
     "wof:population_rank":10,

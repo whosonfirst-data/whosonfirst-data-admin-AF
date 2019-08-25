@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"64.15401,34.19479,64.19401,34.23479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dehak"
     ],
@@ -35,7 +39,6 @@
     "name:und_x_variant":[
         "\u1e0eahak",
         "Dakhak",
-        "Dehak",
         "\u062f\u0647\u06a9"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259773041,
-    "wof:lastmodified":1564145470,
+    "wof:lastmodified":1566584024,
     "wof:name":"Dehak",
     "wof:parent_id":421177081,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.010149,
     "lbl:longitude":69.407438,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Takhar",
     "meso:diss_me":"Khwaja GharTakhar",
     "meso:gadm_admin":"Khwaja Ghar",
@@ -26,6 +28,7 @@
     "mps:longitude":69.407438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Khwaja Ghar"
     ],
@@ -34,9 +37,9 @@
         "Khwaja Ghar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khwaja Ghar",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562187,
-    "wof:lastmodified":1536615181,
+    "wof:lastmodified":1566583051,
     "wof:name":"Khwaja Ghar",
     "wof:parent_id":85667595,
     "wof:placetype":"county",

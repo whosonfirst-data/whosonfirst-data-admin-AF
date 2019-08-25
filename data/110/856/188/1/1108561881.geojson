@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.383662,
     "lbl:longitude":69.076258,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kabul",
     "meso:diss_me":"Chahar AsyabKabul",
     "meso:gadm_admin":"Chahar Asyab",
@@ -26,6 +28,7 @@
     "mps:longitude":69.076258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Chahar Asyab"
     ],
@@ -34,9 +37,9 @@
         "Chahar Asyab"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Qaleh-ye Na'im",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108561881,
-    "wof:lastmodified":1536615174,
+    "wof:lastmodified":1566583067,
     "wof:name":"Chahar Asyab",
     "wof:parent_id":85667603,
     "wof:placetype":"county",

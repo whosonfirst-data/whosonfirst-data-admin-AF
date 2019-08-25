@@ -11,10 +11,14 @@
     "geom:longitude":70.83421,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":12106,
+    "gn:population":12106,
     "iso:country":"AF",
+    "lbl:bbox":"70.81421,36.84477,70.85421,36.88477",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Jurm"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Jurm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shahr-e Jorm"
     ],
     "qs:name":"Jurm",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1139085,
         "gp:id":1935210,
-        "qs:id":1029778,
+        "qs_pg:id":1029778,
         "wd:id":"Q10308323",
         "wk:page":"Jurm"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890443571,
-    "wof:lastmodified":1563287926,
+    "wof:lastmodified":1566583535,
     "wof:name":"Jurm",
     "wof:parent_id":1108562107,
     "wof:placetype":"locality",

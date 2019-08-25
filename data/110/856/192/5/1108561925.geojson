@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":30.813156,
     "lbl:longitude":65.619361,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kandahar",
     "meso:diss_me":"DamanKandahar",
     "meso:gadm_admin":"Daman",
@@ -26,6 +28,7 @@
     "mps:longitude":65.619361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09ae\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -81,9 +84,9 @@
         "Qu\u1eadn Daman"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Daman",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108561925,
-    "wof:lastmodified":1563287151,
+    "wof:lastmodified":1566583047,
     "wof:name":"Daman",
     "wof:parent_id":85667549,
     "wof:placetype":"county",

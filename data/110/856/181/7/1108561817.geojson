@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.251206,
     "lbl:longitude":70.851181,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"Arghanj KhawBadakhshan",
     "meso:gadm_admin":"Fayz abad",
@@ -26,6 +28,7 @@
     "mps:longitude":70.851181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0986\u09b0\u0998\u099e\u09cd\u099c \u0996\u0993\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -82,9 +85,9 @@
         "Qu\u1eadn Arghanj Khwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Arghanj Khwa",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108561817,
-    "wof:lastmodified":1563287197,
+    "wof:lastmodified":1566583068,
     "wof:name":"Arghanj Khaw",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

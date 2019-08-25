@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.87192,36.01372,66.91192,36.05372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarab"
     ],
@@ -39,8 +43,7 @@
         "Sarab"
     ],
     "name:und_x_variant":[
-        "Sar\u0101b",
-        "\u0633\u0631\u0627\u0628"
+        "Sar\u0101b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293150927,
-    "wof:lastmodified":1564142024,
+    "wof:lastmodified":1566582324,
     "wof:name":"Sarab",
     "wof:parent_id":1108562199,
     "wof:placetype":"locality",

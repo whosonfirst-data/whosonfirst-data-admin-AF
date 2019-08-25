@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"62.24951,33.3244,62.28951,33.3644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u0437\u0456\u0440\u0430\u0431\u0430\u0434"
     ],
@@ -84,11 +88,8 @@
         "Wazirabad"
     ],
     "name:und_x_variant":[
-        "Waz\u012br\u0101b\u0101d",
         "Vazirabad",
-        "Vaz\u012br\u0101b\u0101d",
-        "\u0648\u0632\u06cc\u0631 \u0622\u0628\u0627\u062f",
-        "\u0648\u0632\u064a\u0631 \u0622\u0628\u0627\u062f"
+        "Vaz\u012br\u0101b\u0101d"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0632\u06cc\u0631 \u0622\u0628\u0627\u062f"
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1276959755,
-    "wof:lastmodified":1564142653,
+    "wof:lastmodified":1566582571,
     "wof:name":"Wazirabad",
     "wof:parent_id":421198905,
     "wof:placetype":"locality",

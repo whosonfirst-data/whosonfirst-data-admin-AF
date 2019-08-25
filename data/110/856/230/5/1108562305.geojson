@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.791796,
     "lbl:longitude":71.005566,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"NarangKunar",
     "meso:gadm_admin":"Narang Wa Badil",
@@ -26,6 +28,7 @@
     "mps:longitude":71.005566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Narang"
     ],
@@ -34,9 +37,9 @@
         "Narang Wa Badil"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Narang wa Badil",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562305,
-    "wof:lastmodified":1536615183,
+    "wof:lastmodified":1566583086,
     "wof:name":"Narang",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

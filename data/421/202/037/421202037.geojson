@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":31.804806,
     "lbl:longitude":64.613211,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Hilmand",
     "meso:diss_me":"Nahri SarrajHilmand",
     "meso:gadm_admin":"Nahri Sarraj",
@@ -26,6 +28,7 @@
     "mps:longitude":64.613211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_variant":[
         "Nahr-e-Saraj",
@@ -53,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632229,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gp:id":56000556,
         "hasc:id":"AF.HM.NS",
-        "qs:id":118
+        "qs_pg:id":118
     },
     "wof:country":"AF",
     "wof:created":1459010102,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":421202037,
-    "wof:lastmodified":1536616142,
+    "wof:lastmodified":1566583518,
     "wof:name":"Nahri Sarraj",
     "wof:parent_id":85667531,
     "wof:placetype":"county",

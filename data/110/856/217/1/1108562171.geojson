@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.891431,
     "lbl:longitude":69.688569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Baghlan",
     "meso:diss_me":"Khost Wa FiringBaghlan",
     "meso:gadm_admin":"Khost Wa Firing",
@@ -26,6 +28,7 @@
     "mps:longitude":69.688569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Khost wa Firing"
     ],
@@ -34,9 +37,9 @@
         "Khost Wa Firing"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khost wa Firing",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562171,
-    "wof:lastmodified":1536615181,
+    "wof:lastmodified":1566583055,
     "wof:name":"Khost Wa Firing",
     "wof:parent_id":85667601,
     "wof:placetype":"county",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.214345,
     "lbl:longitude":69.960987,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Khost",
     "meso:diss_me":"GurbuzKhost",
     "meso:gadm_admin":"Gurbuz",
@@ -26,6 +28,7 @@
     "mps:longitude":69.960987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gurbuz"
     ],
@@ -45,9 +48,9 @@
         "G\u00fcrb\u00fcz"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Gurbuz",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108562053,
-    "wof:lastmodified":1564143939,
+    "wof:lastmodified":1566583064,
     "wof:name":"Gurbuz",
     "wof:parent_id":85667563,
     "wof:placetype":"county",

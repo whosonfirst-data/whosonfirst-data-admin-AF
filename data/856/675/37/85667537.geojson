@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":30.78658,
     "lbl:longitude":62.434335,
+    "lbl:min_zoom":8.0,
     "mps:latitude":30.796121,
     "mps:longitude":62.43239,
     "mz:hierarchy_label":1,
@@ -229,7 +230,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043c\u0440\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sistan"
     ],
     "name:urd_x_preferred":[
@@ -316,9 +317,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"41,005",
     "statoids:area_mi":"15,832",
     "statoids:as_of_date":"2006-01-01",
@@ -344,7 +345,7 @@
         "hasc:id":"AF.NM",
         "iso:id":"AF-NIM",
         "loc:id":"n83039494",
-        "qs:id":44805,
+        "qs_pg:id":44805,
         "unlc:id":"AF-NIM",
         "wd:id":"Q183021",
         "wk:page":"Nimruz Province"
@@ -370,11 +371,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634334,
+    "wof:lastmodified":1566582226,
     "wof:name":"Nimroz",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":138500,
     "wof:population_rank":9,

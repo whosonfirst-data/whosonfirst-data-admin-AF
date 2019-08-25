@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.54051,
     "lbl:longitude":69.897788,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Khost",
     "meso:diss_me":"SabriKhost",
     "meso:gadm_admin":"Sabari",
@@ -26,6 +28,7 @@
     "mps:longitude":69.897788,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sabri"
     ],
@@ -45,9 +48,9 @@
         "\u0421\u0430\u0431\u0440\u0438"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Sabari",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1108562421,
-    "wof:lastmodified":1564143921,
+    "wof:lastmodified":1566583052,
     "wof:name":"Sabri",
     "wof:parent_id":85667563,
     "wof:placetype":"county",

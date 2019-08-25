@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.40009,33.03212,67.44009,33.07212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaz\u0131"
     ],
@@ -165,7 +169,6 @@
         "\u041a\u0430\u0434\u0456"
     ],
     "name:und_x_variant":[
-        "Q\u0101d\u012b",
         "\u0642\u0627\u062f\u06cc",
         "Q\u0101\u1e0fi"
     ],
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1209096843,
-    "wof:lastmodified":1564142966,
+    "wof:lastmodified":1566582685,
     "wof:name":"Qadi",
     "wof:parent_id":85632229,
     "wof:placetype":"locality",

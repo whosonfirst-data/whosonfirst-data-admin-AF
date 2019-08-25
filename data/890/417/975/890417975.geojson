@@ -11,10 +11,14 @@
     "geom:longitude":72.318,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":5521,
+    "gn:population":5521,
     "iso:country":"AF",
+    "lbl:bbox":"72.298,36.93127,72.338,36.97127",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Hand\u00fad"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Khand\u016bd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khandut"
     ],
     "qs:name":"Khand\u016bd",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1137148,
         "gp:id":1934302,
-        "qs:id":275990,
+        "qs_pg:id":275990,
         "wd:id":"Q3290334",
         "wk:page":"Khandud"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890417975,
-    "wof:lastmodified":1563287921,
+    "wof:lastmodified":1566583533,
     "wof:name":"Khand\u016bd",
     "wof:parent_id":421187941,
     "wof:placetype":"locality",

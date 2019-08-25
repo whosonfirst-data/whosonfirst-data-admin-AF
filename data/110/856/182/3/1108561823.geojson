@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.866143,
     "lbl:longitude":71.118799,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"AsadabadKunar",
     "meso:gadm_admin":"Asad abad",
@@ -26,6 +28,7 @@
     "mps:longitude":71.118799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09be\u09a6\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
     ],
@@ -64,9 +67,9 @@
         "Esadabad il\u00e7esi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Asad Abad",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108561823,
-    "wof:lastmodified":1563287244,
+    "wof:lastmodified":1566583090,
     "wof:name":"Asadabad",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

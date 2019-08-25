@@ -11,10 +11,14 @@
     "geom:longitude":64.78361,
     "gn:country":"AF",
     "gn:fcode":"PPLA",
-    "gn:pop":75900,
+    "gn:population":75900,
     "iso:country":"AF",
+    "lbl:bbox":"64.76361,35.90139,64.80361,35.94139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u06cc\u0645\u0646\u0647"
     ],
@@ -156,7 +160,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u043c\u0435\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maimanah"
     ],
     "name:urd_x_preferred":[
@@ -190,7 +194,7 @@
     "wof:concordances":{
         "gn:id":1133453,
         "gp:id":1926416,
-        "qs:id":1029765,
+        "qs_pg:id":1029765,
         "wd:id":"Q309345",
         "wk:page":"Maymana"
     },
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":890440145,
-    "wof:lastmodified":1563287913,
+    "wof:lastmodified":1566583528,
     "wof:name":"Maymana",
     "wof:parent_id":1108562261,
     "wof:placetype":"locality",

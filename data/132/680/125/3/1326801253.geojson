@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.63136,34.79554,69.67136,34.83554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0634\u0627 \u062a\u0648\u062a"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "\u0160\u0101t\u016bt",
         "Shatut",
-        "Sh\u0101t\u016bt",
-        "\u0634\u0627\u062a\u0648\u062a"
+        "Sh\u0101t\u016bt"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1326801253,
-    "wof:lastmodified":1564140772,
+    "wof:lastmodified":1566581688,
     "wof:name":"Shatut",
     "wof:parent_id":1108562531,
     "wof:placetype":"locality",

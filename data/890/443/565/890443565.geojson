@@ -11,10 +11,14 @@
     "geom:longitude":69.02274,
     "gn:country":"AF",
     "gn:fcode":"PPLA",
-    "gn:pop":13247,
+    "gn:population":13247,
     "iso:country":"AF",
+    "lbl:bbox":"69.00274,33.97529,69.04274,34.01529",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u064a \u0639\u0644\u0645"
     ],
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043b\u0456-\u0410\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pule Alam"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":1130497,
         "gp:id":1935370,
-        "qs:id":1029761,
+        "qs_pg:id":1029761,
         "wd:id":"Q1006289",
         "wk:page":"Pul-i-Alam District"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":890443565,
-    "wof:lastmodified":1563287926,
+    "wof:lastmodified":1566583534,
     "wof:name":"Pul-e \u2018Alam",
     "wof:parent_id":1108562361,
     "wof:placetype":"locality",

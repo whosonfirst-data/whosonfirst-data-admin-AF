@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.553781,
     "lbl:longitude":68.43175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghazni",
     "meso:diss_me":"GhazniGhazni",
     "meso:gadm_admin":"Ghazni",
@@ -26,6 +28,7 @@
     "mps:longitude":68.43175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0632\u0646\u0629"
     ],
@@ -204,9 +207,9 @@
         "\u52a0\u5179\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Ghazni",
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":1108562027,
-    "wof:lastmodified":1564143937,
+    "wof:lastmodified":1566583063,
     "wof:name":"Ghazni",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

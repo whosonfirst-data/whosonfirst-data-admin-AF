@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"68.13577,32.39508,68.17577,32.43508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Ma\u2018\u0101rif Kh\u0113l"
     ],
@@ -36,11 +40,9 @@
         "Muarifkheyl\u2019"
     ],
     "name:und_x_variant":[
-        "Muarifkheyl\u2019",
         "Ma \u1e5f\u016bfk\u0113l",
         "Mo\u2018\u0101\u1e5fefkh\u0113l",
-        "Mo\u2018\u0101ref Kheyl",
-        "\u0645\u0639\u0627\u0631\u0641 \u062e\u06cc\u0644"
+        "Mo\u2018\u0101ref Kheyl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1226799919,
-    "wof:lastmodified":1537581121,
+    "wof:lastmodified":1566584452,
     "wof:name":"Ma'arif Khel",
     "wof:parent_id":1108561985,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":31.553931,
     "lbl:longitude":66.591642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kandahar",
     "meso:diss_me":"ArghistanKandahar",
     "meso:gadm_admin":"Arghistan",
@@ -26,6 +28,7 @@
     "mps:longitude":66.591642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Arghistan"
     ],
@@ -43,9 +46,9 @@
         "\u0627\u0631\u063a\u0633\u062a\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Arghistan",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108561819,
-    "wof:lastmodified":1564143945,
+    "wof:lastmodified":1566583068,
     "wof:name":"Arghistan",
     "wof:parent_id":85667549,
     "wof:placetype":"county",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.096558,
     "lbl:longitude":69.811447,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Takhar",
     "meso:diss_me":"RustaqTakhar",
     "meso:gadm_admin":"Rustaq",
@@ -26,6 +28,7 @@
     "mps:longitude":69.811447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Rustaq"
     ],
@@ -55,9 +58,9 @@
         "Qu\u1eadn Rustaq"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Rustaq",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108562417,
-    "wof:lastmodified":1561775868,
+    "wof:lastmodified":1566583072,
     "wof:name":"Rustaq",
     "wof:parent_id":85667595,
     "wof:placetype":"county",

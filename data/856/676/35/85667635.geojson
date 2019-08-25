@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.277256,
     "lbl:longitude":68.44915,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.255738,
     "mps:longitude":68.453945,
     "mz:hierarchy_label":1,
@@ -215,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maydan Province"
     ],
     "name:urd_x_preferred":[
@@ -302,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"8,938",
     "statoids:area_mi":"3,451",
     "statoids:as_of_date":"2006-01-01",
@@ -330,7 +331,7 @@
         "hasc:id":"AF.VR",
         "iso:id":"AF-WAR",
         "loc:id":"n86066491",
-        "qs:id":318257,
+        "qs_pg:id":318257,
         "unlc:id":"AF-WAR",
         "wd:id":"Q183056",
         "wk:page":"Maidan Wardak Province"
@@ -356,11 +357,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634338,
+    "wof:lastmodified":1566582236,
     "wof:name":"Wardak",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":506300,
     "wof:population_rank":11,

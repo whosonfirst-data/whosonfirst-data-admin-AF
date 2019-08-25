@@ -10,8 +10,12 @@
     "geom:latitude":32.07275,
     "geom:longitude":64.8359,
     "iso:country":"AF",
+    "lbl:bbox":"64.8159,32.05275,64.8559,32.09275",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u064a\u0646"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Sang\u012bn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0101rb\u0101n Qal\u2018eh"
     ],
     "qs:gn_country":"AF",
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1127547,
         "gp:id":1935400,
-        "qs:id":130583,
+        "qs_pg:id":130583,
         "wd:id":"Q2457742",
         "wk:page":"Sangin"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421167191,
-    "wof:lastmodified":1563287885,
+    "wof:lastmodified":1566583518,
     "wof:name":"Sang\u012bn",
     "wof:parent_id":421197035,
     "wof:placetype":"locality",

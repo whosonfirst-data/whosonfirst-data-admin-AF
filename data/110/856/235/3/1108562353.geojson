@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.605799,
     "lbl:longitude":65.125866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghor",
     "meso:diss_me":"PasabandGhor",
     "meso:gadm_admin":"Pasaband",
@@ -26,6 +28,7 @@
     "mps:longitude":65.125866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pasaband"
     ],
@@ -33,9 +36,9 @@
         "Pasaband"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Pasaband",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108562353,
-    "wof:lastmodified":1536615185,
+    "wof:lastmodified":1566583059,
     "wof:name":"Pasaband",
     "wof:parent_id":85667519,
     "wof:placetype":"county",

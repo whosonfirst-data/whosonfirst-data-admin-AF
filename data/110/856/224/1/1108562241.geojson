@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.52199,
     "lbl:longitude":70.383985,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nuristan",
     "meso:diss_me":"MandolNuristan",
     "meso:gadm_admin":"Mandol",
@@ -26,6 +28,7 @@
     "mps:longitude":70.383985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a6\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
@@ -69,9 +72,9 @@
         "Qu\u1eadn Mandol"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Mandol",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108562241,
-    "wof:lastmodified":1563287211,
+    "wof:lastmodified":1566583074,
     "wof:name":"Mandol",
     "wof:parent_id":85667577,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.48662,36.65297,66.52662,36.69297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Im\u0101m \u015e\u0101\u1e29ib"
     ],
@@ -60,8 +64,6 @@
         "\u0418\u043c\u0430\u043c\u0441\u04d9\u0445\u0438\u0431"
     ],
     "name:und_x_variant":[
-        "Im\u0101m \u015e\u0101\u1e29ib",
-        "\u0627\u0645\u0627\u0645 \u0635\u0627\u062d\u0628",
         "Em\u0101m \u015e\u0101\u1e29eb"
     ],
     "src:geom":"geonames",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1310661155,
-    "wof:lastmodified":1564144314,
+    "wof:lastmodified":1566583217,
     "wof:name":"Imam Sahib",
     "wof:parent_id":1108561915,
     "wof:placetype":"locality",

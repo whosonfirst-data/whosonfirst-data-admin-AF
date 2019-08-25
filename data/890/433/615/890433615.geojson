@@ -11,10 +11,14 @@
     "geom:longitude":66.78891,
     "gn:country":"AF",
     "gn:fcode":"PPL",
-    "gn:pop":8942,
+    "gn:population":8942,
     "iso:country":"AF",
+    "lbl:bbox":"66.76891,37.01999,66.80891,37.05999",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Qarchi Gak"
     ],
@@ -39,9 +43,6 @@
     "name:swe_x_preferred":[
         "Qarch\u012b Gak"
     ],
-    "name:unk_x_variant":[
-        "\u0642\u0631\u0686\u06cc \u06af\u06a9"
-    ],
     "qs:name":"Qarch\u012b Gak",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1129636,
         "gp:id":1935378,
-        "qs:id":130591,
+        "qs_pg:id":130591,
         "wd:id":"Q3290339",
         "wk:page":"Qarchi Gak"
     },
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":890433615,
-    "wof:lastmodified":1563287930,
+    "wof:lastmodified":1566583537,
     "wof:name":"Qarch\u012b Gak",
     "wof:parent_id":1108561963,
     "wof:placetype":"locality",

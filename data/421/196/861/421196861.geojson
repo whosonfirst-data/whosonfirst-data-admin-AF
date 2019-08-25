@@ -10,8 +10,12 @@
     "geom:latitude":37.41853,
     "geom:longitude":66.04358,
     "iso:country":"AF",
+    "lbl:bbox":"66.02358,37.39853,66.06358,37.43853",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Qarqin"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Qarq\u012bn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karkin"
     ],
     "qs:gn_country":"AF",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1129516,
         "gp:id":1923524,
-        "qs:id":1300950,
+        "qs_pg:id":1300950,
         "wd:id":"Q5199398",
         "wk:page":"Qarqin"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421196861,
-    "wof:lastmodified":1563287900,
+    "wof:lastmodified":1566583523,
     "wof:name":"Qarq\u012bn",
     "wof:parent_id":1108562395,
     "wof:placetype":"locality",

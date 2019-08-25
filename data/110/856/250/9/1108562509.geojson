@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.286349,
     "lbl:longitude":66.924571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Balkh",
     "meso:diss_me":"ShortepaBalkh",
     "meso:gadm_admin":"Shortepa",
@@ -26,6 +28,7 @@
     "mps:longitude":66.924571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b6\u09b0\u09cd\u09a4\u09bf\u09aa\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -60,9 +63,9 @@
         "Qu\u1eadn Shortepa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Shortepa",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108562509,
-    "wof:lastmodified":1563287173,
+    "wof:lastmodified":1566583057,
     "wof:name":"Shortepa",
     "wof:parent_id":85667505,
     "wof:placetype":"county",

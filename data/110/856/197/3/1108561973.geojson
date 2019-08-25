@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.675695,
     "lbl:longitude":69.304515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kabul",
     "meso:diss_me":"Dih SabzKabul",
     "meso:gadm_admin":"Dih Sabz",
@@ -26,6 +28,7 @@
     "mps:longitude":69.304515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dih Sabz"
     ],
@@ -34,9 +37,9 @@
         "Dih Sabz"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Tarakhel",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108561973,
-    "wof:lastmodified":1536615176,
+    "wof:lastmodified":1566583070,
     "wof:name":"Dih Sabz",
     "wof:parent_id":85667603,
     "wof:placetype":"county",

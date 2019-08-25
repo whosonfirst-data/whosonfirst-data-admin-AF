@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.555903,
     "lbl:longitude":69.275376,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.5311,
     "mps:longitude":69.284317,
     "mz:hierarchy_label":1,
@@ -221,7 +222,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043a\u0442\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pakteya"
     ],
     "name:urd_x_preferred":[
@@ -308,9 +309,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"6,432",
     "statoids:area_mi":"2,483",
     "statoids:as_of_date":"2006-01-01",
@@ -335,7 +336,7 @@
         "hasc:id":"AF.PT",
         "iso:id":"AF-PIA",
         "loc:id":"n85302301",
-        "qs:id":1083780,
+        "qs_pg:id":1083780,
         "wd:id":"Q182493",
         "wk:page":"Paktia Province"
     },
@@ -360,11 +361,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634339,
+    "wof:lastmodified":1566582237,
     "wof:name":"Paktya",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":467500,
     "wof:population_rank":10,

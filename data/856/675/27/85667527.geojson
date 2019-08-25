@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.511368,
     "lbl:longitude":62.338331,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.339969,
     "mps:longitude":61.446565,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0445"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ferrah Province"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +311,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"48,471",
     "statoids:area_mi":"18,715",
     "statoids:as_of_date":"2006-01-01",
@@ -338,7 +339,7 @@
         "hasc:id":"AF.FH",
         "iso:id":"AF-FRA",
         "loc:id":"n86066474",
-        "qs:id":318251,
+        "qs_pg:id":318251,
         "unlc:id":"AF-FRA",
         "wd:id":"Q180330",
         "wk:page":"Farah Province"
@@ -364,11 +365,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634332,
+    "wof:lastmodified":1566582222,
     "wof:name":"Farah",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":428800,
     "wof:population_rank":10,

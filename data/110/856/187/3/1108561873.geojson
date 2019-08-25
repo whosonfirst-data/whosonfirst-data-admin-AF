@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.889988,
     "lbl:longitude":65.591241,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Faryab",
     "meso:diss_me":"BilchiraghFaryab",
     "meso:gadm_admin":"Bilchiragh",
@@ -26,6 +28,7 @@
     "mps:longitude":65.591241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b2\u099a\u09bf\u09b0\u0997\u09a1\u09bc \u099c\u09c7\u09b2\u09be"
     ],
@@ -63,9 +66,9 @@
         "Qu\u1eadn Bilchiragh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Bilchiragh",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108561873,
-    "wof:lastmodified":1563287193,
+    "wof:lastmodified":1566583066,
     "wof:name":"Bilchiragh",
     "wof:parent_id":85667509,
     "wof:placetype":"county",

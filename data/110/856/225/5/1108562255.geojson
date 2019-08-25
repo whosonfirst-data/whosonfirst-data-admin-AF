@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":31.426777,
     "lbl:longitude":67.245422,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kandahar",
     "meso:diss_me":"MarufKandahar",
     "meso:gadm_admin":"Maruf",
@@ -26,6 +28,7 @@
     "mps:longitude":67.245422,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Maruf"
     ],
@@ -42,9 +45,9 @@
         "Maruf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khugyanay",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108562255,
-    "wof:lastmodified":1564143961,
+    "wof:lastmodified":1566583076,
     "wof:name":"Maruf",
     "wof:parent_id":85667549,
     "wof:placetype":"county",

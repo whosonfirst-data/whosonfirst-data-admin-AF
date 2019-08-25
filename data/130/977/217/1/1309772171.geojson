@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"70.63825,34.39388,70.67825,34.43388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0413\u04d9\u0440\u04d9\u0439"
     ],
@@ -76,7 +80,6 @@
     ],
     "name:und_x_variant":[
         "Ga\u1e5fay",
-        "\u06af\u0631\u06cc",
         "\u06af\u0693\u06cc"
     ],
     "src:geom":"geonames",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1309772171,
-    "wof:lastmodified":1564144603,
+    "wof:lastmodified":1566583409,
     "wof:name":"Garay",
     "wof:parent_id":1108562125,
     "wof:placetype":"locality",

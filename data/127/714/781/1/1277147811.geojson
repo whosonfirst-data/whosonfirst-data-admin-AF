@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.28,35.09667,69.32,35.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kohistan"
     ],
@@ -47,7 +51,6 @@
     "name:und_x_variant":[
         "Kohest\u0101n",
         "K\u016bhest\u0101n",
-        "\u0643\u0648\u0647\u0633\u062a\u0627\u0646",
         "K\u014dhist\u0101n"
     ],
     "src:geom":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1277147811,
-    "wof:lastmodified":1564142684,
+    "wof:lastmodified":1566582584,
     "wof:name":"Kohistan",
     "wof:parent_id":1108562073,
     "wof:placetype":"locality",

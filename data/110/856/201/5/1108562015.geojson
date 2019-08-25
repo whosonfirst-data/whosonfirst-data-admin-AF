@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.459319,
     "lbl:longitude":67.581384,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Samangan",
     "meso:diss_me":"Feroz NakhchirSamangan",
     "meso:gadm_admin":"Khulm",
@@ -26,6 +28,7 @@
     "mps:longitude":67.581384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Feroz Nakhchir"
     ],
@@ -34,9 +37,9 @@
         "Khulm"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Feroz Nakhchir",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562015,
-    "wof:lastmodified":1536615177,
+    "wof:lastmodified":1566583084,
     "wof:name":"Feroz Nakhchir",
     "wof:parent_id":85667631,
     "wof:placetype":"county",

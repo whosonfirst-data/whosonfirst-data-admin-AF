@@ -11,8 +11,11 @@
     "geom:longitude":67.11087,
     "gn:country":"AF",
     "gn:fcode":"PPLA",
-    "gn:pop":303282,
+    "gn:population":303282,
     "iso:country":"AF",
+    "lbl:bbox":"67.09087,36.68904,67.13087,36.72904",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -244,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0456-\u0428\u0430\u0440\u0438\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maz\u0101re S\u0304r\u012bf"
     ],
     "name:urd_x_preferred":[
@@ -372,7 +375,7 @@
     "wof:concordances":{
         "gn:id":1133616,
         "gp:id":1926305,
-        "qs:id":1029756,
+        "qs_pg:id":1029756,
         "wd:id":"Q130469",
         "wk:page":"Mazar-i-Sharif"
     },
@@ -389,7 +392,7 @@
         }
     ],
     "wof:id":890443559,
-    "wof:lastmodified":1563287924,
+    "wof:lastmodified":1566583534,
     "wof:name":"Maz\u0101r-e Shar\u012bf",
     "wof:parent_id":1108562267,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.135881,
     "lbl:longitude":69.339294,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kapisa",
     "meso:diss_me":"Hisa-i-Awali KohistanKapisa",
     "meso:gadm_admin":"Kohistan",
@@ -26,6 +28,7 @@
     "mps:longitude":69.339294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kohistan"
     ],
@@ -34,9 +37,9 @@
         "Kohistan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kohistan",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562073,
-    "wof:lastmodified":1536615179,
+    "wof:lastmodified":1566583082,
     "wof:name":"Hisa-i-Awali Kohistan",
     "wof:parent_id":85667609,
     "wof:placetype":"county",

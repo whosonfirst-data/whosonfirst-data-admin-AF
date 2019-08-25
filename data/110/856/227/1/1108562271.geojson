@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.724127,
     "lbl:longitude":69.123511,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kabul",
     "meso:diss_me":"Mir Bacha KotKabul",
     "meso:gadm_admin":"Mirbacha Kot",
@@ -26,6 +28,7 @@
     "mps:longitude":69.123511,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "M\u012br Bachah K\u014d\u1e6f"
     ],
@@ -43,9 +46,9 @@
         "Mir Bacha Kot"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Mir Bacha Kot",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108562271,
-    "wof:lastmodified":1564143919,
+    "wof:lastmodified":1566583050,
     "wof:name":"Mir Bacha Kot",
     "wof:parent_id":85667603,
     "wof:placetype":"county",

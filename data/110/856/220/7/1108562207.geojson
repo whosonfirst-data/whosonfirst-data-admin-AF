@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.418157,
     "lbl:longitude":70.712019,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"KohistanBadakhshan",
     "meso:gadm_admin":"Ragh",
@@ -26,6 +28,7 @@
     "mps:longitude":70.712019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kohistan"
     ],
@@ -49,9 +52,9 @@
         "Kohistan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kohistan",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108562207,
-    "wof:lastmodified":1564143920,
+    "wof:lastmodified":1566583051,
     "wof:name":"Kohistan",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

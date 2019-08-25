@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"62.54632,34.28875,62.58632,34.32875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0648\u0631\u0627\u0646"
     ],
@@ -113,11 +117,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "T\u016br\u0101n",
-        "\u062a\u0648\u0631\u0627\u0646",
-        "Turan"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0631\u0627\u0646"
     ],
@@ -147,7 +146,7 @@
         }
     ],
     "wof:id":1243244549,
-    "wof:lastmodified":1564145006,
+    "wof:lastmodified":1566583703,
     "wof:name":"Turan",
     "wof:parent_id":1108562359,
     "wof:placetype":"locality",

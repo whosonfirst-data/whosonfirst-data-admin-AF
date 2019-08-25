@@ -11,8 +11,11 @@
     "geom:longitude":70.20944,
     "gn:country":"AF",
     "gn:fcode":"PPLA",
-    "gn:pop":17345,
+    "gn:population":17345,
     "iso:country":"AF",
+    "lbl:bbox":"70.18944,34.65139,70.22944,34.69139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -136,7 +139,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0445\u0442\u0430\u0440\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laghman"
     ],
     "name:urd_x_preferred":[
@@ -258,11 +261,11 @@
     "wof:concordances":{
         "gn:id":1133574,
         "gp:id":1926333,
-        "qs:id":1029755,
+        "qs_pg:id":1029755,
         "wd:id":"Q1982155"
     },
     "wof:concordances_alt":{
-        "qs:id":1119353
+        "qs_pg:id":1119353
     },
     "wof:country":"AF",
     "wof:created":1469052429,
@@ -277,7 +280,7 @@
         }
     ],
     "wof:id":890443555,
-    "wof:lastmodified":1563287925,
+    "wof:lastmodified":1566583534,
     "wof:name":"Mehtar L\u0101m",
     "wof:parent_id":1108562269,
     "wof:placetype":"locality",

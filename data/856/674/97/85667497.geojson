@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.356867,
     "lbl:longitude":61.934317,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.34941,
     "mps:longitude":61.961465,
     "mz:hierarchy_label":1,
@@ -239,9 +240,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Her\u0101t"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06c1\u0631\u0627\u062a"
     ],
@@ -326,9 +324,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"54,778",
     "statoids:area_mi":"21,150",
     "statoids:as_of_date":"2006-01-01",
@@ -354,7 +352,7 @@
         "hasc:id":"AF.HR",
         "iso:id":"AF-HER",
         "loc:id":"n86066479",
-        "qs:id":235554,
+        "qs_pg:id":235554,
         "unlc:id":"AF-HER",
         "wd:id":"Q182844",
         "wk:page":"Herat Province"
@@ -380,11 +378,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634336,
+    "wof:lastmodified":1566582230,
     "wof:name":"Hirat",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1544800,
     "wof:population_rank":12,

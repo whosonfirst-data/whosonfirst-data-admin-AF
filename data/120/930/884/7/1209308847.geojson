@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"64.69127,35.23155,64.73127,35.27155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sarmi"
     ],
@@ -46,8 +50,7 @@
     ],
     "name:und_x_variant":[
         "Sarm\u012b",
-        "\u0633\u0631\u0645\u06cc",
-        "Sarmi"
+        "\u0633\u0631\u0645\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209308847,
-    "wof:lastmodified":1564143052,
+    "wof:lastmodified":1566582719,
     "wof:name":"Sarmi",
     "wof:parent_id":85632229,
     "wof:placetype":"locality",

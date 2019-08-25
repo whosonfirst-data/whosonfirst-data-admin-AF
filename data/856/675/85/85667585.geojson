@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.884389,
     "lbl:longitude":68.763242,
+    "lbl:min_zoom":8.0,
     "mps:latitude":36.884337,
     "mps:longitude":68.753942,
     "mz:hierarchy_label":1,
@@ -223,7 +224,7 @@
         "Kondoz"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1\u0bb8\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c02\u0c21\u0c41\u0c1c\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -249,7 +250,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vel\u0101yat-e Qond\u016bz"
     ],
     "name:urd_x_preferred":[
@@ -339,9 +340,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"8,040",
     "statoids:area_mi":"3,104",
     "statoids:as_of_date":"2006-01-01",
@@ -367,7 +368,7 @@
         "hasc:id":"AF.KZ",
         "iso:id":"AF-KDZ",
         "loc:id":"n87929913",
-        "qs:id":219490,
+        "qs_pg:id":219490,
         "unlc:id":"AF-KDZ",
         "wd:id":"Q186418",
         "wk:page":"Kunduz Province"
@@ -393,11 +394,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634335,
+    "wof:lastmodified":1566582228,
     "wof:name":"Kunduz",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":833300,
     "wof:population_rank":11,

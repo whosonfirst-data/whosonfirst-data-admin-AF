@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"62.40605,34.89754,62.44605,34.93754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Muhammad"
     ],
@@ -520,8 +524,6 @@
     ],
     "name:und_x_variant":[
         "Mukhammed",
-        "Mu\u1e29ammad",
-        "\u0645\u062d\u0645\u062f",
         "Mo\u1e29ammad"
     ],
     "name:uzb_x_preferred":[
@@ -586,7 +588,7 @@
         }
     ],
     "wof:id":1276967253,
-    "wof:lastmodified":1564142900,
+    "wof:lastmodified":1566582663,
     "wof:name":"Muhammad",
     "wof:parent_id":1108562215,
     "wof:placetype":"locality",

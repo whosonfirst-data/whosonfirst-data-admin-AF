@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.34403,36.71226,69.38403,36.75226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gavi"
     ],
@@ -55,10 +59,8 @@
     ],
     "name:und_x_variant":[
         "G\u0101wi",
-        "Gavi",
         "G\u0101v\u012b",
-        "G\u0101w\u012b",
-        "\u06af\u0627\u0648\u06cc"
+        "G\u0101w\u012b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1310060543,
-    "wof:lastmodified":1564144193,
+    "wof:lastmodified":1566583170,
     "wof:name":"Gavi",
     "wof:parent_id":421188911,
     "wof:placetype":"locality",

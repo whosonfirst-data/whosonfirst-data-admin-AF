@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.359915,
     "lbl:longitude":67.339944,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghazni",
     "meso:diss_me":"MalistanGhazni",
     "meso:gadm_admin":"Malistan",
@@ -26,6 +28,7 @@
     "mps:longitude":67.339944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Malistan"
     ],
@@ -34,9 +37,9 @@
         "Malistan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Malistan",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562237,
-    "wof:lastmodified":1536615182,
+    "wof:lastmodified":1566583073,
     "wof:name":"Malistan",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

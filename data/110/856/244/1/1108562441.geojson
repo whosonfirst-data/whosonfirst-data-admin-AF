@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.922928,
     "lbl:longitude":68.63737,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Maydan Wardak",
     "meso:diss_me":"SaydabadMaydan Wardak",
     "meso:gadm_admin":"Sayid Abad",
@@ -26,6 +28,7 @@
     "mps:longitude":68.63737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09af\u09bc\u09a6\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
     ],
@@ -67,9 +70,9 @@
         "\u85a9\u8036\u9054\u5df4\u5fb7\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Sayd Abad",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108562441,
-    "wof:lastmodified":1563287172,
+    "wof:lastmodified":1566583056,
     "wof:name":"Saydabad",
     "wof:parent_id":85667635,
     "wof:placetype":"county",

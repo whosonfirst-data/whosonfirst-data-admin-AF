@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.65807,36.95699,66.69807,36.99699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "\u00c9seulam"
     ],
@@ -628,7 +632,6 @@
     ],
     "name:und_x_variant":[
         "Isl\u0101m",
-        "Islam",
         "Esl\u0101m"
     ],
     "name:urd_x_preferred":[
@@ -705,7 +708,7 @@
         }
     ],
     "wof:id":1293147287,
-    "wof:lastmodified":1564142085,
+    "wof:lastmodified":1566582345,
     "wof:name":"Islam",
     "wof:parent_id":1108561963,
     "wof:placetype":"locality",

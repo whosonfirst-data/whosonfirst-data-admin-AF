@@ -11,11 +11,15 @@
     "geom:longitude":61.77589,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":12412,
+    "gn:population":12412,
     "iso:country":"AF",
+    "lbl:bbox":"61.75589,34.92023,61.79589,34.96023",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Karab\u0101gh"
     ],
     "qs:name":"Qarah B\u0101gh",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1129678,
         "gp:id":1934200,
-        "qs:id":130594
+        "qs_pg:id":130594
     },
     "wof:country":"AF",
     "wof:created":1469051090,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415473,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566583529,
     "wof:name":"Qarah B\u0101gh",
     "wof:parent_id":1108562051,
     "wof:placetype":"locality",

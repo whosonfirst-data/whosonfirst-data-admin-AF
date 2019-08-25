@@ -11,11 +11,15 @@
     "geom:longitude":69.64573,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":12526,
+    "gn:population":12526,
     "iso:country":"AF",
+    "lbl:bbox":"69.62573,34.15355,69.66573,34.19355",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Khukumati-Azrau"
     ],
     "qs:name":"\u1e28uk\u016bmat\u012b Azrah",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1147851,
         "gp:id":1916513,
-        "qs:id":1029806
+        "qs_pg:id":1029806
     },
     "wof:country":"AF",
     "wof:created":1469051221,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417803,
-    "wof:lastmodified":1505343441,
+    "wof:lastmodified":1566583533,
     "wof:name":"\u1e28uk\u016bmat\u012b Azrah",
     "wof:parent_id":1108561829,
     "wof:placetype":"locality",

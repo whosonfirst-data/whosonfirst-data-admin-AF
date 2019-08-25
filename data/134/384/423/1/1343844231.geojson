@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.64615,34.41576,69.68615,34.45576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0644\u0627\u0645 \u062e\u064a\u0644"
     ],
@@ -35,7 +39,6 @@
     "name:und_x_variant":[
         "Sal\u0101m Kh\u0113l",
         "Sal\u0101m Kheyl",
-        "\u0633\u0644\u0627\u0645 \u062e\u064a\u0644",
         "\u0633\u0644\u0627\u0645 \u062e\u06d0\u0644"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343844231,
-    "wof:lastmodified":1537580583,
+    "wof:lastmodified":1566582077,
     "wof:name":"Salam Khel",
     "wof:parent_id":1108562527,
     "wof:placetype":"locality",

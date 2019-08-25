@@ -11,10 +11,14 @@
     "geom:longitude":61.19778,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":12087,
+    "gn:population":12087,
     "iso:country":"AF",
+    "lbl:bbox":"61.17778,34.63389,61.21778,34.67389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Kuhest\u00e1n"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Kuhs\u0101n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuhsan"
     ],
     "qs:name":"Kuhs\u0101n",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1120483,
         "gp:id":1920382,
-        "qs:id":1029752,
+        "qs_pg:id":1029752,
         "wd:id":"Q6426147"
     },
     "wof:country":"AF",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890443551,
-    "wof:lastmodified":1563287921,
+    "wof:lastmodified":1566583533,
     "wof:name":"Kuhs\u0101n",
     "wof:parent_id":1108562213,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.36938,34.49868,67.40938,34.53868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0646\u06af \u0642\u0648\u0644"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Sangq\u014dl",
         "Sang Q\u014dl",
-        "Sangqowl",
-        "\u0633\u0646\u06af \u0642\u0648\u0644"
+        "Sangqowl"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1226716637,
-    "wof:lastmodified":1537580561,
+    "wof:lastmodified":1566584418,
     "wof:name":"Sang Qol",
     "wof:parent_id":1108562251,
     "wof:placetype":"locality",
