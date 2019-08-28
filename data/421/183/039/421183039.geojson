@@ -10,8 +10,12 @@
     "geom:latitude":36.91667,
     "geom:longitude":72.3,
     "iso:country":"AF",
+    "lbl:bbox":"72.28,36.89667,72.32,36.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0412\u0430\u0445\u0430\u043d"
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0648\u0627\u062e\u0627\u0646"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u062e\u0627\u0646"
     ],
@@ -133,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1121883,
         "gp:id":1934302,
-        "qs:id":959500,
+        "qs_pg:id":959500,
         "wd:id":"Q960113"
     },
     "wof:country":"AF",
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421183039,
-    "wof:lastmodified":1563287907,
+    "wof:lastmodified":1566583526,
     "wof:name":"Vakhan",
     "wof:parent_id":421187941,
     "wof:placetype":"locality",

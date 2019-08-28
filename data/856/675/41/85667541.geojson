@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.850353,
     "lbl:longitude":66.197348,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.767873,
     "mps:longitude":65.983188,
     "mz:hierarchy_label":1,
@@ -250,7 +251,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0443\u0437\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aruzgan"
     ],
     "name:urd_x_preferred":[
@@ -337,9 +338,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"22,696",
     "statoids:area_mi":"8,763",
     "statoids:as_of_date":"2006-01-01",
@@ -364,7 +365,7 @@
         "hasc:id":"AF.OZ",
         "iso:id":"AF-URU",
         "loc:id":"n86066485",
-        "qs:id":1083779,
+        "qs_pg:id":1083779,
         "wd:id":"Q183028",
         "wk:page":"Urozgan Province"
     },
@@ -389,11 +390,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634335,
+    "wof:lastmodified":1566582227,
     "wof:name":"Uruzgan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":297200,
     "wof:population_rank":10,

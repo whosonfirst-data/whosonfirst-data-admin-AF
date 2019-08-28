@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9014392.415728,
+    "geom:area_square_m":0.0,
     "geom:bbox":"69.185743,34.521477,69.185743,34.521477",
     "geom:latitude":34.521477,
     "geom:longitude":69.185743,
     "gn:id":"",
     "iso:country":"AF",
+    "lbl:bbox":"69.180743,34.516477,69.190743,34.526477",
     "lbl:latitude":34.521477,
     "lbl:longitude":69.185743,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.515342,
     "mps:longitude":69.177615,
     "mz:hierarchy_label":0,
@@ -33,10 +35,7 @@
     "name:und_x_colloquial":[
         "Chaman hozuri"
     ],
-    "name:und_x_preferred":[
-        "Chaman H\u0327o\u1e95\u016br\u012b"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaman H\u0327o\u1e95\u016br\u012b"
     ],
     "qs:gn_adm0_cc":"AF",
@@ -67,17 +66,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667603,
         102191569,
         85632229,
-        421171977,
-        85667603
+        421171977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1918153,
-        "qs:id":1119342
+        "qs_pg:id":1119342
     },
     "wof:country":"AF",
     "wof:geomhash":"a1eaa2cdc2f5bece328ce5010c5c52c9",
@@ -95,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531935976,
+    "wof:lastmodified":1566582219,
     "wof:name":"Chaman H\u0327o\u1e95\u016br\u012b",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"70.6476,37.35598,70.6876,37.39598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0425\u04d9\u0430\u0436\u04d9\u043a\u044b\u0440\u0430\u043c\u0437\u0430"
     ],
@@ -631,7 +635,6 @@
     ],
     "name:und_x_variant":[
         "M\u0101\u1e5fc",
-        "\u0645\u0627\u0631\u0686",
         "M\u0101\u1e5fch",
         "M\u0101rch"
     ],
@@ -703,7 +706,7 @@
         }
     ],
     "wof:id":1310715653,
-    "wof:lastmodified":1564144053,
+    "wof:lastmodified":1566583114,
     "wof:name":"March",
     "wof:parent_id":1108562207,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":62.43626,
     "gn:country":"AF",
     "gn:fcode":"PPLH",
-    "gn:pop":450,
+    "gn:population":450,
     "iso:country":"AF",
+    "lbl:bbox":"62.41626,34.22203,62.45626,34.26203",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "D\u0101d\u0161\u0101n"
     ],
     "qs:name":"D\u0101dsh\u0101n",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1143865,
         "gp:id":1935283,
-        "qs:id":84214
+        "qs_pg:id":84214
     },
     "wof:country":"AF",
     "wof:created":1469051860,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430617,
-    "wof:lastmodified":1505343519,
+    "wof:lastmodified":1566583529,
     "wof:name":"D\u0101dsh\u0101n",
     "wof:parent_id":1108562359,
     "wof:placetype":"locality",

@@ -11,15 +11,18 @@
     "geom:longitude":65.90496,
     "gn:country":"AF",
     "gn:fcode":"MTS",
-    "gn:pop":1763,
+    "gn:population":1763,
     "iso:country":"AF",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:fas_x_preferred":[
         "\u0643\u0648\u0647\u0654 \u0633\u0628\u0632"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0160\u012bn Ghar"
     ],
     "qs:name":"Sh\u012bn Ghar",
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1125140,
         "gp:id":1935237,
-        "qs:id":555130
+        "qs_pg:id":555130
     },
     "wof:country":"AF",
     "wof:created":1469052362,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890442431,
-    "wof:lastmodified":1505343588,
+    "wof:lastmodified":1566583536,
     "wof:name":"Sh\u012bn Ghar",
     "wof:parent_id":1108561925,
     "wof:placetype":"locality",

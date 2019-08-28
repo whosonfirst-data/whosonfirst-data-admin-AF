@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"63.1867,34.70552,63.2267,34.74552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u0627\u0645"
     ],
@@ -56,8 +60,7 @@
     "name:und_x_variant":[
         "Khamam",
         "Ham\u0101n",
-        "\u1e28am\u0101m",
-        "\u062d\u0645\u0627\u0645"
+        "\u1e28am\u0101m"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209627919,
-    "wof:lastmodified":1564143023,
+    "wof:lastmodified":1566582709,
     "wof:name":"Hamam",
     "wof:parent_id":85632229,
     "wof:placetype":"locality",

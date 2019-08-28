@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"68.50509,33.36646,68.54509,33.40646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Nakam"
     ],
@@ -51,8 +55,7 @@
         "Nakam"
     ],
     "name:und_x_variant":[
-        "N\u0101k\u0101m",
-        "\u0646\u0627\u06a9\u0627\u0645"
+        "N\u0101k\u0101m"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1310396189,
-    "wof:lastmodified":1564144187,
+    "wof:lastmodified":1566583168,
     "wof:name":"Nakam",
     "wof:parent_id":1108561805,
     "wof:placetype":"locality",

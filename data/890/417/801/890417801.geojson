@@ -11,11 +11,15 @@
     "geom:longitude":64.1934,
     "gn:country":"AF",
     "gn:fcode":"PPL",
-    "gn:pop":9012,
+    "gn:population":9012,
     "iso:country":"AF",
+    "lbl:bbox":"64.1734,31.11232,64.2134,31.15232",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ma\u1e5fkaze Hok\u016bmat\u012b Darw\u0113s\u0101n"
     ],
     "qs:name":"Markaz-e \u1e28uk\u016bmat-e Darw\u0113sh\u0101n",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1143901,
         "gp:id":1929851,
-        "qs:id":1029793
+        "qs_pg:id":1029793
     },
     "wof:country":"AF",
     "wof:created":1469051221,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890417801,
-    "wof:lastmodified":1505343441,
+    "wof:lastmodified":1566583533,
     "wof:name":"Markaz-e \u1e28uk\u016bmat-e Darw\u0113sh\u0101n",
     "wof:parent_id":1108562019,
     "wof:placetype":"locality",

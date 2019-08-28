@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.369313,
     "lbl:longitude":69.508814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Panjsher",
     "meso:diss_me":"BazarakPanjsher",
     "meso:gadm_admin":"Panjsher",
@@ -26,6 +28,7 @@
     "mps:longitude":69.508814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0437\u0430\u0440\u0430\u043a"
     ],
@@ -76,7 +79,7 @@
         "Bazarak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Bazarak",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108561867,
-    "wof:lastmodified":1564143944,
+    "wof:lastmodified":1566583067,
     "wof:name":"Bazarak",
     "wof:parent_id":1108803081,
     "wof:placetype":"county",

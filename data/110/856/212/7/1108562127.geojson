@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.454816,
     "lbl:longitude":71.256245,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nuristan",
     "meso:diss_me":"KamdeshNuristan",
     "meso:gadm_admin":"Kamdesh",
@@ -26,6 +28,7 @@
     "mps:longitude":71.256245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09a6\u09c7\u09b6 \u099c\u09c7\u09b2\u09be"
     ],
@@ -75,9 +78,9 @@
         "Qu\u1eadn Kamdesh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kamdesh",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108562127,
-    "wof:lastmodified":1563287207,
+    "wof:lastmodified":1566583073,
     "wof:name":"Kamdesh",
     "wof:parent_id":85667577,
     "wof:placetype":"county",

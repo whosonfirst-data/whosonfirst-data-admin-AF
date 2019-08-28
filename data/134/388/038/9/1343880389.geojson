@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"61.18982,32.06144,61.22982,32.10144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khash"
     ],
@@ -48,8 +52,7 @@
         "\u0425\u0430\u0448"
     ],
     "name:und_x_variant":[
-        "Kh\u0101sh",
-        "\u062e\u0627\u0634"
+        "Kh\u0101sh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343880389,
-    "wof:lastmodified":1564141799,
+    "wof:lastmodified":1566582218,
     "wof:name":"Khash",
     "wof:parent_id":1108562485,
     "wof:placetype":"locality",

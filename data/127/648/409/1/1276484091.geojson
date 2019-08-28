@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.75735,33.28201,69.79735,33.32201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0628\u0631 \u062e\u0627\u0646 \u062e\u064a\u0644"
     ],
@@ -35,7 +39,6 @@
     "name:und_x_variant":[
         "Ba\u1e5f Kh\u0101nkh\u0113l",
         "Ba\u1e5f Kh\u0101nkheyl",
-        "\u0628\u0631 \u062e\u0627\u0646 \u062e\u064a\u0644",
         "Bar Kh\u0101n Kh\u0113l",
         "\u0628\u0631 \u062e\u0627\u0646 \u062e\u06d0\u0644"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276484091,
-    "wof:lastmodified":1537582221,
+    "wof:lastmodified":1566582645,
     "wof:name":"Bar Khan Khel",
     "wof:parent_id":1108562239,
     "wof:placetype":"locality",

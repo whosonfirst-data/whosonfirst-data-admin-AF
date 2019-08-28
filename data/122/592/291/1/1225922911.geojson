@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"64.5825,32.0995,64.6225,32.1395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0631\u0648\u0645\u0648\u0632"
     ],
@@ -59,8 +63,7 @@
     "name:und_x_variant":[
         "\u016armuz",
         "\u0627\u0648\u0631\u0645\u0632",
-        "\u016a\u1e5fmuz",
-        "Urmuz"
+        "\u016a\u1e5fmuz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1225922911,
-    "wof:lastmodified":1564145722,
+    "wof:lastmodified":1566584194,
     "wof:name":"Urmuz",
     "wof:parent_id":1108562311,
     "wof:placetype":"locality",

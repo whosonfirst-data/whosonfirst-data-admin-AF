@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.748945,
     "lbl:longitude":71.119794,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"SarkaniKunar",
     "meso:gadm_admin":"Sirkanay",
@@ -26,6 +28,7 @@
     "mps:longitude":71.119794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09b0\u0995\u09be\u09a8\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
@@ -61,9 +64,9 @@
         "Qu\u1eadn Sirkanay"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Sirkanay",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108562437,
-    "wof:lastmodified":1563287171,
+    "wof:lastmodified":1566583055,
     "wof:name":"Sarkani",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

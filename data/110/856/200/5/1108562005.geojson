@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.481259,
     "lbl:longitude":69.942477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Takhar",
     "meso:diss_me":"FarkharTakhar",
     "meso:gadm_admin":"Farkhar",
@@ -26,6 +28,7 @@
     "mps:longitude":69.942477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0445\u0430\u0440"
     ],
@@ -87,9 +90,9 @@
         "\u0641\u0631\u062e\u0627\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Farkhar",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108562005,
-    "wof:lastmodified":1564143970,
+    "wof:lastmodified":1566583081,
     "wof:name":"Farkhar",
     "wof:parent_id":85667595,
     "wof:placetype":"county",

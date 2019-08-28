@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.413401,
     "lbl:longitude":66.13339,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Daykundi",
     "meso:diss_me":"GizabDaykundi",
     "meso:gadm_admin":"Gizab",
@@ -26,6 +28,7 @@
     "mps:longitude":66.13339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gizab"
     ],
@@ -36,9 +39,9 @@
         "\u06af\u06cc\u0632\u0627\u0628"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Gizab",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108562039,
-    "wof:lastmodified":1564143932,
+    "wof:lastmodified":1566583060,
     "wof:name":"Gizab",
     "wof:parent_id":1108803083,
     "wof:placetype":"county",

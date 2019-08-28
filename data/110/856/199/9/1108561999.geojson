@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.529027,
     "lbl:longitude":68.66606,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Baghlan",
     "meso:diss_me":"DushiBaghlan",
     "meso:gadm_admin":"Doshi",
@@ -26,6 +28,7 @@
     "mps:longitude":68.66606,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dushi"
     ],
@@ -33,9 +36,9 @@
         "Doshi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Dushi",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1108561999,
-    "wof:lastmodified":1536615177,
+    "wof:lastmodified":1566583070,
     "wof:name":"Dushi",
     "wof:parent_id":85667601,
     "wof:placetype":"county",

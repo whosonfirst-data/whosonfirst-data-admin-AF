@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.023295,
     "lbl:longitude":69.654553,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.020517,
     "mps:longitude":69.650183,
     "mz:hierarchy_label":1,
@@ -223,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0456\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapissa"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +311,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"1,842",
     "statoids:area_mi":"711",
     "statoids:as_of_date":"2006-01-01",
@@ -338,7 +339,7 @@
         "hasc:id":"AF.KP",
         "iso:id":"AF-KAP",
         "loc:id":"n2005058615",
-        "qs:id":229356,
+        "qs_pg:id":229356,
         "unlc:id":"AF-KAP",
         "wd:id":"Q173816",
         "wk:page":"Kapisa Province"
@@ -364,11 +365,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634339,
+    "wof:lastmodified":1566582236,
     "wof:name":"Kapisa",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":374500,
     "wof:population_rank":10,

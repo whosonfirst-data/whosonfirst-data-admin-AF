@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.875746,
     "lbl:longitude":70.993766,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.869617,
     "mps:longitude":70.989323,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuner Province"
     ],
     "name:urd_x_preferred":[
@@ -307,9 +308,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"4,942",
     "statoids:area_mi":"1,908",
     "statoids:as_of_date":"2006-01-01",
@@ -335,7 +336,7 @@
         "hasc:id":"AF.KR",
         "iso:id":"AF-KNR",
         "loc:id":"n89207637",
-        "qs:id":238660,
+        "qs_pg:id":238660,
         "unlc:id":"AF-KNR",
         "wd:id":"Q188147",
         "wk:page":"Kunar Province"
@@ -361,11 +362,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634333,
+    "wof:lastmodified":1566582224,
     "wof:name":"Kunar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":381900,
     "wof:population_rank":10,

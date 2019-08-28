@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.63204,33.53215,66.67204,33.57215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u063a"
     ],
@@ -40,10 +44,6 @@
     ],
     "name:swe_x_preferred":[
         "K\u016brag"
-    ],
-    "name:und_x_variant":[
-        "K\u016brag",
-        "\u06a9\u0648\u0631\u06af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1209745693,
-    "wof:lastmodified":1564143420,
+    "wof:lastmodified":1566582865,
     "wof:name":"Kurag",
     "wof:parent_id":1108562461,
     "wof:placetype":"locality",

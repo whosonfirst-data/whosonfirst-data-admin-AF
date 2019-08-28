@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"61.51866,32.61377,61.55866,32.65377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0632\u0627\u062f"
     ],
@@ -56,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0437\u0430\u0434"
     ],
-    "name:und_x_variant":[
-        "\u0622\u0632\u0627\u062f"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1260102209,
-    "wof:lastmodified":1564143849,
+    "wof:lastmodified":1566583021,
     "wof:name":"Azad",
     "wof:parent_id":1108561801,
     "wof:placetype":"locality",

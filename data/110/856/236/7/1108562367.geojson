@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.160224,
     "lbl:longitude":63.900195,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Farah",
     "meso:diss_me":"Pur ChamanFarah",
     "meso:gadm_admin":"Purchaman",
@@ -26,6 +28,7 @@
     "mps:longitude":63.900195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09b0 \u099a\u09ae\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -73,9 +76,9 @@
         "Qu\u1eadn Pur Chaman"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Pur Chaman",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108562367,
-    "wof:lastmodified":1563287221,
+    "wof:lastmodified":1566583080,
     "wof:name":"Pur Chaman",
     "wof:parent_id":85667527,
     "wof:placetype":"county",

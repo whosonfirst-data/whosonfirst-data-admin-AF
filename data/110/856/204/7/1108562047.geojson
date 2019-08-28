@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.596563,
     "lbl:longitude":63.606399,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Farah",
     "meso:diss_me":"GulistanFarah",
     "meso:gadm_admin":"Gulistan",
@@ -26,6 +28,7 @@
     "mps:longitude":63.606399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09b2\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -79,9 +82,9 @@
         "\u53e4\u91cc\u65af\u5766\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Gulistan",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108562047,
-    "wof:lastmodified":1563287179,
+    "wof:lastmodified":1566583060,
     "wof:name":"Gulistan",
     "wof:parent_id":85667527,
     "wof:placetype":"county",

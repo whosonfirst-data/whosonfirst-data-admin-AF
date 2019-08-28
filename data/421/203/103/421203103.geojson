@@ -10,8 +10,12 @@
     "geom:latitude":33.33951,
     "geom:longitude":69.92041,
     "iso:country":"AF",
+    "lbl:bbox":"69.90041,33.31951,69.94041,33.35951",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0648\u0633\u062a"
@@ -163,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matun"
     ],
     "name:urd_x_preferred":[
@@ -209,7 +213,7 @@
     "wof:concordances":{
         "gn:id":1136469,
         "gp:id":1935316,
-        "qs:id":229289,
+        "qs_pg:id":229289,
         "wd:id":"Q386682",
         "wk:page":"Khost"
     },
@@ -226,7 +230,7 @@
         }
     ],
     "wof:id":421203103,
-    "wof:lastmodified":1563287886,
+    "wof:lastmodified":1566583518,
     "wof:name":"Kh\u014dst",
     "wof:parent_id":1108562173,
     "wof:placetype":"locality",

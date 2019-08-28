@@ -10,6 +10,9 @@
     "geom:latitude":32.10575,
     "geom:longitude":66.90833,
     "iso:country":"AF",
+    "lbl:bbox":"66.88833,32.08575,66.92833,32.12575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -130,9 +133,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Kalat"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0644\u0627\u062a\u060c \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -271,7 +271,7 @@
     "wof:concordances":{
         "gn:id":1130131,
         "gp:id":1935373,
-        "qs:id":1029753,
+        "qs_pg:id":1029753,
         "wd:id":"Q527318",
         "wk:page":"Qalat, Zabul"
     },
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":421175753,
-    "wof:lastmodified":1563287898,
+    "wof:lastmodified":1566583522,
     "wof:name":"Kal\u0101t-i-Ghilzai",
     "wof:parent_id":1108562381,
     "wof:placetype":"locality",

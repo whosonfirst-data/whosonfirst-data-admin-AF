@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":37.508921,
     "lbl:longitude":70.414182,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Badakhshan",
     "meso:diss_me":"YawanBadakhshan",
     "meso:gadm_admin":"Ragh",
@@ -26,6 +28,7 @@
     "mps:longitude":70.414182,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yawan"
     ],
@@ -40,9 +43,9 @@
         "Yawan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Yawan",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108562595,
-    "wof:lastmodified":1564143929,
+    "wof:lastmodified":1566583058,
     "wof:name":"Yawan",
     "wof:parent_id":85667573,
     "wof:placetype":"county",

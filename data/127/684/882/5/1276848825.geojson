@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"61.87675,34.66286,61.91675,34.70286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0635\u0631 \u0634\u064a\u0631\u064a\u0646"
     ],
@@ -69,9 +73,7 @@
         "Kasr \u015eirin"
     ],
     "name:und_x_variant":[
-        "Qas\u1e5f-i-S\u0304\u012b\u1e5f\u012bn",
-        "Qa\u015fr-e Sh\u012br\u012bn",
-        "\u0642\u0635\u0631 \u0634\u06cc\u0631\u06cc\u0646"
+        "Qas\u1e5f-i-S\u0304\u012b\u1e5f\u012bn"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0631 \u0634\u06cc\u0631\u06cc\u0646"
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1276848825,
-    "wof:lastmodified":1564142832,
+    "wof:lastmodified":1566582639,
     "wof:name":"Qasr-e Shirin",
     "wof:parent_id":421198931,
     "wof:placetype":"locality",

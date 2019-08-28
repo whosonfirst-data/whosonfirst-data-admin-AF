@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.735247,
     "lbl:longitude":70.871777,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"ChawkayKunar",
     "meso:gadm_admin":"Chawkay",
@@ -26,6 +28,7 @@
     "mps:longitude":70.871777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099a\u09be\u0989\u0995\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
@@ -60,9 +63,9 @@
         "Qu\u1eadn Chawkay"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Chawkay",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108561913,
-    "wof:lastmodified":1563287201,
+    "wof:lastmodified":1566583070,
     "wof:name":"Chawkay",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

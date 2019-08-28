@@ -10,8 +10,12 @@
     "geom:latitude":31.52919,
     "geom:longitude":62.79055,
     "iso:country":"AF",
+    "lbl:bbox":"62.77055,31.50919,62.81055,31.54919",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Khash"
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kh\u0101s\u0304"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1136863,
         "gp:id":56558421,
-        "qs:id":275989
+        "qs_pg:id":275989
     },
     "wof:country":"AF",
     "wof:created":1459009166,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421177979,
-    "wof:lastmodified":1564144757,
+    "wof:lastmodified":1566583525,
     "wof:name":"Khash",
     "wof:parent_id":1108562159,
     "wof:placetype":"locality",

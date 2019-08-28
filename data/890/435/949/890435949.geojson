@@ -11,10 +11,14 @@
     "geom:longitude":64.57005,
     "gn:country":"AF",
     "gn:fcode":"PPLA2",
-    "gn:pop":43588,
+    "gn:population":43588,
     "iso:country":"AF",
+    "lbl:bbox":"64.55005,31.80089,64.59005,31.84089",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Girishk"
     ],
@@ -57,7 +61,7 @@
     "name:tur_x_preferred":[
         "Gere\u015fk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nahr-e Sar\u0101j"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1141540,
         "gp:id":1935270,
-        "qs:id":1029784,
+        "qs_pg:id":1029784,
         "wd:id":"Q3735459",
         "wk:page":"Girishk"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890435949,
-    "wof:lastmodified":1563287931,
+    "wof:lastmodified":1566583538,
     "wof:name":"Gereshk",
     "wof:parent_id":421202037,
     "wof:placetype":"locality",

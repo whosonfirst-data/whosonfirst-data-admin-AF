@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":33.19761,
     "lbl:longitude":69.743857,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Khost",
     "meso:diss_me":"TaniKhost",
     "meso:gadm_admin":"Tani",
@@ -26,6 +28,7 @@
     "mps:longitude":69.743857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tani"
     ],
@@ -54,9 +57,9 @@
         "Tani"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Tani",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108562537,
-    "wof:lastmodified":1564143972,
+    "wof:lastmodified":1566583082,
     "wof:name":"Tani",
     "wof:parent_id":85667563,
     "wof:placetype":"county",

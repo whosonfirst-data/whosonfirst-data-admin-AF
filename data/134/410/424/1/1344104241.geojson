@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.13264,32.09311,67.17264,32.13311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ado"
     ],
@@ -59,8 +63,7 @@
     "name:und_x_variant":[
         "Adu",
         "A\u1e0f\u014d",
-        "\u0627\u0689\u0648",
-        "Ado"
+        "\u0627\u0689\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1344104241,
-    "wof:lastmodified":1564141664,
+    "wof:lastmodified":1566582161,
     "wof:name":"Ado",
     "wof:parent_id":1108562381,
     "wof:placetype":"locality",

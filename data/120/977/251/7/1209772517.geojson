@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.20464,36.50578,69.24464,36.54578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u099e\u09cd\u099c\u09bf\u09b0\u09bf"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Pandzhiri",
-        "Panj\u012br\u012b",
-        "\u067e\u0646\u062c\u06cc\u0631\u06cc"
+        "Panj\u012br\u012b"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u062c\u06cc\u0631\u06cc"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1209772517,
-    "wof:lastmodified":1564143113,
+    "wof:lastmodified":1566582745,
     "wof:name":"Panjiri",
     "wof:parent_id":1108562081,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.95512,35.87352,66.99512,35.91352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dum"
     ],
@@ -44,7 +48,6 @@
     "name:und_x_variant":[
         "\u1e0eum",
         "Dom",
-        "Dum",
         "\u062f\u0645"
     ],
     "src:geom":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276280969,
-    "wof:lastmodified":1564142474,
+    "wof:lastmodified":1566582499,
     "wof:name":"Dum",
     "wof:parent_id":1108562199,
     "wof:placetype":"locality",

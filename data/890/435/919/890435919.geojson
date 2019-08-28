@@ -11,12 +11,15 @@
     "geom:longitude":70.08412,
     "gn:country":"AF",
     "gn:fcode":"MT",
-    "gn:pop":4463,
+    "gn:population":4463,
     "iso:country":"AF",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u1e0eo\u1e5fufca"
     ],
     "qs:name":"Durufchah",
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1468754,
         "gp:id":1920496,
-        "qs:id":555940
+        "qs_pg:id":555940
     },
     "wof:country":"AF",
     "wof:created":1469052086,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890435919,
-    "wof:lastmodified":1505343550,
+    "wof:lastmodified":1566583538,
     "wof:name":"Durufchah",
     "wof:parent_id":1108562529,
     "wof:placetype":"locality",

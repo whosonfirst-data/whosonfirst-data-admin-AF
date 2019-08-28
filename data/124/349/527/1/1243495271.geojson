@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"71.44153,35.26182,71.48153,35.30182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u067e\u0646\u06af\u0644"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Apengal",
-        "Apingal",
-        "Apingal\u2019"
+        "Apingal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243495271,
-    "wof:lastmodified":1537582351,
+    "wof:lastmodified":1566583720,
     "wof:name":"Apingal",
     "wof:parent_id":1108562307,
     "wof:placetype":"locality",

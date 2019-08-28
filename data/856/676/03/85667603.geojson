@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.596043,
     "lbl:longitude":69.15119,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.594741,
     "mps:longitude":69.141023,
     "mz:hierarchy_label":1,
@@ -197,7 +198,7 @@
         "Kabul"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0baa\u0bc2\u0bb2\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0baa\u0bc2\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2c\u0c42\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -223,7 +224,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0431\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0101bol"
     ],
     "name:urd_x_preferred":[
@@ -313,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"4,462",
     "statoids:area_mi":"1,723",
     "statoids:as_of_date":"2006-01-01",
@@ -341,7 +342,7 @@
         "hasc:id":"AF.KB",
         "iso:id":"AF-KAB",
         "loc:id":"n86066481",
-        "qs:id":238659,
+        "qs_pg:id":238659,
         "unlc:id":"AF-KAB",
         "wd:id":"Q188933",
         "wk:page":"Kabul Province"
@@ -367,11 +368,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634338,
+    "wof:lastmodified":1566582236,
     "wof:name":"Kabul",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":3071600,
     "wof:population_rank":12,

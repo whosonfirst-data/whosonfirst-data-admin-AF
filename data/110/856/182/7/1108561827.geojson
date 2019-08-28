@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":36.213761,
     "lbl:longitude":67.940455,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Samangan",
     "meso:diss_me":"AybakSamangan",
     "meso:gadm_admin":"Aybak",
@@ -26,6 +28,7 @@
     "mps:longitude":67.940455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0986\u09af\u09bc\u09ac\u09be\u0995 \u099c\u09c7\u09b2\u09be"
     ],
@@ -63,9 +66,9 @@
         "Qu\u1eadn Aybak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Aybak",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108561827,
-    "wof:lastmodified":1563287243,
+    "wof:lastmodified":1566583090,
     "wof:name":"Aybak",
     "wof:parent_id":85667631,
     "wof:placetype":"county",

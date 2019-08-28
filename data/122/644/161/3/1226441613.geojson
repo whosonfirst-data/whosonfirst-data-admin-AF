@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.95244,35.35357,67.99244,35.39357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yakhak"
     ],
@@ -33,8 +37,7 @@
         "Yakhak"
     ],
     "name:und_x_variant":[
-        "\u06cc\u062e\u06a9",
-        "Yakhak"
+        "\u06cc\u062e\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226441613,
-    "wof:lastmodified":1564145748,
+    "wof:lastmodified":1566584212,
     "wof:name":"Yakhak",
     "wof:parent_id":1108562109,
     "wof:placetype":"locality",

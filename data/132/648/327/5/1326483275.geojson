@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"68.97241,33.38402,69.01241,33.42402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u062f\u06cc \u062e\u064a\u0644"
     ],
@@ -40,8 +44,7 @@
         "\u015eid\u0113 Kh\u0113l",
         "\u0635\u062f\u06d0 \u062e\u06d0\u0644",
         "Siday Kh\u0113l",
-        "\u0633\u062f\u06cc \u062e\u06d0\u0644",
-        "\u0633\u062f\u06cc \u062e\u064a\u0644"
+        "\u0633\u062f\u06cc \u062e\u06d0\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1326483275,
-    "wof:lastmodified":1537580489,
+    "wof:lastmodified":1566581855,
     "wof:name":"Side Khel",
     "wof:parent_id":1108562617,
     "wof:placetype":"locality",

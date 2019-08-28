@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.631766,
     "lbl:longitude":61.164097,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Hirat",
     "meso:diss_me":"KohsanHirat",
     "meso:gadm_admin":"Kuhsan",
@@ -26,6 +28,7 @@
     "mps:longitude":61.164097,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b9\u09b6\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -67,9 +70,9 @@
         "Qu\u1eadn Kohsan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kuhestan",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108562213,
-    "wof:lastmodified":1563287164,
+    "wof:lastmodified":1566583053,
     "wof:name":"Kohsan",
     "wof:parent_id":85667497,
     "wof:placetype":"county",

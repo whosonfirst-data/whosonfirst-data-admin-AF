@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.69495,
     "lbl:longitude":66.143867,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.754422,
     "mps:longitude":66.16016,
     "mz:hierarchy_label":1,
@@ -215,9 +216,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0456-\u041f\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Sar-e Pol"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0631\u067e\u0644"
     ],
@@ -302,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"15,999",
     "statoids:area_mi":"6,177",
     "statoids:as_of_date":"2006-01-01",
@@ -328,7 +326,7 @@
         "gp:id":2344578,
         "hasc:id":"AF.SP",
         "iso:id":"AF-SAR",
-        "qs:id":1134873,
+        "qs_pg:id":1134873,
         "wd:id":"Q182487"
     },
     "wof:country":"AF",
@@ -352,11 +350,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634335,
+    "wof:lastmodified":1566582228,
     "wof:name":"Sari Pul",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":472700,
     "wof:population_rank":10,

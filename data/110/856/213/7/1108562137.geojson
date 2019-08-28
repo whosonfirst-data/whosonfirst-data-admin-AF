@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.726345,
     "lbl:longitude":62.076413,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Farah",
     "meso:diss_me":"Khaki SafedFarah",
     "meso:gadm_admin":"Khaki Safed",
@@ -26,6 +28,7 @@
     "mps:longitude":62.076413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Khaki Safed"
     ],
@@ -34,9 +37,9 @@
         "Khaki Safed"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khaki Safed",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562137,
-    "wof:lastmodified":1536615180,
+    "wof:lastmodified":1566583078,
     "wof:name":"Khaki Safed",
     "wof:parent_id":85667527,
     "wof:placetype":"county",

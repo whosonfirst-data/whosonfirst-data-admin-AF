@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17866554.333663,
+    "geom:area_square_m":0.0,
     "geom:bbox":"69.142939,34.514612,69.142939,34.514612",
     "geom:latitude":34.514612,
     "geom:longitude":69.142939,
     "iso:country":"AF",
+    "lbl:bbox":"69.137939,34.509612,69.147939,34.519612",
     "lbl:latitude":34.514612,
     "lbl:longitude":69.142939,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.510001,
     "mps:longitude":69.145844,
     "mz:hierarchy_label":0,
@@ -37,11 +39,8 @@
     "name:und_x_colloquial":[
         "Barikdt"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Barik\u00f0t"
-    ],
-    "name:unk_x_variant":[
-        "Deh Mazang"
     ],
     "qs:gn_adm0_cc":"AF",
     "qs:gn_fcode":"PPLX",
@@ -71,18 +70,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85667603,
         102191569,
         85632229,
-        421171977,
-        85667603
+        421171977
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1350017,
         "gp:id":1919597,
-        "qs:id":1168188
+        "qs_pg:id":1168188
     },
     "wof:country":"AF",
     "wof:geomhash":"3552da3e342fdd294a341144312d5ccb",
@@ -100,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935977,
+    "wof:lastmodified":1566582220,
     "wof:name":"Deh Mazang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

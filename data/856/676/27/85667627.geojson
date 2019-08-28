@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.01109,
     "lbl:longitude":68.82569,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.008722,
     "mps:longitude":68.827231,
     "mz:hierarchy_label":1,
@@ -296,9 +297,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"5,974",
     "statoids:area_mi":"2,307",
     "statoids:as_of_date":"2006-01-01",
@@ -323,7 +324,7 @@
         "hasc:id":"AF.PV",
         "iso:id":"AF-PAR",
         "loc:id":"n2012063624",
-        "qs:id":266216,
+        "qs_pg:id":266216,
         "wd:id":"Q181235",
         "wk:page":"Panjshir Province"
     },
@@ -348,11 +349,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634339,
+    "wof:lastmodified":1566582236,
     "wof:name":"Parwan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":560800,
     "wof:population_rank":11,

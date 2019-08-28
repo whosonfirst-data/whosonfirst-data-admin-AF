@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.417892,
     "lbl:longitude":61.321063,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Farah",
     "meso:diss_me":"Qala KaFarah",
     "meso:gadm_admin":"Qala-I-Kah",
@@ -26,6 +28,7 @@
     "mps:longitude":61.321063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Qala-i-Kah"
     ],
@@ -34,9 +37,9 @@
         "Qala-I-Kah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Qala-i-Kah",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108562375,
-    "wof:lastmodified":1536615185,
+    "wof:lastmodified":1566583085,
     "wof:name":"Qala Ka",
     "wof:parent_id":85667527,
     "wof:placetype":"county",

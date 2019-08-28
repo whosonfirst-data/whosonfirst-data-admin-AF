@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.148371,
     "lbl:longitude":65.036078,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Hilmand",
     "meso:diss_me":"SanginHilmand",
     "meso:gadm_admin":"Sangin",
@@ -26,6 +28,7 @@
     "mps:longitude":65.036078,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b8\u099e\u09cd\u099c\u09bf\u09a8 \u099c\u09c7\u09b2\u09be"
@@ -63,7 +66,7 @@
     "name:tur_x_preferred":[
         "Sangin il\u00e7esi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sang\u012bn"
     ],
     "name:urd_x_preferred":[
@@ -94,9 +97,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Sangin",
@@ -118,7 +121,7 @@
         "gn:id":7053034,
         "gp:id":56000550,
         "hasc:id":"AF.HM.SA",
-        "qs:id":1288753,
+        "qs_pg:id":1288753,
         "wd:id":"Q249296",
         "wk:page":"Batikal"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421197035,
-    "wof:lastmodified":1563287902,
+    "wof:lastmodified":1566583524,
     "wof:name":"Sangin",
     "wof:parent_id":85667531,
     "wof:placetype":"county",

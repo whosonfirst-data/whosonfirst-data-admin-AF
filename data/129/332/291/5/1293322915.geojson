@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"65.45846,32.73991,65.49846,32.77991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mazar"
     ],
@@ -48,8 +52,7 @@
         "Mazar"
     ],
     "name:und_x_variant":[
-        "Maz\u0101r",
-        "\u0645\u0632\u0627\u0631"
+        "Maz\u0101r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293322915,
-    "wof:lastmodified":1564142145,
+    "wof:lastmodified":1566582367,
     "wof:name":"Mazar",
     "wof:parent_id":1108561983,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.618602,
     "lbl:longitude":70.939249,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"Khas KunarKunar",
     "meso:gadm_admin":"Khas Kunar",
@@ -26,6 +28,7 @@
     "mps:longitude":70.939249,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Khas Kunar"
     ],
@@ -56,9 +59,9 @@
         "Qu\u1eadn Khas Kunar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Khas Kunar",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108562153,
-    "wof:lastmodified":1561775868,
+    "wof:lastmodified":1566583073,
     "wof:name":"Khas Kunar",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

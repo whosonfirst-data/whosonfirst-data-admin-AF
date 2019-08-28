@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.08138,34.82213,69.12138,34.86213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Istalif"
     ],
@@ -41,7 +45,6 @@
     "name:und_x_variant":[
         "Ist\u0101lef",
         "Est\u0101lef",
-        "\u0627\u0633\u062a\u0627\u0644\u0641",
         "Ist\u0101lif"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293180271,
-    "wof:lastmodified":1564142268,
+    "wof:lastmodified":1566582418,
     "wof:name":"Istalif",
     "wof:parent_id":1108562087,
     "wof:placetype":"locality",

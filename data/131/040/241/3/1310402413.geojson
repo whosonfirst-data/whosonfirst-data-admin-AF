@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.57415,33.08083,67.61415,33.12083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0646\u06af\u0654 \u0645\u064a\u0631\u06cc"
     ],
@@ -35,8 +39,7 @@
     "name:und_x_variant":[
         "Sangi-Miri",
         "Sang-e M\u012br\u012b",
-        "\u0633\u0646\u06af \u0645\u06cc\u0631\u06cc",
-        "\u0633\u0646\u06af\u0654 \u0645\u064a\u0631\u06cc"
+        "\u0633\u0646\u06af \u0645\u06cc\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310402413,
-    "wof:lastmodified":1537580566,
+    "wof:lastmodified":1566583122,
     "wof:name":"Sang-e Miri",
     "wof:parent_id":1108562091,
     "wof:placetype":"locality",

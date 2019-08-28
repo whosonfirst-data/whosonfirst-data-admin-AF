@@ -11,11 +11,15 @@
     "geom:longitude":66.48926,
     "gn:country":"AF",
     "gn:fcode":"PPL",
-    "gn:pop":894,
+    "gn:population":894,
     "iso:country":"AF",
+    "lbl:bbox":"66.46926,31.53981,66.50926,31.57981",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "A\u1e5fghast\u0101n"
     ],
     "qs:name":"Arghest\u0101n",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1148390,
         "gp:id":1917046,
-        "qs:id":84216
+        "qs_pg:id":84216
     },
     "wof:country":"AF",
     "wof:created":1469051860,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430619,
-    "wof:lastmodified":1505343519,
+    "wof:lastmodified":1566583530,
     "wof:name":"Arghest\u0101n",
     "wof:parent_id":1108561819,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.63884,36.76749,66.67884,36.80749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u06cc\u0646 \u06a9\u06cc"
     ],
@@ -38,7 +42,6 @@
     "name:und_x_variant":[
         "Isp\u012bn Ka\u012b",
         "Ispinkay",
-        "\u0627\u0633\u067e\u06cc\u0646 \u06a9\u06cc",
         "Isp\u012bn Kay"
     ],
     "src:geom":"geonames",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243514989,
-    "wof:lastmodified":1564145101,
+    "wof:lastmodified":1566583773,
     "wof:name":"Ispin Kai",
     "wof:parent_id":1108561883,
     "wof:placetype":"locality",

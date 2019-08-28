@@ -10,6 +10,9 @@
     "geom:latitude":36.72896,
     "geom:longitude":68.857,
     "iso:country":"AF",
+    "lbl:bbox":"68.837,36.70896,68.877,36.74896",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -213,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043d\u0434\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shahr-e Qondoz"
     ],
     "name:urd_x_preferred":[
@@ -354,7 +357,7 @@
         "gn:id":1135689,
         "gp:id":1924906,
         "loc:id":"n87929913",
-        "qs:id":1353313,
+        "qs_pg:id":1353313,
         "wd:id":"Q108155"
     },
     "wof:country":"AF",
@@ -370,7 +373,7 @@
         }
     ],
     "wof:id":421168793,
-    "wof:lastmodified":1563287879,
+    "wof:lastmodified":1566583516,
     "wof:name":"Kond\u016bz",
     "wof:parent_id":421188181,
     "wof:placetype":"locality",

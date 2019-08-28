@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.99159,
     "lbl:longitude":71.436901,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Kunar",
     "meso:diss_me":"DangamKunar",
     "meso:gadm_admin":"Dangam",
@@ -26,6 +28,7 @@
     "mps:longitude":71.436901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Dangam"
     ],
@@ -63,9 +66,9 @@
         "Qu\u1eadn Dangam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Dangam",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108561929,
-    "wof:lastmodified":1563287150,
+    "wof:lastmodified":1566583046,
     "wof:name":"Dangam",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

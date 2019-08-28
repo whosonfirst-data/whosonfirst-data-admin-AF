@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"64.9328,33.29736,64.9728,33.33736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0647 \u062c\u0646\u063a\u0644"
     ],
@@ -43,8 +47,6 @@
     ],
     "name:und_x_variant":[
         "Qa\u1e5fajangal",
-        "Qarah Jangal",
-        "\u0642\u0631\u0647 \u062c\u0646\u06af\u0644",
         "Qareh Jangal"
     ],
     "src:geom":"geonames",
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1259767597,
-    "wof:lastmodified":1564145539,
+    "wof:lastmodified":1566584067,
     "wof:name":"Qarah Jangal",
     "wof:parent_id":1108562353,
     "wof:placetype":"locality",

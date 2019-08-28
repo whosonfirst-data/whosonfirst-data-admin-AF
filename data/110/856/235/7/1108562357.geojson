@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":35.687253,
     "lbl:longitude":64.800732,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Faryab",
     "meso:diss_me":"Pashtun KotFaryab",
     "meso:gadm_admin":"Pashtun Kot",
@@ -26,6 +28,7 @@
     "mps:longitude":64.800732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09b6\u09a4\u09c1\u09a8 \u0995\u09cb\u099f \u099c\u09c7\u09b2\u09be"
     ],
@@ -66,9 +69,9 @@
         "Qu\u1eadn Pashtun Kot"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Pashtun Kot",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108562357,
-    "wof:lastmodified":1563287177,
+    "wof:lastmodified":1566583059,
     "wof:name":"Pashtun Kot",
     "wof:parent_id":85667509,
     "wof:placetype":"county",

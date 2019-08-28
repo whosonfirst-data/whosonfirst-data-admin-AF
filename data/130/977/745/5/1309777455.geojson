@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"69.6793,34.45088,69.7193,34.49088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Patay"
     ],
@@ -97,10 +101,8 @@
     ],
     "name:und_x_variant":[
         "Pa\u1e6fa\u012b",
-        "\u067e\u062a\u06cc",
         "Pa\u1e6fay",
-        "\u067e\u067c\u06cc",
-        "Patay"
+        "\u067e\u067c\u06cc"
     ],
     "name:uzb_x_preferred":[
         "Patay"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":1309777455,
-    "wof:lastmodified":1564144609,
+    "wof:lastmodified":1566583412,
     "wof:name":"Patay",
     "wof:parent_id":1108562527,
     "wof:placetype":"locality",

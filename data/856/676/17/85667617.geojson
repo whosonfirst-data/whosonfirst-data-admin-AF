@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.700402,
     "lbl:longitude":70.187189,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.719993,
     "mps:longitude":70.173431,
     "mz:hierarchy_label":1,
@@ -220,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0433\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leghman Province"
     ],
     "name:urd_x_preferred":[
@@ -307,9 +308,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"3,843",
     "statoids:area_mi":"1,484",
     "statoids:as_of_date":"2006-01-01",
@@ -335,7 +336,7 @@
         "hasc:id":"AF.LA",
         "iso:id":"AF-LAG",
         "loc:id":"n86066482",
-        "qs:id":1083777,
+        "qs_pg:id":1083777,
         "unlc:id":"AF-LAG",
         "wd:id":"Q185442",
         "wk:page":"Laghman Province"
@@ -361,11 +362,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634339,
+    "wof:lastmodified":1566582236,
     "wof:name":"Laghman",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":378100,
     "wof:population_rank":10,

@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.770116,
     "lbl:longitude":69.056244,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Paktika",
     "meso:diss_me":"SarobiPaktika",
     "meso:gadm_admin":"Sarobi",
@@ -26,6 +28,7 @@
     "mps:longitude":69.056244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0421\u0443\u0440\u0443\u0431\u0456"
@@ -73,9 +76,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Sarobi",
@@ -97,7 +100,7 @@
         "gn:id":7732182,
         "gp:id":56000577,
         "hasc:id":"AF.PK.SB",
-        "qs:id":1205783,
+        "qs_pg:id":1205783,
         "wd:id":"Q3473688",
         "wk:page":"Surobi, Kabul"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":421171021,
-    "wof:lastmodified":1563287912,
+    "wof:lastmodified":1566583528,
     "wof:name":"Sarobi",
     "wof:parent_id":85667567,
     "wof:placetype":"county",

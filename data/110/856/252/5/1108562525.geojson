@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.789399,
     "lbl:longitude":68.683012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Parwan",
     "meso:diss_me":"Surkhi ParsaParwan",
     "meso:gadm_admin":"Surkhi Parsa",
@@ -26,6 +28,7 @@
     "mps:longitude":68.683012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Surkhi Parsa"
     ],
@@ -52,9 +55,9 @@
         "Qu\u1eadn Surkhi Parsa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Surkhi Parsa",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108562525,
-    "wof:lastmodified":1561775872,
+    "wof:lastmodified":1566583087,
     "wof:name":"Surkhi Parsa",
     "wof:parent_id":85667627,
     "wof:placetype":"county",

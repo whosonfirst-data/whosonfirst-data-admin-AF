@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"62.04507,34.25659,62.08507,34.29659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0647"
     ],
@@ -43,9 +47,7 @@
     ],
     "name:und_x_variant":[
         "Maz\u1e5fa",
-        "Mazra",
-        "Mazrah",
-        "\u0645\u0632\u0631\u0647"
+        "Mazra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1242765587,
-    "wof:lastmodified":1564145180,
+    "wof:lastmodified":1566583825,
     "wof:name":"Mazrah",
     "wof:parent_id":1108562057,
     "wof:placetype":"locality",

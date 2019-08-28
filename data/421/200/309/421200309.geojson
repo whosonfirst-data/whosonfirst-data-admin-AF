@@ -10,8 +10,12 @@
     "geom:latitude":35.11833,
     "geom:longitude":69.23778,
     "iso:country":"AF",
+    "lbl:bbox":"69.21778,35.09833,69.25778,35.13833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Jabal Saraj"
@@ -25,7 +29,7 @@
     "name:rus_x_preferred":[
         "Dzhabal\u2019-Ussaradzh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parwan"
     ],
     "qs:gn_country":"AF",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1139807,
         "gp:id":1922130,
-        "qs:id":208861
+        "qs_pg:id":208861
     },
     "wof:country":"AF",
     "wof:created":1459010018,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421200309,
-    "wof:lastmodified":1505340768,
+    "wof:lastmodified":1566583525,
     "wof:name":"Jabal os Saraj",
     "wof:parent_id":421194001,
     "wof:placetype":"locality",

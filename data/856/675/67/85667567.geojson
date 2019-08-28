@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.428256,
     "lbl:longitude":68.6846,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.379678,
     "mps:longitude":68.666603,
     "mz:hierarchy_label":1,
@@ -202,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043a\u0442\u0438\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pakt\u012bk\u0101"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u06a9\u062a\u06cc\u06a9\u0627"
     ],
@@ -289,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-01-01",
+    "src:population_date":"2006-01-01",
     "statoids:area_km":"19,482",
     "statoids:area_mi":"7,522",
     "statoids:as_of_date":"2006-01-01",
@@ -317,7 +315,7 @@
         "hasc:id":"AF.PK",
         "iso:id":"AF-PKA",
         "loc:id":"n96087300",
-        "qs:id":894844,
+        "qs_pg:id":894844,
         "unlc:id":"AF-PKA",
         "wd:id":"Q185575",
         "wk:page":"Paktika Province"
@@ -343,11 +341,10 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1565634332,
+    "wof:lastmodified":1566582221,
     "wof:name":"Paktika",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":369100,
     "wof:population_rank":10,

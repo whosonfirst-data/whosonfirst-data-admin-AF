@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":32.867083,
     "lbl:longitude":68.038583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Ghazni",
     "meso:diss_me":"Ab BandGhazni",
     "meso:gadm_admin":"Ab Band",
@@ -26,6 +28,7 @@
     "mps:longitude":68.038583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0986\u09ac \u09ac\u09cd\u09af\u09be\u09a8\u09cd\u09a1 \u099c\u09c7\u09b2\u09be"
     ],
@@ -67,9 +70,9 @@
         "Ab Band"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Hajikhel",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108561773,
-    "wof:lastmodified":1563287238,
+    "wof:lastmodified":1566583088,
     "wof:name":"Ab Band",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

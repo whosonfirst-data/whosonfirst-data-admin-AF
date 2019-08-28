@@ -11,10 +11,14 @@
     "geom:longitude":69.64917,
     "gn:country":"AF",
     "gn:fcode":"PPL",
-    "gn:pop":6400,
+    "gn:population":6400,
     "iso:country":"AF",
+    "lbl:bbox":"69.62917,34.83501,69.66917,34.87501",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tag\u0101b"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Tag\u0101b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pagab"
     ],
     "qs:name":"Tag\u0101b",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1123424,
         "gp:id":1935424,
-        "qs:id":555129,
+        "qs_pg:id":555129,
         "wd:id":"Q3513815",
         "wk:page":"Tagab District, Badakhshan"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890442429,
-    "wof:lastmodified":1563287928,
+    "wof:lastmodified":1566583536,
     "wof:name":"Tag\u0101b",
     "wof:parent_id":1108562531,
     "wof:placetype":"locality",

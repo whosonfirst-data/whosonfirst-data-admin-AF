@@ -10,6 +10,9 @@
     "geom:latitude":36.95293,
     "geom:longitude":65.12376,
     "iso:country":"AF",
+    "lbl:bbox":"65.10376,36.93293,65.14376,36.97293",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0445\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ankhoi"
     ],
     "name:urd_x_preferred":[
@@ -241,7 +244,7 @@
     "wof:concordances":{
         "gn:id":1148658,
         "gp:id":1916058,
-        "qs:id":1029812,
+        "qs_pg:id":1029812,
         "wd:id":"Q1054127",
         "wk:page":"Andkhoy"
     },
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":421175757,
-    "wof:lastmodified":1563287899,
+    "wof:lastmodified":1566583523,
     "wof:name":"Andkhvoy",
     "wof:parent_id":1108561807,
     "wof:placetype":"locality",

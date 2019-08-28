@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"66.39583,31.04976,66.43583,31.08976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0642\u0631\u06cc\u06c0 \u0641\u0636\u0644 \u0645\u062d\u0645\u062f"
     ],
@@ -37,7 +41,6 @@
         "Faz\u0327il Mu\u1e29ammad K\u00ealay",
         "\u0641\u0638\u0644 \u0645\u062d\u0645\u062f \u06a9\u0644\u06cc",
         "Fadz\u0327lmo\u1e29ammad Kalay",
-        "Fazl\u2019mukhammed-Kalay",
         "\u0641\u0636\u0644 \u0645\u062d\u0645\u062f \u06a9\u0644\u06cc"
     ],
     "src:geom":"geonames",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243024429,
-    "wof:lastmodified":1537583877,
+    "wof:lastmodified":1566583805,
     "wof:name":"Fazil Muhammad Kelay",
     "wof:parent_id":1108562519,
     "wof:placetype":"locality",

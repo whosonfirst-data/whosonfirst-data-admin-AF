@@ -10,8 +10,12 @@
     "geom:latitude":31.894538,
     "geom:longitude":64.693679,
     "iso:country":"AF",
+    "lbl:bbox":"64.673679,31.874538,64.713679,31.914538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fas_x_preferred":[
         "\u0634\u0648\u0631\u06a9\u06cc"
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1932505,
-        "qs:id":1119373
+        "qs_pg:id":1119373
     },
     "wof:country":"AF",
     "wof:created":1459009637,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421189807,
-    "wof:lastmodified":1527716270,
+    "wof:lastmodified":1566583522,
     "wof:name":"Shuraki",
     "wof:parent_id":421202037,
     "wof:placetype":"locality",

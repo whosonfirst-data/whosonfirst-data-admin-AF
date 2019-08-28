@@ -12,6 +12,8 @@
     "iso:country":"AF",
     "lbl:latitude":34.160959,
     "lbl:longitude":70.597398,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1":"Nangarhar",
     "meso:diss_me":"KotNangarhar",
     "meso:gadm_admin":"Rodat",
@@ -26,6 +28,7 @@
     "mps:longitude":70.597398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0646 \u06a9\u0648\u062a"
@@ -185,9 +188,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2002-01-01",
+    "src:population_date":"2002-01-01",
     "statoids:area_km":"",
     "statoids:as_of_date":"2002-01-01",
     "statoids:capital":"Kot",
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gp:id":56000791,
         "hasc:id":"AF.NG.KO",
-        "qs:id":777052,
+        "qs_pg:id":777052,
         "wd:id":"Q989293"
     },
     "wof:country":"AF",
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":421182991,
-    "wof:lastmodified":1563287907,
+    "wof:lastmodified":1566583526,
     "wof:name":"Kot",
     "wof:parent_id":85667591,
     "wof:placetype":"county",

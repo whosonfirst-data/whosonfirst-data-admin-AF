@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kabul",
     "iso:country":"AF",
+    "lbl:bbox":"67.60879,31.90696,67.64879,31.94696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arz_x_preferred":[
         "\u0628\u0627\u0628\u0631"
     ],
@@ -230,10 +234,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u0443\u0440"
     ],
-    "name:und_x_variant":[
-        "B\u0101bur",
-        "\u0628\u0627\u0628\u0631"
-    ],
     "name:uzb_x_preferred":[
         "Bobur"
     ],
@@ -269,7 +269,7 @@
         }
     ],
     "wof:id":1360032629,
-    "wof:lastmodified":1564144546,
+    "wof:lastmodified":1566583371,
     "wof:name":"Babur",
     "wof:parent_id":1108562471,
     "wof:placetype":"locality",
