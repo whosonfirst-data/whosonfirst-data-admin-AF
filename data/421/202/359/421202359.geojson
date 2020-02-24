@@ -320,7 +320,8 @@
     "qs:woe_id":1935288,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:population":"wk",
     "wd:latitude":34.430278,
@@ -343,6 +344,10 @@
     },
     "wof:country":"AF",
     "wof:created":1459010115,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"c0243ae9f6585f5198d33a2fb09d5baa",
     "wof:hierarchy":[
         {
@@ -354,7 +359,7 @@
         }
     ],
     "wof:id":421202359,
-    "wof:lastmodified":1561775928,
+    "wof:lastmodified":1582326675,
     "wof:name":"Jalalabad",
     "wof:parent_id":1108562095,
     "wof:placetype":"locality",
