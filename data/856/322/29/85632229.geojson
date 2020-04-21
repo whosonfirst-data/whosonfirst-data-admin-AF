@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.55671,
-    "geom:area_square_m":642112906233.407837,
+    "geom:area_square_m":642112904813.414673,
     "geom:bbox":"60.475769,29.377217,74.889862,38.490733",
     "geom:latitude":33.831599,
     "geom:longitude":66.026521,
@@ -64,6 +64,9 @@
     "name:arg_x_preferred":[
         "Afganist\u00e1n"
     ],
+    "name:ary_x_preferred":[
+        "\u0623\u0641\u063a\u0627\u0646\u064a\u0633\u062a\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
     ],
@@ -90,6 +93,9 @@
     ],
     "name:bam_x_preferred":[
         "Afiganista\u014b"
+    ],
+    "name:ban_x_preferred":[
+        "Afganistan"
     ],
     "name:bar_x_preferred":[
         "Afghanistan"
@@ -205,6 +211,9 @@
     "name:dan_x_preferred":[
         "Afghanistan"
     ],
+    "name:deu_ch_x_preferred":[
+        "Afghanistan"
+    ],
     "name:deu_x_preferred":[
         "Afghanistan"
     ],
@@ -228,6 +237,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c6\u03b3\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Afghanistan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Afghanistan"
     ],
     "name:eng_x_preferred":[
         "Afghanistan"
@@ -302,6 +317,9 @@
     "name:gag_x_preferred":[
         "Afganistan"
     ],
+    "name:gcr_x_preferred":[
+        "Afganistan"
+    ],
     "name:ger_x_variant":[
         "Islamischer Staat Afghanistan"
     ],
@@ -325,6 +343,9 @@
     ],
     "name:gor_x_preferred":[
         "Apganistan"
+    ],
+    "name:gor_x_variant":[
+        "Afganistan"
     ],
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf46\ud800\udf32\ud800\udf30\ud800\udf3d\ud800\udf39\ud800\udf43\ud800\udf44\ud800\udf30\ud800\udf3d"
@@ -512,6 +533,9 @@
     ],
     "name:lao_x_preferred":[
         "\u0ead\u0eb1\u0e9f\u0e81\u0eb2\u0e99\u0eb4\u0e94\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
+    ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ead\u0eb1\u0e9f\u0e81\u0eb2\u0e99\u0eb4\u0eaa\u0eb0\u0e96\u0eb2\u0e99"
     ],
     "name:lat_x_preferred":[
         "Afgania"
@@ -720,6 +744,9 @@
     "name:pol_x_preferred":[
         "Afganistan"
     ],
+    "name:por_br_x_preferred":[
+        "Afeganist\u00e3o"
+    ],
     "name:por_x_colloquial":[
         "Afeganistao"
     ],
@@ -800,8 +827,17 @@
         "Afghanistan",
         "Afganist\u00e1na"
     ],
+    "name:smj_x_preferred":[
+        "Afganist\u00e1dna"
+    ],
+    "name:smn_x_preferred":[
+        "Afganistan"
+    ],
     "name:smo_x_preferred":[
         "Afakanisitana"
+    ],
+    "name:sms_x_preferred":[
+        "Afganistaan"
     ],
     "name:sna_x_preferred":[
         "Afghanistan"
@@ -830,6 +866,12 @@
     "name:srd_x_preferred":[
         "Afgh\u00e0nistan"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0410\u0432\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Avganistan"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0432\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
     ],
@@ -853,6 +895,9 @@
     ],
     "name:szl_x_preferred":[
         "Afga\u0144istan"
+    ],
+    "name:szy_x_preferred":[
+        "Afghanistan"
     ],
     "name:tam_x_preferred":[
         "\u0b86\u0baa\u0bcd\u0b95\u0bbe\u0ba9\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
@@ -892,6 +937,9 @@
     ],
     "name:tir_x_preferred":[
         "\u12a0\u134d\u130b\u1292\u1235\u1273\u1295"
+    ],
+    "name:tir_x_variant":[
+        "\u12a3\u134d\u130b\u1292\u1235\u1273\u1295"
     ],
     "name:ton_x_preferred":[
         "\u02bbAfik\u0101nisitani"
@@ -987,8 +1035,26 @@
     "name:zha_x_preferred":[
         "Afghanistan"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Afghanistan"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u963f\u5bcc\u6c57"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u5bcc\u6c57"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5bcc\u6c57"
@@ -1157,7 +1223,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1583797269,
+    "wof:lastmodified":1587427391,
     "wof:name":"Afghanistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
