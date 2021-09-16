@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"69.265,34.9463888889,69.265,34.9463888889",
+    "geom:bbox":"69.265,34.946389,69.265,34.946389",
     "geom:latitude":34.946389,
     "geom:longitude":69.265,
     "iso:country":"AF",
@@ -24,6 +24,10 @@
     ],
     "name:eng_x_preferred":[
         "Bagram Air Base"
+    ],
+    "name:eng_x_variant":[
+        "OAI",
+        "OAIX"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u062f\u0627\u0646 \u0647\u0648\u0627\u06cc\u06cc \u0628\u06af\u0631\u0627\u0645"
@@ -103,7 +107,7 @@
         "wd:id":"Q800126"
     },
     "wof:country":"AF",
-    "wof:geomhash":"957eb9cf61ac3951bb2a1aef753c4c00",
+    "wof:geomhash":"87ef6dcede537456e9bbddb65aa82a4d",
     "wof:hierarchy":[
         {
             "campus_id":102536675,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":102536675,
-    "wof:lastmodified":1566581940,
+    "wof:lastmodified":1631746513,
     "wof:name":"Bagram Airport",
     "wof:parent_id":85667627,
     "wof:placetype":"campus",
@@ -125,9 +129,9 @@
 },
   "bbox": [
     69.265,
-    34.946388888889,
+    34.946389,
     69.265,
-    34.946388888889
+    34.946389
 ],
-  "geometry": {"coordinates":[69.265,34.946388888889],"type":"Point"}
+  "geometry": {"coordinates":[69.265,34.946389],"type":"Point"}
 }
