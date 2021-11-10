@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"68.0400005098,36.2610001475,68.0400005098,36.2610001475",
+    "geom:bbox":"68.040001,36.261,68.040001,36.261",
     "geom:latitude":36.261,
     "geom:longitude":68.040001,
     "iso:country":"AF",
@@ -28,7 +28,13 @@
         "Al-Mu\u00efzz \u00c0ybak"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05d1\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d9\u05d9\u05d1\u05db"
+    ],
+    "name:hun_x_preferred":[
+        "Aybak"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30c3\u30ba\u30c3\u30c7\u30a3\u30fc\u30f3\u30fb\u30a2\u30a4\u30d0\u30af"
@@ -169,7 +175,7 @@
     "wof:concordances":{},
     "wof:country":"AF",
     "wof:created":1499130551,
-    "wof:geomhash":"fb69782654fa467b7da3fe5566cd5838",
+    "wof:geomhash":"fa1f3531db3612efb94bd98d10ea267d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1141906171,
-    "wof:lastmodified":1566584563,
+    "wof:lastmodified":1636496737,
     "wof:name":"Aybak",
     "wof:parent_id":1108561827,
     "wof:placetype":"locality",
@@ -190,10 +196,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.04000050978829,
-    36.26100014752478,
-    68.04000050978829,
-    36.26100014752478
+    68.040001,
+    36.261,
+    68.040001,
+    36.261
 ],
-  "geometry": {"coordinates":[68.04000050978829,36.26100014752478],"type":"Point"}
+  "geometry": {"coordinates":[68.040001,36.261],"type":"Point"}
 }

@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0648\u062e"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b0\u09cb\u0996"
+    ],
     "name:cat_x_preferred":[
         "Karukh"
     ],
     "name:ceb_x_preferred":[
         "Karukh"
+    ],
+    "name:deu_x_preferred":[
+        "Karokh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03cc\u03c7"
     ],
     "name:eng_x_preferred":[
         "Karukh"
@@ -32,11 +41,41 @@
     "name:fas_x_preferred":[
         "\u06a9\u0631\u062e"
     ],
+    "name:fra_x_preferred":[
+        "Karokh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d5\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0930\u094b\u0916"
+    ],
+    "name:hun_x_preferred":[
+        "Karokh"
+    ],
+    "name:ind_x_preferred":[
+        "Karokh"
+    ],
+    "name:ita_x_preferred":[
+        "Karokh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ed\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub85c\ud06c"
+    ],
     "name:nld_x_preferred":[
         "Karukh"
     ],
+    "name:pol_x_preferred":[
+        "Karokh"
+    ],
     "name:por_x_preferred":[
         "Karukh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0443\u0445"
     ],
     "name:spa_x_preferred":[
         "Karukh"
@@ -44,8 +83,26 @@
     "name:swe_x_preferred":[
         "Karukh"
     ],
+    "name:tur_x_preferred":[
+        "Karokh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0445"
+    ],
     "name:und_x_variant":[
         "Ka\u1e5fukh"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0631\u0648\u062e"
+    ],
+    "name:vie_x_preferred":[
+        "Karokh"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u7f57\u514b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u7f85\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
@@ -187,7 +244,7 @@
         }
     ],
     "wof:id":421168795,
-    "wof:lastmodified":1566583516,
+    "wof:lastmodified":1636496728,
     "wof:name":"Karokh",
     "wof:parent_id":1108562131,
     "wof:placetype":"locality",

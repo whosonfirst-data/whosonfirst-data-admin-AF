@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "Wardak"
     ],
+    "name:hun_x_preferred":[
+        "Wardak"
+    ],
     "name:swe_x_preferred":[
         "Wardak"
     ],
@@ -59,7 +62,7 @@
         "gn:id":1474511
     },
     "wof:country":"AF",
-    "wof:geomhash":"eb60910e033aec5bb8351dade4ebed4f",
+    "wof:geomhash":"5d736bd8de09c8c7f555eb3b77b245d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1276270665,
-    "wof:lastmodified":1566582530,
+    "wof:lastmodified":1636496717,
     "wof:name":"Wardak",
     "wof:parent_id":1108562269,
     "wof:placetype":"locality",
@@ -81,9 +84,9 @@
 },
   "bbox": [
     70.17595,
-    34.65629000000001,
+    34.65629,
     70.17595,
-    34.65629000000001
+    34.65629
 ],
-  "geometry": {"coordinates":[70.17595,34.65629000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.17595,34.65629],"type":"Point"}
 }

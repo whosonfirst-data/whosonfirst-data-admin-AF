@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Aybak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05d1\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Aybak"
+    ],
     "name:und_x_variant":[
         "Haibak",
         "\u0627\u06cc\u0628\u06a9"
@@ -50,7 +56,7 @@
         "wk:page":"Aybak%2C_Helmand"
     },
     "wof:country":"AF",
-    "wof:geomhash":"e6611a8dc7b429168ee5fcb2777beaf9",
+    "wof:geomhash":"01c65de97e23beb39e2358e15a5542cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1226225805,
-    "wof:lastmodified":1566584402,
+    "wof:lastmodified":1636496735,
     "wof:name":"Aybak",
     "wof:parent_id":1108562291,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    64.70045999999999,
+    64.70046,
     32.72971,
-    64.70045999999999,
+    64.70046,
     32.72971
 ],
-  "geometry": {"coordinates":[64.70045999999999,32.72971],"type":"Point"}
+  "geometry": {"coordinates":[64.70046000000001,32.72971],"type":"Point"}
 }

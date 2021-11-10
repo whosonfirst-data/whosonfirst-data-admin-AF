@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"65.2500006252,34.5167011035,65.2500006252,34.5167011035",
+    "geom:bbox":"65.250001,34.516701,65.250001,34.516701",
     "geom:latitude":34.516701,
     "geom:longitude":65.250001,
     "iso:country":"AF",
@@ -69,8 +69,14 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0abe\u0a98\u0a9a\u0ab0\u0aa3"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d2\u05e6'\u05d0\u05e8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u0917\u093c\u091a\u0930\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Chaghcharan"
     ],
     "name:ind_x_preferred":[
         "Chaghcharan"
@@ -276,7 +282,7 @@
     },
     "wof:country":"AF",
     "wof:created":1499130549,
-    "wof:geomhash":"d8a595355f141b03338a12f0de2dd823",
+    "wof:geomhash":"208d3efc5adb7f4b58265655c1b32181",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -287,7 +293,7 @@
         }
     ],
     "wof:id":1141906157,
-    "wof:lastmodified":1566584564,
+    "wof:lastmodified":1636496738,
     "wof:name":"Chaghcharan",
     "wof:parent_id":1108561877,
     "wof:placetype":"locality",
@@ -297,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    65.25000062516455,
-    34.51670110348272,
-    65.25000062516455,
-    34.51670110348272
+    65.250001,
+    34.516701,
+    65.250001,
+    34.516701
 ],
-  "geometry": {"coordinates":[65.25000062516455,34.51670110348272],"type":"Point"}
+  "geometry": {"coordinates":[65.250001,34.516701],"type":"Point"}
 }

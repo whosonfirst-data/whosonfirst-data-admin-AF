@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"61.8869975186,31.1120010793,61.8869975186,31.1120010793",
+    "geom:bbox":"61.886998,31.112001,61.886998,31.112001",
     "geom:latitude":31.112001,
     "geom:longitude":61.886998,
     "iso:country":"AF",
@@ -71,6 +71,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0abe\u0ab0\u0a82\u0a9c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05e8\u05d0\u05e0\u05d2'"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u0930\u0902\u091c"
@@ -273,7 +276,7 @@
     },
     "wof:country":"AF",
     "wof:created":1499130549,
-    "wof:geomhash":"a844e4c0d7f035a14b78e77204fe75dc",
+    "wof:geomhash":"6e43278181ec884c32273ed834def499",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":1141906161,
-    "wof:lastmodified":1566584563,
+    "wof:lastmodified":1636496737,
     "wof:name":"Zaranj",
     "wof:parent_id":1108562129,
     "wof:placetype":"locality",
@@ -294,10 +297,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.88699751862157,
-    31.11200107932933,
-    61.88699751862157,
-    31.11200107932933
+    61.886998,
+    31.112001,
+    61.886998,
+    31.112001
 ],
-  "geometry": {"coordinates":[61.88699751862157,31.11200107932933],"type":"Point"}
+  "geometry": {"coordinates":[61.886998,31.112001],"type":"Point"}
 }

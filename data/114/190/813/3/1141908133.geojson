@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"64.7700927316,35.930221577,64.7700927316,35.930221577",
+    "geom:bbox":"64.770093,35.930222,64.770093,35.930222",
     "geom:latitude":35.930222,
     "geom:longitude":64.770093,
     "iso:country":"AF",
@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Meymaneh"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
     "ne:ADM0_A3":"AFG",
@@ -124,7 +127,7 @@
     "wof:concordances":{},
     "wof:country":"AF",
     "wof:created":1499130825,
-    "wof:geomhash":"05a3957ced697f4ed5625be9cb321cb7",
+    "wof:geomhash":"7dc1730641334b224c61dd88bea3e965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1141908133,
-    "wof:lastmodified":1566584564,
+    "wof:lastmodified":1636496738,
     "wof:name":"Meymaneh",
     "wof:parent_id":1108562261,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    64.77009273159177,
-    35.93022157698312,
-    64.77009273159177,
-    35.93022157698312
+    64.770093,
+    35.930222,
+    64.770093,
+    35.930222
 ],
-  "geometry": {"coordinates":[64.77009273159177,35.93022157698312],"type":"Point"}
+  "geometry": {"coordinates":[64.770093,35.930222],"type":"Point"}
 }

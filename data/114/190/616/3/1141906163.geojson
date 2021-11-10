@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"65.8666986489,32.6332981503,65.8666986489,32.6332981503",
+    "geom:bbox":"65.866699,32.633298,65.866699,32.633298",
     "geom:latitude":32.633298,
     "geom:longitude":65.866699,
     "iso:country":"AF",
@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05d9\u05df \u05e7\u05d0\u05d5\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Tarin Kowt"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Afghanistan",
     "ne:ADM0_A3":"AFG",
@@ -127,7 +133,7 @@
     },
     "wof:country":"AF",
     "wof:created":1499130550,
-    "wof:geomhash":"2d234c734846685f067c0eec0af1a31c",
+    "wof:geomhash":"054553f7e7bbd0151a6c81fe4697b54e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":1141906163,
-    "wof:lastmodified":1566584564,
+    "wof:lastmodified":1636496737,
     "wof:name":"Tarin Kowt",
     "wof:parent_id":1108562547,
     "wof:placetype":"locality",
@@ -150,10 +156,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    65.86669864891189,
-    32.63329815034791,
-    65.86669864891189,
-    32.63329815034791
+    65.866699,
+    32.633298,
+    65.866699,
+    32.633298
 ],
-  "geometry": {"coordinates":[65.86669864891189,32.63329815034791],"type":"Point"}
+  "geometry": {"coordinates":[65.866699,32.633298],"type":"Point"}
 }

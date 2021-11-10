@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"64.3599995534,31.5829980224,64.3599995534,31.5829980224",
+    "geom:bbox":"64.36,31.582998,64.36,31.582998",
     "geom:latitude":31.582998,
     "geom:longitude":64.36,
     "iso:country":"AF",
@@ -77,6 +77,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u0936\u094d\u0915\u0930 \u0917\u093e\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Lashkar Gah"
     ],
     "name:ind_x_preferred":[
         "Lashkar Gah"
@@ -282,7 +285,7 @@
     },
     "wof:country":"AF",
     "wof:created":1499130549,
-    "wof:geomhash":"3f6ae843d5606c1f8577657ece2a7aa1",
+    "wof:geomhash":"4bd88d112f3f87712f16bfc7f38ce099",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":1141906159,
-    "wof:lastmodified":1566584564,
+    "wof:lastmodified":1636496737,
     "wof:name":"Lashkar Gah",
     "wof:parent_id":421194569,
     "wof:placetype":"locality",
@@ -303,10 +306,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    64.35999955340668,
-    31.5829980224259,
-    64.35999955340668,
-    31.5829980224259
+    64.36,
+    31.582998,
+    64.36,
+    31.582998
 ],
-  "geometry": {"coordinates":[64.35999955340668,31.5829980224259],"type":"Point"}
+  "geometry": {"coordinates":[64.36,31.582998],"type":"Point"}
 }
