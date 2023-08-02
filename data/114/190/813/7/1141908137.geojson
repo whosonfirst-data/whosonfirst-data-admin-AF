@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.4361034738,34.4415269155,70.4361034738,34.4415269155",
+    "geom:bbox":"70.436103,34.441527,70.436103,34.441527",
     "geom:latitude":34.441527,
     "geom:longitude":70.436103,
     "iso:country":"AF",
@@ -20,6 +20,9 @@
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u0644\u0627\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:arz_x_preferred":[
+        "\u062c\u0644\u0627\u0644\u0622\u0628\u0627\u062f"
     ],
     "name:ast_x_preferred":[
         "Jalalabad"
@@ -84,8 +87,14 @@
     "name:fra_x_preferred":[
         "Jalalabad"
     ],
+    "name:gle_x_preferred":[
+        "Jalalabad"
+    ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ab2\u0abe\u0ab2\u0abe\u0aac\u0abe\u0aa6"
+    ],
+    "name:hau_x_preferred":[
+        "Jalalabad"
     ],
     "name:heb_x_preferred":[
         "\u05d2'\u05dc\u05d0\u05dc\u05d0\u05d1\u05d0\u05d3"
@@ -95,6 +104,12 @@
     ],
     "name:hun_x_preferred":[
         "Dzsal\u00e1l\u00e1b\u00e1d"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u056c\u0561\u056c\u0561\u0562\u0561\u0564"
+    ],
+    "name:ido_x_preferred":[
+        "Jalalabad"
     ],
     "name:ind_x_preferred":[
         "Jalalabad"
@@ -107,6 +122,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9c\u0cb2\u0cbe\u0cb2\u0cac\u0cbe\u0ca6\u0ccd"
+    ],
+    "name:kan_x_variant":[
+        "\u0c9c\u0cb2\u0cbe\u0cb2\u0cbe\u0cac\u0cbe\u0ca6\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10ef\u10d0\u10da\u10d0\u10da\u10d0\u10d1\u10d0\u10d3\u10d8"
@@ -144,6 +162,9 @@
     "name:nor_x_preferred":[
         "Jalalabad"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0435\u043b\u0430\u043b\u0430\u0431\u0430\u0434"
+    ],
     "name:pan_x_preferred":[
         "\u0a1c\u0a32\u0a3e\u0a32\u0a3e\u0a2c\u0a3e\u0a26"
     ],
@@ -168,6 +189,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u043b\u0430\u043b\u0430\u0431\u0430\u0434"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c5f\u1c5e\u1c5f\u1c5e\u1c5f\u1c75\u1c5f\u1c6b\u1c7d"
+    ],
     "name:sco_x_preferred":[
         "Jalalabad"
     ],
@@ -176,6 +200,9 @@
     ],
     "name:spa_x_preferred":[
         "Jalalabad"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0430\u043b\u0430\u043b\u0430\u0431\u0430\u0434"
     ],
     "name:swe_x_preferred":[
         "Jalalabad"
@@ -207,11 +234,20 @@
     "name:urd_x_preferred":[
         "\u062c\u0644\u0627\u0644 \u0622\u0628\u0627\u062f"
     ],
+    "name:uzb_x_preferred":[
+        "Jalolobod"
+    ],
+    "name:vec_x_preferred":[
+        "Jalalabad"
+    ],
     "name:vie_x_preferred":[
         "Jalalabad"
     ],
     "name:war_x_preferred":[
         "Jalalabad"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d3e\u62c9\u62c9\u5df4\u5fb7"
     ],
     "name:yue_x_preferred":[
         "\u5047\u5976\u5976\u5df4\u5f97"
@@ -337,7 +373,7 @@
     },
     "wof:country":"AF",
     "wof:created":1499130827,
-    "wof:geomhash":"509c2da5b9484b7af04077e364f317c0",
+    "wof:geomhash":"7bd13b8f469d654b6237c90457264c75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -348,7 +384,7 @@
         }
     ],
     "wof:id":1141908137,
-    "wof:lastmodified":1566584564,
+    "wof:lastmodified":1690849312,
     "wof:name":"Jalalabad",
     "wof:parent_id":1108562095,
     "wof:placetype":"locality",
@@ -362,10 +398,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.436103473802,
-    34.44152691551875,
-    70.436103473802,
-    34.44152691551875
+    70.436103,
+    34.441527,
+    70.436103,
+    34.441527
 ],
-  "geometry": {"coordinates":[70.43610347380201,34.44152691551875],"type":"Point"}
+  "geometry": {"coordinates":[70.436103,34.441527],"type":"Point"}
 }

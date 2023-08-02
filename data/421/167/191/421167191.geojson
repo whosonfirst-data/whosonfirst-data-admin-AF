@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0646\u062c\u064a\u0646"
+    ],
     "name:ast_x_preferred":[
         "Sangin"
     ],
     "name:ceb_x_preferred":[
         "Sang\u012bn"
+    ],
+    "name:ces_x_preferred":[
+        "Sangin"
+    ],
+    "name:deu_x_preferred":[
+        "Sangin"
     ],
     "name:eng_x_preferred":[
         "Sangin"
@@ -56,14 +65,29 @@
     "name:rus_x_variant":[
         "\u0421\u0430\u043d\u0434\u0436\u0438\u043d"
     ],
+    "name:slk_x_preferred":[
+        "Sangin"
+    ],
     "name:spa_x_preferred":[
         "Sang\u012bn"
     ],
     "name:swe_x_preferred":[
         "Sang\u012bn"
     ],
+    "name:swe_x_variant":[
+        "Sangin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0433\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "S\u0101rb\u0101n Qal\u2018eh"
+    ],
+    "name:uzb_x_preferred":[
+        "Sangin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u91d1\u5e02"
     ],
     "qs:gn_country":"AF",
     "qs:gn_fcode":"PPLA2",
@@ -112,7 +136,7 @@
         }
     ],
     "wof:id":421167191,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1690849289,
     "wof:name":"Sang\u012bn",
     "wof:parent_id":421197035,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u043e\u0441\u0442"
     ],
+    "name:bel_x_variant":[
+        "\u0425\u043e\u0441\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09cb\u09b8\u09cd\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062e\u06c6\u0633\u062a"
+    ],
+    "name:crh_x_preferred":[
+        "Host"
     ],
     "name:cym_x_preferred":[
         "Khost"
@@ -106,6 +112,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0acb\u0ab8\u0acd\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7'\u05d5\u05e1\u05ea"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u094b\u0938\u094d\u0924 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -191,6 +200,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddd\u0dc3\u0dca\u0da7\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u062e\u0648\u0633\u062a \u0635\u0648\u0628\u0648"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Jost"
     ],
@@ -218,6 +230,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u0443\u0441\u0442"
     ],
+    "name:tgk_x_variant":[
+        "\u0432\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u0443\u0441\u0442"
+    ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Khost"
     ],
@@ -236,11 +251,20 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062e\u0648\u0633\u062a"
     ],
+    "name:uzb_x_preferred":[
+        "Xust viloyati"
+    ],
     "name:vie_x_preferred":[
         "Khost"
     ],
     "name:war_x_preferred":[
         "Khost"
+    ],
+    "name:wuu_x_preferred":[
+        "\u970d\u65af\u7279\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u8377\u65af\u7279\u7701"
     ],
     "name:zho_x_preferred":[
         "\u970d\u65af\u7279\u7701"
@@ -373,7 +397,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1614725982,
+    "wof:lastmodified":1690849239,
     "wof:name":"Khowst",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

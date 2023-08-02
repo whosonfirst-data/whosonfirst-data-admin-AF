@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0634\u0627\u0631\u064a\u0643\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0627\u0631\u064a\u0643\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7arikar"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u0440\u044b\u043a\u0430\u0440"
     ],
@@ -59,6 +65,9 @@
     "name:est_x_preferred":[
         "Ch\u0101r\u012bk\u0101r"
     ],
+    "name:eus_x_preferred":[
+        "Charikar"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0631\u06cc\u06a9\u0627\u0631"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05d0\u05e8\u05d9\u05e7\u05d0\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05d0\u05e8\u05d9\u05db\u05d0\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u0930\u0940\u0915\u093e\u0930"
@@ -104,6 +116,9 @@
     "name:lit_x_preferred":[
         "\u010carikaras"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d30\u0d3f\u0d15\u0d3e\u0d7c"
+    ],
     "name:mar_x_preferred":[
         "\u091a\u0930\u0915\u093e\u0930"
     ],
@@ -127,6 +142,9 @@
     ],
     "name:por_x_preferred":[
         "Charikar"
+    ],
+    "name:pus_x_preferred":[
+        "\u0686\u0627\u0631\u06cc\u06a9\u0627\u0631"
     ],
     "name:ron_x_preferred":[
         "Charikar"
@@ -152,6 +170,9 @@
     "name:tel_x_preferred":[
         "\u0c1a\u0c30\u0c3f\u0c15\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0427\u043e\u0440\u0438\u043a\u043e\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e23\u0e34\u0e01\u0e32\u0e23\u0e4c"
     ],
@@ -160,6 +181,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0440\u0456\u043a\u0430\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0430\u0440\u0438\u043a\u0430\u0440"
     ],
     "name:und_x_variant":[
         "\u010cah\u0101rik\u0101r"
@@ -230,7 +254,7 @@
         }
     ],
     "wof:id":421192703,
-    "wof:lastmodified":1636496729,
+    "wof:lastmodified":1690849289,
     "wof:name":"Charikar",
     "wof:parent_id":1108561893,
     "wof:placetype":"locality",

@@ -51,7 +51,8 @@
         "\u0993\u09b0\u09c1\u099c\u09cd\u200c\u0997\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:ben_x_variant":[
-        "\u0986\u09b0\u09c1\u099c\u0997\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+        "\u0986\u09b0\u09c1\u099c\u0997\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6",
+        "\u0993\u09b0\u09c1\u099c\u0997\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0443\u0437\u0433\u0430\u043d"
@@ -70,6 +71,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u0648\u0648\u0631\u0648\u0632\u06af\u0627\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Uruzgan"
     ],
     "name:dan_x_preferred":[
         "Oruzgan"
@@ -115,6 +119,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab0\u0acb\u0a9d\u0a97\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d5\u05d6\u05d2\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0913\u0930\u0942\u091c\u093c\u094d\u0917\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -212,6 +219,9 @@
     "name:sin_x_preferred":[
         "\u0d8b\u0dbb\u0ddd\u0dc3\u0dca\u0d9c\u0db1\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u0631\u0648\u0632\u06af\u0627\u0646 \u0635\u0648\u0628\u0648"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Ur\u016bzg\u0101n"
     ],
@@ -226,6 +236,9 @@
     ],
     "name:swe_x_preferred":[
         "Oruzgan"
+    ],
+    "name:swe_x_variant":[
+        "Uruzgan"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bcb\u0bb8\u0bcd\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bcd"
@@ -260,11 +273,20 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0632\u06af\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Uro\u02bbzgon viloyati"
+    ],
     "name:vie_x_preferred":[
         "Oruzgan"
     ],
     "name:war_x_preferred":[
         "Or\u016bzg\u0101n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u9c81\u5179\u7518\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u70cf\u9b6f\u8332\u6839\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u9c81\u5179\u7518\u7701"
@@ -396,7 +418,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1614725982,
+    "wof:lastmodified":1690849239,
     "wof:name":"Oruzgan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

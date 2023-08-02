@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u0627\u0646\u0634\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u0646\u062c\u0634\u064a\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u067e\u0646\u062c\u0634\u06cc\u0631 \u0648\u06cc\u0644\u0627\u06cc\u062a"
     ],
@@ -63,13 +66,23 @@
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u067e\u06d5\u0646\u062c\u0634\u06ce\u0631"
     ],
     "name:ckb_x_variant":[
-        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u067e\u06d5\u0646\u062c\u0634\u06cc\u0631"
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u067e\u06d5\u0646\u062c\u0634\u06cc\u0631",
+        "\u067e\u06d5\u0646\u062c\u0634\u06ce\u0631"
+    ],
+    "name:crh_x_preferred":[
+        "Penc\u015fir"
+    ],
+    "name:cym_x_preferred":[
+        "Panjshir"
     ],
     "name:dan_x_preferred":[
         "Panjshir"
     ],
     "name:deu_x_preferred":[
         "Pandschschir"
+    ],
+    "name:deu_x_variant":[
+        "Panjshir"
     ],
     "name:diq_x_preferred":[
         "Penc\u015f\u00ear"
@@ -103,14 +116,23 @@
     "name:fra_x_preferred":[
         "Pandjchir"
     ],
+    "name:fra_x_variant":[
+        "Panchir"
+    ],
     "name:hbs_x_preferred":[
         "Pand\u017e\u0161irska pokrajina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d2'\u05e9\u05d9\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0902\u091c\u0936\u0940\u0930 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
     "name:hun_x_preferred":[
         "Parwan"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Panjshir"
     ],
     "name:ita_x_preferred":[
         "Panjshir"
@@ -120,6 +142,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d0\u10dc\u10ef\u10e8\u10d8\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043d\u0436\u0448\u0435\u0440"
     ],
     "name:kor_x_preferred":[
         "\ud310\uc9c0\uc2dc\ub974 \uc8fc"
@@ -135,6 +160,9 @@
     ],
     "name:lrc_x_variant":[
         "\u0622\u0633\u062a\u0648\u0646 \u067e\u0646\u062c\u0634\u06cc\u0631"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d1e\u0d4d\u0d1a\u0d4d\u0d37\u0d3f\u0d7c \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u043d\u0436\u0448\u0435\u0440 \u0430\u0439\u043c\u0430\u0433"
@@ -156,6 +184,9 @@
     ],
     "name:nob_x_preferred":[
         "Panjshir"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0430\u043d\u0434\u0436\u0448\u0435\u0440"
     ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a70\u0a1c\u0a38\u0a3c\u0a3f\u0a30"
@@ -193,6 +224,9 @@
     "name:sun_x_preferred":[
         "Propinsi Panjshir"
     ],
+    "name:swa_x_preferred":[
+        "Panjshir"
+    ],
     "name:swe_x_preferred":[
         "Panjshir"
     ],
@@ -201,6 +235,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041f\u0430\u043d\u04b7\u0448\u0435\u0440"
+    ],
+    "name:tgk_x_variant":[
+        "\u0432\u0438\u043b\u043e\u044f\u0442\u0438 \u041f\u0430\u043d\u04b7\u0448\u0435\u0440"
     ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Panjshir"
@@ -223,8 +260,17 @@
     "name:urd_x_variant":[
         "\u067e\u0646\u062c \u0634\u06cc\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Panjsher viloyati"
+    ],
     "name:war_x_preferred":[
         "Panjshir"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6f58\u6770\u5e0c\u5c14\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u73ed\u54f2\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6f58\u5091\u5e0c\u723e\u7701"
@@ -356,7 +402,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1636496713,
+    "wof:lastmodified":1690849245,
     "wof:name":"Parwan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

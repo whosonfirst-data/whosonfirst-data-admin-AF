@@ -25,11 +25,20 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0636 \u0622\u0628\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u0636 \u0622\u0628\u0627\u062f"
+    ],
     "name:ast_x_preferred":[
+        "Feyzabad"
+    ],
+    "name:aze_x_preferred":[
         "Feyzabad"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09af\u09bc\u099c\u09ac\u09be\u09a6"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09be\u09af\u09bc\u099c\u09be\u09ac\u09be\u09a6"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0439\u0437\u0430\u0431\u0430\u0434"
@@ -39,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Fayzabad"
+    ],
+    "name:ces_x_preferred":[
+        "Fajz\u00e1b\u00e1d"
     ],
     "name:cym_x_preferred":[
         "Fayzabad"
@@ -88,6 +100,12 @@
     "name:hin_x_preferred":[
         "\u092b\u093c\u0948\u091c\u093c\u093e\u092c\u093e\u0926"
     ],
+    "name:hun_x_preferred":[
+        "Fejz\u00e1b\u00e1d"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0575\u0566\u0561\u0562\u0561\u0564"
+    ],
     "name:ind_x_preferred":[
         "Fayzabad"
     ],
@@ -96,6 +114,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30a4\u30b6\u30fc\u30d0\u30fc\u30c9"
+    ],
+    "name:kaa_x_preferred":[
+        "Fayzobod"
     ],
     "name:kan_x_preferred":[
         "\u0cab\u0cbe\u0caf\u0c9d\u0cbe\u0cac\u0cbe\u0ca6\u0ccd"
@@ -157,6 +178,9 @@
     "name:swe_x_preferred":[
         "Fayzabad"
     ],
+    "name:swe_x_variant":[
+        "Feyzabad"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b9a\u0bbe\u0baa\u0bc7\u0b9f\u0bcd"
     ],
@@ -184,6 +208,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u0688\u0648\u0646\u060c"
     ],
+    "name:uzb_x_preferred":[
+        "Fayzobod"
+    ],
     "name:vie_x_preferred":[
         "Fayzabad"
     ],
@@ -192,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u624e\u5df4\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u8d39\u624e\u5df4\u5fb7"
     ],
     "qs_pg:aaroncc":"AF",
     "qs_pg:gn_country":"AF",
@@ -232,7 +262,7 @@
         }
     ],
     "wof:id":1125782711,
-    "wof:lastmodified":1566583539,
+    "wof:lastmodified":1690849306,
     "wof:name":"Fayzabad",
     "wof:parent_id":421191409,
     "wof:placetype":"locality",
