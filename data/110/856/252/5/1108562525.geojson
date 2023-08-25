@@ -29,12 +29,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0631\u062e \u0628\u0627\u0631\u0633\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c1\u09b0\u0996\u09bf \u09aa\u09be\u09b0\u09b8\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Surkh-e P\u0101rs\u0101"
+    ],
     "name:eng_x_preferred":[
         "Surkhi Parsa"
     ],
     "name:eng_x_variant":[
-        "Surkh-e- Parsa",
-        "Surkhi Parsa"
+        "Surkh-e- Parsa"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0633\u0631\u062e \u067e\u0627\u0631\u0633\u0627"
@@ -51,8 +59,14 @@
     "name:pus_x_preferred":[
         "\u0633\u0631\u062e \u067e\u0627\u0631\u0633\u0627 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
+    "name:swe_x_preferred":[
+        "Surkh-e Parsa"
+    ],
     "name:tur_x_preferred":[
         "Surhi Parsa il\u00e7esi"
+    ],
+    "name:uzb_x_preferred":[
+        "Surkhi Parsa tumani"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Surkhi Parsa"
@@ -93,7 +107,7 @@
         }
     ],
     "wof:id":1108562525,
-    "wof:lastmodified":1627507743,
+    "wof:lastmodified":1690849281,
     "wof:name":"Surkhi Parsa",
     "wof:parent_id":85667627,
     "wof:placetype":"county",

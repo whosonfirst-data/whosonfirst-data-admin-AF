@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ast_x_preferred":[
+        "Asadabad"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u09be\u09a6\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
     ],
     "name:ceb_x_preferred":[
         "Asad\u0101b\u0101d"
+    ],
+    "name:cym_x_preferred":[
+        "Asadabad"
     ],
     "name:eng_x_preferred":[
         "Asad Abad"
@@ -69,8 +75,14 @@
     "name:swe_x_preferred":[
         "Asad\u0101b\u0101d"
     ],
+    "name:swe_x_variant":[
+        "Asadabad"
+    ],
     "name:tur_x_preferred":[
         "Esadabad il\u00e7esi"
+    ],
+    "name:uzb_x_preferred":[
+        "Asadabad Tumani"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1108561823,
-    "wof:lastmodified":1636496724,
+    "wof:lastmodified":1690849284,
     "wof:name":"Asadabad",
     "wof:parent_id":85667581,
     "wof:placetype":"county",

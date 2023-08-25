@@ -65,6 +65,9 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0628\u06d5\u063a\u0644\u0627\u0646"
     ],
+    "name:crh_x_preferred":[
+        "Be\u011flan"
+    ],
     "name:cym_x_preferred":[
         "Baghlan"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d2\u05d7\u05dc\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d2\u05dc\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0917\u093c\u0932\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -212,6 +218,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0430\u0493\u043b\u043e\u043d"
     ],
+    "name:tgk_x_variant":[
+        "\u0432\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0430\u0493\u043b\u043e\u043d"
+    ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Baghlan"
     ],
@@ -233,6 +242,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u063a\u0644\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Bag\u02bblon"
+    ],
     "name:vie_x_preferred":[
         "Baghlan"
     ],
@@ -241,6 +253,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5df4\u683c\u5170\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5df4\u683c\u862d\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u683c\u5170\u7701"
@@ -374,7 +389,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1636496713,
+    "wof:lastmodified":1690849246,
     "wof:name":"Baghlan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

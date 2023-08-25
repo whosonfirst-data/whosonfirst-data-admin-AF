@@ -33,14 +33,26 @@
     "name:ara_x_preferred":[
         "\u0644\u0634\u0643\u0631 \u0643\u0627\u0647"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0634\u0643\u0631 \u063a\u0627\u0647"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0634\u0643\u0631 \u0643\u0627\u0647"
+    ],
     "name:ast_x_preferred":[
         "Lashkar Gah"
+    ],
+    "name:aze_x_preferred":[
+        "L\u0259\u015fg\u0259rgah"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0430\u0448\u043a\u0430\u0440\u0433\u0430\u0445"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09b8\u09cd\u0995\u09b0 \u0997\u09be\u09b9"
+    ],
+    "name:ben_x_variant":[
+        "\u09b2\u09b8\u09cd\u0995\u09b0\u0997\u09be\u09b9"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430\u0448\u043a\u0430\u0440 \u0413\u0430\u0445"
@@ -53,6 +65,9 @@
     ],
     "name:ces_x_preferred":[
         "La\u0161karg\u00e1h"
+    ],
+    "name:cym_x_preferred":[
+        "Lashkargah"
     ],
     "name:dan_x_preferred":[
         "Lashkargah"
@@ -84,11 +99,17 @@
     "name:fra_x_preferred":[
         "Lashkar Gah"
     ],
+    "name:gle_x_preferred":[
+        "Lashkar Gah"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ab6\u0acd\u0a95\u0ab0 \u0a97\u0ab9"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05e9\u05db\u05d0\u05e8 \u05d2\u05d0\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05e9\u05db\u05e8 \u05d2\u05d0\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0936\u094d\u0915\u0930 \u0917\u093e\u0939"
@@ -117,6 +138,9 @@
     "name:lit_x_preferred":[
         "La\u0161kar Gahas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d37\u0d4d\u0d15\u0d7c\u0d17\u0d3e\u0d39\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0937\u094d\u0915\u0930 \u0917\u0939"
     ],
@@ -128,6 +152,9 @@
     ],
     "name:nob_x_preferred":[
         "Lashkar Gah"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a38\u0a3c\u0a15\u0a30\u0a17\u0a3e\u0a39"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u0634\u06a9\u0631 \u06af\u0627\u06c1"
@@ -168,6 +195,9 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c37\u0c4d\u0c15\u0c30\u0c4d \u0c18\u0c3e"
     ],
+    "name:tgk_x_preferred":[
+        "\u041b\u0430\u0448\u043a\u0430\u0440\u0433\u043e\u04b3"
+    ],
     "name:tgl_x_preferred":[
         "Lashkar Gah"
     ],
@@ -188,6 +218,12 @@
     ],
     "name:urd_x_variant":[
         "\u0628\u0633\u062a \u0644\u0634\u06a9\u0631\u06af\u0627\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Lashkargoh"
+    ],
+    "name:vec_x_preferred":[
+        "Lashkar Gah"
     ],
     "name:vie_x_preferred":[
         "Lashkar Gah"
@@ -264,7 +300,7 @@
         }
     ],
     "wof:id":421194569,
-    "wof:lastmodified":1636496729,
+    "wof:lastmodified":1690849289,
     "wof:name":"Lashkar Gah",
     "wof:parent_id":85667531,
     "wof:placetype":"county",

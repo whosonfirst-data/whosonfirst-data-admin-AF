@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u063a\u0645\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u063a\u0645\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Paghman"
+    ],
+    "name:aze_x_preferred":[
+        "Paqman"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0998\u09ae\u09be\u09a8"
@@ -53,6 +59,9 @@
     "name:fas_x_variant":[
         "\u067e\u063a\u0645\u0627\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Paghman"
+    ],
     "name:fra_x_preferred":[
         "Paghman"
     ],
@@ -65,11 +74,17 @@
     "name:nld_x_preferred":[
         "Paghman"
     ],
+    "name:nob_x_preferred":[
+        "Paghman"
+    ],
     "name:pol_x_preferred":[
         "Paghman"
     ],
     "name:por_x_preferred":[
         "Paghman"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u063a\u0645\u0627\u0646"
     ],
     "name:ron_x_preferred":[
         "Paghman"
@@ -83,6 +98,9 @@
     "name:swe_x_preferred":[
         "Paghm\u0101n"
     ],
+    "name:swe_x_variant":[
+        "Paghman"
+    ],
     "name:tgk_x_preferred":[
         "\u041f\u0430\u0493\u043c\u043e\u043d"
     ],
@@ -94,6 +112,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u063a\u0645\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Paghman"
     ],
     "qs:gn_country":"AF",
     "qs:gn_fcode":"PPL",
@@ -142,7 +163,7 @@
         }
     ],
     "wof:id":421187059,
-    "wof:lastmodified":1566583521,
+    "wof:lastmodified":1690849292,
     "wof:name":"Paghman Palace",
     "wof:parent_id":1108562345,
     "wof:placetype":"locality",

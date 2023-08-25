@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u064a \u0639\u0644\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0649 \u0639\u0644\u0645"
+    ],
     "name:ast_x_preferred":[
         "Pul-i-Alam"
+    ],
+    "name:aze_x_preferred":[
+        "Puli Alam"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0443\u043b\u0456-\u0410\u043b\u0430\u043c"
@@ -72,6 +78,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0ab2-\u0a8f-\u0a86\u0ab2\u0aae"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc-\u05d9 \u05e2\u05dc\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0932-\u090f-\u0906\u0932\u092e"
@@ -127,6 +136,9 @@
     "name:swe_x_preferred":[
         "Pul-e \u2018Alam"
     ],
+    "name:swe_x_variant":[
+        "Pol-e Alam"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0bb2\u0bcd-\u0b90 \u0b85\u0bb2\u0bae\u0bcd"
     ],
@@ -147,6 +159,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0644 \u0639\u0644\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Puli Alam"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Puli Alam"
@@ -190,7 +205,7 @@
         }
     ],
     "wof:id":890443565,
-    "wof:lastmodified":1566583534,
+    "wof:lastmodified":1690849303,
     "wof:name":"Pul-e \u2018Alam",
     "wof:parent_id":1108562361,
     "wof:placetype":"locality",

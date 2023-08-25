@@ -29,8 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u0633\u062a\u0627\u0644\u0641"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09a4\u09be\u09b2\u09bf\u09ab \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ist\u0101lif"
+    ],
+    "name:cym_x_preferred":[
+        "Istalif"
     ],
     "name:deu_x_preferred":[
         "Istalif"
@@ -59,11 +68,17 @@
     "name:pus_x_preferred":[
         "\u062f \u0627\u0633\u062a\u0627\u0644\u0641 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
+    "name:swe_x_preferred":[
+        "Estalef"
+    ],
     "name:tur_x_preferred":[
         "Istalif il\u00e7esi"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0644\u0641 \u0636\u0644\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Istalif tumani"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Istalif"
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":1108562087,
-    "wof:lastmodified":1627507732,
+    "wof:lastmodified":1690849279,
     "wof:name":"Istalif",
     "wof:parent_id":85667603,
     "wof:placetype":"county",

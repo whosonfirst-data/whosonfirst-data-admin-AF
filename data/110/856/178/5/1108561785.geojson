@@ -32,6 +32,9 @@
     "name:ben_x_preferred":[
         "\u0986\u099c\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u099c\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Ajrist\u0101n"
     ],
@@ -63,14 +66,23 @@
     "name:pus_x_preferred":[
         "\u0627\u062c\u0631\u0633\u062a\u0627\u0646 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5a\u1c61\u1c7d\u1c68\u1c64\u1c65\u1c5b\u1c5f\u1c71 \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:swe_x_preferred":[
         "Ajrist\u0101n"
+    ],
+    "name:swe_x_variant":[
+        "Ajristan"
     ],
     "name:tur_x_preferred":[
         "Acristan il\u00e7esi"
     ],
     "name:urd_x_preferred":[
         "\u0627\u062c\u0631\u0633\u062a\u0627\u0646 \u0636\u0644\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Ajristan tumani"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Ajristan"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1108561785,
-    "wof:lastmodified":1627507725,
+    "wof:lastmodified":1690849283,
     "wof:name":"Ajristan",
     "wof:parent_id":85667561,
     "wof:placetype":"county",

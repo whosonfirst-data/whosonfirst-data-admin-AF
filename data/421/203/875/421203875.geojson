@@ -23,14 +23,29 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062e"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u062e"
+    ],
     "name:ast_x_preferred":[
         "Balkh"
     ],
     "name:ast_x_variant":[
         "Balh"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u062e"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259lx"
+    ],
+    "name:bcl_x_preferred":[
+        "Balkh"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043b\u0445"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u043b\u0445"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b2\u09cd\u200c\u0996"
@@ -74,6 +89,9 @@
     "name:est_x_preferred":[
         "Balkh"
     ],
+    "name:eus_x_preferred":[
+        "Balkh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u062e"
     ],
@@ -95,6 +113,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05da"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05dc\u05d7'"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0932\u094d\u0916\u093c"
     ],
@@ -107,11 +128,17 @@
     "name:hyw_x_preferred":[
         "\u054a\u0561\u056c\u056d"
     ],
+    "name:ind_x_preferred":[
+        "Balkh"
+    ],
     "name:ita_x_preferred":[
         "Balkh"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30eb\u30d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10da\u10ee\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u0445"
@@ -125,11 +152,17 @@
     "name:lat_x_preferred":[
         "Bactra"
     ],
+    "name:lav_x_preferred":[
+        "Balha"
+    ],
     "name:lit_x_preferred":[
         "Balchas"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d7d\u0d16\u0d4d"
+    ],
+    "name:mlt_x_preferred":[
+        "Balkh"
     ],
     "name:msa_x_preferred":[
         "Daerah Balkh"
@@ -137,11 +170,20 @@
     "name:nld_x_preferred":[
         "Balch"
     ],
+    "name:nno_x_preferred":[
+        "Balkh"
+    ],
     "name:nob_x_preferred":[
         "Balkh"
     ],
     "name:nor_x_preferred":[
         "Balkh"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u043b\u0445"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a32\u0a16\u0a3c"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u062e"
@@ -176,8 +218,17 @@
     "name:slv_x_variant":[
         "Balkh"
     ],
+    "name:som_x_preferred":[
+        "Balakh"
+    ],
     "name:spa_x_preferred":[
         "Balj"
+    ],
+    "name:sqi_x_preferred":[
+        "Belh"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0445"
     ],
     "name:swe_x_preferred":[
         "Balkh"
@@ -193,6 +244,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u043b\u0445"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1a\u0e25\u0e04\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Belh"
@@ -211,6 +265,15 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Balkh"
+    ],
+    "name:war_x_preferred":[
+        "Balkh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c14\u8d6b"
+    ],
+    "name:yue_x_preferred":[
+        "\u516b\u524c\u9ed1"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5c14\u8d6b"
@@ -359,7 +422,7 @@
         }
     ],
     "wof:id":421203875,
-    "wof:lastmodified":1566583518,
+    "wof:lastmodified":1690849290,
     "wof:name":"Balkh",
     "wof:parent_id":1108561853,
     "wof:placetype":"locality",

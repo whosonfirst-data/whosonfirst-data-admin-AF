@@ -23,8 +23,14 @@
     "name:ast_x_preferred":[
         "Gardez"
     ],
+    "name:aze_x_preferred":[
+        "Qardez"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0430\u0440\u0434\u044d\u0437"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0430\u0440\u0434\u044d\u0437"
     ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09be\u09a1\u09c7\u099c"
@@ -76,6 +82,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05d3\u05d9\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "\u05d2\u05e8\u05d3\u05d6"
     ],
     "name:hin_x_preferred":[
         "\u0917\u0930\u0926\u0947\u091c\u093c"
@@ -149,11 +158,17 @@
     "name:swe_x_preferred":[
         "Gard\u0113z"
     ],
+    "name:swe_x_variant":[
+        "Gardez"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0bc7\u0b9c\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c17\u0c30\u0c4d\u0c26\u0c47\u0c1c\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0413\u0430\u0440\u0434\u0435\u0437"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e23\u0e4c\u0e40\u0e14\u0e2a"
@@ -318,7 +333,7 @@
         }
     ],
     "wof:id":421168803,
-    "wof:lastmodified":1636496728,
+    "wof:lastmodified":1690849287,
     "wof:name":"Gardiz",
     "wof:parent_id":421166641,
     "wof:placetype":"locality",

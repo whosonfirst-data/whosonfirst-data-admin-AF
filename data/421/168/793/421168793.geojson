@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0642\u0646\u062f\u0648\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0646\u062f\u0648\u0632"
+    ],
     "name:ast_x_preferred":[
         "Kunduz"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0646\u062f\u0648\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00fcnduz"
     ],
     "name:bak_x_preferred":[
         "\u04a0\u043e\u043d\u0434\u043e\u0499"
@@ -62,6 +71,9 @@
     "name:est_x_preferred":[
         "Kond\u016bz"
     ],
+    "name:eus_x_preferred":[
+        "Kunduz"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0646\u062f\u0632"
     ],
@@ -81,11 +93,20 @@
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05e0\u05d3\u05d5\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d5\u05e0\u05d3\u05d5\u05d6"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0941\u0902\u0926\u0941\u091c\u093c"
     ],
     "name:hrv_x_preferred":[
         "Kunduz"
+    ],
+    "name:hun_x_preferred":[
+        "Kunduz"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0576\u0564\u0578\u0582\u0566"
     ],
     "name:ind_x_preferred":[
         "Kondoz"
@@ -95,6 +116,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30f3\u30c9\u30a5\u30fc\u30ba"
+    ],
+    "name:jpn_x_variant":[
+        "\u30af\u30f3\u30c9\u30a5\u30ba"
     ],
     "name:kal_x_preferred":[
         "Kunduz"
@@ -155,6 +179,9 @@
     ],
     "name:oci_x_preferred":[
         "Kunduz"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0443\u0437"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a41\u0a70\u0a26\u0a42\u0a1c\u0a3c"
@@ -230,6 +257,12 @@
     ],
     "name:war_x_preferred":[
         "Kunduz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6606\u90fd\u58eb"
+    ],
+    "name:yue_x_preferred":[
+        "\u6606\u90fd\u58eb"
     ],
     "name:zho_x_preferred":[
         "\u6606\u90fd\u58eb"
@@ -373,7 +406,7 @@
         }
     ],
     "wof:id":421168793,
-    "wof:lastmodified":1566583516,
+    "wof:lastmodified":1690849288,
     "wof:name":"Kond\u016bz",
     "wof:parent_id":421188181,
     "wof:placetype":"locality",

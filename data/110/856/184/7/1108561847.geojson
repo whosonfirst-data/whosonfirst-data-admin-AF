@@ -35,11 +35,15 @@
     "name:ceb_x_preferred":[
         "Murgh\u0101b"
     ],
+    "name:cym_x_preferred":[
+        "Murghab"
+    ],
     "name:eng_x_preferred":[
         "Murghab"
     ],
     "name:eng_x_variant":[
-        "Balamurghab"
+        "Balamurghab",
+        "Bala Murghab"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u0633\u0648\u0627\u0644\u06cc \u0645\u0631\u063a\u0627\u0628"
@@ -65,14 +69,26 @@
     "name:pus_x_preferred":[
         "\u062f \u0645\u0631\u063a\u0627\u0628 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043c\u0443\u0440\u0433\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
     "name:swe_x_preferred":[
         "Murgh\u0101b"
+    ],
+    "name:swe_x_variant":[
+        "Bala Murghab"
     ],
     "name:tur_x_preferred":[
         "Murgab il\u00e7esi"
     ],
+    "name:uzb_x_preferred":[
+        "Bala Murghab tumani"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Murghab"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u5c14\u52a0\u5e03\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -110,7 +126,7 @@
         }
     ],
     "wof:id":1108561847,
-    "wof:lastmodified":1627507727,
+    "wof:lastmodified":1690849281,
     "wof:name":"Bala Murghab",
     "wof:parent_id":85667493,
     "wof:placetype":"county",

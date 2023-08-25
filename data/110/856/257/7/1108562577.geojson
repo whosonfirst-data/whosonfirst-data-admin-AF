@@ -29,11 +29,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0627\u064a\u063a\u0644"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0997\u09be\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
     "name:ceb_x_preferred":[
         "W\u0101ygal"
+    ],
+    "name:cym_x_preferred":[
+        "Waygal"
+    ],
+    "name:deu_x_preferred":[
+        "Waygal"
     ],
     "name:eng_x_preferred":[
         "Waygal"
@@ -53,14 +62,23 @@
     "name:msa_x_preferred":[
         "Daerah Waygal"
     ],
+    "name:por_x_preferred":[
+        "Waygal"
+    ],
     "name:pus_x_preferred":[
         "\u0648\u0627\u064a\u06af\u0644 \u0648\u0644\u0633\u0648\u0627\u0644\u06cd"
     ],
     "name:swe_x_preferred":[
         "W\u0101ygal"
     ],
+    "name:swe_x_variant":[
+        "Waygal"
+    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u06cc\u06af\u0644 \u0636\u0644\u0639"
+    ],
+    "name:uzb_x_preferred":[
+        "Waygal tumani"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Waygal"
@@ -101,7 +119,7 @@
         }
     ],
     "wof:id":1108562577,
-    "wof:lastmodified":1627507744,
+    "wof:lastmodified":1690849261,
     "wof:name":"Waygal",
     "wof:parent_id":85667577,
     "wof:placetype":"county",
