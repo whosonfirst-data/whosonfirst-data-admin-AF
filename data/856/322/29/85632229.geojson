@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":62.55671,
-    "geom:area_square_m":642112904813.414673,
+    "geom:area_square_m":642112904813.484741,
     "geom:bbox":"60.475769,29.377217,74.889862,38.490733",
     "geom:latitude":33.831599,
     "geom:longitude":66.026521,
@@ -14,6 +14,9 @@
     "iso:country":"AF",
     "itu:country_code":[
         "93"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "AF"
@@ -1304,7 +1307,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"93",
     "statoids:ds":"AFG",
     "statoids:fifa":"AFG",
@@ -1363,7 +1367,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"485e7d00aa98c6969119f41e6f61ae35",
+    "wof:geomhash":"35754934464912b703eade9b51b6341c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1382,12 +1386,12 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849243,
+    "wof:lastmodified":1694639519,
     "wof:name":"Afghanistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":31822848,
-    "wof:population_rank":15,
+    "wof:population":38041754,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:shortcode":"AF",
     "wof:superseded_by":[],
