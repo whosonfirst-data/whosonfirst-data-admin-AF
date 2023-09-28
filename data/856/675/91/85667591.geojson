@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.720716,
-    "geom:area_square_m":7364270567.18343,
+    "geom:area_square_m":7364270858.59342,
     "geom:bbox":"69.478949,33.93978,71.17612,34.806378",
     "geom:latitude":34.27386,
     "geom:longitude":70.473948,
@@ -361,6 +361,7 @@
         "gn:id":1132366,
         "gp:id":2344564,
         "hasc:id":"AF.NG",
+        "iso:code":"AF-NAN",
         "iso:id":"AF-NAN",
         "loc:id":"n86066484",
         "qs_pg:id":1083778,
@@ -368,11 +369,12 @@
         "wd:id":"Q178471",
         "wk:page":"Nangarhar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57bb176851b47faa5db9e5155314d13f",
+    "wof:geomhash":"8f0f99d713e4b22452cbe1b1731e2123",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849238,
+    "wof:lastmodified":1695884356,
     "wof:name":"Nangarhar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

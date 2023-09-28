@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.491595,
-    "geom:area_square_m":58130650318.715309,
+    "geom:area_square_m":58130649521.859276,
     "geom:bbox":"62.549165,29.377217,65.376164,33.374513",
     "geom:latitude":31.106662,
     "geom:longitude":64.031692,
@@ -388,6 +388,7 @@
         "gn:id":1140043,
         "gp:id":2344557,
         "hasc:id":"AF.HM",
+        "iso:code":"AF-HEL",
         "iso:id":"AF-HEL",
         "loc:id":"n86066478",
         "nyt:id":"7252329074938834841",
@@ -396,11 +397,12 @@
         "wd:id":"Q173821",
         "wk:page":"Helmand Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67dd0950ce1b164e952609324346137f",
+    "wof:geomhash":"138d572f870f67708bbda1ab5717d38d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -420,7 +422,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849237,
+    "wof:lastmodified":1695884849,
     "wof:name":"Helmand",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

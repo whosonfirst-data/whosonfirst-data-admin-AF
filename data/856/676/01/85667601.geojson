@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.777234,
-    "geom:area_square_m":17822875310.441387,
+    "geom:area_square_m":17822875071.526272,
     "geom:bbox":"68.001452,35.003337,69.97096,36.576029",
     "geom:latitude":35.802594,
     "geom:longitude":68.912338,
@@ -358,6 +358,7 @@
         "gn:id":1147537,
         "gp:id":2344551,
         "hasc:id":"AF.BL",
+        "iso:code":"AF-BGL",
         "iso:id":"AF-BGL",
         "loc:id":"n2010053592",
         "qs_pg:id":318250,
@@ -365,11 +366,12 @@
         "wd:id":"Q170309",
         "wk:page":"Baghlan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d04d8e68c7e8f2f61b0df46fb0517eff",
+    "wof:geomhash":"4c720859389b311053c64c0c3d6f9d90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +391,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849246,
+    "wof:lastmodified":1695884850,
     "wof:name":"Baghlan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

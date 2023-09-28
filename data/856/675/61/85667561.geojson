@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.106702,
-    "geom:area_square_m":21767629882.704449,
+    "geom:area_square_m":21767628847.995312,
     "geom:bbox":"66.820433,32.070387,68.827944,34.233287",
     "geom:latitude":33.31709,
     "geom:longitude":67.807215,
@@ -367,6 +367,7 @@
         "gn:id":1141268,
         "gp:id":2344555,
         "hasc:id":"AF.GZ",
+        "iso:code":"AF-GHA",
         "iso:id":"AF-GHA",
         "loc:id":"n96087882",
         "qs_pg:id":898608,
@@ -374,11 +375,12 @@
         "wd:id":"Q180415",
         "wk:page":"Ghazni Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"03bb65e31296646996a57a18fafd20f6",
+    "wof:geomhash":"33e6899b1b30588ab88d4677a32b57be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +400,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849233,
+    "wof:lastmodified":1695884847,
     "wof:name":"Ghazni",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

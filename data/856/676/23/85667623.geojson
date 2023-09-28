@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.429519,
-    "geom:area_square_m":4402362019.250435,
+    "geom:area_square_m":4402361917.106862,
     "geom:bbox":"68.714148,33.594167,69.885412,34.367837",
     "geom:latitude":34.013664,
     "geom:longitude":69.168135,
@@ -364,6 +364,7 @@
         "gn:id":1134561,
         "gp:id":2344563,
         "hasc:id":"AF.LW",
+        "iso:code":"AF-LOG",
         "iso:id":"AF-LOG",
         "loc:id":"n86066483",
         "qs_pg:id":984054,
@@ -371,11 +372,12 @@
         "wd:id":"Q6667298",
         "wk:page":"Logar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c306ed552768256170a8f72fbffc6ad",
+    "wof:geomhash":"4f7eeea4cfdc1dc4d8d09bfb0aaffce3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849247,
+    "wof:lastmodified":1695884478,
     "wof:name":"Lowgar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.396987,
-    "geom:area_square_m":43397130678.661659,
+    "geom:area_square_m":43397129596.141655,
     "geom:bbox":"69.989018,35.440006,74.889862,38.490733",
     "geom:latitude":37.038023,
     "geom:longitude":71.456392,
@@ -388,6 +388,7 @@
         "gn:id":1147745,
         "gp:id":2344549,
         "hasc:id":"AF.BD",
+        "iso:code":"AF-BDS",
         "iso:id":"AF-BDS",
         "loc:id":"n83206283",
         "qs_pg:id":318249,
@@ -395,11 +396,12 @@
         "wd:id":"Q165376",
         "wk:page":"Badakhshan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62edf3d133e91f01f37723cae835e5a8",
+    "wof:geomhash":"f64c2d4136cbdf83670e74fad02a1847",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -419,7 +421,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849236,
+    "wof:lastmodified":1695884848,
     "wof:name":"Badakhshan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

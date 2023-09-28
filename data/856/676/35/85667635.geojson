@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.038572,
-    "geom:area_square_m":10608317039.307405,
+    "geom:area_square_m":10608317668.869038,
     "geom:bbox":"67.216966,33.678797,68.9704,34.803576",
     "geom:latitude":34.303652,
     "geom:longitude":68.21707,
@@ -353,6 +353,7 @@
         "gn:id":1121863,
         "gp:id":2344572,
         "hasc:id":"AF.VR",
+        "iso:code":"AF-WAR",
         "iso:id":"AF-WAR",
         "loc:id":"n86066491",
         "qs_pg:id":318257,
@@ -360,11 +361,12 @@
         "wd:id":"Q183056",
         "wk:page":"Maidan Wardak Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"394a7b541a8178db3733b0912ea4567e",
+    "wof:geomhash":"464fa16b50bdf41d3f7d1d7396033afa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849245,
+    "wof:lastmodified":1695884849,
     "wof:name":"Wardak",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

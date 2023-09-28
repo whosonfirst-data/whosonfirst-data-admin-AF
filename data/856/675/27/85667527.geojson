@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.7471,
-    "geom:area_square_m":49442276524.402237,
+    "geom:area_square_m":49442278377.939079,
     "geom:bbox":"60.583154,31.389555,64.748775,33.584412",
     "geom:latitude":32.612823,
     "geom:longitude":62.307327,
@@ -358,6 +358,7 @@
         "gn:id":1142263,
         "gp:id":2344553,
         "hasc:id":"AF.FH",
+        "iso:code":"AF-FRA",
         "iso:id":"AF-FRA",
         "loc:id":"n86066474",
         "qs_pg:id":318251,
@@ -365,11 +366,12 @@
         "wd:id":"Q180330",
         "wk:page":"Farah Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9682d066f34324e47293e05ca9d9307c",
+    "wof:geomhash":"5519683cbb30f3655fd78133f76f9de2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +391,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849235,
+    "wof:lastmodified":1695884848,
     "wof:name":"Farah",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

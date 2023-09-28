@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.451528,
-    "geom:area_square_m":4598199449.612049,
+    "geom:area_square_m":4598199640.428988,
     "geom:bbox":"68.833844,34.144004,69.947566,34.907841",
     "geom:latitude":34.55555,
     "geom:longitude":69.327878,
@@ -370,6 +370,7 @@
         "gn:id":1138957,
         "gp:id":2344559,
         "hasc:id":"AF.KB",
+        "iso:code":"AF-KAB",
         "iso:id":"AF-KAB",
         "loc:id":"n86066481",
         "qs_pg:id":238659,
@@ -377,11 +378,12 @@
         "wd:id":"Q188933",
         "wk:page":"Kabul Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"376330bb91175d4badfdd0b638d1111e",
+    "wof:geomhash":"4735cff4b43b52a617071f10208cad30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +403,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849244,
+    "wof:lastmodified":1695884849,
     "wof:name":"Kabul",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18684,
-    "geom:area_square_m":1893344563.824354,
+    "geom:area_square_m":1893345005.64801,
     "geom:bbox":"69.272849,34.633721,69.928681,35.186329",
     "geom:latitude":34.963352,
     "geom:longitude":69.622227,
@@ -358,6 +358,7 @@
         "gn:id":1138255,
         "gp:id":2344560,
         "hasc:id":"AF.KP",
+        "iso:code":"AF-KAP",
         "iso:id":"AF-KAP",
         "loc:id":"n2005058615",
         "qs_pg:id":229356,
@@ -365,11 +366,12 @@
         "wd:id":"Q173816",
         "wk:page":"Kapisa Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31d8faf558ef5845f70b6c08b0f2593a",
+    "wof:geomhash":"dc2b0a2e8798aa619f91021578bd9c21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +391,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849246,
+    "wof:lastmodified":1695884850,
     "wof:name":"Kapisa",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.289888,
-    "geom:area_square_m":12907513922.260372,
+    "geom:area_square_m":12907514331.613398,
     "geom:bbox":"66.877722,35.344646,68.56777,36.64459",
     "geom:latitude":35.974791,
     "geom:longitude":67.703035,
@@ -352,6 +352,7 @@
         "gn:id":1127766,
         "gp:id":2344577,
         "hasc:id":"AF.SM",
+        "iso:code":"AF-SAM",
         "iso:id":"AF-SAM",
         "loc:id":"n86066489",
         "qs_pg:id":229357,
@@ -359,11 +360,12 @@
         "wd:id":"Q183015",
         "wk:page":"Samangan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a76528811b13847897f2375148c77023",
+    "wof:geomhash":"d8f29466508c93bc3dabecfdd6fd104b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,7 +385,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849246,
+    "wof:lastmodified":1695884850,
     "wof:name":"Samangan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

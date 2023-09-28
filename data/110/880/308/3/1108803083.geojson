@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.626512,
-    "geom:area_square_m":16733284237.27552,
+    "geom:area_square_m":16733283622.6159,
     "geom:bbox":"65.230686,32.924813,67.418489,34.370034",
     "geom:latitude":33.693973,
     "geom:longitude":66.172191,
@@ -272,12 +272,14 @@
     "wof:concordances":{
         "fips:code":"AF41",
         "hasc:id":"AF.DK",
+        "iso:code":"AF-DAY",
         "iso:id":"AF-DAY",
         "wd:id":"Q181220"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:created":1485205489,
-    "wof:geomhash":"ab509a8da6ab413d1c65111f1013e155",
+    "wof:geomhash":"92f514666490d8d834e7d4dedf1df8db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -297,7 +299,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849254,
+    "wof:lastmodified":1695884479,
     "wof:name":"Daikondi",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

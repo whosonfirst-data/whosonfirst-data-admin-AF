@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.803263,
-    "geom:area_square_m":7948847261.290778,
+    "geom:area_square_m":7948847453.191099,
     "geom:bbox":"68.025533,36.305175,69.34717,37.334596",
     "geom:latitude":36.842032,
     "geom:longitude":68.750214,
@@ -393,6 +393,7 @@
         "gn:id":1135690,
         "gp:id":2344570,
         "hasc:id":"AF.KZ",
+        "iso:code":"AF-KDZ",
         "iso:id":"AF-KDZ",
         "loc:id":"n87929913",
         "qs_pg:id":219490,
@@ -400,11 +401,12 @@
         "wd:id":"Q186418",
         "wk:page":"Kunduz Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74d44ec3d769f9e7741b2e578ab3eb72",
+    "wof:geomhash":"d972d53bda278d66b6deeff4fe6b4cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -424,7 +426,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849240,
+    "wof:lastmodified":1695884478,
     "wof:name":"Konduz",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

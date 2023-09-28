@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.760632,
-    "geom:area_square_m":17875154165.711258,
+    "geom:area_square_m":17875155746.056164,
     "geom:bbox":"66.276407,33.90882,68.266523,35.483547",
     "geom:latitude":34.805986,
     "geom:longitude":67.232224,
@@ -373,6 +373,7 @@
         "gn:id":1147239,
         "gp:id":2344552,
         "hasc:id":"AF.BM",
+        "iso:code":"AF-BAM",
         "iso:id":"AF-BAM",
         "loc:id":"n2012029934",
         "qs_pg:id":898607,
@@ -380,11 +381,12 @@
         "wd:id":"Q171382",
         "wk:page":"Bamyan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4aeac4bb37da0ba5d2bdf68d59e4c62",
+    "wof:geomhash":"e131342755db56cbf6c3c91744db5201",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -404,7 +406,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849234,
+    "wof:lastmodified":1695884477,
     "wof:name":"Bamian",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

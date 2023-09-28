@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.888741,
-    "geom:area_square_m":8955654247.389435,
+    "geom:area_square_m":8955653614.475874,
     "geom:bbox":"69.913287,34.904251,71.62143,36.03982",
     "geom:latitude":35.418771,
     "geom:longitude":70.789041,
@@ -379,17 +379,19 @@
         "gn:id":1444363,
         "gp:id":24549937,
         "hasc:id":"AF.NR",
+        "iso:code":"AF-NUR",
         "iso:id":"AF-NUR",
         "qs_pg:id":1164036,
         "unlc:id":"AF-NUR",
         "wd:id":"Q167485",
         "wk:page":"Nuristan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33de25a77bfc4fc3e4915c50b5112fd7",
+    "wof:geomhash":"0b41d573213d96fe377ce34fce6b9048",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -409,7 +411,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849240,
+    "wof:lastmodified":1695884478,
     "wof:name":"Nurestan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
