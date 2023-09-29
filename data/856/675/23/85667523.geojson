@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.498309,
-    "geom:area_square_m":15043220833.235695,
+    "geom:area_square_m":15043221211.519962,
     "geom:bbox":"65.381215,34.869043,67.032027,36.564236",
     "geom:latitude":35.709575,
     "geom:longitude":66.143808,
@@ -346,15 +346,17 @@
         "gn:id":1127106,
         "gp:id":2344578,
         "hasc:id":"AF.SP",
+        "iso:code":"AF-SAR",
         "iso:id":"AF-SAR",
         "qs_pg:id":1134873,
         "wd:id":"Q182487"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"607aa9c79911f196c6ac517f282872ee",
+    "wof:geomhash":"2a4367c99d4450053fd53bdc5d01cb50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -374,7 +376,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849240,
+    "wof:lastmodified":1695884477,
     "wof:name":"Sar-e Pol",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

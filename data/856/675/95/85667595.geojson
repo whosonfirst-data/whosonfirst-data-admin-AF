@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.241239,
-    "geom:area_square_m":12305253479.835169,
+    "geom:area_square_m":12305253533.660706,
     "geom:bbox":"69.174999,35.786735,70.503264,37.619925",
     "geom:latitude":36.700832,
     "geom:longitude":69.780256,
@@ -355,6 +355,7 @@
         "gn:id":1123230,
         "gp:id":2344571,
         "hasc:id":"AF.TK",
+        "iso:code":"AF-TAK",
         "iso:id":"AF-TAK",
         "loc:id":"n86066490",
         "qs_pg:id":219491,
@@ -362,11 +363,12 @@
         "wd:id":"Q186395",
         "wk:page":"Takhar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57ae361063b084229c773b30fb435a3c",
+    "wof:geomhash":"01ebf00ac4366e16fbd9530667f47b64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849234,
+    "wof:lastmodified":1695884848,
     "wof:name":"Takhar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

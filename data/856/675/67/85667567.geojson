@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.830944,
-    "geom:area_square_m":19098692914.7985,
+    "geom:area_square_m":19098692718.44553,
     "geom:bbox":"67.809476,31.5934,69.5466,33.419793",
     "geom:latitude":32.477077,
     "geom:longitude":68.743506,
@@ -334,6 +334,7 @@
         "gn:id":1131256,
         "gp:id":2344574,
         "hasc:id":"AF.PK",
+        "iso:code":"AF-PKA",
         "iso:id":"AF-PKA",
         "loc:id":"n96087300",
         "qs_pg:id":894844,
@@ -341,11 +342,12 @@
         "wd:id":"Q185575",
         "wk:page":"Paktika Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1b5bcd3911d519be8ac5816734f6a905",
+    "wof:geomhash":"8ca2f7208ab3a95b7cd2382108aa6d63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -365,7 +367,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849234,
+    "wof:lastmodified":1695884847,
     "wof:name":"Paktika",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

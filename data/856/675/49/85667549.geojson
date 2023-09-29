@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.101678,
-    "geom:area_square_m":54044181979.047874,
+    "geom:area_square_m":54044181830.861076,
     "geom:bbox":"64.504314,29.529583,67.79608,32.586586",
     "geom:latitude":31.042524,
     "geom:longitude":65.713039,
@@ -361,6 +361,7 @@
         "gn:id":1138335,
         "gp:id":2344569,
         "hasc:id":"AF.KD",
+        "iso:code":"AF-KAN",
         "iso:id":"AF-KAN",
         "loc:id":"n86066487",
         "qs_pg:id":423525,
@@ -368,11 +369,12 @@
         "wd:id":"Q173808",
         "wk:page":"Kandahar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"568b72d809e60a9cbf37da5327c930b4",
+    "wof:geomhash":"79434a79f11d4b95ef55a96eca3f4886",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849241,
+    "wof:lastmodified":1695884849,
     "wof:name":"Kandahar",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

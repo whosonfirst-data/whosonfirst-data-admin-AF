@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.370997,
-    "geom:area_square_m":3737139549.684708,
+    "geom:area_square_m":3737139722.241412,
     "geom:bbox":"69.235599,35.0778,70.301437,35.904266",
     "geom:latitude":35.447451,
     "geom:longitude":69.795889,
@@ -275,12 +275,14 @@
     "wof:concordances":{
         "fips:code":"AF42",
         "hasc:id":"AF.PJ",
+        "iso:code":"AF-PAN",
         "iso:id":"AF-PAN",
         "wd:id":"Q181235"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:created":1485205485,
-    "wof:geomhash":"bdcfa275552127838727df81b39f302c",
+    "wof:geomhash":"b4b42d934b89504e4e284abee202c7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -300,7 +302,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849253,
+    "wof:lastmodified":1695884478,
     "wof:name":"Panjshir",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

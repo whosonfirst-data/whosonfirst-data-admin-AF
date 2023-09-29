@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.900529,
-    "geom:area_square_m":41414078056.582138,
+    "geom:area_square_m":41414076885.424149,
     "geom:bbox":"60.872972,29.388695,63.591315,32.258528",
     "geom:latitude":30.825107,
     "geom:longitude":62.342179,
@@ -364,6 +364,7 @@
         "gn:id":1131821,
         "gp:id":2344565,
         "hasc:id":"AF.NM",
+        "iso:code":"AF-NIM",
         "iso:id":"AF-NIM",
         "loc:id":"n83039494",
         "qs_pg:id":44805,
@@ -371,11 +372,12 @@
         "wd:id":"Q183021",
         "wk:page":"Nimruz Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abec69f6f4148c6271806b9edfabd59d",
+    "wof:geomhash":"811218660e3d877669bc9534f83066f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849238,
+    "wof:lastmodified":1695884478,
     "wof:name":"Nimruz",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

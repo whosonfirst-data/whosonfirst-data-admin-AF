@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.308634,
-    "geom:area_square_m":54288452767.001732,
+    "geom:area_square_m":54288451793.216354,
     "geom:bbox":"60.475769,32.846797,64.482278,35.625266",
     "geom:latitude":34.200257,
     "geom:longitude":62.130624,
@@ -380,6 +380,7 @@
         "gn:id":1140025,
         "gp:id":2344558,
         "hasc:id":"AF.HR",
+        "iso:code":"AF-HER",
         "iso:id":"AF-HER",
         "loc:id":"n86066479",
         "qs_pg:id":235554,
@@ -387,11 +388,12 @@
         "wd:id":"Q182844",
         "wk:page":"Herat Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd1395a86797a81cd3a3ccbdce9260a9",
+    "wof:geomhash":"ce5492e509e02d0d9e3bd7b1fb01187e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -411,7 +413,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849242,
+    "wof:lastmodified":1695884478,
     "wof:name":"Herat",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

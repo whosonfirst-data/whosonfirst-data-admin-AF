@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.049032,
-    "geom:area_square_m":20718064791.436523,
+    "geom:area_square_m":20718064455.773697,
     "geom:bbox":"62.66658,34.511298,65.069072,36.036302",
     "geom:latitude":35.142281,
     "geom:longitude":63.736265,
@@ -374,6 +374,7 @@
         "gn:id":1147707,
         "gp:id":2344550,
         "hasc:id":"AF.BG",
+        "iso:code":"AF-BDG",
         "iso:id":"AF-BDG",
         "loc:id":"n85281890",
         "qs_pg:id":318247,
@@ -381,11 +382,12 @@
         "wd:id":"Q172052",
         "wk:page":"Badghis Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13bd7fe274908df56b9a064913c7bc93",
+    "wof:geomhash":"8f678b538e62cd8e48a24f032968c9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -405,7 +407,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849241,
+    "wof:lastmodified":1695884849,
     "wof:name":"Badghis",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

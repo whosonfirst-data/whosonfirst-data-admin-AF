@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.549385,
-    "geom:area_square_m":5567546307.857023,
+    "geom:area_square_m":5567546253.15949,
     "geom:bbox":"68.187898,34.582656,69.613656,35.423308",
     "geom:latitude":34.95783,
     "geom:longitude":68.885313,
@@ -372,17 +372,19 @@
         "gn:id":6957555,
         "gp:id":56000467,
         "hasc:id":"AF.PV",
+        "iso:code":"AF-PAR",
         "iso:id":"AF-PAR",
         "loc:id":"n2012063624",
         "qs_pg:id":266216,
         "wd:id":"Q181235",
         "wk:page":"Panjshir Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d2182d90855566065ca41f171268e69",
+    "wof:geomhash":"11e4a5074e95f03d66d62f2127ff7bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -402,7 +404,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849245,
+    "wof:lastmodified":1695884850,
     "wof:name":"Parwan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

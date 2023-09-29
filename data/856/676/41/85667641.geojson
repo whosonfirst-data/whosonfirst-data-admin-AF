@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.513306,
-    "geom:area_square_m":5284643375.664299,
+    "geom:area_square_m":5284644821.898712,
     "geom:bbox":"68.76411,33.149136,70.00841,34.088072",
     "geom:latitude":33.632171,
     "geom:longitude":69.388239,
@@ -365,17 +365,19 @@
         "gn:id":1131257,
         "gp:id":2344567,
         "hasc:id":"AF.PT",
+        "iso:code":"AF-PIA",
         "iso:id":"AF-PIA",
         "loc:id":"n85302301",
         "qs_pg:id":1083780,
         "wd:id":"Q182493",
         "wk:page":"Paktia Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17f7de85d6f92bd967d971b46b4dd319",
+    "wof:geomhash":"a9c3b53a380e8e57a532d52326ad4f35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849247,
+    "wof:lastmodified":1695884478,
     "wof:name":"Paktia",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

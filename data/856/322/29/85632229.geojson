@@ -1346,6 +1346,7 @@
         "hasc:id":"AF",
         "icao:code":"TA",
         "ioc:id":"AFG",
+        "iso:code":"AF",
         "itu:id":"AFG",
         "loc:id":"n79063030",
         "m49:code":"004",
@@ -1360,6 +1361,7 @@
         "wk:page":"Afghanistan",
         "wmo:id":"AF"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:country_alpha3":"AFG",
     "wof:geom_alt":[
@@ -1386,7 +1388,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1694639519,
+    "wof:lastmodified":1695881174,
     "wof:name":"Afghanistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

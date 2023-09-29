@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.4155,
-    "geom:area_square_m":4290329920.758226,
+    "geom:area_square_m":4290329190.911459,
     "geom:bbox":"69.346721,33.018066,70.32848,33.73867",
     "geom:latitude":33.3774,
     "geom:longitude":69.833503,
@@ -367,17 +367,19 @@
         "gn:id":1444362,
         "gp:id":24550741,
         "hasc:id":"AF.KT",
+        "iso:code":"AF-KHO",
         "iso:id":"AF-KHO",
         "qs_pg:id":502949,
         "unlc:id":"AF-KHO",
         "wd:id":"Q185752",
         "wk:page":"Khost Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4a0ccea2dd70d7b4fdb3079e5065210",
+    "wof:geomhash":"7daadd68d9d10c5dab14371c8378506e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -397,7 +399,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849239,
+    "wof:lastmodified":1695884478,
     "wof:name":"Khowst",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

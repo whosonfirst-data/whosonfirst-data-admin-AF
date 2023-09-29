@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.047475,
-    "geom:area_square_m":20465347446.020042,
+    "geom:area_square_m":20465347732.135616,
     "geom:bbox":"63.887745,35.163069,65.814702,37.250934",
     "geom:latitude":36.061614,
     "geom:longitude":64.875,
@@ -370,6 +370,7 @@
         "gn:id":1142226,
         "gp:id":2344554,
         "hasc:id":"AF.FB",
+        "iso:code":"AF-FYB",
         "iso:id":"AF-FYB",
         "loc:id":"n86066475",
         "qs_pg:id":984053,
@@ -377,11 +378,12 @@
         "wd:id":"Q173830",
         "wk:page":"Faryab Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32de682473aa1342a38a20edd98b4176",
+    "wof:geomhash":"968e056d4e468a87fe3aa26c8866b409",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +403,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849237,
+    "wof:lastmodified":1695884848,
     "wof:name":"Faryab",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

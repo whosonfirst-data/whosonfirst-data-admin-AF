@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.612441,
-    "geom:area_square_m":36951168669.458633,
+    "geom:area_square_m":36951167556.619629,
     "geom:bbox":"63.195479,33.122484,66.732421,35.283199",
     "geom:latitude":34.18124,
     "geom:longitude":64.930517,
@@ -357,6 +357,7 @@
         "gn:id":1141103,
         "gp:id":2344556,
         "hasc:id":"AF.GR",
+        "iso:code":"AF-GHO",
         "iso:id":"AF-GHO",
         "loc:id":"n86066476",
         "qs_pg:id":898609,
@@ -364,11 +365,12 @@
         "wd:id":"Q186392",
         "wk:page":"Ghor Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67a0792c7d6b4ccfeb0af886e89dc576",
+    "wof:geomhash":"5a2a8ae3c4c2b5364e29ca339312e434",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -388,7 +390,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849236,
+    "wof:lastmodified":1695884477,
     "wof:name":"Ghowr",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

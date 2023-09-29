@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.1404,
-    "geom:area_square_m":11287582008.125549,
+    "geom:area_square_m":11287582149.239574,
     "geom:bbox":"65.16,35.904955,66.575976,37.550763",
     "geom:latitude":36.823812,
     "geom:longitude":65.849992,
@@ -361,6 +361,7 @@
         "gn:id":1139049,
         "gp:id":2344576,
         "hasc:id":"AF.JW",
+        "iso:code":"AF-JOW",
         "iso:id":"AF-JOW",
         "loc:id":"n86066480",
         "qs_pg:id":1354562,
@@ -368,11 +369,12 @@
         "wd:id":"Q183036",
         "wk:page":"Jowzjan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5dfd075551507b4be832be1c265e390",
+    "wof:geomhash":"3c253b500122954422dc9a7bf95e0e02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849241,
+    "wof:lastmodified":1695884477,
     "wof:name":"Jowzjan",
     "wof:parent_id":85632229,
     "wof:placetype":"region",

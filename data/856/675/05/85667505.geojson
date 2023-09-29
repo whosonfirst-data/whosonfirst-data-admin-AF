@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.690412,
-    "geom:area_square_m":16765464977.879686,
+    "geom:area_square_m":16765464050.842033,
     "geom:bbox":"66.253066,35.669505,68.205631,37.398494",
     "geom:latitude":36.66814,
     "geom:longitude":67.078223,
@@ -370,6 +370,7 @@
         "gn:id":1147288,
         "gp:id":2344575,
         "hasc:id":"AF.BK",
+        "iso:code":"AF-BAL",
         "iso:id":"AF-BAL",
         "loc:id":"n98034057",
         "qs_pg:id":241192,
@@ -377,11 +378,12 @@
         "wd:id":"Q121104",
         "wk:page":"Balkh Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AF",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f089587f719d3bfbd5ff832e90d37e80",
+    "wof:geomhash":"84146e8ecbe3ed8be7cdcc4c28a6cc18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +403,7 @@
         "tuk",
         "bal"
     ],
-    "wof:lastmodified":1690849235,
+    "wof:lastmodified":1695884356,
     "wof:name":"Balkh",
     "wof:parent_id":85632229,
     "wof:placetype":"region",
