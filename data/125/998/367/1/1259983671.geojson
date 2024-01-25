@@ -42,6 +42,12 @@
     "name:swe_x_preferred":[
         "Darkhan"
     ],
+    "name:und_x_variant":[
+        "\u1e0ea\u1e5fkh\u0101n",
+        "Da\u012bkhan",
+        "Darkh\u0101n",
+        "\u062f\u0631\u062e\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +58,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1467968
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1144299
+        ]
     },
     "wof:country":"AF",
     "wof:geomhash":"cc31cbfa734a99fbeff75eebcdbc94ca",
@@ -65,13 +76,15 @@
         }
     ],
     "wof:id":1259983671,
-    "wof:lastmodified":1566583969,
+    "wof:lastmodified":1706219586,
     "wof:name":"Darkhan",
     "wof:parent_id":1108561821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310705817
+    ],
     "wof:tags":[]
 },
   "bbox": [

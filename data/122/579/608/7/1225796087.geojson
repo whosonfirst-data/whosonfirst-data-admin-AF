@@ -10,6 +10,7 @@
     "geom:latitude":33.02333,
     "geom:longitude":67.39583,
     "gn:admin1_code":"28",
+    "gn:admin2_code":"607",
     "gn:asciiname":"Sar-e Qadi",
     "gn:country_code":"AF",
     "gn:dem":2596,
@@ -29,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sar-e Q\u0101\u1e0fi",
+        "Sar-e Q\u0101\u1e95\u012b",
+        "Sar-e Q\u0101d\u012b",
+        "\u0633\u0631 \u0642\u0627\u062f\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1450718
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1127101
+        ]
     },
     "wof:country":"AF",
     "wof:geomhash":"4e636a78f1585f5442badeb9bf224785",
@@ -52,13 +64,15 @@
         }
     ],
     "wof:id":1225796087,
-    "wof:lastmodified":1566584552,
+    "wof:lastmodified":1706219585,
     "wof:name":"Sar-e Qadi",
     "wof:parent_id":1108562091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310096027
+    ],
     "wof:tags":[]
 },
   "bbox": [
