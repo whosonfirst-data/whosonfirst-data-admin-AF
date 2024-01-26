@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1424375
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1424271
+        ]
+    },
     "wof:country":"AF",
     "wof:geomhash":"1f5c392c3c0817b8f1eac569d5816561",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1260385681,
-    "wof:lastmodified":1566582987,
+    "wof:lastmodified":1706239300,
     "wof:name":"Sinjitak",
     "wof:parent_id":1108562397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276223943
+    ],
     "wof:tags":[]
 },
   "bbox": [

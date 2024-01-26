@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"67.50289,35.96623,67.50289,35.96623",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u012brak\u012b",
@@ -47,7 +49,7 @@
         "gn:id":1120592
     },
     "wof:country":"AF",
-    "wof:geomhash":"b89676a48d81d71f2566582a9643abc0",
+    "wof:geomhash":"bb3afa0ba4e4e1bd0f7309a4b02cde8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +60,22 @@
         }
     ],
     "wof:id":1310354551,
-    "wof:lastmodified":1566583210,
+    "wof:lastmodified":1706239299,
     "wof:name":"Ziraki",
     "wof:parent_id":1108561937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209660959
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    67.50289000000001,
+    67.50289,
     35.96623,
-    67.50289000000001,
+    67.50289,
     35.96623
 ],
-  "geometry": {"coordinates":[67.50289000000001,35.96623],"type":"Point"}
+  "geometry": {"coordinates":[67.50288999999999,35.96623],"type":"Point"}
 }

@@ -12,6 +12,7 @@
     "gn:admin1_code":"2",
     "gn:admin2_code":"1907.0",
     "gn:asciiname":"Deh-e Babula'i",
+    "gn:cc2":"AF",
     "gn:country_code":"AF",
     "gn:dem":596,
     "gn:feature_class":"P",
@@ -51,6 +52,11 @@
         "gn:id":1147769,
         "wk:page":"Babula%27i"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1400630
+        ]
+    },
     "wof:country":"AF",
     "wof:geomhash":"0add3bf4135acd9272524d41bd660c79",
     "wof:hierarchy":[
@@ -63,13 +69,15 @@
         }
     ],
     "wof:id":1309812225,
-    "wof:lastmodified":1566583500,
+    "wof:lastmodified":1706239301,
     "wof:name":"Deh-e Babula'i",
     "wof:parent_id":1108562287,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343966653
+    ],
     "wof:tags":[]
 },
   "bbox": [

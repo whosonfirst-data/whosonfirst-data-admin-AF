@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1134882
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1444031
+        ]
+    },
     "wof:country":"AF",
     "wof:geomhash":"7749dbc185793d3c10d8e71ef714a5bf",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226638411,
-    "wof:lastmodified":1566584484,
+    "wof:lastmodified":1706239299,
     "wof:name":"Laman",
     "wof:parent_id":1108562047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343850469
+    ],
     "wof:tags":[]
 },
   "bbox": [

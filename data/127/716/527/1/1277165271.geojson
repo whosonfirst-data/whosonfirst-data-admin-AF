@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"61.92682,35.00396,61.92682,35.00396",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u016btaci",
@@ -48,7 +50,7 @@
         "gn:id":1122042
     },
     "wof:country":"AF",
-    "wof:geomhash":"02cf8ae55bf4fc32976407d0cbbcfa41",
+    "wof:geomhash":"a5ea781ca740ef18864ec4f4733e6885",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1277165271,
-    "wof:lastmodified":1566582682,
+    "wof:lastmodified":1706239299,
     "wof:name":"Tutachi",
     "wof:parent_id":1108562051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226730863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    61.92681999999999,
+    61.92682,
     35.00396,
-    61.92681999999999,
+    61.92682,
     35.00396
 ],
-  "geometry": {"coordinates":[61.92681999999999,35.00396],"type":"Point"}
+  "geometry": {"coordinates":[61.92682,35.00396],"type":"Point"}
 }

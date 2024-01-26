@@ -30,6 +30,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kham-e J\u0101r\u016bf\u012b",
+        "\u062e\u0645 \u062c\u0627\u0631\u0648\u0641\u06cc",
+        "Kham-e J\u0101\u1e5f\u016bfi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1474924
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1137217
+        ]
     },
     "wof:country":"AF",
     "wof:geomhash":"dfc4d0dc33cc66cf7ff5fa9d95d4452d",
@@ -53,13 +63,15 @@
         }
     ],
     "wof:id":1243253161,
-    "wof:lastmodified":1566583743,
+    "wof:lastmodified":1706239300,
     "wof:name":"Kham-e Jarufi",
     "wof:parent_id":1108562549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276975779
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,8 +45,13 @@
     "wof:concordances":{
         "gn:id":1394210
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1122042
+        ]
+    },
     "wof:country":"AF",
-    "wof:geomhash":"d47c4d41a6e57850549afa38155d9278",
+    "wof:geomhash":"d398f3ddf8e79b0c15d241d85faf2afd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +62,22 @@
         }
     ],
     "wof:id":1226730863,
-    "wof:lastmodified":1566584254,
+    "wof:lastmodified":1706239299,
     "wof:name":"Tutachi",
     "wof:parent_id":1108562051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277165271
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    61.92916999999999,
+    61.92917,
     35.00333,
-    61.92916999999999,
+    61.92917,
     35.00333
 ],
-  "geometry": {"coordinates":[61.92916999999999,35.00333],"type":"Point"}
+  "geometry": {"coordinates":[61.92917,35.00333],"type":"Point"}
 }

@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1443018
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7475419
+        ]
+    },
     "wof:country":"AF",
     "wof:geomhash":"1c2a75c5d27c85cd353306bade62a5a4",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1293351803,
-    "wof:lastmodified":1566582369,
+    "wof:lastmodified":1706239300,
     "wof:name":"Ghulam Sadiq Kala",
     "wof:parent_id":1108562309,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343323353
+    ],
     "wof:tags":[]
 },
   "bbox": [

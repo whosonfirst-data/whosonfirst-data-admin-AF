@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"69.14638,34.79846,69.14638,34.79846",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0642\u0644\u0639\u06c0 \u0641\u0631\u0647\u0627\u0686"
@@ -54,7 +56,7 @@
         "gn:id":1130164
     },
     "wof:country":"AF",
-    "wof:geomhash":"8b1071d758a6c7b719624c79db85cad9",
+    "wof:geomhash":"25b9d21e240589362d939a2ea844c448",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +67,22 @@
         }
     ],
     "wof:id":1309977631,
-    "wof:lastmodified":1566583395,
+    "wof:lastmodified":1706239300,
     "wof:name":"Qal'ah-ye Farhad",
     "wof:parent_id":1108562117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276411595
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    69.14638000000001,
+    69.14638,
     34.79846,
-    69.14638000000001,
+    69.14638,
     34.79846
 ],
-  "geometry": {"coordinates":[69.14638000000001,34.79846],"type":"Point"}
+  "geometry": {"coordinates":[69.14637999999999,34.79846],"type":"Point"}
 }
