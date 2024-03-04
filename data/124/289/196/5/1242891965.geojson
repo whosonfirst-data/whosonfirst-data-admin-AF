@@ -12,6 +12,7 @@
     "gn:admin1_code":"19",
     "gn:admin2_code":"2202.0",
     "gn:asciiname":"Deh-e Now",
+    "gn:cc2":"AF",
     "gn:country_code":"AF",
     "gn:dem":478,
     "gn:feature_class":"P",
@@ -33,6 +34,10 @@
     "name:fas_x_preferred":[
         "\u062f\u0647 \u0646\u0648"
     ],
+    "name:und_x_variant":[
+        "\u1e0eehe Naw",
+        "Deh-e Now"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6651074
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1143430
+        ]
     },
     "wof:country":"AF",
     "wof:geomhash":"454b6a3ecb5252ff3191a5a8c0a4d151",
@@ -56,13 +66,15 @@
         }
     ],
     "wof:id":1242891965,
-    "wof:lastmodified":1566583619,
+    "wof:lastmodified":1706219585,
     "wof:name":"Deh-e Now",
     "wof:parent_id":1108562129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326595397
+    ],
     "wof:tags":[]
 },
   "bbox": [

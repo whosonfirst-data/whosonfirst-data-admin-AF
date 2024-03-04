@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":1126251
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1444001
+        ]
+    },
     "wof:country":"AF",
-    "wof:geomhash":"e698c17401c96efd241bf49c9f71e02f",
+    "wof:geomhash":"bc2a0e5ebf624f0501089d7fcf646cdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1276466003,
-    "wof:lastmodified":1566582633,
+    "wof:lastmodified":1706219586,
     "wof:name":"Saydal",
     "wof:parent_id":1108562047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343754281
+    ],
     "wof:tags":[]
 },
   "bbox": [
     63.57516,
-    32.51309000000001,
+    32.51309,
     63.57516,
-    32.51309000000001
+    32.51309
 ],
-  "geometry": {"coordinates":[63.57516,32.51309000000001],"type":"Point"}
+  "geometry": {"coordinates":[63.57516,32.51309],"type":"Point"}
 }

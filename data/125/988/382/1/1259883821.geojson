@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1467969
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1125934
+        ]
+    },
     "wof:country":"AF",
     "wof:geomhash":"d1738c06a6d388654a23e101c60ede7c",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259883821,
-    "wof:lastmodified":1566584161,
+    "wof:lastmodified":1706219586,
     "wof:name":"Shah Mari",
     "wof:parent_id":1108561821,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293014549
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "Karam Sh\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u0645 \u0634\u0627\u0647",
+        "Karamsh\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Karam",
+        "M\u0101kak\u012b",
+        "\u0645\u0627\u06a9\u06a9\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1436276
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1113137
+        ]
     },
     "wof:country":"AF",
     "wof:geomhash":"b13c6933fdad558de78502db3d339c78",
@@ -53,13 +70,15 @@
         }
     ],
     "wof:id":1309771585,
-    "wof:lastmodified":1566583409,
+    "wof:lastmodified":1706219586,
     "wof:name":"Makaki",
     "wof:parent_id":1108562129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-af",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310270331
+    ],
     "wof:tags":[]
 },
   "bbox": [
